@@ -3066,7 +3066,7 @@
       "$id": 509,
       "<8C7DD24D>": "<E829ED2A>",
       "<554EE944>": 79,
-      "<DBAF43F0>": "Boosts damage dealt by\nUnity Combos by [ML:EnhanceParam paramtype=1 ]%."
+      "<DBAF43F0>": "Boosts damage dealt by\nUnion Combos by [ML:EnhanceParam paramtype=1 ]%."
     },
     {
       "$id": 510,
@@ -3216,7 +3216,7 @@
       "$id": 534,
       "<8C7DD24D>": "<F7D68247>",
       "<554EE944>": 79,
-      "<DBAF43F0>": "Fills the Unity pairing's Special gauge\nby [ML:EnhanceParam paramtype=1 ]% at start of battle."
+      "<DBAF43F0>": "Fills the Union pairing's Special gauge\nby [ML:EnhanceParam paramtype=1 ]% at start of battle."
     },
     {
       "$id": 535,

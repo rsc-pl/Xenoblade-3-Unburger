@@ -48,7 +48,7 @@
       "$id": 6,
       "<8C7DD24D>": "<3881FF4D>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Ogre"
+      "<DBAF43F0>": "Crusher"
     },
     {
       "$id": 7,
@@ -66,19 +66,19 @@
       "$id": 9,
       "<8C7DD24D>": "<DA27F1C8>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Strategos"
+      "<DBAF43F0>": "Strategist"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<8D48C32C>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Troubadour"
+      "<DBAF43F0>": "Gagaku Performer"
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<E6C6F2C1>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Seraph"
+      "<DBAF43F0>": "Warrior"
     },
     {
       "$id": 12,
@@ -90,7 +90,7 @@
       "$id": 13,
       "<8C7DD24D>": "<768FB36E>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Lifesage"
+      "<DBAF43F0>": "Life Shrine Maiden"
     },
     {
       "$id": 14,
@@ -114,19 +114,19 @@
       "$id": 17,
       "<8C7DD24D>": "<918AAF04>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Thaumaturge"
+      "<DBAF43F0>": "Alchemist"
     },
     {
       "$id": 18,
       "<8C7DD24D>": "<73D87903>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Incursor"
+      "<DBAF43F0>": "Attack Knight"
     },
     {
       "$id": 19,
       "<8C7DD24D>": "<FAC9AADB>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Stalker"
+      "<DBAF43F0>": "Phantom Archer"
     },
     {
       "$id": 20,
@@ -144,7 +144,7 @@
       "$id": 22,
       "<8C7DD24D>": "<81733F59>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Signifer"
+      "<DBAF43F0>": "Aries"
     },
     {
       "$id": 23,

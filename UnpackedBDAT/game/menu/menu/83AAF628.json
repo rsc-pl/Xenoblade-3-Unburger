@@ -162,7 +162,7 @@
       "$id": 25,
       "<8C7DD24D>": "<63E65902>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "QUICK-SAVING..."
+      "<DBAF43F0>": "QUICK SAVE..."
     },
     {
       "$id": 26,
@@ -186,13 +186,13 @@
       "$id": 29,
       "<8C7DD24D>": "<986C52FF>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Traversal Skills"
+      "<DBAF43F0>": "Field Skills"
     },
     {
       "$id": 30,
       "<8C7DD24D>": "<E6EECF5D>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Affinity Bonuses"
+      "<DBAF43F0>": "Bonding Bonuses"
     },
     {
       "$id": 31,
@@ -246,19 +246,19 @@
       "$id": 39,
       "<8C7DD24D>": "<FCAC7F28>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Scree Walking"
+      "<DBAF43F0>": "Sand Spike"
     },
     {
       "$id": 40,
       "<8C7DD24D>": "<B139274F>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Hazard Neutralization"
+      "<DBAF43F0>": "Hazard Resist"
     },
     {
       "$id": 41,
       "<8C7DD24D>": "<F8BE2C28>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Locked Traversal Skill"
+      "<DBAF43F0>": "Locked Sand Spike"
     },
     {
       "$id": 42,
@@ -312,7 +312,7 @@
       "$id": 50,
       "<8C7DD24D>": "<C056B6CF>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Auto-Saving..."
+      "<DBAF43F0>": "Auto Saving"
     },
     {
       "$id": 51,
@@ -360,13 +360,13 @@
       "$id": 58,
       "<8C7DD24D>": "<7C241745>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "EXP"
+      "<DBAF43F0>": "LEVEL EXP"
     },
     {
       "$id": 59,
       "<8C7DD24D>": "<49688511>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "CP"
+      "<DBAF43F0>": "CLASS EXP"
     },
     {
       "$id": 60,
@@ -390,7 +390,7 @@
       "$id": 63,
       "<8C7DD24D>": "<FA076F79>",
       "<554EE944>": 9,
-      "<DBAF43F0>": "Navigation On"
+      "<DBAF43F0>": "Navi On"
     },
     {
       "$id": 64,
@@ -564,7 +564,7 @@
       "$id": 92,
       "<8C7DD24D>": "<CA89BBE9>",
       "<554EE944>": 9,
-      "<DBAF43F0>": "Affinity Scene"
+      "<DBAF43F0>": "Bonding Scene"
     },
     {
       "$id": 93,
@@ -654,7 +654,7 @@
       "$id": 107,
       "<8C7DD24D>": "<F62E659B>",
       "<554EE944>": 13,
-      "<DBAF43F0>": "Affinity Grew Deeper!"
+      "<DBAF43F0>": "Bonding Grew Deeper!"
     },
     {
       "$id": 108,
@@ -672,7 +672,7 @@
       "$id": 110,
       "<8C7DD24D>": "<B910BD2B>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "COMPLETE"
+      "<DBAF43F0>": "CLEAR"
     }
   ]
 }

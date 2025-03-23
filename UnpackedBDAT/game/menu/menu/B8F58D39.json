@@ -186,25 +186,25 @@
       "$id": 29,
       "<8C7DD24D>": "<4F09C6DB>",
       "<554EE944>": 23,
-      "<DBAF43F0>": "REACTIVATION"
+      "<DBAF43F0>": "RETURN MEMBER"
     },
     {
       "$id": 30,
       "<8C7DD24D>": "<2B90B586>",
       "<554EE944>": 23,
-      "<DBAF43F0>": "REACTIVATION"
+      "<DBAF43F0>": "RETURN MEMBER"
     },
     {
       "$id": 31,
       "<8C7DD24D>": "<49BC6A0C>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "OVERKILL!"
+      "<DBAF43F0>": "OVER KILL"
     },
     {
       "$id": 32,
       "<8C7DD24D>": "<6282F0FA>",
       "<554EE944>": 23,
-      "<DBAF43F0>": "CHAIN ATTACK COMPLETE"
+      "<DBAF43F0>": "CHAIN ATTACK FINISH"
     },
     {
       "$id": 33,
@@ -222,13 +222,13 @@
       "$id": 35,
       "<8C7DD24D>": "<E25F0E89>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "CHAIN ORDERS"
+      "<DBAF43F0>": "CHAIN ORDER"
     },
     {
       "$id": 36,
       "<8C7DD24D>": "<A09284E3>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "OUROBOROS ORDERS"
+      "<DBAF43F0>": "UROBOROS ORDER"
     },
     {
       "$id": 37,
@@ -390,13 +390,13 @@
       "$id": 63,
       "<8C7DD24D>": "<0C37858F>",
       "<554EE944>": 9,
-      "<DBAF43F0>": "OVERHEATED"
+      "<DBAF43F0>": "OVER HEAT"
     },
     {
       "$id": 64,
       "<8C7DD24D>": "<DC29EFCE>",
       "<554EE944>": 9,
-      "<DBAF43F0>": "COOLDOWN"
+      "<DBAF43F0>": "COOL DOWN"
     },
     {
       "$id": 65,
@@ -414,7 +414,7 @@
       "$id": 67,
       "<8C7DD24D>": "<77B5D17F>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "SOUL HACKED"
+      "<DBAF43F0>": "SOUL HACK"
     },
     {
       "$id": 68,
@@ -432,25 +432,25 @@
       "$id": 70,
       "<8C7DD24D>": "<213C0AE1>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "AMAZING!"
+      "<DBAF43F0>": "AMAZING"
     },
     {
       "$id": 71,
       "<8C7DD24D>": "<3961E46A>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "BRAVO!"
+      "<DBAF43F0>": "BRAVO"
     },
     {
       "$id": 72,
       "<8C7DD24D>": "<BF77556F>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "COOL!"
+      "<DBAF43F0>": "COOL"
     },
     {
       "$id": 73,
       "<8C7DD24D>": "<0307A483>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Tactical Points"
+      "<DBAF43F0>": "Tactical Point"
     },
     {
       "$id": 74,
@@ -462,31 +462,31 @@
       "$id": 75,
       "<8C7DD24D>": "<7C7AB548>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Order Log"
+      "<DBAF43F0>": "Order Record"
     },
     {
       "$id": 76,
       "<8C7DD24D>": "<0A3E68DC>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "First Blood"
+      "<DBAF43F0>": "First Point"
     },
     {
       "$id": 77,
       "<8C7DD24D>": "<A930B924>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Point Limit"
+      "<DBAF43F0>": "Limit Point"
     },
     {
       "$id": 78,
       "<8C7DD24D>": "<27194E77>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Back in Action"
+      "<DBAF43F0>": "Best Returner"
     },
     {
       "$id": 79,
       "<8C7DD24D>": "<BAF63121>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Heroic Chain"
+      "<DBAF43F0>": "Hero Chain"
     },
     {
       "$id": 80,
@@ -510,7 +510,7 @@
       "$id": 83,
       "<8C7DD24D>": "<2CAE6159>",
       "<554EE944>": 7,
-      "<DBAF43F0>": "AUTO-BATTLE"
+      "<DBAF43F0>": "AUTO PLAY"
     },
     {
       "$id": 84,
@@ -552,7 +552,7 @@
       "$id": 90,
       "<8C7DD24D>": "<333E1D4B>",
       "<554EE944>": 5,
-      "<DBAF43F0>": "BEGIN!"
+      "<DBAF43F0>": "START"
     },
     {
       "$id": 91,
@@ -588,19 +588,19 @@
       "$id": 96,
       "<8C7DD24D>": "<36E09E5E>",
       "<554EE944>": 7,
-      "<DBAF43F0>": "YOU FAILED..."
+      "<DBAF43F0>": "FAILURE"
     },
     {
       "$id": 97,
       "<8C7DD24D>": "<60EC83B2>",
       "<554EE944>": 7,
-      "<DBAF43F0>": "END"
+      "<DBAF43F0>": "FINISH"
     },
     {
       "$id": 98,
       "<8C7DD24D>": "<74A45810>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "EVENT"
+      "<DBAF43F0>": "HAPPENING"
     },
     {
       "$id": 99,
@@ -648,7 +648,7 @@
       "$id": 106,
       "<8C7DD24D>": "<7E577E93>",
       "<554EE944>": 9,
-      "<DBAF43F0>": "Challenge Title"
+      "<DBAF43F0>": "Challenge Name"
     },
     {
       "$id": 107,
@@ -786,7 +786,7 @@
       "$id": 129,
       "<8C7DD24D>": "<2773F52B>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Launch Charge"
+      "<DBAF43F0>": "Rising Charge"
     },
     {
       "$id": 130,
@@ -834,7 +834,7 @@
       "$id": 137,
       "<8C7DD24D>": "<71CA8DA2>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "LAUNCH CHARGE"
+      "<DBAF43F0>": "RISING CHARGE"
     },
     {
       "$id": 138,
@@ -858,19 +858,19 @@
       "$id": 141,
       "<8C7DD24D>": "<9C191065>",
       "<554EE944>": 10,
-      "<DBAF43F0>": "Auto-Attacks"
+      "<DBAF43F0>": "Auto-Attack"
     },
     {
       "$id": 142,
       "<8C7DD24D>": "<4BF86FAE>",
       "<554EE944>": 10,
-      "<DBAF43F0>": "Chain Attacks"
+      "<DBAF43F0>": "Chain Attack"
     },
     {
       "$id": 143,
       "<8C7DD24D>": "<15989661>",
       "<554EE944>": 10,
-      "<DBAF43F0>": "Reactions/Debuffs"
+      "<DBAF43F0>": "Reaction/Debuff"
     },
     {
       "$id": 144,
@@ -984,7 +984,7 @@
       "$id": 162,
       "<8C7DD24D>": "<F053FBA5>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "No-KO Bonus"
+      "<DBAF43F0>": "No Death Bonus"
     },
     {
       "$id": 163,
@@ -1014,7 +1014,7 @@
       "$id": 167,
       "<8C7DD24D>": "<F96D2DF6>",
       "<554EE944>": 5,
-      "<DBAF43F0>": "UNITY"
+      "<DBAF43F0>": "UNION"
     },
     {
       "$id": 168,
@@ -1032,7 +1032,7 @@
       "$id": 170,
       "<8C7DD24D>": "<32F81F35>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "UNITY ORDERS"
+      "<DBAF43F0>": "UNION ORDER"
     }
   ]
 }

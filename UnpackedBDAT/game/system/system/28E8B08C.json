@@ -936,7 +936,7 @@
       "$id": 154,
       "<8C7DD24D>": "<6096027C>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Irma's Secret Base"
+      "<DBAF43F0>": "Ichika's Secret Base"
     },
     {
       "$id": 155,
@@ -2298,7 +2298,7 @@
       "$id": 381,
       "<8C7DD24D>": "<CED5F141>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Urayan Tunnels, Entrance"
+      "<DBAF43F0>": "Invidian Tunnels, Entrance"
     },
     {
       "$id": 382,
@@ -2334,13 +2334,13 @@
       "$id": 387,
       "<8C7DD24D>": "<9A3E2B38>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Urayan Tunnels"
+      "<DBAF43F0>": "Invidian Tunnels"
     },
     {
       "$id": 388,
       "<8C7DD24D>": "<D1AFDA45>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Great Cotte Falls"
+      "<DBAF43F0>": "Great Conté Falls"
     },
     {
       "$id": 389,
@@ -2352,19 +2352,19 @@
       "$id": 390,
       "<8C7DD24D>": "<B0C9BCFD>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "High Maktha Wildwood"
+      "<DBAF43F0>": "High Morukuna Wildwood"
     },
     {
       "$id": 391,
       "<8C7DD24D>": "<05F6CAC9>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Low Maktha Wildwood"
+      "<DBAF43F0>": "Low Morukuna Wildwood"
     },
     {
       "$id": 392,
       "<8C7DD24D>": "<B2D73966>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Urayan Trail"
+      "<DBAF43F0>": "Invidian Trail"
     },
     {
       "$id": 393,
@@ -2472,13 +2472,13 @@
       "$id": 410,
       "<8C7DD24D>": "<6168C8E1>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Cotte Outlook"
+      "<DBAF43F0>": "Conté Outlook"
     },
     {
       "$id": 411,
       "<8C7DD24D>": "<7970D172>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Cotte Trick Ruins"
+      "<DBAF43F0>": "Conté Trick Ruins"
     },
     {
       "$id": 412,
@@ -2592,7 +2592,7 @@
       "$id": 430,
       "<8C7DD24D>": "<874E7C28>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Cross-Maktha Elevator"
+      "<DBAF43F0>": "Cross-Morukuna Elevator"
     },
     {
       "$id": 431,
@@ -2604,7 +2604,7 @@
       "$id": 432,
       "<8C7DD24D>": "<47CD9B74>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Gingin's Treehouse"
+      "<DBAF43F0>": "Gin's Treehouse"
     },
     {
       "$id": 433,
@@ -2748,7 +2748,7 @@
       "$id": 456,
       "<8C7DD24D>": "<823286EA>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Cotte Fountainhead"
+      "<DBAF43F0>": "Conté Fountainhead"
     },
     {
       "$id": 457,
@@ -2838,7 +2838,7 @@
       "$id": 471,
       "<8C7DD24D>": "<EC9CF354>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "First Ixia Bridge"
+      "<DBAF43F0>": "First Rouia Bridge"
     },
     {
       "$id": 472,
@@ -2850,7 +2850,7 @@
       "$id": 473,
       "<8C7DD24D>": "<BD5CDED8>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Second Ixia Bridge"
+      "<DBAF43F0>": "Second Rouia Bridge"
     },
     {
       "$id": 474,
@@ -2886,7 +2886,7 @@
       "$id": 479,
       "<8C7DD24D>": "<2D61B7B3>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Third Ixia Bridge"
+      "<DBAF43F0>": "Third Rouia Bridge"
     },
     {
       "$id": 480,
@@ -2898,7 +2898,7 @@
       "$id": 481,
       "<8C7DD24D>": "<6D4B17FC>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Fourth Ixia Bridge"
+      "<DBAF43F0>": "Fourth Rouia Bridge"
     },
     {
       "$id": 482,
@@ -3108,19 +3108,19 @@
       "$id": 516,
       "<8C7DD24D>": "<6011124C>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Arsenal #1"
+      "<DBAF43F0>": "Ferronis Assnal #1"
     },
     {
       "$id": 517,
       "<8C7DD24D>": "<5E7C8BA2>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Arsenal #2"
+      "<DBAF43F0>": "Ferronis Assnal #2"
     },
     {
       "$id": 518,
       "<8C7DD24D>": "<ED847F62>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Arsenal #3"
+      "<DBAF43F0>": "Ferronis Assnal #3"
     },
     {
       "$id": 519,
@@ -3132,31 +3132,31 @@
       "$id": 520,
       "<8C7DD24D>": "<C0A81B3F>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Arsenal #1: E. Gate"
+      "<DBAF43F0>": "Ferronis Assnal #1: E. Gate"
     },
     {
       "$id": 521,
       "<8C7DD24D>": "<E845BE71>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Arsenal #1: S. Gate"
+      "<DBAF43F0>": "Ferronis Assnal #1: S. Gate"
     },
     {
       "$id": 522,
       "<8C7DD24D>": "<AF3E98E3>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Arsenal #3: N. Gate"
+      "<DBAF43F0>": "Ferronis Assnal #3: N. Gate"
     },
     {
       "$id": 523,
       "<8C7DD24D>": "<4C4BA44D>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Arsenal #3: E. Gate"
+      "<DBAF43F0>": "Ferronis Assnal #3: E. Gate"
     },
     {
       "$id": 524,
       "<8C7DD24D>": "<D1E28FF7>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Arsenal Control Room"
+      "<DBAF43F0>": "Assnal Control Room"
     },
     {
       "$id": 525,

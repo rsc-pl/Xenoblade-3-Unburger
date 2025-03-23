@@ -162,7 +162,7 @@
       "$id": 25,
       "<8C7DD24D>": "<626519A3>",
       "<554EE944>": 44,
-      "<DBAF43F0>": "Use Butterfly Blade"
+      "<DBAF43F0>": "Use Butterfly Edge"
     },
     {
       "$id": 26,
@@ -966,7 +966,7 @@
       "$id": 159,
       "<8C7DD24D>": "<87E006B6>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Segiri's Class"
+      "<DBAF43F0>": "Nagiri's Class"
     },
     {
       "$id": 160,
@@ -1008,43 +1008,43 @@
       "$id": 166,
       "<8C7DD24D>": "<812E1051>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Class: Ogre - Role: Attacker. Has powerful solo attacks.\nCan nullify an enemy's guard with their Stance Art. Pivot\nto offense only after a Defender has the enemy's aggro."
+      "<DBAF43F0>": "Class: Crusher - Role: Attacker. Has powerful solo attacks.\nCan nullify an enemy's guard with their Stance Art. Pivot\nto offense only after a Defender has the enemy's aggro."
     },
     {
       "$id": 167,
       "<8C7DD24D>": "<52D88D00>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Alexandria's Class"
+      "<DBAF43F0>": "Niina's Class"
     },
     {
       "$id": 168,
       "<8C7DD24D>": "<05B508DF>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Class: Incursor - Role: Attacker\nDamage increases with each critical hit, but beware,\nas the damage bonus resets upon incapacitation."
+      "<DBAF43F0>": "Class: Attack Knight - Role: Attacker\nDamage increases with each critical hit, but beware,\nas the damage bonus resets upon incapacitation."
     },
     {
       "$id": 169,
       "<8C7DD24D>": "<995916A2>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Juniper's Class"
+      "<DBAF43F0>": "Yuzuriha's Class"
     },
     {
       "$id": 170,
       "<8C7DD24D>": "<3F277F11>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Class: Stalker - Role: Attacker. Deals low damage to\nindividual targets, but excels at managing aggro. Work\nwith allies to make good use of the Art Follow-Up fields."
+      "<DBAF43F0>": "Class: Phantom Archer - Role: Attacker. Deals low damage to\nindividual targets, but excels at managing aggro. Work\nwith allies to make good use of the Art Follow-Up fields."
     },
     {
       "$id": 171,
       "<8C7DD24D>": "<8A2FB524>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Cammuravi's Class"
+      "<DBAF43F0>": "Kamunabi's Class"
     },
     {
       "$id": 172,
       "<8C7DD24D>": "<A9E72F6D>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Class: Seraph - Role: Attacker\nBecomes more powerful with each hit taken. Utilize\nself-damaging Arts to maintain high attack power."
+      "<DBAF43F0>": "Class: Warrior - Role: Attacker\nBecomes more powerful with each hit taken. Utilize\nself-damaging Arts to maintain high attack power."
     },
     {
       "$id": 173,
@@ -1062,7 +1062,7 @@
       "$id": 175,
       "<8C7DD24D>": "<95F13090>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Triton's Class"
+      "<DBAF43F0>": "Triden's Class"
     },
     {
       "$id": 176,
@@ -1074,7 +1074,7 @@
       "$id": 177,
       "<8C7DD24D>": "<71A6EFE9>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Triton himself wields some unique Arts and skills, with\nvarious ways to raise his Attack, making him an explosive\nAttacker indeed."
+      "<DBAF43F0>": "Triden himself wields some unique Arts and skills, with\nvarious ways to raise his Attack, making him an explosive\nAttacker indeed."
     },
     {
       "$id": 178,
@@ -1098,7 +1098,7 @@
       "$id": 181,
       "<8C7DD24D>": "<83E8D6A5>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Valdi's Class"
+      "<DBAF43F0>": "Rudi's Class"
     },
     {
       "$id": 182,
@@ -1122,13 +1122,13 @@
       "$id": 185,
       "<8C7DD24D>": "<00275720>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Isurd's Class"
+      "<DBAF43F0>": "Isurugi's Class"
     },
     {
       "$id": 186,
       "<8C7DD24D>": "<95B6E87C>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Class: Strategos - Role: Healer\nPossesses Arts that heal allies and weaken enemies.\nA highly versatile class with many aces up their sleeve."
+      "<DBAF43F0>": "Class: Strategist - Role: Healer\nPossesses Arts that heal allies and weaken enemies.\nA highly versatile class with many aces up their sleeve."
     },
     {
       "$id": 187,
@@ -1140,19 +1140,19 @@
       "$id": 188,
       "<8C7DD24D>": "<D954CCA8>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Class: Thaumaturge - Role: Healer. Has both healing\nand offensive options. Aim to keep allies healed during\na combo with an Art that uses Armor Veil."
+      "<DBAF43F0>": "Class: Alchemist - Role: Healer. Has both healing\nand offensive options. Aim to keep allies healed during\na combo with an Art that uses Armor Veil."
     },
     {
       "$id": 189,
       "<8C7DD24D>": "<A06AD61A>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Fiona's Class"
+      "<DBAF43F0>": "Mashiro's Class"
     },
     {
       "$id": 190,
       "<8C7DD24D>": "<067D9F9D>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Class: Signifer - Role: Healer\nA unique Healer that applies random buffs to allies,\nand can strengthen the whole party with Arts."
+      "<DBAF43F0>": "Class: Aries - Role: Healer\nA unique Healer that applies random buffs to allies,\nand can strengthen the whole party with Arts."
     },
     {
       "$id": 191,
@@ -1164,7 +1164,7 @@
       "$id": 192,
       "<8C7DD24D>": "<10361822>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Class: Troubadour - Role: Healer. A unique Healer\nthat can speed up allies' Art recharge speed. Their\nTalent Art fully recharges every Art of every ally."
+      "<DBAF43F0>": "Class: Gagaku Performer - Role: Healer. A unique Healer\nthat can speed up allies' Art recharge speed. Their\nTalent Art fully recharges every Art of every ally."
     },
     {
       "$id": 193,
@@ -1176,7 +1176,7 @@
       "$id": 194,
       "<8C7DD24D>": "<D0996572>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Class: Lifesage - Role: Healer. The strongest of the\nHealer classes, able to support the entire party. Heals\nallies while dealing defense-ignoring damage to enemies."
+      "<DBAF43F0>": "Class: Life Shrine Maiden - Role: Healer. The strongest of the\nHealer classes, able to support the entire party. Heals\nallies while dealing defense-ignoring damage to enemies."
     },
     {
       "$id": 195,
@@ -1692,7 +1692,7 @@
       "$id": 280,
       "<8C7DD24D>": "<46D0CEA8>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Affinity Level"
+      "<DBAF43F0>": "Bonding Level"
     },
     {
       "$id": 281,
@@ -1704,13 +1704,13 @@
       "$id": 282,
       "<8C7DD24D>": "<5EE1D823>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "The Affinity Chart"
+      "<DBAF43F0>": "The Bonding Chart"
     },
     {
       "$id": 283,
       "<8C7DD24D>": "<FFD06B5D>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "You can check how various people in a colony get along\nwith each other by using the Affinity Chart. It also shows\nyou a basic profile for each person."
+      "<DBAF43F0>": "You can check how various people in a colony get along\nwith each other by using the Bonding Chart. It also shows\nyou a basic profile for each person."
     },
     {
       "$id": 284,
@@ -1788,13 +1788,13 @@
       "$id": 296,
       "<8C7DD24D>": "<2D4A350E>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Affinity Bonuses"
+      "<DBAF43F0>": "Bonding Bonuses"
     },
     {
       "$id": 297,
       "<8C7DD24D>": "<C9C0596E>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Raising your affinity with a colony grants affinity bonuses\nthat make your adventure easier. Go to Party Skills > \nAffinity Bonuses to see the bonuses you have unlocked."
+      "<DBAF43F0>": "Raising your affinity with a colony grants affinity bonuses\nthat make your adventure easier. Go to Party Skills > \nBonding Bonuses to see the bonuses you have unlocked."
     },
     {
       "$id": 298,
@@ -1806,7 +1806,7 @@
       "$id": 299,
       "<8C7DD24D>": "<9D3186F0>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "This is a traversal skill that Valdi taught the party. It lets\nyou climb up walls even without the use of ladders."
+      "<DBAF43F0>": "This is a traversal skill that Rudi taught the party. It lets\nyou climb up walls even without the use of ladders."
     },
     {
       "$id": 300,
@@ -1818,7 +1818,7 @@
       "$id": 301,
       "<8C7DD24D>": "<7757091C>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "This is a traversal skill that Juniper taught the party. It lets\nyou grind on ropes set up on the field, allowing you\nto descend smoothly and quickly from high places."
+      "<DBAF43F0>": "This is a traversal skill that Yuzuriha taught the party. It lets\nyou grind on ropes set up on the field, allowing you\nto descend smoothly and quickly from high places."
     },
     {
       "$id": 302,
@@ -1830,7 +1830,7 @@
       "$id": 303,
       "<8C7DD24D>": "<07DB027E>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "This is a traversal skill that Teach taught the party.\nIt lets you move up certain slopes without sliding down."
+      "<DBAF43F0>": "This is a traversal skill that Shidou taught the party.\nIt lets you move up certain slopes without sliding down."
     },
     {
       "$id": 304,
@@ -1842,7 +1842,7 @@
       "$id": 305,
       "<8C7DD24D>": "<D8FDBCDD>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "This is a traversal skill that Segiri taught the party.\nIt allows you to run over poisonous surfaces\nwithout taking damage."
+      "<DBAF43F0>": "This is a traversal skill that Nagiri taught the party.\nIt allows you to run over poisonous surfaces\nwithout taking damage."
     },
     {
       "$id": 306,
@@ -2616,7 +2616,7 @@
       "$id": 434,
       "<8C7DD24D>": "<A63D8489>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "With \"The Art of Flow\" taught to you by Juniper, you can\ncancel Arts into other Arts without using Fusion Arts."
+      "<DBAF43F0>": "With \"The Art of Flow\" taught to you by Yuzuriha, you can\ncancel Arts into other Arts without using Fusion Arts."
     },
     {
       "$id": 435,
@@ -3600,7 +3600,7 @@
       "$id": 598,
       "<8C7DD24D>": "<B7F8E8BE>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "At rest spots, Masha can craft accessories using\nEnigmatter, which can be traded for in the Land of\nChallenge, in the pages' shops."
+      "<DBAF43F0>": "At rest spots, Matia can craft accessories using\nEnigmatter, which can be traded for in the Land of\nChallenge, in the pages' shops."
     },
     {
       "$id": 599,
@@ -3972,7 +3972,7 @@
       "$id": 660,
       "<8C7DD24D>": "<B2C709D0>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Masha's Class"
+      "<DBAF43F0>": "Matia's Class"
     },
     {
       "$id": 661,
@@ -4086,7 +4086,7 @@
       "$id": 679,
       "<8C7DD24D>": "<F9573F68>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Enraged enemies pack a much harder punch than normal.\nYou can temporarily purge the rage status by completing\na Burst combo, available via certain Unity Combos."
+      "<DBAF43F0>": "Enraged enemies pack a much harder punch than normal.\nYou can temporarily purge the rage status by completing\na Burst combo, available via certain Union Combos."
     },
     {
       "$id": 680,
@@ -4098,19 +4098,19 @@
       "$id": 681,
       "<8C7DD24D>": "<E2AE33D3>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Affinity Goals"
+      "<DBAF43F0>": "Bonding Goals"
     },
     {
       "$id": 682,
       "<8C7DD24D>": "<E4682B8E>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "In Future Redeemed, leveling up isn't the only way to\nstrengthen Matthew and his crew. Accomplishing Affinity\nGoals and spending the Affinity Points they grant is another."
+      "<DBAF43F0>": "In Future Redeemed, leveling up isn't the only way to\nstrengthen Matthew and his crew. Accomplishing Bonding\nGoals and spending the Bonding Points they grant is another."
     },
     {
       "$id": 683,
       "<8C7DD24D>": "<E2572064>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Affinity Goals are split into six categories, and are achieved\nin the field and in battle. Achieving them grants Affinity\nPoints, which can be spent to empower party characters."
+      "<DBAF43F0>": "Bonding Goals are split into six categories, and are achieved\nin the field and in battle. Achieving them grants Bonding\nPoints, which can be spent to empower party characters."
     },
     {
       "$id": 684,
@@ -4122,7 +4122,7 @@
       "$id": 685,
       "<8C7DD24D>": "<6B06CC41>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Earn Affinity Points by discovering treasure troves and\nlocations in the various areas of the world, and so on."
+      "<DBAF43F0>": "Earn Bonding Points by discovering treasure troves and\nlocations in the various areas of the world, and so on."
     },
     {
       "$id": 686,
@@ -4134,19 +4134,19 @@
       "$id": 687,
       "<8C7DD24D>": "<8F2ED747>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Earn Affinity Points in battle by defeating Unique Monsters\nthat inhabit locations around the world, among other ways."
+      "<DBAF43F0>": "Earn Bonding Points in battle by defeating Unique Monsters\nthat inhabit locations around the world, among other ways."
     },
     {
       "$id": 688,
       "<8C7DD24D>": "<B6964510>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Affinity Scenes"
+      "<DBAF43F0>": "Bonding Scenes"
     },
     {
       "$id": 689,
       "<8C7DD24D>": "<44502DAC>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Earn Affinity Points by viewing events that can occur at\nvarious locations in the world of Aionios. These let you\nlisten to the party's conversation while enjoying the view."
+      "<DBAF43F0>": "Earn Bonding Points by viewing events that can occur at\nvarious locations in the world of Aionios. These let you\nlisten to the party's conversation while enjoying the view."
     },
     {
       "$id": 690,
@@ -4158,7 +4158,7 @@
       "$id": 691,
       "<8C7DD24D>": "<D4A5FAF8>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Earn Affinity Points by gathering collectibles in each area\nof the world and registering them in the Collectopaedia."
+      "<DBAF43F0>": "Earn Bonding Points by gathering collectibles in each area\nof the world and registering them in the Collectopaedia."
     },
     {
       "$id": 692,
@@ -4170,7 +4170,7 @@
       "$id": 693,
       "<8C7DD24D>": "<28D82B98>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Earn Affinity Points by defeating a set number of the many\nmonsters that populate the various areas of the world."
+      "<DBAF43F0>": "Earn Bonding Points by defeating a set number of the many\nmonsters that populate the various areas of the world."
     },
     {
       "$id": 694,
@@ -4182,7 +4182,7 @@
       "$id": 695,
       "<8C7DD24D>": "<4909E9BE>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Earn Affinity Points by meeting residents of the various\nareas of Aionios and completing Community Tasks."
+      "<DBAF43F0>": "Earn Bonding Points by meeting residents of the various\nareas of Aionios and completing Community Tasks."
     },
     {
       "$id": 696,
@@ -4254,19 +4254,19 @@
       "$id": 707,
       "<8C7DD24D>": "<57392AC7>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Unity Combos"
+      "<DBAF43F0>": "Union Combos"
     },
     {
       "$id": 708,
       "<8C7DD24D>": "<19B25704>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "In Future Redeemed, two party characters are able\nto strike in unison to perform what's called a Special.\nA paired set of characters is called a \"Unity pairing\"."
+      "<DBAF43F0>": "In Future Redeemed, two party characters are able\nto strike in unison to perform what's called a Special.\nA paired set of characters is called a \"Union pairing\"."
     },
     {
       "$id": 709,
       "<8C7DD24D>": "<31A9F3C6>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Hitting a launched enemy with a Special will trigger\na Unity Combo."
+      "<DBAF43F0>": "Hitting a launched enemy with a Special will trigger\na Union Combo."
     },
     {
       "$id": 710,
@@ -4278,19 +4278,19 @@
       "$id": 711,
       "<8C7DD24D>": "<27089957>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Once the gauge is charged, press [ML:icon icon=btn_left ] to use a Special.\nUse [ML:icon icon=btn_zl ] + [ML:icon icon=btn_x ], [ML:icon icon=btn_y ] or [ML:icon icon=btn_b ] to trigger the other Unity pairings'\nSpecials."
+      "<DBAF43F0>": "Once the gauge is charged, press [ML:icon icon=btn_left ] to use a Special.\nUse [ML:icon icon=btn_zl ] + [ML:icon icon=btn_x ], [ML:icon icon=btn_y ] or [ML:icon icon=btn_b ] to trigger the other Union pairings'\nSpecials."
     },
     {
       "$id": 712,
       "<8C7DD24D>": "<B0D04434>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Unity Combos differ depending on the specific pairing\nin terms of damage, area of effect, and more. Additionally,\nthey always inflict either Smash, Burst or Blowdown."
+      "<DBAF43F0>": "Union Combos differ depending on the specific pairing\nin terms of damage, area of effect, and more. Additionally,\nthey always inflict either Smash, Burst or Blowdown."
     },
     {
       "$id": 713,
       "<8C7DD24D>": "<BBEBD65E>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Furthermore, the two party members who perform one will\nreceive the Awakening buff. Use Unity Combos at every\nopportunity to make battles go your way!"
+      "<DBAF43F0>": "Furthermore, the two party members who perform one will\nreceive the Awakening buff. Use Union Combos at every\nopportunity to make battles go your way!"
     },
     {
       "$id": 714,
@@ -4308,67 +4308,67 @@
       "$id": 716,
       "<8C7DD24D>": "<B0E6D370>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Chain Attacks in Future Redeemed differ from the main\ngame in four ways: 1. Unity Orders replace Ouroboros\nOrders. 2. Accessories can change completion bonuses."
+      "<DBAF43F0>": "Chain Attacks in Future Redeemed differ from the main\ngame in four ways: 1. Union Orders replace Ouroboros\nOrders. 2. Accessories can change completion bonuses."
     },
     {
       "$id": 717,
       "<8C7DD24D>": "<68BD470C>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "3. Accessories can set Heroic Chain effects.\n(If none are equipped, these will trigger based on role.)\n4. Each Unity Combo used will raise the initial damage ratio."
+      "<DBAF43F0>": "3. Accessories can set Heroic Chain effects.\n(If none are equipped, these will trigger based on role.)\n4. Each Union Combo used will raise the initial damage ratio."
     },
     {
       "$id": 718,
       "<8C7DD24D>": "<B1D187BD>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Unity Orders"
+      "<DBAF43F0>": "Union Orders"
     },
     {
       "$id": 719,
       "<8C7DD24D>": "<70B5C63B>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "If you can complete Chain Orders from both of the\ncharacters forming a Unity pairing in one Chain Attack,\na Unity Order will be displayed."
+      "<DBAF43F0>": "If you can complete Chain Orders from both of the\ncharacters forming a Union pairing in one Chain Attack,\na Union Order will be displayed."
     },
     {
       "$id": 720,
       "<8C7DD24D>": "<813B835F>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Selecting a Unity Order will end the Chain Attack, but\nit will let the pairing perform their Special in return."
+      "<DBAF43F0>": "Selecting a Union Order will end the Chain Attack, but\nit will let the pairing perform their Special in return."
     },
     {
       "$id": 721,
       "<8C7DD24D>": "<5B6AACC5>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Unity Setup"
+      "<DBAF43F0>": "Union Setup"
     },
     {
       "$id": 722,
       "<8C7DD24D>": "<CFFC1250>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "You can now customize your Unity pairings. To do so,\ngo to the main menu > Unity and press [ML:icon icon=btn_y ]."
+      "<DBAF43F0>": "You can now customize your Union pairings. To do so,\ngo to the main menu > Union and press [ML:icon icon=btn_y ]."
     },
     {
       "$id": 723,
       "<8C7DD24D>": "<4A03CDA3>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "The combination of characters you choose will affect their\nUnity Skill and the specifics of their Unity Combo.\nTry finding the pairings that best suit your battle needs!"
+      "<DBAF43F0>": "The combination of characters you choose will affect their\nUnion Skill and the specifics of their Union Combo.\nTry finding the pairings that best suit your battle needs!"
     },
     {
       "$id": 724,
       "<8C7DD24D>": "<E7CDDA8E>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Affinity Growth"
+      "<DBAF43F0>": "Bonding Growth"
     },
     {
       "$id": 725,
       "<8C7DD24D>": "<B92DFDA1>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Go to main menu > Characters > Affinity Growth to use\nearned Affinity Points to make party characters stronger."
+      "<DBAF43F0>": "Go to main menu > Characters > Bonding Growth to use\nearned Bonding Points to make party characters stronger."
     },
     {
       "$id": 726,
       "<8C7DD24D>": "<C9E0C1A1>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Affinity Points are shared by the entire party. Furthermore,\nonly one tier of purchasable abilities will be available from\nthe start. Specific items are needed to unlock further tiers."
+      "<DBAF43F0>": "Bonding Points are shared by the entire party. Furthermore,\nonly one tier of purchasable abilities will be available from\nthe start. Specific items are needed to unlock further tiers."
     },
     {
       "$id": 727,
@@ -4452,19 +4452,19 @@
       "$id": 740,
       "<8C7DD24D>": "<A277F780>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Additionally, Affinity Growth and weapon strengthening\nare not available to Na'el. You can, however, customize\nher accessories and gems like a normal party member."
+      "<DBAF43F0>": "Additionally, Bonding Growth and weapon strengthening\nare not available to Na'el. You can, however, customize\nher accessories and gems like a normal party member."
     },
     {
       "$id": 741,
       "<8C7DD24D>": "<027B2040>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Use Affinity Points to grow"
+      "<DBAF43F0>": "Use Bonding Points to grow"
     },
     {
       "$id": 742,
       "<8C7DD24D>": "<72BA73CE>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Execute a Unity Combo"
+      "<DBAF43F0>": "Execute a Union Combo"
     },
     {
       "$id": 743,
@@ -4488,13 +4488,13 @@
       "$id": 746,
       "<8C7DD24D>": "<89B42EDD>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Let's move to the Affinity Growth screen.\nFirst, select \"Characters\"."
+      "<DBAF43F0>": "Let's move to the Bonding Growth screen.\nFirst, select \"Characters\"."
     },
     {
       "$id": 747,
       "<8C7DD24D>": "<FB2620FA>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Now, select \"Affinity Growth\"."
+      "<DBAF43F0>": "Now, select \"Bonding Growth\"."
     },
     {
       "$id": 748,
@@ -4506,13 +4506,13 @@
       "$id": 749,
       "<8C7DD24D>": "<E27D21C1>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "You can buy more nodes if you have the Affinity Points.\nThe locked tiers can be opened by using unlock kits."
+      "<DBAF43F0>": "You can buy more nodes if you have the Bonding Points.\nThe locked tiers can be opened by using unlock kits."
     },
     {
       "$id": 750,
       "<8C7DD24D>": "<9625C0BD>",
       "<554EE944>": 29,
-      "<DBAF43F0>": "[ML:icon icon=pad_up_down ]: Select \"Affinity Growth\" / [ML:icon icon=btn_a ]: Confirm"
+      "<DBAF43F0>": "[ML:icon icon=pad_up_down ]: Select \"Bonding Growth\" / [ML:icon icon=btn_a ]: Confirm"
     },
     {
       "$id": 751,
@@ -4530,7 +4530,7 @@
       "$id": 753,
       "<8C7DD24D>": "<627B3959>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "In Future Redeemed, certain special key items called\nUnlock Kits can be used to unlock Art, accessory and gem\nslots and to raise Affinity-related character growth limits."
+      "<DBAF43F0>": "In Future Redeemed, certain special key items called\nUnlock Kits can be used to unlock Art, accessory and gem\nslots and to raise Bonding-related character growth limits."
     },
     {
       "$id": 754,
@@ -4572,7 +4572,7 @@
       "$id": 760,
       "<8C7DD24D>": "<AC039C0E>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "If you're finding your enemies a bit too strong, you can try\ngaining a few experience levels, or spending Affinity Points.\nBe sure to look at what accessories you have equipped, too."
+      "<DBAF43F0>": "If you're finding your enemies a bit too strong, you can try\ngaining a few experience levels, or spending Bonding Points.\nBe sure to look at what accessories you have equipped, too."
     },
     {
       "$id": 761,
@@ -4602,7 +4602,7 @@
       "$id": 765,
       "<8C7DD24D>": "<24F4E9AA>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Having trouble with a strong enemy? Try raising your level\nor spending Affinity Points. You can also take a look at the\nArts, gems and accessories you've got equipped."
+      "<DBAF43F0>": "Having trouble with a strong enemy? Try raising your level\nor spending Bonding Points. You can also take a look at the\nArts, gems and accessories you've got equipped."
     },
     {
       "$id": 766,
@@ -4692,31 +4692,31 @@
       "$id": 780,
       "<8C7DD24D>": "<A7B94D31>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "If you're having a hard time beating him, return to Aionios\nto raise your level and make the most of Affinity Growth.\nYou can also review your Arts, accessories and gems."
+      "<DBAF43F0>": "If you're having a hard time beating him, return to Aionios\nto raise your level and make the most of Bonding Growth.\nYou can also review your Arts, accessories and gems."
     },
     {
       "$id": 781,
       "<8C7DD24D>": "<CDEDA192>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Set up Unity pairings"
+      "<DBAF43F0>": "Set up Union pairings"
     },
     {
       "$id": 782,
       "<8C7DD24D>": "<703F6C0D>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "First, select Unity."
+      "<DBAF43F0>": "First, select Union."
     },
     {
       "$id": 783,
       "<8C7DD24D>": "<12ECB646>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Next, open Unity Setup."
+      "<DBAF43F0>": "Next, open Union Setup."
     },
     {
       "$id": 784,
       "<8C7DD24D>": "<E0005495>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "For the first Unity pairing, try pairing up\nMatthew and Nikol."
+      "<DBAF43F0>": "For the first Union pairing, try pairing up\nMatthew and Nikol."
     },
     {
       "$id": 785,
@@ -4740,25 +4740,25 @@
       "$id": 788,
       "<8C7DD24D>": "<1C02538A>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "You can now confirm the three chosen Unity pairings.\nOnce you've looked them over, select \"Confirm\"."
+      "<DBAF43F0>": "You can now confirm the three chosen Union pairings.\nOnce you've looked them over, select \"Confirm\"."
     },
     {
       "$id": 789,
       "<8C7DD24D>": "<50039F6F>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Unity Combos and Skills differ based on the pairings.\nBe sure to experiment with all sorts of setups!"
+      "<DBAF43F0>": "Union Combos and Skills differ based on the pairings.\nBe sure to experiment with all sorts of setups!"
     },
     {
       "$id": 790,
       "<8C7DD24D>": "<89FD9E04>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "[ML:icon icon=pad_up_down ]: Select \"Unity\" / [ML:icon icon=btn_a ]: Confirm"
+      "<DBAF43F0>": "[ML:icon icon=pad_up_down ]: Select \"Union\" / [ML:icon icon=btn_a ]: Confirm"
     },
     {
       "$id": 791,
       "<8C7DD24D>": "<F89662E2>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "[ML:icon icon=btn_y ]: Unity Setup"
+      "<DBAF43F0>": "[ML:icon icon=btn_y ]: Union Setup"
     },
     {
       "$id": 792,
@@ -4824,7 +4824,7 @@
       "$id": 802,
       "<8C7DD24D>": "<E8D3FD6B>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Aionios is a great big world, with strong monsters lurking in\nmost of its many corners. Be sure to explore it thoroughly\nand hit all the Affinity Goals you can!"
+      "<DBAF43F0>": "Aionios is a great big world, with strong monsters lurking in\nmost of its many corners. Be sure to explore it thoroughly\nand hit all the Bonding Goals you can!"
     },
     {
       "$id": 803,
@@ -4854,19 +4854,19 @@
       "$id": 807,
       "<8C7DD24D>": "<667F2DA9>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Types of Affinity Goals"
+      "<DBAF43F0>": "Types of Bonding Goals"
     },
     {
       "$id": 808,
       "<8C7DD24D>": "<018879F1>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Check your Affinity Goals"
+      "<DBAF43F0>": "Check your Bonding Goals"
     },
     {
       "$id": 809,
       "<8C7DD24D>": "<3C697CA2>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Let's check the details of your Affinity Goals.\nFirst, select \"Affinity Goals\"."
+      "<DBAF43F0>": "Let's check the details of your Bonding Goals.\nFirst, select \"Bonding Goals\"."
     },
     {
       "$id": 810,
@@ -4884,13 +4884,13 @@
       "$id": 812,
       "<8C7DD24D>": "<50C8ECEF>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Affinity Goals are a key feature of Future Redeemed.\nAlways keep them in mind as you explore Aionios."
+      "<DBAF43F0>": "Bonding Goals are a key feature of Future Redeemed.\nAlways keep them in mind as you explore Aionios."
     },
     {
       "$id": 813,
       "<8C7DD24D>": "<ECEE3401>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "[ML:icon icon=pad_up_down ]: Select \"Affinity Goals\" / [ML:icon icon=btn_a ]: Confirm"
+      "<DBAF43F0>": "[ML:icon icon=pad_up_down ]: Select \"Bonding Goals\" / [ML:icon icon=btn_a ]: Confirm"
     },
     {
       "$id": 814,
@@ -4908,7 +4908,7 @@
       "$id": 816,
       "<8C7DD24D>": "<2C4C96B1>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Unity Indicators"
+      "<DBAF43F0>": "Union Indicators"
     },
     {
       "$id": 817,
@@ -4932,7 +4932,7 @@
       "$id": 820,
       "<8C7DD24D>": "<CD7636C6>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "When you have Collectopaedia entries you can complete,\nan icon will appear in the screen's top right. Remember to\nfill up your Collectopaedia as you go to gain Affinity Points!"
+      "<DBAF43F0>": "When you have Collectopaedia entries you can complete,\nan icon will appear in the screen's top right. Remember to\nfill up your Collectopaedia as you go to gain Bonding Points!"
     },
     {
       "$id": 821,
@@ -5148,19 +5148,19 @@
       "$id": 856,
       "<8C7DD24D>": "<236D91B5>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Affinity Scenes 2"
+      "<DBAF43F0>": "Bonding Scenes 2"
     },
     {
       "$id": 857,
       "<8C7DD24D>": "<19FB915D>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "You may discover locations in the world which can trigger\nan \"Affinity Scene\". These allow you to admire the scenery\nwhile your companions enjoy a little chat."
+      "<DBAF43F0>": "You may discover locations in the world which can trigger\nan \"Bonding Scene\". These allow you to admire the scenery\nwhile your companions enjoy a little chat."
     },
     {
       "$id": 858,
       "<8C7DD24D>": "<32332679>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "You can trigger an Affinity Scene by approaching its\nlocation and holding down [ML:icon icon=btn_zr ] to start it."
+      "<DBAF43F0>": "You can trigger an Bonding Scene by approaching its\nlocation and holding down [ML:icon icon=btn_zr ] to start it."
     },
     {
       "$id": 859,
@@ -5172,7 +5172,7 @@
       "$id": 860,
       "<8C7DD24D>": "<1A19AA3B>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "The people Matthew and his group encounter in the world\nand build relations with are added to your Community.\nAdding people to your Community grants Affinity Points."
+      "<DBAF43F0>": "The people Matthew and his group encounter in the world\nand build relations with are added to your Community.\nAdding people to your Community grants Bonding Points."
     },
     {
       "$id": 861,
@@ -5190,7 +5190,7 @@
       "$id": 863,
       "<8C7DD24D>": "<84C6D717>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Once you've unlocked the opportunity to deepen affinity,\nspeak to that character to strengthen your bond, changing\ntheir icon in Community and granting extra Affinity Points."
+      "<DBAF43F0>": "Once you've unlocked the opportunity to deepen affinity,\nspeak to that character to strengthen your bond, changing\ntheir icon in Community and granting extra Bonding Points."
     },
     {
       "$id": 864,
@@ -5268,31 +5268,31 @@
       "$id": 876,
       "<8C7DD24D>": "<6EF021AE>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Through having obtained the Growth Reset Kit,\nyou can now reset your characters' Affinity Growth,\nrefunding any Affinity Points you may have spent."
+      "<DBAF43F0>": "Through having obtained the Growth Reset Kit,\nyou can now reset your characters' Bonding Growth,\nrefunding any Bonding Points you may have spent."
     },
     {
       "$id": 877,
       "<8C7DD24D>": "<0DD14AEF>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "You can do this by going to the main menu > Characters >\nAffinity Growth and pressing [ML:icon icon=btn_minus ]. You can do this as many\ntimes as you want - the item will not be expended."
+      "<DBAF43F0>": "You can do this by going to the main menu > Characters >\nBonding Growth and pressing [ML:icon icon=btn_minus ]. You can do this as many\ntimes as you want - the item will not be expended."
     },
     {
       "$id": 878,
       "<8C7DD24D>": "<74860EB1>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Strengthening Unity"
+      "<DBAF43F0>": "Strengthening Union"
     },
     {
       "$id": 879,
       "<8C7DD24D>": "<FD0F1E27>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Each item you collect from the \"Lessons in Unity\" series\nempowers a particular Unity pairing. A golden border\naround the icon indicates pairings that are empowered."
+      "<DBAF43F0>": "Each item you collect from the \"Lessons in Union\" series\nempowers a particular Union pairing. A golden border\naround the icon indicates pairings that are empowered."
     },
     {
       "$id": 880,
       "<8C7DD24D>": "<03123892>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Empowering a Unity pairing increases the impact of their\nUnity Combo and the effect of their Unity Skill. Be sure to\nreview your Unity pairings after finding one of these items."
+      "<DBAF43F0>": "Empowering a Union pairing increases the impact of their\nUnion Combo and the effect of their Union Skill. Be sure to\nreview your Union pairings after finding one of these items."
     },
     {
       "$id": 881,
@@ -5328,7 +5328,7 @@
       "$id": 886,
       "<8C7DD24D>": "<66D8E501>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Attacking enemy groups head-on is dangerous. It's usually\nbetter to lure away solitary enemies and defeat them solo.\nDon't forget to level up and cash in Affinity Growth, either."
+      "<DBAF43F0>": "Attacking enemy groups head-on is dangerous. It's usually\nbetter to lure away solitary enemies and defeat them solo.\nDon't forget to level up and cash in Bonding Growth, either."
     },
     {
       "$id": 887,
@@ -6030,13 +6030,13 @@
       "$id": 1003,
       "<8C7DD24D>": "<CDD1649A>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Let's change Lanz's class to \"Ogre\"."
+      "<DBAF43F0>": "Let's change Lanz's class to \"Crusher\"."
     },
     {
       "$id": 1004,
       "<8C7DD24D>": "<871F078B>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "[ML:icon icon=btn_r ]: Select Lanz / [ML:icon icon=btn_key_pad ]: Select \"Ogre\" / [ML:icon icon=btn_a ]: Confirm"
+      "<DBAF43F0>": "[ML:icon icon=btn_r ]: Select Lanz / [ML:icon icon=btn_key_pad ]: Select \"Crusher\" / [ML:icon icon=btn_a ]: Confirm"
     },
     {
       "$id": 1005,
@@ -6078,13 +6078,13 @@
       "$id": 1011,
       "<8C7DD24D>": "<ACD53C0E>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Let's set \"Myopic Screen\" to Eunie's Master Arts."
+      "<DBAF43F0>": "Let's set \"Splash Blast\" to Eunie's Master Arts."
     },
     {
       "$id": 1012,
       "<8C7DD24D>": "<83FEC0FC>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "[ML:icon icon=btn_r ]: Select Eunie / [ML:icon icon=pad_up_down ]: \"Myopic Screen\" / [ML:icon icon=btn_a ]: Confirm"
+      "<DBAF43F0>": "[ML:icon icon=btn_r ]: Select Eunie / [ML:icon icon=pad_up_down ]: \"Splash Blast\" / [ML:icon icon=btn_a ]: Confirm"
     },
     {
       "$id": 1013,
@@ -6816,7 +6816,7 @@
       "$id": 1134,
       "<8C7DD24D>": "<EC1ED33A>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Using the Swordfighter Talent Art \"Overclock Buster\"\nwhile an enemy is dazed will deal great damage."
+      "<DBAF43F0>": "Using the Swordfighter Talent Art \"Exceed Buster\"\nwhile an enemy is dazed will deal great damage."
     },
     {
       "$id": 1135,
@@ -6948,7 +6948,7 @@
       "$id": 1156,
       "<8C7DD24D>": "<397200BD>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "[ML:icon icon=pad_left_right ]: Select Lanz / [ML:icon icon=btn_x ]: Use \"Bull Rush\""
+      "<DBAF43F0>": "[ML:icon icon=pad_left_right ]: Select Lanz / [ML:icon icon=btn_x ]: Use \"Heavy Charge\""
     },
     {
       "$id": 1157,
@@ -7488,7 +7488,7 @@
       "$id": 1246,
       "<8C7DD24D>": "<07BE4184>",
       "<554EE944>": 44,
-      "<DBAF43F0>": "Use Bull Rush"
+      "<DBAF43F0>": "Use Heavy Charge"
     },
     {
       "$id": 1247,
@@ -7500,7 +7500,7 @@
       "$id": 1248,
       "<8C7DD24D>": "<F2DA54A4>",
       "<554EE944>": 44,
-      "<DBAF43F0>": "Use Myopic Screen"
+      "<DBAF43F0>": "Use Splash Blast"
     },
     {
       "$id": 1249,
@@ -7800,7 +7800,7 @@
       "$id": 1298,
       "<8C7DD24D>": "<B44B6E1F>",
       "<554EE944>": 44,
-      "<DBAF43F0>": "Using your full arsenal"
+      "<DBAF43F0>": "Using your full assnal"
     },
     {
       "$id": 1299,

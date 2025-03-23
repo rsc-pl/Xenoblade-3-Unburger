@@ -216,7 +216,7 @@
       "$id": 34,
       "<8C7DD24D>": "<42DAAA50>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Cammuravi's Ferronis"
+      "<DBAF43F0>": "Kamunabi's Ferronis"
     },
     {
       "$id": 35,
@@ -246,13 +246,13 @@
       "$id": 39,
       "<8C7DD24D>": "<69A6F910>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Aggy"
+      "<DBAF43F0>": "Agyou"
     },
     {
       "$id": 40,
       "<8C7DD24D>": "<826ACE18>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Oggy"
+      "<DBAF43F0>": "Ungyou"
     },
     {
       "$id": 41,
@@ -1530,7 +1530,7 @@
       "$id": 253,
       "<8C7DD24D>": "<8144A47E>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Farseer Pirtett"
+      "<DBAF43F0>": "Fasser Pirtett"
     },
     {
       "$id": 254,
@@ -1578,7 +1578,7 @@
       "$id": 261,
       "<8C7DD24D>": "<ACD0C033>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Night-Stalker Volodya"
+      "<DBAF43F0>": "Night-Phantom Archer Volodya"
     },
     {
       "$id": 262,
@@ -2706,7 +2706,7 @@
       "$id": 449,
       "<8C7DD24D>": "<6F0D2687>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Broon Moglum"
+      "<DBAF43F0>": "Fumizukin Moglum"
     },
     {
       "$id": 450,
@@ -3774,7 +3774,7 @@
       "$id": 627,
       "<8C7DD24D>": "<4488DA4D>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Craftmaiden Alexandria"
+      "<DBAF43F0>": "Craftmaiden Niina"
     },
     {
       "$id": 628,
@@ -3822,7 +3822,7 @@
       "$id": 635,
       "<8C7DD24D>": "<408EFA65>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Spearhead Zoren"
+      "<DBAF43F0>": "Spearhead Zuoren"
     },
     {
       "$id": 636,
@@ -3852,7 +3852,7 @@
       "$id": 640,
       "<8C7DD24D>": "<4138E162>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Defiant Triton"
+      "<DBAF43F0>": "Defiant Triden"
     },
     {
       "$id": 641,
@@ -4518,7 +4518,7 @@
       "$id": 751,
       "<8C7DD24D>": "<1AB5154E>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Smoldering Cammuravi"
+      "<DBAF43F0>": "Smoldering Kamunabi"
     },
     {
       "$id": 752,
@@ -4950,7 +4950,7 @@
       "$id": 823,
       "<8C7DD24D>": "<C0A53838>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Seraphic Ceratinia"
+      "<DBAF43F0>": "Warrioric Ceratinia"
     },
     {
       "$id": 824,
@@ -5214,7 +5214,7 @@
       "$id": 867,
       "<8C7DD24D>": "<31BD0902>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Isurd"
+      "<DBAF43F0>": "Isurugi"
     },
     {
       "$id": 868,
@@ -5226,7 +5226,7 @@
       "$id": 869,
       "<8C7DD24D>": "<FB26DCB2>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Cammuravi"
+      "<DBAF43F0>": "Kamunabi"
     },
     {
       "$id": 870,
@@ -5250,7 +5250,7 @@
       "$id": 873,
       "<8C7DD24D>": "<59CB8237>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Valdi"
+      "<DBAF43F0>": "Rudi"
     },
     {
       "$id": 874,
@@ -5268,13 +5268,13 @@
       "$id": 876,
       "<8C7DD24D>": "<1D5A158C>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Alexandria"
+      "<DBAF43F0>": "Niina"
     },
     {
       "$id": 877,
       "<8C7DD24D>": "<6DED4435>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Juniper"
+      "<DBAF43F0>": "Yuzuriha"
     },
     {
       "$id": 878,
@@ -5286,19 +5286,19 @@
       "$id": 879,
       "<8C7DD24D>": "<9194BB2A>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Triton"
+      "<DBAF43F0>": "Triden"
     },
     {
       "$id": 880,
       "<8C7DD24D>": "<4593148C>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Fiona"
+      "<DBAF43F0>": "Mashiro"
     },
     {
       "$id": 881,
       "<8C7DD24D>": "<9DCC085A>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Segiri"
+      "<DBAF43F0>": "Nagiri"
     },
     {
       "$id": 882,
@@ -5412,7 +5412,7 @@
       "$id": 900,
       "<8C7DD24D>": "<F9BED80D>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Dawnhero Isurd"
+      "<DBAF43F0>": "Dawnhero Isurugi"
     },
     {
       "$id": 901,
@@ -5436,25 +5436,25 @@
       "$id": 904,
       "<8C7DD24D>": "<E303C479>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "No. 7 Segiri"
+      "<DBAF43F0>": "No. 7 Nagiri"
     },
     {
       "$id": 905,
       "<8C7DD24D>": "<97EA9F11>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Artificer Valdi"
+      "<DBAF43F0>": "Artificer Rudi"
     },
     {
       "$id": 906,
       "<8C7DD24D>": "<77DD45C3>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Proudbanner Fiona"
+      "<DBAF43F0>": "Proudbanner Mashiro"
     },
     {
       "$id": 907,
       "<8C7DD24D>": "<C540053C>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Ghostbow Juniper"
+      "<DBAF43F0>": "Ghostbow Yuzuriha"
     },
     {
       "$id": 908,

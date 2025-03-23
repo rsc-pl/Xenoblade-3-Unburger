@@ -330,7 +330,7 @@
       "$id": 53,
       "<8C7DD24D>": "<8B9535B2>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Affinity Chart"
+      "<DBAF43F0>": "Bonding Chart"
     },
     {
       "$id": 54,
@@ -378,7 +378,7 @@
       "$id": 61,
       "<8C7DD24D>": "<7B89CA8B>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Show Affinity Chart-related notifications."
+      "<DBAF43F0>": "Show Bonding Chart-related notifications."
     },
     {
       "$id": 62,
@@ -936,7 +936,7 @@
       "$id": 154,
       "<8C7DD24D>": "<585A780F>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Unity"
+      "<DBAF43F0>": "Union"
     },
     {
       "$id": 155,
@@ -1020,7 +1020,7 @@
       "$id": 168,
       "<8C7DD24D>": "<193B0E65>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Activate/deactivate battle camera animations.\n(Does not affect Unity Combos, Chain Attacks, etc.)"
+      "<DBAF43F0>": "Activate/deactivate battle camera animations.\n(Does not affect Union Combos, Chain Attacks, etc.)"
     }
   ]
 }

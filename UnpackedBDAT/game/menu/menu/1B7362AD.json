@@ -126,7 +126,7 @@
       "$id": 19,
       "<8C7DD24D>": "<00F7DDE1>",
       "<554EE944>": 9,
-      "<DBAF43F0>": "Affinity Points"
+      "<DBAF43F0>": "Bonding Points"
     },
     {
       "$id": 20,
@@ -210,13 +210,13 @@
       "$id": 33,
       "<8C7DD24D>": "<73F2C445>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Affinity Level Increased"
+      "<DBAF43F0>": "Bonding Level Increased"
     },
     {
       "$id": 34,
       "<8C7DD24D>": "<0062A05A>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Affinity Up"
+      "<DBAF43F0>": "Bonding Up"
     },
     {
       "$id": 35,
@@ -330,13 +330,13 @@
       "$id": 53,
       "<8C7DD24D>": "<38EA77EC>",
       "<554EE944>": 29,
-      "<DBAF43F0>": "You've inherited a traversal skill from Valdi!"
+      "<DBAF43F0>": "You've inherited a traversal skill from Rudi!"
     },
     {
       "$id": 54,
       "<8C7DD24D>": "<C8BDB515>",
       "<554EE944>": 29,
-      "<DBAF43F0>": "You've inherited a traversal skill from Juniper!"
+      "<DBAF43F0>": "You've inherited a traversal skill from Yuzuriha!"
     },
     {
       "$id": 55,
@@ -348,7 +348,7 @@
       "$id": 56,
       "<8C7DD24D>": "<6DBE100C>",
       "<554EE944>": 29,
-      "<DBAF43F0>": "You've inherited a traversal skill from Segiri!"
+      "<DBAF43F0>": "You've inherited a traversal skill from Nagiri!"
     },
     {
       "$id": 57,
@@ -390,7 +390,7 @@
       "$id": 63,
       "<8C7DD24D>": "<BD150761>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Now that Triton is your ally, you can press [ML:icon icon=btn_y ] to bring\nup the Soul Hack List and check hackable enemies."
+      "<DBAF43F0>": "Now that Triden is your ally, you can press [ML:icon icon=btn_y ] to bring\nup the Soul Hack List and check hackable enemies."
     },
     {
       "$id": 64,
@@ -696,13 +696,13 @@
       "$id": 114,
       "<8C7DD24D>": "<4DFEA83E>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "You will be able to view this Affinity Scene after\nprogressing to chapter 4 of the main story."
+      "<DBAF43F0>": "You will be able to view this Bonding Scene after\nprogressing to chapter 4 of the main story."
     },
     {
       "$id": 115,
       "<8C7DD24D>": "<3D9D91C9>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "You will be able to view this Affinity Scene after\nreaching the Black Mountains."
+      "<DBAF43F0>": "You will be able to view this Bonding Scene after\nreaching the Black Mountains."
     },
     {
       "$id": 116,
@@ -720,7 +720,7 @@
       "$id": 118,
       "<8C7DD24D>": "<8ED87047>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Nikol can now use Ouroboros Powers. Blitz Punch\nhas been set to [ML:icon icon=btn_up ] on the Arts Palette. You can also now\nacquire related abilities on the Affinity Growth board."
+      "<DBAF43F0>": "Nikol can now use Ouroboros Powers. Blitz Punch\nhas been set to [ML:icon icon=btn_up ] on the Arts Palette. You can also now\nacquire related abilities on the Bonding Growth board."
     },
     {
       "$id": 119,

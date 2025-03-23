@@ -96,7 +96,7 @@
       "$id": 14,
       "<8C7DD24D>": "<8724BD61>",
       "<554EE944>": 9,
-      "<DBAF43F0>": "Art Type"
+      "<DBAF43F0>": "Art Group"
     },
     {
       "$id": 15,
@@ -192,7 +192,7 @@
       "$id": 30,
       "<8C7DD24D>": "<4C953EBF>",
       "<554EE944>": 9,
-      "<DBAF43F0>": "Item Grade"
+      "<DBAF43F0>": "Item Level"
     },
     {
       "$id": 31,

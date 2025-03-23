@@ -30,7 +30,7 @@
       "$id": 3,
       "<8C7DD24D>": "<E6954314>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Pinion Primed"
+      "<DBAF43F0>": "Advance Feather"
     },
     {
       "$id": 4,
@@ -54,13 +54,13 @@
       "$id": 7,
       "<8C7DD24D>": "<92FC15D2>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Wintry End"
+      "<DBAF43F0>": "Snow End"
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<C4DFEB46>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Noogie Storm"
+      "<DBAF43F0>": "Pounding Storm"
     },
     {
       "$id": 9,
@@ -102,13 +102,13 @@
       "$id": 15,
       "<8C7DD24D>": "<6A016BF1>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Bullet Hail"
+      "<DBAF43F0>": "Bullet Splash"
     },
     {
       "$id": 16,
       "<8C7DD24D>": "<E4C61427>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Deflector Form"
+      "<DBAF43F0>": "Aegis Form"
     },
     {
       "$id": 17,
@@ -150,19 +150,19 @@
       "$id": 23,
       "<8C7DD24D>": "<031A9C90>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Viscous Venom"
+      "<DBAF43F0>": "Venom Drown"
     },
     {
       "$id": 24,
       "<8C7DD24D>": "<0B1CF9E8>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Avalanche Onslaught"
+      "<DBAF43F0>": "Raid Avalanche"
     },
     {
       "$id": 25,
       "<8C7DD24D>": "<6EFAB3A8>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Ruthless Persecution"
+      "<DBAF43F0>": "Ruthless Hunt"
     },
     {
       "$id": 26,
@@ -216,13 +216,13 @@
       "$id": 34,
       "<8C7DD24D>": "<CD338351>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Radiant Artificer"
+      "<DBAF43F0>": "Radiant Chaser"
     },
     {
       "$id": 35,
       "<8C7DD24D>": "<DF7377D5>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Liberation Edge"
+      "<DBAF43F0>": "Liberator Edge"
     },
     {
       "$id": 36,
@@ -234,7 +234,7 @@
       "$id": 37,
       "<8C7DD24D>": "<49B921BB>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Lightspeed"
+      "<DBAF43F0>": "Light Velocity"
     },
     {
       "$id": 38,
@@ -252,7 +252,7 @@
       "$id": 40,
       "<8C7DD24D>": "<79D23CF5>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Liberation Edge"
+      "<DBAF43F0>": "Liberator Edge"
     },
     {
       "$id": 41,
@@ -264,7 +264,7 @@
       "$id": 42,
       "<8C7DD24D>": "<3032E14A>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Ether Calamity"
+      "<DBAF43F0>": "Ether Disaster"
     },
     {
       "$id": 43,
@@ -276,7 +276,7 @@
       "$id": 44,
       "<8C7DD24D>": "<2A5A639B>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Cyclone Onslaught"
+      "<DBAF43F0>": "Cyclone Raid"
     },
     {
       "$id": 45,
@@ -288,7 +288,7 @@
       "$id": 46,
       "<8C7DD24D>": "<37EADF02>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Liberation Onslaught"
+      "<DBAF43F0>": "Liberator Raid"
     },
     {
       "$id": 47,
@@ -312,7 +312,7 @@
       "$id": 50,
       "<8C7DD24D>": "<9CBFB96D>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Liberation Blade"
+      "<DBAF43F0>": "Liberator Blade"
     },
     {
       "$id": 51,
@@ -330,7 +330,7 @@
       "$id": 53,
       "<8C7DD24D>": "<6CAF9EAB>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Liberation Link"
+      "<DBAF43F0>": "Liberator Link"
     },
     {
       "$id": 54,

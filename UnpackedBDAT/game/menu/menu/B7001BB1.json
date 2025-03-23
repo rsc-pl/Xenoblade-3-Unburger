@@ -24,13 +24,13 @@
       "$id": 2,
       "<8C7DD24D>": "<F344035F>",
       "<554EE944>": 7,
-      "<DBAF43F0>": "QUEST COMPLETE"
+      "<DBAF43F0>": "QUEST CLEAR"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<68D78829>",
       "<554EE944>": 7,
-      "<DBAF43F0>": "COMPLETE"
+      "<DBAF43F0>": "CLEAR"
     },
     {
       "$id": 4,
@@ -54,7 +54,7 @@
       "$id": 7,
       "<8C7DD24D>": "<301A5CCC>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Standard Quests"
+      "<DBAF43F0>": "Normal Quests"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "$id": 16,
       "<8C7DD24D>": "<FC12D256>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Affinity"
+      "<DBAF43F0>": "Bonding"
     },
     {
       "$id": 17,
@@ -132,7 +132,7 @@
       "$id": 20,
       "<8C7DD24D>": "<E4EF3F1C>",
       "<554EE944>": 5,
-      "<DBAF43F0>": "Quest"
+      "<DBAF43F0>": "Quest Name"
     },
     {
       "$id": 21,
@@ -360,7 +360,7 @@
       "$id": 58,
       "<8C7DD24D>": "<0D5F70A0>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "New Topic Available"
+      "<DBAF43F0>": "COMPLETE"
     },
     {
       "$id": 59,
@@ -450,7 +450,7 @@
       "$id": 73,
       "<8C7DD24D>": "<56940C13>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Affinity Chart Updated"
+      "<DBAF43F0>": "Bonding Chart Updated"
     },
     {
       "$id": 74,

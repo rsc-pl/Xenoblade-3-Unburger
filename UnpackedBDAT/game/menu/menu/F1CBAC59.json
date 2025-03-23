@@ -66,7 +66,7 @@
       "$id": 9,
       "<8C7DD24D>": "<26F7DF25>",
       "<554EE944>": 13,
-      "<DBAF43F0>": "Affinity Scenes"
+      "<DBAF43F0>": "Bonding Scenes"
     },
     {
       "$id": 10,
@@ -120,7 +120,7 @@
       "$id": 18,
       "<8C7DD24D>": "<7D7804AB>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "Affinity Points Earned"
+      "<DBAF43F0>": "Bonding Points Earned"
     },
     {
       "$id": 19,
@@ -228,7 +228,7 @@
       "$id": 36,
       "<8C7DD24D>": "<28639BBB>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "Affinity Scene Viewed"
+      "<DBAF43F0>": "Bonding Scene Viewed"
     },
     {
       "$id": 37,
@@ -408,7 +408,7 @@
       "$id": 66,
       "<8C7DD24D>": "<1AAD6E04>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "Affinity Scenes Viewed"
+      "<DBAF43F0>": "Bonding Scenes Viewed"
     },
     {
       "$id": 67,

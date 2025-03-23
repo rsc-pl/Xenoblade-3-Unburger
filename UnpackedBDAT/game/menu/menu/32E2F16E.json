@@ -18,19 +18,19 @@
       "$id": 1,
       "<8C7DD24D>": "<09283A5F>",
       "<554EE944>": 9,
-      "<DBAF43F0>": "Defender"
+      "<DBAF43F0>": "DEFENDER"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<130474E3>",
       "<554EE944>": 9,
-      "<DBAF43F0>": "Attacker"
+      "<DBAF43F0>": "ATTACKER"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<20D7755C>",
       "<554EE944>": 9,
-      "<DBAF43F0>": "Healer"
+      "<DBAF43F0>": "HEALER"
     },
     {
       "$id": 4,
@@ -42,37 +42,37 @@
       "$id": 5,
       "<8C7DD24D>": "<9D157023>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "CLASS SELECTION"
+      "<DBAF43F0>": "CLASS SELECT"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<46F566EE>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "ARTS SELECTION"
+      "<DBAF43F0>": "ARTS SELECT"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<CC421DFC>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "SKILL SELECTION"
+      "<DBAF43F0>": "SKILL SELECT"
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<2E651DCB>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "GEM SELECTION"
+      "<DBAF43F0>": "GEM SELECT"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<FFAF080F>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "ACCESSORY SELECTION"
+      "<DBAF43F0>": "ACCESSORY SELECT"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<AD843811>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "BUILD"
+      "<DBAF43F0>": "EQUIPMENT"
     },
     {
       "$id": 11,
@@ -348,31 +348,31 @@
       "$id": 56,
       "<8C7DD24D>": "<05B31B7C>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "CLASS SKILLS"
+      "<DBAF43F0>": "CLASS"
     },
     {
       "$id": 57,
       "<8C7DD24D>": "<ACA1D5CF>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "MASTER SKILLS"
+      "<DBAF43F0>": "MASTER"
     },
     {
       "$id": 58,
       "<8C7DD24D>": "<BF57ADD1>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "ROLE SKILLS"
+      "<DBAF43F0>": "ROLE"
     },
     {
       "$id": 59,
       "<8C7DD24D>": "<60F6C457>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "ENEMY SKILLS"
+      "<DBAF43F0>": "ENEMY"
     },
     {
       "$id": 60,
       "<8C7DD24D>": "<55BA7EA6>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "MASTER SKILLS"
+      "<DBAF43F0>": "MASTER SKILL"
     },
     {
       "$id": 61,
@@ -396,7 +396,7 @@
       "$id": 64,
       "<8C7DD24D>": "<110034E3>",
       "<554EE944>": 3,
-      "<DBAF43F0>": "Rank"
+      "<DBAF43F0>": "RANK"
     },
     {
       "$id": 65,
@@ -408,49 +408,49 @@
       "$id": 66,
       "<8C7DD24D>": "<9130C0E7>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Class"
+      "<DBAF43F0>": "CLASS"
     },
     {
       "$id": 67,
       "<8C7DD24D>": "<76680DF5>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Skills"
+      "<DBAF43F0>": "SKILL"
     },
     {
       "$id": 68,
       "<8C7DD24D>": "<6B96C80B>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Arts"
+      "<DBAF43F0>": "ARTS"
     },
     {
       "$id": 69,
       "<8C7DD24D>": "<0D354023>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Gems"
+      "<DBAF43F0>": "GEM"
     },
     {
       "$id": 70,
       "<8C7DD24D>": "<A053EA41>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Accessories"
+      "<DBAF43F0>": "ACCESSORY"
     },
     {
       "$id": 71,
       "<8C7DD24D>": "<6ED3273B>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Soul Tree"
+      "<DBAF43F0>": "SOULTREE"
     },
     {
       "$id": 72,
       "<8C7DD24D>": "<C306DDF5>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Soul Link"
+      "<DBAF43F0>": "SOULLINK"
     },
     {
       "$id": 73,
       "<8C7DD24D>": "<D806B1C1>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Clothing"
+      "<DBAF43F0>": "FASHION"
     },
     {
       "$id": 74,
@@ -462,7 +462,7 @@
       "$id": 75,
       "<8C7DD24D>": "<ECD56062>",
       "<554EE944>": 9,
-      "<DBAF43F0>": "EXP to next level:"
+      "<DBAF43F0>": "Next"
     },
     {
       "$id": 76,
@@ -504,37 +504,37 @@
       "$id": 82,
       "<8C7DD24D>": "<DC3D527D>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Noah"
+      "<DBAF43F0>": "NOAH"
     },
     {
       "$id": 83,
       "<8C7DD24D>": "<73F3E871>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Mio"
+      "<DBAF43F0>": "MIO"
     },
     {
       "$id": 84,
       "<8C7DD24D>": "<FED7FDDE>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Eunie"
+      "<DBAF43F0>": "EUNIE"
     },
     {
       "$id": 85,
       "<8C7DD24D>": "<0B5AADE3>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Taion"
+      "<DBAF43F0>": "TAION"
     },
     {
       "$id": 86,
       "<8C7DD24D>": "<C345FB4B>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Lanz"
+      "<DBAF43F0>": "LANZ"
     },
     {
       "$id": 87,
       "<8C7DD24D>": "<A97662B1>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Sena"
+      "<DBAF43F0>": "SENA"
     },
     {
       "$id": 88,
@@ -552,7 +552,7 @@
       "$id": 90,
       "<8C7DD24D>": "<A2ABF831>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Soul Points"
+      "<DBAF43F0>": "SOUL POINT"
     },
     {
       "$id": 91,
@@ -666,7 +666,7 @@
       "$id": 109,
       "<8C7DD24D>": "<D9CFA524>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "HERO SELECTION"
+      "<DBAF43F0>": "HERO SELECT"
     },
     {
       "$id": 110,
@@ -684,31 +684,31 @@
       "$id": 112,
       "<8C7DD24D>": "<F37279AA>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "CLOTHING SELECTION"
+      "<DBAF43F0>": "FASHION SELECT"
     },
     {
       "$id": 113,
       "<8C7DD24D>": "<C50E0AC3>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "ATTACHMENT SELECTION"
+      "<DBAF43F0>": "ATTACHMENT SELECT"
     },
     {
       "$id": 114,
       "<8C7DD24D>": "<5485A1F2>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "CLOTHING"
+      "<DBAF43F0>": "FASHION"
     },
     {
       "$id": 115,
       "<8C7DD24D>": "<DE6834B9>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "ATTACHMENTS"
+      "<DBAF43F0>": "ATTACHMENT"
     },
     {
       "$id": 116,
       "<8C7DD24D>": "<0A03A06F>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Clothing"
+      "<DBAF43F0>": "Fashion"
     },
     {
       "$id": 117,
@@ -720,7 +720,7 @@
       "$id": 118,
       "<8C7DD24D>": "<BC3E46C9>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Base Clothing"
+      "<DBAF43F0>": "Base Fashion"
     },
     {
       "$id": 119,
@@ -762,7 +762,7 @@
       "$id": 125,
       "<8C7DD24D>": "<504AA53D>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Ogre"
+      "<DBAF43F0>": "Crusher"
     },
     {
       "$id": 126,
@@ -780,19 +780,19 @@
       "$id": 128,
       "<8C7DD24D>": "<E60FA9D7>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Strategos"
+      "<DBAF43F0>": "Strategist"
     },
     {
       "$id": 129,
       "<8C7DD24D>": "<5D8832BB>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Troubadour"
+      "<DBAF43F0>": "Gagaku Performer"
     },
     {
       "$id": 130,
       "<8C7DD24D>": "<EAAEEF73>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Seraph"
+      "<DBAF43F0>": "Warrior"
     },
     {
       "$id": 131,
@@ -804,7 +804,7 @@
       "$id": 132,
       "<8C7DD24D>": "<1691D7FF>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Lifesage"
+      "<DBAF43F0>": "Life Shrine Maiden"
     },
     {
       "$id": 133,
@@ -828,19 +828,19 @@
       "$id": 136,
       "<8C7DD24D>": "<E2887E99>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Thaumaturge"
+      "<DBAF43F0>": "Alchemist"
     },
     {
       "$id": 137,
       "<8C7DD24D>": "<BBBF6639>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Incursor"
+      "<DBAF43F0>": "Attack Knight"
     },
     {
       "$id": 138,
       "<8C7DD24D>": "<D79F9428>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Stalker"
+      "<DBAF43F0>": "Phantom Archer"
     },
     {
       "$id": 139,
@@ -858,7 +858,7 @@
       "$id": 141,
       "<8C7DD24D>": "<0138C2BB>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Signifer"
+      "<DBAF43F0>": "Aries"
     },
     {
       "$id": 142,
@@ -906,37 +906,37 @@
       "$id": 149,
       "<8C7DD24D>": "<1841DC84>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Aegis Sword: Pyra"
+      "<DBAF43F0>": "Holy Grail Sword: Homura"
     },
     {
       "$id": 150,
       "<8C7DD24D>": "<257B17C2>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Aegis Sword: Mythra"
+      "<DBAF43F0>": "Holy Grail Sword: Hikari"
     },
     {
       "$id": 151,
       "<8C7DD24D>": "<395BED1E>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "UPGRADE GOAL"
+      "<DBAF43F0>": "ACHIEVEMENT"
     },
     {
       "$id": 152,
       "<8C7DD24D>": "<D5F04C57>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "TARGET MONSTER"
+      "<DBAF43F0>": "TARGET ENEMY"
     },
     {
       "$id": 153,
       "<8C7DD24D>": "<D05C4CCB>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "ART SPECS"
+      "<DBAF43F0>": "ARTS SPEC"
     },
     {
       "$id": 154,
       "<8C7DD24D>": "<233B6652>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "SKILL SPECS"
+      "<DBAF43F0>": "SKILL SPEC"
     },
     {
       "$id": 155,
@@ -1284,7 +1284,7 @@
       "$id": 212,
       "<8C7DD24D>": "<382FD887>",
       "<554EE944>": 12,
-      "<DBAF43F0>": "Affinity Points"
+      "<DBAF43F0>": "Bonding Points"
     },
     {
       "$id": 213,
@@ -1302,7 +1302,7 @@
       "$id": 215,
       "<8C7DD24D>": "<0CF86CA3>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "Not enough Affinity Points."
+      "<DBAF43F0>": "Not enough Bonding Points."
     },
     {
       "$id": 216,
@@ -1326,13 +1326,13 @@
       "$id": 219,
       "<8C7DD24D>": "<07B08AB2>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Unity Skill"
+      "<DBAF43F0>": "Union Skill"
     },
     {
       "$id": 220,
       "<8C7DD24D>": "<BBB1E8EB>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Unity Combo"
+      "<DBAF43F0>": "Union Combo"
     },
     {
       "$id": 221,
@@ -1356,7 +1356,7 @@
       "$id": 224,
       "<8C7DD24D>": "<6E2A79CE>",
       "<554EE944>": 37,
-      "<DBAF43F0>": "Unity Setup"
+      "<DBAF43F0>": "Union Setup"
     },
     {
       "$id": 225,
@@ -1404,7 +1404,7 @@
       "$id": 232,
       "<8C7DD24D>": "<38341351>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Reset this character's growth and\nrefund allocated Affinity Points?"
+      "<DBAF43F0>": "Reset this character's growth and\nrefund allocated Bonding Points?"
     },
     {
       "$id": 233,

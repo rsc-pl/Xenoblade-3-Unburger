@@ -60,13 +60,13 @@
       "$id": 8,
       "<8C7DD24D>": "<7FC93069>",
       "<554EE944>": 13,
-      "<DBAF43F0>": "New Affinity Logged"
+      "<DBAF43F0>": "New Bonding Logged"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<EDB5B0BD>",
       "<554EE944>": 13,
-      "<DBAF43F0>": "Affinity Chart Updated"
+      "<DBAF43F0>": "Bonding Chart Updated"
     },
     {
       "$id": 10,
@@ -78,7 +78,7 @@
       "$id": 11,
       "<8C7DD24D>": "<782ECFEF>",
       "<554EE944>": 13,
-      "<DBAF43F0>": "Affinity Level Increased"
+      "<DBAF43F0>": "Bonding Level Increased"
     },
     {
       "$id": 12,
@@ -192,7 +192,7 @@
       "$id": 30,
       "<8C7DD24D>": "<08795897>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Check in Affinity Chart"
+      "<DBAF43F0>": "Check in Bonding Chart"
     },
     {
       "$id": 31,
@@ -258,7 +258,7 @@
       "$id": 41,
       "<8C7DD24D>": "<0B11C968>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Affinity Growth Target"
+      "<DBAF43F0>": "Bonding Growth Target"
     },
     {
       "$id": 42,

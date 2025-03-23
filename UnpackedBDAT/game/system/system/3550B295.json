@@ -66,13 +66,13 @@
       "$id": 9,
       "<8C7DD24D>": "<433DEDD1>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Wheelideeli's Abacus"
+      "<DBAF43F0>": "Roon's Abacus"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<E5F8B153>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Wheelideeli's tool of the trade, stolen\nby a Gogol. Crucial for accounting."
+      "<DBAF43F0>": "Roon's tool of the trade, stolen\nby a Gogol. Crucial for accounting."
     },
     {
       "$id": 11,
@@ -204,7 +204,7 @@
       "$id": 32,
       "<8C7DD24D>": "<C82BFA58>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Booty that Triton was after. A real\nwhopper at over 100 cetri across."
+      "<DBAF43F0>": "Booty that Triden was after. A real\nwhopper at over 100 cetri across."
     },
     {
       "$id": 33,
@@ -270,19 +270,19 @@
       "$id": 43,
       "<8C7DD24D>": "<B136CFC6>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Irma's Key"
+      "<DBAF43F0>": "Ichika's Key"
     },
     {
       "$id": 44,
       "<8C7DD24D>": "<A148C2C1>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "A key Irma entrusted Googoo with.\nLooks fairly old-fashioned."
+      "<DBAF43F0>": "A key Ichika entrusted Guuguu with.\nLooks fairly old-fashioned."
     },
     {
       "$id": 45,
       "<8C7DD24D>": "<AF855CC7>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Tempapa's Memo"
+      "<DBAF43F0>": "Tanzoo's Memo"
     },
     {
       "$id": 46,
@@ -300,7 +300,7 @@
       "$id": 48,
       "<8C7DD24D>": "<59B56D9F>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Samon gave you...whatever\nthis is...to bring to Tempapa."
+      "<DBAF43F0>": "Samon gave you...whatever\nthis is...to bring to Tanzoo."
     },
     {
       "$id": 49,
@@ -366,25 +366,25 @@
       "$id": 59,
       "<8C7DD24D>": "<1376FAE8>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Yew's Belongings"
+      "<DBAF43F0>": "Yuu's Belongings"
     },
     {
       "$id": 60,
       "<8C7DD24D>": "<B2388FBA>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Yew's old eyepatch. It's seen a lot\nof death in the course of his life."
+      "<DBAF43F0>": "Yuu's old eyepatch. It's seen a lot\nof death in the course of his life."
     },
     {
       "$id": 61,
       "<8C7DD24D>": "<D1E5B550>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Heewa's Belongings"
+      "<DBAF43F0>": "Hiwa's Belongings"
     },
     {
       "$id": 62,
       "<8C7DD24D>": "<7C3E2290>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "The hair tie Heewa once wore.\nBears marks of careful mending."
+      "<DBAF43F0>": "The hair tie Hiwa once wore.\nBears marks of careful mending."
     },
     {
       "$id": 63,
@@ -606,13 +606,13 @@
       "$id": 99,
       "<8C7DD24D>": "<4F70A102>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Boxy's Soyprimo Sauce"
+      "<DBAF43F0>": "Hakobe's Soyprimo Sauce"
     },
     {
       "$id": 100,
       "<8C7DD24D>": "<DC104D71>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "An umami-ful flavoring made by\nBoxy. Enhances taste and aftertaste."
+      "<DBAF43F0>": "An umami-ful flavoring made by\nHakobe. Enhances taste and aftertaste."
     },
     {
       "$id": 101,
@@ -1392,7 +1392,7 @@
       "$id": 230,
       "<8C7DD24D>": "<774CD007>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "A painting of Consul K, by Stefaan.\nIts strange aura is mesmerizing."
+      "<DBAF43F0>": "A painting of Consul K, by Stefano.\nIts strange aura is mesmerizing."
     },
     {
       "$id": 231,
@@ -1506,13 +1506,13 @@
       "$id": 249,
       "<8C7DD24D>": "<6CF8F238>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Affinity Growth Unlock Kit"
+      "<DBAF43F0>": "Bonding Growth Unlock Kit"
     },
     {
       "$id": 250,
       "<8C7DD24D>": "<85674486>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Used to raise the limit on\nAffinity-related character growth."
+      "<DBAF43F0>": "Used to raise the limit on\nBonding-related character growth."
     },
     {
       "$id": 251,
@@ -1728,181 +1728,181 @@
       "$id": 286,
       "<8C7DD24D>": "<B24445A3>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Lessons in Unity, vol. 1"
+      "<DBAF43F0>": "Lessons in Union, vol. 1"
     },
     {
       "$id": 287,
       "<8C7DD24D>": "<CBD9704B>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Lessons in Unity, vol. 2"
+      "<DBAF43F0>": "Lessons in Union, vol. 2"
     },
     {
       "$id": 288,
       "<8C7DD24D>": "<3D559CCD>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Lessons in Unity, vol. 3"
+      "<DBAF43F0>": "Lessons in Union, vol. 3"
     },
     {
       "$id": 289,
       "<8C7DD24D>": "<47FE01DD>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Lessons in Unity, vol. 4"
+      "<DBAF43F0>": "Lessons in Union, vol. 4"
     },
     {
       "$id": 290,
       "<8C7DD24D>": "<C86CD92C>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Lessons in Unity, vol. 5"
+      "<DBAF43F0>": "Lessons in Union, vol. 5"
     },
     {
       "$id": 291,
       "<8C7DD24D>": "<9D4D7A2F>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Lessons in Unity, vol. 6"
+      "<DBAF43F0>": "Lessons in Union, vol. 6"
     },
     {
       "$id": 292,
       "<8C7DD24D>": "<2058E1D2>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Lessons in Unity, vol. 7"
+      "<DBAF43F0>": "Lessons in Union, vol. 7"
     },
     {
       "$id": 293,
       "<8C7DD24D>": "<3E99A02E>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Lessons in Unity, vol. 8"
+      "<DBAF43F0>": "Lessons in Union, vol. 8"
     },
     {
       "$id": 294,
       "<8C7DD24D>": "<27F44164>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Lessons in Unity, vol. 9"
+      "<DBAF43F0>": "Lessons in Union, vol. 9"
     },
     {
       "$id": 295,
       "<8C7DD24D>": "<AF045283>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Lessons in Unity, vol. 10"
+      "<DBAF43F0>": "Lessons in Union, vol. 10"
     },
     {
       "$id": 296,
       "<8C7DD24D>": "<C89F79A0>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Lessons in Unity, vol. 11"
+      "<DBAF43F0>": "Lessons in Union, vol. 11"
     },
     {
       "$id": 297,
       "<8C7DD24D>": "<59E224B3>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Lessons in Unity, vol. 12"
+      "<DBAF43F0>": "Lessons in Union, vol. 12"
     },
     {
       "$id": 298,
       "<8C7DD24D>": "<76EA494E>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Lessons in Unity, vol. 13"
+      "<DBAF43F0>": "Lessons in Union, vol. 13"
     },
     {
       "$id": 299,
       "<8C7DD24D>": "<C79A4315>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Lessons in Unity, vol. 14"
+      "<DBAF43F0>": "Lessons in Union, vol. 14"
     },
     {
       "$id": 300,
       "<8C7DD24D>": "<1B1FB4C7>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Lessons in Unity, vol. 15"
+      "<DBAF43F0>": "Lessons in Union, vol. 15"
     },
     {
       "$id": 301,
       "<8C7DD24D>": "<D5E8A898>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Enhances the Unity Skill and Combo\nperformed by Matthew and A."
+      "<DBAF43F0>": "Enhances the Union Skill and Combo\nperformed by Matthew and A."
     },
     {
       "$id": 302,
       "<8C7DD24D>": "<07B1A58E>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Enhances the Unity Skill and Combo\nperformed by Matthew and Nikol."
+      "<DBAF43F0>": "Enhances the Union Skill and Combo\nperformed by Matthew and Nikol."
     },
     {
       "$id": 303,
       "<8C7DD24D>": "<E5640515>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Enhances the Unity Skill and Combo\nperformed by Matthew and Glimmer."
+      "<DBAF43F0>": "Enhances the Union Skill and Combo\nperformed by Matthew and Kagiroi."
     },
     {
       "$id": 304,
       "<8C7DD24D>": "<ED3FAAF2>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Enhances the Unity Skill and Combo\nperformed by Matthew and Shulk."
+      "<DBAF43F0>": "Enhances the Union Skill and Combo\nperformed by Matthew and Shulk."
     },
     {
       "$id": 305,
       "<8C7DD24D>": "<A6E6E79B>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Enhances the Unity Skill and Combo\nperformed by Matthew and Rex."
+      "<DBAF43F0>": "Enhances the Union Skill and Combo\nperformed by Matthew and Rex."
     },
     {
       "$id": 306,
       "<8C7DD24D>": "<5E366DBB>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Enhances the Unity Skill and Combo\nperformed by A and Nikol."
+      "<DBAF43F0>": "Enhances the Union Skill and Combo\nperformed by A and Nikol."
     },
     {
       "$id": 307,
       "<8C7DD24D>": "<AF82F9B0>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Enhances the Unity Skill and Combo\nperformed by A and Glimmer."
+      "<DBAF43F0>": "Enhances the Union Skill and Combo\nperformed by A and Kagiroi."
     },
     {
       "$id": 308,
       "<8C7DD24D>": "<CE95888B>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Enhances the Unity Skill and Combo\nperformed by A and Shulk."
+      "<DBAF43F0>": "Enhances the Union Skill and Combo\nperformed by A and Shulk."
     },
     {
       "$id": 309,
       "<8C7DD24D>": "<8EF42072>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Enhances the Unity Skill and Combo\nperformed by A and Rex."
+      "<DBAF43F0>": "Enhances the Union Skill and Combo\nperformed by A and Rex."
     },
     {
       "$id": 310,
       "<8C7DD24D>": "<FA3AB7B3>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Enhances the Unity Skill and Combo\nperformed by Nikol and Glimmer."
+      "<DBAF43F0>": "Enhances the Union Skill and Combo\nperformed by Nikol and Kagiroi."
     },
     {
       "$id": 311,
       "<8C7DD24D>": "<C9383D3D>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Enhances the Unity Skill and Combo\nperformed by Nikol and Shulk."
+      "<DBAF43F0>": "Enhances the Union Skill and Combo\nperformed by Nikol and Shulk."
     },
     {
       "$id": 312,
       "<8C7DD24D>": "<DE3FB39A>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Enhances the Unity Skill and Combo\nperformed by Nikol and Rex."
+      "<DBAF43F0>": "Enhances the Union Skill and Combo\nperformed by Nikol and Rex."
     },
     {
       "$id": 313,
       "<8C7DD24D>": "<5138987D>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Enhances the Unity Skill and Combo\nperformed by Glimmer and Shulk."
+      "<DBAF43F0>": "Enhances the Union Skill and Combo\nperformed by Kagiroi and Shulk."
     },
     {
       "$id": 314,
       "<8C7DD24D>": "<A5243C2E>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Enhances the Unity Skill and Combo\nperformed by Glimmer and Rex."
+      "<DBAF43F0>": "Enhances the Union Skill and Combo\nperformed by Kagiroi and Rex."
     },
     {
       "$id": 315,
       "<8C7DD24D>": "<FA4C8AB1>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Enhances the Unity Skill and Combo\nperformed by Shulk and Rex."
+      "<DBAF43F0>": "Enhances the Union Skill and Combo\nperformed by Shulk and Rex."
     },
     {
       "$id": 316,
@@ -2412,7 +2412,7 @@
       "$id": 400,
       "<8C7DD24D>": "<9C728148>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Allows you to reset Affinity Growth,\nrefunding spent Affinity Points."
+      "<DBAF43F0>": "Allows you to reset Bonding Growth,\nrefunding spent Bonding Points."
     }
   ]
 }

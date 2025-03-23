@@ -48,7 +48,7 @@
       "$id": 6,
       "<8C7DD24D>": "<5AF20ED0>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Overclock Buster"
+      "<DBAF43F0>": "Exceed Buster"
     },
     {
       "$id": 7,
@@ -66,13 +66,13 @@
       "$id": 9,
       "<8C7DD24D>": "<4496F479>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Butterfly Blade"
+      "<DBAF43F0>": "Butterfly Edge"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<34D376BE>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Speed Demon"
+      "<DBAF43F0>": "Speed Star"
     },
     {
       "$id": 11,
@@ -90,7 +90,7 @@
       "$id": 13,
       "<8C7DD24D>": "<983ADB6C>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Glow Ring"
+      "<DBAF43F0>": "Glow Circle"
     },
     {
       "$id": 14,
@@ -108,13 +108,13 @@
       "$id": 16,
       "<8C7DD24D>": "<B6F3DEFC>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Myopic Screen"
+      "<DBAF43F0>": "Splash Blast"
     },
     {
       "$id": 17,
       "<8C7DD24D>": "<9227FA7F>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Group Heal"
+      "<DBAF43F0>": "Round Healing"
     },
     {
       "$id": 18,
@@ -144,19 +144,19 @@
       "$id": 22,
       "<8C7DD24D>": "<177496B5>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Overfall"
+      "<DBAF43F0>": "Reverse Wave"
     },
     {
       "$id": 23,
       "<8C7DD24D>": "<F0842C3C>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Stormy Skies"
+      "<DBAF43F0>": "Heavenly Wind"
     },
     {
       "$id": 24,
       "<8C7DD24D>": "<DD19F58E>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Hazy Figure"
+      "<DBAF43F0>": "Hazy Shadow"
     },
     {
       "$id": 25,
@@ -186,7 +186,7 @@
       "$id": 29,
       "<8C7DD24D>": "<3BD1DBF5>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Bull Rush"
+      "<DBAF43F0>": "Heavy Charge"
     },
     {
       "$id": 30,
@@ -198,7 +198,7 @@
       "$id": 31,
       "<8C7DD24D>": "<C0849DF9>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Uppercut Slash"
+      "<DBAF43F0>": "Upper Slash"
     },
     {
       "$id": 32,
@@ -282,19 +282,19 @@
       "$id": 45,
       "<8C7DD24D>": "<0A45D2DD>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Revolution Edge"
+      "<DBAF43F0>": "Revolt Edge"
     },
     {
       "$id": 46,
       "<8C7DD24D>": "<FECE740A>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Hidden Thorn"
+      "<DBAF43F0>": "Hide Spike"
     },
     {
       "$id": 47,
       "<8C7DD24D>": "<E89146D4>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Null Slash"
+      "<DBAF43F0>": "Remove Slash"
     },
     {
       "$id": 48,
@@ -576,7 +576,7 @@
       "$id": 94,
       "<8C7DD24D>": "<16486ECA>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Shield Wall"
+      "<DBAF43F0>": "Wall Shield"
     },
     {
       "$id": 95,
@@ -666,7 +666,7 @@
       "$id": 109,
       "<8C7DD24D>": "<C905A704>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Starlight Kick"
+      "<DBAF43F0>": "Starlight Knee"
     },
     {
       "$id": 110,
@@ -684,7 +684,7 @@
       "$id": 112,
       "<8C7DD24D>": "<23C3CE52>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Starfall"
+      "<DBAF43F0>": "Star Fall"
     },
     {
       "$id": 113,
@@ -762,13 +762,13 @@
       "$id": 125,
       "<8C7DD24D>": "<10BB8027>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Falcon Swoop"
+      "<DBAF43F0>": "Falcon Fall"
     },
     {
       "$id": 126,
       "<8C7DD24D>": "<244C7F3D>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Proud Edge"
+      "<DBAF43F0>": "Gloroious Edge"
     },
     {
       "$id": 127,
@@ -954,7 +954,7 @@
       "$id": 157,
       "<8C7DD24D>": "<A43F4490>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Staying Power"
+      "<DBAF43F0>": "Remain Force"
     },
     {
       "$id": 158,
@@ -1032,13 +1032,13 @@
       "$id": 170,
       "<8C7DD24D>": "<09D4D31D>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Spirited Charge"
+      "<DBAF43F0>": "Emotional Charge"
     },
     {
       "$id": 171,
       "<8C7DD24D>": "<B4D74AC4>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Max Effort"
+      "<DBAF43F0>": "Maximum Effort"
     },
     {
       "$id": 172,
@@ -1056,7 +1056,7 @@
       "$id": 174,
       "<8C7DD24D>": "<71426263>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Heal Harmony"
+      "<DBAF43F0>": "Harmony Heal"
     },
     {
       "$id": 175,
@@ -1068,7 +1068,7 @@
       "$id": 176,
       "<8C7DD24D>": "<99D01E05>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Cry of Faith"
+      "<DBAF43F0>": "Faithful Yell"
     },
     {
       "$id": 177,
@@ -1086,7 +1086,7 @@
       "$id": 179,
       "<8C7DD24D>": "<263771BA>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Mega Crescent"
+      "<DBAF43F0>": "Megalo Crescent"
     },
     {
       "$id": 180,
@@ -1188,7 +1188,7 @@
       "$id": 196,
       "<8C7DD24D>": "<5E578521>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Dead Set"
+      "<DBAF43F0>": "Dead Zone"
     },
     {
       "$id": 197,
@@ -1350,7 +1350,7 @@
       "$id": 223,
       "<8C7DD24D>": "<9C2ADD38>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Mega Spinning Edge"
+      "<DBAF43F0>": "Mega Spin Edge"
     },
     {
       "$id": 224,
@@ -1368,7 +1368,7 @@
       "$id": 226,
       "<8C7DD24D>": "<273A8088>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Deadly Twister"
+      "<DBAF43F0>": "Deadly Screw"
     },
     {
       "$id": 227,
@@ -1392,7 +1392,7 @@
       "$id": 230,
       "<8C7DD24D>": "<96998CB5>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Jaguar Slash"
+      "<DBAF43F0>": "Jaguar Scratch"
     },
     {
       "$id": 231,
@@ -1488,7 +1488,7 @@
       "$id": 246,
       "<8C7DD24D>": "<645C2252>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Ray of Punishment"
+      "<DBAF43F0>": "Punishment Ray"
     },
     {
       "$id": 247,
@@ -1506,7 +1506,7 @@
       "$id": 249,
       "<8C7DD24D>": "<425AADCC>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Volcano Cannon"
+      "<DBAF43F0>": "Volcanic Cannon"
     },
     {
       "$id": 250,
@@ -1536,7 +1536,7 @@
       "$id": 254,
       "<8C7DD24D>": "<401573E9>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Wing Smash"
+      "<DBAF43F0>": "Smash Wing"
     },
     {
       "$id": 255,
@@ -1548,7 +1548,7 @@
       "$id": 256,
       "<8C7DD24D>": "<C2150EF3>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Hellbound"
+      "<DBAF43F0>": "Hell Bound"
     },
     {
       "$id": 257,
@@ -1614,7 +1614,7 @@
       "$id": 267,
       "<8C7DD24D>": "<F2426F43>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Beast Howl"
+      "<DBAF43F0>": "Beast Howling"
     },
     {
       "$id": 268,
@@ -1656,7 +1656,7 @@
       "$id": 274,
       "<8C7DD24D>": "<9971419A>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Raid Strike"
+      "<DBAF43F0>": "Raid Bat"
     },
     {
       "$id": 275,
@@ -1716,7 +1716,7 @@
       "$id": 284,
       "<8C7DD24D>": "<ACDBDAF3>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Hypno-Light"
+      "<DBAF43F0>": "Hypnosis Lantern"
     },
     {
       "$id": 285,
@@ -1812,7 +1812,7 @@
       "$id": 300,
       "<8C7DD24D>": "<584E1DA3>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Bomberhead"
+      "<DBAF43F0>": "Immelmann Turn"
     },
     {
       "$id": 301,
@@ -1824,7 +1824,7 @@
       "$id": 302,
       "<8C7DD24D>": "<BAB4169E>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Trout Hop"
+      "<DBAF43F0>": "Trout Upstream Jump"
     },
     {
       "$id": 303,
@@ -1836,13 +1836,13 @@
       "$id": 304,
       "<8C7DD24D>": "<2DD4B4CD>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Desperate Charge"
+      "<DBAF43F0>": "Assault Attack"
     },
     {
       "$id": 305,
       "<8C7DD24D>": "<38B546A0>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Dragon Decree"
+      "<DBAF43F0>": "Dragon Order"
     },
     {
       "$id": 306,
@@ -1926,7 +1926,7 @@
       "$id": 319,
       "<8C7DD24D>": "<5CC3DEFB>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Predation"
+      "<DBAF43F0>": "Gluttony"
     },
     {
       "$id": 320,
@@ -1950,7 +1950,7 @@
       "$id": 323,
       "<8C7DD24D>": "<EF1F75DE>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Fin of Fear"
+      "<DBAF43F0>": "Diving Press"
     },
     {
       "$id": 324,
@@ -2004,7 +2004,7 @@
       "$id": 332,
       "<8C7DD24D>": "<BBAC9653>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Dazzling Illusion"
+      "<DBAF43F0>": "Sparkle Illusion"
     },
     {
       "$id": 333,
@@ -2028,13 +2028,13 @@
       "$id": 336,
       "<8C7DD24D>": "<2F259FA2>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Refractive Edge"
+      "<DBAF43F0>": "Spectrum Edge"
     },
     {
       "$id": 337,
       "<8C7DD24D>": "<4F5B077E>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Lustrous Spike"
+      "<DBAF43F0>": "Luster Spike"
     },
     {
       "$id": 338,
@@ -2046,7 +2046,7 @@
       "$id": 339,
       "<8C7DD24D>": "<2DB3DFF3>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Shining Refrain"
+      "<DBAF43F0>": "Shining Ensemble"
     },
     {
       "$id": 340,
@@ -2088,19 +2088,19 @@
       "$id": 346,
       "<8C7DD24D>": "<144B8E84>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Prismatic Ring"
+      "<DBAF43F0>": "Prismatic Circle"
     },
     {
       "$id": 347,
       "<8C7DD24D>": "<82F52DF6>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Vivid Carve"
+      "<DBAF43F0>": "Vivid Chase"
     },
     {
       "$id": 348,
       "<8C7DD24D>": "<F9A4815D>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Pride of Place"
+      "<DBAF43F0>": "Precious Territory"
     },
     {
       "$id": 349,
@@ -2238,7 +2238,7 @@
       "$id": 371,
       "<8C7DD24D>": "<CFC734ED>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Illusory Bloom"
+      "<DBAF43F0>": "Spider Lily"
     },
     {
       "$id": 372,
