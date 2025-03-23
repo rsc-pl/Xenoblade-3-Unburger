@@ -1,0 +1,314 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<66E9621C>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, Kite!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<EC5A1AEC>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...What do *you* want?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<4A161B7A>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We've good news. We found a plot\nthat will be perfect for farming."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<C8130549>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Really?! That's great!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<4075BA66>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<D32D4087>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I mean, well that's just great.\nIn the eye-rolling sense."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<094BAE85>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...So you won't help us out?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<4AE2713B>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well... I never said that..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<C3858256>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Talk to us, boss. You gonna\nget your hands muddy or not?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<939AC501>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes! All right? I'll do it...\nI'll do my snuffing job."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<1E5147DF>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, so... What are we planting?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<AC37A08D>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Spongy Spuds. Juniper's already told us\nhow to grow them."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<3C20AB7B>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, here we go again."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<BBCC7E96>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't grumble. That potato\nwas truly delicious."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<A1833AD6>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Fine, whatever. Just gimme the spuds."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<582FB8CD>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<5CD6F37A>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...What?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<93E887C8>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Of course... We still need potatoes to plant."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<31BE6A1B>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You didn't get them ready?!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<9E6D0E61>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uhh... We were so focused on\nlooking for Earthwormwood..."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<FF780A70>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It happens."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<91279960>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This isn't like you, Commander.\nDidja eat something funky?"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<91EBE0D3>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Nobody's perfect."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<1DAA2C39>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Even the most scrupulous perfectionist\nis liable to err. O-on occasion."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<0A2D3F3A>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...All right, just hurry up and get some!"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<FB04914A>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Spongy Spuds, right?\nLet's start with about 10 of those."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<8A3C4D6B>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll gather them as fast as we can.\nShall we meet again in the fields?"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<22EFD097>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sure thing.\nJust send me the location by Iris."
+    }
+  ]
+}

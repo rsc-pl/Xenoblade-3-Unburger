@@ -1,0 +1,134 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<053B34B2>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Did you bring everything? Time for me\nto show my stuff, then. Bear with me,\nit's been a while."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<72B937D0>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How long do you think it'll take?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<90F929BA>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hrm... Well, it won't be done right\naway, that's for sure."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<C106AC9C>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Of course, of course."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<5B27E590>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In other words, we shouldn't\njust stand here waiting..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<862A06BA>",
+      "<ACF3531A>": "vY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I will stay here on standby, then."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<086D0BE9>",
+      "<ACF3531A>": "vY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll bring the painting back to\nthe prison camp once it's fixed!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<0354D0FA>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, gotcha. We'll head back then."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<EEC480C9>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In that case, mind helping me carry\nall of this to my workshop, young lady?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<B1E687EA>",
+      "<ACF3531A>": "vY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, ma'am."
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B62C5F2E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<FD0CA479>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Boom!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<61C92437>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "\"Boom\"? Hardly."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<BA53B394>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That there...was what you'd call gratuitous."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<70BD6B22>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The poor thing was within a cetri of its life."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<49C9F64C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This old chestnut?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<880705F4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I was quick. We won't get rumbled."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<6DFE55A7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You're aware we took out two Moebius yesterday?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<8066E9B8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We could well be the targets of a manhunt as we speak."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<072081F6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Then we knock 'em down some more."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<B2550893>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "There's no guarantee that you'll keep winning."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<15D1B946>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Nah, but *we* will."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<4BBBED5D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Think back on what you know.\nNot all Moebius are like those two."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<6ADDC1C1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](thoughtful, serious breath)"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<62B880E0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](slightly exasperated sigh)"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<7EFB0216>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Hm?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<05CB775A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What's up?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<EF57064F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "No, nothing..."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<51EFEE1A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](questioning grunt)"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<8E7811FD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Do you have something to get off your chest?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<BE180992>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](uncomfortable squirm)"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<1A42FB4F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You don't have to hold your tongue."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<04942737>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We were the ones who extricated you."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<A49F62B1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You may hold us fully accountable."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<80859072>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](decisive breath)"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<1BFA348F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Huh?"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<A281F147>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "These gloves?"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<CA6567C4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You want 'em?"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<82FDDFC2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "No, not what I meant..."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<2844B907>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That Art... What was it?"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<61FBA918>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Uh, which Art...?"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<9C12274A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ohhh, you mean the Ouroboros power?"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<F103D881>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Is that it?"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<5680B98F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "\"Ouro-boros\"...?"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<E2E2DB01>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "First time you've seen it."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<EFE7ADE3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Nothing weird about being curious."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<F113EA1B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "...It was just...wow."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<7F78CF9C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But hold on a mo'.\nYou've got Blades and Arts too."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<837F66B7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Pretty much the same thing."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<6CFD5782>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Not me... I can't..."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<4E549C65>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Can't...what?"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<EF8C2B93>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "He means he can't summon a Blade."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<998E79E2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Surely you must have realized given the way\nhe's been fighting."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<DDF09B9C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I hear it can be an issue with some soldiers."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<89623F91>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](shy/embarrassed breath)"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<7B0E8C57>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Uh, still, you know."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<F09CEDE7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "All part of life's rich tapestry."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<3C143006>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "No big deal, am I right?"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<B9535143>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](shy/embarrassed breath)"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<C2B156D8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Hm?"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<6B09BAFC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I couldn't take them...with these."
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<D225EA27>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Not like you did. No way."
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<ED9FD960>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I don't follow. Uh..."
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<2F35BEC2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "He's talking about us defeating the Moebius."
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<E5328E4D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](wordless affirmation/nod)"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<F1C7D531>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ohhh, now I get it."
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<2D5ADA30>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Think you got it all wrong, though."
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<DC30DC93>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Wha...?"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<897EA680>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You have it now. Inside you both."
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<DED10421>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This power."
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<DDA2A06B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](not understanding)"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<842D1F51>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Remember? Back when I freed you."
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<288507EF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "With a burst of light."
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<A28B7CAB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Anyone who gets touched by that light..."
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<BB6C8B5E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "inherits the Ouroboros power."
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<F82B7A74>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's the way we got it too."
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<5684E2D3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What, really...?"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<803E47AB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Uh-huh."
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<9EF5791A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "With a little work, I'll be able to draw out its true power..."
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<C7D14EC6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And then, in theory, I'll be able to free others\nwithout even having to destroy their Flame Clocks."
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<6BC9B0FE>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Well anyway, the rest's all up to you."
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<5F27CE54>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It's easy. You'll get the hang of it in no time."
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<07209D9C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](stunned/mistrusting)"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<C4470E27>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Thing about Ouroboros power is,"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<32809FD5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "it was created so we could smash up Moebius cores."
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<5B2C0785>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And those are...what?"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<3CFF7189>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Their shiny chest whatsits."
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<F360CE5C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You destroy one and it takes 'em clean out."
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<A1057AA7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "See, my grandad's pops..."
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<37AE0499>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "He used that power soon as it came to be,"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<032D9F3C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "and made it so that us City folk...\nwould hand it down through the generations."
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<014D7F11>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "\"Grandad's\"..."
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<1BACA4E5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "...And what's a...\"pops\"...?"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<675E9FA9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ohh, sorry..."
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<3F08B93F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Long story short..."
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<1FFDE8C0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "All this business went down about\n70 years ago, or thereabouts."
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<EFFB7BC2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Right..."
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<453807FC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Hey, Nikol."
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<C93FE038>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](startled)"
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<066E080A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I'm gonna be...frank with you here."
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<07D728BF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](hesitant assent/nod)"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<5BF547CA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Don't think yourself a burden, because you ain't one."
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<024E3981>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We've all got our strengths and weaknesses.\nNo big deal."
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<090BE444>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah?"
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<9E7629A1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](small assent/nod)"
+    }
+  ]
+}

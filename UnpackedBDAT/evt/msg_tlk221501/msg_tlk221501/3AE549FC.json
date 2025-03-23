@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<6BE243AF>",
+      "<ACF3531A>": "va1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Our commander's not just a genius\nmechanic, y'know. He's also got\nthe healing touch!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<9F89B0C8>",
+      "<ACF3531A>": "va1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You've seen his heavy-duty\nhealing Arts, right? And those\nones with a bit of a delay?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<949C2F85>",
+      "<ACF3531A>": "va1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He's even got Arts that boost healing\npower! With the commander on your\nside, you can't lose!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<A9AB6EFC>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If Valdi gets targeted, though, it'll be all\nover for us. We can't let that happen."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<4A8D301F>",
+      "<ACF3531A>": "va1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's a point.\nSo you keep him safe, all right?"
+    }
+  ]
+}

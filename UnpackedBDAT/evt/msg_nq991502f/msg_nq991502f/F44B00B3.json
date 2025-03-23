@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<6BADEDE5>",
+      "<ACF3531A>": "te1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hello, Denny-boy. Been ages and ages\nand ages since Panina see you."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<B5724CD9>",
+      "<ACF3531A>": "le1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It certainly has been ages, ma'am.\nSorry to rush through the conversation,\nbut can I borrow your kitchen?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<3FDF2C47>",
+      "<ACF3531A>": "te1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Please to go nuts, Denny-boy. You good\nfriend, and Panina always help out friend\nin need, whatever need may be."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<B664599F>",
+      "<ACF3531A>": "le1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Happy to hear it. I'll help myself to a\nfew of your ingredients as well, then.\nI'll pay you back later."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<B66EF332>",
+      "<ACF3531A>": "te1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Condiment that Denny-boy always\nlike to use is found on usual shelf.\nGo do what need doing now."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<C06A65AE>",
+      "<ACF3531A>": "le1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All righty, then. Let's get cracking!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<4AFFB6E3>",
+      "<ACF3531A>": "le1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sorry for the wait. The food's\nall done and ready to eat now."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<F24E7D9E>",
+      "<ACF3531A>": "le1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's head back to the Castle before it\ngets cold."
+    }
+  ]
+}

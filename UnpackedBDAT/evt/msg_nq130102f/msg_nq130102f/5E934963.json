@@ -1,0 +1,604 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<D0AFF542>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So this is the storehouse."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<DD2ADFFC>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Queen's flapping wings..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<D4F3FB8D>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All this stuff is yours?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<687357E5>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yep. And we're not at full capacity."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<C75BF0C3>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let me introduce you. This is Chelle,\nour storehouse manager extraordinaire."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<CC656410>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So, Chelle, everything should\nbe as previously discussed."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<F73049C0>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "As of now, our friends here are\non resource distribution."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<6C4BDE67>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Fine with me. It needs to be done."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<0E931474>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And the more surveillance, the better."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<9D733D33>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Who's surveilling who?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<9D99EE36>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All of you surveilling me, of course."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<9D06A69D>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "When you're living under the Flame Clock,\nyour allies and enemies are clear."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<0EA85A18>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whoever you can get the fire from\nis your enemy. Simple as that."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<39AE6E8D>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But we can't live by those rules any more."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<1EF6C522>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Enemies and allies..."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<8330DA7D>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They change depending on you\nyourself. That's the difficulty, isn't it?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<77AE709D>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Forcing conflict is just one\neffect of the Flame Clock."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<0A7E759D>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Couldn't we also say that the Flame\nClocks controlled our behavior?"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<34E6EF85>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's it."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<2FE51A78>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The time's ripe for traitors to emerge,\nso it's dangerous for any one person\nto hold too much power."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<8F2FABF1>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Do you doubt your own\ncomrades that much?"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<5BD16F02>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Of course I don't doubt them,\nI know they can get whatever job done.\nWe're all pretty brilliant here."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<DBF3FD84>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So the only thing that counts\nin your eyes is ability?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<4B57D884>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let me ask you, then. Would you trust\nsome researcher sat at their desk all day\nwith some manual labor?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<A4EA49D3>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Would you put a soldier who couldn't\npilot a bathtub in the cockpit of a Levnis?"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<12FA56A9>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<D8C65A9F>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Personal skill is what counts in tactics.\nAs long as you believe in that, that's\nenough."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<008186BA>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Does anyone disagree?"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<ADE0004A>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Alexandria, you..."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<C0C1F200>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "She's a right pain, isn't she?"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<12FFFC91>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Give it a rest, Chelle!"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<3BA77CED>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But I think it's a wise assessment."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<D6434A55>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No one knows how things\nare going to change."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<8465175E>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Keep an eye on me or not.\nI'm with Dame Alex. That's all."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<308F6608>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You really care for Alexandria, don't you?"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<A8A8D7D2>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I do. A lot."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<43BCD20B>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But I'm tenth term. Not got much time left."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<C3F759AF>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And Dame Alex needs\nallies more than anything."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<3C49493D>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Please be good to her."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<3B02902E>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You shouldn't talk like that."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<8D017753>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "About what time you have left..."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<684FEAAF>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I suppose you're right."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<0EEA02EB>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Didn't mean to talk for this long.\nAnyway, about Colony 4's resources."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<D45ADF54>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "First just got to do this."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<E42AD8B6>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Supply distribution\nauthorization granted."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<D8CA2980>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What was that?"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<DE82E892>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You've got access rights to the goods."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<235BF398>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You could think of it as unlocking a new\nfunction of the Collectopaedia Cards."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<AA8AD842>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You really packed it\nwith features, didn't you?"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<DE5FE848>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's nice to see you surprised."
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<EC8E6890>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This isn't surprise, it's shock."
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<F07A060A>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's pretty user-friendly. Just name the\ncommander of the colony you want to\nsend to."
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<E1C5B571>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Then just pick your supplies, and done."
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<D903554B>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But Colony 4's commander..."
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<7F8EC884>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No need to worry."
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<B4E8BBD6>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's all been arranged with Bolearis,\nthe acting commander. You can use\nhis name in this instance."
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<8EA92997>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's easier to pick it up by doing,\nto be honest. Give it a go."
+    }
+  ]
+}

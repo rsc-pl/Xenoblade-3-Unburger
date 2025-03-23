@@ -1,0 +1,94 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<AE4D18CF>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Guess I'll just grab us a\nrock sample from here..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<B379F7A1>",
+      "<ACF3531A>": "b1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll procure a stone sample from this area."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<16CA99AF>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The stone would be from around...\nhere, I think?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<C093AB4A>",
+      "<ACF3531A>": "d1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Gonna get us a rock sample."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<DDCE9A25>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All right, I think I'll be taking this stone."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<30D50F30>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The stone we're wanting\nshould be around here, eh?"
+    }
+  ]
+}

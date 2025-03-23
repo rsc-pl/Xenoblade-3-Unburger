@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<8407D09E>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wait, are you serious?\nYou really trust that Consul?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<4883B4F0>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Of course I don't, not entirely.\nI know it could be a trap, as well.\nBut still..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B14C11DF>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If... And this is a big \"if\", OK? If he was\ntelling the truth earlier, then we won't have\nto fight with Segiri and her friends..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<EF6FE8FE>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And more importantly, I'm sure there are\npeople waiting for her there..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<831321F8>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So for all those reasons, I thought..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<14F32353>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Well, either way, things can't\nstay like this forever."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<14475A97>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Rather than make speculation after\nspeculation and do nothing, you want\nto set something in motion."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<79979E52>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's also possible, if unlikely, that we\nmight be able to talk it through..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<3BEC99E3>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All right. Can you tell us where\nColony 0 is right now?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<69DA0C1A>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Aetia region, Captocorn Peak."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<74F0276A>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh? Wait, isn't that...?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<EE606F75>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's where we fought against\nthose guys, ain't it?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<36870BF8>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The point where Colony 0 is stationed\nis located even further in."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<97AFBB75>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That explains why you were\nlying in wait for us there."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<1FD49094>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "However. The geographical feature\ncalled the \"Nocclia Mire\" is located\nen route."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<D15672CF>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Entering it is predicted to have severe\nnegative impact on your biological\nprocesses."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<11DF6BF4>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Then how do you guys get through?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<529EB55A>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A Ferron's environmental hazard\nresistance can temporarily neutralize\npoisonous materials."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<AC80CDAE>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What's a \"Ferron\"...? ...Oh, is that the thing\nyou were riding inside?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<C18A3189>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Affirmative."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<07838C0B>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Consequently, traversal through the\nafflicted area will necessitate retrieval and\nrefurbishing of the abandoned Ferron suit."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<7626F394>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We can ask Riku to fix it up.\nWill that be OK with you?"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<1227894B>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No objections."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<D6D3AB5B>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, if Riku must. Will not\nleave friends in lurch."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<67D73FA8>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All right then. Just be patient for us\na little while longer, OK, Segiri?"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<36464926>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Compliance."
+    }
+  ]
+}

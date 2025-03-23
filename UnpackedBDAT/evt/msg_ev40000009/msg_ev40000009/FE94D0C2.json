@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<043BA884>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "What's this...? Ah, a couple of Armories!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<16EEDD26>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "\"Armories\"...?\nYou mean those Levnis-looking things?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<5DEED82A>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Yeah, they're the City's mobile assault vehicles.\nThey're fitted with a pretty nifty cloaking device."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<89FF10B0>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "We got our hands on these particular bad boys\nafter some Moebius lackeys shot them down."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<D85F6B2F>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Sadly, the impact of the crash caused\nsignificant damage to several systems."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<11BC285C>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Seriously...?\nIs that why they're still in pieces?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<1B574505>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Can't you fix 'em?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<E86F0124>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "We've been trying, but they've been giving us some trouble."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<246EF9C3>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Hmm..."
+    }
+  ]
+}

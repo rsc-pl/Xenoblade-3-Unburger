@@ -1,0 +1,124 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<348F3AE5>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Us Liberators originally lived in\nseparate worlds."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<4EB749D4>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Shulk and Panacea in the world of the Bionis,\nand Boss and I in Alrest... With me so far?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<BAFD260B>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "When Aionios was born, most people were\nassimilated by Origin, but there were also\nexceptions such as us."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<94337214>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Why weren't you assimilated, though?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<449E80CC>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...That, I do not know. The reason\nfor our existence here is unclear."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<CE50668F>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It may be that we have a role to play\nin this world. Something like that."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<9A4632D0>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A role...?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<18B74F7A>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Easy, lad. No need to overheat your brain\nthinkin' about this stuff."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<A4750DCC>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Linka and me, we did what we could to exist,\nto be here and to meet you. That's all there\nis to it, I reckon."
+    }
+  ]
+}

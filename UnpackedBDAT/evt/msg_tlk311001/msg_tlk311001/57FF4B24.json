@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<128DF535>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Say, what kind of person\nwould you say Isurd is?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<CB359F08>",
+      "<ACF3531A>": "wc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah... You want to know about\nthe commander, do you?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<38A120AD>",
+      "<ACF3531A>": "wc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Our commander's one of the most\nexceptional Healers in Agnus. His attacks\nare nothing to be sniffed at either."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<D3C9FA17>",
+      "<ACF3531A>": "wc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "When his team need no more attention,\nhe'll switch to offense and pull everyone\nout of dire straits with his Talent Art."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<18947937>",
+      "<ACF3531A>": "wc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's not often we get to fight by his side\ngiven his role as a leader, but when he\ndoes step in, it's a real sight to behold."
+    }
+  ]
+}

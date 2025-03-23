@@ -1,0 +1,574 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<D3CC43B4>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, Riku!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<111D7FAA>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Why whole crowd come see Riku?\nRiku exasperate."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<7884DF2B>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Anyway, Riku is busy now with work\non Ouroboros Stone. Please to come\nback later."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<A70AC766>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's exactly what we wanted to\ntalk to you about, actually."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<D9DB3CB7>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You said before that it could be powered up.\nCould you tell us more about it?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<3F9D2A90>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Friend should have led with that.\nIn that case, have come at just right time."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<220A8527>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Please to bear with for moment."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<B1D693EA>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ur-form of Ouroboros Stone was\nmade by Queens of Keves and Agnus,\nmany many yonks ago."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<33EC26D9>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But that form still imperfect, hence\npeople who summon power of Ouroboros\nfail to stand up to Moebius."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<6159E11F>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And so Queen of Keves was captured..."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<65759BBB>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "With Queen of Agnus left alone,\nshe slink into hiding place to escape\nbeyond reach of Moebius."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<4565AB83>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But Riku hear that perfectization\nof mechanism was close at hand."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<B341CEA1>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<5B68C14D>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Riku capable of improve assembly proper\nby self, basing on scattered records from\ntime of construction."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<BE9E0539>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But that alone surely not do trick."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<695E0093>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thing needed is probably...\n\"Trigger\"."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<1DD3168F>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What do you mean by that?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<0F0AAC01>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "To make long story short,\nRiku give friends this."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<952DCF1A>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What are these?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<A77D2D68>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Microterminals, for connect\nOuroboros Stone with Ouroboros\npower users."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<11B5C1B7>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "When use Ouroboros power while\nwearing terminal, biological data of user\nsent to Ouroboros Stone."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<09369F42>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Should allow Ouroboros Stone\nto further \"grow\" in turn."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<2D2B649B>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And when Ouroboros Stone grow, thanks to\nmicroterminal, power of Nikol and Glimmer\nalso get more powerful, in principle."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<585844EB>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, I get it! So they just have to train\nwhile wearing those wotsits, yeah?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<91C3C2D9>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It not quite so simple."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<FB2F200E>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "As Riku mention, for true growth,\nwill need even bigger \"trigger\"."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<5CD12CD9>",
+      "<ACF3531A>": "d1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I don't think I get what you mean by that.\nWhat're we actually supposed to do?"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<9129D702>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If Riku knew, job of Riku would be easier."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<4321D2E8>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All Riku can tell is that normal level\nof fighting will not be enough."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<7A6AFA10>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I think I might've figured it out, actually."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<13BDF070>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "When we were fighting against that Consul\ncalled N, when he had us cornered..."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<AF64DDA1>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There was this distinct spike in\nMatthew's Ouroboros power!"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<9BFA0D3E>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm thinking that must've been the\n\"trigger\" - for Matthew, anyway."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<E83BFEE4>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh...! That's what you mean!"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<7F94AF02>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So we're saying that fighting\nagainst even stronger foes could\nbe the catalyst?"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<4CAAD9E2>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hell yeah! Then how about we get out\nthere and hunt all the big-game monsters\nwe can clap eyes on!"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<EF391643>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...No, I've got a better idea."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<FAE50EAA>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Oh boy, here it comes."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<AD807B93>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We can be your opponents,\nyour \"even stronger foes\"."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<9ED5BA29>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whuh?!"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<2C2F9424>",
+      "<ACF3531A>": "d1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh, one sec...\nWhen you say \"we\",\ndo you mean...?"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<B0070A91>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well it wouldn't be fair if you ganged\nup on him, right? Can't have that."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<88ECA2C4>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you can beat us both, then we'll\nlet you do whatever you like.\n...Simple enough, right?"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<00EFAFB6>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now we're talking! A battle against\nShulk and Rex? Can't ask for better\nopponents than that."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<6B478D5C>",
+      "<ACF3531A>": "d1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Huh."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<B0AA2B7A>",
+      "<ACF3531A>": "vp1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What, are you gonna chicken out?"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<52D810F2>",
+      "<ACF3531A>": "d1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh, in your dreams!"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<F588B357>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Might not go down too well if we start\na punch-up in the middle of the Colony.\nHow about we relocate?"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<56D9C768>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hm, may I propose the area\nbehind the Colony, then?"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<6BDE5359>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Gotrock Oracle Ruins, eh?\nSure, sounds fitting. Let's do it!"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<9CD3A3F5>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No objections from you two?"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<C44EBF42>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Not from me..."
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<7C323B19>",
+      "<ACF3531A>": "d1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmph. Suits me just fine."
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<F81D8C80>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Go on, Nikol, Glimmer.\nReally stick it to 'em!"
+    }
+  ]
+}

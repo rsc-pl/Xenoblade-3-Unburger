@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<9D60E8B6>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How's Commander Isurd?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<8ED3FFFB>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It sounds like he's eager to jump\nback into work. I do wish he'd rest up\nfirst, but... That's the kind of man he is."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<86E6E158>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Ah, um, good to hear he's\nfeeling well, at least..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<8CFD9E28>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The other soldiers are waking up, too."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<20765E85>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Very interesting."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<F32061C0>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Someone should bring them up to speed,\nbut we're just outsiders, after all..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<F1660C86>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This is your manor, right?\nYou should do the honors\nand fill everyone in."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<0F0DF910>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That is being taken care of."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<9CFFF188>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Commander Isurd is going to get\nthe colony troops back in line shortly."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<73C4CA92>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK... So, it sounds like it's fine for us\nto just walk around like normal then."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<E079D9D4>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "On that note, there's something\nI'd like to check."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<E36DD6AD>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Taion, will you come along?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<2A9F3E99>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Huh...? Sure. Where are we going?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<5F844947>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Out of Colony Lambda."
+    }
+  ]
+}

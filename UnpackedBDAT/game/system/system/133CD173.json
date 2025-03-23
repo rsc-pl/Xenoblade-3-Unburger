@@ -1,0 +1,4098 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<0A08136F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Puzzletree Wood"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<38D17977>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wraithwood"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<85832909>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lacquerwood"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<9181C4A8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Purple-Ring Pine"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<9C944450>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Spring Cedar"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<2893FDCD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cracker Nut"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<8E851FF1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Milky Soy"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<505BAF4C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Paste Bean"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<EE2C73E2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dessica Bean"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<7225259E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cling Seed"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<5AD18ACC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Prickle Spice"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<108FEA47>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shepherd's Purse"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<EC71478F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fragrant Grass"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<B44CED79>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Deodorugula"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<ADBE68F9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Razzle Basil"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<69F3F6BB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Plate Pothos"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<E5D474F9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Secret Turf"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<79BA1AED>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Smushi Rice"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<E6982486>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Jasper Coriander"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<8BE892A8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Earthwormwood"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<725A8C87>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ruska"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<C036E3F0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strong Dandelion"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<26DF0A80>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Crimson Moonbloom"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<F0E32BE2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Panda Pansy"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<75C59139>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Suite Pea"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<2B21A146>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wiltflower"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<62B3E9B9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shrinking Orchid"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<3E55DDDB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dance Apple"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<0FB5771B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Black Kiwi"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<2110B994>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dark Grape"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<7CFD3F9F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ingot Carrot"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<8AFB5652>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Emetater"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<87D7B257>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wand Burdock"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<377246A5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chewy Radish"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<D02157DB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Filling Onion"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<FE810524>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Popper Pumpkin"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<751284D4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bloody Doomcap"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<3AEB8738>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pillowshroom"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<63872CCF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Micropuff"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<68D37058>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Clusterelle"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<79EA6B18>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Death Mushroom"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<EFAF4DC7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Delicate Bell"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<CDC873A9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Usherine"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<2376F489>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Stoicite"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<3B446455>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Greedstone"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<82F3CBE4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sage Spinel"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<F2C7AB66>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dilemma Rock"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<AC9070A7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bezoarite"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<D2D243C5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flake Crystal"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<71C53065>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Matryos Carbon"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<E4B7F79A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rockabye Basalt"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<A9A1A5C1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Behemoth Fossil"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<160B0195>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Buloofo Fossil"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<9E0FD472>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ponio Fossil"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<BBD8A9A6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Giant Hornet Fossil"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<146C0271>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Helix Tube"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<FF8729C1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Blue Chain"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<B205FA9C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glowplug"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<13926BD5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Twin Generators"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<1B0F178B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dowdy Armor Kernel"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<21608B09>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ever-Revolfin"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<0BE0C818>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Splendorshell"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<F3941200>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Snow Conch"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<426AC604>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Orbshell"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<408ED1D9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ink Mollusk"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<9A12062D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Beaknib Quill"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<FD85DCCF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tirkin Notebook"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<21A5775C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fire-Fighting Hydrojet"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<11EFB85D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Seafoam Soap"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<2C807806>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Missing Tree"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<70E8DB6B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bronze Wood"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<BC2F0EC1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cotton Branch"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<A09BFCB2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Balm Balsa"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<D2018901>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Syrup Spruce"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<E67A9DF4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sheen Cedar"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<5CABB091>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Khaki Kernel"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<F1DFB975>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Relief Bean"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<2CB84342>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Smalnut"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<4E9474B5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Redrum Seed"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<BBAF6F7F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Jaggy Pecan"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<0BDB9987>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shaded Acorn"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<8A2E04E4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Stimulime"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<74657841>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fourtune Clover"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<EC926796>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Thleepy Clover"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<12B36784>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Twooth Clover"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<981E7488>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Poison Ivy"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<68BAE121>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Longleaf"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<DF38C684>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Powdered Wheat"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<83773DDA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lily of the Sunny Valley"
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<F62A10A0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Anarchy Orchid"
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<1ED6FEC8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Spirit Clematis"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<A4B61733>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chrysanthemany"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<11BB54B6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Citribell"
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<02FE9A86>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Honey Lily"
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<58DAF0DD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fleeting Plum"
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<F70EFC4D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ruby Pineapple"
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<DF88D41B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Golden Beetroot"
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<6CFD279C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fire Apricot"
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<48C247D5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Crispy Peach"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<276B8F81>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Quinini"
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<2D2A513F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Armored Chestnut"
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<8F2EF81C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Elegant Pummelo"
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<0B9FCBF6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Scarlet Lychee"
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<99FD0EBB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Juicy Broccoli"
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<53B4766A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Comet Carrot"
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<6DA3C040>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Empress Lettuce"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<DD1F92E6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Salty Cabbage"
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<E4212BFD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Kaleidoscelery"
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<3198681B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Potatwo"
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<1968B950>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glitter Radish"
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<2DB5DE7A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Purple Pepper"
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<1FC35FDF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Misty Asparagus"
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<EE1E8DFA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Zapcap"
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<7F0B4259>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Limber Lady"
+    },
+    {
+      "$id": 115,
+      "<8C7DD24D>": "<7FD7602F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Leech Agaric"
+    },
+    {
+      "$id": 116,
+      "<8C7DD24D>": "<BC2C8F7D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mallow-o'-the-Marsh"
+    },
+    {
+      "$id": 117,
+      "<8C7DD24D>": "<F26A0A5E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Jalapenoki"
+    },
+    {
+      "$id": 118,
+      "<8C7DD24D>": "<3D60C8B9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fleet Shimeji"
+    },
+    {
+      "$id": 119,
+      "<8C7DD24D>": "<EA41E833>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Polar Pearl"
+    },
+    {
+      "$id": 120,
+      "<8C7DD24D>": "<87A43497>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Obscurian"
+    },
+    {
+      "$id": 121,
+      "<8C7DD24D>": "<08AF6DD8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flammethyst"
+    },
+    {
+      "$id": 122,
+      "<8C7DD24D>": "<DE2A46FA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pointed Obsidian"
+    },
+    {
+      "$id": 123,
+      "<8C7DD24D>": "<530BBCB7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ripple Peridot"
+    },
+    {
+      "$id": 124,
+      "<8C7DD24D>": "<34758648>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steady Onyx"
+    },
+    {
+      "$id": 125,
+      "<8C7DD24D>": "<7E9F3ECB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Miraculite"
+    },
+    {
+      "$id": 126,
+      "<8C7DD24D>": "<FB9CCE4E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Limelightstone"
+    },
+    {
+      "$id": 127,
+      "<8C7DD24D>": "<60E6B69B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bismuth Slab"
+    },
+    {
+      "$id": 128,
+      "<8C7DD24D>": "<EF97F4AA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Capronite"
+    },
+    {
+      "$id": 129,
+      "<8C7DD24D>": "<3D4FF8F4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Levnite"
+    },
+    {
+      "$id": 130,
+      "<8C7DD24D>": "<BED2743A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Parisax Fossil"
+    },
+    {
+      "$id": 131,
+      "<8C7DD24D>": "<68BAC510>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gyanna Fossil"
+    },
+    {
+      "$id": 132,
+      "<8C7DD24D>": "<7C513952>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Oil Oyster Fossil"
+    },
+    {
+      "$id": 133,
+      "<8C7DD24D>": "<4E970AE5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sickle Cricket Fossil"
+    },
+    {
+      "$id": 134,
+      "<8C7DD24D>": "<FACA9079>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dark Fish Fossil"
+    },
+    {
+      "$id": 135,
+      "<8C7DD24D>": "<DDF44E07>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Griffox Fossil"
+    },
+    {
+      "$id": 136,
+      "<8C7DD24D>": "<901C7BD7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Munchygrub Fossil"
+    },
+    {
+      "$id": 137,
+      "<8C7DD24D>": "<A6388083>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Riik Fossil"
+    },
+    {
+      "$id": 138,
+      "<8C7DD24D>": "<FEED6AB0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ether Penguin Fossil"
+    },
+    {
+      "$id": 139,
+      "<8C7DD24D>": "<ED0AEFD5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Jagron Fossil"
+    },
+    {
+      "$id": 140,
+      "<8C7DD24D>": "<0972A24B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Warning Lamp"
+    },
+    {
+      "$id": 141,
+      "<8C7DD24D>": "<C855BEAE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fancy Bolt"
+    },
+    {
+      "$id": 142,
+      "<8C7DD24D>": "<C12AC9FD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Warrior Screw"
+    },
+    {
+      "$id": 143,
+      "<8C7DD24D>": "<33F3CE25>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lucifurnace"
+    },
+    {
+      "$id": 144,
+      "<8C7DD24D>": "<DE88C99E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Serenity Jet"
+    },
+    {
+      "$id": 145,
+      "<8C7DD24D>": "<6686D742>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Stinger Pile"
+    },
+    {
+      "$id": 146,
+      "<8C7DD24D>": "<0781B887>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Trippleg Joint"
+    },
+    {
+      "$id": 147,
+      "<8C7DD24D>": "<8EEE8182>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bullet Screen"
+    },
+    {
+      "$id": 148,
+      "<8C7DD24D>": "<A2C747AF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gungnir Celeblade"
+    },
+    {
+      "$id": 149,
+      "<8C7DD24D>": "<98FE0BFB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "All-Nighter Pot"
+    },
+    {
+      "$id": 150,
+      "<8C7DD24D>": "<A10319AC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Heavy-Duty Firelighter"
+    },
+    {
+      "$id": 151,
+      "<8C7DD24D>": "<E639F516>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mjölnir Celeblade"
+    },
+    {
+      "$id": 152,
+      "<8C7DD24D>": "<86614937>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Iota Goods"
+    },
+    {
+      "$id": 153,
+      "<8C7DD24D>": "<B22019FA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Grandcoat Stoneoak"
+    },
+    {
+      "$id": 154,
+      "<8C7DD24D>": "<52BE2276>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Curse Branch"
+    },
+    {
+      "$id": 155,
+      "<8C7DD24D>": "<7FF661FE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shimmer Leaf"
+    },
+    {
+      "$id": 156,
+      "<8C7DD24D>": "<514049CD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Woodrum"
+    },
+    {
+      "$id": 157,
+      "<8C7DD24D>": "<2A13E717>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Parched Branch"
+    },
+    {
+      "$id": 158,
+      "<8C7DD24D>": "<B8252A1C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tearaway Oak"
+    },
+    {
+      "$id": 159,
+      "<8C7DD24D>": "<4EDE6638>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Harmony Ebony"
+    },
+    {
+      "$id": 160,
+      "<8C7DD24D>": "<A10DC27E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Black Liver Bean"
+    },
+    {
+      "$id": 161,
+      "<8C7DD24D>": "<33408E72>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Silverseed"
+    },
+    {
+      "$id": 162,
+      "<8C7DD24D>": "<0A9528ED>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Condimenut"
+    },
+    {
+      "$id": 163,
+      "<8C7DD24D>": "<00DF01A9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Oil Lentil"
+    },
+    {
+      "$id": 164,
+      "<8C7DD24D>": "<13CC40CE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gloomy Pitcher Plant"
+    },
+    {
+      "$id": 165,
+      "<8C7DD24D>": "<0A7284DE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Squeezy Lime"
+    },
+    {
+      "$id": 166,
+      "<8C7DD24D>": "<51B2B349>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tirkingrass"
+    },
+    {
+      "$id": 167,
+      "<8C7DD24D>": "<73FD28E9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aldae Evridae"
+    },
+    {
+      "$id": 168,
+      "<8C7DD24D>": "<9EB00849>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pulpgrass"
+    },
+    {
+      "$id": 169,
+      "<8C7DD24D>": "<06772C22>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gromrice"
+    },
+    {
+      "$id": 170,
+      "<8C7DD24D>": "<3C8CF8B9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Curegrass"
+    },
+    {
+      "$id": 171,
+      "<8C7DD24D>": "<00EE203C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Black Iris"
+    },
+    {
+      "$id": 172,
+      "<8C7DD24D>": "<DE9505CA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "King Marigold"
+    },
+    {
+      "$id": 173,
+      "<8C7DD24D>": "<23C8FA57>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shiny Rose"
+    },
+    {
+      "$id": 174,
+      "<8C7DD24D>": "<F961E2DF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sundialflower"
+    },
+    {
+      "$id": 175,
+      "<8C7DD24D>": "<AB1A28B8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sirius Anemone"
+    },
+    {
+      "$id": 176,
+      "<8C7DD24D>": "<A1CEEEF3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bubblesia"
+    },
+    {
+      "$id": 177,
+      "<8C7DD24D>": "<3F0092DA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Juicy Grape"
+    },
+    {
+      "$id": 178,
+      "<8C7DD24D>": "<8CE97BAC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Spicy Nut"
+    },
+    {
+      "$id": 179,
+      "<8C7DD24D>": "<5E7D5600>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Green Nectarine"
+    },
+    {
+      "$id": 180,
+      "<8C7DD24D>": "<CBBE2B1A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Monstrum Mango"
+    },
+    {
+      "$id": 181,
+      "<8C7DD24D>": "<8C256FD4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Obsidian Berry"
+    },
+    {
+      "$id": 182,
+      "<8C7DD24D>": "<BF9BBB23>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Million-Leaf Dill"
+    },
+    {
+      "$id": 183,
+      "<8C7DD24D>": "<95CF5A43>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Spongy Spud"
+    },
+    {
+      "$id": 184,
+      "<8C7DD24D>": "<FC67276D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "White Melonball"
+    },
+    {
+      "$id": 185,
+      "<8C7DD24D>": "<426BC3C5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glare Aubergine"
+    },
+    {
+      "$id": 186,
+      "<8C7DD24D>": "<DDE5EF16>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bafflestripe Gourd"
+    },
+    {
+      "$id": 187,
+      "<8C7DD24D>": "<B9BD3D5E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Minionion"
+    },
+    {
+      "$id": 188,
+      "<8C7DD24D>": "<C133C8F5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gimme Lettuce"
+    },
+    {
+      "$id": 189,
+      "<8C7DD24D>": "<AF11553C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Kelp Nameko"
+    },
+    {
+      "$id": 190,
+      "<8C7DD24D>": "<B4B5D4D2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Schorl Mushroom"
+    },
+    {
+      "$id": 191,
+      "<8C7DD24D>": "<5AC86BEA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dainty Shroom"
+    },
+    {
+      "$id": 192,
+      "<8C7DD24D>": "<31ABFE71>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pentashroom"
+    },
+    {
+      "$id": 193,
+      "<8C7DD24D>": "<F86DBF9E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Kelp Mushroom"
+    },
+    {
+      "$id": 194,
+      "<8C7DD24D>": "<5030EB81>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Naiti-Nait"
+    },
+    {
+      "$id": 195,
+      "<8C7DD24D>": "<AC5389A6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pione Stone"
+    },
+    {
+      "$id": 196,
+      "<8C7DD24D>": "<058607D4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Powder Pearl"
+    },
+    {
+      "$id": 197,
+      "<8C7DD24D>": "<9A959FEA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Blood Emerald"
+    },
+    {
+      "$id": 198,
+      "<8C7DD24D>": "<BC50091F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Salty Soil"
+    },
+    {
+      "$id": 199,
+      "<8C7DD24D>": "<9641D5D0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Nail Stone"
+    },
+    {
+      "$id": 200,
+      "<8C7DD24D>": "<3716AC79>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mille-Feuille Rock"
+    },
+    {
+      "$id": 201,
+      "<8C7DD24D>": "<D0B1A586>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Beaconstone"
+    },
+    {
+      "$id": 202,
+      "<8C7DD24D>": "<22E6F0B5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lexos Fossil"
+    },
+    {
+      "$id": 203,
+      "<8C7DD24D>": "<733B4C16>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Electric Cricket Fossil"
+    },
+    {
+      "$id": 204,
+      "<8C7DD24D>": "<7672FB81>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fossil Monkey Fossil"
+    },
+    {
+      "$id": 205,
+      "<8C7DD24D>": "<B27E5405>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Giant's Limb"
+    },
+    {
+      "$id": 206,
+      "<8C7DD24D>": "<1916012A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Android Gear"
+    },
+    {
+      "$id": 207,
+      "<8C7DD24D>": "<B011293F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mobility Thruster"
+    },
+    {
+      "$id": 208,
+      "<8C7DD24D>": "<C5BDE936>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Surge Circuit"
+    },
+    {
+      "$id": 209,
+      "<8C7DD24D>": "<AC983167>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Project-a-Blade"
+    },
+    {
+      "$id": 210,
+      "<8C7DD24D>": "<CD98A25D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Helix Conch"
+    },
+    {
+      "$id": 211,
+      "<8C7DD24D>": "<8759FFB1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sand Curler"
+    },
+    {
+      "$id": 212,
+      "<8C7DD24D>": "<2E00B816>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mudclam"
+    },
+    {
+      "$id": 213,
+      "<8C7DD24D>": "<7BDC6255>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cavalcade Mussel"
+    },
+    {
+      "$id": 214,
+      "<8C7DD24D>": "<C0B4AB99>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Master Spanner"
+    },
+    {
+      "$id": 215,
+      "<8C7DD24D>": "<FB282859>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "All-Terrain Cart"
+    },
+    {
+      "$id": 216,
+      "<8C7DD24D>": "<550C1F60>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Burned Rice Sugar"
+    },
+    {
+      "$id": 217,
+      "<8C7DD24D>": "<B6A77619>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Trusty Hunter's Tool"
+    },
+    {
+      "$id": 218,
+      "<8C7DD24D>": "<4D3A8BBF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Goldleaf Cypress"
+    },
+    {
+      "$id": 219,
+      "<8C7DD24D>": "<69A7990A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Heyday Poplar"
+    },
+    {
+      "$id": 220,
+      "<8C7DD24D>": "<4309FFDB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rubber Wood"
+    },
+    {
+      "$id": 221,
+      "<8C7DD24D>": "<4505F184>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Heart Peach"
+    },
+    {
+      "$id": 222,
+      "<8C7DD24D>": "<D62116F9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Muscat Noir"
+    },
+    {
+      "$id": 223,
+      "<8C7DD24D>": "<B351FE34>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dream Lemon"
+    },
+    {
+      "$id": 224,
+      "<8C7DD24D>": "<CB58E73B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aquabello"
+    },
+    {
+      "$id": 225,
+      "<8C7DD24D>": "<A148926B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Varicini"
+    },
+    {
+      "$id": 226,
+      "<8C7DD24D>": "<685D9B17>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glueshroom"
+    },
+    {
+      "$id": 227,
+      "<8C7DD24D>": "<05EFE0A9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lozenge Diamond"
+    },
+    {
+      "$id": 228,
+      "<8C7DD24D>": "<17A3A1EA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vagrant Jade"
+    },
+    {
+      "$id": 229,
+      "<8C7DD24D>": "<64F30F9C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wetstone"
+    },
+    {
+      "$id": 230,
+      "<8C7DD24D>": "<86CA7464>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Winter Agate"
+    },
+    {
+      "$id": 231,
+      "<8C7DD24D>": "<CA581E05>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Atmos Sapphire"
+    },
+    {
+      "$id": 232,
+      "<8C7DD24D>": "<85AF697E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Demon Marble"
+    },
+    {
+      "$id": 233,
+      "<8C7DD24D>": "<93F2BAD7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Jet Breccia"
+    },
+    {
+      "$id": 234,
+      "<8C7DD24D>": "<15B2BA07>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Impact Rock"
+    },
+    {
+      "$id": 235,
+      "<8C7DD24D>": "<B5E7F431>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Poison Steel"
+    },
+    {
+      "$id": 236,
+      "<8C7DD24D>": "<53C94957>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Millennial Clay"
+    },
+    {
+      "$id": 237,
+      "<8C7DD24D>": "<3587FC42>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Spheric Rock"
+    },
+    {
+      "$id": 238,
+      "<8C7DD24D>": "<B38F646C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dusticite"
+    },
+    {
+      "$id": 239,
+      "<8C7DD24D>": "<E0C1C9A0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Green Diode"
+    },
+    {
+      "$id": 240,
+      "<8C7DD24D>": "<07F3FE16>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Jazz Engine"
+    },
+    {
+      "$id": 241,
+      "<8C7DD24D>": "<D460E592>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shield Emitter"
+    },
+    {
+      "$id": 242,
+      "<8C7DD24D>": "<DAE0F0CC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Three-Fold Transistor"
+    },
+    {
+      "$id": 243,
+      "<8C7DD24D>": "<3F40C54C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dynamic Coating"
+    },
+    {
+      "$id": 244,
+      "<8C7DD24D>": "<31E7BFDE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ocular Sensor"
+    },
+    {
+      "$id": 245,
+      "<8C7DD24D>": "<FD63E82E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chariot Spinner"
+    },
+    {
+      "$id": 246,
+      "<8C7DD24D>": "<6B2AD4B7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sheer Guard"
+    },
+    {
+      "$id": 247,
+      "<8C7DD24D>": "<096D7D93>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Assembly Conductor"
+    },
+    {
+      "$id": 248,
+      "<8C7DD24D>": "<D6E4EEC8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hexa-Stabilizer"
+    },
+    {
+      "$id": 249,
+      "<8C7DD24D>": "<DF703AD3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Utility Gloves"
+    },
+    {
+      "$id": 250,
+      "<8C7DD24D>": "<64E2A3A2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "One-Cup Liquid Grub"
+    },
+    {
+      "$id": 251,
+      "<8C7DD24D>": "<E7138F6B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Circadian Tea"
+    },
+    {
+      "$id": 252,
+      "<8C7DD24D>": "<642A36D8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ironclad Undershirt"
+    },
+    {
+      "$id": 253,
+      "<8C7DD24D>": "<B85A9F42>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Silent Wood"
+    },
+    {
+      "$id": 254,
+      "<8C7DD24D>": "<E2FFEC55>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hide 'n' Creeper"
+    },
+    {
+      "$id": 255,
+      "<8C7DD24D>": "<EE581834>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vermilion Bark"
+    },
+    {
+      "$id": 256,
+      "<8C7DD24D>": "<81F3D840>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Prop Branch"
+    },
+    {
+      "$id": 257,
+      "<8C7DD24D>": "<659B8822>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ten-Term Palm"
+    },
+    {
+      "$id": 258,
+      "<8C7DD24D>": "<29DA9D1F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Parvenu Pea"
+    },
+    {
+      "$id": 259,
+      "<8C7DD24D>": "<4D6AA842>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Neo Walnut"
+    },
+    {
+      "$id": 260,
+      "<8C7DD24D>": "<402B7A81>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Polarizing Pip"
+    },
+    {
+      "$id": 261,
+      "<8C7DD24D>": "<826975BB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Blue Sorghum"
+    },
+    {
+      "$id": 262,
+      "<8C7DD24D>": "<CA6EE5F0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Egg Seed"
+    },
+    {
+      "$id": 263,
+      "<8C7DD24D>": "<AB5651B5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accord Acorn"
+    },
+    {
+      "$id": 264,
+      "<8C7DD24D>": "<7A533414>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Beautiful Shoot"
+    },
+    {
+      "$id": 265,
+      "<8C7DD24D>": "<31A6D47F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sunny Aloe"
+    },
+    {
+      "$id": 266,
+      "<8C7DD24D>": "<67C99AF0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dish Philodendron"
+    },
+    {
+      "$id": 267,
+      "<8C7DD24D>": "<27CF15E4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Thirstweed"
+    },
+    {
+      "$id": 268,
+      "<8C7DD24D>": "<E2D2F807>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perfume Herb"
+    },
+    {
+      "$id": 269,
+      "<8C7DD24D>": "<8F260EEF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Armu Barley"
+    },
+    {
+      "$id": 270,
+      "<8C7DD24D>": "<E3ACE2EE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Thinskin"
+    },
+    {
+      "$id": 271,
+      "<8C7DD24D>": "<68227679>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Galaxy Swirl"
+    },
+    {
+      "$id": 272,
+      "<8C7DD24D>": "<2E2CA5DB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Honking Shrub"
+    },
+    {
+      "$id": 273,
+      "<8C7DD24D>": "<12DEB917>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Delerium Foxglove"
+    },
+    {
+      "$id": 274,
+      "<8C7DD24D>": "<8A6242C6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Doomsday Poppy"
+    },
+    {
+      "$id": 275,
+      "<8C7DD24D>": "<4D1D062B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mosaic Petal"
+    },
+    {
+      "$id": 276,
+      "<8C7DD24D>": "<DF4704A1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Carnomile"
+    },
+    {
+      "$id": 277,
+      "<8C7DD24D>": "<6F0565E3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rainbow Boronia"
+    },
+    {
+      "$id": 278,
+      "<8C7DD24D>": "<83203476>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Plumage Peach"
+    },
+    {
+      "$id": 279,
+      "<8C7DD24D>": "<9D5E1BB9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Amethyst Melon"
+    },
+    {
+      "$id": 280,
+      "<8C7DD24D>": "<03E7C8BF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Juicy Melon"
+    },
+    {
+      "$id": 281,
+      "<8C7DD24D>": "<6ECC786A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ring Guava"
+    },
+    {
+      "$id": 282,
+      "<8C7DD24D>": "<E5F8C45F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Honey Plum"
+    },
+    {
+      "$id": 283,
+      "<8C7DD24D>": "<028311E3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Babybubble Berry"
+    },
+    {
+      "$id": 284,
+      "<8C7DD24D>": "<A49D39B9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Heavy Pomegranate"
+    },
+    {
+      "$id": 285,
+      "<8C7DD24D>": "<48643AAD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chocfruit"
+    },
+    {
+      "$id": 286,
+      "<8C7DD24D>": "<378C7E14>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Whisper Tomato"
+    },
+    {
+      "$id": 287,
+      "<8C7DD24D>": "<92D24750>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pink Asparagus"
+    },
+    {
+      "$id": 288,
+      "<8C7DD24D>": "<B149286A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Thousand Carrot"
+    },
+    {
+      "$id": 289,
+      "<8C7DD24D>": "<8900C8E6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Knockout Wasabi"
+    },
+    {
+      "$id": 290,
+      "<8C7DD24D>": "<22092075>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Drumstick Leek"
+    },
+    {
+      "$id": 291,
+      "<8C7DD24D>": "<B8EFD661>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Frangible Yam"
+    },
+    {
+      "$id": 292,
+      "<8C7DD24D>": "<04A8AFF8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gold Burdock"
+    },
+    {
+      "$id": 293,
+      "<8C7DD24D>": "<657C7335>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Girder Potato"
+    },
+    {
+      "$id": 294,
+      "<8C7DD24D>": "<E3207CEA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Maximushroom"
+    },
+    {
+      "$id": 295,
+      "<8C7DD24D>": "<D9852B0D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fluffy Cloud Ear"
+    },
+    {
+      "$id": 296,
+      "<8C7DD24D>": "<497749A8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Red Nameko"
+    },
+    {
+      "$id": 297,
+      "<8C7DD24D>": "<918DCF8E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Splodespore"
+    },
+    {
+      "$id": 298,
+      "<8C7DD24D>": "<1EDA3303>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sweetcap"
+    },
+    {
+      "$id": 299,
+      "<8C7DD24D>": "<CA217FDB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wakeshroom"
+    },
+    {
+      "$id": 300,
+      "<8C7DD24D>": "<E67D47E6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Peachy Truffle"
+    },
+    {
+      "$id": 301,
+      "<8C7DD24D>": "<9B140784>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wyrdstone"
+    },
+    {
+      "$id": 302,
+      "<8C7DD24D>": "<D525548E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vivid Alexandrite"
+    },
+    {
+      "$id": 303,
+      "<8C7DD24D>": "<87F81A67>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lucent Amber"
+    },
+    {
+      "$id": 304,
+      "<8C7DD24D>": "<3A65497C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lively Quartz"
+    },
+    {
+      "$id": 305,
+      "<8C7DD24D>": "<A1CD960B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Polychromium"
+    },
+    {
+      "$id": 306,
+      "<8C7DD24D>": "<68AF283B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Abyss Lazuli"
+    },
+    {
+      "$id": 307,
+      "<8C7DD24D>": "<6B7F8051>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Zebra Garnet"
+    },
+    {
+      "$id": 308,
+      "<8C7DD24D>": "<8FFAB32D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lagoonite"
+    },
+    {
+      "$id": 309,
+      "<8C7DD24D>": "<03F77458>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Noise Bite"
+    },
+    {
+      "$id": 310,
+      "<8C7DD24D>": "<EA54DED0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fool's Chrome"
+    },
+    {
+      "$id": 311,
+      "<8C7DD24D>": "<4A76A61C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Buoyant Bauxite"
+    },
+    {
+      "$id": 312,
+      "<8C7DD24D>": "<21DE2A87>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Monochromagnetite"
+    },
+    {
+      "$id": 313,
+      "<8C7DD24D>": "<63C46DBD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Albinite"
+    },
+    {
+      "$id": 314,
+      "<8C7DD24D>": "<32EBEA9B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Kromar Fossil"
+    },
+    {
+      "$id": 315,
+      "<8C7DD24D>": "<2DE7E0BF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tude Fossil"
+    },
+    {
+      "$id": 316,
+      "<8C7DD24D>": "<D8C3CF3D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aspid Fossil"
+    },
+    {
+      "$id": 317,
+      "<8C7DD24D>": "<A7DCA68B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Laia Fossil"
+    },
+    {
+      "$id": 318,
+      "<8C7DD24D>": "<7AF0AD3D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Digging Sandfly Fossil"
+    },
+    {
+      "$id": 319,
+      "<8C7DD24D>": "<A9C8A772>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Urchon Fossil"
+    },
+    {
+      "$id": 320,
+      "<8C7DD24D>": "<9C652E94>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Magitech Core"
+    },
+    {
+      "$id": 321,
+      "<8C7DD24D>": "<4042AC08>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Neuro Connector"
+    },
+    {
+      "$id": 322,
+      "<8C7DD24D>": "<4222FB43>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fluid Cranker"
+    },
+    {
+      "$id": 323,
+      "<8C7DD24D>": "<746AAB44>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Thermal Parts"
+    },
+    {
+      "$id": 324,
+      "<8C7DD24D>": "<D8CEDE9B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Anti-Grav Chassis"
+    },
+    {
+      "$id": 325,
+      "<8C7DD24D>": "<7F85955D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ion Booster"
+    },
+    {
+      "$id": 326,
+      "<8C7DD24D>": "<F361CC87>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Thick Flange"
+    },
+    {
+      "$id": 327,
+      "<8C7DD24D>": "<25F316EB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Red-Veined Coral"
+    },
+    {
+      "$id": 328,
+      "<8C7DD24D>": "<56DD1F5A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lantern Coral"
+    },
+    {
+      "$id": 329,
+      "<8C7DD24D>": "<1E7CF003>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Frag Coral"
+    },
+    {
+      "$id": 330,
+      "<8C7DD24D>": "<4663EC4C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flaskform Aquapolyp"
+    },
+    {
+      "$id": 331,
+      "<8C7DD24D>": "<07691677>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Jade Coral"
+    },
+    {
+      "$id": 332,
+      "<8C7DD24D>": "<B313127F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Baby Coral"
+    },
+    {
+      "$id": 333,
+      "<8C7DD24D>": "<2A39D45F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Coruscant Coral"
+    },
+    {
+      "$id": 334,
+      "<8C7DD24D>": "<B1FB32AE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bobbing Anemone"
+    },
+    {
+      "$id": 335,
+      "<8C7DD24D>": "<5AA90710>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ocean Polyp"
+    },
+    {
+      "$id": 336,
+      "<8C7DD24D>": "<7BA86AB6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Grape Anemone"
+    },
+    {
+      "$id": 337,
+      "<8C7DD24D>": "<87844BD6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Royal Red Scallop"
+    },
+    {
+      "$id": 338,
+      "<8C7DD24D>": "<50CB40DC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pearl Snail"
+    },
+    {
+      "$id": 339,
+      "<8C7DD24D>": "<75D341C2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Escalargot"
+    },
+    {
+      "$id": 340,
+      "<8C7DD24D>": "<0F613176>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Airy Whelk"
+    },
+    {
+      "$id": 341,
+      "<8C7DD24D>": "<8265AFC5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bizarrenacle"
+    },
+    {
+      "$id": 342,
+      "<8C7DD24D>": "<ACD761BC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tentacled Oyster"
+    },
+    {
+      "$id": 343,
+      "<8C7DD24D>": "<79627F64>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Skyclam"
+    },
+    {
+      "$id": 344,
+      "<8C7DD24D>": "<3ED32317>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Squishy Fishcake"
+    },
+    {
+      "$id": 345,
+      "<8C7DD24D>": "<3823B30A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Great Winged Shield"
+    },
+    {
+      "$id": 346,
+      "<8C7DD24D>": "<B368D1AB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Claw-Marked Shield"
+    },
+    {
+      "$id": 347,
+      "<8C7DD24D>": "<29BF843E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Silky White Sash"
+    },
+    {
+      "$id": 348,
+      "<8C7DD24D>": "<58DE62F1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glittersmoke Candle"
+    },
+    {
+      "$id": 349,
+      "<8C7DD24D>": "<75133A2E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Medical Towel"
+    },
+    {
+      "$id": 350,
+      "<8C7DD24D>": "<B50DBB48>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Endurmic"
+    },
+    {
+      "$id": 351,
+      "<8C7DD24D>": "<3F852111>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lucky Spice"
+    },
+    {
+      "$id": 352,
+      "<8C7DD24D>": "<56F60301>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fire Pepper"
+    },
+    {
+      "$id": 353,
+      "<8C7DD24D>": "<E60B160B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Scissor-Piece Seed"
+    },
+    {
+      "$id": 354,
+      "<8C7DD24D>": "<57DF45D8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Snow Pansy"
+    },
+    {
+      "$id": 355,
+      "<8C7DD24D>": "<E029ADC6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Metamorphosage"
+    },
+    {
+      "$id": 356,
+      "<8C7DD24D>": "<81B14D6A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Reluctant Fern"
+    },
+    {
+      "$id": 357,
+      "<8C7DD24D>": "<3E0B7E54>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Towering Lily"
+    },
+    {
+      "$id": 358,
+      "<8C7DD24D>": "<2837428F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Delerium Foxglove"
+    },
+    {
+      "$id": 359,
+      "<8C7DD24D>": "<DBF5A894>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Black Blossom"
+    },
+    {
+      "$id": 360,
+      "<8C7DD24D>": "<2489E6C7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Revenant Automaton"
+    },
+    {
+      "$id": 361,
+      "<8C7DD24D>": "<C2204921>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ultramarine Ant Fossil"
+    },
+    {
+      "$id": 362,
+      "<8C7DD24D>": "<65D412B2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bitter Melon Fossil"
+    },
+    {
+      "$id": 363,
+      "<8C7DD24D>": "<9466ACBD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Purple Lamp"
+    },
+    {
+      "$id": 364,
+      "<8C7DD24D>": "<C1D0E225>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gold Condenser"
+    },
+    {
+      "$id": 365,
+      "<8C7DD24D>": "<02EAD68E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gloss Reactor"
+    },
+    {
+      "$id": 366,
+      "<8C7DD24D>": "<E3C66EA3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Silent Turbine"
+    },
+    {
+      "$id": 367,
+      "<8C7DD24D>": "<9E2D587C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Metallothane Jelly"
+    },
+    {
+      "$id": 368,
+      "<8C7DD24D>": "<E40E2CDA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Deluxe Sewing Kit"
+    },
+    {
+      "$id": 369,
+      "<8C7DD24D>": "<C30AA895>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Nova Drive"
+    },
+    {
+      "$id": 370,
+      "<8C7DD24D>": "<D4F34BDB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vortex Panel"
+    },
+    {
+      "$id": 371,
+      "<8C7DD24D>": "<AD3BD80A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Diamond Skin"
+    },
+    {
+      "$id": 372,
+      "<8C7DD24D>": "<FBF85B35>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ahad Nebula"
+    },
+    {
+      "$id": 373,
+      "<8C7DD24D>": "<ADD63535>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Venera Thruster"
+    },
+    {
+      "$id": 374,
+      "<8C7DD24D>": "<3CD2FEF8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hiero Loop"
+    },
+    {
+      "$id": 375,
+      "<8C7DD24D>": "<D9DC97D9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Quantum Gearbox"
+    },
+    {
+      "$id": 376,
+      "<8C7DD24D>": "<4FDA9A49>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Modern Resistor"
+    },
+    {
+      "$id": 377,
+      "<8C7DD24D>": "<E1689C09>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "White Cover"
+    },
+    {
+      "$id": 378,
+      "<8C7DD24D>": "<094277D7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Black Cover"
+    },
+    {
+      "$id": 379,
+      "<8C7DD24D>": "<A8657211>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ald Manipulator"
+    },
+    {
+      "$id": 380,
+      "<8C7DD24D>": "<2D256A4A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hadron Unit"
+    },
+    {
+      "$id": 381,
+      "<8C7DD24D>": "<F0461916>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lunar Rail"
+    },
+    {
+      "$id": 382,
+      "<8C7DD24D>": "<92B49C69>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Messier Actuator"
+    },
+    {
+      "$id": 383,
+      "<8C7DD24D>": "<E3E7DDA2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gemini Controller"
+    },
+    {
+      "$id": 384,
+      "<8C7DD24D>": "<5634D331>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Faintly-Glowing Rock"
+    },
+    {
+      "$id": 385,
+      "<8C7DD24D>": "<B1A657D2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dully-Glowing Rock"
+    },
+    {
+      "$id": 386,
+      "<8C7DD24D>": "<63CF7F40>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glowing Rock"
+    },
+    {
+      "$id": 387,
+      "<8C7DD24D>": "<253DF85B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tattered Army Satchel"
+    },
+    {
+      "$id": 388,
+      "<8C7DD24D>": "<122FF48B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dirty Army Satchel"
+    },
+    {
+      "$id": 389,
+      "<8C7DD24D>": "<736CC185>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Army Satchel"
+    },
+    {
+      "$id": 390,
+      "<8C7DD24D>": "<2F8E0635>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Broken Power Core"
+    },
+    {
+      "$id": 391,
+      "<8C7DD24D>": "<AFF0976E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chipped Power Core"
+    },
+    {
+      "$id": 392,
+      "<8C7DD24D>": "<BA0B3B35>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Power Core"
+    },
+    {
+      "$id": 393,
+      "<8C7DD24D>": "<D5DF98A1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Broken Ether Crystal"
+    },
+    {
+      "$id": 394,
+      "<8C7DD24D>": "<946E8BB2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chipped Ether Crystal"
+    },
+    {
+      "$id": 395,
+      "<8C7DD24D>": "<E3045B69>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ether Crystal"
+    },
+    {
+      "$id": 396,
+      "<8C7DD24D>": "<D529C6AA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Barely-Glowing Fang"
+    },
+    {
+      "$id": 397,
+      "<8C7DD24D>": "<1595EB48>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dully-Glowing Fang"
+    },
+    {
+      "$id": 398,
+      "<8C7DD24D>": "<64EE4D0F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glowing Fang"
+    },
+    {
+      "$id": 399,
+      "<8C7DD24D>": "<108CF85A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Barely-Glowing Shell"
+    },
+    {
+      "$id": 400,
+      "<8C7DD24D>": "<03D55B93>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dully-Glowing Shell"
+    },
+    {
+      "$id": 401,
+      "<8C7DD24D>": "<6173F9DC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glowing Shell"
+    },
+    {
+      "$id": 402,
+      "<8C7DD24D>": "<767D09CF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Barely-Glowing Wing"
+    },
+    {
+      "$id": 403,
+      "<8C7DD24D>": "<8B48A3FA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dully-Glowing Wing"
+    },
+    {
+      "$id": 404,
+      "<8C7DD24D>": "<B6A9004F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glowing Wing"
+    },
+    {
+      "$id": 405,
+      "<8C7DD24D>": "<56266AE1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Thick Ories Shank"
+    },
+    {
+      "$id": 406,
+      "<8C7DD24D>": "<5A818E84>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mottlemarble Aries Meat"
+    },
+    {
+      "$id": 407,
+      "<8C7DD24D>": "<875B0C56>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aromatic Krodlax Meat"
+    },
+    {
+      "$id": 408,
+      "<8C7DD24D>": "<393281C4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Top-Quality Moglum Liver"
+    },
+    {
+      "$id": 409,
+      "<8C7DD24D>": "<408F7901>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lucky Marrin Thickcuts"
+    },
+    {
+      "$id": 410,
+      "<8C7DD24D>": "<E0F6EC2B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Acid-Resistant Quarmu Shell"
+    },
+    {
+      "$id": 411,
+      "<8C7DD24D>": "<4E585281>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Transcendent Tenderloin"
+    },
+    {
+      "$id": 412,
+      "<8C7DD24D>": "<09720B04>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cozy Rhogul Egggems"
+    },
+    {
+      "$id": 413,
+      "<8C7DD24D>": "<D35DFBAD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Killjoy Crustip Meat"
+    },
+    {
+      "$id": 414,
+      "<8C7DD24D>": "<C41F6C27>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tafetta Lobster"
+    },
+    {
+      "$id": 415,
+      "<8C7DD24D>": "<38B51B09>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Jade Lobster"
+    },
+    {
+      "$id": 416,
+      "<8C7DD24D>": "<2F4EEFA0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tasty Sausage"
+    },
+    {
+      "$id": 417,
+      "<8C7DD24D>": "<865AF6F7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cube Chip"
+    },
+    {
+      "$id": 418,
+      "<8C7DD24D>": "<5464C943>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tough Hox Pelt"
+    },
+    {
+      "$id": 419,
+      "<8C7DD24D>": "<3F39A727>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dextrous Bunnit Tail"
+    },
+    {
+      "$id": 420,
+      "<8C7DD24D>": "<4F364ED4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bunnit Meat"
+    },
+    {
+      "$id": 421,
+      "<8C7DD24D>": "<157B4C41>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sharp Hox Horn"
+    },
+    {
+      "$id": 422,
+      "<8C7DD24D>": "<2851154E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Volff Meat"
+    },
+    {
+      "$id": 423,
+      "<8C7DD24D>": "<1D36A1F4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Volffskin"
+    },
+    {
+      "$id": 424,
+      "<8C7DD24D>": "<2855C871>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Great Feris Horn Pair"
+    },
+    {
+      "$id": 425,
+      "<8C7DD24D>": "<C4104C92>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Noble Feris Mane"
+    },
+    {
+      "$id": 426,
+      "<8C7DD24D>": "<ADDC3C71>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Electrified Vvarga Skull"
+    },
+    {
+      "$id": 427,
+      "<8C7DD24D>": "<A0646CF7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Obsidian Kananus Mane"
+    },
+    {
+      "$id": 428,
+      "<8C7DD24D>": "<1CEE6EE1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vvarga Razor Horn"
+    },
+    {
+      "$id": 429,
+      "<8C7DD24D>": "<BC6AC50C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Kananus Razor Horn"
+    },
+    {
+      "$id": 430,
+      "<8C7DD24D>": "<72544276>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cured Armu Sirloin"
+    },
+    {
+      "$id": 431,
+      "<8C7DD24D>": "<999CBC03>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fresh Armu Milk"
+    },
+    {
+      "$id": 432,
+      "<8C7DD24D>": "<5DCC0F36>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aries Fur"
+    },
+    {
+      "$id": 433,
+      "<8C7DD24D>": "<4A8E7F67>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ardun Horns"
+    },
+    {
+      "$id": 434,
+      "<8C7DD24D>": "<8364804D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ories Horns"
+    },
+    {
+      "$id": 435,
+      "<8C7DD24D>": "<D6F088DB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ories Headplate"
+    },
+    {
+      "$id": 436,
+      "<8C7DD24D>": "<A3752056>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Full-Bodied Ardun Meat"
+    },
+    {
+      "$id": 437,
+      "<8C7DD24D>": "<0E745F4E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perfumed Aries Hide"
+    },
+    {
+      "$id": 438,
+      "<8C7DD24D>": "<A02D12EE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Royal Ardun Horn"
+    },
+    {
+      "$id": 439,
+      "<8C7DD24D>": "<2B784A59>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Preserved Gogol Snack"
+    },
+    {
+      "$id": 440,
+      "<8C7DD24D>": "<726B60B0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Treasured Gogol Liquor"
+    },
+    {
+      "$id": 441,
+      "<8C7DD24D>": "<160F21BE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Slender Flamii Bone"
+    },
+    {
+      "$id": 442,
+      "<8C7DD24D>": "<5408225B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Large Flamii Egg"
+    },
+    {
+      "$id": 443,
+      "<8C7DD24D>": "<E03EC650>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fine Ageshu Wing"
+    },
+    {
+      "$id": 444,
+      "<8C7DD24D>": "<1543AF56>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ageshu Needleclaw"
+    },
+    {
+      "$id": 445,
+      "<8C7DD24D>": "<8783CB6E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Well-Aged Camill Juices"
+    },
+    {
+      "$id": 446,
+      "<8C7DD24D>": "<5CCA73D8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Garaffa Electrical Organ"
+    },
+    {
+      "$id": 447,
+      "<8C7DD24D>": "<AAB89012>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Garaffa Tenderloin"
+    },
+    {
+      "$id": 448,
+      "<8C7DD24D>": "<089A2927>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mild Camill Powder"
+    },
+    {
+      "$id": 449,
+      "<8C7DD24D>": "<A9A36B2B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rich-Smelling Anlood Bone"
+    },
+    {
+      "$id": 450,
+      "<8C7DD24D>": "<B3BC58BD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Anlood Antler"
+    },
+    {
+      "$id": 451,
+      "<8C7DD24D>": "<03157050>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shining Ellook Antler"
+    },
+    {
+      "$id": 452,
+      "<8C7DD24D>": "<CDFC0A56>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Blooming Ellook Flower"
+    },
+    {
+      "$id": 453,
+      "<8C7DD24D>": "<01289BBF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Golden Brog Oil"
+    },
+    {
+      "$id": 454,
+      "<8C7DD24D>": "<8E4C14EC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brog Energy Booster"
+    },
+    {
+      "$id": 455,
+      "<8C7DD24D>": "<B3D22624>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "White Rhana Liver"
+    },
+    {
+      "$id": 456,
+      "<8C7DD24D>": "<5923571F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Enlightened Rhana Eyeball"
+    },
+    {
+      "$id": 457,
+      "<8C7DD24D>": "<B5AC7AA7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Imperial Taos Egg"
+    },
+    {
+      "$id": 458,
+      "<8C7DD24D>": "<84941AA2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Taos Wingtip"
+    },
+    {
+      "$id": 459,
+      "<8C7DD24D>": "<4054C04B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ekidno Jawbone"
+    },
+    {
+      "$id": 460,
+      "<8C7DD24D>": "<E8CC9CD5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ekidno Tail"
+    },
+    {
+      "$id": 461,
+      "<8C7DD24D>": "<09040228>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aspar Secretion"
+    },
+    {
+      "$id": 462,
+      "<8C7DD24D>": "<26115523>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glaring Eyeball"
+    },
+    {
+      "$id": 463,
+      "<8C7DD24D>": "<73E23D69>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aspar Eyeball"
+    },
+    {
+      "$id": 464,
+      "<8C7DD24D>": "<3ADE7965>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Arachno Thread"
+    },
+    {
+      "$id": 465,
+      "<8C7DD24D>": "<A5C9CE0B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Arachno Pincer"
+    },
+    {
+      "$id": 466,
+      "<8C7DD24D>": "<A25B269A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Antol Leg Chitin"
+    },
+    {
+      "$id": 467,
+      "<8C7DD24D>": "<28795F99>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Antol Jaws"
+    },
+    {
+      "$id": 468,
+      "<8C7DD24D>": "<8B3056D9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Arachno Queen Egg"
+    },
+    {
+      "$id": 469,
+      "<8C7DD24D>": "<59A6F989>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gold Arachno Queensilk"
+    },
+    {
+      "$id": 470,
+      "<8C7DD24D>": "<149440C4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Antol Queen Shell"
+    },
+    {
+      "$id": 471,
+      "<8C7DD24D>": "<CF3A4ACB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Antol Queen Compound Eye"
+    },
+    {
+      "$id": 472,
+      "<8C7DD24D>": "<95B3708D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Caterpile Syrup"
+    },
+    {
+      "$id": 473,
+      "<8C7DD24D>": "<143DD809>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Caterpile Antenna"
+    },
+    {
+      "$id": 474,
+      "<8C7DD24D>": "<B5A3EBF4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Eluca Silk"
+    },
+    {
+      "$id": 475,
+      "<8C7DD24D>": "<E14CF66F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Eluca Tailtip"
+    },
+    {
+      "$id": 476,
+      "<8C7DD24D>": "<76526211>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Scorpox Exoskeleton"
+    },
+    {
+      "$id": 477,
+      "<8C7DD24D>": "<0B98BEEA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Armored Scorpox Pincer"
+    },
+    {
+      "$id": 478,
+      "<8C7DD24D>": "<417C2658>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Crustip Jet Spray"
+    },
+    {
+      "$id": 479,
+      "<8C7DD24D>": "<57DC1247>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rainbow Crustip Shell"
+    },
+    {
+      "$id": 480,
+      "<8C7DD24D>": "<C439F513>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Armored Plambus Wing"
+    },
+    {
+      "$id": 481,
+      "<8C7DD24D>": "<F390AB19>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Explosive Plambus Powder"
+    },
+    {
+      "$id": 482,
+      "<8C7DD24D>": "<0287F04D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rhogul Axe Crest"
+    },
+    {
+      "$id": 483,
+      "<8C7DD24D>": "<550F073A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Piercing Rhogul Quill"
+    },
+    {
+      "$id": 484,
+      "<8C7DD24D>": "<E437066F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Elegant Ansel Feather"
+    },
+    {
+      "$id": 485,
+      "<8C7DD24D>": "<E3B60C79>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Compressed Ansel Meat"
+    },
+    {
+      "$id": 486,
+      "<8C7DD24D>": "<0D464F8E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pale Skeeter Wing"
+    },
+    {
+      "$id": 487,
+      "<8C7DD24D>": "<EB1BBAF7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Skeeter Honey"
+    },
+    {
+      "$id": 488,
+      "<8C7DD24D>": "<49C31EF5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flier Nectar Jelly"
+    },
+    {
+      "$id": 489,
+      "<8C7DD24D>": "<0777FB58>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flier Pollen"
+    },
+    {
+      "$id": 490,
+      "<8C7DD24D>": "<70828375>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wisp Nectar"
+    },
+    {
+      "$id": 491,
+      "<8C7DD24D>": "<3A36C257>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wisp Sun Bead"
+    },
+    {
+      "$id": 492,
+      "<8C7DD24D>": "<EA38F903>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vokooku Backbone"
+    },
+    {
+      "$id": 493,
+      "<8C7DD24D>": "<199777B4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Thick Moramora Fin"
+    },
+    {
+      "$id": 494,
+      "<8C7DD24D>": "<69F32496>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Moramora Bezoar"
+    },
+    {
+      "$id": 495,
+      "<8C7DD24D>": "<9F5B3CC8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Metal Vokooku Shard"
+    },
+    {
+      "$id": 496,
+      "<8C7DD24D>": "<204702EB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Springy Medooz Bell"
+    },
+    {
+      "$id": 497,
+      "<8C7DD24D>": "<C2E32380>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Medooz Tentacle"
+    },
+    {
+      "$id": 498,
+      "<8C7DD24D>": "<84AC0ADF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Krabble Shield Pincer"
+    },
+    {
+      "$id": 499,
+      "<8C7DD24D>": "<F117FD8A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Krabble Viscera"
+    },
+    {
+      "$id": 500,
+      "<8C7DD24D>": "<11552F22>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Krammit Viscera"
+    },
+    {
+      "$id": 501,
+      "<8C7DD24D>": "<AD8D2055>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sweet Pagul Body"
+    },
+    {
+      "$id": 502,
+      "<8C7DD24D>": "<C301A40F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Spiky Pagul Shell"
+    },
+    {
+      "$id": 503,
+      "<8C7DD24D>": "<17F12F14>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Krammit Device Fragment"
+    },
+    {
+      "$id": 504,
+      "<8C7DD24D>": "<423A7E47>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Red Piranhax Egg"
+    },
+    {
+      "$id": 505,
+      "<8C7DD24D>": "<B96794F3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refreshing Piranhax Meat"
+    },
+    {
+      "$id": 506,
+      "<8C7DD24D>": "<BE941401>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rich Fish Meat"
+    },
+    {
+      "$id": 507,
+      "<8C7DD24D>": "<4394906E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Quality Red Krodlax Meat"
+    },
+    {
+      "$id": 508,
+      "<8C7DD24D>": "<BCE718AF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glistening Krodlax Scale"
+    },
+    {
+      "$id": 509,
+      "<8C7DD24D>": "<8F9007A2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ropl Jaw"
+    },
+    {
+      "$id": 510,
+      "<8C7DD24D>": "<00727C43>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ropl Rock Fragment"
+    },
+    {
+      "$id": 511,
+      "<8C7DD24D>": "<15B28B02>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soft-Shelled Aligo Egg"
+    },
+    {
+      "$id": 512,
+      "<8C7DD24D>": "<2E5AE222>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Serrated Aligo Fang"
+    },
+    {
+      "$id": 513,
+      "<8C7DD24D>": "<E41BDB4F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Giant Serprond Scale"
+    },
+    {
+      "$id": 514,
+      "<8C7DD24D>": "<D1C2F868>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fatty Serprond Fillet"
+    },
+    {
+      "$id": 515,
+      "<8C7DD24D>": "<2945D03E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Zapneedle Marrin Carapace"
+    },
+    {
+      "$id": 516,
+      "<8C7DD24D>": "<E7B8F866>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Marrin Bone"
+    },
+    {
+      "$id": 517,
+      "<8C7DD24D>": "<A9EB180F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sweet Kapiba Lard"
+    },
+    {
+      "$id": 518,
+      "<8C7DD24D>": "<C0ADD2D7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Withered Kapiba Branch"
+    },
+    {
+      "$id": 519,
+      "<8C7DD24D>": "<F07D7AD8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Grebel Carapace"
+    },
+    {
+      "$id": 520,
+      "<8C7DD24D>": "<9ABF06E2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Decorative Grebel Quill"
+    },
+    {
+      "$id": 521,
+      "<8C7DD24D>": "<B5E9C132>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Exploding Blant Seed"
+    },
+    {
+      "$id": 522,
+      "<8C7DD24D>": "<784E4EBE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fleshy Blant Petal"
+    },
+    {
+      "$id": 523,
+      "<8C7DD24D>": "<A76CBED6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steel Urchon Scale"
+    },
+    {
+      "$id": 524,
+      "<8C7DD24D>": "<36F7D1A5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rare Urchon Egg"
+    },
+    {
+      "$id": 525,
+      "<8C7DD24D>": "<9CB738FA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Blessed Pippito Light"
+    },
+    {
+      "$id": 526,
+      "<8C7DD24D>": "<8802719D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tirkin Seasoning"
+    },
+    {
+      "$id": 527,
+      "<8C7DD24D>": "<F4A2A25E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tirkin Service Medal"
+    },
+    {
+      "$id": 528,
+      "<8C7DD24D>": "<D1E949C7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gulkin Seaweed Snack"
+    },
+    {
+      "$id": 529,
+      "<8C7DD24D>": "<4F8349BD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gulkin Shell Amulet"
+    },
+    {
+      "$id": 530,
+      "<8C7DD24D>": "<4E234B26>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Igna Weapon"
+    },
+    {
+      "$id": 531,
+      "<8C7DD24D>": "<EE8C381B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Igna Rejuvenator"
+    },
+    {
+      "$id": 532,
+      "<8C7DD24D>": "<271F4255>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Prized Merigna Salt"
+    },
+    {
+      "$id": 533,
+      "<8C7DD24D>": "<097BD74B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Merigna Amulet"
+    },
+    {
+      "$id": 534,
+      "<8C7DD24D>": "<F5614AF7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Thick Rhinon Tail"
+    },
+    {
+      "$id": 535,
+      "<8C7DD24D>": "<440A8FD3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steelcrushing Rhinon Fang"
+    },
+    {
+      "$id": 536,
+      "<8C7DD24D>": "<03D260BD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sharp Merfrey Tail"
+    },
+    {
+      "$id": 537,
+      "<8C7DD24D>": "<C45C2ED0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Merfrey Skull"
+    },
+    {
+      "$id": 538,
+      "<8C7DD24D>": "<BD013FB6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Drague Everflame"
+    },
+    {
+      "$id": 539,
+      "<8C7DD24D>": "<00C94864>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Evil Drague Eye"
+    },
+    {
+      "$id": 540,
+      "<8C7DD24D>": "<C309CC73>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mineral Darbus Bone"
+    },
+    {
+      "$id": 541,
+      "<8C7DD24D>": "<E318D87B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rainbow Darbus Crystal"
+    },
+    {
+      "$id": 542,
+      "<8C7DD24D>": "<DFE6ADE6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Silver Ravoon Bone"
+    },
+    {
+      "$id": 543,
+      "<8C7DD24D>": "<DFC97C5B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Elegant Ravoon Horn"
+    },
+    {
+      "$id": 544,
+      "<8C7DD24D>": "<8535C156>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vollgull Mask"
+    },
+    {
+      "$id": 545,
+      "<8C7DD24D>": "<21E3A10A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vollgull Stormwind Wing"
+    },
+    {
+      "$id": 546,
+      "<8C7DD24D>": "<21CED3D1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glowing Gyaark Fin"
+    },
+    {
+      "$id": 547,
+      "<8C7DD24D>": "<96DAE995>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sharp Gyaark Tail"
+    },
+    {
+      "$id": 548,
+      "<8C7DD24D>": "<D79A2A8A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shoox Earplate"
+    },
+    {
+      "$id": 549,
+      "<8C7DD24D>": "<D3C6943D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shoox Flower Whisker"
+    },
+    {
+      "$id": 550,
+      "<8C7DD24D>": "<326AE701>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Marbled Quarmu Meat"
+    },
+    {
+      "$id": 551,
+      "<8C7DD24D>": "<EC2AEA81>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Quardun Shell"
+    },
+    {
+      "$id": 552,
+      "<8C7DD24D>": "<37063418>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rich Quarmu Sea Milk"
+    },
+    {
+      "$id": 553,
+      "<8C7DD24D>": "<89652B9E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Quardun Fang"
+    },
+    {
+      "$id": 554,
+      "<8C7DD24D>": "<4C895383>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ornate Moglum Coral"
+    },
+    {
+      "$id": 555,
+      "<8C7DD24D>": "<BBC195E7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Moglum Lamp"
+    },
+    {
+      "$id": 556,
+      "<8C7DD24D>": "<D6D84AE8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Round Amoney Tentacle"
+    },
+    {
+      "$id": 557,
+      "<8C7DD24D>": "<DC789F07>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Amoney Flower Lure"
+    },
+    {
+      "$id": 558,
+      "<8C7DD24D>": "<B93227E7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ottil's Clambreaking Stone"
+    },
+    {
+      "$id": 559,
+      "<8C7DD24D>": "<3725AF14>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ottil's Treasured Bivalve"
+    },
+    {
+      "$id": 560,
+      "<8C7DD24D>": "<D688FB29>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vang Membrane"
+    },
+    {
+      "$id": 561,
+      "<8C7DD24D>": "<E084AB80>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Myoot Beak"
+    },
+    {
+      "$id": 562,
+      "<8C7DD24D>": "<6129A11F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Supersonic Vang Organ"
+    },
+    {
+      "$id": 563,
+      "<8C7DD24D>": "<B549EFBE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Geometric Myoot Gear"
+    },
+    {
+      "$id": 564,
+      "<8C7DD24D>": "<53EC637B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Magnificent Upa Lure"
+    },
+    {
+      "$id": 565,
+      "<8C7DD24D>": "<F01A8095>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gooey Upa Egg"
+    },
+    {
+      "$id": 566,
+      "<8C7DD24D>": "<8D7470BF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Round Skwaror Crystal"
+    },
+    {
+      "$id": 567,
+      "<8C7DD24D>": "<49EDA843>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Powdered Skwaror Leaves"
+    },
+    {
+      "$id": 568,
+      "<8C7DD24D>": "<EBDE3127>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Quadwing's Indulgence"
+    },
+    {
+      "$id": 569,
+      "<8C7DD24D>": "<5CFB4DB4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bitter Quadwing Powder"
+    },
+    {
+      "$id": 570,
+      "<8C7DD24D>": "<105E8BD1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Kevesi Soldier's Armor"
+    },
+    {
+      "$id": 571,
+      "<8C7DD24D>": "<267EC744>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Kevesi Dog Tag"
+    },
+    {
+      "$id": 572,
+      "<8C7DD24D>": "<E0C43BE7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Agnian Soldier's Armor"
+    },
+    {
+      "$id": 573,
+      "<8C7DD24D>": "<883765B1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Agnian Dog Tag"
+    },
+    {
+      "$id": 574,
+      "<8C7DD24D>": "<B4B99F3B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Droid Tube"
+    },
+    {
+      "$id": 575,
+      "<8C7DD24D>": "<F8ACD506>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Star-Shaped Droid Screw"
+    },
+    {
+      "$id": 576,
+      "<8C7DD24D>": "<7BB963AF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flak Scrap Iron"
+    },
+    {
+      "$id": 577,
+      "<8C7DD24D>": "<1A78571C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flak Simple Eye"
+    },
+    {
+      "$id": 578,
+      "<8C7DD24D>": "<C4F08ED4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Enpedia Headpiece"
+    },
+    {
+      "$id": 579,
+      "<8C7DD24D>": "<107BACDF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Enpedia Launcher"
+    },
+    {
+      "$id": 580,
+      "<8C7DD24D>": "<6FB1DE0F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Horrish Propeller"
+    },
+    {
+      "$id": 581,
+      "<8C7DD24D>": "<61207F42>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Horrish Amplifier"
+    },
+    {
+      "$id": 582,
+      "<8C7DD24D>": "<5649C490>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sagittarius Frame"
+    },
+    {
+      "$id": 583,
+      "<8C7DD24D>": "<A2604E60>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auxilia Exo-Armor"
+    },
+    {
+      "$id": 584,
+      "<8C7DD24D>": "<87E35CC3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Equites Tank Wheel"
+    },
+    {
+      "$id": 585,
+      "<8C7DD24D>": "<A0AD3B10>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Equites Loading Core"
+    },
+    {
+      "$id": 586,
+      "<8C7DD24D>": "<D4697992>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Small Speculatos Base"
+    },
+    {
+      "$id": 587,
+      "<8C7DD24D>": "<4AB80328>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lightweight Velites Base"
+    },
+    {
+      "$id": 588,
+      "<8C7DD24D>": "<1F935599>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Circular Speculatos Blade"
+    },
+    {
+      "$id": 589,
+      "<8C7DD24D>": "<9E50073E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Circular Velites Blade"
+    },
+    {
+      "$id": 590,
+      "<8C7DD24D>": "<A1AE0852>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sagittarius Machine Rifle"
+    },
+    {
+      "$id": 591,
+      "<8C7DD24D>": "<83BB6DD8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auxilia Cylinder"
+    },
+    {
+      "$id": 592,
+      "<8C7DD24D>": "<C7C899F9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Variable Centuris Claw"
+    },
+    {
+      "$id": 593,
+      "<8C7DD24D>": "<6E4A9300>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Centuris Legs"
+    },
+    {
+      "$id": 594,
+      "<8C7DD24D>": "<326B0F0A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gastrates Ether Furnace"
+    },
+    {
+      "$id": 595,
+      "<8C7DD24D>": "<DBB32F6E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gastrates Gun Turret"
+    },
+    {
+      "$id": 596,
+      "<8C7DD24D>": "<D127902B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Avis Sphere"
+    },
+    {
+      "$id": 597,
+      "<8C7DD24D>": "<7B49D35F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Avis Mech Sword"
+    },
+    {
+      "$id": 598,
+      "<8C7DD24D>": "<9F41D168>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Testudo Shoulder Gun"
+    },
+    {
+      "$id": 599,
+      "<8C7DD24D>": "<75A6D931>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Testudo Iron Wing"
+    },
+    {
+      "$id": 600,
+      "<8C7DD24D>": "<E8F34C27>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ulula Generator"
+    },
+    {
+      "$id": 601,
+      "<8C7DD24D>": "<34E51D52>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ulula Metal Fist"
+    },
+    {
+      "$id": 602,
+      "<8C7DD24D>": "<6E63840C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gyrinus Halo"
+    },
+    {
+      "$id": 603,
+      "<8C7DD24D>": "<1B186F43>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gemstone"
+    },
+    {
+      "$id": 604,
+      "<8C7DD24D>": "<4544C526>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pure Gemstone"
+    },
+    {
+      "$id": 605,
+      "<8C7DD24D>": "<35C26EE2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ultra Pure Gemstone"
+    },
+    {
+      "$id": 606,
+      "<8C7DD24D>": "<F99A1B5D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gogol Dalm"
+    },
+    {
+      "$id": 607,
+      "<8C7DD24D>": "<E866BC2A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gogol Richimoya"
+    },
+    {
+      "$id": 608,
+      "<8C7DD24D>": "<65FF981E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gogol Camisiroa"
+    },
+    {
+      "$id": 609,
+      "<8C7DD24D>": "<F4565298>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gogol Vuaga"
+    },
+    {
+      "$id": 610,
+      "<8C7DD24D>": "<B4A5E929>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gogol Olipple"
+    },
+    {
+      "$id": 611,
+      "<8C7DD24D>": "<2567D46F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gogol Ambute"
+    },
+    {
+      "$id": 612,
+      "<8C7DD24D>": "<03D7E91D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soyprimo Sauce"
+    },
+    {
+      "$id": 613,
+      "<8C7DD24D>": "<BE0A8CCE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Miso"
+    },
+    {
+      "$id": 614,
+      "<8C7DD24D>": "<D9FE8291>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ardun Ribs"
+    },
+    {
+      "$id": 615,
+      "<8C7DD24D>": "<E428F607>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Yellowgrove Kelp Mushroom"
+    },
+    {
+      "$id": 616,
+      "<8C7DD24D>": "<BC8DBFC1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pruning Wood"
+    },
+    {
+      "$id": 617,
+      "<8C7DD24D>": "<F5619B09>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Thirsty Oak"
+    },
+    {
+      "$id": 618,
+      "<8C7DD24D>": "<E1FAEEA2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Simmertree"
+    },
+    {
+      "$id": 619,
+      "<8C7DD24D>": "<8DFADBFA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Oil Branch"
+    },
+    {
+      "$id": 620,
+      "<8C7DD24D>": "<456771DD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vinenut"
+    },
+    {
+      "$id": 621,
+      "<8C7DD24D>": "<C0467BCD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Foolin' Ivy"
+    },
+    {
+      "$id": 622,
+      "<8C7DD24D>": "<2E5062BC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gypsum Branch"
+    },
+    {
+      "$id": 623,
+      "<8C7DD24D>": "<67023EF9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Broom Icicle"
+    },
+    {
+      "$id": 624,
+      "<8C7DD24D>": "<DD670A65>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Absurd Branch"
+    },
+    {
+      "$id": 625,
+      "<8C7DD24D>": "<F5BC0785>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bluesky Bark"
+    },
+    {
+      "$id": 626,
+      "<8C7DD24D>": "<DBC7A9B5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cutting-Edge Aloe"
+    },
+    {
+      "$id": 627,
+      "<8C7DD24D>": "<3E7B2F67>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strong Dandelion"
+    },
+    {
+      "$id": 628,
+      "<8C7DD24D>": "<C7599247>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dawn Hydrangea"
+    },
+    {
+      "$id": 629,
+      "<8C7DD24D>": "<75CE67A2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Melancholy Rose"
+    },
+    {
+      "$id": 630,
+      "<8C7DD24D>": "<7D3396FC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Black Peony"
+    },
+    {
+      "$id": 631,
+      "<8C7DD24D>": "<9E4708AF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Walnut Grape"
+    },
+    {
+      "$id": 632,
+      "<8C7DD24D>": "<2C068819>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sour Gooseberry"
+    },
+    {
+      "$id": 633,
+      "<8C7DD24D>": "<3F1E235B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Humming Plum"
+    },
+    {
+      "$id": 634,
+      "<8C7DD24D>": "<3B09C77B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Red Durian"
+    },
+    {
+      "$id": 635,
+      "<8C7DD24D>": "<57EF662C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ether Plum"
+    },
+    {
+      "$id": 636,
+      "<8C7DD24D>": "<34E0528C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dry Lemon"
+    },
+    {
+      "$id": 637,
+      "<8C7DD24D>": "<056CB30C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sweet Wasabi"
+    },
+    {
+      "$id": 638,
+      "<8C7DD24D>": "<80BAB861>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cool Potato"
+    },
+    {
+      "$id": 639,
+      "<8C7DD24D>": "<0FC57268>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Baggy Swede"
+    },
+    {
+      "$id": 640,
+      "<8C7DD24D>": "<6EF6319D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Amethyst Vanilla"
+    },
+    {
+      "$id": 641,
+      "<8C7DD24D>": "<F72CDC55>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ice Cabbage"
+    },
+    {
+      "$id": 642,
+      "<8C7DD24D>": "<626DC0FA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tootshroom"
+    },
+    {
+      "$id": 643,
+      "<8C7DD24D>": "<F4AFBEAD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Clicky Topaz"
+    },
+    {
+      "$id": 644,
+      "<8C7DD24D>": "<DF4C5529>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Icicle Marine"
+    },
+    {
+      "$id": 645,
+      "<8C7DD24D>": "<E4247225>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wool Rock"
+    },
+    {
+      "$id": 646,
+      "<8C7DD24D>": "<3FE43615>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Magnet Clay"
+    },
+    {
+      "$id": 647,
+      "<8C7DD24D>": "<09B2C44E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pione Stone"
+    },
+    {
+      "$id": 648,
+      "<8C7DD24D>": "<DA83D84E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lacquer Stone"
+    },
+    {
+      "$id": 649,
+      "<8C7DD24D>": "<9A924A75>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Emerald Snow"
+    },
+    {
+      "$id": 650,
+      "<8C7DD24D>": "<880983A1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rabbit Stone"
+    },
+    {
+      "$id": 651,
+      "<8C7DD24D>": "<D2FAFC33>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Torta Fossil"
+    },
+    {
+      "$id": 652,
+      "<8C7DD24D>": "<F1D84C99>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Nebula Fossil"
+    },
+    {
+      "$id": 653,
+      "<8C7DD24D>": "<BBDDCE4C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Peng Fossil"
+    },
+    {
+      "$id": 654,
+      "<8C7DD24D>": "<5747844B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Garlus Fossil"
+    },
+    {
+      "$id": 655,
+      "<8C7DD24D>": "<19980E29>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Squood Fossil"
+    },
+    {
+      "$id": 656,
+      "<8C7DD24D>": "<EEF73F3F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Blossom Belt"
+    },
+    {
+      "$id": 657,
+      "<8C7DD24D>": "<78D29863>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rabbit Diode"
+    },
+    {
+      "$id": 658,
+      "<8C7DD24D>": "<BA6CEBD7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rainbow Zirconia"
+    },
+    {
+      "$id": 659,
+      "<8C7DD24D>": "<76733B34>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rusty Bolt"
+    },
+    {
+      "$id": 660,
+      "<8C7DD24D>": "<7011AAA8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Winding Gear"
+    },
+    {
+      "$id": 661,
+      "<8C7DD24D>": "<036BB403>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "White Cover"
+    },
+    {
+      "$id": 662,
+      "<8C7DD24D>": "<83F37B03>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strong Screw"
+    },
+    {
+      "$id": 663,
+      "<8C7DD24D>": "<604DD26D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Modern Resistor"
+    },
+    {
+      "$id": 664,
+      "<8C7DD24D>": "<D28B3A6C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mock-Lobster Pseudoshell"
+    },
+    {
+      "$id": 665,
+      "<8C7DD24D>": "<D6C5B678>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Draigul Thaumahorn"
+    },
+    {
+      "$id": 666,
+      "<8C7DD24D>": "<6CBF92DD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Egel Horn"
+    },
+    {
+      "$id": 667,
+      "<8C7DD24D>": "<C6C18B39>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Symbol Ornament"
+    },
+    {
+      "$id": 668,
+      "<8C7DD24D>": "<C9145A32>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Painted Totem Board"
+    },
+    {
+      "$id": 669,
+      "<8C7DD24D>": "<79C23C71>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Standard Decoration"
+    },
+    {
+      "$id": 670,
+      "<8C7DD24D>": "<753C11A2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Emblem Adornment"
+    },
+    {
+      "$id": 671,
+      "<8C7DD24D>": "<6E4F0AF6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Nest Treacle"
+    },
+    {
+      "$id": 672,
+      "<8C7DD24D>": "<0AD61322>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pod Silk"
+    },
+    {
+      "$id": 673,
+      "<8C7DD24D>": "<B9DE2DFC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hard Eggshell"
+    },
+    {
+      "$id": 674,
+      "<8C7DD24D>": "<BA8719A2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Luminescent Laia Fin"
+    },
+    {
+      "$id": 675,
+      "<8C7DD24D>": "<56C0A6D5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Salty Aligo Viscera"
+    },
+    {
+      "$id": 676,
+      "<8C7DD24D>": "<C904BF82>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fattened Krodlax Sashimi"
+    },
+    {
+      "$id": 677,
+      "<8C7DD24D>": "<B4FCCA3E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Exalted Ories Brisket"
+    },
+    {
+      "$id": 678,
+      "<8C7DD24D>": "<13129BA8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fibrous Aspar Meat"
+    },
+    {
+      "$id": 679,
+      "<8C7DD24D>": "<FFB9CDB2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Nutrient-Rich Vollgull Egg"
+    },
+    {
+      "$id": 680,
+      "<8C7DD24D>": "<FB73F31C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aromatic Anlood Meat"
+    }
+  ]
+}

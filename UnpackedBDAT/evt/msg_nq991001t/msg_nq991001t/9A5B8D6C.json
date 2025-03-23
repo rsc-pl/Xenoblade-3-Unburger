@@ -1,0 +1,324 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<CCF570F1>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Aya... Is something wrong?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<3FA4F6EE>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Why do you ask?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<9AE7CD24>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's just that I don't see you on your\nown that often. You're usually always\nwith someone, at least."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<5B8BC4C9>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I...I mean, even I have times when\nI want to be alone, you know."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<50B41CFD>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...You've felt the same way before,\nhaven't you? Like, for example..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<DF161C34>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whenever you're feeling sad,\nwhat do you do, Fiona?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<AD1B4069>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "What do you do?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<86EFB964>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Confide in someone."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<830ADEDC>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I talk to someone I can rely on; let them\nknow eeeverything that's on my mind."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<F56B8C61>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It helps me pinpoint exactly what's\ngood and bad about my situation."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<71112F91>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hehe... It's all about Irma when it\ncomes to you, I bet?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<18C6B7BA>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It...it is...?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<25E7C2AC>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That girl was so strong-minded\nand frank with her opinions."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<C88929AF>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's what made her so dependable...\nBut she's not here any more. I need to\nstart getting myself together."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<63C00D4D>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Chat with a friend."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<B76A4CFB>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I talk with a friend for a change of pace!"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<5590111B>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There's no point being all doom\nand gloom about everything on\nmy own, after all."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<1E3DB5CD>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think a good belly-laugh with a friend\ncan help to clear your mind of gloomy\nfeelings."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<1E9AD380>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Aaah. Guess that's why you act like a\nTirkinhead sometimes."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<314383EF>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I do not!"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<DAE7FCE6>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh yes you do! Though you're not\nas big a Tirkinhead as Tallow is."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<0B6FA1EB>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Anyway, you're right... It's important to\nlaugh, and often."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<2F68E6FB>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Ah! I'm feeling much more refreshed\nnow. Thanks for listening to me."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<A855B924>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Are you better now?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<40D37B63>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yup. I can't not feel better when\nI see your smile."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<DBF557B2>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...And on that note, that's one point for\nyou! Congrats! I'll report it to Tallow now."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<AE048D15>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Are you sure? I don't feel like I really\ndid anything, though..."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<52039B8A>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't sweat it. I'll ultimately have to sort\nout my own feelings on my own, one way\nor another."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<D9A4CF59>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right then, that's enough moping for me!\nI'm ready to get back to my best!"
+    }
+  ]
+}

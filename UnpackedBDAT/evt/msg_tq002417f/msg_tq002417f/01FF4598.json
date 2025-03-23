@@ -1,0 +1,374 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<BEB30489>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Segiri... What just happened...?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<AB849D37>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No. 4 has given his life to the Ferron."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<518FB671>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oi, you'd better explain yourself."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<E7845309>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The Ferrons are powered by life's flames."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<BE204B51>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The Flame Clocks that impel them are\nsynchronized to those of their passengers."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<06B96046>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wait, did you say Flame Clocks?\nDoes that make the Ferrons...?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<6B5833D2>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Indeed. The design differs, but\nyou could see them as functionally\nidentical to Ferronises."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<B5EA68AF>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In addition, Ferron Flame Clocks are fitted\nwith the function to disengage the limiters."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<532A32E9>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "\"Disengage the limiters\"...?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<5FB694B3>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Doing so allows the Ferron to burn through\nthe flames that fuel it at an accelerated\nrate, maximizing the unit's power output."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<355EADA2>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Once the limiter is disengaged, a first-term\nsoldier can perform at a level comparable\nto a colony's commander..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<6374B4EE>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That incandescent power is the\npith and marrow of the Ferron's,\nof Colony 0's might."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<08843BA7>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...But what *is* Colony 0, to begin with?\nWho are you, who are its soldiers?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<F524268A>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You could say we are those who work\nbehind the scenes of this war."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<77CA1FF3>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Battlefield manipulation, inciting sedition,\ninformation control, elimination of third\nparty forces..."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<984001E1>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's all due to our ceaseless, thankless efforts\nthat this war can continue unabated,\nand each life's fate arrives as ordained..."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<0F0EE574>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In other words, we maintain the fabric\nof the world. That is the duty which is our\npleasure to fulfill."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<5D125E3C>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nothing but empty words. That's the\nreason you put your men in those things?!"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<E1A6B7E0>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well mate, you just showed us your\nwhole arse. I knew you didn't care about\nthe lives of your soldiers after all!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<6E048115>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Preposterous!"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<252B5C62>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I treasure their lives above any\nother good! They are, to me,\nthe most exalted substance!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<779514D9>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Their immaculate lives, sacrificed in service\nto the world, permeate it and form the\nbasis of the eternity we Moebius covet...!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<A789E8F0>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Stop it."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<BD58FBF9>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Protecting my innocent lambs whose souls\nlubricate the gears of the world through a\nsublime sacrifice - that is the highest calling!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<AC2B1D08>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Isn't it the loftiest vocation conceivable?\nSurely you must agree-"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<3FE54351>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Shut up already!"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<C3101F01>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Ah, I must beg your pardon.\nHave I said something to incur\nyour displeasure...?"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<8F9D3024>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Snuff all of that, and snuff you!"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<09E8DF05>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How dare you... How could someone like\nyou think for a second you treasure Segiri!\nYou have no right!"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<7A012611>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll bring you down, right here and\nnow... Segiri and everyone will be free\nfrom the Flame Clocks!"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<8A230D32>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...But what in the blazes has brought this\non? I told you from the start, I had no\nintention of fighting you..."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<57196E9D>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Have you lost your mind?!"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<63C87B1B>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Well, it seems unavoidable, now."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<90E64ADC>",
+      "<ACF3531A>": "pW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It seems the negotiations have\nbroken down. Truly regrettable,\nand yet perhaps inevitable..."
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<F8C21EA1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The path they...ought to have walked..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<E1BD7B50>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "So it's confirmed..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<9A6248DA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "N and M are...other versions of Noah and Mio."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<DC5D626A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The other me... She passed all of her memories on to me."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<38486DEE>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "So that I could share...everything with you."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<C59A0EEB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "\"Share everything\"?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<91C97A4E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I have to know."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<7FE83179>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "How could you do this?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<17B71922>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Why are you on their side?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<5C540537>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What are you talking about?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<AF597368>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I felt him, with these hands..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<937BD943>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That sensation, the emotion..."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<DFB20772>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It was no illusion."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<F9FA2104>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And yet, you still became Moebius!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<4F8329C4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Harvesting people, without even batting an eye!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<1AA1BB74>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](shaky breathing)"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<365D2AFB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I want to know why."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<2EBD7AAA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Isn't there a trace left inside you?\nOf your old feelings?"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<C97C3E83>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Because if there was, even a little-"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<7C67E66A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Feelings, you say? You dare..."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<1EA5E0DA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](solitary manic chuckle)"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<40918633>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](more slightly manic chuckling)"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<C8CFF64A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](uncomprehending breath)"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<DDBE6B8C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "My feelings..."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<96165246>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "My feelings have never changed,\nthey're the same as they've always been!"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<2295D16B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "They're for you, Mio!"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<F461F22F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The time I had with you meant everything to me!"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<BBA1E108>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But now...it's all gone..."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<6069F70A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](cracked laughter)"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<54331DAA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "If she truly is gone,\nI'll have to redo it all!"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<26197B57>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Watch me! Rewind our clocks, back to the start!"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<FB46B7E4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](scared gasp)"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<5D207447>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Noah... My long shadow..."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<52C3BD10>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You have stolen her away from me..."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<03A71A8B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I will extinguish you, and take her back!"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<5DB78B19>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Mio is MINE!"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<37A342DB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](frightened gasp)"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<30AA1AAF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "She's not yours, she's mine.\nYou are nothing. She belongs only to ME!"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<07349D8B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Words won't cut it... I can't get through to him..."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<8933073A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Mio...!"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<4FBC18E6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(adlib small attack)[ML:undisp ]"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<ECB0A52E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(adlib small attack)[ML:undisp ]"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<668A1D80>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(adlib huge attack)[ML:undisp ]"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<4726C775>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(adlib small attack)[ML:undisp ]"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<F0313B74>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(adlib mid attack)[ML:undisp ]"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<21717314>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(adlib small grunt of pain)[ML:undisp ]"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<91558D50>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(adlib noticing something - danger)[ML:undisp ]"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<3F27E871>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(adlib large grunt of pain)[ML:undisp ]"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<DB18C779>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(adlib strong attack)[ML:undisp ]"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<360C5F64>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(adlib small grunt of pain)[ML:undisp ]"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<1356FB14>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(adlib strong attack)[ML:undisp ]"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<152B5435>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Mimi!"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<5F0FA441>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Mio!"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<111ED76D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Are you... Are you really my Mimi?"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<DCD0C5AB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I'm sorry I worried you."
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<504E2AFB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This was the only way."
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<BFA40FDE>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "N-no, it's fine..."
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<1029F683>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You're here..."
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<54F19E46>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Might wanna leave the teary reunion till later."
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<67B03095>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The mudder's glaring and he looks pissed off."
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<27282ED4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I can more or less grasp what's going on here,"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<2D3922FC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "but you'd better explain the details later."
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<409E5800>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah, absolutely."
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<49BED895>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "If words won't get through to him,"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<72A39156>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "there's only one way left to us."
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<43416BA6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "No... We can't let this go on!"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<1D4BC0AC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Mio!"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<2BB20E06>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah!"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<9BD1EFE7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I'm ready when you are!"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<E5A5FE02>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "They're Interlinking?!"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<E7478A03>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "No way!"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<9A4EDFE5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](frustrated grunt)"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<5B7D3494>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "No... Can't be!"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<4D64F591>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Why isn't Z's power doing its thing?!"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<FA90D4AB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](yelp)"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<09CDD29C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You've gotten ahead of yourself, X."
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<A2424805>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Let's get stuck in!"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<FC151BCE>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](frustrated exert, being buffeted back)"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<575D688F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "N! Come on, destroy them!"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<20B56BA2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Make it so they're not reborn..."
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<17CD5B36>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Pound their souls into the dust!"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<78C5C6DD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I don't take orders from you."
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<1F308A51>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But..."
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<15E331AB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Moebius are the world itself!"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<B0D2A04D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "There can be but one me...\nand I am it!"
+    }
+  ]
+}

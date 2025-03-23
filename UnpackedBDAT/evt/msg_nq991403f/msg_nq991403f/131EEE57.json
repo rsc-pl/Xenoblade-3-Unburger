@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<94433FB1>",
+      "<ACF3531A>": "fe1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Looks like he managed to escape\nto the outer walls from here."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<A41E2641>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If I remember correctly...the place where\nthe Annihilator used to be is just ahead,\nright?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<61C9752A>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But now that it's not there, it's become\na dead-end."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<F3C56EA0>",
+      "<ACF3531A>": "me1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Gahaha! You know what that means! The\ndumb snuffer's only gone and got himself\ncornered!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<9DECCE07>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    }
+  ]
+}

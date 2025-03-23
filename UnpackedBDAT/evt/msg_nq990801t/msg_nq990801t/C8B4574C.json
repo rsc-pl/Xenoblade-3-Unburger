@@ -1,0 +1,124 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<C2ACD7BF>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 270549121,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's not here, either... Where could it be...?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<C462C59E>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 270549121,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How did I not notice that the string had\nbeen cut...? How am I such a stupid,\nstupid, stupid, stupid idiot?!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B25FC440>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Hey! Is that pendant...?!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<42075F6B>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It is! It's my pendant! Oh, thank\nthe flames for that. I'd been looking\nfor it for ages now..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<3E26CD7A>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I had a feeling I'd seen it somewhere\nbefore. So, this is your pendant then,\nright?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<F5E24524>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah! I got it from Kana. She said it was a\ncharm that calms down your emotions."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<F9F99AED>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Which is great for me, because I get\ntunnel vision any time I get in a panic..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<586B77DC>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I can't thank you enough, Fifi!\nI'll go report this to Tallow."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<11E43D74>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You gathering up plenty of points?\nI could probably afford to pick up\nthe pace a bit, myself."
+    }
+  ]
+}

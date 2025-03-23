@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<DF0B3073>",
+      "<ACF3531A>": "qV",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, that was a welcome reprieve\nfrom the usual tedium."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<2F3864E4>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Washed away all the fatigue?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<68A52BE4>",
+      "<ACF3531A>": "qV",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, but it's been nose to the grindstone\nalmost as soon as I came back. I can't be\nletting the backlog pile up."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<7C66E9F6>",
+      "<ACF3531A>": "qV",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I hope I'll be able to organize a visit\nto the spa for Lambda sometime..."
+    }
+  ]
+}

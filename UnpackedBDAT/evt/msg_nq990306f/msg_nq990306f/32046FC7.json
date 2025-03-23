@@ -1,0 +1,334 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<C309C317>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Phew... I was scared for my life."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<DF434867>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Me too..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<864E15BE>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Were you worried about me, boy?\nThanks for caring about me."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<0B70B5DA>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Heh heh. It really does feel like you\nunderstand what I'm saying."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<D642CC06>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh? What's wrong?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<82DCEA13>",
+      "<ACF3531A>": "ag1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Maybe Nandun say he want protect\nfarm together with Tussore."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<9B63F806>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You understand what Nandun said?!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<FD3569EC>",
+      "<ACF3531A>": "ag1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Less or more, mostly."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<FB1E9F71>",
+      "<ACF3531A>": "ag1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Feels like Nandun think Tussore great,\nbig friend."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<5E7F3D87>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "His friend..."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<050AF39A>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Gotta hand it to that golden Ardun,\nthough. Pretty sure I ain't heard of any\nArdun that can chat to people before."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<5344B284>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Huh?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<6D4A89A0>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I bet animals don't take a liking to\nyou usually, huh?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<31F126A4>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I-I'm good with animals, I swear!\nThat was just a one-off event!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<3DCFD27E>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I guess the trust Nandun has with Tussore\nmust be something really special."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<B7E23356>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He's showing that he really cares about\nher, I'm sure."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<397BA093>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is that right...?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<365029E7>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...(sob)..."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<EF966930>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wh-why are you crying?!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<B28B7A09>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's just...I've been so worried for so long..."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<333249CD>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ever since I started raising them for milk...\nI've been wondering what they really think\nabout me..."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<6AF2371A>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So...(sniff)...to see that they've\nlong thought of me as a friend...\nand a close one at that..."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<763CDE1A>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...There, there, Tussie."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<91215484>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No one knows them as well as you do,\nyou know."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<C2FFB6A1>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Of course they know just how much\nyou care for them, don't you worry."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<A40CCFB2>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK..."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<D6365A9F>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Right, I'm going to work even harder,\nto make sure these guys grow up big and\nstrong, so they can help protect us all."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<EE28E3F8>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And I'm sure there's plenty more things\nyou can teach me. Right, Nandun?"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<A6E76EB8>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hehe, thank you. I'll be needing you\neven more than ever now, you hear?"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<8625BF41>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 79,
+      "<DBAF43F0>": "With Nandun's help, Tussore and\nthe others can now raise Armus on\ntheir own."
+    }
+  ]
+}

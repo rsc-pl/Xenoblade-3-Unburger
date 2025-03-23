@@ -1,0 +1,1944 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<64D00853>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want some weeds from the Aetia\nregion to make fertilizer with."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<77B8DA74>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Now I can grow nice, healthy spuds\nin rich, fertilized soil. Thank you."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<216A893E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Could you help the colony\nstrengthen its defenses?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<A1778ABC>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You always gotta be prepared for\nunforeseen situations. Much obliged."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<BB724A70>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "If you're curious, there seems to be\na place with lots of rare goods."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<2FAE5C1C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I appreciate you investigating.\nYou scored quite the find, eh?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<0C5E35B1>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want to decorate the colony\nwith flowers from all over Aetia."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<22900034>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "It'll be really nice if this cheers\npeople up, even a little."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<CBAED3E6>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Now we've got rockslides to deal\nwith... You got any good ideas?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<0F489A6C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "No more getting caught between a\nrock and a hard place for us, eh!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<21C9F5FF>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I need these for repairing power\nframes."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<474C7E1F>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "The balance is all sorted out now.\nThanks for your help."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<70EFD9DA>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "The Nopon speak of beautiful items\nfrom all across the world."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<B5F7245D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "One day, I'll go see Aionios's\nbeauty with Camilla."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<7036549F>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'd like something that will improve\nmy tolerance of spicy foods."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<CEDB1E57>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Cheers! ...OK, spices! You aren't\ngonna stop me now!"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<525E7366>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Bring me all the seeds that will\ngrow in the Aetia region."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<8D52C11C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You have my thanks. Now our\ncrop fields will really flourish."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<53E77C04>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Harala need more parts for fixing\nLevnises! Please, someone send!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<5EF6527E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thanks! Now to crack on with\nbacklog of maintenance!"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<8C46B56E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Anita and the others got caught up\nin a nasty rockslide. I'm worried..."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<62A312A9>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Their injuries may heal, but\ntheir trauma will still remain..."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<F12E2E99>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "This is what I need you to get.\nThanks in advance."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<BC260D31>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Nice. These will come in handy!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<CB1E00A7>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'd like to stock up on some more\nLevnis parts."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<D17EBCA3>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Eilis has never been too hot on\nsafe driving..."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<80790D07>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'm thinking of making more of\nUrl's fertilizer."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<2C66AC4F>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "This fertilizer is going to make\nmy potato yields even bigger!"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<FE161920>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Want parts for maintaining!"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<6AB7DA24>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Friend is lifesaver! Will know to\ncall friend again for part collecting!"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<0E4A5091>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want to show Camilla my\nappreciation for all her hard work."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<ABB8FC39>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "It's good to show a bit of everyday\nappreciation, don't you think?"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<ED6E212F>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want to leave my feelings...my\nwords, not just a document."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<8DD3305C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "The days of obsession with war are\nover now, a thing of the past."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<25296E7E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want to put my experiences into\na book; let people know I was here."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<7361D3DC>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thanks so much. Good luck on\nyour adventure."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<6C68A131>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Is there some food that you can eat\neven when it's raw...?"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<62B407AC>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Awesome! Now I can snack\nwhile I'm on the march!"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<B56CAFCC>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Here's what needs collecting on my\nCollectopaedia Card!"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<CE9B8CBA>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I hope this'll help out with Laurea's\ncollecting efforts as well."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<302E2117>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Get me all the ore you can gather\nfrom the Aetia region!"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<CF95BE1E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You're a big help! Your arms must\nbe dead from all that mining..."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<91F72CA8>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want some fruit from the Aetia\nregion!"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<8A075366>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I wonder what fruits are like\nelsewhere in the world!"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<AF1DA6E7>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "How about some mining and weight\ntraining at Melnath's Shoulder?"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<DA485C58>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "It's a great way to kill two birds\nwith one stone, ain't it?"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<BA4C5404>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Gogol is the brawniest!\nGogol is the strongest!"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<36F92707>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Eating this, I too will become\nthe brawniest and the strongest!"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<D37E871A>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "If I just had gemstones of the\nPentelas region..."
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<23B2406E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "The powder I'll grind out of these\nwill make for a fine sedative!"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<E2F741D4>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Give me some Aetia mushrooms\nto experiment on, please."
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<9742B457>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Now, time to test just how effective\nthis poison is..."
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<E024C2BB>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I need some firewood for the cold\nnights on Melnath's Shoulder."
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<75CA67FF>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "...Thanks."
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<5E651628>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You can harvest clams, even in the\nAetia region."
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<8A104CAB>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "These clams are absolutely\npacked with great nutrition."
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<7628381E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Could you help me procure some\nvegetables?"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<6AD6179D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "A balanced diet is just as crucial to\nbodybuilding as training is, after all."
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<3EC6F205>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "If only I had some nectar for my\nsore throat..."
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<FDD42848>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "This'll help me talk with no trouble\nin no time! Thank you very much!"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<367BCCE1>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Could you get me some parts to\nuse for Ferron maintenance?"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<2BDC85C2>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thanks a bunch. Now these guys\nwill be ready to go whenever."
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<0A324BC5>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "No. 10 mentioned that there were\nrare types of flowers around here..."
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<30C9C55C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Wow, they're so pretty...\nThank you so much!"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<B8BE27FE>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "So, there's these rare fossils...\nNot that it matters, really..."
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<D3B73B6F>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I-I didn't really ask for your help!\nSo it's not like I'm thanking you!"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<34AF37FB>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'm requesting some assistance with\nsurveying the Perimeter Woodland."
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<8B739E95>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "There's a limit to what results we\ncan achieve... Thanks for helping."
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<B28AF5D7>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I love roasted seeds from the\nCadensia region."
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<05E7A2D0>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You're as reliable as I thought! I'll\ncall you if I need anything again!"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<1537CE7C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Do you know about Black\nBlossoms? I need some urgently."
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<FFE7F26A>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Cheers for that! Those blossoms\nare gonna help me help my friends!"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<FC785E70>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I need to have Fili become\nfriendlier with me, and fast."
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<B372BC12>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Fili's always been a precious friend\nthrough thick and thin, after all."
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<3A26CE6F>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "So, I heard about these rare stones\nand fossils you find in the desert..."
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<D48B28F3>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'm not sure if this is the real deal\nor not...but it's intriguing, anyway."
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<F8904BDE>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Meh-meh! Veggie supply lacking!"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<EBCF5D39>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "With plentiful veggie, now all\nfriend can have balance in diet!"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<262052BB>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Cooking go chilly too quick when\noutside."
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<BA9231FD>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Now that meals snug and toasty,\nfur cozy and warm!"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<846F06E6>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "A hot day calls for super-juicy\nveggies to cool down with."
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<06769ADF>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "The heat ain't gonna beat me now!"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<AA08FB20>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "When the wind's strong, it causes\nreal trouble for my chimney starter."
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<A95D783B>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "This'll make things much easier for\nme! You saved me a lot of bother!"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<82D4B466>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Would you mind picking up some\nseeds in the Fornis region for me?"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<B9EB44AA>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Some soldiers don't react well to\nseeds, so let's see how these fare."
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<D41D2B30>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I would like you to get me lumber\nfrom all across the Fornis region."
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<F7CE12F6>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You must have worked up a sweat\ngathering all that wood. Thanks!"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<A3F37DE3>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Go to get thingies at Ribbi Flats!"
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<7448AFC4>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Good job! Mikoko now flush with\ningredients!"
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<9C77A86D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Go to get thingies at Rae-Bel\nTableland!"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<D03DBCAC>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Good job! Mikoko thank mighty\nnature for blessing so great!"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<0430AE96>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Something odd has been dropping\nreal often at the Distant Fingertip."
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<4077B243>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thanks for checking it out. Better\nsafe than sorry, you know."
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<310590D4>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'd love to go out and see some\nBunnits digging up ore!"
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<A230AFA1>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Brilliant! I'll put this to use straight\naway!"
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<AB94BF0C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I need machine parts from the\nFornis region!"
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<C5957D58>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thank you so much! Now I can\nkeep M&D costs down!"
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<0CB98108>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Go to get thingies at Laprel Knoll!"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<5CBA4C5E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Many shiny treasure to find in\nrare fossil type!"
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<95182E2E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Get all the ore you can get your\nhands on in the Fornis region."
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<DD55655E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "This ore's gonna help me make a\nLevnis that'll be built to last."
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<86A45525>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Go collect me some mushrooms in\nRibbi Flats and Rae-Bel Tableland."
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<A859413F>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Good job getting those mushrooms.\nI'll make it worth your while."
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<A83B8DCA>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Could you go gather some flowers\nfrom the Fornis region?"
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<ADDC6A9E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Such a nice smell they have. They\nreally help you sleep sound!"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<E78676CB>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'm collecting some Scarlet Lychees.\nWanna help me out?"
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<52CF2ACB>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thank you! I'll let you know if\nI need anything again."
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<EC2C522D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I've got an idea for the perfect gift\nfor Fili!"
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<1BCFDAD1>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'll be over the moon if this makes\nhim like me even just a little bit."
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<D6E3C27A>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Want oils of plants for making of\nfuel."
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<B04B3C5A>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Will later consider how fuel get\nused!"
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<3DD6E2AE>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "On cusp of great invention! Friends,\nget materials for making invention!"
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<9444B0E4>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Smell of good, lucky fortune in air!"
+    },
+    {
+      "$id": 115,
+      "<8C7DD24D>": "<13C8BD29>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Need friends' help procuring\ncomponents of Pentelas region!"
+    },
+    {
+      "$id": 116,
+      "<8C7DD24D>": "<CE33A530>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Now road not be so rocky no\nmore!"
+    },
+    {
+      "$id": 117,
+      "<8C7DD24D>": "<DCC76BF3>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Need friends' help procuring\ncomponents of Cadensia region!"
+    },
+    {
+      "$id": 118,
+      "<8C7DD24D>": "<0A9DFECE>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "These help Levnis be protect\nto bitter, salty wind!"
+    },
+    {
+      "$id": 119,
+      "<8C7DD24D>": "<2EF53EC0>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Change of tool for each screw\nmuch pain for furry backside..."
+    },
+    {
+      "$id": 120,
+      "<8C7DD24D>": "<25087A4B>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Meh-meh! Now screwing screws\nsimple, to relief of furry backside!"
+    },
+    {
+      "$id": 121,
+      "<8C7DD24D>": "<B2780572>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want something to help me carry\nheavy stuff more easily."
+    },
+    {
+      "$id": 122,
+      "<8C7DD24D>": "<31ADD899>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "This'll be a great help for when my\nLevnis breaks down outside."
+    },
+    {
+      "$id": 123,
+      "<8C7DD24D>": "<8A58F44E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want something that will deepen\nmy understanding of Colony 30."
+    },
+    {
+      "$id": 124,
+      "<8C7DD24D>": "<F604D476>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "An ornamental weapon? Why make\na weapon that's no good in battle?"
+    },
+    {
+      "$id": 125,
+      "<8C7DD24D>": "<F76D0B55>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'll use this to instruct Jill on the\nCollectopaedia Card."
+    },
+    {
+      "$id": 126,
+      "<8C7DD24D>": "<B2956A50>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Right then, I hope I won't have any\nmore odd questions to deal with..."
+    },
+    {
+      "$id": 127,
+      "<8C7DD24D>": "<4221EE27>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Might you have any rare articles\nfrom the Pentelas region?"
+    },
+    {
+      "$id": 128,
+      "<8C7DD24D>": "<8BF9D28B>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You have an eye for this. Know any\nnice places for those in the know?"
+    },
+    {
+      "$id": 129,
+      "<8C7DD24D>": "<C59482C1>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Might there be any precious\nresources around the Castle area?"
+    },
+    {
+      "$id": 130,
+      "<8C7DD24D>": "<235B76AE>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Excellent work. This is sure to\nmake Dame Alex delight with joy."
+    },
+    {
+      "$id": 131,
+      "<8C7DD24D>": "<1D2CE65F>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Please get me delectable vegetables\nfor my Master's training sessions."
+    },
+    {
+      "$id": 132,
+      "<8C7DD24D>": "<A12C4C93>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Tremendous work. I shall now soar\nto heights even greater than before!"
+    },
+    {
+      "$id": 133,
+      "<8C7DD24D>": "<0F7CAC69>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I need some fruit from the Fornis\nregion for making bait."
+    },
+    {
+      "$id": 134,
+      "<8C7DD24D>": "<D61904F7>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'll be able to keep the monsters\naway now."
+    },
+    {
+      "$id": 135,
+      "<8C7DD24D>": "<D8D4327A>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I need fruit from all over the world\nfor making bait."
+    },
+    {
+      "$id": 136,
+      "<8C7DD24D>": "<70F5C596>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Much obliged. Now we'll have less\nwasted food."
+    },
+    {
+      "$id": 137,
+      "<8C7DD24D>": "<4D351239>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I desire gemstones that are found\nin the Fornis region."
+    },
+    {
+      "$id": 138,
+      "<8C7DD24D>": "<EEEABEDC>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "The utilities of Fornis gemstones\nare wide and varied."
+    },
+    {
+      "$id": 139,
+      "<8C7DD24D>": "<CD41A380>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want some delicious tea to serve\nthe increasing number of customers."
+    },
+    {
+      "$id": 140,
+      "<8C7DD24D>": "<FDB35565>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Combining tea leaves is something\nI wish I had thought of earlier!"
+    },
+    {
+      "$id": 141,
+      "<8C7DD24D>": "<CEE66C39>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'll have some tech that's not\nKevesi or Agnian, please... Heheh."
+    },
+    {
+      "$id": 142,
+      "<8C7DD24D>": "<120C6685>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'll call you again if I need some\nmore souvenirs. Laters."
+    },
+    {
+      "$id": 143,
+      "<8C7DD24D>": "<187CDEC1>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Are there any sewing tools from\nthe City you could bring me?"
+    },
+    {
+      "$id": 144,
+      "<8C7DD24D>": "<41470A11>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'll be able to sew clothes, bags,\nand all sorts with this!"
+    },
+    {
+      "$id": 145,
+      "<8C7DD24D>": "<008A2433>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "asdfh* fhid hsdi= shahsd. yf%"
+    },
+    {
+      "$id": 146,
+      "<8C7DD24D>": "<C85E1061>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "shdy ( fhdhs sh888s fhdh!"
+    },
+    {
+      "$id": 147,
+      "<8C7DD24D>": "<D2680993>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "fhhhh 7sdhf sysh3 \\] shd?"
+    },
+    {
+      "$id": 148,
+      "<8C7DD24D>": "<FB65D13E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "fgeyk\" fhshs8 shsydn ,,sksi4>"
+    },
+    {
+      "$id": 149,
+      "<8C7DD24D>": "<45422DDE>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Would you help me collect some\ngemstones from the Aetia region?"
+    },
+    {
+      "$id": 150,
+      "<8C7DD24D>": "<9052FE1E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I can't fight, but I at least want to\nhelp protect everyone."
+    },
+    {
+      "$id": 151,
+      "<8C7DD24D>": "<2F30272D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Pippitos seem to drop something\nwhen they run away."
+    },
+    {
+      "$id": 152,
+      "<8C7DD24D>": "<022D1075>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "We use all available resources,\neven those dropped by monsters."
+    },
+    {
+      "$id": 153,
+      "<8C7DD24D>": "<01CE111F>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want you to gather up some\nwood from the Pentelas region."
+    },
+    {
+      "$id": 154,
+      "<8C7DD24D>": "<8437C925>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You're a big help. These'll help\nbuild a nice, sturdy camp."
+    },
+    {
+      "$id": 155,
+      "<8C7DD24D>": "<B3F07423>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I have precious little time to eat, so\nI need something quick and filling!"
+    },
+    {
+      "$id": 156,
+      "<8C7DD24D>": "<E813F542>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "This is just what I've been hoping\nfor! Thanks!"
+    },
+    {
+      "$id": 157,
+      "<8C7DD24D>": "<8EFC3A9D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "We're so close... All we need are\nthese materials, and it'll be complete."
+    },
+    {
+      "$id": 158,
+      "<8C7DD24D>": "<4A92BF8D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "This device should really help\nTulgrim work on his battle strategy."
+    },
+    {
+      "$id": 159,
+      "<8C7DD24D>": "<D7A47AA4>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want some mushrooms from the\nPentelas region to have in reserve."
+    },
+    {
+      "$id": 160,
+      "<8C7DD24D>": "<0D9C01BD>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Brilliant! These mushrooms can be\nused for medicine too."
+    },
+    {
+      "$id": 161,
+      "<8C7DD24D>": "<5195A29D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Logging a request to pick up some\nore from the Pentelas region."
+    },
+    {
+      "$id": 162,
+      "<8C7DD24D>": "<67A50446>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thank you. These'll prove handy\nfor both maintenance and missions."
+    },
+    {
+      "$id": 163,
+      "<8C7DD24D>": "<EBE9FB33>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Let Sif know if there's an ingredient\nthat can replace Kelp Mushrooms."
+    },
+    {
+      "$id": 164,
+      "<8C7DD24D>": "<B3E6EF33>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "My days of eating that dreck are\nfinally over..."
+    },
+    {
+      "$id": 165,
+      "<8C7DD24D>": "<80DC4016>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "My gloves are wearing thin, and\nso are supplies. It's a worry."
+    },
+    {
+      "$id": 166,
+      "<8C7DD24D>": "<8C0FBD01>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thanks for those materials. I'll ask\nagain if I need anything."
+    },
+    {
+      "$id": 167,
+      "<8C7DD24D>": "<48D2585C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "If you're heading to Maktha\nWildwood, go get me these."
+    },
+    {
+      "$id": 168,
+      "<8C7DD24D>": "<4070E326>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I appreciate it. You can't get these\nmaterials where I'm from."
+    },
+    {
+      "$id": 169,
+      "<8C7DD24D>": "<4DA3A6A0>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "If you can, mine me some ore from\nthe Keves Castle region."
+    },
+    {
+      "$id": 170,
+      "<8C7DD24D>": "<50CA69DC>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Since I don't need to fight, I want\nto see what I can learn from these."
+    },
+    {
+      "$id": 171,
+      "<8C7DD24D>": "<ECD0186E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I've started noticing how much\nI've been missing Tau cuisine."
+    },
+    {
+      "$id": 172,
+      "<8C7DD24D>": "<621DEC3A>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "No matter how well traveled you\nbecome, there's no taste like home."
+    },
+    {
+      "$id": 173,
+      "<8C7DD24D>": "<C478FA61>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I really like the condiments in the\nPentelas region, you see."
+    },
+    {
+      "$id": 174,
+      "<8C7DD24D>": "<D8AE8378>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "What a pleasant smell... Can't wait\nto pour this on my lunch."
+    },
+    {
+      "$id": 175,
+      "<8C7DD24D>": "<7432F6AA>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "All the herbs you can find in the\nPentelas region, if you don't mind."
+    },
+    {
+      "$id": 176,
+      "<8C7DD24D>": "<1BAFAEED>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I can use these for both medicine\nand poison arrows. Thanks!"
+    },
+    {
+      "$id": 177,
+      "<8C7DD24D>": "<252C1158>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I cover myself in plants to blend in\nwith nature when I'm out hunting."
+    },
+    {
+      "$id": 178,
+      "<8C7DD24D>": "<84C97DF2>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Give it a go sometime. It's not\na bad habit to get into."
+    },
+    {
+      "$id": 179,
+      "<8C7DD24D>": "<29EA1A84>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "The Nopon are demanding a bunch\nof Pentelas mollusk shells. Help?"
+    },
+    {
+      "$id": 180,
+      "<8C7DD24D>": "<04945828>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Looks like the Nopon are grinding\nthem up to make a new material."
+    },
+    {
+      "$id": 181,
+      "<8C7DD24D>": "<E337C5A7>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I haven't got enough tools to\nallocate to the aspiring hunters."
+    },
+    {
+      "$id": 182,
+      "<8C7DD24D>": "<57FAF196>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "This hunter tech will spread to all\nthe colonies one day, I know it!"
+    },
+    {
+      "$id": 183,
+      "<8C7DD24D>": "<FF4B6D70>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'm using Pentelas seed oil for my\ncooking."
+    },
+    {
+      "$id": 184,
+      "<8C7DD24D>": "<38258116>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You can eat them, get oil out of\nthem - seeds have all kinds of uses."
+    },
+    {
+      "$id": 185,
+      "<8C7DD24D>": "<130E7587>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want you to collect all the\nPentelas fruits you can find."
+    },
+    {
+      "$id": 186,
+      "<8C7DD24D>": "<CEB14B92>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I need to eat these quick before the\nbugs do, so I'll be in touch again."
+    },
+    {
+      "$id": 187,
+      "<8C7DD24D>": "<E6031C02>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You can never have enough\nCuregrass."
+    },
+    {
+      "$id": 188,
+      "<8C7DD24D>": "<29E7F686>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I've lost count of all the favors\nyou guys have done for me."
+    },
+    {
+      "$id": 189,
+      "<8C7DD24D>": "<2D245546>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Is there anything that can be used\nfor medicine in the other regions?"
+    },
+    {
+      "$id": 190,
+      "<8C7DD24D>": "<4F105B89>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thank you. I'll go try this out."
+    },
+    {
+      "$id": 191,
+      "<8C7DD24D>": "<1711B5C1>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Hmm... What would an accessory\nmade with flowers be like?"
+    },
+    {
+      "$id": 192,
+      "<8C7DD24D>": "<EFBFA6CA>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thanks for all the flowers!"
+    },
+    {
+      "$id": 193,
+      "<8C7DD24D>": "<6C3F4C50>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Cadensia vegetables have this\nincredible smell, you know?"
+    },
+    {
+      "$id": 194,
+      "<8C7DD24D>": "<0D7B755D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Once you get accustomed to the\nsmell, you can't get enough of it."
+    },
+    {
+      "$id": 195,
+      "<8C7DD24D>": "<6D999260>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You couldn't possibly...get me some\nfragrant herbs, could you?"
+    },
+    {
+      "$id": 196,
+      "<8C7DD24D>": "<B33ACDFB>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "He he... I really owe you one..."
+    },
+    {
+      "$id": 197,
+      "<8C7DD24D>": "<AB3BC2B1>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You couldn't help me make...let's\nsay, some traps, could you?"
+    },
+    {
+      "$id": 198,
+      "<8C7DD24D>": "<0D7C6149>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "What sort of trap, you ask? Hehe...\nThat's not for you to know."
+    },
+    {
+      "$id": 199,
+      "<8C7DD24D>": "<20387A8B>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Would you mind collecting\nsome mushrooms for me?"
+    },
+    {
+      "$id": 200,
+      "<8C7DD24D>": "<D3F857C2>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thanks for that. I'll let you know\nif I need you again."
+    },
+    {
+      "$id": 201,
+      "<8C7DD24D>": "<4185C3F4>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I like to challenge myself to make\na seafood dish every now and again."
+    },
+    {
+      "$id": 202,
+      "<8C7DD24D>": "<6E61EEB8>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Do I grill it? Boil it? Make a paste\nout of it? I'm truly lost for options..."
+    },
+    {
+      "$id": 203,
+      "<8C7DD24D>": "<BB2A04F5>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Oh, you're free for an odd job?!\nWell, it's yours now! Get cracking!"
+    },
+    {
+      "$id": 204,
+      "<8C7DD24D>": "<A048A681>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Gahaha! Thanks a million!"
+    },
+    {
+      "$id": 205,
+      "<8C7DD24D>": "<22469831>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Get me some plaster-cast for\ntraining ASAP!"
+    },
+    {
+      "$id": 206,
+      "<8C7DD24D>": "<F07A4728>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "What? You were expecting some\nthanks or something?"
+    },
+    {
+      "$id": 207,
+      "<8C7DD24D>": "<2531BB22>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want you to get some mechanical\nparts from around the Castle."
+    },
+    {
+      "$id": 208,
+      "<8C7DD24D>": "<2E6C3DC2>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I appreciate the help. Hope you\ncan lend it again the next time."
+    },
+    {
+      "$id": 209,
+      "<8C7DD24D>": "<22252C41>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'd like to give Agnus a memento,\nto commemorate our reconciliation."
+    },
+    {
+      "$id": 210,
+      "<8C7DD24D>": "<5102986C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Keves and Agnus are going to work\ntogether... I'm choking up already."
+    },
+    {
+      "$id": 211,
+      "<8C7DD24D>": "<B535DAE0>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Do you think that Origin's tech can\nbe stolen somehow?"
+    },
+    {
+      "$id": 212,
+      "<8C7DD24D>": "<3ED26800>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You guys rule! Those Moebius\nmudders ain't gonna beat us now!"
+    },
+    {
+      "$id": 213,
+      "<8C7DD24D>": "<225B5506>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I've got to wonder if that weird\nenemy tech can be used by us."
+    },
+    {
+      "$id": 214,
+      "<8C7DD24D>": "<A196FAF4>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You managed to get quite the haul.\nI'm in your debt."
+    },
+    {
+      "$id": 215,
+      "<8C7DD24D>": "<512C2D6F>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'm really curious about ordinary,\neveryday things in Agnian colonies."
+    },
+    {
+      "$id": 216,
+      "<8C7DD24D>": "<70631B4C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thank you for getting these. They\nhave proven to be very illuminating."
+    },
+    {
+      "$id": 217,
+      "<8C7DD24D>": "<D389E104>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Speaking of the City, what things\nset it apart from other places?"
+    },
+    {
+      "$id": 218,
+      "<8C7DD24D>": "<AFE76593>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I see now... It's like a new world is\nopening up before my very eyes."
+    },
+    {
+      "$id": 219,
+      "<8C7DD24D>": "<491FDA62>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "There's this lumber that's in the\nHovering Reefs. Can you get it?"
+    },
+    {
+      "$id": 220,
+      "<8C7DD24D>": "<BD8CF453>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "It's a shame that I couldn't get\nthe stuff for myself, alone."
+    },
+    {
+      "$id": 221,
+      "<8C7DD24D>": "<449DF9B1>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Try and get some ore in the Keves\nCastle region! I dare ya!"
+    },
+    {
+      "$id": 222,
+      "<8C7DD24D>": "<E9C29879>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I was just testing ya! I could've\ndone it myself, ya know!"
+    },
+    {
+      "$id": 223,
+      "<8C7DD24D>": "<CD1B0344>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Can you get me some gemstones\nfrom around the Castle?"
+    },
+    {
+      "$id": 224,
+      "<8C7DD24D>": "<E8AA1583>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Fantastic! These'll help make me\nsome spare equipment."
+    },
+    {
+      "$id": 225,
+      "<8C7DD24D>": "<680DAD6D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I collect plants from around the\nGreat Sword!"
+    },
+    {
+      "$id": 226,
+      "<8C7DD24D>": "<31EB6823>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I've been thinking of making\nthe Captain try eating these!"
+    },
+    {
+      "$id": 227,
+      "<8C7DD24D>": "<BAB2EC50>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "The City guy asked me to collect\nseeds growing at the Great Sword."
+    },
+    {
+      "$id": 228,
+      "<8C7DD24D>": "<3110CE46>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I could make these into a tasty\nspice!"
+    },
+    {
+      "$id": 229,
+      "<8C7DD24D>": "<ED677D44>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Fungi are clearly a fungible asset!\nGo on and get me some shrooms!"
+    },
+    {
+      "$id": 230,
+      "<8C7DD24D>": "<40EAB069>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You're a real pal! So much so that\nI'll split the profits 50-50!"
+    },
+    {
+      "$id": 231,
+      "<8C7DD24D>": "<B26AD3EC>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "There's talk of a forest where\ntreasure slumbers... You're in, right?"
+    },
+    {
+      "$id": 232,
+      "<8C7DD24D>": "<C5A90E4E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "The rumors were true! I'm gonna\nbe smiling for weeks on end!"
+    },
+    {
+      "$id": 233,
+      "<8C7DD24D>": "<DD952C67>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I could do with a feast of shellfish\nright about now... You got any?"
+    },
+    {
+      "$id": 234,
+      "<8C7DD24D>": "<4EC34AD3>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Once eaten, the shells sell for good\nG. You can't go wrong with shellfish."
+    },
+    {
+      "$id": 235,
+      "<8C7DD24D>": "<07470DFC>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "The clams that the Ottils break up\nare really tasty."
+    },
+    {
+      "$id": 236,
+      "<8C7DD24D>": "<D5A70E7B>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I think I'll give this shell as a\npresent to Brenda."
+    },
+    {
+      "$id": 237,
+      "<8C7DD24D>": "<97B89014>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Have you got any fossils from the\nPentelas region?"
+    },
+    {
+      "$id": 238,
+      "<8C7DD24D>": "<9E44772B>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Amazing! I've never seen any of\nthese creatures before."
+    },
+    {
+      "$id": 239,
+      "<8C7DD24D>": "<4FA32321>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "There should be fossils even at the\nGreat Sword, shouldn't there?"
+    },
+    {
+      "$id": 240,
+      "<8C7DD24D>": "<A0F72A8B>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I've never seen these fossils before.\nThey could even be treasure!"
+    },
+    {
+      "$id": 241,
+      "<8C7DD24D>": "<41B0CC7D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "What kind of fossils can be found\nin the Aetia region?"
+    },
+    {
+      "$id": 242,
+      "<8C7DD24D>": "<A7B4C5E3>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "These are some fascinating\nspecimens indeed."
+    },
+    {
+      "$id": 243,
+      "<8C7DD24D>": "<BBFA0B1B>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Go get me some fossils from\nthe Fornis region, please!"
+    },
+    {
+      "$id": 244,
+      "<8C7DD24D>": "<1D0FB797>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "There aren't many other places\nwith such a variety, huh."
+    },
+    {
+      "$id": 245,
+      "<8C7DD24D>": "<66C39068>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Get excavating! Chase down those\nslumbering fossils in Cadensia."
+    },
+    {
+      "$id": 246,
+      "<8C7DD24D>": "<8B60903E>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "This is only the beginning, my\nfriend. Next time won't be so easy!"
+    },
+    {
+      "$id": 247,
+      "<8C7DD24D>": "<BEFA5213>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You've unearthed all the fossils,\nbut there's still digging to do!"
+    },
+    {
+      "$id": 248,
+      "<8C7DD24D>": "<A2BA476B>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Your treasure hunting days aren't\nbehind you yet, my friends!"
+    },
+    {
+      "$id": 249,
+      "<8C7DD24D>": "<63BEE795>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I wanna throw the Queen of all\nparties when we all succeed!"
+    },
+    {
+      "$id": 250,
+      "<8C7DD24D>": "<795CD44B>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Guess I'll write something like\n\"thanks!\" on the sash!"
+    },
+    {
+      "$id": 251,
+      "<8C7DD24D>": "<1E4A2907>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I wanna celebrate everyone's\nprogress towards our goal!"
+    },
+    {
+      "$id": 252,
+      "<8C7DD24D>": "<CDD2020D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Fantastic! I can barely wait! Heheh."
+    },
+    {
+      "$id": 253,
+      "<8C7DD24D>": "<C00670AB>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Could I request you to go gather\nsome ore from Cadensia?"
+    },
+    {
+      "$id": 254,
+      "<8C7DD24D>": "<34BE24DD>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Wowee! I hope this puts a smile on\nNico's face..."
+    },
+    {
+      "$id": 255,
+      "<8C7DD24D>": "<2D79EAB5>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'm collecting all kinds of curious\ningredients from all over Aionios!"
+    },
+    {
+      "$id": 256,
+      "<8C7DD24D>": "<0AF8E2D7>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Such fascinating ingredients! I knew\nI could count on you guys."
+    },
+    {
+      "$id": 257,
+      "<8C7DD24D>": "<C265521D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want some first-aid treatments for\nwhen our Healer gets roughed up."
+    },
+    {
+      "$id": 258,
+      "<8C7DD24D>": "<4ADF16EF>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Even Healers get targeted at times.\nGotta be prepared for all situations."
+    },
+    {
+      "$id": 259,
+      "<8C7DD24D>": "<7AD3F85C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'll have all the rare gemstones\nAionios can offer, please!"
+    },
+    {
+      "$id": 260,
+      "<8C7DD24D>": "<08B2A71B>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'll be able to make everyone\nmatching necklaces with these!"
+    },
+    {
+      "$id": 261,
+      "<8C7DD24D>": "<5CA92983>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Help me collect gemstones from\nthe Cadensia region."
+    },
+    {
+      "$id": 262,
+      "<8C7DD24D>": "<0E7AC4A3>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Now I can make everyone a\nnecklace!"
+    },
+    {
+      "$id": 263,
+      "<8C7DD24D>": "<B79070C2>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want to create a memento of\nSean and Frost's existence."
+    },
+    {
+      "$id": 264,
+      "<8C7DD24D>": "<4F7D6715>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "This is a fine shield... I'll go carve\nFrost's name into it."
+    },
+    {
+      "$id": 265,
+      "<8C7DD24D>": "<F69B4008>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want to create a memento of\nSean and Frost's existence."
+    },
+    {
+      "$id": 266,
+      "<8C7DD24D>": "<B6976732>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "This is a beautiful shield...\nI'll go carve Sean's name into it."
+    },
+    {
+      "$id": 267,
+      "<8C7DD24D>": "<CAD73622>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'm a little curious about the kinds\nof fruit they have in the Castle."
+    },
+    {
+      "$id": 268,
+      "<8C7DD24D>": "<AA72988C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You never see these around here!\nI'm so excited to try it!"
+    },
+    {
+      "$id": 269,
+      "<8C7DD24D>": "<8D3A1FD8>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'm coming up with some recipes\nthat use Cadensia fruits!"
+    },
+    {
+      "$id": 270,
+      "<8C7DD24D>": "<3847DCDA>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Maybe these'll be good all wrapped\nup in nice flaky pastry..."
+    },
+    {
+      "$id": 271,
+      "<8C7DD24D>": "<2520481A>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "By the by...did you happen to pick\nthese up while you were in Origin?"
+    },
+    {
+      "$id": 272,
+      "<8C7DD24D>": "<F0948901>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "How utterly fascinating. It's like\nit's from another world entirely..."
+    },
+    {
+      "$id": 273,
+      "<8C7DD24D>": "<5817B342>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Moglums often shed the coral\nthat's on their bodies, I heard."
+    },
+    {
+      "$id": 274,
+      "<8C7DD24D>": "<A6BA710D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "There's yet more things to be\ndiscovered from sea creatures."
+    },
+    {
+      "$id": 275,
+      "<8C7DD24D>": "<E98EB059>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Some Cadensia herbs would make\nthis medicine easier to swallow."
+    },
+    {
+      "$id": 276,
+      "<8C7DD24D>": "<EA60A327>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You're a real pal. Now I can drink\nthis medicine without throwing up."
+    },
+    {
+      "$id": 277,
+      "<8C7DD24D>": "<8E7A5A19>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I wonder if monsters can be\ncontrolled with the foods they like?"
+    },
+    {
+      "$id": 278,
+      "<8C7DD24D>": "<3A4E158C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Right, let's see if this'll work then."
+    },
+    {
+      "$id": 279,
+      "<8C7DD24D>": "<5A9BE32C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Ghondor says I could really use\nsome coral."
+    },
+    {
+      "$id": 280,
+      "<8C7DD24D>": "<4817CA39>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "An amulet made out of this could\nhelp turn our fortunes around..."
+    },
+    {
+      "$id": 281,
+      "<8C7DD24D>": "<82A881DB>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'm in need of some lumber from\nthe Cadensia region."
+    },
+    {
+      "$id": 282,
+      "<8C7DD24D>": "<8BC59AD7>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'll have more procurement tasks\ncoming in. Hope to see you again."
+    },
+    {
+      "$id": 283,
+      "<8C7DD24D>": "<19F3A241>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I want to get some vegetables from\nthe Cadensia region."
+    },
+    {
+      "$id": 284,
+      "<8C7DD24D>": "<8BD2B83A>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thanks a lot. These'll be a big\nhelp."
+    },
+    {
+      "$id": 285,
+      "<8C7DD24D>": "<F089F1E9>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I got orders to get some flowers\nthat bloom at the Great Sword..."
+    },
+    {
+      "$id": 286,
+      "<8C7DD24D>": "<17326947>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thanks for helpin' me out with\nthat triflin' little thing there."
+    },
+    {
+      "$id": 287,
+      "<8C7DD24D>": "<7F5CA5B1>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Get all these, and Shillshill trade\nfor big, smashing prize."
+    },
+    {
+      "$id": 288,
+      "<8C7DD24D>": "<56106199>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Shillshill so grateful! Here big,\nsmashing prize, just as promise!"
+    },
+    {
+      "$id": 289,
+      "<8C7DD24D>": "<CB1B4D0A>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Meemoo need these rare thingies!\nAnyone feel like collecting?"
+    },
+    {
+      "$id": 290,
+      "<8C7DD24D>": "<89230A07>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Here is token of appreciation,\nfrom Meemoo to friends!"
+    },
+    {
+      "$id": 291,
+      "<8C7DD24D>": "<C12F16E4>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Nopon Caravan eager to get wings\non particular item..."
+    },
+    {
+      "$id": 292,
+      "<8C7DD24D>": "<7D589021>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Most wonderific! Loloka greatly\nthankful for friends' help."
+    },
+    {
+      "$id": 293,
+      "<8C7DD24D>": "<4E93C562>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Bitbit want elusive item, yet as\ndescription suggest, no one has it."
+    },
+    {
+      "$id": 294,
+      "<8C7DD24D>": "<3F230B0D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Friends are master detectors! Here\nis much deserved remuneration."
+    },
+    {
+      "$id": 295,
+      "<8C7DD24D>": "<BA82ECF1>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Selfifi speak honestly to friends that\nhave all of incredible item."
+    },
+    {
+      "$id": 296,
+      "<8C7DD24D>": "<A1BEC2B6>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "To return favor of honest friends,\nSelfifi present super-extra-fine gift."
+    },
+    {
+      "$id": 297,
+      "<8C7DD24D>": "<C39CB34A>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "My motto is that if something can\nbe taken, it gets taken."
+    },
+    {
+      "$id": 298,
+      "<8C7DD24D>": "<0C12E564>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Ain't nothing like free stuff! You\nguys are a living lucky charm!"
+    },
+    {
+      "$id": 299,
+      "<8C7DD24D>": "<536B140C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Supplies are short right now...\nCould you help us out?"
+    },
+    {
+      "$id": 300,
+      "<8C7DD24D>": "<DFFAD358>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I really can't thank you guys\nenough..."
+    },
+    {
+      "$id": 301,
+      "<8C7DD24D>": "<85A47C41>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "The state of Lambda's supplies isn't\nlooking too good at the moment."
+    },
+    {
+      "$id": 302,
+      "<8C7DD24D>": "<B49B3B5A>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I owe you one. These will come in\nhandy."
+    },
+    {
+      "$id": 303,
+      "<8C7DD24D>": "<B956F7B4>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Colony Mu hasn't got enough\nsupplies!"
+    },
+    {
+      "$id": 304,
+      "<8C7DD24D>": "<FB803C6C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thank you so, so much!"
+    },
+    {
+      "$id": 305,
+      "<8C7DD24D>": "<2862D586>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Colony 0's stores are running out\nof supplies..."
+    },
+    {
+      "$id": 306,
+      "<8C7DD24D>": "<16A87D55>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "The stores are filled up enough\nnow. Thanks for your help."
+    },
+    {
+      "$id": 307,
+      "<8C7DD24D>": "<104EE99B>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Hey, you've got plenty of supplies!\nDon't be greedy! Share them!"
+    },
+    {
+      "$id": 308,
+      "<8C7DD24D>": "<CDCD9D95>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You're the best! This'll lift\nthe whole colony's spirits!"
+    },
+    {
+      "$id": 309,
+      "<8C7DD24D>": "<8837DEF5>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Supplies? Well, then I do have\none little request for you..."
+    },
+    {
+      "$id": 310,
+      "<8C7DD24D>": "<D0C194E3>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Excellent work. I'll be sure to ask\nyou guys next time I need supplies."
+    },
+    {
+      "$id": 311,
+      "<8C7DD24D>": "<136D9C9A>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I have a supplies request for you\nif that's all right?"
+    },
+    {
+      "$id": 312,
+      "<8C7DD24D>": "<96219269>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thank you for all the help you've\ngiven us."
+    },
+    {
+      "$id": 313,
+      "<8C7DD24D>": "<EC1BE8CA>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "I'd like you to help Colony 9 build\nup a surplus of supplies."
+    },
+    {
+      "$id": 314,
+      "<8C7DD24D>": "<1F16AE92>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Thanks. We'll be sure to make\ngood use of these supplies."
+    },
+    {
+      "$id": 315,
+      "<8C7DD24D>": "<5FA0407C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Yo, you've got supplies you can\nsend us, right? Thanks in advance."
+    },
+    {
+      "$id": 316,
+      "<8C7DD24D>": "<7BA97124>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "These'll keep Colony 4 stable for\nthe time being."
+    },
+    {
+      "$id": 317,
+      "<8C7DD24D>": "<0A89A81D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "We need dietary fiber if we want\nto maintain a healthy metabolism..."
+    },
+    {
+      "$id": 318,
+      "<8C7DD24D>": "<090CF2D4>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "The gastrointestinal tracts\nof Colony 9 thank you!"
+    },
+    {
+      "$id": 319,
+      "<8C7DD24D>": "<99CAE325>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Blue Chains! Blue Chains!\nMy right arm for some Blue Chains!"
+    },
+    {
+      "$id": 320,
+      "<8C7DD24D>": "<756D4B6A>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Yesss, finally I can get those\nLevnises back in tip-top condition!"
+    },
+    {
+      "$id": 321,
+      "<8C7DD24D>": "<3EE7219D>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "..."
+    }
+  ]
+}

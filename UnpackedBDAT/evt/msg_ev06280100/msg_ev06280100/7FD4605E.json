@@ -1,0 +1,816 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<11681D4F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Must be nice to be strong like you guys!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<9CA1E9AA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And me? I was just a worm, crawling in the dirt."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<2D93BE7D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But what I wanted was to fly..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<621B1414>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "With every single new day, I looked up to admire\nthe birds, free-wheeling above... But I was a worm."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<DC71FEC0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Joran, cut the crap...!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<ECDC870F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The stuff you guys said was like, if those birds went..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<F34DECD4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "\"But Mister Worm, you do\nsuch great work tilling the soil!\""
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<4967F2A5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "\"It's really important you keep at it\nfor the sake of the world, you know!\""
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<2FE76796>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "...Do you see what I'm trying to say?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<0D64B99B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And what's so wrong about that?!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<DF478F1F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I wanted my wings, you bastard!"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<3A23476D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I thought if only I could earn your approval,\nit'd be like an updraft I could soar on!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<40B1C563>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But birds... What can they possibly know\nof how a lowly worm feels?!"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<1A7AD81E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](wounded gasp)"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<60C34037>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Joran... J-just how could you possibly think like that?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<FFF700CF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You wanted approval, so you..."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<A35181C2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "How could I not!"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<19FD9EDA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's why I became Moebius!"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<684AC229>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "So I could be what I always aspired to be!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<D4848A59>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Whaaat?!"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<15770AE9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This is *you*?"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<08CA1BD3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It looks nothin' like you!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<2CD9A6FD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "M...mm."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<F94FB84A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah... But, like..."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<2AE5106D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's what I wanna end up like, someday."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<CC0EC624>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Silly, huh?"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<BCC04805>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Liar!"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<15D7E648>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "If you think you're satisfied being this way,\nyou're lying to no one but yourself!"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<1671B663>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I know you can't be at peace with this, so drop the act!"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<6E08176B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](shocked breath)"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<427F0782>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And yeah, maybe to you we were like birds..."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<D8EA0670>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "but that has nothing to do with strength,"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<848ABD47>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "only lack of choice!"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<38759DF6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Lack of choice...?"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<D06A9723>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Just look at how the world is for us."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<B48BA5D8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It wouldn't... It would never allow us\nto take any other form."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<51A77474>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "So we have to change it!"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<ACF8F347>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "For weak people like us..."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<55F8B356>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Weak?"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<8141086F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You're weak?"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<6B7879C0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](shaky breath)"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<4C39CF35>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "On that day, weren't you smiling?"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<BD13D04E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Oh yes, I sure was smiling!"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<3A2BEDC6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Because it was the moment I rose above you!"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<D12E6772>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It was a grin of victory!"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<0E488CE7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "No it wasn't!"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<16E9C0CD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "On that day, you..."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<78E2478B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That was the real you!"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<D9CE04D6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Our friend, Joran!"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<03EB76FC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "...Stop mocking me..."
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<9A0882CD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Look, you'd made it, Joran!"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<188F6479>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You spread your true wings!"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<31DA232C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](shocked gasp)"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<9E5912E6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Joran..."
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<31ED7617>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Your death, it changed me."
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<07D358ED>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Fighting isn't everything..."
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<7D4CD3AA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I learned that if I chose, I could\nchange myself, become anything."
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<F09FA25C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Joran... I'm grateful as spark to you."
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<00579224>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ain't you the same, Joran?"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<547DD48C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Maybe, if you had the choice too..."
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<16207474>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "In a world...where nothing has to be like this...!"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<0EBDEACC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And that's exactly the kind of world we want to create!\nWe want choices!"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<C0084146>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Remember, you're Moebius! You should\nhave other, nice memories as well!"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<E561F734>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You have to try and remember them, anything at all!"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<8E4167B6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](thoughtful breath)"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<540ACCAD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I... I've seen all kinds of death."
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<296B5A33>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Taken a long hard look at myself."
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<D9F1031D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "So let me tell you:"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<2BB2D9EA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Joran, you're..."
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<FAAADB35>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You're more than this!"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<304AF01A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]((emotionally) wounded exert)"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<D28F670F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Joran, you've given me so much."
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<5ABFFBB0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You helped me find the will,\nto endure these ten hard years!"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<D2C0FC71>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Come to us please, Joran!"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<7B3A0D19>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Let's all stand together..."
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<D89F9AA7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You don't belong with them...\nYou just don't."
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<A4FEAD90>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Was that also...me?"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<2E1330E9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That day, it was like...my body just moved."
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<13D36D6B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Hey hey hey HEY!"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<0F32586D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Dontcha think you're gettin' carried away there?"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<697C2D03>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Urgh, what a loser."
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<910C40D1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You good-for-nothing shit-for-brains!"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<F64BCD5A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](pained scream)"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<6EA43564>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](long, menacing, raspy breath)"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<84384855>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Joran!"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<A8844700>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "An Interlink...?"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<C48DD5DC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "He's taken him over...!"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<A239CCA9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Grr... He's a real piece of work...!"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<52B1980D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "D...! You scum!"
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<48BC0B6A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ever...had dreams?"
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<13558CEF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Dreams of dying, of being slaughtered...?"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<45442B9F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](shocked gasp)"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<7FD702B4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ah, well, most people forget soon as they wake."
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<5278BCD6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "No harm done."
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<C8CCA46E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But tell you what..."
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<13D63DB1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "They're all completely true."
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<1651E089>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And so snuffin' what? What if they were?"
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<54CB4253>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The past is past, and the present is now!"
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<8DBEB207>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I wasn't finished!"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<37638E58>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Dreams, y'see..."
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<7760B077>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "They're little traces of intense memories from\nyour past lives, that didn't get purged before rebirth..."
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<1899A33B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Little harmless bugs in the system, let's call 'em."
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<2B417319>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "However!"
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<FEE4149A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Not so with Moebius."
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<7C12C317>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Just like the runt said,\nwhen you become Moebius,"
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<BC423848>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "in that very moment,"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<A99E5E26>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "all your past memories come rushing back to you."
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<A3CEED02>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "To put it mildly...it's..."
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<3A94EB2A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It's transcendent."
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<CE429E9C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](gasp, taken aback)"
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<E60EB887>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Before coming here,"
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<C034B646>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I went to visit the Ferronis\nwhere I keep my collection."
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<2384FC19>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Collection, you say?"
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<FACF65AF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "There they were..."
+    },
+    {
+      "$id": 115,
+      "<8C7DD24D>": "<6867CA55>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Staring back at me!"
+    },
+    {
+      "$id": 116,
+      "<8C7DD24D>": "<3678F556>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "He's mad..."
+    },
+    {
+      "$id": 117,
+      "<8C7DD24D>": "<1AD9E1DC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Well? Huh? Doesn't it make you tingle?"
+    },
+    {
+      "$id": 118,
+      "<8C7DD24D>": "<AF6F2045>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "As long as I am Moebius,"
+    },
+    {
+      "$id": 119,
+      "<8C7DD24D>": "<60E5389C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I can enjoy this superlative feeling forever and ever!"
+    },
+    {
+      "$id": 120,
+      "<8C7DD24D>": "<7DD258C0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I'll bury the world in my sweet collectibles!"
+    },
+    {
+      "$id": 121,
+      "<8C7DD24D>": "<102AA049>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](gags a little bit)"
+    },
+    {
+      "$id": 122,
+      "<8C7DD24D>": "<0B5C442F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I think I'm gonna hurl..."
+    },
+    {
+      "$id": 123,
+      "<8C7DD24D>": "<13183E13>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Push through it!"
+    },
+    {
+      "$id": 124,
+      "<8C7DD24D>": "<3C37F96A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "First, we gotta save Joran...from this shitbag!"
+    },
+    {
+      "$id": 125,
+      "<8C7DD24D>": "<BDD20563>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah Eunie, what Lanz said!"
+    },
+    {
+      "$id": 126,
+      "<8C7DD24D>": "<F2000FF5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This punk needs a whoopin'!"
+    },
+    {
+      "$id": 127,
+      "<8C7DD24D>": "<3F42F590>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "All right..."
+    },
+    {
+      "$id": 128,
+      "<8C7DD24D>": "<6BB0E013>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "OK, will do!"
+    },
+    {
+      "$id": 129,
+      "<8C7DD24D>": "<5856E8AF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We'll thrash this shitbag, save Joran..."
+    },
+    {
+      "$id": 130,
+      "<8C7DD24D>": "<0D5D4F6B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And get me...some payback!"
+    },
+    {
+      "$id": 131,
+      "<8C7DD24D>": "<C69A6B81>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "If you fancy your chances, take your shot."
+    },
+    {
+      "$id": 132,
+      "<8C7DD24D>": "<EF072E4C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I'll be more than happy to rip your bloody pelts off"
+    },
+    {
+      "$id": 133,
+      "<8C7DD24D>": "<64F0B8A5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "and add them to my collection!"
+    }
+  ]
+}

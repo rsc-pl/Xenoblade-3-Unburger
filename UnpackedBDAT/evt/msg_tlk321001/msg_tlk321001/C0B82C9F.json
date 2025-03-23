@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<C7DD5132>",
+      "<ACF3531A>": "ed1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Looks like a bunch of our folks\nwill be heading out to the other\ncolonies that you've liberated."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<B1DA2A52>",
+      "<ACF3531A>": "ed1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's like Juniper says. We should\nlook forward to getting out there\nand seeing new things."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B1C34BA8>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is that what you're going to do?\nGet out in the world?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<6F02AFDB>",
+      "<ACF3531A>": "ed1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No... If I left, there'd be no one here\nto take care of the wounded."
+    }
+  ]
+}

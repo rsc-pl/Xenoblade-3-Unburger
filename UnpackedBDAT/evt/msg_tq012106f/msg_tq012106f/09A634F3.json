@@ -1,0 +1,524 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<6A531722>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Snuff! What is with these mudders?\nWhy won't they just die?!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<B4A2236B>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Look, what do we do? There's nowhere\nleft to run!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B707998F>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmm..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<1ECCEF50>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Truer words were never spoken!\nLooks like it's curtains for you, scum."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<DA2E68AD>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, well, well! Madam Consul.\nYou look in good health."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<AED62DE8>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm very well, thank you. How about\nyourself, you filthy animal? You're looking\na tad rough, if you don't mind me saying."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<20FC00CD>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, we're a little tied up here.\nWould you mind making this quick?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<BBAB6472>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, enough of these exhausting charades...\nI don't think you understand the gravity of\nyour situation."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<EAC9539F>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If I were to order my army to fall upon\nyou, as Antols on a fresh carcass, what do\nyou think would happen...? Shall we see?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<81D9519E>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you wanted to do that, you\ncould have done it from the start.\nYou obviously want something."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<13C79912>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Indeed. And so, to the matter at hand.\nFoul and wicked traitors, listen to me well."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<9775A710>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Accept my demand, and I shall order\nmy troops to withdraw this instant."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<157C29FF>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<27C40D22>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You'd pull back your troops?\nIn this situation...?"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<049DA225>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hah, I'm sure Her Worshipfulness\nwould love nothing more than to\n\"show us mercy\"... Yeugh."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<ABD80A37>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wrong. I know a better way to\nsettle things. One that won't leave\nbehind any grudges."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<30E8AE48>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Former Commander Ashera,\nand you, mutinous Ouroboros whelps."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<F98F211B>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I challenge you...to a duel!"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<6261F238>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Errr... Excuse me?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<EBD02F0C>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A duel? What, is that like a skirmish?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<7334A99A>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You ignoramuses... Ah, but no.\nI suppose it's only natural you\nwouldn't know."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<CAA4A882>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A duel is a concept from the\nbygone world. Call it a specific\nmethod of waging warfare."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<7024206C>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You and I will battle under\na strict set of rules, in order to\nsettle matters once and for all..."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<49D431F2>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The winner of the duel will\ndetermine how this war ends."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<ED1F1124>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So then, you're saying we can finish this\nthing right now, by ourselves?"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<048866F4>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This is nonsense! What would\nyou stand to gain from this?"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<33B7801C>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A duel is staked upon one's honor,\nnot one's life. Trivial things such as\ngain or loss have no bearing here."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<B574CBC7>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ashera! With this duel, I will erase\nthe shame you inflicted, and restore\nmy due dignity!"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<063C156F>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmm."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<C05120AD>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think you understand.\nNow give me your answer."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<049CF9F9>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm just making sure, but...what if I refuse?"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<DEC19759>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Then the war is back on. My invincible\narmy will crush your whole colony,\nand you along with it."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<7AF5AF07>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Of course, the same will happen\nif you renege on your word."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<5D3D7E3A>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...OK, agreed.\nI'll accept your \"duel\", or what-have-you..."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<5C3C6446>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Most wise. You always were quick\non the uptake, I must say."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<20B51567>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh, thanks. So what happens now?\nIf we're going to have it out right\nnow, then..."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<008FDEC9>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't be so hasty. I will send you\nan invitation with the location of this duel.\nFor now, I shall withdraw my forces."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<074BB1F9>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh? Do we need all this beatin'\nabout the bush? Why not just tell us\nwhere it is now?"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<4A00DD7E>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hold your insolent tongue!\nI told you, these things have rules."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<6475C598>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This is a formal engagement, and as such\nthere are procedures to follow."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<313C379C>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Before you go - a question."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<85B91BEC>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Those troops behind you that you're so\nproud of... What in the world have you\ndone to them?"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<3F4439FD>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm under no obligation to tell you.\nTruly it has nothing to do with you."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<61558EB8>",
+      "<ACF3531A>": "wW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "More importantly, this will be our final\nbattle. You would do well to prepare\nyourself."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<8D7234D3>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Um, anyway...\nDoes this mean we made it?"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<FCEFB768>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Looks that way.\nNot what I'd call satisfying, though."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<EA71F981>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ashera, what will you do?"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<2C35F44B>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, I'm sure I'll think of something."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<6479681D>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hm. For now we'll go back to Colony 11\nand wait for this invitation."
+    }
+  ]
+}

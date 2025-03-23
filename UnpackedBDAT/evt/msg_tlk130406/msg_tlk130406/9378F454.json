@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<DE577CC5>",
+      "<ACF3531A>": "sY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You guys are going up against\nMoebius, right? Segiri, too?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<EB8E64DA>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<8E576843>",
+      "<ACF3531A>": "sY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, just so you know, if anyone dies,\nI'm never gonna let you hear the end of it.\nSo make sure everyone comes back alive."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<50FDC000>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, of course!\nWe'll keep Segiri safe for you, for sure."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<55AFAA2F>",
+      "<ACF3531A>": "sY1",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I... I meant you guys as well,\nbut whatever, sheesh."
+    }
+  ]
+}

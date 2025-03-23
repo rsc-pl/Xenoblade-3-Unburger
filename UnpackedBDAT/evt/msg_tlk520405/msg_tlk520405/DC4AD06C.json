@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<6BC0E2FA>",
+      "<ACF3531A>": "@f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Irmy... That mudder...\nHow could she?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<C42A7ACD>",
+      "<ACF3531A>": "@f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "She went to all that trouble to\nleave us the key to her hideout,\nlike she meant for us to find it..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<220C92DD>",
+      "<ACF3531A>": "@f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's like she wanted us to understand...\nLike she wanted us to forgive her, maybe.\nLeaves a bad taste in Nico's, my, mouth..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<BCCB74C0>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's not hard to imagine that she might\nhave been trying to atone by passing her\nMoebius records on to you."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<526FA772>",
+      "<ACF3531A>": "@f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're a kind soul, Taion...\nNico's sorry, and I'm just talking about myself\nhere, but I just can't see it that way."
+    }
+  ]
+}

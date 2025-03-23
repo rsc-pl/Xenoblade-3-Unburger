@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<F53EE77C>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey... Isn't this a clam?!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<81775605>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All right, my time to shine!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<3AA397A0>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 79,
+      "<DBAF43F0>": "You got a humongous egg."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<9697F6D0>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wow, that's enormous..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<FEDB11E9>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What even laid that egg...?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<4E1C424C>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I couldn't tell for certain,\nbut I would vote against\nstaying here to find out."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<7A4238F1>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Good call..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<17A4EEC4>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's not lose hope.\nThere's still one other\npossible location."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<171AC9B9>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The Clammoth might be on\nsome other beach somewhere."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<552F134F>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's go back and see if\nTriton hasn't remembered\nanything else."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<8A7D617A>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 79,
+      "<DBAF43F0>": "You put the humongous egg back..."
+    }
+  ]
+}

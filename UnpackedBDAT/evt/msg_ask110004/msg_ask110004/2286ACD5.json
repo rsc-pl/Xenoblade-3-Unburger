@@ -1,0 +1,104 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<BC760044>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 8405122,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Noah, was it your colony that fought\nColony Sigma at Everblight Plain?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<355D4659>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 14696579,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, it was... You've heard about the battle?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<FA8904C4>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 8405121,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Everblight Plain, now that's a name that\nkeeps coming up. It seems to be the\nbattlefield of choice for a lot of colonies."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<3C49CBD7>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 8405121,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I imagine it's because the open wasteland\nthere is perfect for large melees that even\nFerronises can clash in."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<A123957F>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No wonder it's so blasted to ash\nthat not a single blade of grass\ncan grow there."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<EB33A8CC>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33200,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And until we can put an end to\nthe fighting, it'll most likely stay\nthat way, true to its moniker..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<8BF55DBA>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I hope one day the war will be over,\nand it can grow lush and verdant just\nlike Yzana Plains."
+    }
+  ]
+}

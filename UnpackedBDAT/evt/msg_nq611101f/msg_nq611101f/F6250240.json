@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<58F27025>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Darbus stomp me silly, you really struck gold\nwith this one! It's like a real treasure hoard!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<97E02B44>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Where there's smoke, there's fire.\nAnd where there's treasure..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<AE5DCA5E>",
+      "<ACF3531A>": "yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "O-oh no... I'm sorry, I had no idea\nit was home to monsters..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<4D120216>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You guys stay back.\nWe'll do a little pest control!"
+    }
+  ]
+}

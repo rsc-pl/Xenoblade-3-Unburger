@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<27120AD9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "They're fighting..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<B902EFB9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Get ready!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<8CB057B1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "There!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<58C0BEC3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "...But what are those other guys all about?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<340C595E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Never seen 'em before."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<E622BA69>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We can talk about it later."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<8EC8070D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We're joining the fray!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<AA3FE247>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ho-hoh?!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<9DAFFF56>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Thought you'd never ask, hah!"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<4E0E817F>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Lotsa Armus around Colony 30,\nisn't there?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<3194B49F>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Must be nice for them, lotsa food around.\nAnd Armu meat ain't nothing to scoff at."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<AC2729A0>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You keep saying Armus this and Armus\nthat, but actually, the proper term would\nbe \"Armuidae\"."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<9A6A1627>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The ones with horns are Arduns, while\nthe ones without are Armus proper."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<C5868BDF>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1200,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And speaking of meat quality,\nArmus have more subcutaneous fat,\nmaking theirs the more flavorful."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<E28BB0FF>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1200,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "On the other hand, Ardun horns are rich\nin nutritious compounds, so people grind\nand mix them with water to drink."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<D18AFE80>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Any other questions?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<8F13B003>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, wow! I didn't know half of that!\nTaion, you're awesome."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<A9512646>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nobody asked any questions to begin with.\nWhat're you, some kinda Armu-ologist...?"
+    }
+  ]
+}

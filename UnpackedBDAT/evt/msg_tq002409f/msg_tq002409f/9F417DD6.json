@@ -1,0 +1,814 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<DB94D500>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sena, wait. This time around we'd like to\nsit in on the conversation too."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<0A243CE7>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh? But I thought..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<62224DA5>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No worries, we'll hang back and watch.\nWe're happy to let you do the talking."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<917C462D>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Um, OK then, if you say so..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<1DD117C6>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, sorry to intrude...\nCan we have a moment?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<33DDDC02>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No objections.\nYou wish to resume questioning."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<06ED0DC9>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No, that's not why I'm here.\nIt's just that last time, I was kinda rude..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<ED0A4E1B>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So to apologize, I thought I'd visit again\nand bring you a little something."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<B74948D1>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<82247E1A>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I figured you might be hungry.\nThey're called onigiri..."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<F2D72659>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<4D61C368>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm not very good at this, so they're\nabout the only thing I can make..."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<CC79C5D1>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Yes."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<C1646CCB>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But I can guarantee they're tasty,\nand actually Mimi says so too...\nAh, Mimi, I mean Mio, she's..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<026EA0E8>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Yes."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<BEC92BE9>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Oh, sorry, my bad!\nPlease, feel free to eat."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<D4B53C01>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I will eat."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<D1F4646F>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How about it, then...?"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<B93D030C>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Cannot affertain...\npurpofe of...queftion..."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<6A1CCE00>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Are they tasty?\nDid I make them right?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<CF2D305E>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "With regard to...firft queftion...\nNo. 7 confiderf...\"tafty\" to be\naccurate...affeffment."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<8B88E9B8>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, r-really? That's good to hear!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<030DE94B>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In regard to...fecond, application of manual\npreffure...refulted in compaction and higher\ncohesion. Alfo showing...excess salt levelf..."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<279E2E2C>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh... No, wait, that's the best part!\nIsn't it nice and chewy?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<ABA16321>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "(gulp)... Affirmative."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<C28895F9>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Huh?"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<27A52F67>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No. 7 has not taken sustenance\nin this form before."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<C92E52B8>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Currently considering that others\nof Colony 0 may also enjoy the\nexperience."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<993A2C22>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Oh, you think so?"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<D94150DE>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Particularly No. 9 seemed to be\ngrowing disaffected with the rations\nbeing distributed..."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<3618C2C9>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And No. 3, whose calorie intake exceeds\nthe baseline, may find these more sating..."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<283C8D1D>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "As a precaution, salt levels may\nhave to be marginally adjusted\npursuant to guidance from No. 6..."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<3D943A21>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<EFE9A6C9>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hm? Is there a problem?"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<58A78F0D>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No, no, it's nothing. Oh, but if it's OK\nwith you, could I ask you to tell me more?"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<2263031B>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Acknowledged. Continuing explanation."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<054FDE01>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So, were the onigiri tasty?"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<22C1C168>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You already have a sufficient reply to this\nquestion."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<023EBD75>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Have you come to like the onigiri I made?"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<1F238EA3>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Affirmative."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<BA18F8D4>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, that's good then.\nI'll make them for you again sometime."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<924559C1>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<C4EF76DD>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Well she eats like normal, and she can\nhandle small talk."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<A224D869>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, there's nothing suspicious about her.\n...Except she talks funny, but whatever."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<3A9034DB>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's let Sena keep her talking\nfor a bit longer."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<E8628FE3>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, you said you didn't have a name."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<8D41209B>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Recollection of making such a\nstatement exists."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<9E5E9929>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, then... What about \"Segiri\"?"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<6B228C3E>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmmm."
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<28BBB74F>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Uh?"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<8F7BF526>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Perhaps this is some sort of code\nor cipher."
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<99FC0F8F>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No, I'm just... I was asking what you\nthought about \"Segiri\" for a name."
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<A18537E9>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Cannot follow logic behind query.\nRequesting more rational explanation."
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<678429AF>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're using difficult words again...\nI just didn't want to keep only\ncalling you \"you\"."
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<582B0819>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The designation \"No. 7\" is..."
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<AAE62B5A>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right! I just took the \"se-\" part from \"seven\"\nand tacked on the \"giri\" from \"onigiri\". \"Segiri\"!"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<53DDDE28>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Failure to comprehend basis for utilizing\nthis nomenclature."
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<C1CA6B2B>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, it's 'cause... You said you liked\nonigiri, just then..."
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<0FA2E2D5>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whoa whoa whoa whoa, Sena...\nDon't you think you're taking it a bit far?"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<194C85CF>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, love... Did you lose your brain\nat the gym or something?"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<FB8E51B6>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm sorry, Sena.\nI don't think I see what you're after here."
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<D43F28D8>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whoa, when did everyone get so mean?\nI think it's a great name, \"Segiri\"..."
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<CDDBAFFB>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Y-yeah, I think so too, actually.\nIt seems really, uh, friendly, somehow..."
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<90CE2F18>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ahaha! It's not really like you to\ncome out with something like this, Sena."
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<2F0727E1>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "R-really...?\n...Well, maybe so..."
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<E6161740>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But Mimi, I don't think it's right to...\ncall a person by a number..."
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<73FCC52B>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<5D224480>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, I'm sorry, I let my mouth run away\nfrom me. I understand if you felt hurt by it."
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<80B2F416>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Regulations contain no special\nprovisions on restricting designation."
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<342C9311>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh?"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<488B6F26>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No. 7 has no authority based on which\nto reject proposed designations, whatever\nthey may be."
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<B6837060>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Does that mean we can call you \"Segiri\",\nand you won't mind?"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<765D754C>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Affirmative."
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<C751F510>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, there you have it then, affirmative."
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<E3A1A32C>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nicely done, Sena."
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<650AF2DB>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, thanks!"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<AABF026A>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The girl might still be a total mystery,"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<C8D93882>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "but really, it wouldn't have been right\nto call her \"number seven\"..."
+    }
+  ]
+}

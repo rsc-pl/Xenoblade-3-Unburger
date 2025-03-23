@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<0B529189>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh, maybe it's a bit late to ask...but\nwhere the snuff did you find this helmet?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<8240C925>",
+      "<ACF3531A>": "cb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This? Oh, I picked it up in the desert!\nI was hoping to find a spare too, but\nthus far, no such luck..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<5734F37F>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's Lost Numbers gear, huh?\nIf you went to the City, you'd find\ntons of them, I bet."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<12B5C4D5>",
+      "<ACF3531A>": "cb1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Tons...? Yes, tons is exactly how\nmany I'd like to have! Hee hee!\nOh happiness, oh joy!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<A564D370>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Urgh, all right, put a sock in it!\nA helmet's a helmet, not a souvenir!"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<F6125B5F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]ev_sol03_bf_020.wav will go here"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<FAE2A37A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]ev_sol04_bf_060.wav will go here"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<38D0E836>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]ev_sol09_bf_040.wav will go here"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<54AD22F5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]ev_sol03_bf_050.wav will go here"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<D13D4DAC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It's... I-it's...!\nIt's rising! We're getting more life!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<4524A3B6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This is Colony Delta?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<16AE79E4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's Smoldering Cammuravi...!\nHis valor, it's the stuff of legends, but..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<86630A7E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We can win! We're gonna make it!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<49687BFF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Consul, sir!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<1E4A8B8F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Right! All troops!\nFull advance, and don't let up!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<6496CA4F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Don't let a single life slip from your grasp!!!"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<550FD82A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Huh?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<C0A18141>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Wh-what the?!"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<45ECD392>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What's..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<148F23C2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "that Ferronis?!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<27212EBD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]vo_211_105_01_01.wav will go here"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<A864D513>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]vo_206_105_01_02.wav will go here"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<A962B9B0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]ev_sol09_bf_050.wav will go here"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<EED95324>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Listen here!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<B4FA2F1D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You've done well to come this far!"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<2277306E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But now..."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<F3337D7D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Smoldering Cammuravi"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<524A2F2F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "takes the field!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<610FF86B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "No... No way!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<9AFDB8F0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "He let us think we had them pinned..."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<B07C2519>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]ev_sol10_bf_030.wav will go here"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<1F06620E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But really,"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<92511F41>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "we were the ones"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<760F065E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "that were trapped?!"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<6BC7557D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "S-spark this!"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<B95D7268>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Everyone, pull back!\nFull retreat!"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<041DDC8E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We gotta leg it before-!"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<4C15F73E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](shocked gasp)"
+    }
+  ]
+}

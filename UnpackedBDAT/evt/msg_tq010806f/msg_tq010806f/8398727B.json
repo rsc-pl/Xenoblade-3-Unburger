@@ -1,0 +1,334 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<222529E6>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Why everyone come here together?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<0B3255D6>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Riku and friends have request."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<0826282C>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What is it?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<2636D4E9>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A certain Nopon asked\nus to give this to you..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<54F5925F>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 79,
+      "<DBAF43F0>": "You hand him Tempapa's memo."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<9B06DAAB>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Right now is busy time.\nEven if give paper, Samon\nnot sure what friends ex-"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<3C3529AC>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What? What is it?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<FBF52B9A>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You met with Tempapa?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<939AF45F>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes! It Tempapa who\nask us to do favor."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<D37AEA86>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How you meet with him?\nIs unbelievable."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<BFE4EA5B>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is Tempapa a friend of yours?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<C1829DEB>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Friend? That guy?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<6D87EA3F>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh, is nothing gained\nby such conversation."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<F6AC5D05>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He tell us to fetch certain item.\nCan you provide item?"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<24BC0456>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "As usual he use Nopon for errand.\nRude. Why friends do this?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<46E39118>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He make Manana apprentice in return!"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<C282657D>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Apprentice? What nonsense you thinking?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<7895C2AA>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Tempapa legendary cheffypon!\nIt also precious ambition of Manana!"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<0C16361E>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Cheffypon...? He become cheffypon\nwhen Samon not looking?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<9344FF15>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh, you didn't know?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<51E28F67>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He always show up out of blue\nto trade weird stuff."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<2D72A026>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Recently he not show up at all.\nSamon thought he most likely\ndead in ditch somewhere."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<2D7FC135>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So, this what Tempapa want.\nTake and get gone."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<0D41006C>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, thanks..."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<A14321B0>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Tell Tempapa this thing from me."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<C0639C92>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "\"It not kill Tempapa to bring things\nSamon like every once in while.\""
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<93AD9049>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We tell him."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<FD153F4C>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And tell him to bring back\nHard Iron he take two years ago."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<53FA7E40>",
+      "<ACF3531A>": "gl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And Samon still waiting for\npayment for use of anvil!"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<181C67E2>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh, how many things\nyou want us to tell?!"
+    }
+  ]
+}

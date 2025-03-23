@@ -1,0 +1,184 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<8B327E6C>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I was confused as to why Mimi\nhasn't had any teaching requests so far..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<C92028E5>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But it turns out they're all pulling names\nout of a sparkin' hat to decide who gets to!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<C87B0699>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33168,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Why would they do that...?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<57F42A32>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, it's not surprising. They all\nidolize you especially, Mio."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<D2ED20A3>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33168,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Really? I'm not sure that's true-"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<3FD63E33>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes it is, Mimi!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<2585C9C6>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Zakir probably turned it into a lottery to\nmake sure things didn't get out of hand."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<6B7E1081>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It'd be no laughing matter if a brawl broke\nout over who gets to be taught by you."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<38968A38>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're exaggerating there, Taion."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<A673556A>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It looks like the lucky winner of your\nmagnificent teachings was that chick Kyrie."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<F773C512>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Apparently so. I wonder what\nI should teach her, though..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<F1678597>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How about...how to read maps?\nShe's useless with directions."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<0F9DE4F7>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1200,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "She already did the training for it\ndozens of times..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<A6323426>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Wow, she's more geographically\nchallenged than I thought..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<DEFD35E7>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh, well... First I'll just ask her what\nshe wants to do. Then I'll decide."
+    }
+  ]
+}

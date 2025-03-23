@@ -1,0 +1,424 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<9E861F1B>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hold up. That Levnis..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<DF505BD5>",
+      "<ACF3531A>": "oa1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, Commander! Good to see you back."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<F8364684>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey Zooza."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<E02557CD>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This li'l buddy's the Levnis we lent Isurd,\nisn't it? Doesn't he want it any more?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<9EC99D2F>",
+      "<ACF3531A>": "oa1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "To thank us for your offer of cooperation\nwith Colony Lambda, they've sent us a fair\nbit of supplies and food..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<8460FE4F>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wow, all this?!\nI'll need to thank him a bunch!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<D03B5DDA>",
+      "<ACF3531A>": "na1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, Commander, there you are!\nGuess what?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<242427A7>",
+      "<ACF3531A>": "na1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Colony 4 just approached us with\na deal to receive regular shipments\nof levnite from them!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<84B8EA2A>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33113,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What? What? What?!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<90FDA997>",
+      "<ACF3531A>": "na1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll head down the docks,\nand tell everyone!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<E0DDD7F9>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And just like that, it would appear that the\nbond between our respective colonies has\nbeen restored."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<67EA477E>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nice one!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<5A94A624>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<556C1525>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He hasn't even realized, has he?\nCome on, man!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<611D27C9>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You brought everyone together, Valdi."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<B186B865>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I...I did?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<822E37E7>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's really quite amazing. Even though\nyou're all doing different things."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<2E0E588B>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You help each other out in all sorts of\ndifferent ways."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<62EE438C>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's right. And when there's something\nmissing, it always has a knock-on impact\nsomewhere else."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<85EE6E89>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sometimes you don't notice\nsomething's awry until after\nthat effect has manifested itself."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<A1DA3334>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Ahh."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<C289733F>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You know, the world's kind of\nlike a Levnis, isn't it?"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<C8A6E381>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's like a mesh of so many\ndifferent parts, all interconnected."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<9E13C388>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And because it's made up\nof all these different things and\npeople, it moves. It's alive."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<ABD5A5CA>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So then, Valdi and Manana are also\nbelong to parts of world?"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<867E4EA5>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Not just us."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<DFEB6106>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "My buddies here are too."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<7C34B8D2>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Not just some tools to be used, eh?"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<5535E36E>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right, they're not.\nI'm just reaching for ideas right now..."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<A8AC6E40>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But hey, I'm a mechanic. And if the\nworld's like a Levnis, then I sure as\nspark should be able to fix it!"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<37EA7D48>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll make a new \"tomorrow\",\nwhere we can all live in harmony."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<18D37BA2>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ambitious goal for grease monkey."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<FDEFF3BD>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But willing to keep on radar.\nWith much giving of side-eye."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<FB89F63E>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll take that as a compliment!"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<163AEE8D>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Was not compliment."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<328FC471>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, I believe in you, mate."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<0B1A52ED>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're Keves's number one mechanic\nafter all. You can't argue with that!"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<2C5869E3>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Haha! Shucks..."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<9206AF9F>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK then, let's report in to Yuzet,\nshall we?"
+    }
+  ]
+}

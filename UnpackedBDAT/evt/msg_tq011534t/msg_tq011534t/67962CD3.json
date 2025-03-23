@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<1C977CF0>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "With the final battle against Moebius\nlooming before us we're doing our best to\nprepare, but we need more than supplies."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<D60F815F>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A battle to determine the fate of the world\nis hardly a light topic. Everyone's beside\nthemselves with worry..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<37478925>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Feel free to show Her Majesty\naround Centrilo Parade. I'm sure\nit'd make everyone's day."
+    }
+  ]
+}

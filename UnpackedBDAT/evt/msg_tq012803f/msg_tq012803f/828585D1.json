@@ -1,0 +1,164 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<651CE5DF>",
+      "<ACF3531A>": "W1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Once again, your incomparable efforts\nhave paved the way forward. Thank you,\nmy dears!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<EDB03698>",
+      "<ACF3531A>": "W1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I feel now that I can finally produce the\naccessory I have in my mind's eye..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<8C53DBC1>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Isn't this an excessive amount of time\nand effort for a couple of accessories?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<71B14A0B>",
+      "<ACF3531A>": "W1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That, good sir, is the difference between\nthe ready-made and the tailor-made! That,\nand it's my sales point."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<CD57661D>",
+      "<ACF3531A>": "W1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All right... You may have to give me a while."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<C5421522>",
+      "<ACF3531A>": "W1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...It is complete."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<5E5C49FA>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Good work, Masha!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<AE746ED7>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Okey-doke. Time to deliver\nthe goods to those two."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<500AA2E4>",
+      "<ACF3531A>": "W1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes. Just a moment."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<3ABB6502>",
+      "<ACF3531A>": "W1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I've given them a call and arranged for them\nto take delivery at the Founders' square."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<EEC8728F>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I really hope they'll like them..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<75C26BAF>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They better, after all the trouble\nthey put us through!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<475A2B9C>",
+      "<ACF3531A>": "W1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah ha! You needn't worry.\nThey will be satisfied, I assure you,\nor my name is not Masha."
+    }
+  ]
+}

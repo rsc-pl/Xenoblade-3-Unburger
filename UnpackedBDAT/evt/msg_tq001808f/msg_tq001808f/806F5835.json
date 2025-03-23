@@ -1,0 +1,314 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<7B943AE3>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Looks like our friends are\ndoing just fine, Mimi!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<CFAF9D74>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Seems so..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<73B0A3D2>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Still, there's a lot fewer soldiers\nhere than I expected."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<9F132C94>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<FEE3AD41>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A lot of the soldiers employed on that\nmission haven't come back yet. No one\nknows what became of them."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<83E21379>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The mission where we became\nOuroboros, yeah?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<BAEE3B71>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I daresay that's the one..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<78D5BF16>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<41E11237>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Sorry. Should've kept my mouth shut."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<94EF1D09>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No, you didn't do\nanything wrong, Eunie."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<DB56D233>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All the soldiers left in the colony are\nnewbies with no combat experience."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<DB1BD7EB>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right now they've been ordered\nto stand by as a reserve force.\nFar from the front lines."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<AD2C2178>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A good thing, too. That's what saved Kyrie\nand others' lives. Plus, they didn't get to\nlearn the truth about us, and the world..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<5F6E36A6>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<938B5EF6>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ugh... It doesn't sit well with me to\npretend like everything's fine, though..."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<2FA44B48>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Mio, would you mind talking to\nthis commander of yours, Teach?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<8D152D59>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "About what?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<B93ADF14>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Everything. Tell him thanks for\ntaking us in no questions asked."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<8F36075F>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now, look. I know I said he was\ntrustworthy but-"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<10AD8F47>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No, Noah's right."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<06DEF6AD>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I was planning on telling him everything\nanyway, and if we're gonna talk, we may\nas well lay it all out sooner than later."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<8BB48B00>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We can't just expect people to trust us\nwhile we hide the truth like this."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<A5AEA240>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah. Makes more sense than\nstaying and hiding."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<EAB89618>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<D2E4D07D>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The commander will understand, I know it.\nHe's crazy harsh, but crazy fair too."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<B9297C7E>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Harsh? He didn't look it."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<E2508ED3>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33192,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Sometimes ignorance is bliss."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<A5F74FD2>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Pfft..."
+    }
+  ]
+}

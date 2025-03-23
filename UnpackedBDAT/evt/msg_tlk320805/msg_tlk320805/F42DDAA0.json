@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<CC68556F>",
+      "<ACF3531A>": "cd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm glad our alliance with the Tirkins is still\nin place. They helped Raine out, right?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<7EEE2C41>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, seems the birdbrains were\nkeeping him cooped up safe."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<C9CE8FE8>",
+      "<ACF3531A>": "cd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You know, I gotta give them respect."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<DD00B663>",
+      "<ACF3531A>": "cd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I should bring them some\nTirkingrass as thanks!"
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<C91E0F52>",
+      "<ACF3531A>": "cp1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Gracious goods, that was close one!\nIf not for Ino-Ino, caravan would be\nbittersweet memory by now..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<2145179E>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No trouble! Ino just happy everypon still fine!\nPlease to take good care on the ongoing!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<713E0B94>",
+      "<ACF3531A>": "dp1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Only if Ino-Ino drop by caravan of\nCheerio soon! Will offer special\nbacon-saver's discount, promise."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<F283BD33>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Um, excuse Ino... Ino just wanted to ask,\nif, if, if-if, if it not too much bother..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<414C4B7D>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Was it perhaps that it was friends that,\nthat helped Ino help those Nopon...?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<8152B726>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right, we happened to be passing by\nand saw you all in trouble, so..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<995AA41C>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ohohoho! Ino KNEW it!!!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<69997BEB>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Courage to thwack wicked monsters!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<54343FDD>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "To offer aid to total strangerpon!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<4AB21EF7>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Humans like friends are very reason\nfor inventing word \"Heropon\"! ...Er,\nor whatever is human equivalent."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<0A1595E9>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ino moved beyond limits of expression!\nCannot possibly give voice to such violent,\noverpowering emotion as Ino feeling!!!"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<27047B53>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh, that seems a little dramatic.\nAll we did was help you out in a scrap."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<BC481BAA>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, all it means is that we did\nwell to give her assistance."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<8CD3AE2D>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "By the way...\nYour outfit looks quite unusual.\nWhich side are you affiliated with?"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<F2362C06>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Erm... What is meaning\nof \"affiliated\", please?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<29ED4F9D>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Let's try a different tack. Are those\nNopon from before your friends?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<15F5353D>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Judging by their manner of speech,\nI would surmise that they were already\npreviously familiar with you."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<065377A5>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Affirmatory! All Nopon who live\nwild and free...Ino count each and\nevery one as friend!"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<6B761370>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And with good reason: Ino gain doublename\nby fight for universal Nopon love and peace!\nIno is Champon of all Noponkind!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<53A4A66E>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, sparks. That sounds, uh...\nbrill? Yeah, let's go with brill."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<245F83EE>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So what you're saying is, the reason you\nhelped those Nopon from earlier is because\nyou see yourself as their champion...?"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<F43D7B74>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Correct! Forsooth, indeedy-doodle!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<5994570B>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That is why Ino must restore self to previous\nstrength, so Ino can accomplish duty which\nGrandmasterpon gave to-"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<847CC1D9>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "*gasp* ...Oh, snapcrackers!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<CC9599EA>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What's the matter?"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<0A8C17F2>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ino was just on verge of forgetting!"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<8795FDCE>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ino came here in search of High Ether!"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<A1CED731>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "High Ether? What's that?"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<2A7C1A09>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, i-it-it... Basically, Ino on hunt for\nscavengables! Must therefore hurry up\nand get on with search and retrieval!"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<E4520ABF>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're going to search\nthis place? All alone?"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<5F9B1D39>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This area's teeming with dangerous\nmonsters. Any chance we can offer\nyou a hand?"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<D26E2BCD>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mmmmeh? Sorry, did Ino hear right?\nFriend propose to help Ino for second time?"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<1F3FF9B4>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh? Yes, I suppose I did."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<9DD802D0>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nononono-no way!"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<A3DB1DB0>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This completely unprecedented!\nFriends concern selves with well-being\nof not only Nopon, but even Ino?!"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<A5AE2D87>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Flabber of Ino utterly gasted! Gob\nthoroughly smacked! Ino lack capability to\nshow deserved amount of proper respect!"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<908095DD>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm already over her shtick..."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<8D9A28EB>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well then, pleased to be working with you.\nShall we just call you Ino? Is that all right?"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<797C4370>",
+      "<ACF3531A>": "V",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Shock! But...Ino not even introduce self yet!\nHow friend know name of Ino?!"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<F1305829>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "... Er..."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<618E8C8B>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This girl's got a lot going on, huh.\nOn the outside...and in, as well..."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<E24546FF>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Ino has temporarily\njoined the party."
+    }
+  ]
+}

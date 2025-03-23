@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B876611D>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What the- What was that?!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<412D2ACE>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Pull back. I don't like our odds!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<50BFDB8A>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "They must be Silver rank at least..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<6C31BABA>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Your caution dulls your insights."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<DF615723>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Your crude fighting wastes\nalmost all your potential."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<EB30518C>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And you..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<876F3808>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Good judgment,\nbut you're a bad quitter."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<8F336770>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Just as I'd heard, sadly."
+    }
+  ]
+}

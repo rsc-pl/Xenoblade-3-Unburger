@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<6F820477>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Riku seem to find great joy in rocks.\nHe pick up so many!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<841FAEED>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Gemstone and ore are different from\nnormal rock scattered around."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<D4DC56CC>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And ore we pick up from before\nhave great utility."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<F7A26F1A>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Manana not rock scientist..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<8B04969D>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You could identify them all, Riku!\nYou sure know a lot about rocks."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<6C279374>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Riku know thing or two."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<CD80C3C3>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't be modest. You've got skills, mate.\nYou should be an appraiser."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<F4027769>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Cease with flattering."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<94938969>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's not flattery!\nIt's good to have a hobby!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<840CA98B>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Manana in agreement!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<4CC23452>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's pretty good that we were able to\ncome out rock-collecting, huh, Riku?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<E01FF89C>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ore and gemstone! Not rock!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<018CD4A6>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "From supply material to maintenance\nwork, that Riku's job."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<58A15AF0>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It solemn responsibility to keep important\nequipment in tip-top order so everyone\ncan come back alive."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<E4A31147>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Just doing own job.\nNot like Lanz."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<88A88598>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You what? I'm pretty much\nalmost sort of doing it!"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<667E87DE>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wow... You really give yourself\na lot of responsibility, Riku."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<2E2A52CE>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Too much talking.\nOut of Riku's character."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<D38A693C>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Not at all. Understanding each other\nbetter isn't a bad thing, is it?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<31A0A021>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That right. Become better\nfriends is important."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<9ED23EF9>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We need to learn more about each other\nto become better friends, right?"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<A369D676>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That exactly truth. Learning about\neach other very important deal!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<8A51E2AF>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, Manana has idea!\nNext Manana will show favorite thing!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<AF471347>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Next? It not about taking turns..."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<2016DB95>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Bate breath in readiness!\nManana show you her specialty!\nYou learn soon!"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<1E39E261>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Over there is good place. Time for break!"
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<9DAEB6C9>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Select"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<3189B7A5>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Confirm"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<CD0B72D8>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Back"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<340F0735>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Close"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<FBFFCCF0>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Confirm"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<1BCA3C07>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Replace"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<8B85474B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<DAC4FA17>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Remove"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<8041544B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Quick Save"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<DB0A515B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Interlink"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<721349C4>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Cancel Interlink"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<C1470AF2>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Display Stats"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<B109E185>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Build Info"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<93694ECA>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Display Class Info"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<62E707DD>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Use Nopon Coins"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<0C94793D>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Rotate"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<BD0CEEDD>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Switch Model View"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<0ADE53A5>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "(Hold) Acquire"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<25DAADF3>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Soul Link"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<872DE4A6>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Soul Hack List"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<4311E795>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<ADCCEAC9>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Zoom"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<8C45D922>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Show Colony Affinities"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<87BAED02>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Affinity Chart"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<33292B17>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Show Basic Profile"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<EB727E37>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Show Wanted Items"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<5E39390E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Collectopaedia Card"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<12425C92>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Cancel"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<C208C5CD>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Buy"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<1E09B361>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Trade"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<B74B04B5>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Sell"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<A130EC2E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Buy and Equip"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<2DFC3350>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Trade and Equip"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<4F77B682>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Show Background"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<65832885>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Select Level"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<0F008D08>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Cursor Speed"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<37E3319C>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Place Marker"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<9AF37E0B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "(Hold) Remove Marker"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<29BD503C>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "List Search"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<835726F3>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Favorite"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<5A8DF954>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Filter"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<6576EF3D>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Mark All as Checked"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<69CB7F2A>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Meal Effects List"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<A8C725C9>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Control Guide"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<C2B170B3>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Play"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<FB3F9C4B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Custom Settings"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<A2EB28C5>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Event List"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<7F8AEEF2>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Random Selection"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<E141174C>",
+      "<554EE944>": 0,
+      "<DBAF43F0>": "[ML:space ]"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<B4CFA472>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Turn left side"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<385905E0>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Turn right side"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<0876011D>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Finish"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<6DFA65EF>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Accelerate"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<82D91E4B>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Reverse"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<A7D79DAE>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Autopilot"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<392D58C1>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "(Hold) Get Out"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<EFBEA9D1>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Exit for Combat"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<C1ED7D83>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Move to Cabin"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<CAF9CE57>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Edit Shortcuts"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<A507421B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Stop Editing"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<E76A9FE4>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Camera Distance"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<7C2F9231>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Camera Position"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<7151B63E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Reset Camera"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<079A6E8D>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Target Monster"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<5126B476>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Specs"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<1AFBE12E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Auto-Build"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<86661355>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Draw/Sheathe Blade"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<8B5EE7BC>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Illustration"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<970937CC>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Voice"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<F6A376EE>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Switch Illustration"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<05357075>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Move"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<51BD423F>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Icon Filter"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<B31E52CB>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Level Up All"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<FB216F0C>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Default Settings"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<248E493E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Reset"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<302C33C9>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Receive"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<C650CAA4>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Tips"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<2F7179CF>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Retry"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<DEC65CA9>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "To Land of Challenge"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<C585B5BC>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Load"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<7D0B9EA1>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Save"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<EF6C3720>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Check Details"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<F38C605A>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Name Settings"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<0B990A70>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Party Formation"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<289C3919>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "Construct"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<122CC727>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "Repair"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<AD218D5F>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pricing"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<26AE7289>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Shuffle"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<B58B1F1B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Emblems Held"
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<D38EBE29>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "End"
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<D7ED8B24>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Change Mode"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<E681CF11>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Help"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<4EC36037>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Toggle Display"
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<66AB0961>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Characters"
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<8D40099F>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Affinity Goals"
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<88542995>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Reset Growth"
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<11AB1852>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Track"
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<35E0B53E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Show/Hide Options"
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<D11B468D>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Reset Zoom"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<B7C53834>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "To Current Location"
+    }
+  ]
+}

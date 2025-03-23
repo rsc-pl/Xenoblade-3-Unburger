@@ -1,0 +1,324 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<4E46EB1D>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What just happened here?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<467AF11D>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They look vaguely like Lost Numbers..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<1221D2EA>",
+      "<ACF3531A>": "R",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<16C2E21F>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I thought they were supposed\nto be our allies..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<19B043DE>",
+      "<ACF3531A>": "R",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I suspect they're just an irritant,\nsent here to slow me down."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<1BD7ECF3>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But who'd want to slow you down...?\nAre they part of that opposing faction\nyou were banging on about?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<90AA4E1F>",
+      "<ACF3531A>": "R",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Hrm."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<47708F73>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So then, these soldiers\nwould have to be..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<EBD105BB>",
+      "<ACF3531A>": "R",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They're part of Monica's faction,\nno question."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<67139794>",
+      "<ACF3531A>": "R",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But even that's got its share of\nradicals like these guys. The ones\nthat like to stir things up."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<3D71B4D8>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Stir up what, though?\nNothing good, I guess."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<13021A86>",
+      "<ACF3531A>": "R",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Their ultimate objective is the eradication\nof Moebius... But they'll stop at nothing to\nachieve it... That's where the trouble starts."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<91DDCB38>",
+      "<ACF3531A>": "R",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They see the key pieces aligned on the\nboard. Even Ouroboros are now in play..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<782702E6>",
+      "<ACF3531A>": "R",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now all it would take is to wrench\nthe command from Monica, and\nthe entire City could be mobilized."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<84DC2E3E>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Could they really do that?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<115438B6>",
+      "<ACF3531A>": "R",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There are ways. Steal enough Levnises\nfrom us, whittle away at Monica's support,\nand soon she'd be wide open."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<12FB4D62>",
+      "<ACF3531A>": "R",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hard to tell exactly how they'll\nmake their move, but it seems they've\ndecided the time is ripe."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<37F7A8F7>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...OK, and what's that got to do\nwith slowing you down?"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<009A4836>",
+      "<ACF3531A>": "R",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Unlike most City folk, I'm a lone wolf. Might\nbe they didn't account for me in their\ncalculations and just...simplified the maths."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<53309BD1>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Since Gray's not usually in the City,\nthey would have to get him where they\nwant him, then restrict his movements."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<379478DE>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ohhh, right. Now I'm with ya."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<FFD2259F>",
+      "<ACF3531A>": "R",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You see?"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<9EAB682B>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh, hang on, one more thing...\nDoesn't that still seem weird?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<1E0FA3BD>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It was Rozana that told us\nto come here, right?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<F700B14E>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's right. And we were ambushed.\nThat would suggest an information leak...?"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<FFB1E545>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...What do you want to do now?"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<D5A75002>",
+      "<ACF3531A>": "R",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hrrmph... Whoever goes up against me,\nthey're getting crushed. That's all."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<1E62B198>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And what about Rozana...?"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<19BD49A2>",
+      "<ACF3531A>": "R",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We're going back to the City.\nCome on, keep up."
+    }
+  ]
+}

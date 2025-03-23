@@ -1,0 +1,588 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<97CA732D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "HERO SELECTION"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<B19BF3EE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Weapon"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<ABE40433>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ascension Quest Condition (Rank 10)"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<83DFCE42>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "ARTS"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<C90C0234>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "SKILLS"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<A2FDDA1E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "CHARACTER DESIGN"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<D8A8F2DB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Heroic Chain"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<DAD8AC61>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ascension Quest in progress!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<F5D56940>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Interlink"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<8EABA9CA>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Cancel Interlink"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<20E1FB61>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pilot"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<C320CE33>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Ferron"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<F11DD444>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Hero Profile 1"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<135C1A2E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Hero Profile 2"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<8F25FACF>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "VA"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<1A2901E1>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Hero Profile 3"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<D4D8A8B8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Masatsugu Saito"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<339CB636>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<4C62F712>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "MONOLITHSOFT"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<AB577577>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ryohei Arai"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<C6D725DB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Minami Tsuda"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<6D5148C3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Megumi Han"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<EE637543>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ryohei Kimura"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<B1F3AB03>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Kohsuke Tanabe"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<9F363B8E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Miyuki Satou"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<51E03965>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Atsumi Tanezaki"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<181AA2E3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sayaka Sembongi"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<7EB4FCF3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aya Suzaki"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<F220D0A8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tomoaki Maeno"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<5AFAE50A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Misato Fukuen"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<AFBC86E9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Taiten Kusunoki"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<710315ED>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Akeno Watanabe"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<C8ADBB27>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<D95C9410>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hitomi Ohwada"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<426B914B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shiori Katsuta"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<EC2F6171>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Yu Kobayashi"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<D121BFCA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ryota Osaka"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<3FA29196>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hiroki Takahashi"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<BDD45D7F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ami Koshimizu"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<98C911A2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rie Kugimiya"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<7A3DC4D4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "M・A・O"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<158827DC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Takaya Hashi"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<0C53D69D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aoi Yuki"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<A625C804>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ai Kayano"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<C5B132FE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Satomi Akesaka"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<9C8D99E2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shigeru Chiba"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<DD57DE5E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Harry McEntire"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<411E0CCD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aimee-Ffion Edwards"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<B26D1657>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Kitty Archer"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<0B573D41>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Olivier Huband"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<D5245ACF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Jack Bardoe"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<CFB345A6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rebecca LaChance"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<0E7978F5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lucy Doyle"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<00C16234>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tarinn Callender"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<EAFCED0D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Grace Saif"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<612E2E8D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ian Bouillion"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<AC1DCF25>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sorcha Groundsell"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<840BA3EC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shai Matheson"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<14E33E2D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pippa Bennett-Warner"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<94FD4528>",
+      "<554EE944>": 0,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<8B92918A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Catrin-Mai Huw"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<9A7D7CE6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Jenna Coleman"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<EB27EAFC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mack Keith-Roach"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<388CA278>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Neil Newbon"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<CBC08196>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Martin T. Sherman"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<1927C097>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sharlit Deyzac"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<538DB1AC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lilly Hart"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<D08B4B3C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cassie Layton"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<8AF139A0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Stanley Townsend"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<6BD2BEC2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rebecca Benson"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<F22061E2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Brigid Leahy"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<F25DD900>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dominique Moore"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<FD2CF8D9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shaun Dooley"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<E56CE831>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ascension Quest Condition"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<FE836A6A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aoi Koga"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<CF1A9252>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ina Marie Smith"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<19522F23>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "PALOW."
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<2BA4AD9A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rie Tanaka"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<AB944ED5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hannah Morrish"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<0A16D9A9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mai Yoneyama"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<5FD9FB2B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shintaro Asanuma"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<06A779E3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fergus O'Donnell"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<6C25A214>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hiro Shimono"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<734CEBC3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Adam Howden"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<BDCD4E66>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Junya Enoki"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<CDA742E5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rory Alexander"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<A81B40BA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rina Sato"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<542AD82E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rosie Day"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<BC3779B1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Masamu Ono"
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<DB81E643>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Joe Jameson"
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<1FA9F032>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shino Shimoji"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<AF1BAF33>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Georgina Sadler"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<78C522D8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Akari Kito"
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<1E31B3C0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ellie Kendrick"
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<24DC2477>",
+      "<554EE944>": 39,
+      "<DBAF43F0>": "Masatsugu Saito\nMONOLITHSOFT"
+    }
+  ]
+}

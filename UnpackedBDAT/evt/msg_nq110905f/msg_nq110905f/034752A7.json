@@ -1,0 +1,334 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<6FFA9483>",
+      "<ACF3531A>": "aa1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So, friends make habit of\nstuff like this?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<458A5E0B>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What do you mean?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<AF8CF25A>",
+      "<ACF3531A>": "aa1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Traveling everywhither for campings?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<6AE8DF08>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, not all the time...\nBut yeah, pretty much!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<361358AE>",
+      "<ACF3531A>": "Za1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sounds so cool..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<044BBEA7>",
+      "<ACF3531A>": "aa1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Bambam could get used to such\ndegrees of freedom!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<C7BB4BB9>",
+      "<ACF3531A>": "Za1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And since when are you not free?\nAvoiding work, taking lazy afternoon naps..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<C1327763>",
+      "<ACF3531A>": "aa1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Dorin joyride in Levnis, so cast out\n2x4 in own eye before searching for\nPuzzletree Wood in eye of Bambam."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<E170DDD6>",
+      "<ACF3531A>": "Za1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "H-hey, I don't care!\nAnyway, that colony's just too stiff, man."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<528920DF>",
+      "<ACF3531A>": "aa1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Bambam agree. Want to\ntravel more in outside world."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<164A5EEE>",
+      "<ACF3531A>": "Za1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Man, yeah, traveling would be sweet.\nJust the two of us, camping like this."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<CFB8D267>",
+      "<ACF3531A>": "Za1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<E8C8D190>",
+      "<ACF3531A>": "aa1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<9ECA21CF>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Dinner is ready! Eat while hot!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<5E3EEF16>",
+      "<ACF3531A>": "Za1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, dinner time!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<5A2F97EE>",
+      "<ACF3531A>": "aa1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It delicious by smell alone!"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<EDFBA954>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's eat, have a little rest, and\nthen get back to the colony."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<1B08F33A>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "(yawn)\nOK, we've been here a while now."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<5A90B8E1>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wait, where did those\ntwo blockheads go?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<78841DD3>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hm. They were there\nbefore we went to sleep."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<08EE7449>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ugh, those two'll cause no end of trouble..."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<DDC47BA5>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, got a call from Dorin."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<64D372F7>",
+      "<ACF3531A>": "qZ106Za10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Good morning! Thanks for\nsaving Bambam yesterday!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<BB4CDC74>",
+      "<ACF3531A>": "10300",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, but where are you?!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<FC176E92>",
+      "<ACF3531A>": "qZ104Za10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sorry, but we did a bit of thinking,\nand now Bambam and me are\nback in Colony 4."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<27CC2801>",
+      "<ACF3531A>": "10300",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, at least you're OK.\nWhy did you leave so\nsuddenly, though?"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<90C53353>",
+      "<ACF3531A>": "qZ104Za10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh, so, there's something we\nhave to explain. But we're in\na bit of a pickle right now."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<D23F4887>",
+      "<ACF3531A>": "qZ108Za10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sorry to make you run around like this,\nbut could you come back to Colony 4?\nWe'll be waiting for you wherever!"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<CB8E2BCF>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...He hung up on you? I don't even\nwanna know what these dingbats\nare on about now."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<2465549F>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I guess now we go...back to Colony 4...?"
+    }
+  ]
+}

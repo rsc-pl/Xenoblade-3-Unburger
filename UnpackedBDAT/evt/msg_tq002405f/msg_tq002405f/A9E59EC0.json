@@ -1,0 +1,664 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<5895BBAC>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK then, I'm going in."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<027C657B>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah...!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<BA2D781E>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<73204D81>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh, um...\nHi! I-I see you've woken up!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<3C3328C7>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<EF05BA2C>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How are you feeling?\nAny pain?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<19AF14FA>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Can confirm faint sensation of pain in\ncranial region. However, operational\nefficiency of No. 7 remains unaffected."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<AD6F7BF2>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whuh?! Ah, O-OK...\nThat's...good...?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<8D1AEFDD>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Actually, I'd, uhm...\nI'd like to apologize..."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<20BB822F>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<70D3F912>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Before, I didn't realize you were\ninside that thing, and..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<2AC3FCE4>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<52830BFE>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Erm, are you OK?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<C61D682F>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No major issues detected."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<4D0FD48E>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I-I see..."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<C3C0A284>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A-anyway, if it's all right with you, could\nyou tell me something about yourself?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<E49A9EB7>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The question lacks specificity.\nNo. 7 cannot respond."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<BAE2C9F4>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, I'm really sorry! I-I guess that\nwas a bit wishy-washy, huh...\nWell, for starters, then..."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<D1D6F0DC>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Are you a Kevesi soldier?\nOr are you Agnian?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<AADE7E88>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Keves... Agnus..."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<8FE72DEF>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, that's right.\nYou must know those, right?"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<3807456E>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Affirmative. However, discrepancy was\nencountered while processing query."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<08B957C1>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Huh? What do you mean?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<747DF459>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Affiliation of No. 7 does not match\neither of two options provided."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<2CF9C2C2>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Doesn't match...?\nWell then, that only leaves..."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<041611AC>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Special mobile combat unit under\ndirect Moebius command, alias...Colony 0."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<8D8372CA>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Whoa! You know about Moebius?!"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<50F82FCF>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Affirmative."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<21196364>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Then, when you attacked us..."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<08787200>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Colony 0 soldiers of numbers 7 and below\nwere tasked with eradication of Ouroboros."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<382BB7A3>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wh-whoa, that's...not great."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<53B4E620>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So this girl really *is* our enemy...\nI have to warn the others...!"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<CADA09CF>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Although... Is that really true?"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<298A5307>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "She did attack us...\nSo why is she like this now...?"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<A861D134>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uhm, what you just told me... It sounded\nreally important. Won't you get in trouble\nfor saying it?"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<A0C23F43>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I was not ordered to silence on the matter."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<A0B67BBE>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I, I see, OK..."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<6FBC2504>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, shoot, I forgot to introduce myself!"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<15F7A12D>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "My name is Sena. What's yours?"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<93555704>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I have no name."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<191B9A06>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Huh?"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<38F22F62>",
+      "<ACF3531A>": "fW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No. 7 does not possess information\nunder the category \"name\"."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<6B69A985>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You don't have a name...?"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<B63DBF2F>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wait, so this \"number seven\" thing\nyou've been saying all along...?"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<6D6862F6>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "An individual identification number\nassigned to soldiers of Colony 0."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<AC7B4649>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We do not belong to Keves or Agnus.\nWe are special assets. Publicly we\ndo not exist."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<553C399A>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Consequently, records of personal\ninformation stored in growth modules\nare also expunged at the time of birth."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<D59A39AC>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's...crazy..."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<1333592D>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Shall I consider the questioning\nto be over?"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<F9847649>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No, wait! What you just said...\nYou don't think it's strange?"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<94C7866C>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Cannot ascertain purpose of question.\nRequesting additional clarification."
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<BC143ACB>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I mean, for example... That name thing!\nA Colony that calls people by a number,\nthat's so dehumanizing..."
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<5CC55413>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't you feel bad to be called like that?\nI mean, you're the same as us after all..."
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<A7F98385>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Cannot ascertain purpose of question."
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<33BF44BB>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "(sniff) Ohh..."
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<ABC858A8>",
+      "<ACF3531A>": "eW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Requesting clarification."
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<4150035B>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "(sobbing)"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<AC2081CA>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sena? ...Hey, you OK?"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<173E6B36>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Did you learn anything?\n...Hang on, love, you don't look so good."
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<F2034597>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What happened, Sena?"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<E63FF460>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mimi, I... I...!\nI don't know what to do..."
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<FCF39FB8>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, Sena, everything's fine.\nLet's go somewhere we can talk.\nIs that all right?"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<D8BCEEBA>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Y-yeah, sure..."
+    }
+  ]
+}

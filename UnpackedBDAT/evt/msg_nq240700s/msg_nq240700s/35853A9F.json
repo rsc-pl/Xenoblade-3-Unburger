@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<C37FA29A>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That Gustav chappie... He's guilty as they\ncome, whichever way you slice it."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<A2B99B1D>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 32897,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah. He was still feigning innocence,\nbut those dubious ether cylinders speak\nvolumes..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<7E4E3A4F>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Furthermore, if we take into account the\nnew information we acquired from the\nfort... I don't think we're wrong."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<C5F730FA>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Speaking of juicy details, what about the\nguy who saw the Castle inspector? On the\npath under the fort in the dead of night?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<289972E6>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wait, what? This thing keeps getting\nshadier and shadier!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<C21012D1>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There can't be much underground\nbesides the storehouse, right?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<347E9827>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Something certainly\nsmells distinctly piscine."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<8EF8400A>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, those are about all the clues we\nhave. Shall we go and snoop around\nthe basement storehouse?"
+    }
+  ]
+}

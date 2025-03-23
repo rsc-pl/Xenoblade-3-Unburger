@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<CD78B5A0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah, much better... I owe you."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<F288992F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What are you doing over this way?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<3A27EA1B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I thought you were going to the Castle?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<50099D20>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah... No, I went."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<E9858D76>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And this is what I got for my trouble."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<BCA31B6F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "So, tell us, what happened...?"
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<6A3C755B>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Fiona! You're late!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<8D246232>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm so sorry... It just totally\nslipped my mind..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<D3D0EE4F>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, I'm only teasing!\nIt's all good, really."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<5BE5058D>",
+      "<ACF3531A>": "_f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm actually a bit relieved to know\nyou've got your own Tirkin-brained\nmoments."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<36482B40>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, relieved already?\nYou were nearly shaking\njust a minute ago..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<105D8B78>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Are you mad at me?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<F3BAC63E>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Of course we're not mad at you!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<BEA89B76>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But I've put a lot of stuff on your\nshoulders, and caused you lots of pain...\nReally, if anything, I'm mad at myself..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<AC8FA35C>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...But hang on, we're not here\nto talk about me!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<385999FE>",
+      "<ACF3531A>": "_f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We've figured out some points to think on,\nand we know who our real enemy is, then\nwe were like... What do we do now?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<7EA9EDF6>",
+      "<ACF3531A>": "_f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And then we had an idea, and we were\nwondering if you wouldn't be willing to\nmaybe give us a hand with it, if it's-"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<C8A53C13>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let me make a long story short."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<F472542F>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We want you to capture Colony Mu.\nAnd obviously, we mean for real!"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<C326777E>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Capture?!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<B9E26E73>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh, have you gone a bit funny?!\nWhat's wrong with you?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<E1CDCA93>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, just think about it. Those Moebius\npeople have a huge amount of power, yes?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<CD31EAD2>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So we figured, we'd need some really\nspecial training to prepare for their attack."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<6FA62882>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Simulated defensive maneuvers against\nhypothetical Moebius aggression...? Hmm..."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<C35D1E00>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I guess us Ouroboros would make for\na pretty accurate mock-enemy force, huh."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<F106548B>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right, I see..."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<9951D16D>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All right then, I guess this time\nwe'll be on opposite sides...!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<6151FDE1>",
+      "<ACF3531A>": "_f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nope. You're on the attack, Fiona."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<748A60B1>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Whuh?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<7CF0ACC6>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We can't rely on you for everything,\ncan we? That way we'd never grow."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<E67EC429>",
+      "<ACF3531A>": "_f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, we wanna change too.\nI've had about enough of sad\ngoodbyes..."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<9251986D>",
+      "<ACF3531A>": "_f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And I promised Summer she could\nleave the colony in our hands..."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<746F99E6>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...All right then.\nIf that's how you want it,\nthen I won't hold back!"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<05D9BBCF>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What are the rules of engagement\nfor the exercise?"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<DAE9856C>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No oddball tactics on either side, and...\nWell, I guess that's about everything."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<BFAB2136>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A lot of us are kinda inexperienced,\nso we want to have a straightforward\ncontest to start with!"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<E6004EF0>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Understood, sounds good. In that case,\nwe'll attack from the Migrow's Rosary side."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<30353B4E>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nice! I'll send Nico to wait there, so let\nher know when you're ready to begin."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<A3892CA4>",
+      "<ACF3531A>": "Wg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Looking forward to it, Ouroboros buds!"
+    }
+  ]
+}

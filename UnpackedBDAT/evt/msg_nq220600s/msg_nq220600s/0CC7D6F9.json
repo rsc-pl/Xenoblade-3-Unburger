@@ -1,0 +1,124 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<A68939FF>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Everyone's commenting on how\nColony Tau's gained a few Nopon!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<8E8F8A9E>",
+      "<ACF3531A>": "XW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nopon are everyplace!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<F1FB6495>",
+      "<ACF3531A>": "tV",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It true! Nopon very hardy people."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<D61DFEDD>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The locals are a bit afraid of them, it\nseems. I can't say I'd call any Nopon\nI've ever met \"scary\"..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<A346F989>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If Honorine invited them,\nI'm sure they can't be bad..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<205B7CD7>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Stuffing their faces, eh? And here I thought\nManana was the only one capable of that."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<0A6BB5DC>",
+      "<ACF3531A>": "tV",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16793729,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Height of rudeness!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<2FBFF080>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All right, enough prattling, all of you.\nShall we look into it, then?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<A5FE5AC3>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Good idea. Let's talk to\nthe Nopon as well."
+    }
+  ]
+}

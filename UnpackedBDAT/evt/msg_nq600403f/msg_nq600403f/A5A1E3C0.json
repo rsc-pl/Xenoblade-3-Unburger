@@ -1,0 +1,104 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<E92997C4>",
+      "<ACF3531A>": "kq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's treasure! Real, actual treasure,\nof actual monetary value!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<30B9D584>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Got some pests, though.\nWhere'd they slink in from?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<54240FD9>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That hole over there,\nif I were to hazard a guess."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<462EAEBB>",
+      "<ACF3531A>": "kq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They think they can get their greedy mitts\non the treasure, do they? Yeah, not on my\npatch they ain't!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<2723DE25>",
+      "<ACF3531A>": "kq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Have at 'em, o esteemed authority figures!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<4500F425>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You really are incorrigible..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<29DBCCCA>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's all right. Could tell where this\nwas going from a ways off."
+    }
+  ]
+}

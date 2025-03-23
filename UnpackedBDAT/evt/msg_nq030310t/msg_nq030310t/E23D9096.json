@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<E00E0BA6>",
+      "<ACF3531A>": "lY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The prison is currently facing\na problem we can't afford to ignore."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<F962D544>",
+      "<ACF3531A>": "lY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm sure that No. 7 will approach\nyou with the details soon."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<50D65D1B>",
+      "<ACF3531A>": "lY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But either way, at some point\nwe might need to rely on you\nOuroboros again."
+    }
+  ]
+}

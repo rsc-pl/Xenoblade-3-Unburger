@@ -1,0 +1,484 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B48250BD>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Everybody's super excited for this contest."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<EDAFEF26>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Most likely they're excited about getting\na taste of the winning meal."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<E54CDEEE>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Hey, Miyabi?\nCan I ask you something?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<B25923B4>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 536887425,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hm? Sure."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<971392AD>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You didn't enter this contest just because\nyou wanted to win, did you?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<D427FFB3>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 536887425,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...No, I didn't."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<CE186B13>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's because I feel indebted to the\npeople of the City. I wanted to take this\nopportunity to show them my appreciation."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<83668A33>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Aww, how sweet! That's just like you!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<9FAD9103>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, you haven't changed a bit.\nYou've always been like this."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<28391D18>",
+      "<ACF3531A>": "tV",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh-hrm...\nRegardless of ulterior motive of Miyabi,\nManana is innit to winnit!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<EA6E397E>",
+      "<ACF3531A>": "tV",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Will not hesitate to clash with\nfull force of Manana might!"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<E1673513>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's totally fine, Manana.\nGive it your all!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<3AB1480C>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All right, let's go over what\nwe've learned."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<CEA5248A>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "From what we've heard, we should serve\na huge portion of something, with a flavor\nthat packs a wallop."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<CBBD1FD7>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It seems that the presentation is also\nhighly regarded in addition to flavor.\nSomething that will deliver an impact."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<0284614A>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "An impact, huh...\nThat's setting the bar pretty high..."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<59AA740A>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But others were saying they'd like\nhomemade dishes. Something they'd\nfeel familiar with."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<AE74DC8B>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Given that we don't know who the\njudges will be, it might be best to go for\nsomething neutral that everyone can enjoy."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<C3CBA74B>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So...doesn't this just mean that they'll\nenjoy pretty much whatever we throw\nat them?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<FA6BA5C9>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 536887425,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In that case...I think I know\nwhat might be good to try..."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<0F27249E>",
+      "<ACF3531A>": "tV",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh heh heh...\nSecret weapon of Manana will\nguarantee surefire win..."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<22BC5DA5>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmm? You're looking pretty confident\nthere, love."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<2C97DFF1>",
+      "<ACF3531A>": "tV",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 32897,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh heh heh...\nThat because Manana already thought up\nultimate recipe of ultimate delicious!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<C8EB326D>",
+      "<ACF3531A>": "tV",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Current name of dish...\nis closely guarded secret!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<CE7B318B>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Haha! Yes, you don't want to be\ntelling your competitors."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<E074D35E>",
+      "<ACF3531A>": "tV",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Exactly! Anticipation must be savored!"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<2AF225A3>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Looks like you two have already\ngot your entries sorted. Guess next up's\ngetting the ingredients?"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<529134C3>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What'll you need for your dish, Manana?"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<8E079468>",
+      "<ACF3531A>": "tV",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh! Manana will need\nMottlemarble Aries Meat,\nKilljoy Crustip Meat..."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<1DFD0964>",
+      "<ACF3531A>": "tV",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Cozy Rhogul Egggems\nand Lucky Marrin Thickcuts!"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<DAA677DD>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh... They're a pretty big deal,\nis what I'm getting here..."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<0B251978>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How about you, Miyabi?"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<5A02A4A4>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Umm... Smushi Rice, Refreshing\nPiranhax Meat, Glitter Radishes..."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<5624A738>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "and Soyprimo Sauce... Though we can\nprobably ask the City folk to share some\nwith us."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<7D5FAF8E>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh... That all sounds like\npretty average stuff."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<31596967>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, um... I'd really like to prepare\nsomething that anyone can make,\nusing familiar ingredients."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<1BAA4D8C>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, you're totally winning\npeople over that way!"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<89091160>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So, who to start with?"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<D824F490>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Whose ingredients will you gather?"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<92921D1D>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Manana's"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<4B500F30>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Miyabi's"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<82C78370>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll start with Manana's."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<C92382FE>",
+      "<ACF3531A>": "tV",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ohohoho! Manana pleased to welcome\naboard all affiliated parties!"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<4B0D4D3E>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We can start with Miyabi's."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<FF311F2C>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thank you. I hope you'll find them\nwithout much trouble!"
+    }
+  ]
+}

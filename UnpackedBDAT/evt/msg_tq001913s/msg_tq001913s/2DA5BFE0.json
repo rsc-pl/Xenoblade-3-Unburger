@@ -1,0 +1,284 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B8C5B6F1>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Dude, that Sequoia's shooting range was\nludicrous, am I right? Anyway we went,\nshots were falling on us like hail!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<92AB69E4>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "From what I heard, she used to be\na close-range Attacker before."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<DB7F3A9C>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Maybe that explains why she was so\ngood at keeping the right distance..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<5D5A0F95>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ugh, who makes a switch like that?\nSounds like way too much effort."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<3D1E377C>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But maybe that's exactly the kind of\nreaction she's expecting out of you, Lanz."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<6E446920>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 536887425,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ugh..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<8D8D0BA2>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "She's also an accomplished intelligence\noperative, Sequoia. She can usually get\nin her enemies' heads before battle."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<04F0C6FD>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wow, she must've loved Lanz's, then.\nSo nice and roomy! And the acoustics!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<402EB570>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oi, who you calling roomy, featherhead?!\nAnd anyway, we beat 'em, didn't we?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<F44221DB>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, c'mon, no need to get upset...!\nColony Iota's already looking way less\nintimidating..."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<C97D165A>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's just keep it up!"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<17F4F88F>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, OK, I wasn't fishing for a pep talk...\nAnd I wouldn't have been upset if Eunie'd\njust kept her mouth shut!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<A85266FC>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Question."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<221A7558>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Did any of you tell Sequoia from\nColony Iota about my hobbies?"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<EECE82D7>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's really random."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<D767458A>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nobody would talk about you\nbehind your back, Taion..."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<F5780D87>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Did someone find them out?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<D62A58B1>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Yes. I will save you the details, though."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<A0AA5B9C>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Where would they have found out...?\nTheir information was startlingly detailed..."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<03FFBA90>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I've heard Sequoia's a skilled spy.\nGuess that means she's already done\nsome digging into us..."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<2E659B74>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey man, so what's she got on you?"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<F35C143A>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I refuse to be baited."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<F8900E2A>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Dude, that just makes me more curious!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<33762294>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33066,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But to get things out of Taion,\nthat's pretty impressive..."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<63F2542C>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33146,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'd do well to be careful of\nSequoia's information network..."
+    }
+  ]
+}

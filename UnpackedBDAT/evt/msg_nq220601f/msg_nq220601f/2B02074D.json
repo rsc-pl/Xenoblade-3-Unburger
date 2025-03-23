@@ -1,0 +1,534 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<7F49D672>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Honorine, do you have a second?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<331AD5C5>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33073,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Argggh! I have HAD it with you!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<1213D434>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Huh?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<B4DF0512>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How many times do I have to tell you?\nI do NOT have the time for this!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<6D2CDA53>",
+      "<ACF3531A>": "hd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Would like to eat meat please."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<5D284EFE>",
+      "<ACF3531A>": "Yn1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Would like to eat sweets please."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<EC4125E0>",
+      "<ACF3531A>": "Zn1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Forest is too scary and\nfull of bugs, please fix..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<6BBB2139>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What the-?! Who or what am I\neven looking at here?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<E177004D>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They ultimate Nopon fusion!\nIs rare to meet."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<19C4CB69>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Juniper! I'm begging you, please do\nsomething about these fuzzballs!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<009ED05F>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "L-like what...?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<2FE0E054>",
+      "<ACF3531A>": "hd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How you say such thing when\nwe come all this way for you!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<6A9FF537>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You didn't come for me!\nYou came for yourselves!"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<C5DA1928>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I went to Colony 30 to\nlearn a bit about machines..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<1201BEE9>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And all I got was these lousy Nopon!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<C66B59CA>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whoa, just chill for a second. Getting\nall het up ain't gonna solve anything."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<70C41CEB>",
+      "<ACF3531A>": "hd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Eating sweets is good for help\nissue of anger management."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<C4E6EAE9>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm done. I'm just...so done.\nGive me a minute and I'll boot them out."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<316EF054>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Or...we could resolve it\nwith no booting necessary?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<EE6CAA3F>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Aw, come on, Juniper! I can't believe\nyou're siding with them over me!"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<741E88DC>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, while we're here, why not\nlisten to what they have to say?"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<FC22E03A>",
+      "<ACF3531A>": "Yn1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You good and understanding person.\nAll we want do really is help."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<039DBAC9>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh? What are you going to help with?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<288684E1>",
+      "<ACF3531A>": "hd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We very whiz with machine, and we\nmake very interesting thing for you."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<AAC77BE9>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33073,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The only thing you've made for us\nis a giant dent in our food supplies,\nyou walking stomachs!"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<AE0FC0EE>",
+      "<ACF3531A>": "hd1",
+      "<9EE99B1E>": 33073,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh! What stain on honor!"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<B0D7D08E>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33184,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, I am officially all Nopon-ed out.\nGot to check on the meat I'm drying."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<A7A168AA>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You preserve food?"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<463D0FC9>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah. I have to do it in a hut, which is\nenough of a chore already."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<02B2AABE>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So I really do not have time\nfor these jokers today."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<71F378ED>",
+      "<ACF3531A>": "hd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh!"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<7BA596B1>",
+      "<ACF3531A>": "Yn1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is that..."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<FE0CB8AA>",
+      "<ACF3531A>": "Zn1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Inconvenience?"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<0ABCB072>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, it finally clicked, did it?\nYes, you are an inconvenience\nto me, you fuzzy nuisances!"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<1F05643D>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Honorine, please calm down.\nI've never seen you like this..."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<865DE809>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Look, drying and smoking meat\ntakes a lot of work."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<F729EC03>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Colony Tau is a special place.\nI know that to you, it may seem\nthat our ways are inefficient, but..."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<3A17C327>",
+      "<ACF3531A>": "hd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes! That exactly why we here!\nCan help with build meat smoker!"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<17D8C05C>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What?!"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<703410F1>",
+      "<ACF3531A>": "hd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But currently parts of smoker is missing.\nCure for this is procure for us."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<C70EED3D>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you could do something like that,\nwhy didn't you just say so...?"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<28FE9CA3>",
+      "<ACF3531A>": "hd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We going to want to eat meats soon,\nso smoker should be built, snip-snap."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<27DEDEEF>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Nope, can't talk to 'em."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<A7835CF7>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nopon always very devoted\nto fulfilling of own wishes."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<650C4058>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, so if, say, we were to get you\nthe parts you need for the smoker,\nyou'd be able to build it?"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<B4CB0BFC>",
+      "<ACF3531A>": "hd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nopon always keep word.\nCan rely on us!"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<BF0DED2E>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, good. Honorine,\nwe'll need your help too."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<27DB387B>",
+      "<ACF3531A>": "Zd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Fine. Just for you, Juniper..."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<62A296D3>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You know they aren't being\nmalicious. Let's see if we can\nget these parts for them."
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<8C3E00F1>",
+      "<ACF3531A>": "hd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Good lucks!"
+    }
+  ]
+}

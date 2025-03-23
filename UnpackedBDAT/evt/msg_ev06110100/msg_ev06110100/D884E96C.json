@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<F9242B48>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Daddy will have to go soon..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<9184EC80>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "All right?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B7B7356C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But you know, your Daddy's and Mummy's love,"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<BE311D37>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "our life, will always be within you."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<6BBAAED7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You'll never...be alone."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<22F12A6C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Things will get tough... You'll be hurt."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<6DEF77B5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You've a whole host of things to go through...\nas you head into the future."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<E975D77D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "A time might come...when you'll be\non the verge of giving up."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<C103D7B5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But you have to keep going."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<CD71DE7A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Make friends. Keep them close to you always."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<5C35DEA0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's what Daddy and Mummy did."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<D3CD9D4A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](soft, quiet sobs)"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<143FE2A5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](crying adlib)"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<6FCF9B1B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We're with you...now and forever..."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<57470B9F>",
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll keep this place covered.\nDon't worry."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<D69765D9>",
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thanks.\nI appreciate it."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B7CE2685>",
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thanks for helping us out there."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<07B603FE>",
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You can leave this place to us."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<FDAC8F9D>",
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We've got this place covered.\nYou go on ahead."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<B28F45EE>",
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Cheers. I know I can\ncount on you guys."
+    }
+  ]
+}

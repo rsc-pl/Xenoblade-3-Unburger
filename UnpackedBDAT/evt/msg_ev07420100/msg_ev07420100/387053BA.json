@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B3836F23>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The will of young people, weaving a future..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<F6ED09AE>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That is...the indispensable force\nthat drives worlds forward."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<66230796>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I know just how scary taking\nthe first step can be."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<262AB989>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And yet, it was young folks like that\nthat set whole worlds in motion,"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<4345DFD8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "overcoming their own fears."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<CE152FB0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "In the hope,"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<4C9F0157>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "that the future will birth more such people..."
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<D1A8F58E>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All right, what do we make of\nthis news, about Colony 9\npossibly being under threat?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<6FA52373>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Even if it's just a nasty rumor, I don't\nfancy leaving anything to chance..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<D5769F0E>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I agree. If they really are up against\na large battalion, there could be a lot\nof casualties."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<3475A4B5>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What I wanna know is,\nwhy now all of a sudden?!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<90507900>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 32897,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's just a theory, but I'd imagine\nthat they consider this a particularly\nopportune moment."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<96B02672>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Striking when the enemy defenses\nare at their weakest is one of the oldest\ntricks in the book."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<C8FCB566>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmm. Only thing that fits timewise is\nus becoming Ouroboros..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<EF3424C6>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So what, are you saying it's our fault?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<45F36257>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well... It is possible."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<7CABB3BC>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In any case, they wouldn't be launching\nan attack on that scale without *some kind*\nof justification."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<FA1CFA03>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We should go and help them.\nIf we hurry, there might still be a chance."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<DC608EFC>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1074,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah. And we'd never forgive ourselves\nif we missed it."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<CE3FCB18>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, let's go and talk to the commander!\nIf we work together, we should be able to\nkeep casualties to a minimum."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<00EBB7BC>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I just hope they'll believe us..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<64899BAF>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If not, we can always try\na different approach."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<78173DE9>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, If that's settled, then I believe\nour next stop is Colony 9."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<177FFE1A>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 8405121,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Though it would be far from ideal,\nwe may end up having to stave off\nthe enemy attack by ourselves..."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<ACEFF180>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 14696577,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, best be prepared.\nOh, and..."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<C0078524>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sorry for getting you wrapped up\nin our affairs."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<1A0E5928>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 8405122,
+      "<C1A03E98>": 1074,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't worry about that now.\nLet's just do what we can."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<31DC6306>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 10502273,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right!"
+    }
+  ]
+}

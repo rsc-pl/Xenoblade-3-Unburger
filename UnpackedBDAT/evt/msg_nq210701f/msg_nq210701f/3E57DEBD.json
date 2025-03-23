@@ -1,0 +1,354 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<F1DB80C4>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There you are, Moraine."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<6671DF83>",
+      "<ACF3531A>": "pc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, it's you... Is everything OK?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<223FFACC>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We heard about Shijima, and we were\njust wondering how you were doing."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<FCDED699>",
+      "<ACF3531A>": "pc1",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, you heard about that...\nYeah, Shijima passed away."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<7D878B11>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<44075B15>",
+      "<ACF3531A>": "pc1",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But you don't have to worry about me.\nIt was hard, but I'm doing fine now."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<2D5D516D>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wow, you're so strong, Moraine."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<AC7DF749>",
+      "<ACF3531A>": "pc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think I understood everything he\nwanted to pass on, and I'll do my\nbest to keep his legacy alive."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<C0AFB876>",
+      "<ACF3531A>": "pc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "After we came back with you, we had\na long chat, just the two of us. Talked out\na lot of stuff. He looked really...content."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<B0269441>",
+      "<ACF3531A>": "pc1",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So, thanks for everything you did."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<CAABFCE0>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No, we hardly did anything."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<FA4AD9FE>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If he died peacefully, then that\nwas all your doing, Moraine."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<6DB0C6BF>",
+      "<ACF3531A>": "pc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But it did make me worry\nabout Colony Lambda a bit."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<4A5F4A79>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Worry? How's that?"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<8A87ABB0>",
+      "<ACF3531A>": "pc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We're a well-regulated colony, but it takes\ntime and effort to put in requests and get\npermission for anything you want to do."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<B81143A8>",
+      "<ACF3531A>": "pc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He seemed to be uneasy about how\nmuch that slows everything down."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<6FC142E5>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I understand, yes. Those rules have\nmanaged to keep the colony running\nwell enough, but..."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<0EE13E07>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The colony's combination of talented\nindividuals and strong leadership is what\nled it to the top of the rankings."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<5D9781A9>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Listen, I get that everything takes\nan age to get done, but listen-"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<720DC76F>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Got a second, Moraine?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<68B6FB55>",
+      "<ACF3531A>": "pc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, well. If you're paying me\na visit, this must be important."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<59EF1094>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Just because we're in the same cohort\ndoesn't mean we have to be best friends."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<BBB171A5>",
+      "<ACF3531A>": "pc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sure. So? What's going on?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<21E7ED47>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Agnus forces are approaching\nColony Lambda."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<E6DC60D6>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We don't have concrete numbers, but\nthe sensors haven't registered anything\nso they're probably coming by air."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<545980F1>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We've sent a recon team headed\nby Captain Rosh, so we're hoping\nto intercept them soon."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<6B3D425A>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33184,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's...not great..."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<117F23AF>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33184,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Not at all. Quite a bit worse, in fact, given\nthat half the colony's still being rebuilt."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<3BA677C5>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33184,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We're mobilizing everyone.\nYou too, Moraine."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<BADDF784>",
+      "<ACF3531A>": "pc1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll be there."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<20B3DA2E>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In that case, we'll come too."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<03D418CD>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That would be appreciated. I have more\nsquads to talk to, so go to the captain and\nhe'll send you where you're needed."
+    }
+  ]
+}

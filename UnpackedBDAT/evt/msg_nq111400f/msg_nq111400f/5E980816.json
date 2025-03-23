@@ -1,0 +1,194 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<7DCB5F9F>",
+      "<ACF3531A>": "rZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Vision of Dorin is very terrible!\nSo bad eyes."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<69C3B7E3>",
+      "<ACF3531A>": "qZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What kind of thing is that to say?!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<E7C43113>",
+      "<ACF3531A>": "rZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Bambam saw extremely giant monster!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<060CA228>",
+      "<ACF3531A>": "qZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Look, if it was that extremely giant,\nI would definitely have seen it too!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<42D9ADB1>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I see it's that time again."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<C16D4276>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What's this about a giant monster?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<7916D1A2>",
+      "<ACF3531A>": "rZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, giant monster, seen by very eyes of\nBambam! Is giganto-normous monster!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<61C3602B>",
+      "<ACF3531A>": "qZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, but everything's gigantic\nto a little pipsqueak like you."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<A2C7D590>",
+      "<ACF3531A>": "rZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Bambam can tell difference between\nmedium-big and big-big! And don't\ncall Bambam pipsqueak!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<757E9AFC>",
+      "<ACF3531A>": "rZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Bambam begging friends to verify honesty\nof Bambam! We find proofs together!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<AE83413E>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Are you asking us to go\nhunting for a giant monster?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<C669A9AF>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, well, where did you see it?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<C394CC95>",
+      "<ACF3531A>": "rZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Bambam see on Piula Path! Bambam taking\nwalk all innocent, and see by chance!"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<B7466432>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, I guess this is our business\ntoo, so we'll go with you."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<7017B9E7>",
+      "<ACF3531A>": "rZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Such good friend!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<EBC83A6F>",
+      "<ACF3531A>": "qZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I thought I was your friend!\nUgh, I still think this is some\nwild goose chase stuff."
+    }
+  ]
+}

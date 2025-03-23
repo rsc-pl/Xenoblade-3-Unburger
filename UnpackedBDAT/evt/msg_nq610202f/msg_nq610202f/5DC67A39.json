@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<D4D90291>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Look, Shulk! It's working!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<CBEB6417>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Indeed. That's the sound of a job well done."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<5D92DE5F>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now all that's left is to analyze the\nmachine and repurpose the tech for\nuse in the Mobile Furnace."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<973B378A>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right. Then, theoretically, we should be\nable to craft high-quality gems whenever\nwe want."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<5F1A4AC8>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Damn, you guys are wizards!\nHow's that even gonna work?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<4F10A389>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, the way this device works is\nfundamentally the same as the one\nwe use, but..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<2A8D79FA>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The technology it uses is very...\nHow do I put this...? Idiosyncratic."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<14E38B71>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's not something that could've come off\nan assembly line. I think it's custom-made,\nand quite meticulously at that."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<44885AA0>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And for that reason, it looks like it'll be\nan incredibly useful asset with regard to\nupgrading our mobile version."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<FC76D1EB>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, well. Who'd have thought she'd still\nbe purring along nicely, after the Colony's\nhad such a fall from grace..."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<AD356CDD>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The Gem Man's invention continues to stand\nthe test of time. What a formidable fellow..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<E5F37D5C>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thank you, sir. We'll treat\nher kindly, we promise."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<3D2DB617>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 79,
+      "<DBAF43F0>": "You repaired the old ether furnace."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<D496D356>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 79,
+      "<DBAF43F0>": "You can now craft gems up to rank V."
+    }
+  ]
+}

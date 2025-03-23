@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B2EFD4B8>",
+      "<ACF3531A>": "@p1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Instructor Panacea! Young Master Matthew!\nAre you quite all right?!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<7C2542A3>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, peachy. Sorry to\ncut the training short."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<A81C0CD7>",
+      "<ACF3531A>": "vp1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let this be a lesson to you.\nEven a hardened veteran can be put to\nshame if they let their guard down."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<C5915BAC>",
+      "<ACF3531A>": "@p1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I see...! I will set this teaching in stone!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<6E77358D>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Real smooth..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<2ACD75D8>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Restart the mock battle?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<6D982693>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Yes"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<035DD8E5>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "No"
+    }
+  ]
+}

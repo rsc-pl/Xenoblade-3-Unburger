@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<7322F9F0>",
+      "<ACF3531A>": "yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Honestly speaking, I'd been wanting to\ncomment on the state of the inventory\nmanagement for a while."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<52796AC4>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ahh, so that's why you made us\nthat proposal, is it?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<0EC78BA8>",
+      "<ACF3531A>": "yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You couldn't have shown up at a\nbetter time, really. Now I get to bark\norders like nobody's business!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<4D5CA80C>",
+      "<ACF3531A>": "yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's nice to be able to do some work I have a\nreal passion for. Thank you. Peridot's giving\nme some much-needed assistance, too."
+    }
+  ]
+}

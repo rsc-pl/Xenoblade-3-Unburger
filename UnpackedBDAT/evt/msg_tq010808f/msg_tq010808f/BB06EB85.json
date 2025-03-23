@@ -1,0 +1,284 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<37612FEA>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh-heh-hem... Tasty!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<EE58B752>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mm, it's so different from before...!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<29C601A0>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I could eat piles and piles of this!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<4B0121E8>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, how the spark can one pot\nchange so much about a dish?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<47EE9E3A>",
+      "<ACF3531A>": "wi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Warp of pot is warp of heart.\nAnd warp of heart is warp of cooking."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<775D7A6C>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<A4F8CF2A>",
+      "<ACF3531A>": "wi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Though it also plenty true that beloved\ntool will create beloved food."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<9DA1277F>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But you still consider it unthinkable\nto wield as a weapon?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<ECF3A292>",
+      "<ACF3531A>": "wi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Truth be told, that part still rub\nTempapa wrong way."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<F13CFB88>",
+      "<ACF3531A>": "wi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But from initial impression of cooking,\ncould tell Manana made with talent,\nwithout understanding of how to use tool."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<EFC19DCB>",
+      "<ACF3531A>": "wi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That was thing that really\nneeded correction."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<962825E9>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is Tempapa eating well?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<B53E8A02>",
+      "<ACF3531A>": "wi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Tempapa only eat little.\nCannot gorge self like young buck."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<E0112133>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Manana is making more, no fear!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<E82023BC>",
+      "<ACF3531A>": "wi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Do Riku also have difficulty getting along\nwith humans, like Tempapa?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<9BA79339>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There many things one can only attain\nby cooperation and speak with others."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<3418AA86>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If not travel with Noah and others,\nthen not have chance to eat cooking\nof Manana now."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<8EAC0CDD>",
+      "<ACF3531A>": "wi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Indeed? Riku very strange Nopon..."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<4D687425>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Er, or maybe the strange one\nis you, living out here like this?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<329D5DCC>",
+      "<ACF3531A>": "wi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmph. This Nopon way of living."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<848560A3>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Come come, everyone\neat up nicely now!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<22C90C18>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Riku will have some."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<CAB7B229>",
+      "<ACF3531A>": "wi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Not forget to treat tools with care.\nThat only thing friends must remember."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<61FF2F99>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Manana promise!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<10D89DE3>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Manana's weapon grew stronger!"
+    }
+  ]
+}

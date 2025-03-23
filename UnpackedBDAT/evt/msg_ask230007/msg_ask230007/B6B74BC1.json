@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<849E8328>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It seems the supplies from Colony Iota\nare a lifeline for many other colonies."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<8BAB1FAF>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The ones we handed out, yeah?\nIf people are usin' them, then it's\na job well done for us as well."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<7421D575>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All we really did was operate\nthe Collectopaedia Cards, that's it."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<DCDD07E9>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think it only went as well as it did\nthanks to Alexandria and Colony Iota\nstockpiling so many supplies."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<918C7FE7>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You've got a point there."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<6A76C73A>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They're definitely the ones who deserve\nkudos, for coming up with the\nCollectopaedia Cards and stuff."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<34F12ED4>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I wouldn't say that to\nAlex's face though, mind."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<BC74C911>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1200,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I don't think I could bear to watch her\nsmile that smug natural winner's smile\nagain..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<43752E71>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, really? I kinda like her smile."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<4D59EFCD>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Samesies."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<60129B70>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Not sure you're talking\nabout the same thing?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<81411046>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I also feel a little lost now..."
+    }
+  ]
+}

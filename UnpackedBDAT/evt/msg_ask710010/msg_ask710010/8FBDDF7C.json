@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<3970643E>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, OK, let's lay it out once and for all...\nHouse Ortiz works together with Monica's\nfamily, the Vandhams..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<4731602A>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And opposed to them are the Doyles,\npeople call them the \"conservatives\"."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<2602BEA9>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And keeping the middle ground\nbetween them is House...Rhodes?\nIs that right?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<A5E64765>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Man, City politics are confusing\nas all get-out..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<2E994FA0>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And why're they opposing each other\nin the first place? They're all City people,\nain't they?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<F584B444>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The more people in a community,\nthe more opportunity for ideological\ndivides. I think this is one of those."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<9667FC57>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Though they share a common goal, they\ndisagree on the best way to achieve it.\n...I have some experience with that."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<C7E73A15>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There's bound to be some story behind the\nstory, one that we don't know. It's always\nsomething like that..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<D0B25514>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Indeed. We should tread carefully\nwhenever we have to deal with them."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<704E946B>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That does seem prudent. If we misstep,\nwe might become embroiled in the conflict\nas well."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<484C35E9>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I still hope one day everyone can\nwork together as one... Is that naive...?"
+    }
+  ]
+}

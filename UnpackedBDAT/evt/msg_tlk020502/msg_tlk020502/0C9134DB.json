@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<8ABD6228>",
+      "<ACF3531A>": "wV",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They're letting me join in with the\nLost Numbers' training now. Well,\nfrom the sidelines, at least."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<CC2D5DD8>",
+      "<ACF3531A>": "wV",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I've been thinking it's time to get stronger,\nto improve my skills, if I'm going to fight\non behalf of the people in the City."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<9BAA3AAC>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If that's what you want, Miyabi..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<E7E15216>",
+      "<ACF3531A>": "wV",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It is! So yeah, I guess I have a goal to\nmotivate me now! Stop by and chat\nany time you like."
+    }
+  ]
+}

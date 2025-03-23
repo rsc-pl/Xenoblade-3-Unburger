@@ -1,0 +1,274 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<44A69FBC>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's all go around here, eh?\nWhat's everyone up to?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<37890064>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This is the future site of a new canteen.\nThe construction is ongoing, as you can see."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<CDC2E52C>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We've been flooded with requests from\nsoldiers and residents alike to improve\nthe overall quality of our meals."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<8A4E5584>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ahh, right. Yeah, I'd have to agree with 'em.\nA little more flavor wouldn't go amiss."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<8A93F8E9>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Since we're here, why don't we go\nand check up on the progress?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<D797C006>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Working hard as ever, I see, Georgie.\nHow are things looking?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<B3E4D669>",
+      "<ACF3531A>": "sq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, if it ain't one of my favorite Liberators!\nYeah, not too bad, all things considered!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<A64F676F>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I'll need you to be more specific,\nif at all possible, please."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<B5D1F6ED>",
+      "<ACF3531A>": "sq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I see you're a figures gal, and I respect that.\nThen specifically, we're a mite behind."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<94240B17>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I did ask you to inform me at your earliest\nconvenience in the event of any issues."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<B2D5D19A>",
+      "<ACF3531A>": "sq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Heh, so you did. Sorry 'bout that.\nBeen so busy lately, it clean slipped my mind."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<F0086C86>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...And what, might I ask,\nis the cause of the problem?\nSpecifically?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<20E4946B>",
+      "<ACF3531A>": "sq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's the lack of equipment, specifically. We're\nshort on heat-resistant materials for stoves...\nAnd that's just the tip of the iceberg."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<0AE44078>",
+      "<ACF3531A>": "sq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Reckon we could throw something together\nif we had some scrap Levnis parts, but we\nain't got the hands to forage for that stuff."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<87DA777C>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Want us to do 'em a good turn, Linka?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<4225B4ED>",
+      "<ACF3531A>": "sq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wa-hey! You gonna do us a kindness?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<18D68372>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Are you positive about this?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<E1AB3BD1>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, no prob. If it helps to get the canteen\nup and running, we'll get some real good\nnosh out of the deal, won't we?"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<34E783FD>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Seems well worth the effort to me.\nGood grub pays for itself."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<DEC16E02>",
+      "<ACF3531A>": "sq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, a man after my own stomach!\nThat's what I like to hear!"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<B3E76ADA>",
+      "<ACF3531A>": "sq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Once we're open for business,\nI'll treat you to our house special.\nIt's a secret family recipe!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<48F069F5>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Boosh! Can't turn down an offer like that!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<D65EF8DA>",
+      "<ACF3531A>": "sq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Just bring us whatever machine parts\nyou can scrounge up."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<AC8025BD>",
+      "<ACF3531A>": "sq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll take anything that looks useful\noff your hands. Happy hunting!"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<4CE6DCF3>",
+      "<ACF3531A>": "uc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Did you manage to talk to them?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<46800A3E>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It looks like Zoka's all for it."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<1F6720DA>",
+      "<ACF3531A>": "uc1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Great news! Thanks!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<1D800B1F>",
+      "<ACF3531A>": "uc1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm always amazed at how quickly the\nNopon Caravans can make decisions..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<DC656A08>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Err, considering we had to trudge all that way\nto speak with their boss, it wasn't all *that*\nquick, really..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<909394B3>",
+      "<ACF3531A>": "uc1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No, that's still faster than anything\ngets done in Colony Lambda."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<94A5A563>",
+      "<ACF3531A>": "uc1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We're not at war any more. We need to\ntake care of our allies from now on.\nWe can't keep doing things this way."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<DC4AA7DB>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, I dunno..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<F88F9118>",
+      "<ACF3531A>": "uc1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Lambda has to change. And\nthat time is rapidly approaching."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<FA36777E>",
+      "<ACF3531A>": "uc1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Living like this, tangled up in rules and\nbureaucracy, it's just not sustainable."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<DEEE6F01>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "One thing at a time, Koji."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<36EE3DF9>",
+      "<ACF3531A>": "uc1",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, sorry. Thanks, anyway."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<E2EF7B96>",
+      "<ACF3531A>": "uc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll get the ether sorted out\nas fast as I can."
+    }
+  ]
+}

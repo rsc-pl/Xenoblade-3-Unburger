@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<1CEBDB12>",
+      "<ACF3531A>": "dd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Honorine brought some Nopon to\nthe colony with her, and they've got an\n*appetite*. I'm, er, a little afraid of them..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<A281B083>",
+      "<ACF3531A>": "dd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They're not quite like normal Nopon..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<BAC67745>",
+      "<ACF3531A>": "dd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Eh, I'm sure it's fine, though.\nThe world's a big place, full of\nweird and wonderful things."
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<4E11C015>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sorry to just appear out of the blue\nlike this, but would you happen to\nbe in charge of this mine?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<B61C34F8>",
+      "<ACF3531A>": "@e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, I'm the superintendent."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<BA3D48C2>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So you're still operating even now\nthe Flame Clock's broken?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<671ECB28>",
+      "<ACF3531A>": "@e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right. The Castle couldn't exactly stop\nproviding the colonies with ether cylinders."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<2215361D>",
+      "<ACF3531A>": "@e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We've been scraping together every drop\nof energy we could find. Working flat out,\nwe are. Hahaha..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<86433741>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Changing the subject a bit, but have you\nheard any of these rumors that this mine's\npreparing for war with Agnus?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<C93AD9E1>",
+      "<ACF3531A>": "@e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hah! That's a good one!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<EFBF8E99>",
+      "<ACF3531A>": "@e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We're way too busy for war with Agnus!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<F07699AC>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I see... It was the Guard who were saying\nit, though. Seemed like pretty solid info."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<BAE644DF>",
+      "<ACF3531A>": "@e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The Guard? You're serious?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<4C37D54B>",
+      "<ACF3531A>": "@e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Er, well that's something..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<BBA564F3>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Just to make sure, do you mind\nif we take a look around the mine?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<38F6C4EF>",
+      "<ACF3531A>": "@e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Y-yeah, go ahead. Look around\nas much as you want."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<2AE5A197>",
+      "<ACF3531A>": "@e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't expect you'll find anything, though..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<7B971262>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<17E79C9A>",
+      "<ACF3531A>": "@e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Look around to your heart's content, mate."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<24861689>",
+      "<ACF3531A>": "@e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't expect you'll find anything, though..."
+    }
+  ]
+}

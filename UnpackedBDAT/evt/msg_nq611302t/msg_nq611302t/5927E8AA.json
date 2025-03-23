@@ -1,0 +1,94 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<DD617D21>",
+      "<ACF3531A>": "Yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...You wanna make new\nRemembrance Stones, eh?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<D9DD8DC9>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, that's the idea. And I was hoping\nyou'd be willing to carve the names..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<F0599061>",
+      "<ACF3531A>": "Yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, well. It's an honor to be chosen for\nan illustrious task such as that, to be sure."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<86FE78F9>",
+      "<ACF3531A>": "Yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Of course I'll rise to the occasion.\nI do owe you for the rescue, anyway."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<9BDE9E21>",
+      "<ACF3531A>": "Yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll get my preparations in order.\nLet's pick this up later, all right?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<84299D59>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sure thing. We'll be waiting\nin the Central Plaza."
+    }
+  ]
+}

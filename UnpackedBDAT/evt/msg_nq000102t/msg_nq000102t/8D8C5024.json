@@ -1,0 +1,124 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<25D6299B>",
+      "<ACF3531A>": "@Y1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh! Customer?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<AD208FE0>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nah, Shillshill asked us to help\nout with some register thing."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<958942C4>",
+      "<ACF3531A>": "@Y1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, that time already?\nDays pass so fast."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<921CEAE4>",
+      "<ACF3531A>": "@Y1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Papana have blue stone for you.\nPlease give to Shillshill."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<F7EF0461>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll take good care of it."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<23A8986C>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wow, all we have to do is\nmention Shillshill's name.\nPretty convenient, right?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<E6BA6827>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Makes our job easier."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<A71C4F82>",
+      "<ACF3531A>": "@Y1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Do not lump everyone with forgetful\nHazidazi! Papana have extremely\ngood memory skills."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<11908880>",
+      "<ACF3531A>": "@Y1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, item to be handed over has been\nhanded over. Rest is up to friends."
+    }
+  ]
+}

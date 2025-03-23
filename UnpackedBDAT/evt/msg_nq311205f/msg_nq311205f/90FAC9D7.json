@@ -1,0 +1,384 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<F90D56CA>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That hammer... I reckon I know what it is."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<1282AFB5>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, so, I'm asking.\nWill you do a favor for-?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<34D016BF>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Friends have to leave. Fixifixi not able\nto use this hammer any more."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<B57C50AC>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Fixing...have no more meaning..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<158147AB>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What does that mean...?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<19E7CFA1>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<C0AFB70F>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, the silent type, are you?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<D824CC3B>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He doesn't have a reason\nto talk to us, I guess...?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<E3D1DF20>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Masterpon!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<855947CF>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<D77142A4>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Valdi...?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<69DF5C27>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Masterpon, it is you!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<AE614D70>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What are you doing here?\nCan't you come out?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<6ABFCA02>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Valdi... Fixifixi is tired."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<061E9217>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Make thing, fix thing, nothing have\nmeaning. Everything get broke,\ndamaged, stolen."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<A9170439>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All people of Aionios\nonly doing fighting..."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<565A8A5C>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Is that how you think of me, too?\nIs that how you felt, back then?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<149DC7B4>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh...?"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<89DB5CEA>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "\"Be a friend to all, and an enemy of none.\""
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<7019E156>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Your words, Masterpon. And this\ngauntlet's served me well all this\ntime."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<16C94451>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now it's my turn to be there for you."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<2E8923F2>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Valdi..."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<4601F3B4>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "First, come out!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<C0F9C6FC>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm worried about you, Masterpon."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<7EA1A551>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<03AD4F6F>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Friends want Fixifixi make something?\nThen Fixifixi have to go to workshop."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<663065A8>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But you said you were tired..."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<2C6D9F2E>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Fixifixi not stand idly by\nwhile apprentice fight."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<EF517789>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If Fixifixi do that, then Fixifixi\nbecome enemy of self."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<DE20BE43>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Masterpon...!"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<CB7D6168>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "These are the coordinates. Will\nyou be OK going by yourself?"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<BDA729A7>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Fixifixi get there."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<AE5D83F9>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It too soon for Valdi to support Fixifixi!"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<BCC16E07>",
+      "<ACF3531A>": "ta1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Fixifixi show Valdi how masterpon work!"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<69A54524>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Looking forward to it, Masterpon!"
+    }
+  ]
+}

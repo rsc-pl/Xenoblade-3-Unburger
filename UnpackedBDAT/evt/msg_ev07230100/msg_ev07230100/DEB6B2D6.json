@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<2D00ED0C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ghondor!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<3D765207>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It's just a scratch. Keep goin'!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<1FED187D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Mind your own ship, dag!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<8A1D599A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](desperate gasp)"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<81253320>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Distance to vortex rim, 300 and falling!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<02ABE7B6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Powering shields to max!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<8E1FF642>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Noah! When punch through, open throttle to full!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<C9CE079A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We climb up flow in one big swell!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<1CA560D4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Roger that!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<7F68A969>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](adlib exert?)"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<5C923A28>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Kh... We can't...take much more!"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<2413EEC8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Get in, Ouroboros!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<2E020773>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Over there... The center!"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<0C90B1A5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Riku! Deploy the ram!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<53780187>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Riku on it!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<B2041B47>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We've got a clear shot!"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<A02CFCB2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Here goes!"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<DC790BCE>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Origin..."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<DB88A7A8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Almost like a Ferronis, huh?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<23002C46>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The original Ferronis..."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<C6065239>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This one's the first?"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<D7D403BD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Not just first... I think all Ferronises"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<81C7D03E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "derived from this one right here."
+    }
+  ]
+}

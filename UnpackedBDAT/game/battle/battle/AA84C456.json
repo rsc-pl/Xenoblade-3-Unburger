@@ -1,0 +1,3240 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<5309A988>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts maximum HP by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<C6437B5F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts maximum HP by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<39FA6C74>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Attack by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<1BE16B7B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Healing by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<FC26CF0F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Dexterity by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<6A807402>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Agility by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<DA280E87>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Critical Rate by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<531429EA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Physical Defense by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<60672594>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Ether Defense by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<7E13CB85>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Block Rate by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<67B92EBC>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases maximum HP by [ML:EnhanceParam paramtype=1 ]."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<00D8AD82>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Attack by [ML:EnhanceParam paramtype=1 ]."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<96845AF7>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Healing by [ML:EnhanceParam paramtype=1 ]."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<25700D19>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Dexterity by [ML:EnhanceParam paramtype=1 ]."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<8C820745>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Agility by [ML:EnhanceParam paramtype=1 ]."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<22D84240>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Critical Rate by [ML:EnhanceParam paramtype=1 ]\npercentage points."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<6A935B43>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Physical Defense\nby [ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<5E63E977>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Ether Defense by [ML:EnhanceParam paramtype=1 ]\npercentage points."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<ACCD6B50>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Block Rate by [ML:EnhanceParam paramtype=1 ]\npercentage points."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<C4B868CE>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt to\nTerrestrial Life by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<564CA266>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt to\nAquatic Life by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<693A60AE>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<980E1196>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt to\nAerial Life by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<34637330>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Evades attacks. Also boosts damage\ndealt to Aerial Life by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<E79E3354>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<F18462EA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt to\nKeves Forces by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<EF78D8B0>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt to\nAgnus Forces by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<51731EE9>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Generates more aggro and\nboosts damage to Agnus Forces\nby [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<CFCCCCF7>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt to\nMachines by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<4C011F2C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Deals [ML:EnhanceParam paramtype=1 ]% of Attack damage\nwhen you take damage."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<2C68AC58>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Deals [ML:EnhanceParam paramtype=1 ]% of Attack damage\nwhen you evade an attack."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<0790C228>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Heals self when auto-attack hits,\nto a maximum of [ML:EnhanceParam paramtype=3 ]%\nof Healing Power."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<6EE2F327>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Heals self when auto-attack hits,\nto a maximum of [ML:EnhanceParam paramtype=3 ]%\nof Healing Power. (Minor effect.)"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<57D782B2>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Heals self when auto-attack hits,\nto a maximum of [ML:EnhanceParam paramtype=3 ]%\nof Healing Power. (Medium effect.)"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<2C1F109A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Heals self when auto-attack hits,\nto a maximum of [ML:EnhanceParam paramtype=3 ]%\nof Healing Power. (Major effect.)"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<2873E058>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Heals nearby allies when Art hits,\nto max of [ML:EnhanceParam paramtype=3 ]% of Healing Power."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<9E6B7232>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<29E8469A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases critical hit damage bonus\nby [ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<B1DA4072>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Adds [ML:EnhanceParam paramtype=1 ]% chance\nto strike twice per auto-attack."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<32410922>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt when\nattacking from the front by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<8A0D76AE>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Evades attacks. Also boosts\ndamage when attacking from\nthe front by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<ABC98644>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt when\nattacking from the side by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<874DC5CF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt when\nattacking from behind by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<1DC83C3F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt when\nattacking toppled enemies\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<2ADE2F56>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt when\nattacking launched enemies\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<E6FDDC5C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage to launched enemies\nby [ML:EnhanceParam paramtype=1 ]%. Also evades attacks while\nArt is active."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<B49249BE>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Smash damage by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<7B2CE5B5>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt when\nattacking dazed enemies by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<B3055920>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Extends duration when quelling\nenemy rage with Burst by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<BCD2C45F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt when\nattacking higher-level\nenemies by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<4D71AF67>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt while an ally\nis incapacitated by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<EB83103E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Adds [ML:EnhanceParam paramtype=1 ]% chance for attack\nto be unblockable."
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<1D2277F7>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Unblockable. Also deals damage that\nignores defense."
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<78A02176>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=2 ]%\nwhen HP is at [ML:EnhanceParam paramtype=1 ]% or lower."
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<C47CDC72>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=2 ]%\nwhen HP is at [ML:EnhanceParam paramtype=1 ]% or higher."
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<C3B26637>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=2 ]%\nwhen HP is at 100%."
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<FC9CBF99>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=2 ]%\nfor the first [ML:EnhanceParam paramtype=1 ] seconds of battle."
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<2C19DE90>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by\n[ML:EnhanceParam paramtype=1 ]% per enemy defeated\n(to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<ADCBA62A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Extends Break duration by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<8FCFC856>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Extends Topple duration by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<40F5A785>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Extends Launch duration [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<E59BE277>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Extends Daze duration by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<F68906C8>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts auto-attack damage\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<039E8EBF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Critical Rate of auto-attacks\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<4DC3F28F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts accuracy of auto-attacks\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<EFD6EB65>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt when\nattacking enemies targeting you\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<050257F5>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt\nindoors by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<8FA744EF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt\noutdoors by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<66E2C88B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Lowers attack targets' Break\nresistance by [ML:EnhanceParam paramtype=1 ] percentage\npoints."
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<D77816A4>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<5E44B5C3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<6F765DB7>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<B589CB2D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When blocking, adds [ML:EnhanceParam paramtype=1 ]% chance\nto reduce damage to 0."
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<F9170C58>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When blocking, adds [ML:EnhanceParam paramtype=1 ]% chance\nto absorb a physical attack."
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<93EA0262>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When blocking, adds [ML:EnhanceParam paramtype=1 ]% chance\nto absorb an ether attack."
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<7B3371B2>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Absorb attacks taken while Art is\nactive; also become stronger for\na time."
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<A5180447>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When blocking, deals [ML:EnhanceParam paramtype=1 ]%\nof Attack damage to enemy,\ndrawing aggro."
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<4249D5C6>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When blocking, adds [ML:EnhanceParam paramtype=1 ]%\nchance to reflect attack. (Absorbed\nattacks cannot be reflected.)"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<9C22885B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts evasion by [ML:EnhanceParam paramtype=2 ]% when\nHP is at [ML:EnhanceParam paramtype=1 ]% or lower."
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<04CA8442>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts evasion by [ML:EnhanceParam paramtype=1 ]%\nwhile moving."
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<688DB1A5>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts evasion by [ML:EnhanceParam paramtype=1 ]%\nwhile stationary or auto-attacking."
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<16C363B1>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts evasion by [ML:EnhanceParam paramtype=1 ]%\nwhile Art is active."
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<94F98D21>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Block Rate by [ML:EnhanceParam paramtype=2 ] percentage\npoints when HP is at [ML:EnhanceParam paramtype=1 ]% or lower."
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<DA07A394>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<5F82A9BA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces damage taken by [ML:EnhanceParam paramtype=2 ]%\nwhen HP is at [ML:EnhanceParam paramtype=1 ]% or lower."
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<5390072E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<39375936>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Break resistance\nby [ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<1A2BA1DA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Topple resistance\nby [ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<A5A3170A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Launch resistance\nby [ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<22CFD633>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Smash resistance\nby [ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<1E5037A9>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Daze resistance\nby [ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<6DFBDA5C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<81734921>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Blowdown resistance\nby [ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<8E1DF3B7>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Knockback resistance\nby [ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<2BCB6027>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces aggro generated from\nauto-attacks by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<841CCC08>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts aggro generated from\nauto-attacks by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<F4291D0D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces aggro generated when\nusing Art by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<14C93EC8>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts aggro generated when\nusing Art by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<1AB1FFC9>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Deals damage that ignores defense.\nAlso boosts aggro generated when\nusing Art by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<47055F0A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Evades attacks. Also boosts aggro\ngenerated when using Art by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<8E88557E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts aggro reduction over time\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<4B454F2E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Accrues Aggro every second."
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<64813517>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Accrues Aggro every second.\n(Minor effect.)"
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<DD035830>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Accrues Aggro every second.\n(Medium effect.)"
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<F85DE7E0>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Accrues Aggro every second.\n(Major effect.)"
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<BFD40CCE>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Accrues Aggro every second.\n(Extra-major effect.)"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<D60DC966>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Start each battle with aggro."
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<D079F3EB>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts aggro generated from\ndealing damage by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<2C2ABFA7>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases HP restored when\nreviving an ally by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<8E09634C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When helping an incapacitated ally,\nrevives them with [ML:EnhanceParam paramtype=1 ]% more HP;\nalso raises Healing by [ML:EnhanceParam paramtype=2 ]."
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<B665D362>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Restores nearby allies' HP on Art\nexecution. Amount healed is equal\nto [ML:EnhanceParam paramtype=1 ]% of user's Healing."
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<7EEF21F4>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts amount of HP healed from\nusing healing Arts by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<9AF02DC5>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces aggro generated from\nhealing Arts by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<6A1BF48C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts amount of HP restored\nto self by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 115,
+      "<8C7DD24D>": "<A3A733CA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to heal using\n[ML:EnhanceParam paramtype=2 ]% of Healing Power\nupon taking damage."
+    },
+    {
+      "$id": 116,
+      "<8C7DD24D>": "<81263DBC>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to heal nearby\nallies upon taking damage,\nusing [ML:EnhanceParam paramtype=2 ]% of Healing Power."
+    },
+    {
+      "$id": 117,
+      "<8C7DD24D>": "<FF1B90BF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When canceling, boosts\ndamage dealt by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 118,
+      "<8C7DD24D>": "<932476DD>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Evades attacks, and boosts damage\ndealt when canceling by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 119,
+      "<8C7DD24D>": "<A97194EB>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to survive a KO with\n1 HP and five seconds of invincibility\n(once per battle, does not stack)."
+    },
+    {
+      "$id": 120,
+      "<8C7DD24D>": "<5A2E9306>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts accuracy during the night\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 121,
+      "<8C7DD24D>": "<3CC76588>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts accuracy during the day\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 122,
+      "<8C7DD24D>": "<1DCFBAED>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts power of buff effects issued\nby self by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 123,
+      "<8C7DD24D>": "<6C8E96CD>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Extends duration of buff effects\nissued by self by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 124,
+      "<8C7DD24D>": "<BDA2609D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts power of debuffs applied\nto enemies by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 125,
+      "<8C7DD24D>": "<FAEF87E0>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Extends duration timers of debuffs\napplied to enemies by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 126,
+      "<8C7DD24D>": "<2D930692>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases success rate of debuff\neffects by [ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 127,
+      "<8C7DD24D>": "<D46C49D8>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Extends debuff effect duration by\n[ML:EnhanceParam paramtype=1 ]% when Art hits."
+    },
+    {
+      "$id": 128,
+      "<8C7DD24D>": "<66F46FB7>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Fills Chain Attack gauge slightly\non critical hit."
+    },
+    {
+      "$id": 129,
+      "<8C7DD24D>": "<B371BA2D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Fills Chain Attack gauge slightly\non Art execution."
+    },
+    {
+      "$id": 130,
+      "<8C7DD24D>": "<53C7149A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage by [ML:EnhanceParam paramtype=1 ]% for every\nenemy in battle (max. [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 131,
+      "<8C7DD24D>": "<331B7589>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Extends range of ranged attacks."
+    },
+    {
+      "$id": 132,
+      "<8C7DD24D>": "<F858E02E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Heal [ML:EnhanceParam paramtype=1 ]% of all allies' HP\nwhen incapacitated."
+    },
+    {
+      "$id": 133,
+      "<8C7DD24D>": "<48CD4526>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 134,
+      "<8C7DD24D>": "<D91969E9>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Adds [ML:EnhanceParam paramtype=1 ]% chance to reset\nenemy recharge when Art hits."
+    },
+    {
+      "$id": 135,
+      "<8C7DD24D>": "<5557395B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When your attacks are blocked,\nyou are not thrown off-balance."
+    },
+    {
+      "$id": 136,
+      "<8C7DD24D>": "<17B34315>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=2 ]% chance to instantly defeat\nan enemy at [ML:EnhanceParam paramtype=1 ]% HP or lower\n(excluding bosses/uniques)."
+    },
+    {
+      "$id": 137,
+      "<8C7DD24D>": "<2FA36360>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Evades attacks. Also a chance to\ninstantly defeat a near-death enemy\n(excluding bosses/uniques)."
+    },
+    {
+      "$id": 138,
+      "<8C7DD24D>": "<1467A210>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts all allies' accuracy and\nevasion by [ML:EnhanceParam paramtype=1 ]%. Does not stack."
+    },
+    {
+      "$id": 139,
+      "<8C7DD24D>": "<421A8D34>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces aggro generated from\nattacks by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 140,
+      "<8C7DD24D>": "<7D22A1BA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Physical Defense and\nEther Defense by [ML:EnhanceParam paramtype=1 ] percentage\npoints."
+    },
+    {
+      "$id": 141,
+      "<8C7DD24D>": "<9363AA85>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance for own attack to\nbecome a guaranteed hit and to\nevade enemy attacks during it."
+    },
+    {
+      "$id": 142,
+      "<8C7DD24D>": "<4A08A63E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to reflect\nenemy attack."
+    },
+    {
+      "$id": 143,
+      "<8C7DD24D>": "<B1B1DC0B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt to toppled\nand launched targets by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 144,
+      "<8C7DD24D>": "<4CD5ADB0>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Heal [ML:EnhanceParam paramtype=1 ]% of all allies' HP\nwhen defeating an enemy."
+    },
+    {
+      "$id": 145,
+      "<8C7DD24D>": "<B00D0637>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 146,
+      "<8C7DD24D>": "<E74F3CC0>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "If an ally is down/has low HP,\ndeal [ML:EnhanceParam paramtype=1 ]% more damage and\ntake [ML:EnhanceParam paramtype=2 ]% less damage."
+    },
+    {
+      "$id": 147,
+      "<8C7DD24D>": "<9FB346A7>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Slightly boosts damage dealt\nwhen an ally is down/has low HP."
+    },
+    {
+      "$id": 148,
+      "<8C7DD24D>": "<5FA03956>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Greatly boosts damage dealt\nwhen an ally is down/has low HP."
+    },
+    {
+      "$id": 149,
+      "<8C7DD24D>": "<18959100>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Adds [ML:EnhanceParam paramtype=1 ]% chance to block\nenemy combo reactions."
+    },
+    {
+      "$id": 150,
+      "<8C7DD24D>": "<78E518C0>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=1 ]%\nwhen fighting a unique or\nboss monster."
+    },
+    {
+      "$id": 151,
+      "<8C7DD24D>": "<96CD585A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to keep recharge\nwhen using Art."
+    },
+    {
+      "$id": 152,
+      "<8C7DD24D>": "<1DAE9123>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to ignore defense."
+    },
+    {
+      "$id": 153,
+      "<8C7DD24D>": "<D5BAE2BD>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Deals damage that ignores defense."
+    },
+    {
+      "$id": 154,
+      "<8C7DD24D>": "<9F4C816C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Shortens auto-attack interval\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 155,
+      "<8C7DD24D>": "<92EC8869>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases the performance speed of\nauto-attacks by [ML:EnhanceParam paramtype=1 ]% and shortens\ntheir interval by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 156,
+      "<8C7DD24D>": "<28C6F149>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When using Art, reduces HP by\n[ML:EnhanceParam paramtype=1 ]% of current HP."
+    },
+    {
+      "$id": 157,
+      "<8C7DD24D>": "<085E0D88>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When using Art, reduces HP by\n[ML:EnhanceParam paramtype=1 ]% of current HP. Deals damage\nthat ignores defense."
+    },
+    {
+      "$id": 158,
+      "<8C7DD24D>": "<4E595539>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When using Art, reduces HP by\n[ML:EnhanceParam paramtype=1 ]% of current HP. Grants a high\nCritical Rate."
+    },
+    {
+      "$id": 159,
+      "<8C7DD24D>": "<9A7409A3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduce aggro toward self\nwhen Art hits."
+    },
+    {
+      "$id": 160,
+      "<8C7DD24D>": "<D836AC24>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "On critical hit, recharge Art used\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 161,
+      "<8C7DD24D>": "<7A976163>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When HP is at [ML:EnhanceParam paramtype=3 ]% or lower,\nrestore [ML:EnhanceParam paramtype=1 ]% HP each second."
+    },
+    {
+      "$id": 162,
+      "<8C7DD24D>": "<4462E22B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=1 ]%\nwhen using a Talent Art\n(up to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 163,
+      "<8C7DD24D>": "<8F78FF0F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When taking damage, [ML:EnhanceParam paramtype=1 ]%\nchance to inflict Knockback\non assailant."
+    },
+    {
+      "$id": 164,
+      "<8C7DD24D>": "<21A16DB2>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Expands the window of opportunity\nfor canceling by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 165,
+      "<8C7DD24D>": "<65DE5CC6>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Heals all allies when Art hits,\nto a maximum of [ML:EnhanceParam paramtype=3 ]% of\nHealing Power."
+    },
+    {
+      "$id": 166,
+      "<8C7DD24D>": "<107E5E45>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Ignores enemy defense.\nAlso heals all allies to a maximum\nof [ML:EnhanceParam paramtype=3 ]% of Healing Power."
+    },
+    {
+      "$id": 167,
+      "<8C7DD24D>": "<8984DB17>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "While performing guard Arts,\nperiodically recover [ML:EnhanceParam paramtype=1 ]% of HP."
+    },
+    {
+      "$id": 168,
+      "<8C7DD24D>": "<5A24C585>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to evade\nranged attacks."
+    },
+    {
+      "$id": 169,
+      "<8C7DD24D>": "<6957C274>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When incapacitated, aggro does not\nreset, but remains at [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 170,
+      "<8C7DD24D>": "<7D50055A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=1 ]%\neach time an ally is incapacitated\n(to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 171,
+      "<8C7DD24D>": "<5F31F212>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt and Critical\nRate by [ML:EnhanceParam paramtype=1 ]% on critical hit."
+    },
+    {
+      "$id": 172,
+      "<8C7DD24D>": "<E19824E5>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Deal [ML:EnhanceParam paramtype=1 ]% more damage but\ntake [ML:EnhanceParam paramtype=2 ]% more damage."
+    },
+    {
+      "$id": 173,
+      "<8C7DD24D>": "<A1BCB4AF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Deal [ML:EnhanceParam paramtype=2 ]% less damage but\ntake [ML:EnhanceParam paramtype=1 ]% less damage."
+    },
+    {
+      "$id": 174,
+      "<8C7DD24D>": "<C33FCF5C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants [ML:EnhanceParam paramtype=1 ]% resistance to\nall debuffs."
+    },
+    {
+      "$id": 175,
+      "<8C7DD24D>": "<BB19869F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Shortens duration of debuffs on self\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 176,
+      "<8C7DD24D>": "<C999EA6A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Each time you perform a cancel,\nboosts damage dealt by [ML:EnhanceParam paramtype=1 ]%\n(to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 177,
+      "<8C7DD24D>": "<DB94DB26>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When defeating a unique monster,\ngain a Skill or Art."
+    },
+    {
+      "$id": 178,
+      "<8C7DD24D>": "<1E6E2A8F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces enemy physical and\nether defense by [ML:EnhanceParam paramtype=1 ]% during\nChain Attack."
+    },
+    {
+      "$id": 179,
+      "<8C7DD24D>": "<E6C43345>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When an attack hits, spreads\ntarget's debuffs to other enemies\nin range."
+    },
+    {
+      "$id": 180,
+      "<8C7DD24D>": "<3E7DC817>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Recharges Arts for all allies able\nto fight by [ML:EnhanceParam paramtype=1 ]%.\n(Does not affect self.)"
+    },
+    {
+      "$id": 181,
+      "<8C7DD24D>": "<373035C0>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Enemies performing Arts will be\nknocked back."
+    },
+    {
+      "$id": 182,
+      "<8C7DD24D>": "<83FCC413>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage against enemies\nperforming Arts by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 183,
+      "<8C7DD24D>": "<3D339EDB>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Critical Rate against enemies\nperforming Arts by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 184,
+      "<8C7DD24D>": "<0CC49A5D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts accuracy against enemies\nperforming Arts by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 185,
+      "<8C7DD24D>": "<AAA3A70B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Depletes Art recharge.\nAlso boosts damage relative to\nnumber of Arts used up."
+    },
+    {
+      "$id": 186,
+      "<8C7DD24D>": "<9E8984DF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Deals [ML:EnhanceParam paramtype=2 ]% more damage\nagainst enemies who are at\n[ML:EnhanceParam paramtype=1 ]% HP or less."
+    },
+    {
+      "$id": 187,
+      "<8C7DD24D>": "<7C6ABA0C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 188,
+      "<8C7DD24D>": "<5AB03095>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 189,
+      "<8C7DD24D>": "<AC5453EC>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts accuracy by [ML:EnhanceParam paramtype=1 ]% each\ntime an enemy evades an attack\n(up to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 190,
+      "<8C7DD24D>": "<5554BF22>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=2 ]%\nwhen attacking a debuffed enemy."
+    },
+    {
+      "$id": 191,
+      "<8C7DD24D>": "<DC20A8B9>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=2 ]%\nwhen attacking an enemy\nsuffering from Bleed."
+    },
+    {
+      "$id": 192,
+      "<8C7DD24D>": "<6052EE95>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=2 ]%\nwhen attacking an enemy\nsuffering from Blaze."
+    },
+    {
+      "$id": 193,
+      "<8C7DD24D>": "<057D5641>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Applies [ML:EnhanceParam paramtype=1 ] randomly chosen\ndebuff(s) when Art hits."
+    },
+    {
+      "$id": 194,
+      "<8C7DD24D>": "<2E10C73D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Applies [ML:EnhanceParam paramtype=1 ] random buff(s)\nto self."
+    },
+    {
+      "$id": 195,
+      "<8C7DD24D>": "<7A634D75>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Applies [ML:EnhanceParam paramtype=1 ] random buff(s)\nto all allies."
+    },
+    {
+      "$id": 196,
+      "<8C7DD24D>": "<0A8C1505>",
+      "<554EE944>": 0,
+      "<DBAF43F0>": "Applies [ML:EnhanceParam paramtype=1 ] random buff(s)\nto all allies; also fills heat gauge\nslightly when using Art."
+    },
+    {
+      "$id": 197,
+      "<8C7DD24D>": "<578BA492>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Deals [ML:EnhanceParam paramtype=2 ]% of Attack in\ndamage to nearby enemies\nwhen incapacitated."
+    },
+    {
+      "$id": 198,
+      "<8C7DD24D>": "<36DD8958>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Recharges all allies' Arts by [ML:EnhanceParam paramtype=1 ]%\nwhen incapacitated."
+    },
+    {
+      "$id": 199,
+      "<8C7DD24D>": "<995E375E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Arts which are canceled into cannot\nbe blocked or evaded. (Enemy Art\neffects take precedence.)"
+    },
+    {
+      "$id": 200,
+      "<8C7DD24D>": "<9414851E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces damage taken by [ML:EnhanceParam paramtype=1 ]%\nwhile performing Art."
+    },
+    {
+      "$id": 201,
+      "<8C7DD24D>": "<A004F40D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Deals defense-bypassing damage.\nAlso reduces damage taken while\nperforming Art by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 202,
+      "<8C7DD24D>": "<02D23265>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt for each Art\nthat's currently fully recharged."
+    },
+    {
+      "$id": 203,
+      "<8C7DD24D>": "<4BD5AA34>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt for each Art\nwith depleted recharge."
+    },
+    {
+      "$id": 204,
+      "<8C7DD24D>": "<922B3D3D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage from Bleed\nby [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 205,
+      "<8C7DD24D>": "<7EF2340A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage from Blaze\nby [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 206,
+      "<8C7DD24D>": "<07C55B53>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Chained auto-attacks increase\nattack speed. Auto-attack interval\nis also shortened."
+    },
+    {
+      "$id": 207,
+      "<8C7DD24D>": "<CFEF5B97>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Chained auto-attacks increase\nattack speed. Auto-attack interval\nis also shortened. (Minor effect.)"
+    },
+    {
+      "$id": 208,
+      "<8C7DD24D>": "<17D714DC>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Chained auto-attacks increase\nattack speed. Auto-attack interval\nis also shortened. (Medium effect.)"
+    },
+    {
+      "$id": 209,
+      "<8C7DD24D>": "<3E8055AC>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Chained auto-attacks increase\nattack speed. Auto-attack interval\nis also shortened. (Major effect.)"
+    },
+    {
+      "$id": 210,
+      "<8C7DD24D>": "<3E310D20>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Extends stance duration\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 211,
+      "<8C7DD24D>": "<A976A2E1>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Restores [ML:EnhanceParam paramtype=1 ]% of HP when\na buff is applied."
+    },
+    {
+      "$id": 212,
+      "<8C7DD24D>": "<4E9AF72B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Bind when Art hits\nenemy rear."
+    },
+    {
+      "$id": 213,
+      "<8C7DD24D>": "<2780FA73>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Bleed when Art\nhits enemy rear."
+    },
+    {
+      "$id": 214,
+      "<8C7DD24D>": "<78C9EDC7>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Resistance Down when\nArt hits enemy rear."
+    },
+    {
+      "$id": 215,
+      "<8C7DD24D>": "<809CF19E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to avoid waking\nenemy from Sleep when\nauto-attack hits."
+    },
+    {
+      "$id": 216,
+      "<8C7DD24D>": "<12D586F1>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to avoid waking\nenemy from Sleep when Art hits."
+    },
+    {
+      "$id": 217,
+      "<8C7DD24D>": "<EF164C76>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by\nFusion Arts by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 218,
+      "<8C7DD24D>": "<B8738156>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 219,
+      "<8C7DD24D>": "<68385DF4>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts aggro reduction by [ML:EnhanceParam paramtype=1 ]%\nwhen targeted by an enemy."
+    },
+    {
+      "$id": 220,
+      "<8C7DD24D>": "<B528BB7D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When an attack is evaded,\nincreases attacker's aggro towards\nuser."
+    },
+    {
+      "$id": 221,
+      "<8C7DD24D>": "<2C723449>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When an attack is evaded,\nincreases attacker's aggro towards\nuser by a small amount."
+    },
+    {
+      "$id": 222,
+      "<8C7DD24D>": "<31FF40B3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When an attack is evaded,\nincreases attacker's aggro towards\nuser by a large amount."
+    },
+    {
+      "$id": 223,
+      "<8C7DD24D>": "<B6CB14C3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Each attack that hits boosts damage\ndealt by [ML:EnhanceParam paramtype=1 ]% (max. [ML:EnhanceParam paramtype=3 ]%).\nMissing cancels the boost."
+    },
+    {
+      "$id": 224,
+      "<8C7DD24D>": "<5F01D012>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to grant all allies\nAttack Up on a preemptive attack."
+    },
+    {
+      "$id": 225,
+      "<8C7DD24D>": "<5DEC0AD3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants own buffs to all allies."
+    },
+    {
+      "$id": 226,
+      "<8C7DD24D>": "<305B2A7B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt for each\nactive buff."
+    },
+    {
+      "$id": 227,
+      "<8C7DD24D>": "<1EA7D511>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Ignore Blowdown and Launch\nby somersaulting."
+    },
+    {
+      "$id": 228,
+      "<8C7DD24D>": "<D7F09C0F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Ignore Blowdown and Launch by\nsomersaulting. Also has [ML:EnhanceParam paramtype=1 ]%\nchance to grant Attack Up."
+    },
+    {
+      "$id": 229,
+      "<8C7DD24D>": "<D839A6F2>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts recharge speed by [ML:EnhanceParam paramtype=1 ]%\nwhen non-Defenders are targeted."
+    },
+    {
+      "$id": 230,
+      "<8C7DD24D>": "<F8A502F8>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Each elemental discharge boosts\ndamage dealt by [ML:EnhanceParam paramtype=1 ]%\n(up to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 231,
+      "<8C7DD24D>": "<618D01C9>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance on hit to deal [ML:EnhanceParam paramtype=2 ]% of\nAttack power as defense-bypassing\ndamage."
+    },
+    {
+      "$id": 232,
+      "<8C7DD24D>": "<D6F29427>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance on hit to deal [ML:EnhanceParam paramtype=2 ]% of\nHealing Power as defense-bypassing\ndamage."
+    },
+    {
+      "$id": 233,
+      "<8C7DD24D>": "<385EB3E4>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to deal extra\ndamage when inflicting Knockback\nand Blowdown."
+    },
+    {
+      "$id": 234,
+      "<8C7DD24D>": "<B26414FF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Healing an ally boosts\ndamage dealt by [ML:EnhanceParam paramtype=1 ]%\n(up to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 235,
+      "<8C7DD24D>": "<7A6CB502>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=2 ]% chance to prevent attacks on\nallies within a fixed radius."
+    },
+    {
+      "$id": 236,
+      "<8C7DD24D>": "<D12A4DF1>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases field effect duration\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 237,
+      "<8C7DD24D>": "<46ECC77B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts field damage\ndealt by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 238,
+      "<8C7DD24D>": "<BFE152FF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts field dissolution damage by\n[ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 239,
+      "<8C7DD24D>": "<AF133D3C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 240,
+      "<8C7DD24D>": "<E0BB7532>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts speed of ally revival by\n[ML:EnhanceParam paramtype=1 ]% and raises Healing by [ML:EnhanceParam paramtype=2 ]."
+    },
+    {
+      "$id": 241,
+      "<8C7DD24D>": "<D67CC306>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Allows reviving allies even when\nnot in a Healer role."
+    },
+    {
+      "$id": 242,
+      "<8C7DD24D>": "<76C9A830>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to evade\nenemy attack."
+    },
+    {
+      "$id": 243,
+      "<8C7DD24D>": "<D2548AE5>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by physical\nArts by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 244,
+      "<8C7DD24D>": "<45145A9B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by ether Arts\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 245,
+      "<8C7DD24D>": "<2ADE1428>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases reaction success rate by\n[ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 246,
+      "<8C7DD24D>": "<1B5979E9>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Fills Talent Art recharge gauge\nby [ML:EnhanceParam paramtype=1 ]% at start of battle."
+    },
+    {
+      "$id": 247,
+      "<8C7DD24D>": "<B77067C9>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 248,
+      "<8C7DD24D>": "<AF2FBED5>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases damage reduction rate\nwhen blocking by [ML:EnhanceParam paramtype=1 ] percentage\npoints."
+    },
+    {
+      "$id": 249,
+      "<8C7DD24D>": "<DD1B4212>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Heals all allies using [ML:EnhanceParam paramtype=2 ]% of\nHealing Power when executing\na Burst."
+    },
+    {
+      "$id": 250,
+      "<8C7DD24D>": "<F2C338C7>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When landing a hit, deals damage\nas though enemy's physical defense\nwas [ML:EnhanceParam paramtype=1 ]% lower."
+    },
+    {
+      "$id": 251,
+      "<8C7DD24D>": "<B8244DAD>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When landing a hit, deals damage\nas though enemy's ether defense\nwas [ML:EnhanceParam paramtype=1 ]% lower."
+    },
+    {
+      "$id": 252,
+      "<8C7DD24D>": "<FD07A5C0>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Each successful attack boosts\nCritical Rate by [ML:EnhanceParam paramtype=1 ]% of initial value\n(up to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 253,
+      "<8C7DD24D>": "<2C1CFD1B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Removing debuffs boosts own\nHealing Power by [ML:EnhanceParam paramtype=1 ]%\n(up to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 254,
+      "<8C7DD24D>": "<1A244443>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Buffing an ally boosts damage\ndealt by [ML:EnhanceParam paramtype=1 ]%\n(up to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 255,
+      "<8C7DD24D>": "<987DC241>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Debuffing an enemy boosts\ndamage dealt by [ML:EnhanceParam paramtype=1 ]%\n(up to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 256,
+      "<8C7DD24D>": "<6FAB2660>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts accuracy by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 257,
+      "<8C7DD24D>": "<90C26C46>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Evades attacks. Also boosts\naccuracy by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 258,
+      "<8C7DD24D>": "<FBA33163>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts recharge rate for allies\nin a fixed radius by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 259,
+      "<8C7DD24D>": "<38D5E2DA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to remove all buffs\nfrom target upon landing a hit."
+    },
+    {
+      "$id": 260,
+      "<8C7DD24D>": "<DBA42412>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 261,
+      "<8C7DD24D>": "<DA90136D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces damage taken by allies\nin a fixed radius by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 262,
+      "<8C7DD24D>": "<17011203>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=2 ]%\nwhen Awakened."
+    },
+    {
+      "$id": 263,
+      "<8C7DD24D>": "<DDE6B52D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Deals damage that ignores defense.\nAlso boosts damage dealt by [ML:EnhanceParam paramtype=2 ]%\nwhen Awakened."
+    },
+    {
+      "$id": 264,
+      "<8C7DD24D>": "<63B24417>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants Awakening when damage\ntaken exceeds [ML:EnhanceParam paramtype=1 ]% of max HP."
+    },
+    {
+      "$id": 265,
+      "<8C7DD24D>": "<13A1B9F2>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage by discharging\nall elementals on Art execution."
+    },
+    {
+      "$id": 266,
+      "<8C7DD24D>": "<06C755D3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts allies' damage by [ML:EnhanceParam paramtype=1 ]%\nand reduces enemy Block Rate\nby [ML:EnhanceParam paramtype=2 ]% (does not stack)."
+    },
+    {
+      "$id": 267,
+      "<8C7DD24D>": "<D3D5B5B8>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts elemental damage\nby [ML:EnhanceParam paramtype=1 ]% and elemental buff\neffects by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 268,
+      "<8C7DD24D>": "<55C45B48>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts elemental damage\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 269,
+      "<8C7DD24D>": "<C353B2C7>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces damage to allies by\n[ML:EnhanceParam paramtype=1 ]%, and boosts HP recovery\nby [ML:EnhanceParam paramtype=2 ]% (does not stack)."
+    },
+    {
+      "$id": 270,
+      "<8C7DD24D>": "<22C48F11>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants Armor Veil to revived allies."
+    },
+    {
+      "$id": 271,
+      "<8C7DD24D>": "<ADEC18AB>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "On critical, ignore enemy defense.\nAlso increases critical hit damage\nbonus by [ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 272,
+      "<8C7DD24D>": "<A9524C7A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants a small increase to damage\ndealt, based on heat gauge level."
+    },
+    {
+      "$id": 273,
+      "<8C7DD24D>": "<25E7A3D3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants a large increase to damage\ndealt, based on heat gauge level."
+    },
+    {
+      "$id": 274,
+      "<8C7DD24D>": "<FE279BCA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Extends duration of Break, Topple,\nLaunch, Daze whenever Art hits."
+    },
+    {
+      "$id": 275,
+      "<8C7DD24D>": "<82FE00A5>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Evading deals [ML:EnhanceParam paramtype=1 ]% of Attack\ndamage and boosts damage dealt\nby [ML:EnhanceParam paramtype=2 ]% (up to max. of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 276,
+      "<8C7DD24D>": "<3711AA9F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts evasion rate by [ML:EnhanceParam paramtype=1 ]%\nwhen attacked by targeted enemy."
+    },
+    {
+      "$id": 277,
+      "<8C7DD24D>": "<B95F20F0>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage to Moebius\nby [ML:EnhanceParam paramtype=1 ]%. Cannot be blocked."
+    },
+    {
+      "$id": 278,
+      "<8C7DD24D>": "<90E27804>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Revives all allies with critically low\nHP, but applies Overheated status\nand draws enemy aggro."
+    },
+    {
+      "$id": 279,
+      "<8C7DD24D>": "<C2F12F2C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Revives all allies with low HP,\nbut applies Overheated status\nand draws enemy aggro."
+    },
+    {
+      "$id": 280,
+      "<8C7DD24D>": "<A3A7F43C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Deals damage to enemies\nin range each second,\nusing [ML:EnhanceParam paramtype=2 ]% of Attack."
+    },
+    {
+      "$id": 281,
+      "<8C7DD24D>": "<63D554B8>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants a small increase to damage\ndealt (max. [ML:EnhanceParam paramtype=3 ]%) for each buff\nactive on all allies."
+    },
+    {
+      "$id": 282,
+      "<8C7DD24D>": "<796E76BC>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants a large increase to damage\ndealt (max. [ML:EnhanceParam paramtype=3 ]%) for each buff\nactive on all allies."
+    },
+    {
+      "$id": 283,
+      "<8C7DD24D>": "<7C425688>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Decreases all enemies' debuff\nresistance by [ML:EnhanceParam paramtype=1 ] percentage\npoints."
+    },
+    {
+      "$id": 284,
+      "<8C7DD24D>": "<00448BA9>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Makes duration timers of debuffs on\nall enemies tick down [ML:EnhanceParam paramtype=1 ]% slower."
+    },
+    {
+      "$id": 285,
+      "<8C7DD24D>": "<5E9858C7>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Makes duration timers of debuffs on\nall enemies tick down [ML:EnhanceParam paramtype=1 ]% slower.\n(Does not stack.)"
+    },
+    {
+      "$id": 286,
+      "<8C7DD24D>": "<1A3C164B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Pauses the timer on all debuffs\ninflicted on all enemies."
+    },
+    {
+      "$id": 287,
+      "<8C7DD24D>": "<B59766AD>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Extends the buff duration for\nall allies by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 288,
+      "<8C7DD24D>": "<2B8707F8>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Extends the buff duration for all\nallies by [ML:EnhanceParam paramtype=1 ]%. (Does not stack.)"
+    },
+    {
+      "$id": 289,
+      "<8C7DD24D>": "<C34D4985>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Pauses the timer for all buffs on all\nallies."
+    },
+    {
+      "$id": 290,
+      "<8C7DD24D>": "<A06D0BEF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants a small increase to damage\ndealt for each debuff active on all\nenemies (up to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 291,
+      "<8C7DD24D>": "<47672ACB>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants a large increase to damage\ndealt for each debuff active on all\nenemies (up to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 292,
+      "<8C7DD24D>": "<0BBAE1B7>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces damage taken by all allies\nwhile Art is active by [ML:EnhanceParam paramtype=1 ]%. Also\ncounters attacks directed at self."
+    },
+    {
+      "$id": 293,
+      "<8C7DD24D>": "<1FBB1E90>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants [ML:EnhanceParam paramtype=1 ]% resistance to combos\nand reactions while Art is active."
+    },
+    {
+      "$id": 294,
+      "<8C7DD24D>": "<D2DBD195>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants a small increase to damage\ndealt the more enemies target you\n(up to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 295,
+      "<8C7DD24D>": "<4420F17C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants a large increase to damage\ndealt the more enemies target you\n(up to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 296,
+      "<8C7DD24D>": "<BDA12D70>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants a medium increase to damage\ndealt the more enemies target you\n(up to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 297,
+      "<8C7DD24D>": "<26AEC39B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Negates enemy guard, with a\n[ML:EnhanceParam paramtype=1 ]% chance to inflict Break."
+    },
+    {
+      "$id": 298,
+      "<8C7DD24D>": "<AE1B827D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Own combo reactions boost\ndamage dealt by [ML:EnhanceParam paramtype=1 ]%\n(up to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 299,
+      "<8C7DD24D>": "<3A32FD3B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants a small increase to\ndamage dealt when attacking\nenemies during combos."
+    },
+    {
+      "$id": 300,
+      "<8C7DD24D>": "<D97D9E7A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants a large increase to\ndamage dealt when attacking\nenemies during combos."
+    },
+    {
+      "$id": 301,
+      "<8C7DD24D>": "<D7FF5B5F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants [ML:EnhanceParam paramtype=2 ]% resistance to Sleep."
+    },
+    {
+      "$id": 302,
+      "<8C7DD24D>": "<635FA1E8>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants [ML:EnhanceParam paramtype=2 ]% resistance to\nShackle Arts."
+    },
+    {
+      "$id": 303,
+      "<8C7DD24D>": "<D7C3E0F3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants [ML:EnhanceParam paramtype=2 ]% resistance to\nShackle Healing."
+    },
+    {
+      "$id": 304,
+      "<8C7DD24D>": "<A604527D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants [ML:EnhanceParam paramtype=2 ]% resistance to Bind."
+    },
+    {
+      "$id": 305,
+      "<8C7DD24D>": "<14E43D21>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants [ML:EnhanceParam paramtype=2 ]% resistance to\nTarget Lock."
+    },
+    {
+      "$id": 306,
+      "<8C7DD24D>": "<D6B5A179>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants [ML:EnhanceParam paramtype=2 ]% resistance to\nShackle Blocking."
+    },
+    {
+      "$id": 307,
+      "<8C7DD24D>": "<363F8EC3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts effect of Arts with each\ndifferent Art used within a set time."
+    },
+    {
+      "$id": 308,
+      "<8C7DD24D>": "<147A2E9E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When defeating an enemy, recharge\nall allies' Arts by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 309,
+      "<8C7DD24D>": "<5066F00B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=1 ]%\nwhen landing a critical hit\n(up to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 310,
+      "<8C7DD24D>": "<CD43B50D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Critical Rate by [ML:EnhanceParam paramtype=1 ]%\nwhen attacking a launched enemy."
+    },
+    {
+      "$id": 311,
+      "<8C7DD24D>": "<94D2A619>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts healing Arts recharge speed\nby [ML:EnhanceParam paramtype=1 ]% when an ally is at low HP."
+    },
+    {
+      "$id": 312,
+      "<8C7DD24D>": "<A2FCCDCD>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces aggro on self by [ML:EnhanceParam paramtype=1 ]%\nwhen an ally is incapacitated."
+    },
+    {
+      "$id": 313,
+      "<8C7DD24D>": "<F3FFBD63>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Adds [ML:EnhanceParam paramtype=1 ]% chance to grant\nPower Charge when evading."
+    },
+    {
+      "$id": 314,
+      "<8C7DD24D>": "<48DD3761>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Adds [ML:EnhanceParam paramtype=1 ]% chance to grant\nFast Recharge when evading."
+    },
+    {
+      "$id": 315,
+      "<8C7DD24D>": "<7CB69536>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to inflict Target Lock\non enemies whenever an ally's HP\nbecomes critical. Has cooldown."
+    },
+    {
+      "$id": 316,
+      "<8C7DD24D>": "<83FCF14A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt based on the\namount of battle time elapsed."
+    },
+    {
+      "$id": 317,
+      "<8C7DD24D>": "<5958F8E5>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduce aggro toward self by\n[ML:EnhanceParam paramtype=1 ]% when auto-attack hits."
+    },
+    {
+      "$id": 318,
+      "<8C7DD24D>": "<37D01519>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Critical Rate by [ML:EnhanceParam paramtype=1 ]\npercentage points and critical hit\ndamage by [ML:EnhanceParam paramtype=2 ] percentage points."
+    },
+    {
+      "$id": 319,
+      "<8C7DD24D>": "<9E26B950>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts ally revival speed for\neach incapacitated ally."
+    },
+    {
+      "$id": 320,
+      "<8C7DD24D>": "<C466B02C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by\n[ML:EnhanceParam paramtype=1 ]% after receiving no\ndamage for a set time."
+    },
+    {
+      "$id": 321,
+      "<8C7DD24D>": "<6A7594DB>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to grant\nAwakening and Critical Rate Up\non enemy defeat."
+    },
+    {
+      "$id": 322,
+      "<8C7DD24D>": "<C090F7CB>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=1 ]%,\nbut reduces max HP by half."
+    },
+    {
+      "$id": 323,
+      "<8C7DD24D>": "<D65B1C3E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Own auto-attack rate increases\nfor each ally with the same role\nas self."
+    },
+    {
+      "$id": 324,
+      "<8C7DD24D>": "<3110D7E4>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt for each\nSoulhacker Art or Skill learned."
+    },
+    {
+      "$id": 325,
+      "<8C7DD24D>": "<1FD976D8>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces damage taken for each\nSoulhacker Art or Skill learned."
+    },
+    {
+      "$id": 326,
+      "<8C7DD24D>": "<0148229E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts amount of HP healed for each\nSoulhacker Art or Skill learned."
+    },
+    {
+      "$id": 327,
+      "<8C7DD24D>": "<A16755CC>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces healing Art effects by [ML:EnhanceParam paramtype=2 ]%\nbut makes recharge [ML:EnhanceParam paramtype=1 ]% faster."
+    },
+    {
+      "$id": 328,
+      "<8C7DD24D>": "<B49626BF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to grant [ML:EnhanceParam paramtype=2 ]\nrandom buff(s) when an ally\nis incapacitated."
+    },
+    {
+      "$id": 329,
+      "<8C7DD24D>": "<99BBE917>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces damage taken by [ML:EnhanceParam paramtype=1 ]%\nwhen recharge for all Arts\nis depleted."
+    },
+    {
+      "$id": 330,
+      "<8C7DD24D>": "<D7CB3D2E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Own Arts gain [ML:EnhanceParam paramtype=1 ]% recharge\nwhen an ally is incapacitated."
+    },
+    {
+      "$id": 331,
+      "<8C7DD24D>": "<F8A291BF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "On blocking, boosts recharge of\none Art at random by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 332,
+      "<8C7DD24D>": "<29C7B277>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Restores [ML:EnhanceParam paramtype=1 ]% of HP when at\nlow HP. Has cooldown."
+    },
+    {
+      "$id": 333,
+      "<8C7DD24D>": "<C2CEA6CA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Applies Target Lock to all enemies\nupon own revival. Has cooldown."
+    },
+    {
+      "$id": 334,
+      "<8C7DD24D>": "<00D3F2A3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "After own revival, deal [ML:EnhanceParam paramtype=1 ]%\nmore damage and take [ML:EnhanceParam paramtype=2 ]% less\ndamage for a fixed time."
+    },
+    {
+      "$id": 335,
+      "<8C7DD24D>": "<B49F4ACF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When low on HP, a random ally\ntakes the damage you receive.\nThe damage is boosted by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 336,
+      "<8C7DD24D>": "<40ED50DF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Buffs self with Power Charge\nwhen Art hits."
+    },
+    {
+      "$id": 337,
+      "<8C7DD24D>": "<1D66D1AE>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Other Arts recover [ML:EnhanceParam paramtype=1 ]% recharge\nwhen Art hits."
+    },
+    {
+      "$id": 338,
+      "<8C7DD24D>": "<ECCE9E13>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Evades enemy attacks while\nArt is active."
+    },
+    {
+      "$id": 339,
+      "<8C7DD24D>": "<5E1BB978>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Blocks enemy attacks while\nArt is active."
+    },
+    {
+      "$id": 340,
+      "<8C7DD24D>": "<98BAD261>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants a high Critical Rate;\nalso evades enemy attacks\nwhile Art is active."
+    },
+    {
+      "$id": 341,
+      "<8C7DD24D>": "<0B62A32D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Deals defense-bypassing damage;\nalso evades attacks while Art is\nactive."
+    },
+    {
+      "$id": 342,
+      "<8C7DD24D>": "<2EFDD188>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "While Art is active, evades\nenemy attacks at the cost of\na low Critical Rate."
+    },
+    {
+      "$id": 343,
+      "<8C7DD24D>": "<741922AC>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants a high Critical Rate."
+    },
+    {
+      "$id": 344,
+      "<8C7DD24D>": "<E681FDD1>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 345,
+      "<8C7DD24D>": "<42A0A4EF>",
+      "<554EE944>": 0,
+      "<DBAF43F0>": "Inflicts Accuracy Down upon\nlanding hit."
+    },
+    {
+      "$id": 346,
+      "<8C7DD24D>": "<6393454D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants Critical Rate Up\non Art execution."
+    },
+    {
+      "$id": 347,
+      "<8C7DD24D>": "<25A64690>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants Critical Hit Plus\non Art execution."
+    },
+    {
+      "$id": 348,
+      "<8C7DD24D>": "<C0EFF2FD>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 349,
+      "<8C7DD24D>": "<620A3482>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Deals defense-bypassing damage\nand grants Break > Topple > Launch."
+    },
+    {
+      "$id": 350,
+      "<8C7DD24D>": "<A85A53B6>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Nullifies Knockback and Blowdown\nwhile Art is active."
+    },
+    {
+      "$id": 351,
+      "<8C7DD24D>": "<4E5E5F18>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Halves own aggro value."
+    },
+    {
+      "$id": 352,
+      "<8C7DD24D>": "<7A9C9C8B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Fully removes own aggro."
+    },
+    {
+      "$id": 353,
+      "<8C7DD24D>": "<4074074A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts evasion by [ML:EnhanceParam paramtype=1 ]% and\nreduces damage dealt by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 354,
+      "<8C7DD24D>": "<C8035248>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces damage taken by [ML:EnhanceParam paramtype=1 ]%\nand damage dealt by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 355,
+      "<8C7DD24D>": "<2E4E08CE>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Attacks become unblockable and\ndamage dealt is boosted by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 356,
+      "<8C7DD24D>": "<CA251E16>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts auto-attack and Arts speed.\nAlso raises damage taken by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 357,
+      "<8C7DD24D>": "<B2982262>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Deal [ML:EnhanceParam paramtype=1 ]% more and\ntake [ML:EnhanceParam paramtype=2 ]% less damage while\nwithin a field effect."
+    },
+    {
+      "$id": 358,
+      "<8C7DD24D>": "<CBBB5282>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Arts recharge speed\nby [ML:EnhanceParam paramtype=1 ]% and increases damage\ntaken by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 359,
+      "<8C7DD24D>": "<4931053C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=1 ]%,\nbut reduces HP when using Arts."
+    },
+    {
+      "$id": 360,
+      "<8C7DD24D>": "<2D11069A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Deals continuous damage to\nenemies in a fixed radius and\ndraws more aggro."
+    },
+    {
+      "$id": 361,
+      "<8C7DD24D>": "<C8253AA3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Continuously heals nearby\nallies' HP, boosts recharge speed\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 362,
+      "<8C7DD24D>": "<D551AC83>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=1 ]% and\ndamage taken by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 363,
+      "<8C7DD24D>": "<5AB4AD2E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Block Rate by [ML:EnhanceParam paramtype=1 ]% and\nreduces damage dealt by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 364,
+      "<8C7DD24D>": "<54002C42>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Critical Rate by [ML:EnhanceParam paramtype=1 ]%\nand critical hit damage bonus by\n[ML:EnhanceParam paramtype=2 ] percentage points."
+    },
+    {
+      "$id": 365,
+      "<8C7DD24D>": "<ABE09223>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts back attack damage by\n[ML:EnhanceParam paramtype=1 ]% and reduces aggro drawn\nwhen attacking."
+    },
+    {
+      "$id": 366,
+      "<8C7DD24D>": "<E75D3279>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=1 ]%\nand aggro drawn when attacking\nby [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 367,
+      "<8C7DD24D>": "<10B84A3A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=1 ]%\nand damage taken by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 368,
+      "<8C7DD24D>": "<EE82CD76>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts Arts recharge speed\nby [ML:EnhanceParam paramtype=1 ]% and shortens auto-attack\nintervals by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 369,
+      "<8C7DD24D>": "<8B7D9F29>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 370,
+      "<8C7DD24D>": "<BAE820F0>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces damage taken by [ML:EnhanceParam paramtype=1 ]%\nand damage dealt by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 371,
+      "<8C7DD24D>": "<4889DB2F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts evasion by [ML:EnhanceParam paramtype=1 ]% but\nreduces damage dealt by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 372,
+      "<8C7DD24D>": "<2B083807>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Attacks during Chain Attack gain\n[ML:EnhanceParam paramtype=1 ]% chance to bypass defense."
+    },
+    {
+      "$id": 373,
+      "<8C7DD24D>": "<DE198F52>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces Attacker and Healer aggro\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 374,
+      "<8C7DD24D>": "<931708A0>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces enemy physical defense\nby [ML:EnhanceParam paramtype=1 ] percentage points during\nChain Attack."
+    },
+    {
+      "$id": 375,
+      "<8C7DD24D>": "<6AD9B27D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces enemy ether defense\nby [ML:EnhanceParam paramtype=1 ] percentage points during\nChain Attack."
+    },
+    {
+      "$id": 376,
+      "<8C7DD24D>": "<82B3F4C8>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Attacks during Chain Attack gain\n[ML:EnhanceParam paramtype=1 ]% chance to be unblockable."
+    },
+    {
+      "$id": 377,
+      "<8C7DD24D>": "<DC5AA422>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "One additional character is\nreactivated, with [ML:EnhanceParam paramtype=1 ]% chance\nfor [ML:EnhanceParam paramtype=2 ] more."
+    },
+    {
+      "$id": 378,
+      "<8C7DD24D>": "<B763B01D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "[ML:EnhanceParam paramtype=1 ]% chance to revive all downed\nparty members, allowing them to\nparticipate in the Chain Attack."
+    },
+    {
+      "$id": 379,
+      "<8C7DD24D>": "<590C0E0F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Heals all allies for [ML:EnhanceParam paramtype=1 ]% HP and\ngrants them Regenerate."
+    },
+    {
+      "$id": 380,
+      "<8C7DD24D>": "<189FE95A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Defender aggro by\n[ML:EnhanceParam paramtype=1 ]% and grants Attack Up\nto all allies."
+    },
+    {
+      "$id": 381,
+      "<8C7DD24D>": "<613193B2>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Defender aggro by [ML:EnhanceParam paramtype=1 ]%\nand grants Armor Veil to all allies."
+    },
+    {
+      "$id": 382,
+      "<8C7DD24D>": "<62EDC34B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "During Chain Attack, heals [ML:EnhanceParam paramtype=1 ]%\nof damage dealt as HP, up to\n[ML:EnhanceParam paramtype=3 ]% of Healing Power."
+    },
+    {
+      "$id": 383,
+      "<8C7DD24D>": "<31AB7369>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "During Chain Attack, increases\nCritical Rate by [ML:EnhanceParam paramtype=1 ] percentage\npoints."
+    },
+    {
+      "$id": 384,
+      "<8C7DD24D>": "<1CEF8E14>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "During Chain Attack, boosts\ndamage dealt to low HP enemies\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 385,
+      "<8C7DD24D>": "<741C6BBC>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Charges Chain Attack gauge and\ngrants Power Charge to all allies."
+    },
+    {
+      "$id": 386,
+      "<8C7DD24D>": "<755027AA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "During Chain Attack, increases\ncritical hit damage bonus by\n[ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 387,
+      "<8C7DD24D>": "<82982A4A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases damage ratio by [ML:EnhanceParam paramtype=1 ]\npercentage points and grants\nCritical Rate Up to all allies."
+    },
+    {
+      "$id": 388,
+      "<8C7DD24D>": "<A8C5A895>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases damage ratio by [ML:EnhanceParam paramtype=1 ]\npercentage points and grants\nAttack Up to all allies."
+    },
+    {
+      "$id": 389,
+      "<8C7DD24D>": "<D35702CA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases damage ratio by [ML:EnhanceParam paramtype=1 ]\npercentage points and grants\nPower Charge to all allies."
+    },
+    {
+      "$id": 390,
+      "<8C7DD24D>": "<983B68D9>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases damage ratio by [ML:EnhanceParam paramtype=1 ]\npercentage points."
+    },
+    {
+      "$id": 391,
+      "<8C7DD24D>": "<A0EA0A32>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Greatly increases damage ratio and\ndeals defense-bypassing damage."
+    },
+    {
+      "$id": 392,
+      "<8C7DD24D>": "<4FA8E2D2>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Greatly increases damage ratio and\nreduces Attacker and Healer aggro."
+    },
+    {
+      "$id": 393,
+      "<8C7DD24D>": "<CD330B5E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Greatly increases damage ratio and\nfully heals all allies."
+    },
+    {
+      "$id": 394,
+      "<8C7DD24D>": "<A0EA5E8C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Greatly increases damage ratio and\nfully heals all allies."
+    },
+    {
+      "$id": 395,
+      "<8C7DD24D>": "<8C14729A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Greatly increases damage ratio and\nreduces Attacker and Healer aggro."
+    },
+    {
+      "$id": 396,
+      "<8C7DD24D>": "<B28B2765>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Greatly increases damage ratio and\ndeals defense-bypassing damage."
+    },
+    {
+      "$id": 397,
+      "<8C7DD24D>": "<65098250>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Slows heat gauge buildup\nover time."
+    },
+    {
+      "$id": 398,
+      "<8C7DD24D>": "<C9144CFF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Extends area of effect of attack Arts\nwhich have one by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 399,
+      "<8C7DD24D>": "<9AD188E2>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Extends area of effect of attack Arts\nwhich have one by [ML:EnhanceParam paramtype=1 ]% and boosts\ntheir damage by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 400,
+      "<8C7DD24D>": "<34194B3A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts all Arts recharge by [ML:EnhanceParam paramtype=1 ]%\nwhen hit by a combo reaction."
+    },
+    {
+      "$id": 401,
+      "<8C7DD24D>": "<F8580C3F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=1 ]%\nwhen in the water."
+    },
+    {
+      "$id": 402,
+      "<8C7DD24D>": "<C852E482>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts recharge speed by [ML:EnhanceParam paramtype=1 ]%\nwhen in the water."
+    },
+    {
+      "$id": 403,
+      "<8C7DD24D>": "<8110CED4>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=1 ]%\nwhen on land."
+    },
+    {
+      "$id": 404,
+      "<8C7DD24D>": "<FE303B40>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts recharge speed by [ML:EnhanceParam paramtype=1 ]%\nwhen on land."
+    },
+    {
+      "$id": 405,
+      "<8C7DD24D>": "<5E18DC99>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=1 ]%\nwhen afflicted with a debuff."
+    },
+    {
+      "$id": 406,
+      "<8C7DD24D>": "<606A140E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces damage taken by [ML:EnhanceParam paramtype=1 ]%\nper enemy defeated (max. [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 407,
+      "<8C7DD24D>": "<126CF251>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Break on enemy when\nattacking from side."
+    },
+    {
+      "$id": 408,
+      "<8C7DD24D>": "<463DAC98>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Topple on enemy when\nattacking from front."
+    },
+    {
+      "$id": 409,
+      "<8C7DD24D>": "<6EB83ED8>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Topple on enemy when\nattacking from side."
+    },
+    {
+      "$id": 410,
+      "<8C7DD24D>": "<6949EAB3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Launch on enemy when\nattacking from side."
+    },
+    {
+      "$id": 411,
+      "<8C7DD24D>": "<1FFD9CFA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Daze on enemy when\nattacking from side."
+    },
+    {
+      "$id": 412,
+      "<8C7DD24D>": "<02BFCC80>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Blowdown on enemy when\nattacking from front."
+    },
+    {
+      "$id": 413,
+      "<8C7DD24D>": "<68B27E4C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Critical Rate by [ML:EnhanceParam paramtype=2 ]%\nwhen attacking from side."
+    },
+    {
+      "$id": 414,
+      "<8C7DD24D>": "<9AC78239>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Critical Rate by [ML:EnhanceParam paramtype=2 ]%\nwhen attacking from back."
+    },
+    {
+      "$id": 415,
+      "<8C7DD24D>": "<D64D8406>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Take attacks for nearby allies with\nlow HP. Damage taken is reduced\nby [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 416,
+      "<8C7DD24D>": "<E9AEE9FB>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When nearby ally is attacked,\ndeal [ML:EnhanceParam paramtype=2 ]% of attack in damage\nto enemy."
+    },
+    {
+      "$id": 417,
+      "<8C7DD24D>": "<68BC7E61>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 418,
+      "<8C7DD24D>": "<FCAA134F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Field range of effect - small"
+    },
+    {
+      "$id": 419,
+      "<8C7DD24D>": "<CB093835>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Field range of effect - medium"
+    },
+    {
+      "$id": 420,
+      "<8C7DD24D>": "<6502D5FC>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Field range of effect - large"
+    },
+    {
+      "$id": 421,
+      "<8C7DD24D>": "<CD295DE8>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 422,
+      "<8C7DD24D>": "<1CFAA6F7>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Break on all enemies when\nInterlink is at level 3."
+    },
+    {
+      "$id": 423,
+      "<8C7DD24D>": "<69F1C117>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Topple on all enemies when\nInterlink is at level 3."
+    },
+    {
+      "$id": 424,
+      "<8C7DD24D>": "<3D5686E8>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Launch on all enemies when\nInterlink is at level 3."
+    },
+    {
+      "$id": 425,
+      "<8C7DD24D>": "<6C479D53>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Smash on all enemies when\nInterlink is at level 3."
+    },
+    {
+      "$id": 426,
+      "<8C7DD24D>": "<3BA40FAA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Daze on all enemies when\nInterlink is at level 3."
+    },
+    {
+      "$id": 427,
+      "<8C7DD24D>": "<C42BBAD5>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Burst on all enemies when\nInterlink is at level 3."
+    },
+    {
+      "$id": 428,
+      "<8C7DD24D>": "<A31F3EC2>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts evasion by [ML:EnhanceParam paramtype=1 ]% while\nQuick Move is active."
+    },
+    {
+      "$id": 429,
+      "<8C7DD24D>": "<2A8DD748>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=1 ]%\nwhen using an Art right after\na Quick Move maneuver."
+    },
+    {
+      "$id": 430,
+      "<8C7DD24D>": "<9BF0ABE1>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When activating Quick Move,\ndeals [ML:EnhanceParam paramtype=2 ]% of Attack as damage\nto any enemies within [ML:EnhanceParam paramtype=1 ]m."
+    },
+    {
+      "$id": 431,
+      "<8C7DD24D>": "<49C6EF96>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Speeds up Interlink Level buildup\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 432,
+      "<8C7DD24D>": "<EB58D375>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Recovers [ML:EnhanceParam paramtype=1 ]% of recharge for\nown Arts upon reviving an ally."
+    },
+    {
+      "$id": 433,
+      "<8C7DD24D>": "<818271B7>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Master Arts will be [ML:EnhanceParam paramtype=1 ]% charged\nwhen starting a battle."
+    },
+    {
+      "$id": 434,
+      "<8C7DD24D>": "<9A497F53>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Ouroboros Powers will be [ML:EnhanceParam paramtype=1 ]%\ncharged when starting a battle."
+    },
+    {
+      "$id": 435,
+      "<8C7DD24D>": "<2C79A628>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Changes role to Defender, granting a\nhigh HP value to take enemy attacks."
+    },
+    {
+      "$id": 436,
+      "<8C7DD24D>": "<4923D77A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Changes role to Defender, giving\nspecialization in evading attacks."
+    },
+    {
+      "$id": 437,
+      "<8C7DD24D>": "<8B7CD055>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Changes role to Attacker, giving\nhigh attack, but low accuracy."
+    },
+    {
+      "$id": 438,
+      "<8C7DD24D>": "<DA48A359>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Changes role to Attacker, giving\nan excellent balance of accuracy\nand evasion."
+    },
+    {
+      "$id": 439,
+      "<8C7DD24D>": "<ADC1695A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Changes role to Healer, giving high\nHealing Power to support allies."
+    },
+    {
+      "$id": 440,
+      "<8C7DD24D>": "<4647D22B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Changes role to Healer, giving\na balanced set of abilities."
+    },
+    {
+      "$id": 441,
+      "<8C7DD24D>": "<8E339D69>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases Class aptitude."
+    },
+    {
+      "$id": 442,
+      "<8C7DD24D>": "<04B1559D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases the no. of positional Arts\nthat can be set to the Arts Palette\nby [ML:EnhanceParam paramtype=1 ]."
+    },
+    {
+      "$id": 443,
+      "<8C7DD24D>": "<FA86ACEC>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases the no. of Field Arts that\ncan be set to the Arts Palette\nby [ML:EnhanceParam paramtype=1 ]."
+    },
+    {
+      "$id": 444,
+      "<8C7DD24D>": "<8BD50345>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reduces heat gauge buildup from\ncanceling one Art into another Art\nin Ouroboros form."
+    },
+    {
+      "$id": 445,
+      "<8C7DD24D>": "<15949C8E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Allows you to cancel one Art into\nanother Art, and raises Art damage\nby [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 446,
+      "<8C7DD24D>": "<829BC283>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Allows you to cancel one Art into\nanother Art, but doing so will fill up\nthe heat gauge slightly."
+    },
+    {
+      "$id": 447,
+      "<8C7DD24D>": "<A288F765>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Grants [ML:EnhanceParam paramtype=2 ]% chance to absorb\nattacks dealt to allies within range."
+    },
+    {
+      "$id": 448,
+      "<8C7DD24D>": "<69B80C1B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases everyone's TP by [ML:EnhanceParam paramtype=1 ]."
+    },
+    {
+      "$id": 449,
+      "<8C7DD24D>": "<2505B0E4>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Randomly increases all characters'\nTP by between [ML:EnhanceParam paramtype=1 ] and [ML:EnhanceParam paramtype=2 ]."
+    },
+    {
+      "$id": 450,
+      "<8C7DD24D>": "<CBC0CA40>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "At start of Chain Attack, increases\nTP by [ML:EnhanceParam paramtype=1 ]."
+    },
+    {
+      "$id": 451,
+      "<8C7DD24D>": "<5C82B517>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 452,
+      "<8C7DD24D>": "<4E881815>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 453,
+      "<8C7DD24D>": "<236EE105>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Multiplies TP by 150% when first\nin line to attack."
+    },
+    {
+      "$id": 454,
+      "<8C7DD24D>": "<6A2775A6>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Multiplies TP by 150% when first\nin line to attack."
+    },
+    {
+      "$id": 455,
+      "<8C7DD24D>": "<34C30D19>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When chosen, multiplies TP from\nnext character to act by 125%.\n(Valid only for this order.)"
+    },
+    {
+      "$id": 456,
+      "<8C7DD24D>": "<4B64FC6F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When chosen, multiplies TP from\nnext character to act by 125%.\n(Valid only for this order.)"
+    },
+    {
+      "$id": 457,
+      "<8C7DD24D>": "<9C6C5DA3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Guarantees a \"Bravo\" rating when\nHero completes an order."
+    },
+    {
+      "$id": 458,
+      "<8C7DD24D>": "<EAB6DD3A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Guarantees a \"Bravo\" rating when\ncharacter completes an order."
+    },
+    {
+      "$id": 459,
+      "<8C7DD24D>": "<B1804D75>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When chosen, Mio gains TP equal to\n100% of Hero's TP (maximum of 99;\nonly applied if Mio can still act)."
+    },
+    {
+      "$id": 460,
+      "<8C7DD24D>": "<AB1C1870>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Multiplies TP by 200% when first\nin line to attack, but TP returns to\npre-action state upon reactivation."
+    },
+    {
+      "$id": 461,
+      "<8C7DD24D>": "<151DFE26>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Multiplies TP by 200% when first\nin line to attack, but TP returns to\npre-action state upon reactivation."
+    },
+    {
+      "$id": 462,
+      "<8C7DD24D>": "<01D91606>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When Hero completes an order,\nadds [ML:EnhanceParam paramtype=1 ] to TP of the character with\nthe most TP, and reactivates them."
+    },
+    {
+      "$id": 463,
+      "<8C7DD24D>": "<44C6B89A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When character completes an order,\nadds [ML:EnhanceParam paramtype=1 ] to TP of the character with\nthe most TP, and reactivates them."
+    },
+    {
+      "$id": 464,
+      "<8C7DD24D>": "<CDB02C55>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reactivates all characters except self\nwhen Hero completes an order."
+    },
+    {
+      "$id": 465,
+      "<8C7DD24D>": "<D8C4E8D5>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Reactivates all characters except self\nwhen character completes an order."
+    },
+    {
+      "$id": 466,
+      "<8C7DD24D>": "<D8B89E90>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Prevents order from completing if it\nreaches 100% through Hero's action,\nletting you select another character."
+    },
+    {
+      "$id": 467,
+      "<8C7DD24D>": "<9C5F69C2>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Prevents order from completing if it\nreaches 100% through character's\naction, letting you select another."
+    },
+    {
+      "$id": 468,
+      "<8C7DD24D>": "<0FE50271>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When chosen, increases TP by [ML:EnhanceParam paramtype=2 ]\nif the enemy is a machine-type."
+    },
+    {
+      "$id": 469,
+      "<8C7DD24D>": "<608CB22C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When chosen, increases TP by [ML:EnhanceParam paramtype=2 ]\nif the enemy is a machine-type."
+    },
+    {
+      "$id": 470,
+      "<8C7DD24D>": "<9DF3E002>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Adds [ML:EnhanceParam paramtype=1 ] TP upon own reactivation."
+    },
+    {
+      "$id": 471,
+      "<8C7DD24D>": "<33BC21F9>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Adds [ML:EnhanceParam paramtype=1 ] TP upon own reactivation."
+    },
+    {
+      "$id": 472,
+      "<8C7DD24D>": "<6E5C449C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When chosen, grants [ML:EnhanceParam paramtype=1 ] TP to all\nactive characters except self."
+    },
+    {
+      "$id": 473,
+      "<8C7DD24D>": "<AF12D6B5>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When chosen, grants [ML:EnhanceParam paramtype=1 ] TP to all\nactive characters except self."
+    },
+    {
+      "$id": 474,
+      "<8C7DD24D>": "<548BA6BA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Multiplies TP by 125% when\nfirst in line to attack, and makes\nall attacks critical."
+    },
+    {
+      "$id": 475,
+      "<8C7DD24D>": "<A1B5DECE>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Multiplies TP by 125% when\nfirst in line to attack, and makes\nall attacks critical."
+    },
+    {
+      "$id": 476,
+      "<8C7DD24D>": "<D66CC4B2>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When chosen, increases damage\nratio by [ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 477,
+      "<8C7DD24D>": "<550A488E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When chosen, increases damage\nratio by [ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 478,
+      "<8C7DD24D>": "<789B8E4C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Guarantees an \"Amazing\" rating when\nHero completes an order, but they\nwon't reactivate in this Chain Attack."
+    },
+    {
+      "$id": 479,
+      "<8C7DD24D>": "<C3586FC3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Guarantees an \"Amazing\" rating when\ncharacter finishes an order, but they\nwon't reactivate in this Chain Attack."
+    },
+    {
+      "$id": 480,
+      "<8C7DD24D>": "<8E41B392>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Either adds [ML:EnhanceParam paramtype=1 ] or removes [ML:EnhanceParam paramtype=2 ] TP\nupon own reactivation."
+    },
+    {
+      "$id": 481,
+      "<8C7DD24D>": "<FC005873>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Either adds [ML:EnhanceParam paramtype=1 ] or removes [ML:EnhanceParam paramtype=2 ] TP\nupon own reactivation."
+    },
+    {
+      "$id": 482,
+      "<8C7DD24D>": "<9E749F5A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When chosen, multiplies the TP of\nall active characters except self by\n120%."
+    },
+    {
+      "$id": 483,
+      "<8C7DD24D>": "<FC1E11AD>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When chosen, multiplies the TP of\nall active characters except self by\n120%."
+    },
+    {
+      "$id": 484,
+      "<8C7DD24D>": "<882C8620>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Multiplies TP by 150% when Hero\ncompletes an order."
+    },
+    {
+      "$id": 485,
+      "<8C7DD24D>": "<95E00756>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Multiplies TP by 150% when\ncharacter completes an order."
+    },
+    {
+      "$id": 486,
+      "<8C7DD24D>": "<C0519FC2>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When chosen, assures self-\nreactivation in addition to the\nstandard no. of reactivations."
+    },
+    {
+      "$id": 487,
+      "<8C7DD24D>": "<9BE28594>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When chosen, assures self-\nreactivation in addition to the\nstandard no. of reactivations."
+    },
+    {
+      "$id": 488,
+      "<8C7DD24D>": "<DA315257>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Multiplies damage ratio increase\nby 1.5x upon completing an order\nthat Hero participates in."
+    },
+    {
+      "$id": 489,
+      "<8C7DD24D>": "<6321DDCF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Multiplies damage ratio increase\nby 1.5x upon completing an order\nthat character participates in."
+    },
+    {
+      "$id": 490,
+      "<8C7DD24D>": "<88B0D207>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Adds [ML:EnhanceParam paramtype=3 ]% chance to restore HP\nby [ML:EnhanceParam paramtype=1 ]% when evading."
+    },
+    {
+      "$id": 491,
+      "<8C7DD24D>": "<27F4D308>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "All Arts except Talent Art gain\n[ML:EnhanceParam paramtype=1 ]% recharge when evading."
+    },
+    {
+      "$id": 492,
+      "<8C7DD24D>": "<CA0C3817>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by [ML:EnhanceParam paramtype=1 ]% each\ntime the character is incapacitated\n(to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 493,
+      "<8C7DD24D>": "<AC31AE04>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Evades attacks. Also boosts damage\nby [ML:EnhanceParam paramtype=1 ]% each time the character is\nincapacitated (to a max. of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 494,
+      "<8C7DD24D>": "<1D8B0D0B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts recharge rate by [ML:EnhanceParam paramtype=1 ]% each\ntime the character is incapacitated\n(to a maximum of [ML:EnhanceParam paramtype=3 ]%)."
+    },
+    {
+      "$id": 495,
+      "<8C7DD24D>": "<9FBDCF1E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When Hero completes an order, adds\n[ML:EnhanceParam paramtype=1 ] to TP of the character with the\nleast TP, and reactivates them."
+    },
+    {
+      "$id": 496,
+      "<8C7DD24D>": "<520D1C80>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When character completes an order,\nadds [ML:EnhanceParam paramtype=1 ] to TP of the character with\nthe least TP, and reactivates them."
+    },
+    {
+      "$id": 497,
+      "<8C7DD24D>": "<259F6678>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Evades attacks. Also boosts aggro\ngenerated when using Art by [ML:EnhanceParam paramtype=1 ]%\nat the cost of a low Critical Rate."
+    },
+    {
+      "$id": 498,
+      "<8C7DD24D>": "<0CF8E3C0>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts evasion by [ML:EnhanceParam paramtype=1 ]% and\nboosts aggro drawn when attacking\nby [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 499,
+      "<8C7DD24D>": "<DE112C03>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Whenever an ally in a fixed radius is\nattacked, boosts recharge of one Art\nat random by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 500,
+      "<8C7DD24D>": "<A4205BD0>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "On critical hit, heal nearby allies to\nmax of [ML:EnhanceParam paramtype=3 ]% of Healing Power."
+    },
+    {
+      "$id": 501,
+      "<8C7DD24D>": "<BC4A5FFE>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 502,
+      "<8C7DD24D>": "<4D18CECE>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts all allies' Critical Rate by\n[ML:EnhanceParam paramtype=1 ]% and critical hit damage by\n[ML:EnhanceParam paramtype=2 ] perc. points. (Does not stack.)"
+    },
+    {
+      "$id": 503,
+      "<8C7DD24D>": "<2DC06672>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt when in range\nof a field effect by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 504,
+      "<8C7DD24D>": "<C7C16005>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases the maximum number of\nfields that can be set from 3 to 4.\n(Does not stack.)"
+    },
+    {
+      "$id": 505,
+      "<8C7DD24D>": "<9586EFC5>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When chosen, adds [ML:EnhanceParam paramtype=1 ] to TP of\nall active characters, and removes\n[ML:EnhanceParam paramtype=2 ] from own TP."
+    },
+    {
+      "$id": 506,
+      "<8C7DD24D>": "<EFB95786>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "When chosen, adds [ML:EnhanceParam paramtype=1 ] to TP of\nall active characters, and removes\n[ML:EnhanceParam paramtype=2 ] from own TP."
+    },
+    {
+      "$id": 507,
+      "<8C7DD24D>": "<B1E3AE21>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts maximum HP, Attack and\nHealing Power by [ML:EnhanceParam paramtype=1 ]% and scatters\nflower petals on using Quick Move."
+    },
+    {
+      "$id": 508,
+      "<8C7DD24D>": "<EE5CEA1C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "The whole party deals [ML:EnhanceParam paramtype=1 ]%\nless damage and takes [ML:EnhanceParam paramtype=2 ]%\nmore damage."
+    },
+    {
+      "$id": 509,
+      "<8C7DD24D>": "<E829ED2A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt by\nUnity Combos by [ML:EnhanceParam paramtype=1 ]%."
+    },
+    {
+      "$id": 510,
+      "<8C7DD24D>": "<4D3F4379>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 511,
+      "<8C7DD24D>": "<E472FEB3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 512,
+      "<8C7DD24D>": "<E8340395>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 513,
+      "<8C7DD24D>": "<A54D5E63>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 514,
+      "<8C7DD24D>": "<62D6C1CA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 515,
+      "<8C7DD24D>": "<12E49F4B>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 516,
+      "<8C7DD24D>": "<8211DE64>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 517,
+      "<8C7DD24D>": "<F5A8E03C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 518,
+      "<8C7DD24D>": "<5F842B29>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 519,
+      "<8C7DD24D>": "<014C9C3F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Inflicts Blaze upon landing hit."
+    },
+    {
+      "$id": 520,
+      "<8C7DD24D>": "<619315DA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 521,
+      "<8C7DD24D>": "<0B9CC60F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Recharge all Arts by [ML:EnhanceParam paramtype=1 ]%\nwhen Talent Art hits."
+    },
+    {
+      "$id": 522,
+      "<8C7DD24D>": "<963A1878>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 523,
+      "<8C7DD24D>": "<F92B6EBC>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 524,
+      "<8C7DD24D>": "<46585D86>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 525,
+      "<8C7DD24D>": "<C05EF926>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Starting a battle with an attack from\nthe back grants the whole party\nFast Recharge."
+    },
+    {
+      "$id": 526,
+      "<8C7DD24D>": "<A466B856>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Starting a battle with an attack from\nthe side grants the whole party\nDecoy."
+    },
+    {
+      "$id": 527,
+      "<8C7DD24D>": "<3F1C391A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Starting a battle with an attack from\nthe side grants the whole party\nArmor Veil."
+    },
+    {
+      "$id": 528,
+      "<8C7DD24D>": "<E6E43177>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Starting a battle with an attack from\nthe back grants the whole party\nCritical Rate Up."
+    },
+    {
+      "$id": 529,
+      "<8C7DD24D>": "<8A5866E6>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Starting a battle with an attack from\nthe side inflicts Launch on the\nenemy."
+    },
+    {
+      "$id": 530,
+      "<8C7DD24D>": "<99BA3524>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Starting a battle with an attack from\nthe back inflicts Break on enemies\nwithin a certain radius."
+    },
+    {
+      "$id": 531,
+      "<8C7DD24D>": "<C8A399CF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Boosts damage dealt to\nFogbeasts by [ML:EnhanceParam paramtype=2 ]%."
+    },
+    {
+      "$id": 532,
+      "<8C7DD24D>": "<48BA2127>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Increases damage bonus when\nexploiting enemy weakness by\n[ML:EnhanceParam paramtype=1 ] percentage points."
+    },
+    {
+      "$id": 533,
+      "<8C7DD24D>": "<E0B342F9>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Multiplies TP by 130% when\nfirst in line to attack, and makes\nall attacks critical."
+    },
+    {
+      "$id": 534,
+      "<8C7DD24D>": "<F7D68247>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Fills the Unity pairing's Special gauge\nby [ML:EnhanceParam paramtype=1 ]% at start of battle."
+    },
+    {
+      "$id": 535,
+      "<8C7DD24D>": "<F10A15EA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Renders all attacks on the party\nineffective for a time.\nDuration: 15 sec. Uses: 1"
+    },
+    {
+      "$id": 536,
+      "<8C7DD24D>": "<BAD64C5F>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Renders all attacks on the party\nineffective for a time.\nDuration: 20 sec. Uses: 1"
+    },
+    {
+      "$id": 537,
+      "<8C7DD24D>": "<DA31D1E3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Renders all attacks on the party\nineffective for a time.\nDuration: 15 sec. Uses: 2"
+    }
+  ]
+}

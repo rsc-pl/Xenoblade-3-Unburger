@@ -1,0 +1,274 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<5849DC51>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm sorry we put you through that."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<395477F8>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's perfectly fine."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<F71A7727>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think you should talk to your\nsoldier in private, though."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<7CD7C350>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let me be clear: we do not bear any\nill-will toward Colony Tau, nor do we-"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<99340AE0>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I didn't mean as a commander."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<116151E2>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "More as...one person to another."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<043187CB>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Your friends... Didn't you want them\nto be happy, rather than toiling and\nstruggling in vain?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<BC4A6833>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<9D956ABD>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And one more thing:"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<C16D86BE>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The pivotal factor is the soil."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<73A210AC>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Soil?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<D37A345B>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Check to make sure that there's\nEarthwormwood growing in your fields."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<49BF3ADD>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll forward the steps you'll need to take\nto your Iris for reference."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<A2981F54>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ehehe..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<8CC883E5>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Did I say something funny?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<0A70D2D5>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No. I'm just pleasantly surprised\nat how earnest you are."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<E724F198>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll take a look as soon as we're back\nat the colony. Oh, and..."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<B7AD7DF8>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you've any problems on your end,\nwould you allow us to lend our support?"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<7F01867F>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Problems...?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<2E938C6C>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It wouldn't feel right if the goodwill\nonly went one way, am I right?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<AD5FF54B>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I understand. Let me consider."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<85396878>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm glad we could talk."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<016F45EE>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll make some wonderful fields yet."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<551309BE>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I look forward to that day."
+    }
+  ]
+}

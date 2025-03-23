@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<12712972>",
+      "<ACF3531A>": "cd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey there! Have you been making\nthe most of all the rope slides?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<6BF15B2D>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah! They've made getting around\nthe forest a real breeze, thanks!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<917AA2BA>",
+      "<ACF3531A>": "cd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, here's a tip then - there's plenty more\nto be found, strung around all over the world."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<55E61726>",
+      "<ACF3531A>": "cd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You'll find them useful, that's a guarantee.\nAnd whenever you do, be grateful to Juniper\nfor teaching you this life-changing skill!"
+    }
+  ]
+}

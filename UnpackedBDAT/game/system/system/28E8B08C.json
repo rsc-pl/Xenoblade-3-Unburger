@@ -1,0 +1,4164 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<C3E4FD23>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<8580AC77>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<6AA7A3CD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aetia Region"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<35571BFB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fornis Region"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<62EEE457>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pentelas Region"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<6E69B264>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Keves Castle Region"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<5306A768>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cadensia Region"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<083408A1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Agnus Castle Region"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<C88AE008>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swordmarch"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<EDE8D03F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Origin"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<1EB25E38>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Amidst Fog"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<32397952>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "City"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<E8164C1A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<A61C4F14>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<F42F522D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<CB7E84C3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<A84BD47A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<76EB5268>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<9D8B4710>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<8BB97B9D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<E0263413>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<35363808>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<5AC8A174>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<8A2A9D18>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<063F0D98>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<2C23800E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<1D9304F9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Yzana Plains"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<8422C08F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Alfeto Valley"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<65E0D3D4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Melnath's Shoulder"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<06544843>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Millick Meadows"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<639C49D5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Captocorn Peak"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<7134C61C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Everblight Plain"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<41220661>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rottswoe Battlescar"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<B234CACE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Melnath's Pass, Upper"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<F03A6BFE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Coolley Pool"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<F439FECE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 9 Command"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<164BA08B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tsang Road"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<50AE0706>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ladras Way"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<DE2DBC91>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Spongy Spud Patch"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<A8227699>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Skyview Falls"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<FC498883>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sonata Saddleback"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<F74236A5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flamii Watering Hole"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<EA160F56>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Svinne Cavity"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<4537E0A7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Berje Belt"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<5D3FE255>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hermit's Alleyway"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<2F8E8AB9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Volff Lair"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<CB508E59>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fuschian Fields"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<D6F1EC01>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Elgares Depths"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<8B5CBADB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Melnath's Pass, Lower"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<A1D24D58>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 9"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<34D018ED>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Gamma"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<4760AE57>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Omega"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<F85B7729>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 0"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<FCA21E72>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gamma, Staging Yard"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<28ECE9E4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Viliera Hill"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<A5A84DBF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Murmur Rise"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<A84C5452>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wraiths' Void"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<EF312BB8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Piula Path"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<70737FCC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Torchlight Hill"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<E8279D8F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 9 Rear Gate"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<39E47F1A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 9 Assembly Square"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<8C0BCA45>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 9 Front Gate"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<4306BBB2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Alfeto Valley Mouth"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<216CE2CB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shark's Jaws Cape"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<D40F3F10>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gura Flava Lowlands"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<45533B90>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Elgares Depths Entrance"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<CDC53E77>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Loch Ciel"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<6B7FD162>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Watchpoint Bridge"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<12F3D857>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Kilmarris Highland"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<D62DD518>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Millick Ravine Way"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<30E7B9F5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Captocorn Pass"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<BEEE7CD8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Spoondrift Gate"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<831A593A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Nocclia Mire"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<611AAA64>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Coolley Lake"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<D36CA322>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gamma, Main Approach"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<71700078>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gava Junction"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<14B1E2B6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gamma, Assembly Yard"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<B3DF27FF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gamma, Back Way"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<9AECB8A7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Kamos Guidepost"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<75E27A8E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Altar of Reception"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<848E59C5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Transcendent Retreat"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<F38D60AB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 9 Barracks"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<F5FDFF97>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 9 Canteen"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<75DE713B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Forward Post Camp"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<25E14ED7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gura Flava Camp"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<5B978109>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hillside Ferronis Hulk"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<D9609C3A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Gamma Canteen"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<7FEEA8BB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Coolley Pool Camp"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<D26400B8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battlescar Ferronis Hulk"
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<D76EF06C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tsang Camp"
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<851300B9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Omega Camp"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<E345BAE1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ladras Camp"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<67D6A796>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<FEC2E84A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Depths Camp"
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<11676468>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cloudkeep"
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<C2FB343A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hall of the Serene"
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<631205C8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<D6AB1AD0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ivory Gaol"
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<FDC6CFE3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ascension Grounds"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<5ECA5563>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Death's Door"
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<31EAE509>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Station Breakroom"
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<8F06F1A4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<08F625D6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Great Sword's Base"
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<CA5092EB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Agnus Castle Barbican"
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<DD008BEA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Erythia Sea"
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<E016A74C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Patulia Bay"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<0FE61F52>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "N'ohm Wetlands"
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<A5070175>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Great Sword Passage"
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<DC7CB5A4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sentridge Harbor"
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<B5835DE4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dock No. 3"
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<5F519720>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Samon's Secret Storage"
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<E1E63091>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hidden Weapon Lab"
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<27D1D83B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vinisog Holm"
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<B51767A7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Corne Island"
+    },
+    {
+      "$id": 115,
+      "<8C7DD24D>": "<5C304257>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Thurbin Island"
+    },
+    {
+      "$id": 116,
+      "<8C7DD24D>": "<B1E0AC60>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Anu Shoals"
+    },
+    {
+      "$id": 117,
+      "<8C7DD24D>": "<BFF49BB6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cape Arcaphor"
+    },
+    {
+      "$id": 118,
+      "<8C7DD24D>": "<C5D26909>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hargan Point"
+    },
+    {
+      "$id": 119,
+      "<8C7DD24D>": "<EB4FBD6E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cay of the Trick Grotto"
+    },
+    {
+      "$id": 120,
+      "<8C7DD24D>": "<91026542>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Baldotas Atoll"
+    },
+    {
+      "$id": 121,
+      "<8C7DD24D>": "<06B538E0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Daedal Isle"
+    },
+    {
+      "$id": 122,
+      "<8C7DD24D>": "<14F0788E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Migrow's Rosary"
+    },
+    {
+      "$id": 123,
+      "<8C7DD24D>": "<78C5745E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Mu"
+    },
+    {
+      "$id": 124,
+      "<8C7DD24D>": "<A9B18750>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lavi Sandbar"
+    },
+    {
+      "$id": 125,
+      "<8C7DD24D>": "<0523A676>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Levnis Workyard"
+    },
+    {
+      "$id": 126,
+      "<8C7DD24D>": "<83E61C33>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Antol Pit"
+    },
+    {
+      "$id": 127,
+      "<8C7DD24D>": "<5CC211C6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Knife's Edge Pass"
+    },
+    {
+      "$id": 128,
+      "<8C7DD24D>": "<6A914031>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pedesto Valley Floor"
+    },
+    {
+      "$id": 129,
+      "<8C7DD24D>": "<E7855E5C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Farlaine Underpass"
+    },
+    {
+      "$id": 130,
+      "<8C7DD24D>": "<2B83AAA3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lost Colony"
+    },
+    {
+      "$id": 131,
+      "<8C7DD24D>": "<4782801B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Krezen Cliffs"
+    },
+    {
+      "$id": 132,
+      "<8C7DD24D>": "<C59077D7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Farview Cape"
+    },
+    {
+      "$id": 133,
+      "<8C7DD24D>": "<C4411452>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brasa Geothermal Belt"
+    },
+    {
+      "$id": 134,
+      "<8C7DD24D>": "<7D8D1C0D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rebellion Cave"
+    },
+    {
+      "$id": 135,
+      "<8C7DD24D>": "<9F8A204E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brasa Spa"
+    },
+    {
+      "$id": 136,
+      "<8C7DD24D>": "<B890EA9C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sea-Gnawed Cave"
+    },
+    {
+      "$id": 137,
+      "<8C7DD24D>": "<68A9105A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Prison Precipice"
+    },
+    {
+      "$id": 138,
+      "<8C7DD24D>": "<A12B0FD8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Food Storage"
+    },
+    {
+      "$id": 139,
+      "<8C7DD24D>": "<5138990E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Li Garte Prison Camp"
+    },
+    {
+      "$id": 140,
+      "<8C7DD24D>": "<91F80035>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Central Cell"
+    },
+    {
+      "$id": 141,
+      "<8C7DD24D>": "<B44B6003>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perimeter Woodland"
+    },
+    {
+      "$id": 142,
+      "<8C7DD24D>": "<C597A84C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Communal Cell Block"
+    },
+    {
+      "$id": 143,
+      "<8C7DD24D>": "<09827F3B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hope's Rest"
+    },
+    {
+      "$id": 144,
+      "<8C7DD24D>": "<D5F19A02>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perimeter Bridge"
+    },
+    {
+      "$id": 145,
+      "<8C7DD24D>": "<1A08D4F4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Central Harbor"
+    },
+    {
+      "$id": 146,
+      "<8C7DD24D>": "<E4033F62>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bed of Woes and Wishes"
+    },
+    {
+      "$id": 147,
+      "<8C7DD24D>": "<627C92AF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Data Archives"
+    },
+    {
+      "$id": 148,
+      "<8C7DD24D>": "<EC1BE18A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 15"
+    },
+    {
+      "$id": 149,
+      "<8C7DD24D>": "<582F12F0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Guard Quarters"
+    },
+    {
+      "$id": 150,
+      "<8C7DD24D>": "<E49504C7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tengate Ruins"
+    },
+    {
+      "$id": 151,
+      "<8C7DD24D>": "<303539D6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Mu Hidden Coast"
+    },
+    {
+      "$id": 152,
+      "<8C7DD24D>": "<CF9535F2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Mu Viewing Deck"
+    },
+    {
+      "$id": 153,
+      "<8C7DD24D>": "<DD5E3EE2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "The Aegis Sea"
+    },
+    {
+      "$id": 154,
+      "<8C7DD24D>": "<6096027C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Irma's Secret Base"
+    },
+    {
+      "$id": 155,
+      "<8C7DD24D>": "<0807A7E4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Oshia's Reef Ravine"
+    },
+    {
+      "$id": 156,
+      "<8C7DD24D>": "<F4318A88>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sea Lizards' Tide Pool"
+    },
+    {
+      "$id": 157,
+      "<8C7DD24D>": "<6A1A5ECA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Needle Reef Beach"
+    },
+    {
+      "$id": 158,
+      "<8C7DD24D>": "<DACE5AFE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hykt's Cove"
+    },
+    {
+      "$id": 159,
+      "<8C7DD24D>": "<87B8ED9F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bannis Path"
+    },
+    {
+      "$id": 160,
+      "<8C7DD24D>": "<00DB0EC4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "The Swordface"
+    },
+    {
+      "$id": 161,
+      "<8C7DD24D>": "<40C0ADC6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fuller Elevator Landing"
+    },
+    {
+      "$id": 162,
+      "<8C7DD24D>": "<6B3BAC14>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Doublecrag Gate"
+    },
+    {
+      "$id": 163,
+      "<8C7DD24D>": "<C061A867>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Thurbin Harbor"
+    },
+    {
+      "$id": 164,
+      "<8C7DD24D>": "<0DA72915>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Erythia Relay Base"
+    },
+    {
+      "$id": 165,
+      "<8C7DD24D>": "<E590345C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Seaspray Lookout"
+    },
+    {
+      "$id": 166,
+      "<8C7DD24D>": "<0DC36BC3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cascade Crossroads"
+    },
+    {
+      "$id": 167,
+      "<8C7DD24D>": "<CDB49E21>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Welkin Falls"
+    },
+    {
+      "$id": 168,
+      "<8C7DD24D>": "<C57DF9E5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ishan Isle"
+    },
+    {
+      "$id": 169,
+      "<8C7DD24D>": "<AB8C13B2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pioneer's Inlet"
+    },
+    {
+      "$id": 170,
+      "<8C7DD24D>": "<29895BB3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "First Pillar Remnant"
+    },
+    {
+      "$id": 171,
+      "<8C7DD24D>": "<C06D826F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 172,
+      "<8C7DD24D>": "<E039BFAF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Eternal Canopy"
+    },
+    {
+      "$id": 173,
+      "<8C7DD24D>": "<A47007E1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Conchrock Beach"
+    },
+    {
+      "$id": 174,
+      "<8C7DD24D>": "<C0401229>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Mu Main Gate"
+    },
+    {
+      "$id": 175,
+      "<8C7DD24D>": "<140C2B3A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fourth Pillar Remnant"
+    },
+    {
+      "$id": 176,
+      "<8C7DD24D>": "<4DBA40E4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sentridge Harbor Control"
+    },
+    {
+      "$id": 177,
+      "<8C7DD24D>": "<CE4FCB3E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Twinpalm Isle"
+    },
+    {
+      "$id": 178,
+      "<8C7DD24D>": "<22404468>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Second Pillar Remnant"
+    },
+    {
+      "$id": 179,
+      "<8C7DD24D>": "<561E6AD4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Third Pillar Remnant"
+    },
+    {
+      "$id": 180,
+      "<8C7DD24D>": "<A33A6195>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Predator's Paw"
+    },
+    {
+      "$id": 181,
+      "<8C7DD24D>": "<923DF4C2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Place of Heroes Past"
+    },
+    {
+      "$id": 182,
+      "<8C7DD24D>": "<D35294C7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Morrack Inlet"
+    },
+    {
+      "$id": 183,
+      "<8C7DD24D>": "<F2AF9EE2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cradle Convoy Shelter"
+    },
+    {
+      "$id": 184,
+      "<8C7DD24D>": "<CE112B4E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hermit's Inlet"
+    },
+    {
+      "$id": 185,
+      "<8C7DD24D>": "<167C0265>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chief's Quarters"
+    },
+    {
+      "$id": 186,
+      "<8C7DD24D>": "<5558BF7C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Searing Strand"
+    },
+    {
+      "$id": 187,
+      "<8C7DD24D>": "<A7143177>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Malevolent Hollow"
+    },
+    {
+      "$id": 188,
+      "<8C7DD24D>": "<4B1C0A97>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Emerald Font"
+    },
+    {
+      "$id": 189,
+      "<8C7DD24D>": "<8DD4804E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Demihuman Gutter"
+    },
+    {
+      "$id": 190,
+      "<8C7DD24D>": "<18CFE11D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Mu, Respite Ranch"
+    },
+    {
+      "$id": 191,
+      "<8C7DD24D>": "<D196D32A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vent Entrance"
+    },
+    {
+      "$id": 192,
+      "<8C7DD24D>": "<CA94D4C5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perimeter Outlet"
+    },
+    {
+      "$id": 193,
+      "<8C7DD24D>": "<98F1739D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Watchtower No. 1"
+    },
+    {
+      "$id": 194,
+      "<8C7DD24D>": "<BFFF5B79>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "West Perimeter Gate"
+    },
+    {
+      "$id": 195,
+      "<8C7DD24D>": "<543DDB39>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mulus Depot"
+    },
+    {
+      "$id": 196,
+      "<8C7DD24D>": "<F833559F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Levnis Workyard Entrance"
+    },
+    {
+      "$id": 197,
+      "<8C7DD24D>": "<BBB6B66C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 198,
+      "<8C7DD24D>": "<0EF5C9A1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Funicular Approach"
+    },
+    {
+      "$id": 199,
+      "<8C7DD24D>": "<43D1CE50>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Relay Base Bridge"
+    },
+    {
+      "$id": 200,
+      "<8C7DD24D>": "<F5F7AC83>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sturc Gully Gate"
+    },
+    {
+      "$id": 201,
+      "<8C7DD24D>": "<F5F777EF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Old Road of Rebirth"
+    },
+    {
+      "$id": 202,
+      "<8C7DD24D>": "<79388C6B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rujah Headwaters"
+    },
+    {
+      "$id": 203,
+      "<8C7DD24D>": "<75DA6884>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fifth Pillar Remnant"
+    },
+    {
+      "$id": 204,
+      "<8C7DD24D>": "<790C5008>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Prison Camp, Freight Gate"
+    },
+    {
+      "$id": 205,
+      "<8C7DD24D>": "<78BF28B6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Radial Outlook"
+    },
+    {
+      "$id": 206,
+      "<8C7DD24D>": "<ACD66A5A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Eternal Elegance"
+    },
+    {
+      "$id": 207,
+      "<8C7DD24D>": "<C5273537>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Headwater Camp"
+    },
+    {
+      "$id": 208,
+      "<8C7DD24D>": "<50846CB4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Anu Shoals Camp"
+    },
+    {
+      "$id": 209,
+      "<8C7DD24D>": "<42521639>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vinisog Holm Camp"
+    },
+    {
+      "$id": 210,
+      "<8C7DD24D>": "<86396A35>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Corne Island Camp"
+    },
+    {
+      "$id": 211,
+      "<8C7DD24D>": "<4D52A38F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Atoll Ferronis Hulk"
+    },
+    {
+      "$id": 212,
+      "<8C7DD24D>": "<F6678974>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sandbar Ferronis Hulk"
+    },
+    {
+      "$id": 213,
+      "<8C7DD24D>": "<CB8500A9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lost Colony Barracks"
+    },
+    {
+      "$id": 214,
+      "<8C7DD24D>": "<1304B9B2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hargan Point Camp"
+    },
+    {
+      "$id": 215,
+      "<8C7DD24D>": "<9B047630>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cell No. 1"
+    },
+    {
+      "$id": 216,
+      "<8C7DD24D>": "<82FF6892>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sea-Gnawed Cave Camp"
+    },
+    {
+      "$id": 217,
+      "<8C7DD24D>": "<8BFD0EAF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Mu Canteen"
+    },
+    {
+      "$id": 218,
+      "<8C7DD24D>": "<19F7DC32>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Mu Barracks"
+    },
+    {
+      "$id": 219,
+      "<8C7DD24D>": "<40E20018>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Inlet Camp"
+    },
+    {
+      "$id": 220,
+      "<8C7DD24D>": "<4CFD7D2B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Central Cell Canteen"
+    },
+    {
+      "$id": 221,
+      "<8C7DD24D>": "<BE2EC942>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Keves Castle"
+    },
+    {
+      "$id": 222,
+      "<8C7DD24D>": "<ED4710F2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hangar, Lower Level"
+    },
+    {
+      "$id": 223,
+      "<8C7DD24D>": "<825C294A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ceale Great Hall"
+    },
+    {
+      "$id": 224,
+      "<8C7DD24D>": "<4162552C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hangar, Passageway"
+    },
+    {
+      "$id": 225,
+      "<8C7DD24D>": "<6F2E8A32>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hangar, Upper Level"
+    },
+    {
+      "$id": 226,
+      "<8C7DD24D>": "<FBCAA574>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Standby Room #1"
+    },
+    {
+      "$id": 227,
+      "<8C7DD24D>": "<8F8FA50D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Standby Room #2"
+    },
+    {
+      "$id": 228,
+      "<8C7DD24D>": "<07035DFE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hull Maintenance Block"
+    },
+    {
+      "$id": 229,
+      "<8C7DD24D>": "<95CF29D4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Middle Drainage"
+    },
+    {
+      "$id": 230,
+      "<8C7DD24D>": "<3B0D2128>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Grace Row"
+    },
+    {
+      "$id": 231,
+      "<8C7DD24D>": "<562C9770>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Goods Transport Shaft"
+    },
+    {
+      "$id": 232,
+      "<8C7DD24D>": "<A62FA032>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Throne Room"
+    },
+    {
+      "$id": 233,
+      "<8C7DD24D>": "<AD8B66F6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Upper Drainage"
+    },
+    {
+      "$id": 234,
+      "<8C7DD24D>": "<D67DAA6D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lower Drainage"
+    },
+    {
+      "$id": 235,
+      "<8C7DD24D>": "<11B63899>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Grand Tower Skygarden"
+    },
+    {
+      "$id": 236,
+      "<8C7DD24D>": "<D18083F5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Storage Area #1"
+    },
+    {
+      "$id": 237,
+      "<8C7DD24D>": "<FB6D7FC4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Storage Area #2"
+    },
+    {
+      "$id": 238,
+      "<8C7DD24D>": "<A2488397>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hangar, Lower: West Gate"
+    },
+    {
+      "$id": 239,
+      "<8C7DD24D>": "<A6BFE3E9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hangar, Lower: East Gate"
+    },
+    {
+      "$id": 240,
+      "<8C7DD24D>": "<CBD23687>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Main Castle Gate"
+    },
+    {
+      "$id": 241,
+      "<8C7DD24D>": "<DD52EAC8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ascension Hall"
+    },
+    {
+      "$id": 242,
+      "<8C7DD24D>": "<9FB00745>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hangar, Upper: Main Gate"
+    },
+    {
+      "$id": 243,
+      "<8C7DD24D>": "<CF14447E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Troop Reserve Section"
+    },
+    {
+      "$id": 244,
+      "<8C7DD24D>": "<D4B3570A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Annihilator Foundations"
+    },
+    {
+      "$id": 245,
+      "<8C7DD24D>": "<7E18721E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Revelation Hall"
+    },
+    {
+      "$id": 246,
+      "<8C7DD24D>": "<1BC9971A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Grand Tower Walkway"
+    },
+    {
+      "$id": 247,
+      "<8C7DD24D>": "<CD50D75F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Drainage Sluice"
+    },
+    {
+      "$id": 248,
+      "<8C7DD24D>": "<BFBF79E2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Grand Tower, Flame Clock"
+    },
+    {
+      "$id": 249,
+      "<8C7DD24D>": "<81C06525>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Queen's Chambers"
+    },
+    {
+      "$id": 250,
+      "<8C7DD24D>": "<8D28C6E2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Storage Area #3"
+    },
+    {
+      "$id": 251,
+      "<8C7DD24D>": "<5444571B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Equipment Storage"
+    },
+    {
+      "$id": 252,
+      "<8C7DD24D>": "<75E57FBE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Upper Water Supply"
+    },
+    {
+      "$id": 253,
+      "<8C7DD24D>": "<20F47263>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Eagus Wilderness"
+    },
+    {
+      "$id": 254,
+      "<8C7DD24D>": "<FA1A86A8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Reith Valley"
+    },
+    {
+      "$id": 255,
+      "<8C7DD24D>": "<69CAE420>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Piento Basin"
+    },
+    {
+      "$id": 256,
+      "<8C7DD24D>": "<5FE437DB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Barren Knoll"
+    },
+    {
+      "$id": 257,
+      "<8C7DD24D>": "<E8D03ACA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Racine's Platter"
+    },
+    {
+      "$id": 258,
+      "<8C7DD24D>": "<0DA64B6A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lake Rezzento"
+    },
+    {
+      "$id": 259,
+      "<8C7DD24D>": "<73349462>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ricoth Wellspring"
+    },
+    {
+      "$id": 260,
+      "<8C7DD24D>": "<E8664B9D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dome of Stahl"
+    },
+    {
+      "$id": 261,
+      "<8C7DD24D>": "<814293C3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Nih'l Valley"
+    },
+    {
+      "$id": 262,
+      "<8C7DD24D>": "<E6EC1046>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Zem's Crossway"
+    },
+    {
+      "$id": 263,
+      "<8C7DD24D>": "<841C0D3A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bennel Cave"
+    },
+    {
+      "$id": 264,
+      "<8C7DD24D>": "<9AAF7627>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Metamural Garden"
+    },
+    {
+      "$id": 265,
+      "<8C7DD24D>": "<3445E651>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Carafe of Plenty"
+    },
+    {
+      "$id": 266,
+      "<8C7DD24D>": "<1C0F7A73>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 4 Medical Quarter"
+    },
+    {
+      "$id": 267,
+      "<8C7DD24D>": "<AB0F00CE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 4 Central Yard"
+    },
+    {
+      "$id": 268,
+      "<8C7DD24D>": "<95A47830>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 4 Council Room"
+    },
+    {
+      "$id": 269,
+      "<8C7DD24D>": "<97A4AD3C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 4 Central Hangar"
+    },
+    {
+      "$id": 270,
+      "<8C7DD24D>": "<EDAD94C4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 4 Observation Deck"
+    },
+    {
+      "$id": 271,
+      "<8C7DD24D>": "<8F23602F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 4"
+    },
+    {
+      "$id": 272,
+      "<8C7DD24D>": "<6C9F8086>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ordell Ravine Way"
+    },
+    {
+      "$id": 273,
+      "<8C7DD24D>": "<1E8FCE86>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Menno Arch"
+    },
+    {
+      "$id": 274,
+      "<8C7DD24D>": "<F75C339C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wall of the Great Hand"
+    },
+    {
+      "$id": 275,
+      "<8C7DD24D>": "<538CFD3E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Galghour's Menhir"
+    },
+    {
+      "$id": 276,
+      "<8C7DD24D>": "<F1B7AD97>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gorge of Odie"
+    },
+    {
+      "$id": 277,
+      "<8C7DD24D>": "<151D3EDB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hegemon's Seat"
+    },
+    {
+      "$id": 278,
+      "<8C7DD24D>": "<58F306C1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 4 Checkpoint"
+    },
+    {
+      "$id": 279,
+      "<8C7DD24D>": "<8D837FB2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 4 Ferronis Hatch"
+    },
+    {
+      "$id": 280,
+      "<8C7DD24D>": "<3BECD4ED>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 4 Command"
+    },
+    {
+      "$id": 281,
+      "<8C7DD24D>": "<527614D4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lake Rezzento Camp"
+    },
+    {
+      "$id": 282,
+      "<8C7DD24D>": "<22FE20F4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bennel Cave Camp"
+    },
+    {
+      "$id": 283,
+      "<8C7DD24D>": "<722AE9D2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 4 Canteen"
+    },
+    {
+      "$id": 284,
+      "<8C7DD24D>": "<974404E7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 4 Barracks"
+    },
+    {
+      "$id": 285,
+      "<8C7DD24D>": "<655B0CD5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Elaice Highway"
+    },
+    {
+      "$id": 286,
+      "<8C7DD24D>": "<0990775B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tepnos Heights"
+    },
+    {
+      "$id": 287,
+      "<8C7DD24D>": "<FE49B529>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Three Heroes Peak"
+    },
+    {
+      "$id": 288,
+      "<8C7DD24D>": "<F5A77FA8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mehnert Interdigit"
+    },
+    {
+      "$id": 289,
+      "<8C7DD24D>": "<C0B3FC62>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Zain's Talon"
+    },
+    {
+      "$id": 290,
+      "<8C7DD24D>": "<36CCC265>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Great Liente Shelf"
+    },
+    {
+      "$id": 291,
+      "<8C7DD24D>": "<2C9E8432>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Visura Parkland"
+    },
+    {
+      "$id": 292,
+      "<8C7DD24D>": "<5EBF4ABF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sequestered Lake"
+    },
+    {
+      "$id": 293,
+      "<8C7DD24D>": "<ED67962E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ag's Talon"
+    },
+    {
+      "$id": 294,
+      "<8C7DD24D>": "<32498642>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hictern's Cleft"
+    },
+    {
+      "$id": 295,
+      "<8C7DD24D>": "<8801FBD7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Nid Cave"
+    },
+    {
+      "$id": 296,
+      "<8C7DD24D>": "<2ACD5568>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Torus Hollow"
+    },
+    {
+      "$id": 297,
+      "<8C7DD24D>": "<9F0BE10C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Yunnae's Rise"
+    },
+    {
+      "$id": 298,
+      "<8C7DD24D>": "<06F3D0E2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Iota North Gate"
+    },
+    {
+      "$id": 299,
+      "<8C7DD24D>": "<198C1C0C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Iota"
+    },
+    {
+      "$id": 300,
+      "<8C7DD24D>": "<DF09888D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dies Arch"
+    },
+    {
+      "$id": 301,
+      "<8C7DD24D>": "<343717F2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Slanne Wondersphere"
+    },
+    {
+      "$id": 302,
+      "<8C7DD24D>": "<6A593EB9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Purus Palecolumn"
+    },
+    {
+      "$id": 303,
+      "<8C7DD24D>": "<29C08C5B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Singbreeze Funnel"
+    },
+    {
+      "$id": 304,
+      "<8C7DD24D>": "<FD67FF01>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Igna Conglomerate"
+    },
+    {
+      "$id": 305,
+      "<8C7DD24D>": "<116279B7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cadion Cliffside"
+    },
+    {
+      "$id": 306,
+      "<8C7DD24D>": "<98E87A31>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hidden Stash"
+    },
+    {
+      "$id": 307,
+      "<8C7DD24D>": "<EFF66B0B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Eldritch Obelisk"
+    },
+    {
+      "$id": 308,
+      "<8C7DD24D>": "<760B8456>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Iota South Gate"
+    },
+    {
+      "$id": 309,
+      "<8C7DD24D>": "<E330E921>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Iota Base Entrance"
+    },
+    {
+      "$id": 310,
+      "<8C7DD24D>": "<23702548>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Distant Fingertip"
+    },
+    {
+      "$id": 311,
+      "<8C7DD24D>": "<6A7F51C5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Visura Parkland Camp"
+    },
+    {
+      "$id": 312,
+      "<8C7DD24D>": "<79E956E9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Iota Canteen"
+    },
+    {
+      "$id": 313,
+      "<8C7DD24D>": "<1698DBD0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dannagh Desert"
+    },
+    {
+      "$id": 314,
+      "<8C7DD24D>": "<20F64774>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Namba Mound"
+    },
+    {
+      "$id": 315,
+      "<8C7DD24D>": "<66552D9F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ypsil Hill"
+    },
+    {
+      "$id": 316,
+      "<8C7DD24D>": "<F9346500>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Zell Quicksands"
+    },
+    {
+      "$id": 317,
+      "<8C7DD24D>": "<21B5C30A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Devil's Skillet"
+    },
+    {
+      "$id": 318,
+      "<8C7DD24D>": "<E71FCA99>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fetos Sandgarden"
+    },
+    {
+      "$id": 319,
+      "<8C7DD24D>": "<1A6E08B3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dougis Quicksands"
+    },
+    {
+      "$id": 320,
+      "<8C7DD24D>": "<A7FD4FCA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Alefa Skysphere"
+    },
+    {
+      "$id": 321,
+      "<8C7DD24D>": "<6FF4A3C3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Apex Wing"
+    },
+    {
+      "$id": 322,
+      "<8C7DD24D>": "<5AC396F7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bulik Brae"
+    },
+    {
+      "$id": 323,
+      "<8C7DD24D>": "<A495D755>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Milio Trick Caverns"
+    },
+    {
+      "$id": 324,
+      "<8C7DD24D>": "<A0B17F69>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sage's Garden"
+    },
+    {
+      "$id": 325,
+      "<8C7DD24D>": "<91F6FD87>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Limoux Hill"
+    },
+    {
+      "$id": 326,
+      "<8C7DD24D>": "<6A40AFCB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Klondos Table"
+    },
+    {
+      "$id": 327,
+      "<8C7DD24D>": "<7E05CA58>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Great Idalla Ravine"
+    },
+    {
+      "$id": 328,
+      "<8C7DD24D>": "<DEDEB5BA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Raptor Perch"
+    },
+    {
+      "$id": 329,
+      "<8C7DD24D>": "<0341D47B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Zorza's Stonehammer"
+    },
+    {
+      "$id": 330,
+      "<8C7DD24D>": "<D0E35856>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Quicksand Basin"
+    },
+    {
+      "$id": 331,
+      "<8C7DD24D>": "<0F009274>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Serrato Spring"
+    },
+    {
+      "$id": 332,
+      "<8C7DD24D>": "<866F7892>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sage's Domicile"
+    },
+    {
+      "$id": 333,
+      "<8C7DD24D>": "<9AE7B0C6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glam Rock"
+    },
+    {
+      "$id": 334,
+      "<8C7DD24D>": "<0D33DA24>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Peshris Fountain"
+    },
+    {
+      "$id": 335,
+      "<8C7DD24D>": "<3C89AA86>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ecto Hollow"
+    },
+    {
+      "$id": 336,
+      "<8C7DD24D>": "<6EF08FCA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "The Blue Bluffs"
+    },
+    {
+      "$id": 337,
+      "<8C7DD24D>": "<D957B971>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Namba Mound Camp"
+    },
+    {
+      "$id": 338,
+      "<8C7DD24D>": "<9A946FC5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Desert Ferronis Hulk"
+    },
+    {
+      "$id": 339,
+      "<8C7DD24D>": "<32354EB4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ribbi Flats"
+    },
+    {
+      "$id": 340,
+      "<8C7DD24D>": "<463B1759>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sparres Barr"
+    },
+    {
+      "$id": 341,
+      "<8C7DD24D>": "<A22F4A91>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Llyn Nyddwr"
+    },
+    {
+      "$id": 342,
+      "<8C7DD24D>": "<2A12A76A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tonic Waters"
+    },
+    {
+      "$id": 343,
+      "<8C7DD24D>": "<C1E6F36E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Laprel Knoll"
+    },
+    {
+      "$id": 344,
+      "<8C7DD24D>": "<86211C10>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Isla Passerat"
+    },
+    {
+      "$id": 345,
+      "<8C7DD24D>": "<1E200CB3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Caitlin Drum"
+    },
+    {
+      "$id": 346,
+      "<8C7DD24D>": "<90731628>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Precipice of Judgment"
+    },
+    {
+      "$id": 347,
+      "<8C7DD24D>": "<01C304AA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sage's Balcony"
+    },
+    {
+      "$id": 348,
+      "<8C7DD24D>": "<421A5A39>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Terra Wastelands"
+    },
+    {
+      "$id": 349,
+      "<8C7DD24D>": "<E112ABBA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Grun Slope"
+    },
+    {
+      "$id": 350,
+      "<8C7DD24D>": "<4EC30CD4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Beik Vault"
+    },
+    {
+      "$id": 351,
+      "<8C7DD24D>": "<04DB34C7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Paltir Hillock"
+    },
+    {
+      "$id": 352,
+      "<8C7DD24D>": "<160B88F2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 30 Maintenance Bay"
+    },
+    {
+      "$id": 353,
+      "<8C7DD24D>": "<6FA678E8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 30"
+    },
+    {
+      "$id": 354,
+      "<8C7DD24D>": "<301463B0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Killy Fors"
+    },
+    {
+      "$id": 355,
+      "<8C7DD24D>": "<99659B2A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Magglia Lake"
+    },
+    {
+      "$id": 356,
+      "<8C7DD24D>": "<F6FB8874>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shikashaka Mesa"
+    },
+    {
+      "$id": 357,
+      "<8C7DD24D>": "<D191A88F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Igno Viaduct"
+    },
+    {
+      "$id": 358,
+      "<8C7DD24D>": "<6B17D86F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Elsie's Spout"
+    },
+    {
+      "$id": 359,
+      "<8C7DD24D>": "<602BECB6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tirkin Headquarters"
+    },
+    {
+      "$id": 360,
+      "<8C7DD24D>": "<4E2D2687>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 30 Cave Mouth"
+    },
+    {
+      "$id": 361,
+      "<8C7DD24D>": "<C3774E5D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Llyn Nyddwr Camp"
+    },
+    {
+      "$id": 362,
+      "<8C7DD24D>": "<74047470>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 30 Canteen"
+    },
+    {
+      "$id": 363,
+      "<8C7DD24D>": "<97FC4836>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rae-Bel Tableland"
+    },
+    {
+      "$id": 364,
+      "<8C7DD24D>": "<9EDF0005>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dumas' Jaw"
+    },
+    {
+      "$id": 365,
+      "<8C7DD24D>": "<D727310B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lisza Garden"
+    },
+    {
+      "$id": 366,
+      "<8C7DD24D>": "<E90D89ED>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lomi Hill"
+    },
+    {
+      "$id": 367,
+      "<8C7DD24D>": "<A041BD45>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rutez Barr"
+    },
+    {
+      "$id": 368,
+      "<8C7DD24D>": "<2CD69216>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pinasa Highland"
+    },
+    {
+      "$id": 369,
+      "<8C7DD24D>": "<9DE42BB3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Riez Tarn"
+    },
+    {
+      "$id": 370,
+      "<8C7DD24D>": "<AD660C4E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perrato Cave"
+    },
+    {
+      "$id": 371,
+      "<8C7DD24D>": "<BD7A7940>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Isnie Ledge"
+    },
+    {
+      "$id": 372,
+      "<8C7DD24D>": "<0E97BF60>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Seilas Terrace"
+    },
+    {
+      "$id": 373,
+      "<8C7DD24D>": "<E62989ED>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bittley Slope"
+    },
+    {
+      "$id": 374,
+      "<8C7DD24D>": "<5B9BF6F8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tilpa Scree"
+    },
+    {
+      "$id": 375,
+      "<8C7DD24D>": "<123B9561>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Elsayer Cape"
+    },
+    {
+      "$id": 376,
+      "<8C7DD24D>": "<7DCD869A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Valley of Anguish"
+    },
+    {
+      "$id": 377,
+      "<8C7DD24D>": "<F37B4E75>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Conqueror's Peak"
+    },
+    {
+      "$id": 378,
+      "<8C7DD24D>": "<890F469F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Saffronia Tree"
+    },
+    {
+      "$id": 379,
+      "<8C7DD24D>": "<6A7771F4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "The Lace Subterranean"
+    },
+    {
+      "$id": 380,
+      "<8C7DD24D>": "<98F5879B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Old Kana Battlefield"
+    },
+    {
+      "$id": 381,
+      "<8C7DD24D>": "<CED5F141>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Urayan Tunnels, Entrance"
+    },
+    {
+      "$id": 382,
+      "<8C7DD24D>": "<8D63387C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dow Dolmen"
+    },
+    {
+      "$id": 383,
+      "<8C7DD24D>": "<1E02D743>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Orochi's Crag"
+    },
+    {
+      "$id": 384,
+      "<8C7DD24D>": "<19F8B5FF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Forerunners' Tower"
+    },
+    {
+      "$id": 385,
+      "<8C7DD24D>": "<37689F98>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Seilas Terrace Camp"
+    },
+    {
+      "$id": 386,
+      "<8C7DD24D>": "<3F023B06>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tableland Ferronis Hulk"
+    },
+    {
+      "$id": 387,
+      "<8C7DD24D>": "<9A3E2B38>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Urayan Tunnels"
+    },
+    {
+      "$id": 388,
+      "<8C7DD24D>": "<D1AFDA45>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Great Cotte Falls"
+    },
+    {
+      "$id": 389,
+      "<8C7DD24D>": "<CFF8105A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Old Cliffside Way"
+    },
+    {
+      "$id": 390,
+      "<8C7DD24D>": "<B0C9BCFD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "High Maktha Wildwood"
+    },
+    {
+      "$id": 391,
+      "<8C7DD24D>": "<05F6CAC9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Low Maktha Wildwood"
+    },
+    {
+      "$id": 392,
+      "<8C7DD24D>": "<B2D73966>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Urayan Trail"
+    },
+    {
+      "$id": 393,
+      "<8C7DD24D>": "<25C9D566>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Elevator No. 1"
+    },
+    {
+      "$id": 394,
+      "<8C7DD24D>": "<939ACF59>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ruins of Seebu"
+    },
+    {
+      "$id": 395,
+      "<8C7DD24D>": "<E3585FA8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Roaring Spring"
+    },
+    {
+      "$id": 396,
+      "<8C7DD24D>": "<833398E9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Elevator No. 2"
+    },
+    {
+      "$id": 397,
+      "<8C7DD24D>": "<3FD3C6CD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Elevator No. 3"
+    },
+    {
+      "$id": 398,
+      "<8C7DD24D>": "<7204CFE2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Quarry Road"
+    },
+    {
+      "$id": 399,
+      "<8C7DD24D>": "<9C2B5D1B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mine No. 2"
+    },
+    {
+      "$id": 400,
+      "<8C7DD24D>": "<2127313D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Kachurichu Cavern"
+    },
+    {
+      "$id": 401,
+      "<8C7DD24D>": "<06AB9347>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cavern Waterfall"
+    },
+    {
+      "$id": 402,
+      "<8C7DD24D>": "<15C176F7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cavern Waterway"
+    },
+    {
+      "$id": 403,
+      "<8C7DD24D>": "<BEB99A8A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mine No. 1"
+    },
+    {
+      "$id": 404,
+      "<8C7DD24D>": "<CB5073EE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mine No. 3"
+    },
+    {
+      "$id": 405,
+      "<8C7DD24D>": "<0B0C17B4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fallfoot Battlescar"
+    },
+    {
+      "$id": 406,
+      "<8C7DD24D>": "<81D8D02D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cave at Pira Bluffs"
+    },
+    {
+      "$id": 407,
+      "<8C7DD24D>": "<11ADE7E4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Muroon Bridge"
+    },
+    {
+      "$id": 408,
+      "<8C7DD24D>": "<EC1ECC7E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Amoney's Hallows"
+    },
+    {
+      "$id": 409,
+      "<8C7DD24D>": "<E5279066>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Titan Rock"
+    },
+    {
+      "$id": 410,
+      "<8C7DD24D>": "<6168C8E1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cotte Outlook"
+    },
+    {
+      "$id": 411,
+      "<8C7DD24D>": "<7970D172>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cotte Trick Ruins"
+    },
+    {
+      "$id": 412,
+      "<8C7DD24D>": "<49336189>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Lambda"
+    },
+    {
+      "$id": 413,
+      "<8C7DD24D>": "<7A01C493>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "First Cataract"
+    },
+    {
+      "$id": 414,
+      "<8C7DD24D>": "<09E43948>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Second Cataract"
+    },
+    {
+      "$id": 415,
+      "<8C7DD24D>": "<EDC6BBEB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Third Cataract"
+    },
+    {
+      "$id": 416,
+      "<8C7DD24D>": "<F6C1A985>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Lambda Ferronis"
+    },
+    {
+      "$id": 417,
+      "<8C7DD24D>": "<C33F26E2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 5 Ferronis"
+    },
+    {
+      "$id": 418,
+      "<8C7DD24D>": "<872F810A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Titan Rock Apex"
+    },
+    {
+      "$id": 419,
+      "<8C7DD24D>": "<E03BE763>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Spring of Rhonnar"
+    },
+    {
+      "$id": 420,
+      "<8C7DD24D>": "<54BDCEFE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Spring of Quarquaka"
+    },
+    {
+      "$id": 421,
+      "<8C7DD24D>": "<8C17AF41>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tree Hollow Opening"
+    },
+    {
+      "$id": 422,
+      "<8C7DD24D>": "<6CD88239>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Yellowgrove"
+    },
+    {
+      "$id": 423,
+      "<8C7DD24D>": "<4C656AFC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gogols' Tree"
+    },
+    {
+      "$id": 424,
+      "<8C7DD24D>": "<7340D695>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "The Tirkinhold"
+    },
+    {
+      "$id": 425,
+      "<8C7DD24D>": "<EFEFF20C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Archaic Tower"
+    },
+    {
+      "$id": 426,
+      "<8C7DD24D>": "<316EE14D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Engardo Pass"
+    },
+    {
+      "$id": 427,
+      "<8C7DD24D>": "<860A2BEA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Tau"
+    },
+    {
+      "$id": 428,
+      "<8C7DD24D>": "<4B0B330A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Tau, Ferronis Head"
+    },
+    {
+      "$id": 429,
+      "<8C7DD24D>": "<2DFE389F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Tau, Crop Fields"
+    },
+    {
+      "$id": 430,
+      "<8C7DD24D>": "<874E7C28>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cross-Maktha Elevator"
+    },
+    {
+      "$id": 431,
+      "<8C7DD24D>": "<D9E51CF7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Runo Ruins"
+    },
+    {
+      "$id": 432,
+      "<8C7DD24D>": "<47CD9B74>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gingin's Treehouse"
+    },
+    {
+      "$id": 433,
+      "<8C7DD24D>": "<A1F73D35>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ancient Storehouse"
+    },
+    {
+      "$id": 434,
+      "<8C7DD24D>": "<9534208C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cavern of Oblivion"
+    },
+    {
+      "$id": 435,
+      "<8C7DD24D>": "<0F412326>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mountain Front: Agnus"
+    },
+    {
+      "$id": 436,
+      "<8C7DD24D>": "<69FB9602>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mountain Front: Keves"
+    },
+    {
+      "$id": 437,
+      "<8C7DD24D>": "<991FBAB1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Loska's Cavern"
+    },
+    {
+      "$id": 438,
+      "<8C7DD24D>": "<CD430DE8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Loska Plateau"
+    },
+    {
+      "$id": 439,
+      "<8C7DD24D>": "<3DF0BFD8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Balquors Gate"
+    },
+    {
+      "$id": 440,
+      "<8C7DD24D>": "<121AD2CF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Garf Mine Track"
+    },
+    {
+      "$id": 441,
+      "<8C7DD24D>": "<6E32FA72>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Stoneyard"
+    },
+    {
+      "$id": 442,
+      "<8C7DD24D>": "<DDE2C09D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Myma Gate"
+    },
+    {
+      "$id": 443,
+      "<8C7DD24D>": "<EA4605F9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pelza's Pass"
+    },
+    {
+      "$id": 444,
+      "<8C7DD24D>": "<B9FEE660>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Warning Tree"
+    },
+    {
+      "$id": 445,
+      "<8C7DD24D>": "<D932C0D6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Forgotten Trick Gate"
+    },
+    {
+      "$id": 446,
+      "<8C7DD24D>": "<84969ED8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Windstrong Bluffs"
+    },
+    {
+      "$id": 447,
+      "<8C7DD24D>": "<A237322A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Tau Entrance"
+    },
+    {
+      "$id": 448,
+      "<8C7DD24D>": "<45C6280A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Tau Ferronis"
+    },
+    {
+      "$id": 449,
+      "<8C7DD24D>": "<8B81CE33>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Tau Watchtower"
+    },
+    {
+      "$id": 450,
+      "<8C7DD24D>": "<A5E3FAE9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Lambda, Cave Mouth"
+    },
+    {
+      "$id": 451,
+      "<8C7DD24D>": "<01E9BA25>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Clearwater Shelf"
+    },
+    {
+      "$id": 452,
+      "<8C7DD24D>": "<0E61DDCF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vista of Rhonnar"
+    },
+    {
+      "$id": 453,
+      "<8C7DD24D>": "<2B1E6E06>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aquifer Exhaust"
+    },
+    {
+      "$id": 454,
+      "<8C7DD24D>": "<5FA15798>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ore Stockpile"
+    },
+    {
+      "$id": 455,
+      "<8C7DD24D>": "<0925AA3A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hidden Freshwater Inlet"
+    },
+    {
+      "$id": 456,
+      "<8C7DD24D>": "<823286EA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cotte Fountainhead"
+    },
+    {
+      "$id": 457,
+      "<8C7DD24D>": "<60B5CF22>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Generator Control Room"
+    },
+    {
+      "$id": 458,
+      "<8C7DD24D>": "<06D2AF27>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ruins of Seebu Camp"
+    },
+    {
+      "$id": 459,
+      "<8C7DD24D>": "<32852AFD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Titan Rock Camp"
+    },
+    {
+      "$id": 460,
+      "<8C7DD24D>": "<71F7611D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Old Way Camp"
+    },
+    {
+      "$id": 461,
+      "<8C7DD24D>": "<A6C62FB7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sparkling Pool Camp"
+    },
+    {
+      "$id": 462,
+      "<8C7DD24D>": "<5846675E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tower Camp"
+    },
+    {
+      "$id": 463,
+      "<8C7DD24D>": "<56B709BC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Engardo Pass Camp"
+    },
+    {
+      "$id": 464,
+      "<8C7DD24D>": "<6FF94432>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Lambda Shelter"
+    },
+    {
+      "$id": 465,
+      "<8C7DD24D>": "<6151B2B5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Lambda Canteen"
+    },
+    {
+      "$id": 466,
+      "<8C7DD24D>": "<85A266ED>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Tau Canteen"
+    },
+    {
+      "$id": 467,
+      "<8C7DD24D>": "<8FFD4BF1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cascade Ferronis Hulk"
+    },
+    {
+      "$id": 468,
+      "<8C7DD24D>": "<C050815D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Clifftop Ferronis Hulk"
+    },
+    {
+      "$id": 469,
+      "<8C7DD24D>": "<C82C741C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 470,
+      "<8C7DD24D>": "<018D2EB9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Syra Hovering Reefs"
+    },
+    {
+      "$id": 471,
+      "<8C7DD24D>": "<EC9CF354>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "First Ixia Bridge"
+    },
+    {
+      "$id": 472,
+      "<8C7DD24D>": "<1EACAF94>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 11"
+    },
+    {
+      "$id": 473,
+      "<8C7DD24D>": "<BD5CDED8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Second Ixia Bridge"
+    },
+    {
+      "$id": 474,
+      "<8C7DD24D>": "<62357C9D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fort O'Virbus"
+    },
+    {
+      "$id": 475,
+      "<8C7DD24D>": "<07D5C59D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Kismet Crossing"
+    },
+    {
+      "$id": 476,
+      "<8C7DD24D>": "<14FCBD18>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Helheim Sky Bridge"
+    },
+    {
+      "$id": 477,
+      "<8C7DD24D>": "<C0C4C4F9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Propatheon Cathedral"
+    },
+    {
+      "$id": 478,
+      "<8C7DD24D>": "<2880D0B8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Guards' Training Yard"
+    },
+    {
+      "$id": 479,
+      "<8C7DD24D>": "<2D61B7B3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Third Ixia Bridge"
+    },
+    {
+      "$id": 480,
+      "<8C7DD24D>": "<E66264DD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gardin Defense Base"
+    },
+    {
+      "$id": 481,
+      "<8C7DD24D>": "<6D4B17FC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fourth Ixia Bridge"
+    },
+    {
+      "$id": 482,
+      "<8C7DD24D>": "<FB76EE1B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 11, Training Pit"
+    },
+    {
+      "$id": 483,
+      "<8C7DD24D>": "<BA971907>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hovering Reef 0"
+    },
+    {
+      "$id": 484,
+      "<8C7DD24D>": "<642EC9B3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hovering Reef 1"
+    },
+    {
+      "$id": 485,
+      "<8C7DD24D>": "<80AF4F11>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hovering Reef 2"
+    },
+    {
+      "$id": 486,
+      "<8C7DD24D>": "<DB809BBD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hovering Reef 3"
+    },
+    {
+      "$id": 487,
+      "<8C7DD24D>": "<FF1328BB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hovering Reef 4"
+    },
+    {
+      "$id": 488,
+      "<8C7DD24D>": "<B2611B70>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hovering Reef 5"
+    },
+    {
+      "$id": 489,
+      "<8C7DD24D>": "<7BC0516D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hovering Reef 6"
+    },
+    {
+      "$id": 490,
+      "<8C7DD24D>": "<5FAE3D0D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hovering Reef 7"
+    },
+    {
+      "$id": 491,
+      "<8C7DD24D>": "<F9E26222>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ether Mine"
+    },
+    {
+      "$id": 492,
+      "<8C7DD24D>": "<99FA3844>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Penshia Portal"
+    },
+    {
+      "$id": 493,
+      "<8C7DD24D>": "<53900207>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 11: East Gate"
+    },
+    {
+      "$id": 494,
+      "<8C7DD24D>": "<54795957>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 11: West Gate"
+    },
+    {
+      "$id": 495,
+      "<8C7DD24D>": "<7827D0BD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "West Gate Road"
+    },
+    {
+      "$id": 496,
+      "<8C7DD24D>": "<278CAF85>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "East Gate Road"
+    },
+    {
+      "$id": 497,
+      "<8C7DD24D>": "<A1FED959>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Great Sword Furrow"
+    },
+    {
+      "$id": 498,
+      "<8C7DD24D>": "<7573014B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ekdaso Verge"
+    },
+    {
+      "$id": 499,
+      "<8C7DD24D>": "<9CCD2D1C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Holy Lid"
+    },
+    {
+      "$id": 500,
+      "<8C7DD24D>": "<B22A2623>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hovering Reef 2 Camp"
+    },
+    {
+      "$id": 501,
+      "<8C7DD24D>": "<05D4CE42>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 11 Canteen"
+    },
+    {
+      "$id": 502,
+      "<8C7DD24D>": "<4F6A1A19>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "The Tap-Dancing Nopon"
+    },
+    {
+      "$id": 503,
+      "<8C7DD24D>": "<8C3318F7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Origin Interior"
+    },
+    {
+      "$id": 504,
+      "<8C7DD24D>": "<8DFE3D37>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Force Field Generator Base"
+    },
+    {
+      "$id": 505,
+      "<8C7DD24D>": "<88D74E53>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "North Sector Passage"
+    },
+    {
+      "$id": 506,
+      "<8C7DD24D>": "<0FEDD083>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cabin of the Bravery"
+    },
+    {
+      "$id": 507,
+      "<8C7DD24D>": "<32FAA399>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Amplifier No. 1"
+    },
+    {
+      "$id": 508,
+      "<8C7DD24D>": "<156278AB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "North Shell Passage"
+    },
+    {
+      "$id": 509,
+      "<8C7DD24D>": "<8901EEA2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Amplifier Section"
+    },
+    {
+      "$id": 510,
+      "<8C7DD24D>": "<49BB6D6E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Amplifier No. 2"
+    },
+    {
+      "$id": 511,
+      "<8C7DD24D>": "<0A448401>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Amplifier No. 1: Upper Gate"
+    },
+    {
+      "$id": 512,
+      "<8C7DD24D>": "<4153F5C2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Amplifier No. 1: Lower Gate"
+    },
+    {
+      "$id": 513,
+      "<8C7DD24D>": "<B052207A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Amplifier No. 2: Upper Gate"
+    },
+    {
+      "$id": 514,
+      "<8C7DD24D>": "<D4A31173>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Amplifier No. 2: Lower Gate"
+    },
+    {
+      "$id": 515,
+      "<8C7DD24D>": "<8235AB51>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Amplifier Control Room"
+    },
+    {
+      "$id": 516,
+      "<8C7DD24D>": "<6011124C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ferronis Arsenal #1"
+    },
+    {
+      "$id": 517,
+      "<8C7DD24D>": "<5E7C8BA2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ferronis Arsenal #2"
+    },
+    {
+      "$id": 518,
+      "<8C7DD24D>": "<ED847F62>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ferronis Arsenal #3"
+    },
+    {
+      "$id": 519,
+      "<8C7DD24D>": "<D7887BBA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "East-West Sector Passage"
+    },
+    {
+      "$id": 520,
+      "<8C7DD24D>": "<C0A81B3F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ferronis Arsenal #1: E. Gate"
+    },
+    {
+      "$id": 521,
+      "<8C7DD24D>": "<E845BE71>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ferronis Arsenal #1: S. Gate"
+    },
+    {
+      "$id": 522,
+      "<8C7DD24D>": "<AF3E98E3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ferronis Arsenal #3: N. Gate"
+    },
+    {
+      "$id": 523,
+      "<8C7DD24D>": "<4C4BA44D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ferronis Arsenal #3: E. Gate"
+    },
+    {
+      "$id": 524,
+      "<8C7DD24D>": "<D1E28FF7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Arsenal Control Room"
+    },
+    {
+      "$id": 525,
+      "<8C7DD24D>": "<35E8B26E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "South Sector Passage"
+    },
+    {
+      "$id": 526,
+      "<8C7DD24D>": "<C9E4C1A6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Eternal Prison"
+    },
+    {
+      "$id": 527,
+      "<8C7DD24D>": "<2F100F1C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "South Shell Passage"
+    },
+    {
+      "$id": 528,
+      "<8C7DD24D>": "<31C995FC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hangar, Upper Level"
+    },
+    {
+      "$id": 529,
+      "<8C7DD24D>": "<5CCD30F8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hangar, Lower Level"
+    },
+    {
+      "$id": 530,
+      "<8C7DD24D>": "<696B7805>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hangar Zone"
+    },
+    {
+      "$id": 531,
+      "<8C7DD24D>": "<C12575A1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hangar, Upper: West Gate"
+    },
+    {
+      "$id": 532,
+      "<8C7DD24D>": "<C62A5D04>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hangar, Upper: East Gate"
+    },
+    {
+      "$id": 533,
+      "<8C7DD24D>": "<25F4B034>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hangar, Lower: Main Gate"
+    },
+    {
+      "$id": 534,
+      "<8C7DD24D>": "<F76452D0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Supply Storage #2"
+    },
+    {
+      "$id": 535,
+      "<8C7DD24D>": "<DF87BAFD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Supply Storage #1"
+    },
+    {
+      "$id": 536,
+      "<8C7DD24D>": "<0B4FC7DB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Central Defense"
+    },
+    {
+      "$id": 537,
+      "<8C7DD24D>": "<63BF54A0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Defense Tower #4"
+    },
+    {
+      "$id": 538,
+      "<8C7DD24D>": "<C46FA2AB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Defense Tower #2"
+    },
+    {
+      "$id": 539,
+      "<8C7DD24D>": "<EEE76A05>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Central Sector Passage"
+    },
+    {
+      "$id": 540,
+      "<8C7DD24D>": "<EFCEBA3A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Defense Tower #1"
+    },
+    {
+      "$id": 541,
+      "<8C7DD24D>": "<9E6A9E15>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Defense Tower #3"
+    },
+    {
+      "$id": 542,
+      "<8C7DD24D>": "<252EAB2C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Arms Storage Tower, Lower"
+    },
+    {
+      "$id": 543,
+      "<8C7DD24D>": "<F1D81588>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Arms Storage Tower, Upper"
+    },
+    {
+      "$id": 544,
+      "<8C7DD24D>": "<C0ECBF12>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Amphitheater"
+    },
+    {
+      "$id": 545,
+      "<8C7DD24D>": "<B95F3607>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Great Sword's Hilt"
+    },
+    {
+      "$id": 546,
+      "<8C7DD24D>": "<2D5C0F83>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "City"
+    },
+    {
+      "$id": 547,
+      "<8C7DD24D>": "<177C4B30>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Airway Corridor"
+    },
+    {
+      "$id": 548,
+      "<8C7DD24D>": "<82662951>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Centrilo Parade"
+    },
+    {
+      "$id": 549,
+      "<8C7DD24D>": "<2AAF919C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mxene Tech Quarter"
+    },
+    {
+      "$id": 550,
+      "<8C7DD24D>": "<7C9A79C6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Praetorian Hill"
+    },
+    {
+      "$id": 551,
+      "<8C7DD24D>": "<268D7B89>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Medical Facility"
+    },
+    {
+      "$id": 552,
+      "<8C7DD24D>": "<E30048E9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Caelum Residential Quarter"
+    },
+    {
+      "$id": 553,
+      "<8C7DD24D>": "<7E017F93>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Virid Park"
+    },
+    {
+      "$id": 554,
+      "<8C7DD24D>": "<DC9B2AB8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lost Numbers Dormitory"
+    },
+    {
+      "$id": 555,
+      "<8C7DD24D>": "<999C101C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ribelly Plaza"
+    },
+    {
+      "$id": 556,
+      "<8C7DD24D>": "<0A0F891A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sikert Pathway"
+    },
+    {
+      "$id": 557,
+      "<8C7DD24D>": "<2A28C654>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Supply Stockpile"
+    },
+    {
+      "$id": 558,
+      "<8C7DD24D>": "<4DCB9F0C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Astelle Harbor"
+    },
+    {
+      "$id": 559,
+      "<8C7DD24D>": "<4B46A644>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Training Ground"
+    },
+    {
+      "$id": 560,
+      "<8C7DD24D>": "<631F772A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dolgan Cliff"
+    },
+    {
+      "$id": 561,
+      "<8C7DD24D>": "<7D306072>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Material Storage Warehouse"
+    },
+    {
+      "$id": 562,
+      "<8C7DD24D>": "<F792142F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "City Entrance"
+    },
+    {
+      "$id": 563,
+      "<8C7DD24D>": "<60BA7AEC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Remembrance Stones"
+    },
+    {
+      "$id": 564,
+      "<8C7DD24D>": "<DA3A3A4C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Memorial Hall"
+    },
+    {
+      "$id": 565,
+      "<8C7DD24D>": "<B28C4AFF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Module Warehouse"
+    },
+    {
+      "$id": 566,
+      "<8C7DD24D>": "<D489BAB3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mitia Lookout"
+    },
+    {
+      "$id": 567,
+      "<8C7DD24D>": "<49C05862>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "War Room"
+    },
+    {
+      "$id": 568,
+      "<8C7DD24D>": "<0609AF0C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "City Camp"
+    },
+    {
+      "$id": 569,
+      "<8C7DD24D>": "<F938D5B6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Michiba Canteen"
+    },
+    {
+      "$id": 570,
+      "<8C7DD24D>": "<9B9D0B56>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "The Cavity"
+    },
+    {
+      "$id": 571,
+      "<8C7DD24D>": "<957530DA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shattered Pathway"
+    },
+    {
+      "$id": 572,
+      "<8C7DD24D>": "<0339271D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Riccalo Pond"
+    },
+    {
+      "$id": 573,
+      "<8C7DD24D>": "<49C26347>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Luca's Eyot"
+    },
+    {
+      "$id": 574,
+      "<8C7DD24D>": "<F3332732>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sepulchral Cliffpath"
+    },
+    {
+      "$id": 575,
+      "<8C7DD24D>": "<3D4F7E74>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Serene Square"
+    },
+    {
+      "$id": 576,
+      "<8C7DD24D>": "<468762BF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Land of Challenge"
+    },
+    {
+      "$id": 577,
+      "<8C7DD24D>": "<DDB2F2C2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vermilion Woods"
+    },
+    {
+      "$id": 578,
+      "<8C7DD24D>": "<305F1C79>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aurora Shelf"
+    },
+    {
+      "$id": 579,
+      "<8C7DD24D>": "<F22A2432>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Yesterdale"
+    },
+    {
+      "$id": 580,
+      "<8C7DD24D>": "<18570329>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "The Ragmos Desolation"
+    },
+    {
+      "$id": 581,
+      "<8C7DD24D>": "<5EAD1F41>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Black Mountains"
+    },
+    {
+      "$id": 582,
+      "<8C7DD24D>": "<94AF06DD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Springside Camp"
+    },
+    {
+      "$id": 583,
+      "<8C7DD24D>": "<360B68DC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battlefield Camp"
+    },
+    {
+      "$id": 584,
+      "<8C7DD24D>": "<D402261F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Elevator Landing Camp"
+    },
+    {
+      "$id": 585,
+      "<8C7DD24D>": "<0B9BA6E6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Clifftop Camp"
+    },
+    {
+      "$id": 586,
+      "<8C7DD24D>": "<EDD10400>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pioneer's Camp"
+    },
+    {
+      "$id": 587,
+      "<8C7DD24D>": "<5A60B837>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Panorama Camp"
+    },
+    {
+      "$id": 588,
+      "<8C7DD24D>": "<5D0EE449>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 9 Camp"
+    },
+    {
+      "$id": 589,
+      "<8C7DD24D>": "<8005409E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Black Mountain View Camp"
+    },
+    {
+      "$id": 590,
+      "<8C7DD24D>": "<42A6FFE7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lakeside Camp"
+    },
+    {
+      "$id": 591,
+      "<8C7DD24D>": "<76E84885>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Raguel Bridge Camp"
+    },
+    {
+      "$id": 592,
+      "<8C7DD24D>": "<1B5546A3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ancient Rooftop Camp"
+    },
+    {
+      "$id": 593,
+      "<8C7DD24D>": "<B3BB0D73>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Valak Peak Camp"
+    },
+    {
+      "$id": 594,
+      "<8C7DD24D>": "<2DAD576B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Prison Island Camp"
+    },
+    {
+      "$id": 595,
+      "<8C7DD24D>": "<0B075366>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Leaf-Strewn Clearing"
+    },
+    {
+      "$id": 596,
+      "<8C7DD24D>": "<A0F37092>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Parvus Airspring"
+    },
+    {
+      "$id": 597,
+      "<8C7DD24D>": "<43541268>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fairylight Fount"
+    },
+    {
+      "$id": 598,
+      "<8C7DD24D>": "<E61D0E62>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Inconspicuous Cave"
+    },
+    {
+      "$id": 599,
+      "<8C7DD24D>": "<8CF1D4AB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Abandoned Depot"
+    },
+    {
+      "$id": 600,
+      "<8C7DD24D>": "<48F9C076>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony Gamma Wreckage"
+    },
+    {
+      "$id": 601,
+      "<8C7DD24D>": "<336C9986>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 5 Wreckage"
+    },
+    {
+      "$id": 602,
+      "<8C7DD24D>": "<59E371BB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 22, 7th Platoon Camp"
+    },
+    {
+      "$id": 603,
+      "<8C7DD24D>": "<C1D18416>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rhogett Causeway"
+    },
+    {
+      "$id": 604,
+      "<8C7DD24D>": "<942D9CC0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shulvae Splinter"
+    },
+    {
+      "$id": 605,
+      "<8C7DD24D>": "<310FB260>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Atattra's Rampart"
+    },
+    {
+      "$id": 606,
+      "<8C7DD24D>": "<C41ACA3D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Palace of Bal Attas"
+    },
+    {
+      "$id": 607,
+      "<8C7DD24D>": "<44A575A1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Atattra Access Elevator"
+    },
+    {
+      "$id": 608,
+      "<8C7DD24D>": "<64C658D4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ragrinar Passage"
+    },
+    {
+      "$id": 609,
+      "<8C7DD24D>": "<878FC1EB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pilgrims' Rest Remains"
+    },
+    {
+      "$id": 610,
+      "<8C7DD24D>": "<EDBE189D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gaur Viaduct"
+    },
+    {
+      "$id": 611,
+      "<8C7DD24D>": "<F2C78541>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Zalmor's Falls"
+    },
+    {
+      "$id": 612,
+      "<8C7DD24D>": "<2CF64112>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Exile Fortress Ruins"
+    },
+    {
+      "$id": 613,
+      "<8C7DD24D>": "<D6848F9F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Waypoint Sapling"
+    },
+    {
+      "$id": 614,
+      "<8C7DD24D>": "<6D08C2F5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Agni's Tomb Ruins"
+    },
+    {
+      "$id": 615,
+      "<8C7DD24D>": "<C9CFFD02>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ravaged Village"
+    },
+    {
+      "$id": 616,
+      "<8C7DD24D>": "<797603D7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Diablada Cliffs"
+    },
+    {
+      "$id": 617,
+      "<8C7DD24D>": "<978F304E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "West Planada Panorama"
+    },
+    {
+      "$id": 618,
+      "<8C7DD24D>": "<377611DF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Zalmor's Thawtunnels"
+    },
+    {
+      "$id": 619,
+      "<8C7DD24D>": "<02253AD9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Declessa Cave Temple Ruins"
+    },
+    {
+      "$id": 620,
+      "<8C7DD24D>": "<CA207E73>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Old Legre-Bhaja Battlefront"
+    },
+    {
+      "$id": 621,
+      "<8C7DD24D>": "<E98E5E44>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Moonbright Regiment Outpost"
+    },
+    {
+      "$id": 622,
+      "<8C7DD24D>": "<DABD5489>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sullied Temple of Abitalia"
+    },
+    {
+      "$id": 623,
+      "<8C7DD24D>": "<FC73660F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Elevator, Upper Landing"
+    },
+    {
+      "$id": 624,
+      "<8C7DD24D>": "<F4176C38>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Three-Pillar Transept Ruins"
+    },
+    {
+      "$id": 625,
+      "<8C7DD24D>": "<CF450798>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pioneer's Point"
+    },
+    {
+      "$id": 626,
+      "<8C7DD24D>": "<8BD451DB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Echoes of Gran Dell Citadel"
+    },
+    {
+      "$id": 627,
+      "<8C7DD24D>": "<9C3AE639>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sealed Cave"
+    },
+    {
+      "$id": 628,
+      "<8C7DD24D>": "<95E6955B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Declessa Altar"
+    },
+    {
+      "$id": 629,
+      "<8C7DD24D>": "<4F9F71C1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ferronis Crater"
+    },
+    {
+      "$id": 630,
+      "<8C7DD24D>": "<AFDF5F54>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sacred Water Cavern"
+    },
+    {
+      "$id": 631,
+      "<8C7DD24D>": "<5DE42305>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tephra Hill"
+    },
+    {
+      "$id": 632,
+      "<8C7DD24D>": "<9E1B2A30>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 9"
+    },
+    {
+      "$id": 633,
+      "<8C7DD24D>": "<82639587>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Central Plaza"
+    },
+    {
+      "$id": 634,
+      "<8C7DD24D>": "<3B1BCE15>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Open-Air Dining Space"
+    },
+    {
+      "$id": 635,
+      "<8C7DD24D>": "<3D157B9A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Storage Area"
+    },
+    {
+      "$id": 636,
+      "<8C7DD24D>": "<35558588>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ruined Tower Square"
+    },
+    {
+      "$id": 637,
+      "<8C7DD24D>": "<7E66D141>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tephra Cavern, Reshaped"
+    },
+    {
+      "$id": 638,
+      "<8C7DD24D>": "<9D3C5EEF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ruined Anti-Air Battery 3"
+    },
+    {
+      "$id": 639,
+      "<8C7DD24D>": "<43DE9E0A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lakeside Grotto"
+    },
+    {
+      "$id": 640,
+      "<8C7DD24D>": "<C75D09FF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Planada Siq"
+    },
+    {
+      "$id": 641,
+      "<8C7DD24D>": "<2EAFF15B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony 9, Main Entrance"
+    },
+    {
+      "$id": 642,
+      "<8C7DD24D>": "<E34B29FA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Riku's Workshop"
+    },
+    {
+      "$id": 643,
+      "<8C7DD24D>": "<A5747239>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ether Light"
+    },
+    {
+      "$id": 644,
+      "<8C7DD24D>": "<AF9CA166>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Command Center"
+    },
+    {
+      "$id": 645,
+      "<8C7DD24D>": "<B768C835>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bobobi's Shoppe"
+    },
+    {
+      "$id": 646,
+      "<8C7DD24D>": "<665BAE4D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Outlook Park"
+    },
+    {
+      "$id": 647,
+      "<8C7DD24D>": "<7C123A5E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gotrock Oracle Ruins"
+    },
+    {
+      "$id": 648,
+      "<8C7DD24D>": "<A2F5B737>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rotbatunga"
+    },
+    {
+      "$id": 649,
+      "<8C7DD24D>": "<CE6C5006>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lumos Pillar Remnants"
+    },
+    {
+      "$id": 650,
+      "<8C7DD24D>": "<9874E82E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lumos Garrison"
+    },
+    {
+      "$id": 651,
+      "<8C7DD24D>": "<4E5AD4E7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Raguel Lake"
+    },
+    {
+      "$id": 652,
+      "<8C7DD24D>": "<A1E2D1F1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Waterlogged Daksha Shrine"
+    },
+    {
+      "$id": 653,
+      "<8C7DD24D>": "<3E8E2814>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gelgemos Garrison"
+    },
+    {
+      "$id": 654,
+      "<8C7DD24D>": "<37A55E7E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Magwall Road"
+    },
+    {
+      "$id": 655,
+      "<8C7DD24D>": "<4299F15F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Raguel Bridge"
+    },
+    {
+      "$id": 656,
+      "<8C7DD24D>": "<D4B9F55E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hidden Windy Cave"
+    },
+    {
+      "$id": 657,
+      "<8C7DD24D>": "<5468A952>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ulcar Monument"
+    },
+    {
+      "$id": 658,
+      "<8C7DD24D>": "<CC5380F1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Oracle Spire"
+    },
+    {
+      "$id": 659,
+      "<8C7DD24D>": "<6B9CE690>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fallen Gate of Ulcaria"
+    },
+    {
+      "$id": 660,
+      "<8C7DD24D>": "<C174C92A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Raguel Bridge - North"
+    },
+    {
+      "$id": 661,
+      "<8C7DD24D>": "<58686869>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Canyon of No Return"
+    },
+    {
+      "$id": 662,
+      "<8C7DD24D>": "<C36DBA81>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tranquil Bluffs"
+    },
+    {
+      "$id": 663,
+      "<8C7DD24D>": "<31A2C383>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Godreading Altar"
+    },
+    {
+      "$id": 664,
+      "<8C7DD24D>": "<EBCF4289>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Royal Green"
+    },
+    {
+      "$id": 665,
+      "<8C7DD24D>": "<CE8C8E2F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Belgazas' Drifts"
+    },
+    {
+      "$id": 666,
+      "<8C7DD24D>": "<9A51E719>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ignia Hill"
+    },
+    {
+      "$id": 667,
+      "<8C7DD24D>": "<974D95D2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Town of Banerro Ruins"
+    },
+    {
+      "$id": 668,
+      "<8C7DD24D>": "<19E2E256>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Expedition Elevator"
+    },
+    {
+      "$id": 669,
+      "<8C7DD24D>": "<E52D124B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Befalgar Ruins"
+    },
+    {
+      "$id": 670,
+      "<8C7DD24D>": "<3E2379FC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Argan Cathedral Ruins"
+    },
+    {
+      "$id": 671,
+      "<8C7DD24D>": "<A91A41DF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Kana Peak"
+    },
+    {
+      "$id": 672,
+      "<8C7DD24D>": "<60C67C30>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Valak Mountain"
+    },
+    {
+      "$id": 673,
+      "<8C7DD24D>": "<2EEAF356>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Prison Island"
+    },
+    {
+      "$id": 674,
+      "<8C7DD24D>": "<375EBF46>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Corridor of Silence"
+    },
+    {
+      "$id": 675,
+      "<8C7DD24D>": "<D2EF2970>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Travalga Bridge"
+    },
+    {
+      "$id": 676,
+      "<8C7DD24D>": "<A7C017A7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Basverg Belfry"
+    },
+    {
+      "$id": 677,
+      "<8C7DD24D>": "<7E1DDBA1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Prison Terrace"
+    },
+    {
+      "$id": 678,
+      "<8C7DD24D>": "<084356D6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "The Dragongate"
+    },
+    {
+      "$id": 679,
+      "<8C7DD24D>": "<7093FD86>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Raxeal Lavaflow"
+    },
+    {
+      "$id": 680,
+      "<8C7DD24D>": "<936697A2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mt. Nagul Viewing Deck"
+    },
+    {
+      "$id": 681,
+      "<8C7DD24D>": "<73C7550E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gravina Bridge"
+    },
+    {
+      "$id": 682,
+      "<8C7DD24D>": "<B246D45F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gondorl Cathedral"
+    },
+    {
+      "$id": 683,
+      "<8C7DD24D>": "<E3342752>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "The Alabaster Throne"
+    },
+    {
+      "$id": 684,
+      "<8C7DD24D>": "<4CCB1580>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "La Luz Temple"
+    },
+    {
+      "$id": 685,
+      "<8C7DD24D>": "<82CD1E20>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Three Sage Tabernacle"
+    },
+    {
+      "$id": 686,
+      "<8C7DD24D>": "<30CE2D44>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Third Sanctum"
+    },
+    {
+      "$id": 687,
+      "<8C7DD24D>": "<256DE6A8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Enemy Territory"
+    },
+    {
+      "$id": 688,
+      "<8C7DD24D>": "<06907472>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Keves Outpost"
+    },
+    {
+      "$id": 689,
+      "<8C7DD24D>": "<D0829B8B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Agnus Outpost"
+    },
+    {
+      "$id": 690,
+      "<8C7DD24D>": "<1C23F6B9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cent-Omnia Region"
+    },
+    {
+      "$id": 691,
+      "<8C7DD24D>": "<3E3B6C1D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Origin"
+    }
+  ]
+}

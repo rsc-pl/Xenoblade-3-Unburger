@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<54D3F0A9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This feels awkward..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<BDDE4436>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We can stick it out."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<7C402A99>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Sorry."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<34B30123>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This is kind of our fault."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<FF4C9F10>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Don't worry about it.\nYou heard Ethel, right?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<D347CBB3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Mm..."
+    }
+  ]
+}

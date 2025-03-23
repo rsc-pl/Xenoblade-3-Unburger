@@ -1,0 +1,104 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<3BF76A03>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's all of the ingredients,\nfor the both of them."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<F0FD2804>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Tippy-toppy job!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<36AD4057>",
+      "<ACF3531A>": "pl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Got everything you need now?\nThen I think it's about time to start\nthe contest. Is everyone ready?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<508058F4>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Are you ready?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<1ACDE51F>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You bet!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<21B01931>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hold on..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<D5D98593>",
+      "<ACF3531A>": "pl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, looks like you still need a bit of prep\ntime. It's fine, we can wait a little longer."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<7DE8C30C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Just who are you?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<31535A67>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Perhaps a guard?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<63BA0E80>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Perhaps not."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<41BE1E2E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Well, well. \"Smoldering Cammuravi\"..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<6B2658C2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Your name...is no mere affectation."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<B7F8EC08>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "A Consul...?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<2803096B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "No..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<2F465850>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You're...!"
+    }
+  ]
+}

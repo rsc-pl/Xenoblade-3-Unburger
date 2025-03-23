@@ -1,0 +1,354 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<5578627C>",
+      "<ACF3531A>": "xZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Jeremy. You put the poison\nin their food, didn't you?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<D38103B7>",
+      "<ACF3531A>": "tZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hah... So you figured it out? If you're\ngonna kill me, just hurry up and do it."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<CB185169>",
+      "<ACF3531A>": "xZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Stop talking nonsense! You know\nMercutio wouldn't have wanted this!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<8716C3CE>",
+      "<ACF3531A>": "tZ1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What the snuff do you know about him?!\nYou just ran away from the fight, coward!\nYou don't get a say!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<347C8F55>",
+      "<ACF3531A>": "xZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Rgh...!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<EF22E23F>",
+      "<ACF3531A>": "tZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're a traitor to your friends,\nsetting the past aside like that!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<B5E1E7BD>",
+      "<ACF3531A>": "tZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Like you've plain forgotten about Mercutio!\nHe'd be ashamed of you, kissing up to the\nenemy like that!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<CB045783>",
+      "<ACF3531A>": "xZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Y-you're wrong about me! All I did was-!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<877333F5>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whatever you might think,\nnone of that is an excuse to\nlash out against your comrades."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<D153CE7B>",
+      "<ACF3531A>": "tZ1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm not listening to a word\na snuffin' *Agnian* has to say!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<882EF6FF>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mimi!"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<9CB12A4C>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I wasn't joking when I said you can\nshoot me if you want to."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<714D1C9B>",
+      "<ACF3531A>": "tZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Shut up! I don't wanna hear any more!!!"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<B142A242>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But... Looking at you now, I'm\npretty sure you won't shoot."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<B5D0BB2E>",
+      "<ACF3531A>": "tZ1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Shut your trap!!!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<245080A2>",
+      "<ACF3531A>": "tZ1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you want me to kill you that badly, I'll\nmake sure I finish the job this time!"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<F758C808>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<7EEACC5A>",
+      "<ACF3531A>": "tZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Ngh!"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<F123B0F5>",
+      "<ACF3531A>": "tZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Crap...! Snuff it all!!!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<595781DC>",
+      "<ACF3531A>": "tZ1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Why...?! How did it come to this?!"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<E5D7622C>",
+      "<ACF3531A>": "tZ1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What did I do wrong?!\nAre you saying *I'm* the traitor?!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<55022EDA>",
+      "<ACF3531A>": "tZ1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "My friend was *killed*!\nI can never forget that!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<1D780E34>",
+      "<ACF3531A>": "tZ1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Why can't I shoot...?!\nOh, snuff it...!!!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<394BBCE0>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mm..."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<6E141449>",
+      "<ACF3531A>": "xZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll take Jeremy back to the colony.\nIt's OK if I take over from here, right?"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<81021B69>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I'm sorry, Laszlo."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<6D3EA1C9>",
+      "<ACF3531A>": "xZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's not your fault...\nActually, it's nobody's fault."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<9EFDE8D9>",
+      "<ACF3531A>": "xZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's the war's fault. But at some point,\nsomebody's going to have to put an end\nto all that, hopefully."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<C47DB453>",
+      "<ACF3531A>": "xZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm talking about you, Ouroboros.\nI'm sure he gets that, too."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<B30F8B72>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "(sigh)..."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<5DE16F07>",
+      "<ACF3531A>": "xZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's not my place to ask you this...but will\nyou please come back to check in on us?"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<2CD8E43C>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes... Of course."
+    }
+  ]
+}

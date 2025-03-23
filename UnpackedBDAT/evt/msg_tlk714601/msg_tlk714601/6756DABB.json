@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<5552DC33>",
+      "<ACF3531A>": "Xm1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "However you look at it, Guernica was\na great man, and a heroic fighter."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<85AEA17C>",
+      "<ACF3531A>": "Xm1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He ceded his position as Elder to Monica\nso that he could carry on fighting on\nthe front lines."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<CD8CBADB>",
+      "<ACF3531A>": "Xm1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Each time he rode back into the City on\nhis Levnis, he brought back a brand new\ntale of valor and derring-do."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<2ADE694C>",
+      "<ACF3531A>": "Xm1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, and I certainly wasn't the only one\nwho was eager to hear them, either!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<8DEF0126>",
+      "<ACF3531A>": "Xm1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He inspired courage in all of us, not\njust the Lost Numbers. He was a great\nexample, right up to his final moments."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<A37AE3D5>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Check this out... Nice view of Cadensia's\nGreat Sword from here too, huh..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<82E2BF25>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Hmm..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<2CE160A6>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "The way I hear it, it's hotly-contested\nterritory for Keves and Agnus."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<B1B26A04>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Erm... I've heard so too."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<C6FE0D24>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "There was some large-scale battle there earlier..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<10EFB0BA>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Sure, so it's like a key position that the\ntwo Castles glare at each other over."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<45E28608>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Both Keves and Agnus must want what's there\nfor some strategic reason, I guess."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<A837CB4A>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "...In every age, that sword is the fulcrum of conflict..."
+    }
+  ]
+}

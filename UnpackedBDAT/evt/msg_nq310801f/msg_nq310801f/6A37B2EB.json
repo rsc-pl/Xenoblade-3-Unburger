@@ -1,0 +1,434 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<83EBE3CD>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, there's a lot of\ndisgruntlement in the City."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<955F6CA5>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "House Doyle are working on it,\nso for now I've been leaving it in\ntheir hands."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<85A96915>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Got it. In that case, I'll see\nwhat Garrett has to say."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<283E8AB9>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, lots of unhappy voices\nin the City these days."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<72130501>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The Doyles are acting as\nmediators at the moment."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<11EF5BB0>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm just waiting for Garrett to give\nme a summary of the situation."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<87239E9B>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "For once, I'm grateful for his meddling!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<D62490A5>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm afraid he'll align himself with these\n\"concerned citizens\" in the end..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<2782B286>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So that's where we're at."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<99DB3106>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now we just have to work out how to-"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<33E6ACC7>",
+      "<ACF3531A>": "@m1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We've got trouble!"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<EC77F9C4>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What's going on?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<B88C5BDD>",
+      "<ACF3531A>": "@m1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A number of Armory units have\ntaken off without authorization!"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<648AEF97>",
+      "<ACF3531A>": "@m1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Seems they were commandeered\nby soldiers and civilians alike."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<832FAFF1>",
+      "<ACF3531A>": "@m1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The soldiers on guard...seem to have\nbeen bribed to look the other way..."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<E9807656>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Travis."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<135EE8D5>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's just one thing after another..."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<44CB6241>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Assess the situation ASAP."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<94E39E3F>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You've been careless.\nI'll hear your excuses later."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<F56AA65C>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ugh..."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<09335010>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll see what's going on!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<88B6B946>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Monica."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<A0AD065E>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This means people who aren't in the Lost\nNumbers have left the City, doesn't it?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<61FBC035>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But what are they hoping to accomplish?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<B05124F8>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<7BB80BEA>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We've found them, boss!"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<EC777980>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We tracked the signal of the\nstolen Armory units. Seems they're\nheaded towards Vinisog Holm."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<28FAD217>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Understood. We'll head out there."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<449CA3AA>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Personally?"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<4351A957>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Naturally. Prepare for immediate departure."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<100876D6>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "One step ahead of you, boss."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<8E6260B2>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Monica, we'll come too."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<893F1012>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<853D9591>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Travis, I'll go on ahead,\nand they'll come with me."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<6031ED23>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Get ready to provide support\nthe second you're in formation."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<CA2367A7>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Understood!"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<ED0D050F>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll make a move as\nsoon as we're ready."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<03C98CDC>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Can I ask you to go on ahead\nand provide some defense?"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<4B49FFF8>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Of course."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<C3924EAA>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's get to Vinisog Holm!"
+    }
+  ]
+}

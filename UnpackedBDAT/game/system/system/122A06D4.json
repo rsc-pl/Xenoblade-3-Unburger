@@ -1,0 +1,6408 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<D4D9C46D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<E7DF9386>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<EB25760A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Attacker"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<04959D33>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Attacker"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<CB6E1D3A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Attacker"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<EB05F40C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ulula"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<7AABF212>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rood Volff"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<2B6A4E1C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Drifter Ropl"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<A8A24DC4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Attacker"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<6EA4EA3B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Avis Achates"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<93D77A3F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Automaton Sentry"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<642ABBC5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Defender"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<A1380B44>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Attacker"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<323D9D3D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Healer"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<72195F1A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mysterious Enemy"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<A5FDCFA3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<EDC185A8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Attacker"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<83E34AF2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Attacker"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<6D8B68FA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bodom Grebel"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<05153444>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Sniper"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<72A37574>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Blaster"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<2A9B7D07>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Trooper"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<C1B1259B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Silvercoat Ethel"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<9AF6237E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Blocker"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<C94C1756>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Sniper"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<F4F96231>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Rescuer"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<FEA3B7DF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Consul K"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<3B69ECD1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius K"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<DF5072EA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lepus"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<3FB52B89>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lambda Ferronis"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<FD5B27FB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Consul J"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<458EDBEE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Umber Drague"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<6FE4F5DE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ethel's Ferronis"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<42DAAA50>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Cammuravi's Ferronis"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<D8131E1A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius O & P"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<B33AC125>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius D & J"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<1DD5B9AE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Queen of Keves"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<BA5888AA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ghondor"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<69A6F910>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Aggy"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<826ACE18>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Oggy"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<A7808562>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gyrinus"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<0ABFF181>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius M"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<D30DB543>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius M"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<48715829>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius N"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<59DB8738>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Vanguard Elite"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<881575EC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Skirmisher"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<57B4E1E9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Scout"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<B3744D3D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Medic"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<C243D1C9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius N"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<AF8DA202>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Queen of Agnus"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<8FE7E124>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius J"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<1EA731A9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius D"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<16B76056>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius Puppet"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<4EC8B242>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius D & J"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<35AB41DE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "N"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<D2B01168>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "N"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<24E316D8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Flak"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<C86ECE0A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius X"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<CF40B8B8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius Y"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<E76CB374>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Z"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<BE87E108>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Z∞"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<A947DFC8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "X∞"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<28A17EDD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Y∞"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<8363FCA7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Grave Bunnit"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<7A25632C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Little Bunnit"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<8E17CDF0>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Naberius Bunnit"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<03E95A72>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Wood Bunnit"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<F529E6EA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fact Bunnit"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<FB8FD5C6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Varran Bunnit"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<D2A8151E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Grapple Bunnit"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<3F0EF605>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hand Bunnit"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<811975A9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Arm Bunnit"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<7E078E89>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hitter Bunnit"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<F456270D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Exxuno Bunnit"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<3285FBDE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Slugger Bunnit"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<6D7DB96E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Light Flier"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<9455C533>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Illumi Flier"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<BDFF0400>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Amity Flier"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<CB7E79CC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Glaw Camill"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<EFDF8D1A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<58AA1306>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Light Skeeter"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<56510109>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Illumi Skeeter"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<D72B92F5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Selurine Skeeter"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<19B2A81E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Baruka Skeeter"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<452E4CCA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kroda Skeeter"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<004B6AC7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Amity Skeeter"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<41D0C192>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Cave Skeeter"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<DCA89CD0>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Morsula Skeeter"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<05CD8E22>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Opulent Flamii"
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<A4777C3B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Limdo Flamii"
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<8259F7BD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Marsh Flamii"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<56418F08>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Foggy Piranhax"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<F75D4367>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Plush Piranhax"
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<99FC75B9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Masrah Piranhax"
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<2ADE457E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Morg Krabble"
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<34AAFC01>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Solid Krabble"
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<C8BDB048>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Desert Krabble"
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<CBFBFF68>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Materia Krabble"
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<4EB1266A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kran Crustip"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<0217530F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Piros Crustip"
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<9C0607CC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Andaris Crustip"
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<2B5C2557>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lesser Volff"
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<760DD6E4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ugly Volff"
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<55239025>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Jarack Volff"
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<C81083FD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Landon Ropl"
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<11941EAF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rockeater Ropl"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<27690BB3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Colnicas Ropl"
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<765F0F1C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bemot Ropl"
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<F452EB18>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rockheart Ropl"
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<F92D6044>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Odolera Ropl"
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<6348BE33>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sky Rhogul"
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<0E4DD6DA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Arogan Rhogul"
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<0BF0BE9C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Brute Rhogul"
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<4A0388F6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Smart Rhogul"
+    },
+    {
+      "$id": 115,
+      "<8C7DD24D>": "<FD368D4F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Brute Ansel"
+    },
+    {
+      "$id": 116,
+      "<8C7DD24D>": "<E1206F37>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Scarred Ansel"
+    },
+    {
+      "$id": 117,
+      "<8C7DD24D>": "<BE03EE13>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 118,
+      "<8C7DD24D>": "<7CDEECD3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ruga Quadwing"
+    },
+    {
+      "$id": 119,
+      "<8C7DD24D>": "<E248C29B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gegl Quadwing"
+    },
+    {
+      "$id": 120,
+      "<8C7DD24D>": "<C2A030AC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mant Aries"
+    },
+    {
+      "$id": 121,
+      "<8C7DD24D>": "<A6956EC7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mant Ories"
+    },
+    {
+      "$id": 122,
+      "<8C7DD24D>": "<C8C57E5F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rudoni Anlood"
+    },
+    {
+      "$id": 123,
+      "<8C7DD24D>": "<8ADBBD72>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Olkort Anlood"
+    },
+    {
+      "$id": 124,
+      "<8C7DD24D>": "<24ADE7E3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Scape Anlood"
+    },
+    {
+      "$id": 125,
+      "<8C7DD24D>": "<3C91AB75>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Scape Ellook"
+    },
+    {
+      "$id": 126,
+      "<8C7DD24D>": "<609A02C7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Pixidan Pippito"
+    },
+    {
+      "$id": 127,
+      "<8C7DD24D>": "<B7462232>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Prithee Pippito"
+    },
+    {
+      "$id": 128,
+      "<8C7DD24D>": "<D096446F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Qutorl Pippito"
+    },
+    {
+      "$id": 129,
+      "<8C7DD24D>": "<25FDDF98>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Nelva Pippito"
+    },
+    {
+      "$id": 130,
+      "<8C7DD24D>": "<A73270B2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Felusi Pippito"
+    },
+    {
+      "$id": 131,
+      "<8C7DD24D>": "<E3B15FBE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mordow Blant"
+    },
+    {
+      "$id": 132,
+      "<8C7DD24D>": "<F4E97C22>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Zinnia Blant"
+    },
+    {
+      "$id": 133,
+      "<8C7DD24D>": "<5C52C898>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Raflas Blant"
+    },
+    {
+      "$id": 134,
+      "<8C7DD24D>": "<F94B2A35>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Princess Brog"
+    },
+    {
+      "$id": 135,
+      "<8C7DD24D>": "<8F29BE41>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Goliath Brog"
+    },
+    {
+      "$id": 136,
+      "<8C7DD24D>": "<675CE77F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sweetless Brog"
+    },
+    {
+      "$id": 137,
+      "<8C7DD24D>": "<077BAC7D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Heavy Brog"
+    },
+    {
+      "$id": 138,
+      "<8C7DD24D>": "<5623CF0F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Shadow Vang"
+    },
+    {
+      "$id": 139,
+      "<8C7DD24D>": "<71BA1F11>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Shreddle Vang"
+    },
+    {
+      "$id": 140,
+      "<8C7DD24D>": "<FD5EB9AB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lophos Moramora"
+    },
+    {
+      "$id": 141,
+      "<8C7DD24D>": "<D5420A61>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Deepa Moramora"
+    },
+    {
+      "$id": 142,
+      "<8C7DD24D>": "<6C7F9583>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Morbile Moramora"
+    },
+    {
+      "$id": 143,
+      "<8C7DD24D>": "<3851BCE9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Polima Amoney"
+    },
+    {
+      "$id": 144,
+      "<8C7DD24D>": "<F42BF122>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ranule Amoney"
+    },
+    {
+      "$id": 145,
+      "<8C7DD24D>": "<9EC85BFA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gerran Amoney"
+    },
+    {
+      "$id": 146,
+      "<8C7DD24D>": "<28351534>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agam Grebel"
+    },
+    {
+      "$id": 147,
+      "<8C7DD24D>": "<B8A0ED2B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Buoyant Grebel"
+    },
+    {
+      "$id": 148,
+      "<8C7DD24D>": "<DA25B19E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rossara Grebel"
+    },
+    {
+      "$id": 149,
+      "<8C7DD24D>": "<1CABDFD2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kickitt Grebel"
+    },
+    {
+      "$id": 150,
+      "<8C7DD24D>": "<BFCBB623>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Cadine Grebel"
+    },
+    {
+      "$id": 151,
+      "<8C7DD24D>": "<CE324D82>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Jarack Vvarga"
+    },
+    {
+      "$id": 152,
+      "<8C7DD24D>": "<ECD31477>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sycophantic Lilith"
+    },
+    {
+      "$id": 153,
+      "<8C7DD24D>": "<2B012281>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lapdog Veece"
+    },
+    {
+      "$id": 154,
+      "<8C7DD24D>": "<2E240AC8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Wicked Wolf Aranqui"
+    },
+    {
+      "$id": 155,
+      "<8C7DD24D>": "<3AE232F1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Stonehoof Torphan"
+    },
+    {
+      "$id": 156,
+      "<8C7DD24D>": "<4B966DAA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Spiralhorn Baccro"
+    },
+    {
+      "$id": 157,
+      "<8C7DD24D>": "<D8EF0EEF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Jingoistic Gigantus"
+    },
+    {
+      "$id": 158,
+      "<8C7DD24D>": "<A7DA8162>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Migratory Circe"
+    },
+    {
+      "$id": 159,
+      "<8C7DD24D>": "<D3630CAC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Timbercorn Cthinos"
+    },
+    {
+      "$id": 160,
+      "<8C7DD24D>": "<71128B99>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Indiscreet Gombaba"
+    },
+    {
+      "$id": 161,
+      "<8C7DD24D>": "<302D39BE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Well-Plated Zelinka"
+    },
+    {
+      "$id": 162,
+      "<8C7DD24D>": "<70C7BCBB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Witchwind Kujjat"
+    },
+    {
+      "$id": 163,
+      "<8C7DD24D>": "<7B2D8F8E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Altruistic Maribel"
+    },
+    {
+      "$id": 164,
+      "<8C7DD24D>": "<D157FEE1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Perturbed Bilkin"
+    },
+    {
+      "$id": 165,
+      "<8C7DD24D>": "<3BA37DBB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Househunter Carly"
+    },
+    {
+      "$id": 166,
+      "<8C7DD24D>": "<01E7A25C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gushing Masquin"
+    },
+    {
+      "$id": 167,
+      "<8C7DD24D>": "<FE121B31>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Repulsive Deepus"
+    },
+    {
+      "$id": 168,
+      "<8C7DD24D>": "<45082384>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Petrivore Judomar"
+    },
+    {
+      "$id": 169,
+      "<8C7DD24D>": "<6C62EA3F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keen Chicky-Chicky"
+    },
+    {
+      "$id": 170,
+      "<8C7DD24D>": "<0067CFDD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Phantom Streya"
+    },
+    {
+      "$id": 171,
+      "<8C7DD24D>": "<D894907D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fang-King Clavein"
+    },
+    {
+      "$id": 172,
+      "<8C7DD24D>": "<9A496143>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Perilwing Ryuho"
+    },
+    {
+      "$id": 173,
+      "<8C7DD24D>": "<6A382E6A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sensitive Catullus"
+    },
+    {
+      "$id": 174,
+      "<8C7DD24D>": "<EAD4B792>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Land Volff"
+    },
+    {
+      "$id": 175,
+      "<8C7DD24D>": "<EE51EF4D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Knuckle Hox"
+    },
+    {
+      "$id": 176,
+      "<8C7DD24D>": "<3C1F5AC9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ragora Hox"
+    },
+    {
+      "$id": 177,
+      "<8C7DD24D>": "<D01DBC92>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Carrier Caterpile"
+    },
+    {
+      "$id": 178,
+      "<8C7DD24D>": "<4C30F9E9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rattle Aspar"
+    },
+    {
+      "$id": 179,
+      "<8C7DD24D>": "<0C1BD84B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Stark Aspar"
+    },
+    {
+      "$id": 180,
+      "<8C7DD24D>": "<A0835518>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Antal Ropl"
+    },
+    {
+      "$id": 181,
+      "<8C7DD24D>": "<6431AC38>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Calm Camill"
+    },
+    {
+      "$id": 182,
+      "<8C7DD24D>": "<9007DDD5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lognate Darbus"
+    },
+    {
+      "$id": 183,
+      "<8C7DD24D>": "<BBB15A47>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Illumi Wisp"
+    },
+    {
+      "$id": 184,
+      "<8C7DD24D>": "<4ECD0AB8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Baythe Vang"
+    },
+    {
+      "$id": 185,
+      "<8C7DD24D>": "<987F8102>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Armeh Taos"
+    },
+    {
+      "$id": 186,
+      "<8C7DD24D>": "<28932A3F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Borgen Taos"
+    },
+    {
+      "$id": 187,
+      "<8C7DD24D>": "<5DD17C34>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Randster Igna"
+    },
+    {
+      "$id": 188,
+      "<8C7DD24D>": "<EA5C2B7A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Pellurid Igna"
+    },
+    {
+      "$id": 189,
+      "<8C7DD24D>": "<BEC7F758>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Deinos Rhinon"
+    },
+    {
+      "$id": 190,
+      "<8C7DD24D>": "<1F74601F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Worker Arachno"
+    },
+    {
+      "$id": 191,
+      "<8C7DD24D>": "<5D21C469>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Varran Hox"
+    },
+    {
+      "$id": 192,
+      "<8C7DD24D>": "<BC200653>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Baccura Caterpile"
+    },
+    {
+      "$id": 193,
+      "<8C7DD24D>": "<80C9C0D5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Boahad Aspar"
+    },
+    {
+      "$id": 194,
+      "<8C7DD24D>": "<C9750CE6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Drum Gogol"
+    },
+    {
+      "$id": 195,
+      "<8C7DD24D>": "<11F8E6C7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ormide Camill"
+    },
+    {
+      "$id": 196,
+      "<8C7DD24D>": "<254E58CB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Scary Vang"
+    },
+    {
+      "$id": 197,
+      "<8C7DD24D>": "<23E224EF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rhoen Quadwing"
+    },
+    {
+      "$id": 198,
+      "<8C7DD24D>": "<B2A05830>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Zeoth Serprond"
+    },
+    {
+      "$id": 199,
+      "<8C7DD24D>": "<07CC80B3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Caelum Feris"
+    },
+    {
+      "$id": 200,
+      "<8C7DD24D>": "<BF15D147>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Submit Gogol"
+    },
+    {
+      "$id": 201,
+      "<8C7DD24D>": "<38F02996>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Cuyask Garaffa"
+    },
+    {
+      "$id": 202,
+      "<8C7DD24D>": "<EB330BCB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Amity Wisp"
+    },
+    {
+      "$id": 203,
+      "<8C7DD24D>": "<EDACA356>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kallas Skwaror"
+    },
+    {
+      "$id": 204,
+      "<8C7DD24D>": "<C19150DB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lun Scorpox"
+    },
+    {
+      "$id": 205,
+      "<8C7DD24D>": "<DB469AED>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Pawn Arachno"
+    },
+    {
+      "$id": 206,
+      "<8C7DD24D>": "<2C92CFD5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Diggel Grebel"
+    },
+    {
+      "$id": 207,
+      "<8C7DD24D>": "<00A3DB29>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Chapi Kapiba"
+    },
+    {
+      "$id": 208,
+      "<8C7DD24D>": "<30A6930B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Crawler Caterpile"
+    },
+    {
+      "$id": 209,
+      "<8C7DD24D>": "<591937E2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Growsa Aspar"
+    },
+    {
+      "$id": 210,
+      "<8C7DD24D>": "<CCC872BE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sarabashi Ropl"
+    },
+    {
+      "$id": 211,
+      "<8C7DD24D>": "<313ABD75>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Baruka Wisp"
+    },
+    {
+      "$id": 212,
+      "<8C7DD24D>": "<898F720C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Cave Flier"
+    },
+    {
+      "$id": 213,
+      "<8C7DD24D>": "<13A31421>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Smart Ansel"
+    },
+    {
+      "$id": 214,
+      "<8C7DD24D>": "<E3B4F0AA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kugel Taos"
+    },
+    {
+      "$id": 215,
+      "<8C7DD24D>": "<D5FC50BC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Eclipse Marrin"
+    },
+    {
+      "$id": 216,
+      "<8C7DD24D>": "<8273BC1B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Randakk Scorpox"
+    },
+    {
+      "$id": 217,
+      "<8C7DD24D>": "<3C67DD1F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Robnos Volff"
+    },
+    {
+      "$id": 218,
+      "<8C7DD24D>": "<9E14495C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Yaghini Aspar"
+    },
+    {
+      "$id": 219,
+      "<8C7DD24D>": "<2C2DEA56>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dragguia Ropl"
+    },
+    {
+      "$id": 220,
+      "<8C7DD24D>": "<A7F1907B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sky Ansel"
+    },
+    {
+      "$id": 221,
+      "<8C7DD24D>": "<697D3BB6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Giron Volff"
+    },
+    {
+      "$id": 222,
+      "<8C7DD24D>": "<14ABFB86>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ordo Grebel"
+    },
+    {
+      "$id": 223,
+      "<8C7DD24D>": "<F9A61971>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Papillico Kapiba"
+    },
+    {
+      "$id": 224,
+      "<8C7DD24D>": "<FA5BE36A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Leap Pippito"
+    },
+    {
+      "$id": 225,
+      "<8C7DD24D>": "<ED731FA6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Plain Armu"
+    },
+    {
+      "$id": 226,
+      "<8C7DD24D>": "<A715AF17>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Massido Ardun"
+    },
+    {
+      "$id": 227,
+      "<8C7DD24D>": "<9544551D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bobbile Brog"
+    },
+    {
+      "$id": 228,
+      "<8C7DD24D>": "<CCE52862>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mailoo Garaffa"
+    },
+    {
+      "$id": 229,
+      "<8C7DD24D>": "<CB2DF495>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bigges Darbus"
+    },
+    {
+      "$id": 230,
+      "<8C7DD24D>": "<6F810F11>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Prom Flier"
+    },
+    {
+      "$id": 231,
+      "<8C7DD24D>": "<5EF522C3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Tezlan Skeeter"
+    },
+    {
+      "$id": 232,
+      "<8C7DD24D>": "<36EA8474>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Arogan Ansel"
+    },
+    {
+      "$id": 233,
+      "<8C7DD24D>": "<544BA040>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Inuma Piranhax"
+    },
+    {
+      "$id": 234,
+      "<8C7DD24D>": "<7AE1FCCA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Land Feris"
+    },
+    {
+      "$id": 235,
+      "<8C7DD24D>": "<ACB6E267>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Wacon Upa"
+    },
+    {
+      "$id": 236,
+      "<8C7DD24D>": "<D6EA8B88>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Neml Pippito"
+    },
+    {
+      "$id": 237,
+      "<8C7DD24D>": "<71CDFDD3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kattl Krammit"
+    },
+    {
+      "$id": 238,
+      "<8C7DD24D>": "<86614C64>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Little Armu"
+    },
+    {
+      "$id": 239,
+      "<8C7DD24D>": "<A34DA31A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dalya Armu"
+    },
+    {
+      "$id": 240,
+      "<8C7DD24D>": "<A2F4FBF8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ankle Ardun"
+    },
+    {
+      "$id": 241,
+      "<8C7DD24D>": "<BEB9C7DB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mees Urchon"
+    },
+    {
+      "$id": 242,
+      "<8C7DD24D>": "<C57CBABC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mabluk Aspar"
+    },
+    {
+      "$id": 243,
+      "<8C7DD24D>": "<B98AB1D9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Abiddea Serprond"
+    },
+    {
+      "$id": 244,
+      "<8C7DD24D>": "<133822BB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gust Vang"
+    },
+    {
+      "$id": 245,
+      "<8C7DD24D>": "<A575421E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rabdar Ansel"
+    },
+    {
+      "$id": 246,
+      "<8C7DD24D>": "<975FAE50>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sol Piranhax"
+    },
+    {
+      "$id": 247,
+      "<8C7DD24D>": "<EC557B7A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Knuckle Bunnit"
+    },
+    {
+      "$id": 248,
+      "<8C7DD24D>": "<B1C6D33D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Alderra Bunnit"
+    },
+    {
+      "$id": 249,
+      "<8C7DD24D>": "<5899C82E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Demnd Anlood"
+    },
+    {
+      "$id": 250,
+      "<8C7DD24D>": "<D696D29F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Robnos Feris"
+    },
+    {
+      "$id": 251,
+      "<8C7DD24D>": "<F5AB0A58>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sloth Gogol"
+    },
+    {
+      "$id": 252,
+      "<8C7DD24D>": "<FD439230>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mudtalon Ansel"
+    },
+    {
+      "$id": 253,
+      "<8C7DD24D>": "<8144A47E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Farseer Pirtett"
+    },
+    {
+      "$id": 254,
+      "<8C7DD24D>": "<85B6E686>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rambler Curalie"
+    },
+    {
+      "$id": 255,
+      "<8C7DD24D>": "<C84C50E2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hazardous Jarrahed"
+    },
+    {
+      "$id": 256,
+      "<8C7DD24D>": "<44692F63>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sharpwitted Tracy"
+    },
+    {
+      "$id": 257,
+      "<8C7DD24D>": "<0C010BC8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Villainous Igna"
+    },
+    {
+      "$id": 258,
+      "<8C7DD24D>": "<03064078>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Unobtrusive Liggy"
+    },
+    {
+      "$id": 259,
+      "<8C7DD24D>": "<D6FE3601>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Impish Langobard"
+    },
+    {
+      "$id": 260,
+      "<8C7DD24D>": "<FB8E118E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Profound Hodzuki"
+    },
+    {
+      "$id": 261,
+      "<8C7DD24D>": "<ACD0C033>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Night-Stalker Volodya"
+    },
+    {
+      "$id": 262,
+      "<8C7DD24D>": "<995787E9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Crafty Anskey"
+    },
+    {
+      "$id": 263,
+      "<8C7DD24D>": "<C7F1042A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Scornful Daria"
+    },
+    {
+      "$id": 264,
+      "<8C7DD24D>": "<BB5A8387>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Stoneclipper Gorse"
+    },
+    {
+      "$id": 265,
+      "<8C7DD24D>": "<5B59929A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Crystalline DuGarre"
+    },
+    {
+      "$id": 266,
+      "<8C7DD24D>": "<D5F1C4F2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dunesea Marcellus"
+    },
+    {
+      "$id": 267,
+      "<8C7DD24D>": "<A6AAFF16>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Terrorbird Zieger"
+    },
+    {
+      "$id": 268,
+      "<8C7DD24D>": "<3FAAE6F2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hedonist Tirkin"
+    },
+    {
+      "$id": 269,
+      "<8C7DD24D>": "<BC4BE4AE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Unruffled Narrah"
+    },
+    {
+      "$id": 270,
+      "<8C7DD24D>": "<3C64E2FD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Perspicacious Oldar"
+    },
+    {
+      "$id": 271,
+      "<8C7DD24D>": "<CDFFFD72>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ruthless Grokken"
+    },
+    {
+      "$id": 272,
+      "<8C7DD24D>": "<DB09C989>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Wraithfin Segna"
+    },
+    {
+      "$id": 273,
+      "<8C7DD24D>": "<85A025F5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Doomfang Caum"
+    },
+    {
+      "$id": 274,
+      "<8C7DD24D>": "<0B8B25C8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Heretical Saurow"
+    },
+    {
+      "$id": 275,
+      "<8C7DD24D>": "<4D5E30B8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Tenderling Rumi"
+    },
+    {
+      "$id": 276,
+      "<8C7DD24D>": "<F04FEC80>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dapper Sepiar"
+    },
+    {
+      "$id": 277,
+      "<8C7DD24D>": "<F65FEE89>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kilocorn Grandeps"
+    },
+    {
+      "$id": 278,
+      "<8C7DD24D>": "<DFD827B4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Puzzled Raquinu"
+    },
+    {
+      "$id": 279,
+      "<8C7DD24D>": "<4BAB691C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Joyful Nimroog"
+    },
+    {
+      "$id": 280,
+      "<8C7DD24D>": "<6F9AD614>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Braying Caterpile"
+    },
+    {
+      "$id": 281,
+      "<8C7DD24D>": "<637955FE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Prom Skeeter"
+    },
+    {
+      "$id": 282,
+      "<8C7DD24D>": "<CE8594DA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Liar Vang"
+    },
+    {
+      "$id": 283,
+      "<8C7DD24D>": "<12854B9B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kattl Krabble"
+    },
+    {
+      "$id": 284,
+      "<8C7DD24D>": "<E8209063>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Army Arachno"
+    },
+    {
+      "$id": 285,
+      "<8C7DD24D>": "<D9F08D5A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Queen Arachno"
+    },
+    {
+      "$id": 286,
+      "<8C7DD24D>": "<9294B42A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Puzzling Special Unit"
+    },
+    {
+      "$id": 287,
+      "<8C7DD24D>": "<6969C544>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Floof Pippito"
+    },
+    {
+      "$id": 288,
+      "<8C7DD24D>": "<760CBA7B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Aeing Moramora"
+    },
+    {
+      "$id": 289,
+      "<8C7DD24D>": "<3AE8688E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Brish Aspar"
+    },
+    {
+      "$id": 290,
+      "<8C7DD24D>": "<4896DD53>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Onogoro Piranhax"
+    },
+    {
+      "$id": 291,
+      "<8C7DD24D>": "<BE9A10DB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hanassa Amoney"
+    },
+    {
+      "$id": 292,
+      "<8C7DD24D>": "<5B14E33B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Seymo Ottil"
+    },
+    {
+      "$id": 293,
+      "<8C7DD24D>": "<5BE02979>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Spocked Aligo"
+    },
+    {
+      "$id": 294,
+      "<8C7DD24D>": "<17867043>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rabdar Rhogul"
+    },
+    {
+      "$id": 295,
+      "<8C7DD24D>": "<46195A2A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Resplendent Flamii"
+    },
+    {
+      "$id": 296,
+      "<8C7DD24D>": "<32F77B3A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Codon Quarmu"
+    },
+    {
+      "$id": 297,
+      "<8C7DD24D>": "<E0B0D5DF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Codon Quardun"
+    },
+    {
+      "$id": 298,
+      "<8C7DD24D>": "<5A8A4322>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Young Brog"
+    },
+    {
+      "$id": 299,
+      "<8C7DD24D>": "<D8DD1589>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Stony Krammit"
+    },
+    {
+      "$id": 300,
+      "<8C7DD24D>": "<AAEBEF94>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Skelter Medooz"
+    },
+    {
+      "$id": 301,
+      "<8C7DD24D>": "<CB7DBDDD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mad Upa"
+    },
+    {
+      "$id": 302,
+      "<8C7DD24D>": "<84566C13>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ruffian Hox"
+    },
+    {
+      "$id": 303,
+      "<8C7DD24D>": "<26070D7C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Corsaire Gogol"
+    },
+    {
+      "$id": 304,
+      "<8C7DD24D>": "<32612ABF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Avee Skwaror"
+    },
+    {
+      "$id": 305,
+      "<8C7DD24D>": "<C2236FD3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Baruka Flier"
+    },
+    {
+      "$id": 306,
+      "<8C7DD24D>": "<88F8EF3E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Samide Anlood"
+    },
+    {
+      "$id": 307,
+      "<8C7DD24D>": "<30343289>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sniper Rhogul"
+    },
+    {
+      "$id": 308,
+      "<8C7DD24D>": "<3CA2FE5C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Baelfael Gogol"
+    },
+    {
+      "$id": 309,
+      "<8C7DD24D>": "<2C120F6F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Menaas Aspar"
+    },
+    {
+      "$id": 310,
+      "<8C7DD24D>": "<431BB682>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Begest Brog"
+    },
+    {
+      "$id": 311,
+      "<8C7DD24D>": "<440C13D9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Begest Rhana"
+    },
+    {
+      "$id": 312,
+      "<8C7DD24D>": "<9EA2FE22>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Wizda Quadwing"
+    },
+    {
+      "$id": 313,
+      "<8C7DD24D>": "<23ACC2E8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lodmoro Plambus"
+    },
+    {
+      "$id": 314,
+      "<8C7DD24D>": "<86EE2A90>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Etrekt Ageshu"
+    },
+    {
+      "$id": 315,
+      "<8C7DD24D>": "<0F9AECB9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Yolmun Drague"
+    },
+    {
+      "$id": 316,
+      "<8C7DD24D>": "<565D674E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "General Arachno"
+    },
+    {
+      "$id": 317,
+      "<8C7DD24D>": "<7B361E16>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Shenk Grebel"
+    },
+    {
+      "$id": 318,
+      "<8C7DD24D>": "<77B483EC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Jurass Blant"
+    },
+    {
+      "$id": 319,
+      "<8C7DD24D>": "<4F1671D5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Pidor Crustip"
+    },
+    {
+      "$id": 320,
+      "<8C7DD24D>": "<D558563E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ruffian Bunnit"
+    },
+    {
+      "$id": 321,
+      "<8C7DD24D>": "<F307754E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 322,
+      "<8C7DD24D>": "<8BB430DA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Nairoo Bunnit"
+    },
+    {
+      "$id": 323,
+      "<8C7DD24D>": "<310948F9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sniper Ansel"
+    },
+    {
+      "$id": 324,
+      "<8C7DD24D>": "<071D7F97>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hybro Crustip"
+    },
+    {
+      "$id": 325,
+      "<8C7DD24D>": "<EC35DDF5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Envy Gogol"
+    },
+    {
+      "$id": 326,
+      "<8C7DD24D>": "<64E1FB04>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Noog Flier"
+    },
+    {
+      "$id": 327,
+      "<8C7DD24D>": "<8B44F07A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Abgran Anlood"
+    },
+    {
+      "$id": 328,
+      "<8C7DD24D>": "<1985FA0C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kokto Skwaror"
+    },
+    {
+      "$id": 329,
+      "<8C7DD24D>": "<E4294AC9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Koror Vang"
+    },
+    {
+      "$id": 330,
+      "<8C7DD24D>": "<93FC400E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Wett Upa"
+    },
+    {
+      "$id": 331,
+      "<8C7DD24D>": "<34C0BE02>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dreadwyrm Nizoont"
+    },
+    {
+      "$id": 332,
+      "<8C7DD24D>": "<622D9A2A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gallivanter Buckley"
+    },
+    {
+      "$id": 333,
+      "<8C7DD24D>": "<30B82032>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Immovable Gonzalez"
+    },
+    {
+      "$id": 334,
+      "<8C7DD24D>": "<0ABC666C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Spartan Fennick"
+    },
+    {
+      "$id": 335,
+      "<8C7DD24D>": "<8DA40359>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gracious Titania"
+    },
+    {
+      "$id": 336,
+      "<8C7DD24D>": "<24A599DF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Soaring Virion"
+    },
+    {
+      "$id": 337,
+      "<8C7DD24D>": "<F4BF9723>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Raucous Ron"
+    },
+    {
+      "$id": 338,
+      "<8C7DD24D>": "<FCCE1220>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Massive Georges"
+    },
+    {
+      "$id": 339,
+      "<8C7DD24D>": "<EA8F0A83>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gorgeous Mandora"
+    },
+    {
+      "$id": 340,
+      "<8C7DD24D>": "<099640DC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Shimmering Marcko"
+    },
+    {
+      "$id": 341,
+      "<8C7DD24D>": "<5FB5C305>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dimwitted Tirkin"
+    },
+    {
+      "$id": 342,
+      "<8C7DD24D>": "<58BC6040>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Stately Doramma"
+    },
+    {
+      "$id": 343,
+      "<8C7DD24D>": "<E8505FC9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Saberly Dorampé"
+    },
+    {
+      "$id": 344,
+      "<8C7DD24D>": "<A6A2B23C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Budding Francis"
+    },
+    {
+      "$id": 345,
+      "<8C7DD24D>": "<7FAEBD2C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Frolicking Parker"
+    },
+    {
+      "$id": 346,
+      "<8C7DD24D>": "<01DE932E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bloodsucking Elvis"
+    },
+    {
+      "$id": 347,
+      "<8C7DD24D>": "<C160D2D9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Impregnable Sandhu"
+    },
+    {
+      "$id": 348,
+      "<8C7DD24D>": "<584D58C4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Godlike Krastor"
+    },
+    {
+      "$id": 349,
+      "<8C7DD24D>": "<5DF6D84A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Besieger Sheritt"
+    },
+    {
+      "$id": 350,
+      "<8C7DD24D>": "<31C59441>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bushwhacker Farritt"
+    },
+    {
+      "$id": 351,
+      "<8C7DD24D>": "<66342A82>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Phantasmagorical Rist"
+    },
+    {
+      "$id": 352,
+      "<8C7DD24D>": "<2E1AE0F0>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Costa Balgas"
+    },
+    {
+      "$id": 353,
+      "<8C7DD24D>": "<4AC523AA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Curran Volff"
+    },
+    {
+      "$id": 354,
+      "<8C7DD24D>": "<6A1F668C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Grawn Ropl"
+    },
+    {
+      "$id": 355,
+      "<8C7DD24D>": "<6FDE392C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Plane Hox"
+    },
+    {
+      "$id": 356,
+      "<8C7DD24D>": "<8DC15AE2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Diver Moramora"
+    },
+    {
+      "$id": 357,
+      "<8C7DD24D>": "<11B2E893>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Meroko Kapiba"
+    },
+    {
+      "$id": 358,
+      "<8C7DD24D>": "<483D389B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Auxilia"
+    },
+    {
+      "$id": 359,
+      "<8C7DD24D>": "<66E8C2B7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gladiis Ekidno"
+    },
+    {
+      "$id": 360,
+      "<8C7DD24D>": "<B21957DD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rook Arachno"
+    },
+    {
+      "$id": 361,
+      "<8C7DD24D>": "<9130AD85>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Uor Scorpox"
+    },
+    {
+      "$id": 362,
+      "<8C7DD24D>": "<EF18FF7B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Noog Skeeter"
+    },
+    {
+      "$id": 363,
+      "<8C7DD24D>": "<922AC716>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hornbow Dante"
+    },
+    {
+      "$id": 364,
+      "<8C7DD24D>": "<E99A15A0>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Blazing Karlos"
+    },
+    {
+      "$id": 365,
+      "<8C7DD24D>": "<3743D65D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Diabolical Rindolph"
+    },
+    {
+      "$id": 366,
+      "<8C7DD24D>": "<03D0D7BD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Craven Piggard"
+    },
+    {
+      "$id": 367,
+      "<8C7DD24D>": "<52F50767>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Protector Revelta"
+    },
+    {
+      "$id": 368,
+      "<8C7DD24D>": "<6CB32DFE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Infiltrator Garnach"
+    },
+    {
+      "$id": 369,
+      "<8C7DD24D>": "<1C026571>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ambusher Tirion"
+    },
+    {
+      "$id": 370,
+      "<8C7DD24D>": "<003A7D72>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Guard Trooper"
+    },
+    {
+      "$id": 371,
+      "<8C7DD24D>": "<B707667C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Guard Warrior"
+    },
+    {
+      "$id": 372,
+      "<8C7DD24D>": "<B77D9721>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Guard Sniper"
+    },
+    {
+      "$id": 373,
+      "<8C7DD24D>": "<898CA142>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Guard Blocker"
+    },
+    {
+      "$id": 374,
+      "<8C7DD24D>": "<586A6135>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Guard Rescuer"
+    },
+    {
+      "$id": 375,
+      "<8C7DD24D>": "<36428E44>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Guard Trooper Elite"
+    },
+    {
+      "$id": 376,
+      "<8C7DD24D>": "<7F5C6D1C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Guard Warrior Elite"
+    },
+    {
+      "$id": 377,
+      "<8C7DD24D>": "<9C9C8677>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Guard Blaster Elite"
+    },
+    {
+      "$id": 378,
+      "<8C7DD24D>": "<920E6A0C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Guard Blocker Elite"
+    },
+    {
+      "$id": 379,
+      "<8C7DD24D>": "<75253E14>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Guard Rescuer Elite"
+    },
+    {
+      "$id": 380,
+      "<8C7DD24D>": "<1B1302BA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Speculatos"
+    },
+    {
+      "$id": 381,
+      "<8C7DD24D>": "<8D588937>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mobile Vespa"
+    },
+    {
+      "$id": 382,
+      "<8C7DD24D>": "<708BA774>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Forsaken Arbiter"
+    },
+    {
+      "$id": 383,
+      "<8C7DD24D>": "<0A850802>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Vengeful Dominator"
+    },
+    {
+      "$id": 384,
+      "<8C7DD24D>": "<A595E5D1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Turbulent Martinez"
+    },
+    {
+      "$id": 385,
+      "<8C7DD24D>": "<CA82CA77>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Determined Vatslav"
+    },
+    {
+      "$id": 386,
+      "<8C7DD24D>": "<8F48F0FB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Thunderclap Dalton"
+    },
+    {
+      "$id": 387,
+      "<8C7DD24D>": "<68F06C12>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Cherys Medooz"
+    },
+    {
+      "$id": 388,
+      "<8C7DD24D>": "<D7E07D73>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Segaro Garaffa"
+    },
+    {
+      "$id": 389,
+      "<8C7DD24D>": "<C004C574>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kanbat Ansel"
+    },
+    {
+      "$id": 390,
+      "<8C7DD24D>": "<1A5A44BE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Baccura Eluca"
+    },
+    {
+      "$id": 391,
+      "<8C7DD24D>": "<C1D084AE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mia Pippito"
+    },
+    {
+      "$id": 392,
+      "<8C7DD24D>": "<8DB3F2CE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sotorig Quadwing"
+    },
+    {
+      "$id": 393,
+      "<8C7DD24D>": "<8FB6D492>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Silent Vang"
+    },
+    {
+      "$id": 394,
+      "<8C7DD24D>": "<367EF566>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Vikt Krodlax"
+    },
+    {
+      "$id": 395,
+      "<8C7DD24D>": "<2512E786>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Pashfe Gyaark"
+    },
+    {
+      "$id": 396,
+      "<8C7DD24D>": "<75D1125E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Tiiko Shoox"
+    },
+    {
+      "$id": 397,
+      "<8C7DD24D>": "<CD2CF9AE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lubon Quarmu"
+    },
+    {
+      "$id": 398,
+      "<8C7DD24D>": "<4ACA4A66>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lubon Quardun"
+    },
+    {
+      "$id": 399,
+      "<8C7DD24D>": "<C7AED115>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Shuvai Merfrey"
+    },
+    {
+      "$id": 400,
+      "<8C7DD24D>": "<F42FD3D2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mukiri Ottil"
+    },
+    {
+      "$id": 401,
+      "<8C7DD24D>": "<7EED48B7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Javelin Merigna"
+    },
+    {
+      "$id": 402,
+      "<8C7DD24D>": "<BB866B6D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sword Merigna"
+    },
+    {
+      "$id": 403,
+      "<8C7DD24D>": "<4AC4D27A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Magbow Merigna"
+    },
+    {
+      "$id": 404,
+      "<8C7DD24D>": "<4BD89763>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bard Merigna"
+    },
+    {
+      "$id": 405,
+      "<8C7DD24D>": "<8FF2EA4F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Pike Merigna"
+    },
+    {
+      "$id": 406,
+      "<8C7DD24D>": "<CBF95A6F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bloodthirsty Merigna"
+    },
+    {
+      "$id": 407,
+      "<8C7DD24D>": "<8C2E7E89>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mindkiller Merigna"
+    },
+    {
+      "$id": 408,
+      "<8C7DD24D>": "<1805370F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Discordant Merigna"
+    },
+    {
+      "$id": 409,
+      "<8C7DD24D>": "<D24448EF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sailor Merigna"
+    },
+    {
+      "$id": 410,
+      "<8C7DD24D>": "<EBFE60E6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Crane Serprond"
+    },
+    {
+      "$id": 411,
+      "<8C7DD24D>": "<F2C69E40>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Tikhta Ottil"
+    },
+    {
+      "$id": 412,
+      "<8C7DD24D>": "<1A1700F3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Karifo Gyaark"
+    },
+    {
+      "$id": 413,
+      "<8C7DD24D>": "<4547B0C8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Chako Shoox"
+    },
+    {
+      "$id": 414,
+      "<8C7DD24D>": "<45A94A34>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 415,
+      "<8C7DD24D>": "<A31E942D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Pirate Merigna"
+    },
+    {
+      "$id": 416,
+      "<8C7DD24D>": "<33D70FFE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Vaids Serprond"
+    },
+    {
+      "$id": 417,
+      "<8C7DD24D>": "<02715C5D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ugend Ravoon"
+    },
+    {
+      "$id": 418,
+      "<8C7DD24D>": "<07B2C02A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Desert Pagul"
+    },
+    {
+      "$id": 419,
+      "<8C7DD24D>": "<7EF9B2CB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Spike Urchon"
+    },
+    {
+      "$id": 420,
+      "<8C7DD24D>": "<83A126E6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Naola Crustip"
+    },
+    {
+      "$id": 421,
+      "<8C7DD24D>": "<499B3392>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rock Krammit"
+    },
+    {
+      "$id": 422,
+      "<8C7DD24D>": "<5638B0DE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gast Urchon"
+    },
+    {
+      "$id": 423,
+      "<8C7DD24D>": "<C06E265D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Grandclaw Crustip"
+    },
+    {
+      "$id": 424,
+      "<8C7DD24D>": "<A5B43159>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Segaro Camill"
+    },
+    {
+      "$id": 425,
+      "<8C7DD24D>": "<7DA71833>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hunter Ansel"
+    },
+    {
+      "$id": 426,
+      "<8C7DD24D>": "<8FB58A30>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Nairoo Hox"
+    },
+    {
+      "$id": 427,
+      "<8C7DD24D>": "<2EAE06AB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Assassin Antol"
+    },
+    {
+      "$id": 428,
+      "<8C7DD24D>": "<2B9B5B08>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mhamamia Antol"
+    },
+    {
+      "$id": 429,
+      "<8C7DD24D>": "<9EEB8559>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Biban Flamii"
+    },
+    {
+      "$id": 430,
+      "<8C7DD24D>": "<BB47C60F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fleet Moramora"
+    },
+    {
+      "$id": 431,
+      "<8C7DD24D>": "<ED9B6B78>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Parasite Eluca"
+    },
+    {
+      "$id": 432,
+      "<8C7DD24D>": "<95610382>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Baroon Armu"
+    },
+    {
+      "$id": 433,
+      "<8C7DD24D>": "<F73B85AC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dampl Ardun"
+    },
+    {
+      "$id": 434,
+      "<8C7DD24D>": "<E1AE20AA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kroda Flier"
+    },
+    {
+      "$id": 435,
+      "<8C7DD24D>": "<298205D1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sodorio Camill"
+    },
+    {
+      "$id": 436,
+      "<8C7DD24D>": "<8A72D310>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Musketeer Gulkin"
+    },
+    {
+      "$id": 437,
+      "<8C7DD24D>": "<E966978A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Javelin Gulkin"
+    },
+    {
+      "$id": 438,
+      "<8C7DD24D>": "<35EB3E47>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ranger Gulkin"
+    },
+    {
+      "$id": 439,
+      "<8C7DD24D>": "<1D5C43D4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Minstrel Gulkin"
+    },
+    {
+      "$id": 440,
+      "<8C7DD24D>": "<00C9CF5F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Archknight Gulkin"
+    },
+    {
+      "$id": 441,
+      "<8C7DD24D>": "<EEEB23E4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Archpike Gulkin"
+    },
+    {
+      "$id": 442,
+      "<8C7DD24D>": "<82E45E1A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Archbow Gulkin"
+    },
+    {
+      "$id": 443,
+      "<8C7DD24D>": "<C431397E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Archbard Gulkin"
+    },
+    {
+      "$id": 444,
+      "<8C7DD24D>": "<579923E9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Wannock Gogol"
+    },
+    {
+      "$id": 445,
+      "<8C7DD24D>": "<97736CC1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Wolder Caterpile"
+    },
+    {
+      "$id": 446,
+      "<8C7DD24D>": "<77520E20>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Cave Wisp"
+    },
+    {
+      "$id": 447,
+      "<8C7DD24D>": "<1F4B32F3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Aggris Grebel"
+    },
+    {
+      "$id": 448,
+      "<8C7DD24D>": "<C89EA484>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 449,
+      "<8C7DD24D>": "<6F0D2687>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Broon Moglum"
+    },
+    {
+      "$id": 450,
+      "<8C7DD24D>": "<5809272F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Shelp Taos"
+    },
+    {
+      "$id": 451,
+      "<8C7DD24D>": "<8BECCD8E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kassis Plambus"
+    },
+    {
+      "$id": 452,
+      "<8C7DD24D>": "<00CA3D07>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rabejan Darbus"
+    },
+    {
+      "$id": 453,
+      "<8C7DD24D>": "<D842D7C6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Warriod Darbus"
+    },
+    {
+      "$id": 454,
+      "<8C7DD24D>": "<0B0EC08E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Detox Rhana"
+    },
+    {
+      "$id": 455,
+      "<8C7DD24D>": "<3FCE8775>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Wett Upa"
+    },
+    {
+      "$id": 456,
+      "<8C7DD24D>": "<C41123D0>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Aknis Aligo"
+    },
+    {
+      "$id": 457,
+      "<8C7DD24D>": "<4A25EAC3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kroda Wisp"
+    },
+    {
+      "$id": 458,
+      "<8C7DD24D>": "<ED778ABD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Supreme Blant"
+    },
+    {
+      "$id": 459,
+      "<8C7DD24D>": "<31D4344A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Zobura Krodlax"
+    },
+    {
+      "$id": 460,
+      "<8C7DD24D>": "<DFF70688>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Uzraif Ropl"
+    },
+    {
+      "$id": 461,
+      "<8C7DD24D>": "<41400CC2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hugya Aspar"
+    },
+    {
+      "$id": 462,
+      "<8C7DD24D>": "<98A0E505>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Trilut Grebel"
+    },
+    {
+      "$id": 463,
+      "<8C7DD24D>": "<E0603ADF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ossyan Marrin"
+    },
+    {
+      "$id": 464,
+      "<8C7DD24D>": "<1274125F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Alderra Hox"
+    },
+    {
+      "$id": 465,
+      "<8C7DD24D>": "<C3ED4B99>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gradya Arachno"
+    },
+    {
+      "$id": 466,
+      "<8C7DD24D>": "<A2F9857A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 467,
+      "<8C7DD24D>": "<064D6649>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bunez Vollgull"
+    },
+    {
+      "$id": 468,
+      "<8C7DD24D>": "<2BE8DD76>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Pixidan Pippito"
+    },
+    {
+      "$id": 469,
+      "<8C7DD24D>": "<07184A9B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Master Antol"
+    },
+    {
+      "$id": 470,
+      "<8C7DD24D>": "<9F81B5A6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Begest Brog"
+    },
+    {
+      "$id": 471,
+      "<8C7DD24D>": "<F4679FB9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Vastclaw Crustip"
+    },
+    {
+      "$id": 472,
+      "<8C7DD24D>": "<A0BA4481>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Misterio Grebel"
+    },
+    {
+      "$id": 473,
+      "<8C7DD24D>": "<DB4E0730>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "General Antol"
+    },
+    {
+      "$id": 474,
+      "<8C7DD24D>": "<0397474D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Prink Medooz"
+    },
+    {
+      "$id": 475,
+      "<8C7DD24D>": "<0B09CA4C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Pellurid Igna"
+    },
+    {
+      "$id": 476,
+      "<8C7DD24D>": "<7E76C654>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Enforcer Merigna"
+    },
+    {
+      "$id": 477,
+      "<8C7DD24D>": "<661B37EA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Duel Merigna"
+    },
+    {
+      "$id": 478,
+      "<8C7DD24D>": "<1BE21443>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Magranger Merigna"
+    },
+    {
+      "$id": 479,
+      "<8C7DD24D>": "<95103F39>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Minstrel Merigna"
+    },
+    {
+      "$id": 480,
+      "<8C7DD24D>": "<670E1372>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Poseidon Merigna"
+    },
+    {
+      "$id": 481,
+      "<8C7DD24D>": "<E9AC3B3B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Armored Rhinon"
+    },
+    {
+      "$id": 482,
+      "<8C7DD24D>": "<14E0745A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Baccura Caterpile"
+    },
+    {
+      "$id": 483,
+      "<8C7DD24D>": "<C7858746>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Candela Taos"
+    },
+    {
+      "$id": 484,
+      "<8C7DD24D>": "<CB62FD80>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Olkort Ellook"
+    },
+    {
+      "$id": 485,
+      "<8C7DD24D>": "<0BC3E5E0>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 486,
+      "<8C7DD24D>": "<A63B582F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Colnicas Ropl"
+    },
+    {
+      "$id": 487,
+      "<8C7DD24D>": "<AD09C54C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Soldier Arachno"
+    },
+    {
+      "$id": 488,
+      "<8C7DD24D>": "<D60D3E08>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Shika Ansel"
+    },
+    {
+      "$id": 489,
+      "<8C7DD24D>": "<ED794F19>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fend Vang"
+    },
+    {
+      "$id": 490,
+      "<8C7DD24D>": "<5C7BBAA9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Robnos Feris"
+    },
+    {
+      "$id": 491,
+      "<8C7DD24D>": "<8E216694>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hemish Krodlax"
+    },
+    {
+      "$id": 492,
+      "<8C7DD24D>": "<DFEE742E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rasheen Garaffa"
+    },
+    {
+      "$id": 493,
+      "<8C7DD24D>": "<97787019>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Nahtei Quadwing"
+    },
+    {
+      "$id": 494,
+      "<8C7DD24D>": "<CCBC8001>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Solshiss Camill"
+    },
+    {
+      "$id": 495,
+      "<8C7DD24D>": "<05C6CB5D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Island Bunnit"
+    },
+    {
+      "$id": 496,
+      "<8C7DD24D>": "<E6EBCABC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Heavy Armu"
+    },
+    {
+      "$id": 497,
+      "<8C7DD24D>": "<250EF780>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 498,
+      "<8C7DD24D>": "<F0591B5C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 499,
+      "<8C7DD24D>": "<9BDDF828>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Foala Aspar"
+    },
+    {
+      "$id": 500,
+      "<8C7DD24D>": "<1A60D689>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Last Ansel"
+    },
+    {
+      "$id": 501,
+      "<8C7DD24D>": "<AF77396C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rampaging Ardun"
+    },
+    {
+      "$id": 502,
+      "<8C7DD24D>": "<2D9576B7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gularth Armu"
+    },
+    {
+      "$id": 503,
+      "<8C7DD24D>": "<37FE26C2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kinder Armu"
+    },
+    {
+      "$id": 504,
+      "<8C7DD24D>": "<3EBFEA97>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rotten Caterpile"
+    },
+    {
+      "$id": 505,
+      "<8C7DD24D>": "<27AD80ED>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Curran Feris"
+    },
+    {
+      "$id": 506,
+      "<8C7DD24D>": "<0804FD4A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Soldato Feris"
+    },
+    {
+      "$id": 507,
+      "<8C7DD24D>": "<A77B05A4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rafale Vollgull"
+    },
+    {
+      "$id": 508,
+      "<8C7DD24D>": "<9FE50465>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Morsula Flier"
+    },
+    {
+      "$id": 509,
+      "<8C7DD24D>": "<6CB25B96>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 510,
+      "<8C7DD24D>": "<7620A92E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Muskul Gogol"
+    },
+    {
+      "$id": 511,
+      "<8C7DD24D>": "<B10DEA3A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Detox Brog"
+    },
+    {
+      "$id": 512,
+      "<8C7DD24D>": "<1247E629>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Goran Moglum"
+    },
+    {
+      "$id": 513,
+      "<8C7DD24D>": "<1EAE2CD6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Grilan Moglum"
+    },
+    {
+      "$id": 514,
+      "<8C7DD24D>": "<87727848>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Highwind Moramora"
+    },
+    {
+      "$id": 515,
+      "<8C7DD24D>": "<925354D7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Totorio Moramora"
+    },
+    {
+      "$id": 516,
+      "<8C7DD24D>": "<C87F3615>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Swimming Merfrey"
+    },
+    {
+      "$id": 517,
+      "<8C7DD24D>": "<F5CF4673>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Polka Pippito"
+    },
+    {
+      "$id": 518,
+      "<8C7DD24D>": "<9048642C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Valt Ropl"
+    },
+    {
+      "$id": 519,
+      "<8C7DD24D>": "<6C591B66>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mammon Quardun"
+    },
+    {
+      "$id": 520,
+      "<8C7DD24D>": "<DF955B17>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dudan Quardun"
+    },
+    {
+      "$id": 521,
+      "<8C7DD24D>": "<6E1D6D48>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mammon Quarmu"
+    },
+    {
+      "$id": 522,
+      "<8C7DD24D>": "<806846BE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dudan Quarmu"
+    },
+    {
+      "$id": 523,
+      "<8C7DD24D>": "<AE86B8FE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 524,
+      "<8C7DD24D>": "<96841994>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 525,
+      "<8C7DD24D>": "<2D7CC117>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 526,
+      "<8C7DD24D>": "<BE06B77B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Chadol Skwaror"
+    },
+    {
+      "$id": 527,
+      "<8C7DD24D>": "<974E22C3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moist Upa"
+    },
+    {
+      "$id": 528,
+      "<8C7DD24D>": "<9F2B5E1C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Amari Vang"
+    },
+    {
+      "$id": 529,
+      "<8C7DD24D>": "<A50F2459>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rebul Pagul"
+    },
+    {
+      "$id": 530,
+      "<8C7DD24D>": "<5A378E25>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 531,
+      "<8C7DD24D>": "<D4777BE8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Devilflyer Moramora"
+    },
+    {
+      "$id": 532,
+      "<8C7DD24D>": "<BE29F35B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sundappled Floria"
+    },
+    {
+      "$id": 533,
+      "<8C7DD24D>": "<84D05853>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Galloping Ghuldan"
+    },
+    {
+      "$id": 534,
+      "<8C7DD24D>": "<700E870E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Covetous Gerondon"
+    },
+    {
+      "$id": 535,
+      "<8C7DD24D>": "<EDC0A8E9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ragemaw Tempeldo"
+    },
+    {
+      "$id": 536,
+      "<8C7DD24D>": "<F16B086F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Jealous Mizraile"
+    },
+    {
+      "$id": 537,
+      "<8C7DD24D>": "<8E22F247>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Flyswatter Kamado"
+    },
+    {
+      "$id": 538,
+      "<8C7DD24D>": "<781E387A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Spiky Aurelia"
+    },
+    {
+      "$id": 539,
+      "<8C7DD24D>": "<8D786DAA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Widdershins Radler"
+    },
+    {
+      "$id": 540,
+      "<8C7DD24D>": "<72F18B33>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Demonic Krenolur"
+    },
+    {
+      "$id": 541,
+      "<8C7DD24D>": "<BE854E36>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Oceanic Lucera"
+    },
+    {
+      "$id": 542,
+      "<8C7DD24D>": "<19130AA3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Spectral Rémy"
+    },
+    {
+      "$id": 543,
+      "<8C7DD24D>": "<9EA27E8F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Littlefort Morley"
+    },
+    {
+      "$id": 544,
+      "<8C7DD24D>": "<33533174>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hardshelled Admory"
+    },
+    {
+      "$id": 545,
+      "<8C7DD24D>": "<F945C9A1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Naval Gyrus"
+    },
+    {
+      "$id": 546,
+      "<8C7DD24D>": "<2D8FCFEA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Otherworldly Rodsin"
+    },
+    {
+      "$id": 547,
+      "<8C7DD24D>": "<E5A63D30>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Barbed Merod"
+    },
+    {
+      "$id": 548,
+      "<8C7DD24D>": "<2FAB3EA8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "King Krawkin"
+    },
+    {
+      "$id": 549,
+      "<8C7DD24D>": "<5285A0CB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Conqueror Deepwan"
+    },
+    {
+      "$id": 550,
+      "<8C7DD24D>": "<3A684DB5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Virtuous Gulkin"
+    },
+    {
+      "$id": 551,
+      "<8C7DD24D>": "<D2A9BC70>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Heroic Gulkin"
+    },
+    {
+      "$id": 552,
+      "<8C7DD24D>": "<C95C0665>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hardscale Gouran"
+    },
+    {
+      "$id": 553,
+      "<8C7DD24D>": "<D43EE209>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sharpscale Ragoon"
+    },
+    {
+      "$id": 554,
+      "<8C7DD24D>": "<75090E03>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fairscale Marina"
+    },
+    {
+      "$id": 555,
+      "<8C7DD24D>": "<455101FE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Foolhardy Saide"
+    },
+    {
+      "$id": 556,
+      "<8C7DD24D>": "<63F62939>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Seadragoon Melchior"
+    },
+    {
+      "$id": 557,
+      "<8C7DD24D>": "<82EF883B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Killhappy Brijaidor"
+    },
+    {
+      "$id": 558,
+      "<8C7DD24D>": "<BF1106C5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sharkblade Nedd"
+    },
+    {
+      "$id": 559,
+      "<8C7DD24D>": "<48BF19D6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Seatiger Tridence"
+    },
+    {
+      "$id": 560,
+      "<8C7DD24D>": "<984520A4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ravenous Babayaga"
+    },
+    {
+      "$id": 561,
+      "<8C7DD24D>": "<8F0047A1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Levialord Empireo"
+    },
+    {
+      "$id": 562,
+      "<8C7DD24D>": "<3D0669A3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fleeting Shikino"
+    },
+    {
+      "$id": 563,
+      "<8C7DD24D>": "<5238C4AD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ghosting Lulika"
+    },
+    {
+      "$id": 564,
+      "<8C7DD24D>": "<B25AC596>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Miraging Yuri"
+    },
+    {
+      "$id": 565,
+      "<8C7DD24D>": "<82E8F9D3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Darkening Asha"
+    },
+    {
+      "$id": 566,
+      "<8C7DD24D>": "<F8F9B7A2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Navigator Helios"
+    },
+    {
+      "$id": 567,
+      "<8C7DD24D>": "<FD9510FD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Obliterator Centaurio"
+    },
+    {
+      "$id": 568,
+      "<8C7DD24D>": "<B648F52A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Slack-Jawed Zephal"
+    },
+    {
+      "$id": 569,
+      "<8C7DD24D>": "<A6E54527>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Taskmaster Imperion"
+    },
+    {
+      "$id": 570,
+      "<8C7DD24D>": "<EA5E74E4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Abysmal Rakshmi"
+    },
+    {
+      "$id": 571,
+      "<8C7DD24D>": "<885A98EB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Talkative Dirakha"
+    },
+    {
+      "$id": 572,
+      "<8C7DD24D>": "<9B01A9FB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Intrusive Neville"
+    },
+    {
+      "$id": 573,
+      "<8C7DD24D>": "<CDDA2B4B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kio Nos"
+    },
+    {
+      "$id": 574,
+      "<8C7DD24D>": "<2F2D7E95>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kef Stamm"
+    },
+    {
+      "$id": 575,
+      "<8C7DD24D>": "<77271B62>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lods Toray"
+    },
+    {
+      "$id": 576,
+      "<8C7DD24D>": "<51132239>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kio Zoonos"
+    },
+    {
+      "$id": 577,
+      "<8C7DD24D>": "<A805D0D8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kef Zestamm"
+    },
+    {
+      "$id": 578,
+      "<8C7DD24D>": "<07DC28C1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lods Zetoray"
+    },
+    {
+      "$id": 579,
+      "<8C7DD24D>": "<7437214E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Wira Nos"
+    },
+    {
+      "$id": 580,
+      "<8C7DD24D>": "<1BD3BE97>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Giaru Stamm"
+    },
+    {
+      "$id": 581,
+      "<8C7DD24D>": "<B3EB8509>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Strarc Toray"
+    },
+    {
+      "$id": 582,
+      "<8C7DD24D>": "<216A5EDA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Wira Zoonos"
+    },
+    {
+      "$id": 583,
+      "<8C7DD24D>": "<C64B512B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Giaru Zestamm"
+    },
+    {
+      "$id": 584,
+      "<8C7DD24D>": "<436FF9F8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Strarc Zetoray"
+    },
+    {
+      "$id": 585,
+      "<8C7DD24D>": "<8947F963>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Graaf Nos"
+    },
+    {
+      "$id": 586,
+      "<8C7DD24D>": "<0165F17D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bruna Stamm"
+    },
+    {
+      "$id": 587,
+      "<8C7DD24D>": "<3C355828>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Alsel Toray"
+    },
+    {
+      "$id": 588,
+      "<8C7DD24D>": "<D60F0E59>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Graaf Zoonos"
+    },
+    {
+      "$id": 589,
+      "<8C7DD24D>": "<74F3DC09>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bruna Zestamm"
+    },
+    {
+      "$id": 590,
+      "<8C7DD24D>": "<3D471FFE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Alsel Zetoray"
+    },
+    {
+      "$id": 591,
+      "<8C7DD24D>": "<41F16FB9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Zoah Flak"
+    },
+    {
+      "$id": 592,
+      "<8C7DD24D>": "<4A41CD72>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Migia Flak"
+    },
+    {
+      "$id": 593,
+      "<8C7DD24D>": "<1757FCC1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kurria Flak"
+    },
+    {
+      "$id": 594,
+      "<8C7DD24D>": "<AE18BD72>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ioin Horrish"
+    },
+    {
+      "$id": 595,
+      "<8C7DD24D>": "<37E0D44B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kurono Horrish"
+    },
+    {
+      "$id": 596,
+      "<8C7DD24D>": "<DACFF9E6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Faroos Enpedia"
+    },
+    {
+      "$id": 597,
+      "<8C7DD24D>": "<BB28AD44>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hyadet Enpedia"
+    },
+    {
+      "$id": 598,
+      "<8C7DD24D>": "<834F1CA9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Eruno Kananus"
+    },
+    {
+      "$id": 599,
+      "<8C7DD24D>": "<52FF2856>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Eruno Vokooku"
+    },
+    {
+      "$id": 600,
+      "<8C7DD24D>": "<B37D9F38>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Eruno Myoot"
+    },
+    {
+      "$id": 601,
+      "<8C7DD24D>": "<9533EE76>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ghostfist Róisín"
+    },
+    {
+      "$id": 602,
+      "<8C7DD24D>": "<CDCA9CE5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Cruelfist Rojou"
+    },
+    {
+      "$id": 603,
+      "<8C7DD24D>": "<495DA96A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Trickfist Tuano"
+    },
+    {
+      "$id": 604,
+      "<8C7DD24D>": "<A877C43A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Vapid Roger"
+    },
+    {
+      "$id": 605,
+      "<8C7DD24D>": "<77F822B3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Artificial Optho"
+    },
+    {
+      "$id": 606,
+      "<8C7DD24D>": "<EA595D07>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Phony Temnos"
+    },
+    {
+      "$id": 607,
+      "<8C7DD24D>": "<EA088364>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dishonest Karom"
+    },
+    {
+      "$id": 608,
+      "<8C7DD24D>": "<B45B2FBD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Creeping Hameel"
+    },
+    {
+      "$id": 609,
+      "<8C7DD24D>": "<687C5151>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Clinging Azreel"
+    },
+    {
+      "$id": 610,
+      "<8C7DD24D>": "<EAD3409C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Pressing Rafeel"
+    },
+    {
+      "$id": 611,
+      "<8C7DD24D>": "<C0CD9148>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Reaping Anteel"
+    },
+    {
+      "$id": 612,
+      "<8C7DD24D>": "<F5D9E748>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Thaumawolf Bajeek"
+    },
+    {
+      "$id": 613,
+      "<8C7DD24D>": "<A61D4735>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Desired Oruria"
+    },
+    {
+      "$id": 614,
+      "<8C7DD24D>": "<A10D39E7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Defiled Ishtar"
+    },
+    {
+      "$id": 615,
+      "<8C7DD24D>": "<1F3709A5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gyanna Aspar"
+    },
+    {
+      "$id": 616,
+      "<8C7DD24D>": "<AC077A12>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hunter Volff"
+    },
+    {
+      "$id": 617,
+      "<8C7DD24D>": "<D929CBFB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 618,
+      "<8C7DD24D>": "<4E134965>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Princess Arachno"
+    },
+    {
+      "$id": 619,
+      "<8C7DD24D>": "<F88F3BCB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Savant Arachno"
+    },
+    {
+      "$id": 620,
+      "<8C7DD24D>": "<789DD630>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Drifter Scorpox"
+    },
+    {
+      "$id": 621,
+      "<8C7DD24D>": "<63C32459>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Strange Keves Soldier"
+    },
+    {
+      "$id": 622,
+      "<8C7DD24D>": "<0C034DB8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Incomplete Siege-Lev"
+    },
+    {
+      "$id": 623,
+      "<8C7DD24D>": "<DB3FDCE0>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dutiful Zeon"
+    },
+    {
+      "$id": 624,
+      "<8C7DD24D>": "<C667834F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius B"
+    },
+    {
+      "$id": 625,
+      "<8C7DD24D>": "<F5E42520>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Inscrutable Teach"
+    },
+    {
+      "$id": 626,
+      "<8C7DD24D>": "<68025081>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius G"
+    },
+    {
+      "$id": 627,
+      "<8C7DD24D>": "<4488DA4D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Craftmaiden Alexandria"
+    },
+    {
+      "$id": 628,
+      "<8C7DD24D>": "<FFD644D8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius E"
+    },
+    {
+      "$id": 629,
+      "<8C7DD24D>": "<2DA204C8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Fighter A"
+    },
+    {
+      "$id": 630,
+      "<8C7DD24D>": "<553B4B3A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Fighter B"
+    },
+    {
+      "$id": 631,
+      "<8C7DD24D>": "<A8D68531>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Fighter C"
+    },
+    {
+      "$id": 632,
+      "<8C7DD24D>": "<0434AC0B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Fighter D"
+    },
+    {
+      "$id": 633,
+      "<8C7DD24D>": "<C1339C56>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Fighter E"
+    },
+    {
+      "$id": 634,
+      "<8C7DD24D>": "<6B6414F7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Annon Rhinon"
+    },
+    {
+      "$id": 635,
+      "<8C7DD24D>": "<408EFA65>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Spearhead Zoren"
+    },
+    {
+      "$id": 636,
+      "<8C7DD24D>": "<B3A1D213>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fellplume Easel"
+    },
+    {
+      "$id": 637,
+      "<8C7DD24D>": "<6791C48E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Tenacious Clad"
+    },
+    {
+      "$id": 638,
+      "<8C7DD24D>": "<F5E73CA8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius R"
+    },
+    {
+      "$id": 639,
+      "<8C7DD24D>": "<753BDB2D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Arcaphor Gogol"
+    },
+    {
+      "$id": 640,
+      "<8C7DD24D>": "<4138E162>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Defiant Triton"
+    },
+    {
+      "$id": 641,
+      "<8C7DD24D>": "<9E6595EF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Delit Gyaark"
+    },
+    {
+      "$id": 642,
+      "<8C7DD24D>": "<E1AC63BC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "False Volff"
+    },
+    {
+      "$id": 643,
+      "<8C7DD24D>": "<2231D916>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius I"
+    },
+    {
+      "$id": 644,
+      "<8C7DD24D>": "<7586F44F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mysterious Raider"
+    },
+    {
+      "$id": 645,
+      "<8C7DD24D>": "<2305CB4E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ferron Unit"
+    },
+    {
+      "$id": 646,
+      "<8C7DD24D>": "<A8C250A3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mystery Man"
+    },
+    {
+      "$id": 647,
+      "<8C7DD24D>": "<2AD055C7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Daedal Crustip"
+    },
+    {
+      "$id": 648,
+      "<8C7DD24D>": "<4E996588>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Territorial Antol"
+    },
+    {
+      "$id": 649,
+      "<8C7DD24D>": "<26AD8F0D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Forin Ansel"
+    },
+    {
+      "$id": 650,
+      "<8C7DD24D>": "<D2A1BA55>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Forin Skeeter"
+    },
+    {
+      "$id": 651,
+      "<8C7DD24D>": "<F9B4FB73>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rogue Ropl"
+    },
+    {
+      "$id": 652,
+      "<8C7DD24D>": "<467EB020>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Robobuddy"
+    },
+    {
+      "$id": 653,
+      "<8C7DD24D>": "<CC11F6FC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius Q"
+    },
+    {
+      "$id": 654,
+      "<8C7DD24D>": "<4CAA176F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Annon Rhinon"
+    },
+    {
+      "$id": 655,
+      "<8C7DD24D>": "<B33A792E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius U"
+    },
+    {
+      "$id": 656,
+      "<8C7DD24D>": "<14A5817A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Memorial Ropl"
+    },
+    {
+      "$id": 657,
+      "<8C7DD24D>": "<8102F0AA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Memorial Rhogul"
+    },
+    {
+      "$id": 658,
+      "<8C7DD24D>": "<34676AAB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Memorial Ekidno"
+    },
+    {
+      "$id": 659,
+      "<8C7DD24D>": "<D406ADA3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Giant Gogol"
+    },
+    {
+      "$id": 660,
+      "<8C7DD24D>": "<FEAFF8C2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Evolved Sentry"
+    },
+    {
+      "$id": 661,
+      "<8C7DD24D>": "<55DA2325>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Troll Grebel"
+    },
+    {
+      "$id": 662,
+      "<8C7DD24D>": "<9E62E0DA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Elsayer Ansel"
+    },
+    {
+      "$id": 663,
+      "<8C7DD24D>": "<C9429411>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Deathsapper"
+    },
+    {
+      "$id": 664,
+      "<8C7DD24D>": "<9ADE2BFF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Luina Volff"
+    },
+    {
+      "$id": 665,
+      "<8C7DD24D>": "<23BDE152>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hungry Anlood"
+    },
+    {
+      "$id": 666,
+      "<8C7DD24D>": "<0080985A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hungry Skwaror"
+    },
+    {
+      "$id": 667,
+      "<8C7DD24D>": "<F9EDBA15>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hungry Quadwing"
+    },
+    {
+      "$id": 668,
+      "<8C7DD24D>": "<60004465>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "The Tirking"
+    },
+    {
+      "$id": 669,
+      "<8C7DD24D>": "<A5C50F0B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mlle. du Tirque"
+    },
+    {
+      "$id": 670,
+      "<8C7DD24D>": "<BF9C79CD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Tirkin Groom"
+    },
+    {
+      "$id": 671,
+      "<8C7DD24D>": "<F729D218>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Alaat Skwaror"
+    },
+    {
+      "$id": 672,
+      "<8C7DD24D>": "<3A77B603>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hantis Ansel"
+    },
+    {
+      "$id": 673,
+      "<8C7DD24D>": "<1636BBC6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rattlejack's Levnis"
+    },
+    {
+      "$id": 674,
+      "<8C7DD24D>": "<028D156F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Knoquehardt's Levnis"
+    },
+    {
+      "$id": 675,
+      "<8C7DD24D>": "<594E69F7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Jail Duoblade"
+    },
+    {
+      "$id": 676,
+      "<8C7DD24D>": "<4381A31A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Jail Scout"
+    },
+    {
+      "$id": 677,
+      "<8C7DD24D>": "<C07DB316>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Jail Vanguard"
+    },
+    {
+      "$id": 678,
+      "<8C7DD24D>": "<C9C8762F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Jail Medic"
+    },
+    {
+      "$id": 679,
+      "<8C7DD24D>": "<7D92211D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Jail Skirmisher"
+    },
+    {
+      "$id": 680,
+      "<8C7DD24D>": "<CB3CDE22>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Jail Blaster"
+    },
+    {
+      "$id": 681,
+      "<8C7DD24D>": "<0BEC8B09>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Staahl Gogol"
+    },
+    {
+      "$id": 682,
+      "<8C7DD24D>": "<A607F3E5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Enkrees Feris"
+    },
+    {
+      "$id": 683,
+      "<8C7DD24D>": "<9FFF950F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Zhell Ottil"
+    },
+    {
+      "$id": 684,
+      "<8C7DD24D>": "<A0ADFD09>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Delicious Serprond"
+    },
+    {
+      "$id": 685,
+      "<8C7DD24D>": "<E643D876>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Assassin Moramora"
+    },
+    {
+      "$id": 686,
+      "<8C7DD24D>": "<2D2969DF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Armuvore Aligo"
+    },
+    {
+      "$id": 687,
+      "<8C7DD24D>": "<F4FC4E80>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Armuvore Aligo"
+    },
+    {
+      "$id": 688,
+      "<8C7DD24D>": "<80D0C5AC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Armuvore Aligo"
+    },
+    {
+      "$id": 689,
+      "<8C7DD24D>": "<A56943D7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hard Hox"
+    },
+    {
+      "$id": 690,
+      "<8C7DD24D>": "<95043258>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hard Hox"
+    },
+    {
+      "$id": 691,
+      "<8C7DD24D>": "<C75FC63E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hard Hox"
+    },
+    {
+      "$id": 692,
+      "<8C7DD24D>": "<EDD2DA48>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Debria Volff"
+    },
+    {
+      "$id": 693,
+      "<8C7DD24D>": "<53243122>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Towaris Taos"
+    },
+    {
+      "$id": 694,
+      "<8C7DD24D>": "<AE6C005D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Midona Arachno"
+    },
+    {
+      "$id": 695,
+      "<8C7DD24D>": "<9D0E00D0>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Drone Arachno"
+    },
+    {
+      "$id": 696,
+      "<8C7DD24D>": "<2CF34F62>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mysterious Raider"
+    },
+    {
+      "$id": 697,
+      "<8C7DD24D>": "<8D5E61DD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mysterious Raider"
+    },
+    {
+      "$id": 698,
+      "<8C7DD24D>": "<54241978>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rogue Tirkin"
+    },
+    {
+      "$id": 699,
+      "<8C7DD24D>": "<D7B73A9B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rogue Tirkin"
+    },
+    {
+      "$id": 700,
+      "<8C7DD24D>": "<BACD72C2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rogue Tirkin"
+    },
+    {
+      "$id": 701,
+      "<8C7DD24D>": "<2BB8AE72>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rogue Tirkin"
+    },
+    {
+      "$id": 702,
+      "<8C7DD24D>": "<453E49C1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rogue Tirkin"
+    },
+    {
+      "$id": 703,
+      "<8C7DD24D>": "<9E62BFD4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rogue Tirkin"
+    },
+    {
+      "$id": 704,
+      "<8C7DD24D>": "<AA375F34>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ribeega Scorpox"
+    },
+    {
+      "$id": 705,
+      "<8C7DD24D>": "<3EF3ED74>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hedred Scorpox"
+    },
+    {
+      "$id": 706,
+      "<8C7DD24D>": "<C5A4304A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Larm Ansel"
+    },
+    {
+      "$id": 707,
+      "<8C7DD24D>": "<8C492B66>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Medolya Feris"
+    },
+    {
+      "$id": 708,
+      "<8C7DD24D>": "<2B66CD28>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sweet Plambus"
+    },
+    {
+      "$id": 709,
+      "<8C7DD24D>": "<10E26AD0>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Itiya Darbus"
+    },
+    {
+      "$id": 710,
+      "<8C7DD24D>": "<8B8F9E6B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Invaiss Vollgull"
+    },
+    {
+      "$id": 711,
+      "<8C7DD24D>": "<107260DB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dorrick"
+    },
+    {
+      "$id": 712,
+      "<8C7DD24D>": "<3A8884CF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Owja Ropl"
+    },
+    {
+      "$id": 713,
+      "<8C7DD24D>": "<E17F5001>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 714,
+      "<8C7DD24D>": "<0275C1E1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 715,
+      "<8C7DD24D>": "<1A120219>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 716,
+      "<8C7DD24D>": "<E0A6F13F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 717,
+      "<8C7DD24D>": "<540D86FB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 718,
+      "<8C7DD24D>": "<753D666C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 719,
+      "<8C7DD24D>": "<FD615005>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 720,
+      "<8C7DD24D>": "<D73AFDB0>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 721,
+      "<8C7DD24D>": "<7E8EF08A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 722,
+      "<8C7DD24D>": "<2370477F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Merrosh Rhogul"
+    },
+    {
+      "$id": 723,
+      "<8C7DD24D>": "<619ACF09>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Aviga Volff"
+    },
+    {
+      "$id": 724,
+      "<8C7DD24D>": "<D4B538F9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Avee Volff"
+    },
+    {
+      "$id": 725,
+      "<8C7DD24D>": "<41E98B36>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Avee Rhogul"
+    },
+    {
+      "$id": 726,
+      "<8C7DD24D>": "<CDF58AD5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Aviga Rhogul"
+    },
+    {
+      "$id": 727,
+      "<8C7DD24D>": "<9B3AE48C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kallow Aries"
+    },
+    {
+      "$id": 728,
+      "<8C7DD24D>": "<22D5F4CE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Karorii Ories"
+    },
+    {
+      "$id": 729,
+      "<8C7DD24D>": "<5F28AE92>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Grauw Crustip"
+    },
+    {
+      "$id": 730,
+      "<8C7DD24D>": "<8052E564>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Purumii Crustip"
+    },
+    {
+      "$id": 731,
+      "<8C7DD24D>": "<16D66C02>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Eghi Rhogul"
+    },
+    {
+      "$id": 732,
+      "<8C7DD24D>": "<4511F98A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Maroking Marrin"
+    },
+    {
+      "$id": 733,
+      "<8C7DD24D>": "<A0931DDD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius H"
+    },
+    {
+      "$id": 734,
+      "<8C7DD24D>": "<D868FB11>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Consul X"
+    },
+    {
+      "$id": 735,
+      "<8C7DD24D>": "<B3EA3501>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius L"
+    },
+    {
+      "$id": 736,
+      "<8C7DD24D>": "<E633B389>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 737,
+      "<8C7DD24D>": "<F57B518A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Consul Crys"
+    },
+    {
+      "$id": 738,
+      "<8C7DD24D>": "<11875DD2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dannagh Scorpox"
+    },
+    {
+      "$id": 739,
+      "<8C7DD24D>": "<E88E2254>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ulula"
+    },
+    {
+      "$id": 740,
+      "<8C7DD24D>": "<00EAB305>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Yunnae Feris"
+    },
+    {
+      "$id": 741,
+      "<8C7DD24D>": "<3717A2E7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Armadillo"
+    },
+    {
+      "$id": 742,
+      "<8C7DD24D>": "<7704175E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lavi Pagul"
+    },
+    {
+      "$id": 743,
+      "<8C7DD24D>": "<3DC0CA5F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Medica Pippito"
+    },
+    {
+      "$id": 744,
+      "<8C7DD24D>": "<EF4D8585>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Misty Medooz"
+    },
+    {
+      "$id": 745,
+      "<8C7DD24D>": "<C935C1F6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Depriti Pippito"
+    },
+    {
+      "$id": 746,
+      "<8C7DD24D>": "<E03E23D4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius V"
+    },
+    {
+      "$id": 747,
+      "<8C7DD24D>": "<4AB814A2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Varmeen Medooz"
+    },
+    {
+      "$id": 748,
+      "<8C7DD24D>": "<7EEC4F2D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Varmeen Blant"
+    },
+    {
+      "$id": 749,
+      "<8C7DD24D>": "<ACF294FA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Feyz Rhogul"
+    },
+    {
+      "$id": 750,
+      "<8C7DD24D>": "<63D432F2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius S"
+    },
+    {
+      "$id": 751,
+      "<8C7DD24D>": "<1AB5154E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Smoldering Cammuravi"
+    },
+    {
+      "$id": 752,
+      "<8C7DD24D>": "<24E0A14B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Glorysong Miyabi"
+    },
+    {
+      "$id": 753,
+      "<8C7DD24D>": "<D39DD92D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rhodya Volff"
+    },
+    {
+      "$id": 754,
+      "<8C7DD24D>": "<D9DB9CAB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rhodhii Volff"
+    },
+    {
+      "$id": 755,
+      "<8C7DD24D>": "<B023F920>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 756,
+      "<8C7DD24D>": "<7C01962F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 757,
+      "<8C7DD24D>": "<76E02BB9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 758,
+      "<8C7DD24D>": "<831CB8C6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Undying Blade Ashera"
+    },
+    {
+      "$id": 759,
+      "<8C7DD24D>": "<3FC3DFFD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius R"
+    },
+    {
+      "$id": 760,
+      "<8C7DD24D>": "<3EDEA6DB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius W"
+    },
+    {
+      "$id": 761,
+      "<8C7DD24D>": "<C2D523BD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Nestrand Crustip"
+    },
+    {
+      "$id": 762,
+      "<8C7DD24D>": "<77C03B3F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Eregaa Anlood"
+    },
+    {
+      "$id": 763,
+      "<8C7DD24D>": "<CBFBA3A2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Planaa Ansel"
+    },
+    {
+      "$id": 764,
+      "<8C7DD24D>": "<CD761060>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Seeth Ansel"
+    },
+    {
+      "$id": 765,
+      "<8C7DD24D>": "<5E1F8AE1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Basreek Feris"
+    },
+    {
+      "$id": 766,
+      "<8C7DD24D>": "<60777107>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Swaroog Rhana"
+    },
+    {
+      "$id": 767,
+      "<8C7DD24D>": "<B4D5AE1E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kaalm Garaffa"
+    },
+    {
+      "$id": 768,
+      "<8C7DD24D>": "<708F0409>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mechapod Carthegia"
+    },
+    {
+      "$id": 769,
+      "<8C7DD24D>": "<3E217C2B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 770,
+      "<8C7DD24D>": "<B85657AD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gyrinus"
+    },
+    {
+      "$id": 771,
+      "<8C7DD24D>": "<7C9529CF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Equites"
+    },
+    {
+      "$id": 772,
+      "<8C7DD24D>": "<24B13AC3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Velites"
+    },
+    {
+      "$id": 773,
+      "<8C7DD24D>": "<9EE6B72F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sagittarius"
+    },
+    {
+      "$id": 774,
+      "<8C7DD24D>": "<DE5B2FA2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Avis"
+    },
+    {
+      "$id": 775,
+      "<8C7DD24D>": "<1EC91904>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Testudo"
+    },
+    {
+      "$id": 776,
+      "<8C7DD24D>": "<0CC1BBB5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Armadillo"
+    },
+    {
+      "$id": 777,
+      "<8C7DD24D>": "<57EA7CFB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Centuris"
+    },
+    {
+      "$id": 778,
+      "<8C7DD24D>": "<ADF732DA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gastrates"
+    },
+    {
+      "$id": 779,
+      "<8C7DD24D>": "<B26A88A4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 780,
+      "<8C7DD24D>": "<D98565A2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Trooper"
+    },
+    {
+      "$id": 781,
+      "<8C7DD24D>": "<4281B7B1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Warrior"
+    },
+    {
+      "$id": 782,
+      "<8C7DD24D>": "<8ECE58FC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Blaster"
+    },
+    {
+      "$id": 783,
+      "<8C7DD24D>": "<6D23A4B0>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Sniper"
+    },
+    {
+      "$id": 784,
+      "<8C7DD24D>": "<5AFD0CD2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Blocker"
+    },
+    {
+      "$id": 785,
+      "<8C7DD24D>": "<BA264793>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Rescuer"
+    },
+    {
+      "$id": 786,
+      "<8C7DD24D>": "<5DB46648>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Trooper Elite"
+    },
+    {
+      "$id": 787,
+      "<8C7DD24D>": "<D2247726>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Sniper Elite"
+    },
+    {
+      "$id": 788,
+      "<8C7DD24D>": "<F9263C96>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Blocker Elite"
+    },
+    {
+      "$id": 789,
+      "<8C7DD24D>": "<57FCA4F3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Rescuer Elite"
+    },
+    {
+      "$id": 790,
+      "<8C7DD24D>": "<8EEA689E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Warrior Elite"
+    },
+    {
+      "$id": 791,
+      "<8C7DD24D>": "<BAB097DC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Duoblade"
+    },
+    {
+      "$id": 792,
+      "<8C7DD24D>": "<0966C38B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Skirmisher"
+    },
+    {
+      "$id": 793,
+      "<8C7DD24D>": "<0F6F15E8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Blaster"
+    },
+    {
+      "$id": 794,
+      "<8C7DD24D>": "<D0CF40D6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Scout"
+    },
+    {
+      "$id": 795,
+      "<8C7DD24D>": "<5AFBF5FB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Vanguard"
+    },
+    {
+      "$id": 796,
+      "<8C7DD24D>": "<FB0322AD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Medic"
+    },
+    {
+      "$id": 797,
+      "<8C7DD24D>": "<BC51F695>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Duoblade Elite"
+    },
+    {
+      "$id": 798,
+      "<8C7DD24D>": "<553462D5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ag. Skirmisher Elite"
+    },
+    {
+      "$id": 799,
+      "<8C7DD24D>": "<D3F44857>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Vanguard Elite"
+    },
+    {
+      "$id": 800,
+      "<8C7DD24D>": "<B0F71D60>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Medic Elite"
+    },
+    {
+      "$id": 801,
+      "<8C7DD24D>": "<31D728B2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Blaster Elite"
+    },
+    {
+      "$id": 802,
+      "<8C7DD24D>": "<3D61B5D4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lost Protector"
+    },
+    {
+      "$id": 803,
+      "<8C7DD24D>": "<C2B1F96D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lost Fighter"
+    },
+    {
+      "$id": 804,
+      "<8C7DD24D>": "<E426F16B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 805,
+      "<8C7DD24D>": "<15427B5A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 806,
+      "<8C7DD24D>": "<CA4024AA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Alaat Ageshu"
+    },
+    {
+      "$id": 807,
+      "<8C7DD24D>": "<8B08ABCE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Alaat Quadwing"
+    },
+    {
+      "$id": 808,
+      "<8C7DD24D>": "<0E9C5C21>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ragora Bunnit"
+    },
+    {
+      "$id": 809,
+      "<8C7DD24D>": "<51E2DDEA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dingaa Bunnit"
+    },
+    {
+      "$id": 810,
+      "<8C7DD24D>": "<1F019CEA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Machinok Bunnit"
+    },
+    {
+      "$id": 811,
+      "<8C7DD24D>": "<5C63059B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kanbat Rhogul"
+    },
+    {
+      "$id": 812,
+      "<8C7DD24D>": "<236D11EC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rhoden Kapiba"
+    },
+    {
+      "$id": 813,
+      "<8C7DD24D>": "<03C8984B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fineblade Faltaar"
+    },
+    {
+      "$id": 814,
+      "<8C7DD24D>": "<7991479C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mizruto Bunnit"
+    },
+    {
+      "$id": 815,
+      "<8C7DD24D>": "<9B847B99>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gragran Bunnit"
+    },
+    {
+      "$id": 816,
+      "<8C7DD24D>": "<130E90A0>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Voppa Bunnit"
+    },
+    {
+      "$id": 817,
+      "<8C7DD24D>": "<4F438F74>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Shika Rhogul"
+    },
+    {
+      "$id": 818,
+      "<8C7DD24D>": "<3E5CF556>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Zenze Taos"
+    },
+    {
+      "$id": 819,
+      "<8C7DD24D>": "<32381E45>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Arpat Anlood"
+    },
+    {
+      "$id": 820,
+      "<8C7DD24D>": "<D0B4AA06>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Costa Aries"
+    },
+    {
+      "$id": 821,
+      "<8C7DD24D>": "<3D8DDA9C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Little Aries"
+    },
+    {
+      "$id": 822,
+      "<8C7DD24D>": "<DE981ED9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Heavenrazor Egreet"
+    },
+    {
+      "$id": 823,
+      "<8C7DD24D>": "<C0A53838>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Seraphic Ceratinia"
+    },
+    {
+      "$id": 824,
+      "<8C7DD24D>": "<1AEA2A7A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Shielder Tirkin"
+    },
+    {
+      "$id": 825,
+      "<8C7DD24D>": "<5B0C6B0F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Spear Tirkin"
+    },
+    {
+      "$id": 826,
+      "<8C7DD24D>": "<3448263D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Arrow Tirkin"
+    },
+    {
+      "$id": 827,
+      "<8C7DD24D>": "<8B875B3A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bard Tirkin"
+    },
+    {
+      "$id": 828,
+      "<8C7DD24D>": "<BE3B0A43>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Squire Tirkin"
+    },
+    {
+      "$id": 829,
+      "<8C7DD24D>": "<0EECB222>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lancer Tirkin"
+    },
+    {
+      "$id": 830,
+      "<8C7DD24D>": "<CCDD64C7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Archer Tirkin"
+    },
+    {
+      "$id": 831,
+      "<8C7DD24D>": "<77C09A32>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Musical Tirkin"
+    },
+    {
+      "$id": 832,
+      "<8C7DD24D>": "<1A15C573>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 833,
+      "<8C7DD24D>": "<0BE9A9E1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 834,
+      "<8C7DD24D>": "<C4D84FE4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 835,
+      "<8C7DD24D>": "<5A141534>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 836,
+      "<8C7DD24D>": "<A341A355>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 837,
+      "<8C7DD24D>": "<A8740A11>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 838,
+      "<8C7DD24D>": "<EB330DCE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 839,
+      "<8C7DD24D>": "<EE7BB553>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 840,
+      "<8C7DD24D>": "<99E83202>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 841,
+      "<8C7DD24D>": "<D917B8F4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 842,
+      "<8C7DD24D>": "<9E60698C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 843,
+      "<8C7DD24D>": "<95A842AD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 844,
+      "<8C7DD24D>": "<178365B7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Knightlord Tirkin"
+    },
+    {
+      "$id": 845,
+      "<8C7DD24D>": "<5E5B6D00>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Pikelord Tirkin"
+    },
+    {
+      "$id": 846,
+      "<8C7DD24D>": "<38ECF45B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bowlord Tirkin"
+    },
+    {
+      "$id": 847,
+      "<8C7DD24D>": "<3C94AA80>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bardlord Tirkin"
+    },
+    {
+      "$id": 848,
+      "<8C7DD24D>": "<5391871C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Archknight Tirkin"
+    },
+    {
+      "$id": 849,
+      "<8C7DD24D>": "<0CCD52A5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Archpike Tirkin"
+    },
+    {
+      "$id": 850,
+      "<8C7DD24D>": "<6B7005EA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Archbow Tirkin"
+    },
+    {
+      "$id": 851,
+      "<8C7DD24D>": "<D9A40FB5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Archbard Tirkin"
+    },
+    {
+      "$id": 852,
+      "<8C7DD24D>": "<2884D8E3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Shielder Igna"
+    },
+    {
+      "$id": 853,
+      "<8C7DD24D>": "<DD6E7E36>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sword Igna"
+    },
+    {
+      "$id": 854,
+      "<8C7DD24D>": "<0DD6598F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Arrow Igna"
+    },
+    {
+      "$id": 855,
+      "<8C7DD24D>": "<EEDD0EE3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bard Igna"
+    },
+    {
+      "$id": 856,
+      "<8C7DD24D>": "<46F5C0AE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Musketeer Igna"
+    },
+    {
+      "$id": 857,
+      "<8C7DD24D>": "<24ED7B12>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Duel Igna"
+    },
+    {
+      "$id": 858,
+      "<8C7DD24D>": "<84891B19>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ranger Igna"
+    },
+    {
+      "$id": 859,
+      "<8C7DD24D>": "<DC9B6C8C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Minstrel Igna"
+    },
+    {
+      "$id": 860,
+      "<8C7DD24D>": "<343FBBB3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Crazed Igna"
+    },
+    {
+      "$id": 861,
+      "<8C7DD24D>": "<1CF551C4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bloodthirsty Igna"
+    },
+    {
+      "$id": 862,
+      "<8C7DD24D>": "<0C25D9B4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Heartkiller Igna"
+    },
+    {
+      "$id": 863,
+      "<8C7DD24D>": "<D543FA55>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Discordant Igna"
+    },
+    {
+      "$id": 864,
+      "<8C7DD24D>": "<85542CB4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ethel"
+    },
+    {
+      "$id": 865,
+      "<8C7DD24D>": "<ED4CFD42>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Riku"
+    },
+    {
+      "$id": 866,
+      "<8C7DD24D>": "<990759FE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Manana"
+    },
+    {
+      "$id": 867,
+      "<8C7DD24D>": "<31BD0902>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Isurd"
+    },
+    {
+      "$id": 868,
+      "<8C7DD24D>": "<9CA26957>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Miyabi"
+    },
+    {
+      "$id": 869,
+      "<8C7DD24D>": "<FB26DCB2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Cammuravi"
+    },
+    {
+      "$id": 870,
+      "<8C7DD24D>": "<3BF4CC4E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Monica"
+    },
+    {
+      "$id": 871,
+      "<8C7DD24D>": "<6FA82713>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Nia"
+    },
+    {
+      "$id": 872,
+      "<8C7DD24D>": "<7EEFE868>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Melia"
+    },
+    {
+      "$id": 873,
+      "<8C7DD24D>": "<59CB8237>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Valdi"
+    },
+    {
+      "$id": 874,
+      "<8C7DD24D>": "<1F123E75>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Zeon"
+    },
+    {
+      "$id": 875,
+      "<8C7DD24D>": "<7BC70A71>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Teach"
+    },
+    {
+      "$id": 876,
+      "<8C7DD24D>": "<1D5A158C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Alexandria"
+    },
+    {
+      "$id": 877,
+      "<8C7DD24D>": "<6DED4435>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Juniper"
+    },
+    {
+      "$id": 878,
+      "<8C7DD24D>": "<CA2725CC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ashera"
+    },
+    {
+      "$id": 879,
+      "<8C7DD24D>": "<9194BB2A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Triton"
+    },
+    {
+      "$id": 880,
+      "<8C7DD24D>": "<4593148C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fiona"
+    },
+    {
+      "$id": 881,
+      "<8C7DD24D>": "<9DCC085A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Segiri"
+    },
+    {
+      "$id": 882,
+      "<8C7DD24D>": "<EADC36C7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ghondor"
+    },
+    {
+      "$id": 883,
+      "<8C7DD24D>": "<642B8F88>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gray"
+    },
+    {
+      "$id": 884,
+      "<8C7DD24D>": "<DFA5C8D6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Abyssal Medooz"
+    },
+    {
+      "$id": 885,
+      "<8C7DD24D>": "<65EE29B2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Strikechief Alfead"
+    },
+    {
+      "$id": 886,
+      "<8C7DD24D>": "<2CCAAB30>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Guardchief Paramecia"
+    },
+    {
+      "$id": 887,
+      "<8C7DD24D>": "<D9A69F05>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bowchief Felix"
+    },
+    {
+      "$id": 888,
+      "<8C7DD24D>": "<B59B4E73>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Troupechief Balteid"
+    },
+    {
+      "$id": 889,
+      "<8C7DD24D>": "<1075DCBA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Troupechief Harmelon"
+    },
+    {
+      "$id": 890,
+      "<8C7DD24D>": "<CEF0C74B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bowchief Cornelius"
+    },
+    {
+      "$id": 891,
+      "<8C7DD24D>": "<F30391A1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bowchief Godwin"
+    },
+    {
+      "$id": 892,
+      "<8C7DD24D>": "<AB9EEE59>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Paloo Shoox"
+    },
+    {
+      "$id": 893,
+      "<8C7DD24D>": "<800DDE97>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 894,
+      "<8C7DD24D>": "<0D4915B7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 895,
+      "<8C7DD24D>": "<3C8F355C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 896,
+      "<8C7DD24D>": "<4432FD51>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dannagh Arachno"
+    },
+    {
+      "$id": 897,
+      "<8C7DD24D>": "<EA0F1A36>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Disparre Skwaror"
+    },
+    {
+      "$id": 898,
+      "<8C7DD24D>": "<00FC22C1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Nopon Eater"
+    },
+    {
+      "$id": 899,
+      "<8C7DD24D>": "<B1C750F6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Queen's Guard Captain"
+    },
+    {
+      "$id": 900,
+      "<8C7DD24D>": "<F9BED80D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dawnhero Isurd"
+    },
+    {
+      "$id": 901,
+      "<8C7DD24D>": "<7899E29D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ashenpelt Gray"
+    },
+    {
+      "$id": 902,
+      "<8C7DD24D>": "<0B1E5DF9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "City's Bulwark Monica"
+    },
+    {
+      "$id": 903,
+      "<8C7DD24D>": "<CED4170A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Wrathfist Ghondor"
+    },
+    {
+      "$id": 904,
+      "<8C7DD24D>": "<E303C479>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "No. 7 Segiri"
+    },
+    {
+      "$id": 905,
+      "<8C7DD24D>": "<97EA9F11>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Artificer Valdi"
+    },
+    {
+      "$id": 906,
+      "<8C7DD24D>": "<77DD45C3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Proudbanner Fiona"
+    },
+    {
+      "$id": 907,
+      "<8C7DD24D>": "<C540053C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ghostbow Juniper"
+    },
+    {
+      "$id": 908,
+      "<8C7DD24D>": "<B1ABE703>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sonorous Taos"
+    },
+    {
+      "$id": 909,
+      "<8C7DD24D>": "<62281432>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Argent Ropl"
+    },
+    {
+      "$id": 910,
+      "<8C7DD24D>": "<A6CADAEF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fortunate Pippito"
+    },
+    {
+      "$id": 911,
+      "<8C7DD24D>": "<3367CF7C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Joyful Pippito"
+    },
+    {
+      "$id": 912,
+      "<8C7DD24D>": "<97D973DB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Prosperous Pippito"
+    },
+    {
+      "$id": 913,
+      "<8C7DD24D>": "<3CF8EDBB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Joyful Ottil"
+    },
+    {
+      "$id": 914,
+      "<8C7DD24D>": "<297F4062>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Prosperous Ottil"
+    },
+    {
+      "$id": 915,
+      "<8C7DD24D>": "<B3D5CCFC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Vatura Flak"
+    },
+    {
+      "$id": 916,
+      "<8C7DD24D>": "<B89C90CE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Desperate Kevesi"
+    },
+    {
+      "$id": 917,
+      "<8C7DD24D>": "<B4EDB90F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Desperate Agnian"
+    },
+    {
+      "$id": 918,
+      "<8C7DD24D>": "<B9DB6934>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius Q"
+    },
+    {
+      "$id": 919,
+      "<8C7DD24D>": "<F8269DFD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius R"
+    },
+    {
+      "$id": 920,
+      "<8C7DD24D>": "<87A34B17>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ghondor"
+    },
+    {
+      "$id": 921,
+      "<8C7DD24D>": "<B2EC0220>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ritteli Rhinon"
+    },
+    {
+      "$id": 922,
+      "<8C7DD24D>": "<3540B104>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Skarn Volff"
+    },
+    {
+      "$id": 923,
+      "<8C7DD24D>": "<5E2FF473>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mystery Unit Captain"
+    },
+    {
+      "$id": 924,
+      "<8C7DD24D>": "<818BC43C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mystery Unit Soldier"
+    },
+    {
+      "$id": 925,
+      "<8C7DD24D>": "<86343323>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mystery Unit Soldier"
+    },
+    {
+      "$id": 926,
+      "<8C7DD24D>": "<D456BD41>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Liberator Sentry"
+    },
+    {
+      "$id": 927,
+      "<8C7DD24D>": "<8FEDA81A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Liberator Sentry"
+    },
+    {
+      "$id": 928,
+      "<8C7DD24D>": "<EA8FB365>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Colony Eta Ferronis"
+    },
+    {
+      "$id": 929,
+      "<8C7DD24D>": "<D08C47DB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius W"
+    },
+    {
+      "$id": 930,
+      "<8C7DD24D>": "<DA9437EA>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnian Ferronis"
+    },
+    {
+      "$id": 931,
+      "<8C7DD24D>": "<9EF65F40>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Kevesi Ferronis"
+    },
+    {
+      "$id": 932,
+      "<8C7DD24D>": "<5D3CF2B7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Diastone Feris"
+    },
+    {
+      "$id": 933,
+      "<8C7DD24D>": "<5D8972F0>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Na'el / Alpha"
+    },
+    {
+      "$id": 934,
+      "<8C7DD24D>": "<29A8173F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius N"
+    },
+    {
+      "$id": 935,
+      "<8C7DD24D>": "<6FABE0B7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius N"
+    },
+    {
+      "$id": 936,
+      "<8C7DD24D>": "<5DA9CE99>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Moebius N"
+    },
+    {
+      "$id": 937,
+      "<8C7DD24D>": "<8B63A233>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Alpha"
+    },
+    {
+      "$id": 938,
+      "<8C7DD24D>": "<0C88BDFF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Alpha"
+    },
+    {
+      "$id": 939,
+      "<8C7DD24D>": "<94760F11>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Heidel Taos"
+    },
+    {
+      "$id": 940,
+      "<8C7DD24D>": "<8258CD3B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Stoutheart Rex"
+    },
+    {
+      "$id": 941,
+      "<8C7DD24D>": "<71957873>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Godcleaver Shulk"
+    },
+    {
+      "$id": 942,
+      "<8C7DD24D>": "<D270041E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Wickt Igna"
+    },
+    {
+      "$id": 943,
+      "<8C7DD24D>": "<46AD7F34>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Überfall Tirkin"
+    },
+    {
+      "$id": 944,
+      "<8C7DD24D>": "<F5E1EB5E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Emboscada Tirkin"
+    },
+    {
+      "$id": 945,
+      "<8C7DD24D>": "<82903110>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Naljot Tirkin"
+    },
+    {
+      "$id": 946,
+      "<8C7DD24D>": "<61692B55>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Treasure Antol"
+    },
+    {
+      "$id": 947,
+      "<8C7DD24D>": "<64CDE0D4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Prototype Automaton"
+    },
+    {
+      "$id": 948,
+      "<8C7DD24D>": "<F4CB62CE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gigante Anlood"
+    },
+    {
+      "$id": 949,
+      "<8C7DD24D>": "<4462B8D6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Zalmor Piranhax"
+    },
+    {
+      "$id": 950,
+      "<8C7DD24D>": "<1683FF9B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Shade Feris"
+    },
+    {
+      "$id": 951,
+      "<8C7DD24D>": "<54BA3191>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Nightmare Feris"
+    },
+    {
+      "$id": 952,
+      "<8C7DD24D>": "<4894A0DF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "???"
+    },
+    {
+      "$id": 953,
+      "<8C7DD24D>": "<B6C6322B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Alif Aspar"
+    },
+    {
+      "$id": 954,
+      "<8C7DD24D>": "<B3FA55FE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Omeg Ropl"
+    },
+    {
+      "$id": 955,
+      "<8C7DD24D>": "<C03DEE03>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "New Liberator Recruit"
+    },
+    {
+      "$id": 956,
+      "<8C7DD24D>": "<9A904827>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bombastic Rotbart Jr."
+    },
+    {
+      "$id": 957,
+      "<8C7DD24D>": "<A615CBDB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Advent Wolf Marduk"
+    },
+    {
+      "$id": 958,
+      "<8C7DD24D>": "<CBED155C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fogstalker Naiara"
+    },
+    {
+      "$id": 959,
+      "<8C7DD24D>": "<0E4F29E9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Prohibitor Giuseppe"
+    },
+    {
+      "$id": 960,
+      "<8C7DD24D>": "<41E6F4BD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Stronghammer Dorga"
+    },
+    {
+      "$id": 961,
+      "<8C7DD24D>": "<AD630AA5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Peacebringer Divalo"
+    },
+    {
+      "$id": 962,
+      "<8C7DD24D>": "<4394465E>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hilltop Chegwin"
+    },
+    {
+      "$id": 963,
+      "<8C7DD24D>": "<162A3965>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Smothering Andante"
+    },
+    {
+      "$id": 964,
+      "<8C7DD24D>": "<7217A9FB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Treehugger Gerald"
+    },
+    {
+      "$id": 965,
+      "<8C7DD24D>": "<879315AF>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Radicalized Godwin"
+    },
+    {
+      "$id": 966,
+      "<8C7DD24D>": "<F7384A22>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Cavalier MacBright"
+    },
+    {
+      "$id": 967,
+      "<8C7DD24D>": "<9C68E6EC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fograptor D'nari"
+    },
+    {
+      "$id": 968,
+      "<8C7DD24D>": "<FDE131D6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fogtrawler Tallstuff"
+    },
+    {
+      "$id": 969,
+      "<8C7DD24D>": "<F956BE0B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gotthard, the Ethereal"
+    },
+    {
+      "$id": 970,
+      "<8C7DD24D>": "<A91B5DD1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gotthard-Kin Grebel"
+    },
+    {
+      "$id": 971,
+      "<8C7DD24D>": "<028D8E42>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Troglodyte Umir"
+    },
+    {
+      "$id": 972,
+      "<8C7DD24D>": "<1A036C26>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Smackdown Brannigan"
+    },
+    {
+      "$id": 973,
+      "<8C7DD24D>": "<5ED07F2A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Tenebrous Muramasa"
+    },
+    {
+      "$id": 974,
+      "<8C7DD24D>": "<5B910153>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Cryoconite Laurel"
+    },
+    {
+      "$id": 975,
+      "<8C7DD24D>": "<B46A5BCE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Bioluminescent Bob"
+    },
+    {
+      "$id": 976,
+      "<8C7DD24D>": "<A41E0EC4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Perambulator Moritz"
+    },
+    {
+      "$id": 977,
+      "<8C7DD24D>": "<5E2CF118>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Many-Lived Derrick"
+    },
+    {
+      "$id": 978,
+      "<8C7DD24D>": "<CC95376B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sworn Protector Hector"
+    },
+    {
+      "$id": 979,
+      "<8C7DD24D>": "<FA11CAB3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Naberius Invictus"
+    },
+    {
+      "$id": 980,
+      "<8C7DD24D>": "<E2959F54>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Surrogate Fitzpatrick"
+    },
+    {
+      "$id": 981,
+      "<8C7DD24D>": "<F1DB7309>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Thunderfish Duna-Roa"
+    },
+    {
+      "$id": 982,
+      "<8C7DD24D>": "<90FB76F9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Hallowcanter Hazerune"
+    },
+    {
+      "$id": 983,
+      "<8C7DD24D>": "<1ABE8CD9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dragon God Alcar"
+    },
+    {
+      "$id": 984,
+      "<8C7DD24D>": "<B2D4C2A3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sensational Gigapur"
+    },
+    {
+      "$id": 985,
+      "<8C7DD24D>": "<8E0959B7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Foghewn Augustus"
+    },
+    {
+      "$id": 986,
+      "<8C7DD24D>": "<EA1B6EC1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fogdweller Abaasy"
+    },
+    {
+      "$id": 987,
+      "<8C7DD24D>": "<63D11867>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Watchful Valencia"
+    },
+    {
+      "$id": 988,
+      "<8C7DD24D>": "<6703991C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rhogul Egg"
+    },
+    {
+      "$id": 989,
+      "<8C7DD24D>": "<8F8647B4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Baby Rhogul"
+    },
+    {
+      "$id": 990,
+      "<8C7DD24D>": "<C3BB8A7B>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Emblem"
+    },
+    {
+      "$id": 991,
+      "<8C7DD24D>": "<26849273>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus High Scout"
+    },
+    {
+      "$id": 992,
+      "<8C7DD24D>": "<75CC1EAE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fog Rift"
+    },
+    {
+      "$id": 993,
+      "<8C7DD24D>": "<B26F6861>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Fog-called Beast"
+    },
+    {
+      "$id": 994,
+      "<8C7DD24D>": "<BD421354>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Skeeter Nest"
+    },
+    {
+      "$id": 995,
+      "<8C7DD24D>": "<B9E6C831>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Tirkin Totem"
+    },
+    {
+      "$id": 996,
+      "<8C7DD24D>": "<AB655DC2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Mona Ellook"
+    },
+    {
+      "$id": 997,
+      "<8C7DD24D>": "<91B8911F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Galde Volff"
+    },
+    {
+      "$id": 998,
+      "<8C7DD24D>": "<DB3FDCBC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Aspar Egg"
+    },
+    {
+      "$id": 999,
+      "<8C7DD24D>": "<DE9CB6AD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Baby Aspar"
+    },
+    {
+      "$id": 1000,
+      "<8C7DD24D>": "<998CB327>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Igna Symbol"
+    },
+    {
+      "$id": 1001,
+      "<8C7DD24D>": "<CB5FC703>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Shadow Garaffa"
+    },
+    {
+      "$id": 1002,
+      "<8C7DD24D>": "<2E1FF52F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Shadow Egel"
+    },
+    {
+      "$id": 1003,
+      "<8C7DD24D>": "<2E44CE03>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Drigus Egel"
+    },
+    {
+      "$id": 1004,
+      "<8C7DD24D>": "<66B78612>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Blade Igna"
+    },
+    {
+      "$id": 1005,
+      "<8C7DD24D>": "<96CE12BD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Longhorn Igna"
+    },
+    {
+      "$id": 1006,
+      "<8C7DD24D>": "<06839F73>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Igloon Symbol"
+    },
+    {
+      "$id": 1007,
+      "<8C7DD24D>": "<04CB45F7>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Agnus Emblem"
+    },
+    {
+      "$id": 1008,
+      "<8C7DD24D>": "<B00962D4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dark Skwaror"
+    },
+    {
+      "$id": 1009,
+      "<8C7DD24D>": "<54092F38>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dark Feris"
+    },
+    {
+      "$id": 1010,
+      "<8C7DD24D>": "<CC896E3C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dark Garaffa"
+    },
+    {
+      "$id": 1011,
+      "<8C7DD24D>": "<2C6DC1ED>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dark Vollgull"
+    },
+    {
+      "$id": 1012,
+      "<8C7DD24D>": "<5064AC79>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dark Laia"
+    },
+    {
+      "$id": 1013,
+      "<8C7DD24D>": "<219D2211>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dark Egel"
+    },
+    {
+      "$id": 1014,
+      "<8C7DD24D>": "<ACF24CA8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Caterpile Pod"
+    },
+    {
+      "$id": 1015,
+      "<8C7DD24D>": "<71BC6840>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Larval Caterpile"
+    },
+    {
+      "$id": 1016,
+      "<8C7DD24D>": "<BE4A0CE2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Snow Pippito"
+    },
+    {
+      "$id": 1017,
+      "<8C7DD24D>": "<03CC0798>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Skeeter Nest"
+    },
+    {
+      "$id": 1018,
+      "<8C7DD24D>": "<CB841F33>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Shield Igna"
+    },
+    {
+      "$id": 1019,
+      "<8C7DD24D>": "<B0A9A1AC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sniper Igna"
+    },
+    {
+      "$id": 1020,
+      "<8C7DD24D>": "<9446BBF3>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "High Agnus Emblem"
+    },
+    {
+      "$id": 1021,
+      "<8C7DD24D>": "<02F3B2F6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Arachno Pod"
+    },
+    {
+      "$id": 1022,
+      "<8C7DD24D>": "<9EE027E8>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Taos Egg"
+    },
+    {
+      "$id": 1023,
+      "<8C7DD24D>": "<7026B93F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Vollgull Egg"
+    },
+    {
+      "$id": 1024,
+      "<8C7DD24D>": "<5A13624C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Young Vollgull"
+    },
+    {
+      "$id": 1025,
+      "<8C7DD24D>": "<92C99E74>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dark Garaffa"
+    },
+    {
+      "$id": 1026,
+      "<8C7DD24D>": "<FA85A4B4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "High Keves Emblem"
+    },
+    {
+      "$id": 1027,
+      "<8C7DD24D>": "<85E1F604>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Radna Arachno"
+    },
+    {
+      "$id": 1028,
+      "<8C7DD24D>": "<12766CD9>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Nagul Pod"
+    },
+    {
+      "$id": 1029,
+      "<8C7DD24D>": "<CE4B90F6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Guard Tirkin"
+    },
+    {
+      "$id": 1030,
+      "<8C7DD24D>": "<69F79397>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Ranged Tirkin"
+    },
+    {
+      "$id": 1031,
+      "<8C7DD24D>": "<06C1DBA2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Minstrel Tirkin"
+    },
+    {
+      "$id": 1032,
+      "<8C7DD24D>": "<106166E2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Highpike Tirkin"
+    },
+    {
+      "$id": 1033,
+      "<8C7DD24D>": "<AE1BED83>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Tatalkin Totem"
+    },
+    {
+      "$id": 1034,
+      "<8C7DD24D>": "<733CBEF2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dragoon Tirkin"
+    },
+    {
+      "$id": 1035,
+      "<8C7DD24D>": "<7B70A7D2>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Grippen Vollgull"
+    },
+    {
+      "$id": 1036,
+      "<8C7DD24D>": "<A1B441C1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "White Pippito"
+    },
+    {
+      "$id": 1037,
+      "<8C7DD24D>": "<36A4D7E1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Iguaz Symbol"
+    },
+    {
+      "$id": 1038,
+      "<8C7DD24D>": "<906E28ED>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Igruna Standard"
+    },
+    {
+      "$id": 1039,
+      "<8C7DD24D>": "<B9D3B91D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Heartbreak Igna"
+    },
+    {
+      "$id": 1040,
+      "<8C7DD24D>": "<BDF107BC>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Gimran Egel"
+    },
+    {
+      "$id": 1041,
+      "<8C7DD24D>": "<F32AF206>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Newgate Laia"
+    },
+    {
+      "$id": 1042,
+      "<8C7DD24D>": "<6524E796>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Voruk Draigul"
+    },
+    {
+      "$id": 1043,
+      "<8C7DD24D>": "<C1DE57B4>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Dark Draigul"
+    },
+    {
+      "$id": 1044,
+      "<8C7DD24D>": "<BD20849F>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Warmount Igna"
+    },
+    {
+      "$id": 1045,
+      "<8C7DD24D>": "<BE6EAE13>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Allelutta Igna"
+    },
+    {
+      "$id": 1046,
+      "<8C7DD24D>": "<B68E1EBE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1047,
+      "<8C7DD24D>": "<88117FCB>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Reinz Egel"
+    },
+    {
+      "$id": 1048,
+      "<8C7DD24D>": "<B305C2C5>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Amina Igna"
+    },
+    {
+      "$id": 1049,
+      "<8C7DD24D>": "<7345E2A1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Plauss Igna"
+    },
+    {
+      "$id": 1050,
+      "<8C7DD24D>": "<49434866>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Atu Igna"
+    },
+    {
+      "$id": 1051,
+      "<8C7DD24D>": "<D6F5D7BD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Keves Patroller"
+    },
+    {
+      "$id": 1052,
+      "<8C7DD24D>": "<EF79F75D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Patrol Equites"
+    },
+    {
+      "$id": 1053,
+      "<8C7DD24D>": "<F4EDA7ED>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Encounter Volff"
+    },
+    {
+      "$id": 1054,
+      "<8C7DD24D>": "<9A060AD1>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Flacken Krodlax"
+    },
+    {
+      "$id": 1055,
+      "<8C7DD24D>": "<E2305E44>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Enn Shoox"
+    },
+    {
+      "$id": 1056,
+      "<8C7DD24D>": "<8203F60C>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rumo Kapiba"
+    },
+    {
+      "$id": 1057,
+      "<8C7DD24D>": "<E7A00E35>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Strano Quadwing"
+    },
+    {
+      "$id": 1058,
+      "<8C7DD24D>": "<A17CABFE>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Sergeant Igna"
+    },
+    {
+      "$id": 1059,
+      "<8C7DD24D>": "<C8D2BDD6>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Corporal Igna"
+    },
+    {
+      "$id": 1060,
+      "<8C7DD24D>": "<DB0707AD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Lance Igna"
+    },
+    {
+      "$id": 1061,
+      "<8C7DD24D>": "<60C2210A>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Private Igna"
+    },
+    {
+      "$id": 1062,
+      "<8C7DD24D>": "<7F2D689D>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rogal Vvarga"
+    },
+    {
+      "$id": 1063,
+      "<8C7DD24D>": "<869703FD>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Rox Vvarga"
+    },
+    {
+      "$id": 1064,
+      "<8C7DD24D>": "<1BF25908>",
+      "<554EE944>": 12,
+      "<DBAF43F0>": "Obster Bunnit"
+    },
+    {
+      "$id": 1065,
+      "<8C7DD24D>": "<6936835A>",
+      "<554EE944>": 0,
+      "<DBAF43F0>": "Testudo Scout"
+    }
+  ]
+}

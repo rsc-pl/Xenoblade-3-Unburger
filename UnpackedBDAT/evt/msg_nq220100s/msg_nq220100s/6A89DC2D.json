@@ -1,0 +1,244 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<4F514DF8>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Colony Tau doesn't have\nany off-seers, does it?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<5B09FE8C>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No. We return our dead to the earth."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<0A2E52CD>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Weird thing to do. I never heard\nof anyone doing that."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<502A594B>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Who grows up in the forest, goes back\nto the forest. And until that time comes,\na peaceful resting place awaits you."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<6EC82CB2>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm from Agnus and even I've never heard\nof this custom. I suppose it's deeply rooted\nin Colony Tau's culture."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<0D460D9C>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It is. Which is why the concept of\n\"sending off\" isn't something we've\never had to consider."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<3D5F83C0>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But...you did have an off-seer in the past,\nfrom what I've heard?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<C003F5CC>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In the past, yes. But he was\nkilled in combat with Keves."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<80CB7079>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 50348161,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Were you there, Juniper?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<12D5E335>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 12599425,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I was. He drew enemy fire with the\nrear guard. I would not have escaped,\nwere it not for his sacrifice."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<F4AFA07C>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well that's depressing."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<BAF758FF>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But what did your off-seer usually do,\ngiven that he wouldn't be off-seeing?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<06FCE3A5>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Tilled the fields, mostly. As I said,\nwe didn't really need off-seers."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<DB9F0E7F>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Still depressing."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<DCB57EE1>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Actually, could I ask you\nto send off our off-seer?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<131D64C5>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Of course, if that's what you want."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<A74BA938>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If there is a place we return to,\nthen surely there are avenues\nother than the earth to reach it."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<6ED9CEFE>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's what I've come to believe, anyway.\nYou know, if there really is some peaceful\nplace waiting somewhere..."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<D4F0C263>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's a lovely thought."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<32A95CE5>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Do you know where the off-seer is?\nWe'll get there straight away."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<7837B407>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thanks. I'll take you."
+    }
+  ]
+}

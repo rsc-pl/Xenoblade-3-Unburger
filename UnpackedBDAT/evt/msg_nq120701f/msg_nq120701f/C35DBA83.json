@@ -1,0 +1,304 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<657F076D>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whoa."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<10CB1603>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's amazing when\nyou really look at it."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<5F9B9B28>",
+      "<ACF3531A>": "pa1",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Repapa show more\nbig surprise things!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<2B214F0F>",
+      "<ACF3531A>": "pa1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mechafriend! Start Dorrick!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<A03789F2>",
+      "<ACF3531A>": "pa1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Test is begin!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<09B475FF>",
+      "<ACF3531A>": "pa1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Buddy Blaster, fire!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<8EA9FC4C>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What the...?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<177261E5>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Did it just attack those Levnises...?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<C3610A4C>",
+      "<ACF3531A>": "pa1",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What Dorrick possess is not regular\nrunning-the-mill weapon!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<1A585790>",
+      "<ACF3531A>": "pa1",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is also high-frequency device to\naccess Auto-Lev control system!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<F067A6BB>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Small word version?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<96DDC584>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Dorrick can make friends with Levnises!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<036B521C>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Y'see, the way it works is by applying\nRobobuddy's data to interfere with\nthe ether signaling."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<39E4DD32>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll just assume that's\nsomething clever."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<E98E9CD3>",
+      "<ACF3531A>": "pa1",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Correct!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<35DD14F5>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This laser was made with the intention\nof altering the ether signaling circuits\nof Auto-Levs."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<0D1A9F5E>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But when they read our Iris data,\nthey saw us as allies!"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<DCCF9549>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Changing the system means you can\nrewrite the aggression program.\nSo if you take Mechafriend's signal-"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<53E9FA6C>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<95D16305>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Do you get it?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<E6145342>",
+      "<ACF3531A>": "pa1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh?"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<27058A0A>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Um..."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<31B2FC9F>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33128,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmm, I don't think it's gone in."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<3D0210ED>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It not seem usable in combat."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<992595A1>",
+      "<ACF3531A>": "pa1",
+      "<9EE99B1E>": 33128,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mehhh..."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<22B4935D>",
+      "<ACF3531A>": "pa1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It only work with one nearby Levnis."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<437D8AA6>",
+      "<ACF3531A>": "pa1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is distance problem, or number of\ntarget? Have to research."
+    }
+  ]
+}

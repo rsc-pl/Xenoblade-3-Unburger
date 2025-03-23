@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<87F48E30>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The world..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<0EC50AE2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I wanted to change it..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B1416D22>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "For whose sake?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<FD868FB0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I did it for her..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<A2A3C32B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But you..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<5A09E4BF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "ran away."
+    }
+  ]
+}

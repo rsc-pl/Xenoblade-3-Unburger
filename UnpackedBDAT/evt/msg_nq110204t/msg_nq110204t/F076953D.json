@@ -1,0 +1,134 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B73CA3A1>",
+      "<ACF3531A>": "vZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Captain's already briefed me. I'll give you\nthe info we collected on the monster."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<9F0D334F>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Much appreciated."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<F96DA241>",
+      "<ACF3531A>": "vZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's a Volff, but bigger than a normal one."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<9AACAD04>",
+      "<ACF3531A>": "vZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It covers a wide territory,\nand is extremely agile."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<6C52F767>",
+      "<ACF3531A>": "vZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We analyzed its movements, and confirmed\nPiento Basin as the site of its lair."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<BD099308>",
+      "<ACF3531A>": "vZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And that's about it."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<FB0914DA>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thanks. That's plenty of information\nfor us to be getting on with."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<681E22D5>",
+      "<ACF3531A>": "vZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't let your guard down.\nWe've already lost friends to this."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<62AD871C>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll take it seriously. And we'll\ndo our best to put it down."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<C2DFE3AC>",
+      "<ACF3531A>": "vZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Thank you."
+    }
+  ]
+}

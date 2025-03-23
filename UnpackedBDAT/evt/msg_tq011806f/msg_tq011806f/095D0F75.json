@@ -1,0 +1,124 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<429BD6C0>",
+      "<ACF3531A>": "YY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Snuff it... I think we're stuffed here."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<AFD9ABC0>",
+      "<ACF3531A>": "ZY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You really handed it to us...\nWe're gonna have to call it quits."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<6A995AE5>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, don't think of it like that.\nYou drew a pretty sharp line in\nthe sand there."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<E9DB8962>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right! And I'd say that means\nyou've still got room to grow.\nSo don't let up now!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<0E1CFCF1>",
+      "<ACF3531A>": "XY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That means a lot."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<DE27FA69>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, guess we'll be yoinking the\ncontainer then. Unless you rookies\ngot another round in you."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<AF4FE9AF>",
+      "<ACF3531A>": "XY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No... I know when I'm beat."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<F7B3E42A>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You sure about that? I thought you liked\na bit of hard sparring. Even more than\nstrength training!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<B286594C>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You still bitter about that, Sena?"
+    }
+  ]
+}

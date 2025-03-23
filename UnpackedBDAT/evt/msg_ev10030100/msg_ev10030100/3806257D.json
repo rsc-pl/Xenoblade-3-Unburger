@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<A7D844A7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Hmph. Look at all you roaches, scurrying out of\nthe woodwork. You've got some guts, Ouroboros."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<7BF8252D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "X..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<3A24B66E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You want Z, right? Well, you can't have him."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<F77F266D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You still think you're calling the shots here?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<176A3045>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I'll prove you wrong, once and for all."
+    }
+  ]
+}

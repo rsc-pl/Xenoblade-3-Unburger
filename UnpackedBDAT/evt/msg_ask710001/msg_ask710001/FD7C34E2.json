@@ -1,0 +1,124 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<3AC1D1CC>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Apparently the Lost Numbers can use\nall different kinds of Blades, just like us."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<AD7740D7>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Monica did say that the City's people\nwere originally of one kind with the\nOuroboros."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<251D8A8B>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So you'd say that explains the similarity\nwith us? Yeah, OK, I can see that."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<B0C1F49F>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Even so though, it's not many people\nthat can master fighting with multiple\nBlade forms, it seems."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<76703E7F>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you don't commit, your form's gonna be\nsloppy and you'll get bad habits... I think\nI'll always prefer using what I'm good at."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<E8689521>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I like to get at least a basic understanding\nof all of them. Nothing beats flexibility on\nthe battlefield."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<28ACFF68>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Me, I'm a power girl through and through!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<03A70FBD>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 18890881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What the spark's a \"power girl\"...?\nAh, never mind, I caught your drift."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<7450EC60>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's important to remember though, even\nthough we have Ouroboros powers, it's still\na matter of effort to achieve proficiency."
+    }
+  ]
+}

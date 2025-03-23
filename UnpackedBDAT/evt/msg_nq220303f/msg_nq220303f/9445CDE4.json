@@ -1,0 +1,124 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<3655BD5F>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'd expect more footprints to\ncontinue up this way, but..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<E79C7A77>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...There aren't any, huh."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<DD3927D6>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Maybe it went down here."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<B00B27A4>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Probably..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<A8515442>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Should we follow?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<6EB48CC5>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No, if it's got away to the lower levels\nwe don't need to pursue it."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<20BAEC72>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It won't be back here any time soon,\nand we'd be putting ourselves in great\ndanger down there."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<9FFE4FBC>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<F611C1CD>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's head back then, and\nmake sure Raine's OK."
+    }
+  ]
+}

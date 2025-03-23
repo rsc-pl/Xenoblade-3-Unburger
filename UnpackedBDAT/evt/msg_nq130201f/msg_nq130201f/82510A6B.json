@@ -1,0 +1,584 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<BE054366>",
+      "<ACF3531A>": "jb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...So it's going to take\nsome time till it arrives."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<B0440E3C>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I thought it might. We'll just have to\nstretch the shortfall out through rationing."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<4F272812>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So, that-"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<89DB7C93>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you're low on supplies\nwe can help."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<060B532E>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If we all work together,\nwe'll get it done in no time!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<85155ADB>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All of you..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<B181567F>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They're concerned that we've grown too\naccustomed to throwing supplies around."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<1DD7DB95>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This friendly young man wants\nto do anything he can to help."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<B9839213>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't misrepresent me. I just\nwant to improve the efficiency of-"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<D39DF749>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Once you saw improvement was\nneeded, you wanted to help. Yes?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<AF1326FA>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I...well. I suppose, but..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<44D84F4A>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Then we agree."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<D6C8E19D>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Such a kind person. I can tell you're\nthe sort of person who takes on a lot.\nAlways shouldering the burdens of others."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<976A70E2>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Please stop."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<0F43269D>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This is something you're already prepared\nfor, though, isn't it? Could you bring us up\nto speed on the situation?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<6481C8DE>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, I get what's going on."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<9F853A51>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We talked to Alexandria about it,\nand she told us to ask you."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<0F4E138E>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This is something you're already prepared\nfor, though, isn't it? Could you bring us up\nto speed on the situation?"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<EBF078F3>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, I get what's going on."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<DF84241A>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "As you've seen, we're sending out the best\nof the best from mine and Rhyza's squads."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<2605818E>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And if they come back, they're expected\nto bring in a good haul. In fact, I'm\nprojecting we'll be up to 70% capacity."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<224001D4>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "70%?! Not bad!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<0DA620D4>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You said \"if\" they come back."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<55962B6E>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So all of these big plans are\nreally just optimism, aren't they?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<7DED6183>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ha, very perceptive."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<969D4EEA>",
+      "<ACF3531A>": "jb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Two of the units sent on the\nmission have got a bit stuck."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<4D7927F9>",
+      "<ACF3531A>": "jb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They seem to have encountered\na colony of Scorpoxes."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<855F6903>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Scorpoxes? You think they're migrating?"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<484AD5F3>",
+      "<ACF3531A>": "jb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Given our info on their numbers\nand range, I'd say you're right."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<5470DC75>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A suboptimal situation."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<E21F4709>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Can someone explain\nthis migration thing?"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<271DEC53>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The monsters go on a big journey."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<94EA4ED3>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If the monster population increases for\nwhatever reason, then they'll go roaming\nin search of new feeding grounds."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<79E20A6D>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And if you bump into them,\nthey'll be on you like that."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<E6574AAA>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They're all so starving that to them\nyou're just a big walking meatball."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<F3EBAF15>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Hurk..."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<E1A4186E>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let me guess - the units that were\nattacked were carrying..."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<2C0DD780>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Food. Yep. The smell\nmust have attracted them."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<4ECD6F5B>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How can you be so calm about this?\nIf you don't get help to them soon-"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<1438AABA>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No plan ever survives\ncontact with the enemy."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<3E102886>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So I want them to get\nthemselves out of this."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<4AF423AE>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This experience will be valuable\nfor them as individuals."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<DAB6598D>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're of the opinion that too much\nhelp will rob them of their capacity for\npersonal growth?"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<9546194C>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I am."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<82FCD95A>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, it would still be worthwhile to keep\nan eye on the situation without helping\ntoo much, wouldn't it?"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<911039D2>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you weren't even a little worried, you\nwouldn't have told us what was going on."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<ED2D8D60>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Well, I don't know how to answer that."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<E7B86B5D>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think I understand."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<71391BBE>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I know how you feel, and what\nyou want your legacy to be."
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<BB06CBAA>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<11EF0DB3>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Cozalie's unit is stuck in Dannagh Desert,\nand Thorbin's is in Ribbi Flats."
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<12D7799A>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They'll be pretty laden down, so you'll\nknow them when you see them."
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<1B13751C>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK. We'll check on them\nwithout coddling them."
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<CFE3264C>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And we'll keep everyone\nsafe! And the supplies too!"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<0763D42B>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're doing me a huge favor."
+    }
+  ]
+}

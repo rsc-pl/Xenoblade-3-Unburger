@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<658C0722>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I don't wanna sound like Taion,\nbut I'll say it anyway - this is\nall your fault!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<256E7A9D>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, sorry, girly. Why don't I catch you\na nice whopper to say I'm sorry?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<4B847E57>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll roast it nicely and serve it up to you.\nIt'll taste mighty fine, I promise!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<86449D13>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Anyway, we're not getting any\nmore clues from your memory."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<4C155AA5>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I guess it can't be helped? It's\nsuch a long time ago, after all."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<2237B678>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "First hunting, then fishing...\nWhat are we even doing here, seriously?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<D313FF4C>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm gettin' fed up runnin' about\nlike a headless Tirkin..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<CEE1F4B5>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33065,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, you're fed up?!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<C67C97AC>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Triton, you said the pot was dropped\nsomewhere, didn't you?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<88862B72>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If it was so long ago, who's to say that\nsomeone didn't pick it up?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<64172B3F>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh. I didn't think of that.\nGuess it ain't impossible..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<79CF25F2>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Maybe so much time has passed that\nit got buried or something?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<9E7ED67D>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So now I suppose you\nwant us to start digging..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<C71F53B6>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm just saying, is all!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<7DB47ABD>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Can you really not think of anything else?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<98DAE527>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Erm...\nOh! There might be one thing."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<DE1A1CAC>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Behind Keves Castle be those hoverin'\nreefs, aye? They be triggerin' my noggin..."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<3F2D3065>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There must be something there then.\nLet's go."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<B85B804D>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey now, boyo. What's got into you\nall of a sudden?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<C23D8371>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nothing much. I just think if this place\nis important to you, we should pay it\na visit."
+    }
+  ]
+}

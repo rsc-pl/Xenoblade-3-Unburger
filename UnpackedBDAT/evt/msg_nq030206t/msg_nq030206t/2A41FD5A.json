@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<0C95BF0E>",
+      "<ACF3531A>": "vY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm glad we get to sleep with\na roof over our heads and all..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<2F180705>",
+      "<ACF3531A>": "vY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But this place is a bit too open considering\nhow few of us there are, you know?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<DB673AD6>",
+      "<ACF3531A>": "vY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "As things are now, it's hard to\nfeel at home here. Not that we\ndon't appreciate it, of course!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<84DE3E94>",
+      "<ACF3531A>": "vY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But now that we have a base of\nour own, it'd be nice to have a few\nmore things around."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<AEE2053D>",
+      "<ACF3531A>": "md1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Welcome, welcome.\nIs something you want?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<4E7C49EC>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Actually we're here\nbecause Shillshill-"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<414EF5B5>",
+      "<ACF3531A>": "md1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, understood. Here\nis yellow stone for you."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<2EEC6E06>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Are you really going to give\nus that without the whole\nspiel?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<598A7CD9>",
+      "<ACF3531A>": "md1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Zoka is very brilliant Nopon.\nHave power of observation stronger than\neven Sherolo, so decision come easy."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<48515AD8>",
+      "<ACF3531A>": "md1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Although, Sherolo is also moderately brilliant.\nApproximately three-to-four places behind\nZoka, of course..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<460B2E93>",
+      "<ACF3531A>": "md1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But that enough chitchat for now.\nPlease come to Zoka for favor again!"
+    }
+  ]
+}

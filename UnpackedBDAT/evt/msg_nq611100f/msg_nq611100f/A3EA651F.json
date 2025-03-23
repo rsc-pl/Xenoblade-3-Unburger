@@ -1,0 +1,314 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<A01FFE30>",
+      "<ACF3531A>": "xq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmmm. This is a problem.\nMaybe we ought to report this after all."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<51697998>",
+      "<ACF3531A>": "yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But we're still rookies.\nI don't know if it's a good idea\nto be running our mouths..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<110B915A>",
+      "<ACF3531A>": "vp1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...What's all this about, then?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<0A40FF49>",
+      "<ACF3531A>": "yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah... Panacea. Linka."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<91D9074B>",
+      "<ACF3531A>": "xq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uhm, h-hi. Busy day?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<56C7FED8>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You can stare at the supply office all\nyou like, you're still gonna have to use\nmouth-words if you wanna buy stuff."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<3E2E1E82>",
+      "<ACF3531A>": "yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, no, we're not here to buy anything..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<2F00F2E0>",
+      "<ACF3531A>": "xq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I was assigned to the Commissary back\nwhen I was in Keves, and had to take care\nof all the logistics."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<8224A0E6>",
+      "<ACF3531A>": "yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Kind of the same deal here too,\nexcept I was in Agnus."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<626D612A>",
+      "<ACF3531A>": "xq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We've been looking at the current state\nof supplies for the Liberators and, well..."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<0C284EE3>",
+      "<ACF3531A>": "xq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In our personal slash professional opinion...\nit's starting to look pretty dire."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<43A633E4>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That so?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<D0FF800C>",
+      "<ACF3531A>": "vp1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hm. Honestly...they're not wrong."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<A0BD414D>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Keves and Agnus get their supplies\nstraight from the Castle. Obviously,\nwe don't have that kind of backing..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<94C640FC>",
+      "<ACF3531A>": "yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I knew it. I could tell from the wares in\nthat office that you might be struggling."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<F7D40FA3>",
+      "<ACF3531A>": "xq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Which is why we were thinking we'd like to\nmake a proposal..."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<690C6442>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You got some plan to\nget us topped up again?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<1031B3BF>",
+      "<ACF3531A>": "xq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There's a supply cache hidden near the\ncolony I was once stationed at. It's in a cave\nnear Pioneer's Point."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<5425A5C8>",
+      "<ACF3531A>": "xq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There are supplies captured from Agnus\nin there too. Should be a sizable amount."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<6A4AF4EF>",
+      "<ACF3531A>": "yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "With Keves on the back foot, they'll have\ngiven up on the cache, so if ever there was\na time to swoop in and snap it up, it's now."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<69A54D56>",
+      "<ACF3531A>": "vp1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, you've sold me on the idea,\nbut are you two OK with this?\nGiven your former affiliations, that is."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<D040C713>",
+      "<ACF3531A>": "xq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...It's true, I went back and forth\non the idea, but then I remembered\nhow the Liberators saved our lives."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<E36AF8A8>",
+      "<ACF3531A>": "yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And we know just how much of a headache\nmanaging resources can be."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<1F394603>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're good eggs, the both of you."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<9D4CDD50>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes...it's an incredibly kind gesture.\nYou're doing us a great service here.\nThank you so much."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<036293E2>",
+      "<ACF3531A>": "xq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, not at all. Glad to be of service."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<EB09E2C3>",
+      "<ACF3531A>": "xq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You taught us that there's a way to live\nwhere fighting isn't the be-all and end-all.\nIt's the least we could do."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<A6E55AC8>",
+      "<ACF3531A>": "yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All right, we'll take you to the cave\nwhere the supply cache is hidden."
+    }
+  ]
+}

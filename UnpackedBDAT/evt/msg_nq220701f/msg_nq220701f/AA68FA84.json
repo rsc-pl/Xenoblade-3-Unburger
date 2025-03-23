@@ -1,0 +1,324 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<F9DBF4CA>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, Korresia. Do you\nhave a moment to talk?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<C5AC566D>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sure, what's up?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<277F6CE9>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We hear you're quite the\naccessory-maker. I was hoping we\ncould take a gander at your work."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<E4578A8A>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh! I see... I do enjoy making\nthings. Not sure I'd say any of\nit was good, though."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<3954A28E>",
+      "<ACF3531A>": "Xd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't be modest. Everyone in Gamma\nadores your work, don't they?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<6A2F537D>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "W-well, um, I guess... But I can't just\ncome out and say that myself!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<A067DBE0>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If your work is as lovely as it sounds,\nI think you're allowed to be proud of it!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<E57300F9>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33168,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, I suppose..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<93FA32DE>",
+      "<ACF3531A>": "Xd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You know, you've actually come at\nthe perfect time. We were just talking\nabout something."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<B90A30AE>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh yeah?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<C4262D9C>",
+      "<ACF3531A>": "Xd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Korresia here's been telling me she\nwants to study more accessories."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<0927DFFA>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<B649DC05>",
+      "<ACF3531A>": "Xd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "She's just too shy to say it."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<41DDB38C>",
+      "<ACF3531A>": "Xd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So what do you say? Would you be\nable to bring some accessories here\nfor her to study?"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<B6476F2F>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmm, I see."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<9C80BB3F>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I mean...just...there's a lot of styles\nand things I've never seen before..."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<EB358C6E>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's just a little hobby of mine,\nthough. I wouldn't want to annoy\nthe colony with it..."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<9425934D>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "On the contrary, the application of such\na skill might actually contribute a positive\neffect on colony development."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<FA843712>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What did you have in mind?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<A1095DA9>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you can make accessories, you\ncan sell them to other colonies."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<D12764A2>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think there'd be a decent market for it."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<4A4143EC>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmm, you're right. That sounds\nlike a really good idea."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<DD2AE031>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How does that sound, Korresia?\nYou can use your hobby to help\nthe colony out."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<82BB3C3D>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll do my best..."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<3F4E78EC>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In that case, I think I really need to\nsee other styles of accessories..."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<F320E9ED>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It'll help me improve my craft."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<4A986149>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We can certainly help you out with that."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<F90EC94F>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thank you! Then, bring me as many\ndifferent things as you can, please!"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<4F05874E>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Will do! You just sit tight. We'll be back\nbefore you can say \"bang on trend\"!"
+    }
+  ]
+}

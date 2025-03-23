@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<C1561EA7>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What...? The leadership want\nNimue's colony wiped out?!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<5DB8A65D>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<3D9C76FE>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We only just heard. A Nopon\nmerchant was able to tip us off."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<42359F7E>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And since Nopon are involved in handling most logistics\nand transportation, the information should be good."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<B2785492>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "So the brass have pinpointed its location?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<48E4BCE0>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Could be."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<12C8CE7A>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You don't have to be so cagey, Commander."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<99DAE2D4>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Cagey?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<F9BA6B8C>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You can tell it to me straight."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<F77239C5>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Am I wrong? You'd like us to\nkeep Nimue's colony safe."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<8C1E5BB6>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<958B73A3>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Isn't that the reason?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<9152FE08>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Why you've told me this whole story...?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<D05A2529>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "If you moved to protect the colony, it'd\nput this place in the line of fire."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<5E517665>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I've heard."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<02145FF4>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Like how, after the Consul's disappearance\nand the loss of the Flame Clock,"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<6A51B3A2>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "despite sending a report to HQ,\nyou haven't received a word of reply."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<C59DD614>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Mmm."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<14B742E6>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We reported that it all happened\nwhile we lay there unconscious,"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<359B8A78>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "which is the unvarnished truth..."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<43B43A69>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yet still nothing."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<68BC9F3C>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I understand."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<EA775315>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Let me run it past the others, Commander."
+    }
+  ]
+}

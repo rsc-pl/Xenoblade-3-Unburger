@@ -1,0 +1,1234 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B3161753>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thank you very much!\nAll my sweeties can now stuff\ntheir little bellies nice and full."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<F67944DC>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All that's left now is to select the\nbig Armus and Arduns one by one\nand pair them together..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<F5CECC33>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The day after it rains, a little one\nshould be born."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<EF1CF0CB>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And the Armus and Arduns you\npair up need to be compatible\nwith each other as well, right?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<1169F945>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Absolutely. I'd like to ask for your advice\nagain if you don't mind?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<8A3E5143>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Which pairing should we choose?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<2AAC8A1A>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Assertive Armu & Indulgent Ardun"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<A2F10F93>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Why don't we pair an assertive Armu\nwith an indulgent Ardun?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<6FC17E78>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, neither one has worries that'd\ndrag down the other. Their positive traits\nwould probably gel well with each other."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<E0A0D024>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hee hee, sounds like their offspring will\ngrow up to be a lively little creature!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<5041A075>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Greedy Armu & Innocent Ardun"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<85D1378C>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How about putting the innocent Ardun\nwith the greedy Armu?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<6AB07456>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, could work. That way, they\ncan allow each other to take things\nat their own pace."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<24B34DA6>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Great idea! There won't be any conflict\ngoing on between these two, and that can\nonly be a good thing."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<C7621448>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Assertive Armu & Innocent Ardun"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<81D1934A>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What about the innocent Ardun\nand the assertive Armu?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<8952FBD0>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I don't think it's a bad pairing at all.\nIt certainly won't be lacking for liveliness."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<F8BB5C64>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's important for them both to have\na bit of spice in their lives."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<261207A6>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Greedy Armu & Indulgent Ardun"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<CAF30583>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How about we pair the indulgent Ardun\nand the greedy Armu?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<18B1ECD6>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It would result in a great desire for\nsleeping and eating, but maybe that would\nactually contribute to their well-being."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<A5BE8D7A>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's absolutely crucial to have your beauty\nsleep and be well fed, after all!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<50A62D00>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Serene Armu & Considerate Ardun"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<4976E583>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What do you think about pairing the\nconsiderate Ardun with the serene Armu?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<1BE54FDA>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That pairing sure don't lack\nbroad-mindedness."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<CBAB5850>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And I'm sure they'd always have\na smile on their faces."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<C11B2547>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Naughty Armu & Gallant Ardun"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<C2D346F5>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Maybe a gallant Ardun and\na naughty Armu could work well?"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<A7920366>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think they could, you know. They can\nmake up for each other's weaknesses."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<E11FA328>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think that would be a wonderful pairing!"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<61B90D06>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Serene Armu & Gallant Ardun"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<6C9D70BF>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Why don't we put a gallant Ardun\ntogether with a serene Armu?"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<C0D09680>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sounds good to me. I get the feeling they'd\nget on really well with each other."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<B902D9A3>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The gallant Ardun can always come to the\nserene Armu's rescue whenever need be.\nI approve!"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<6F400C6A>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Naughty Armu & Considerate Ardun"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<694DA2B8>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What about pairing the considerate\nArdun with the naughty Armu?"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<604F8A20>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You can bet every day would be a laugh\nand a half with those two together. They\nboth sound pretty open-minded!"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<0BDB7EDB>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I certainly don't mind laughter-filled days."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<E57325E0>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Naughty Armu & Brawny Ardun"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<48BA3FB9>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What do you say to pairing the brawny\nArdun and the naughty Armu?"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<BD6E17A8>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The brawny guy's got some serious\npresence. It'd help to make sure the\nnaughty Armu behaves."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<DA0B114A>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I feel the same way, too."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<D6B15307>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Serene Armu & Brawny Ardun"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<E60E8DCF>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How about you pair the brawny Ardun\nwith the serene Armu?"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<C8A53522>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm sure the brawny Ardun would keep\nthe serene Armu nice and safe! Or any\nother Armu, in fact!"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<E28A4A9F>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Definitely. That little Ardun has a keen\nsense of responsibility, after all."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<E94F9FE9>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shy Armu & Sensible Ardun"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<9E8C10C3>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Perhaps the sensible Ardun and the shy\nArmu would make for a good pair?"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<615EA043>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm sure they could get on really well.\nThey remind me of what Sena and Taion\nwere like a long time ago."
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<9057D4F9>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You really think so? Then, I'm sure I'll\nhave nothing to worry about."
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<406E4E7E>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "One-Track Armu & Gentle Ardun"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<D81F6F2B>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How does pairing the gentle Ardun with\nthe one-track Armu sound to you?"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<F7C02BAC>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The single-mindedness of the Armu\nmeans it'd do everything for the Ardun,\nwhich it would be more than receptive to."
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<E8B3D071>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sounds like a suitable pairing to me!"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<5ABA4F9A>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shy Armu & Gentle Ardun"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<928ADEDA>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We could pair the gentle Ardun\nwith the shy Armu if you want?"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<98A5B344>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They'd be a very relaxed, calm pairing,\nand that can only be a good thing for the\nshy Armu, in my opinion."
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<C13892D1>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It definitely is important for the shy little\none to feel at ease, that's for certain."
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<B72CBB8E>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "One-Track Armu & Sensible Ardun"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<CE6DC9B2>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The sensible Ardun and the one-track\nArmu could work well as a pair."
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<1FB47C6C>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "One-track personalities always worry\ntoo much about things. The sensible Ardun\ncould help ease its mind when it's worried."
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<CE4EAB63>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There's nothing like knowing you have a\nfriend who has your back, is there?"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<1321E32E>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dainty Armu & Impatient Ardun"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<B3608F75>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The impatient Ardun could work well\nwith the dainty Armu, don't you think?"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<8B353266>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Because opposites attract, right?\nYeah, it'd be a breath of fresh air\nfor the both of them!"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<2974BA69>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They would learn something new\nevery day. I think this pairing might\njust be worth a shot."
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<3AF7FA48>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fluffy Armu & Adamant Ardun"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<0EEF3644>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How about pairing the adamant\nArdun and the fluffy Armu?"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<C32AAE70>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hard agree, here! The fluffy Armu could\nreally help to loosen that Ardun up!"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<73750D51>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That would certainly be a\ngood thing for the Ardun!"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<AA7EDFB5>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dainty Armu & Adamant Ardun"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<72675B33>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What if we paired up the adamant\nArdun with the dainty Armu?"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<3F540F00>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They'd probably need a bit of time to\nwarm to each other, but after that, I'm\nsure they'd be a great pairing, no?"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<961A81CC>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think they could definitely get used to\neach other, and really become the best\nof friends."
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<30E01EDF>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fluffy Armu & Impatient Ardun"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<3CB2EBF4>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The impatient Ardun could pair up well\nwith the fluffy Armu, wouldn't you say?"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<2FC7F526>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Being next to a complete opposite would\nlikely make every day interesting for the\nboth of them."
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<3D836AA9>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They'd be a stimulating pairing, certainly."
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<EDA2D597>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pensive Armu & Serious Ardun"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<EAF08592>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A serious Ardun and a pensive Armu\ncould work well. What do you say?"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<019B15AC>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, why not? I reckon their personalities\nwould really balance each other out."
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<F105279B>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Like Aya and Tallow, right? I approve!"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<F3896AD8>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Flirty Armu & Cool Ardun"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<8E33F368>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Maybe the cool Ardun and the flirty Armu\ncould make for a good pairing?"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<AC8CC4C0>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now that's a pairing and a half...\nIt'll work great, long as the Ardun\ndoesn't get too agitated..."
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<381BA098>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That Armu's an devilish one, isn't she?\nI'm sure the Ardun will take a liking to her."
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<1DFCF375>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pensive Armu & Cool Ardun"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<AF362ED7>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The cool Ardun and the pensive Armu\ncould be a good pair. How about it?"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<4279922D>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "As long as the Armu doesn't end up\nseeing the Ardun too often in its dreams,\nwe won't have anything to worry about."
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<4F03417E>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's see how they get on, then."
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<D1F5B342>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Flirty Armu & Serious Ardun"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<FC4A367E>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Perhaps the serious Ardun and the flirty\nArmu could work well together?"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<ECBDE37D>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's bound to be a fiery pairing...\nThough at least we can be sure the Ardun\nwouldn't betray the Armu."
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<FFF67D88>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, that Ardun's an honest one.\nI'm sure they'll be just fine together."
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<5F1668E9>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Loner Armu & Excitable Ardun"
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<02737A15>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We could try putting the excitable Ardun\ntogether with the loner Armu?"
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<BDFFC22B>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That Ardun's liveliness is sure to make life\nmore fun for the Armu, I can bet."
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<E658F2BD>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That Ardun's such a nice, little darling.\nThough it can get a little carried away at\ntimes..."
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<A14FF6C9>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gourmet Armu & Cleanly Ardun"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<C5366411>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How about we pair the cleanly Ardun\nwith the gourmet Armu?"
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<0E19BB0A>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's not a pairing I could've ever imagined.\nThe Ardun should be fine, as long as the\nArmu doesn't leave its food everywhere..."
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<1E4AE391>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That Armu knows its manners, so there's\nno need to worry about that. I'm sure\nthey'll be a great pairing."
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<9DC099D2>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Loner Armu & Cleanly Ardun"
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<9B873140>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Maybe the cleanly Ardun and the loner\nArmu can work well together?"
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<1831ABE0>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They look like they'd have similar hobbies.\nBet they'd be good friends after doing\na joint clean together."
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<3C7E4201>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I mean, it's my job to clean the place...but\nI wouldn't mind having less cleaning to do!\nI'll try teaching them a thing or two!"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<1D089D5C>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gourmet Armu & Excitable Ardun"
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<3F1D8A08>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How about putting the gourmet Armu\nand the excitable Ardun together?"
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<78A5C3F8>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They'd make for one gluttonous pairing,\nthat's for sure... Still, you've gotta eat well\nto live well."
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<850A9C45>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The bigger they are, the tastier the milk,\nso I say let them eat everything they can\nfit in their bellies!"
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<0EBB8D7E>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In that case, I guess we'll go with\nthe pairing you suggested..."
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<A98F80EB>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Go with this pairing?"
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<F79FF058>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Yes"
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<ACF683A0>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Choose again"
+    },
+    {
+      "$id": 115,
+      "<8C7DD24D>": "<BB6E959C>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thank you so much! Then I think\nwe've found our pairing!"
+    },
+    {
+      "$id": 116,
+      "<8C7DD24D>": "<7075C8E1>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now we just have to wait for rain, right?"
+    },
+    {
+      "$id": 117,
+      "<8C7DD24D>": "<23CA8EAF>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Maybe we can turn to that rain cloud-\nsummoning Nopon, then, if it comes\nto that..."
+    },
+    {
+      "$id": 118,
+      "<8C7DD24D>": "<4558D9A7>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Perhaps we could ask Pitapata to summon\nsome rain if we really need to?"
+    },
+    {
+      "$id": 119,
+      "<8C7DD24D>": "<AFEAA383>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's circle back when it's rained."
+    },
+    {
+      "$id": 120,
+      "<8C7DD24D>": "<5A4D5B85>",
+      "<ACF3531A>": "Zg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK! We'll be waiting!"
+    }
+  ]
+}

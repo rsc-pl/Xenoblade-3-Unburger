@@ -1,0 +1,4932 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<0AC369EE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Leg Breaker"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<369F8D53>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Raid Strike"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<6E20CC6A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hard Dig"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<5967ED46>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Plunging Fang"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<1CE0F3F5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Scratch 'n' Bark"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<4B714C89>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Buzz 'n' Bark"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<9C60D8DA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Phantom Bark"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<A713B749>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Desolate Bark"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<FE3FA294>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Beast Howl"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<A7912143>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Thunderclap"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<00F74596>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Horn Dance"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<DC817E4D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tank March"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<88EFAE67>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Breath"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<8DADBADF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ice Breath"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<3703A985>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Poison Breath"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<1833C8CC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Killer Dunk"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<31CC4D98>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Round Slam"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<5B23BC7B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Venom Cloud"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<711BB976>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Feral Beat"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<122A75AC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Wild Wave"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<930E9F50>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Venom Cloud Burst"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<7A92242D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Water Pistol"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<52B9BB01>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ice Pistol"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<C14E1CBE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ministorm"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<A74BA2CE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rock Breaker"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<4DE894E5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gastric Acid"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<F29AF72B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Juicing the Fruit"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<CE46E1B3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Electric Skin"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<74182CB1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Healing Touch"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<84F7082D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lunging Horn"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<62F8E398>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Horn Dive"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<2623FB96>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Healing Rest"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<D79A2D73>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Drop Kick"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<708078F4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aquaball"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<A96B5C16>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Earthball"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<DEE7F12B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sumo Press"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<6C86135F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Predation"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<A171136E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dino Storm"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<16F42BD6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dino Torrent"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<E45A1A71>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dino Flare"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<02E5C784>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dino Thunder"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<600EC037>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dino Sonic"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<30FDBE8B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dino Flash"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<7F334F0A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dino Scale"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<409D339E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Snake Eyes"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<B4BDB010>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ice Drain"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<5502D320>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Serpentine Blow"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<D43704B3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Adrenal Surge"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<1524CEE8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dive Break"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<50DD50D1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Spider Web"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<43A27849>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Back Web"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<D1005BD9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Queen Bite"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<E19FC035>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Queen Bomb"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<D5E6F7CD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Battle Pheromone"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<56671A7E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Queenly Force"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<4E9FD1F9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cocoon"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<6BDF8D4D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Poison Spray"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<D5E97B93>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Earth Roller"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<F247DAE9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "King Crawler"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<3FA018D6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mach Punch"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<C30EF13C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Deadly Needle"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<59F31FFA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bewitching"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<27EA85D7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Iron Shell"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<F2A3454D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Back Tail"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<20B714A0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Helm Bash"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<1C1668BB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Anguished Wail"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<8157FB99>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hydra Gas"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<28677DA9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Feather Vane of Pain"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<597F4716>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Trick Dart"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<0277FA63>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hawk Shot"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<59A761C6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hawk Fire"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<E7976D5F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hawk Thunder"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<5E4F92A3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gatling Peck"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<B7DCB100>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Warning Cry"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<CA079C00>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "War Cry"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<37A6C832>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hyperion Missile"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<55205E78>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hyperion Blaze"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<5C2104BB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hyperion Ray"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<3E4787B1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Raptor Catch"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<25637641>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blast Cannon"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<6429B2F4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Frost Cannon"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<BB6E8D3C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Stratospheric Launch"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<7EFAB24B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Assault Hawk"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<5DFF63A4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Double Hit"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<C4E8ED1C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Butterfly Powder"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<902C6EBE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Butterfly Dust"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<F706810F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Last Fencer"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<11EB2787>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blood Needle"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<50BB1445>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fermented Breath"
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<01A080AD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Poison Breath"
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<6716F756>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Vile Breath"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<C9DE6F79>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Spinning Bolt"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<FC89FBC7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bomberhead"
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<AA48F275>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Toxic Gas"
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<A838CEAE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Balloon"
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<9FFE17C0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bubble Cloud"
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<7F67317B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shell Guard"
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<3B2D4FF4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cavalry"
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<F9207600>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Water Jet"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<6E741EBD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Thunderball"
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<3A4A0D54>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Torrent Jump"
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<30A6016C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tail Slash"
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<E151DDB0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Trout Hop"
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<14055575>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cursed Cuisine"
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<346B2F51>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sharkball"
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<AA0C5B27>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Komodo Fire"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<D47EBE08>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fin of Fear"
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<0E2BD841>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Double Bite"
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<E0E83B0C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mega Wave"
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<9102C7C0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Call of the Abyss"
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<5DE09ABF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Jet Stream"
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<91CE23B1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lightning Storm"
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<90D2B9F1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Stepping Stone"
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<5C2510E7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lazy Sway"
+    },
+    {
+      "$id": 115,
+      "<8C7DD24D>": "<BC5F22DF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Burrowing Rocket"
+    },
+    {
+      "$id": 116,
+      "<8C7DD24D>": "<B9684E0F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dig"
+    },
+    {
+      "$id": 117,
+      "<8C7DD24D>": "<85F38858>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Snapping Blossom"
+    },
+    {
+      "$id": 118,
+      "<8C7DD24D>": "<92CE0F34>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sweet Juice"
+    },
+    {
+      "$id": 119,
+      "<8C7DD24D>": "<0E1BBA13>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Life Plant"
+    },
+    {
+      "$id": 120,
+      "<8C7DD24D>": "<F6BE94F0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Seed Bomb"
+    },
+    {
+      "$id": 121,
+      "<8C7DD24D>": "<D91BA7BA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Spiky Guard"
+    },
+    {
+      "$id": 122,
+      "<8C7DD24D>": "<FBD371C1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bouncy Hammer"
+    },
+    {
+      "$id": 123,
+      "<8C7DD24D>": "<88EEA924>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Spiky Hammer"
+    },
+    {
+      "$id": 124,
+      "<8C7DD24D>": "<494CE1CF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sweet Gas"
+    },
+    {
+      "$id": 125,
+      "<8C7DD24D>": "<D6ABD102>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Heat Gas"
+    },
+    {
+      "$id": 126,
+      "<8C7DD24D>": "<A6DF0374>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pew Pew"
+    },
+    {
+      "$id": 127,
+      "<8C7DD24D>": "<15B709FE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Escape Route"
+    },
+    {
+      "$id": 128,
+      "<8C7DD24D>": "<C9CB1AEF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Radiant Arts"
+    },
+    {
+      "$id": 129,
+      "<8C7DD24D>": "<3F1F5E8B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pointy Stick"
+    },
+    {
+      "$id": 130,
+      "<8C7DD24D>": "<ACA5C00A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Royal Stabbing"
+    },
+    {
+      "$id": 131,
+      "<8C7DD24D>": "<B1BCC2EB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Spear of Justice"
+    },
+    {
+      "$id": 132,
+      "<8C7DD24D>": "<52B405B0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hunter's Strike"
+    },
+    {
+      "$id": 133,
+      "<8C7DD24D>": "<16E602A2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hunter's Venom"
+    },
+    {
+      "$id": 134,
+      "<8C7DD24D>": "<00A62B35>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hunter's Flame"
+    },
+    {
+      "$id": 135,
+      "<8C7DD24D>": "<B3EEFA48>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Warrior's Shield"
+    },
+    {
+      "$id": 136,
+      "<8C7DD24D>": "<CD777A17>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Royal Blocking"
+    },
+    {
+      "$id": 137,
+      "<8C7DD24D>": "<1125AE01>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Desperate Charge"
+    },
+    {
+      "$id": 138,
+      "<8C7DD24D>": "<7C300BF6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Royal Orders"
+    },
+    {
+      "$id": 139,
+      "<8C7DD24D>": "<B4AF1A72>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Warrior Pride"
+    },
+    {
+      "$id": 140,
+      "<8C7DD24D>": "<B6E41AD0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Praise the King!"
+    },
+    {
+      "$id": 141,
+      "<8C7DD24D>": "<13E1FA10>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Albatross Wings"
+    },
+    {
+      "$id": 142,
+      "<8C7DD24D>": "<7AE3292C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dragon Bash"
+    },
+    {
+      "$id": 143,
+      "<8C7DD24D>": "<9DB47DA2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "King's Bash"
+    },
+    {
+      "$id": 144,
+      "<8C7DD24D>": "<3466468E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dragon Rush"
+    },
+    {
+      "$id": 145,
+      "<8C7DD24D>": "<557BAEB3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dragon Shot"
+    },
+    {
+      "$id": 146,
+      "<8C7DD24D>": "<06AE4AFF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "King's Shot"
+    },
+    {
+      "$id": 147,
+      "<8C7DD24D>": "<DFA9B282>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dragon Gas"
+    },
+    {
+      "$id": 148,
+      "<8C7DD24D>": "<B9D32985>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "King's Gas"
+    },
+    {
+      "$id": 149,
+      "<8C7DD24D>": "<1B5FE1D9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dragon Decree"
+    },
+    {
+      "$id": 150,
+      "<8C7DD24D>": "<FFE0CA26>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "King's Glory"
+    },
+    {
+      "$id": 151,
+      "<8C7DD24D>": "<59176F4E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hydra Strike"
+    },
+    {
+      "$id": 152,
+      "<8C7DD24D>": "<64BB1A69>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hydra Slash"
+    },
+    {
+      "$id": 153,
+      "<8C7DD24D>": "<F838E748>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hydra Shot"
+    },
+    {
+      "$id": 154,
+      "<8C7DD24D>": "<208AE68D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hydra Order"
+    },
+    {
+      "$id": 155,
+      "<8C7DD24D>": "<4C9DCAD3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hydra Breath"
+    },
+    {
+      "$id": 156,
+      "<8C7DD24D>": "<7003E2AB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rhino Storm"
+    },
+    {
+      "$id": 157,
+      "<8C7DD24D>": "<C558F8E9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hammer of Deceit"
+    },
+    {
+      "$id": 158,
+      "<8C7DD24D>": "<ADA4CEF6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rhino Assault"
+    },
+    {
+      "$id": 159,
+      "<8C7DD24D>": "<97174EA9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rhino Cannon"
+    },
+    {
+      "$id": 160,
+      "<8C7DD24D>": "<91222F0E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dual Attack"
+    },
+    {
+      "$id": 161,
+      "<8C7DD24D>": "<2C857D6F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tail Hit"
+    },
+    {
+      "$id": 162,
+      "<8C7DD24D>": "<1B89C071>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Wave Impact"
+    },
+    {
+      "$id": 163,
+      "<8C7DD24D>": "<BF89BC38>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blue Splash"
+    },
+    {
+      "$id": 164,
+      "<8C7DD24D>": "<E56B79AC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Abyssal Scream"
+    },
+    {
+      "$id": 165,
+      "<8C7DD24D>": "<9C1F51D8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Crushing Bite"
+    },
+    {
+      "$id": 166,
+      "<8C7DD24D>": "<FEB224F4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tail Swipe"
+    },
+    {
+      "$id": 167,
+      "<8C7DD24D>": "<9AFBF6DE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Heat Scream"
+    },
+    {
+      "$id": 168,
+      "<8C7DD24D>": "<568CB8DB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mighty Gale"
+    },
+    {
+      "$id": 169,
+      "<8C7DD24D>": "<162CC69D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Infernal Flame"
+    },
+    {
+      "$id": 170,
+      "<8C7DD24D>": "<D2078DF3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Compressive Shock"
+    },
+    {
+      "$id": 171,
+      "<8C7DD24D>": "<C02E8E27>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tail Flip"
+    },
+    {
+      "$id": 172,
+      "<8C7DD24D>": "<DE22D7FF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Howl of Rage"
+    },
+    {
+      "$id": 173,
+      "<8C7DD24D>": "<63579245>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gaia Crash"
+    },
+    {
+      "$id": 174,
+      "<8C7DD24D>": "<00A1E491>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Brutal Cannon"
+    },
+    {
+      "$id": 175,
+      "<8C7DD24D>": "<02285147>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Body Swing"
+    },
+    {
+      "$id": 176,
+      "<8C7DD24D>": "<8AE0FA02>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Water Beat"
+    },
+    {
+      "$id": 177,
+      "<8C7DD24D>": "<4050D9BD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ravenous Bite"
+    },
+    {
+      "$id": 178,
+      "<8C7DD24D>": "<06B704EF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shark Shock"
+    },
+    {
+      "$id": 179,
+      "<8C7DD24D>": "<29B4474F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ether Sphere"
+    },
+    {
+      "$id": 180,
+      "<8C7DD24D>": "<3E925FEB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Call Friends"
+    },
+    {
+      "$id": 181,
+      "<8C7DD24D>": "<B69CA5C7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Double Slap"
+    },
+    {
+      "$id": 182,
+      "<8C7DD24D>": "<753186D9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Butterfly Tackle"
+    },
+    {
+      "$id": 183,
+      "<8C7DD24D>": "<94CBF2F0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aquatic Ballet"
+    },
+    {
+      "$id": 184,
+      "<8C7DD24D>": "<767C16A3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Valiant Cry"
+    },
+    {
+      "$id": 185,
+      "<8C7DD24D>": "<01D76269>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Water Beam"
+    },
+    {
+      "$id": 186,
+      "<8C7DD24D>": "<C44CF603>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Spark"
+    },
+    {
+      "$id": 187,
+      "<8C7DD24D>": "<3CA06EA1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fanged Feed"
+    },
+    {
+      "$id": 188,
+      "<8C7DD24D>": "<D74583BC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lantern's Glow"
+    },
+    {
+      "$id": 189,
+      "<8C7DD24D>": "<552EB5EB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tentacle Tap"
+    },
+    {
+      "$id": 190,
+      "<8C7DD24D>": "<4B38FD00>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Venom Gas"
+    },
+    {
+      "$id": 191,
+      "<8C7DD24D>": "<C52DB0ED>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Draining Vacuum"
+    },
+    {
+      "$id": 192,
+      "<8C7DD24D>": "<FCE03B99>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Biolaser"
+    },
+    {
+      "$id": 193,
+      "<8C7DD24D>": "<BA9711D6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shell Dunk"
+    },
+    {
+      "$id": 194,
+      "<8C7DD24D>": "<4230411E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aquatic Missile"
+    },
+    {
+      "$id": 195,
+      "<8C7DD24D>": "<6E7671E4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rescue Call"
+    },
+    {
+      "$id": 196,
+      "<8C7DD24D>": "<A286F49B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aquatic Impulse"
+    },
+    {
+      "$id": 197,
+      "<8C7DD24D>": "<9484EF5D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Oceanic Halo"
+    },
+    {
+      "$id": 198,
+      "<8C7DD24D>": "<7B4127FC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Daedalus Web"
+    },
+    {
+      "$id": 199,
+      "<8C7DD24D>": "<2286314C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Arcing Leap"
+    },
+    {
+      "$id": 200,
+      "<8C7DD24D>": "<778FE561>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lord of the Ocean"
+    },
+    {
+      "$id": 201,
+      "<8C7DD24D>": "<838BB50F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ocean's Grace"
+    },
+    {
+      "$id": 202,
+      "<8C7DD24D>": "<53DAD183>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Elimination Beam"
+    },
+    {
+      "$id": 203,
+      "<8C7DD24D>": "<C1162841>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Killer Press"
+    },
+    {
+      "$id": 204,
+      "<8C7DD24D>": "<D7747305>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Distress Signal"
+    },
+    {
+      "$id": 205,
+      "<8C7DD24D>": "<694C133F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Covering Fire"
+    },
+    {
+      "$id": 206,
+      "<8C7DD24D>": "<88AEF38F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Raging Slam"
+    },
+    {
+      "$id": 207,
+      "<8C7DD24D>": "<05B9332D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Void Launcher"
+    },
+    {
+      "$id": 208,
+      "<8C7DD24D>": "<94F5143B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Deep Aspiration"
+    },
+    {
+      "$id": 209,
+      "<8C7DD24D>": "<FB6DA4DC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "War Slash"
+    },
+    {
+      "$id": 210,
+      "<8C7DD24D>": "<563284EC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blade Dive"
+    },
+    {
+      "$id": 211,
+      "<8C7DD24D>": "<CAD481E6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Destructive Chain"
+    },
+    {
+      "$id": 212,
+      "<8C7DD24D>": "<DAB21567>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Banishment Cannon"
+    },
+    {
+      "$id": 213,
+      "<8C7DD24D>": "<5B250DE8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ancestral War Cry"
+    },
+    {
+      "$id": 214,
+      "<8C7DD24D>": "<5DCD73C8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Celestial Dash"
+    },
+    {
+      "$id": 215,
+      "<8C7DD24D>": "<99077E09>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ultra Play Bite"
+    },
+    {
+      "$id": 216,
+      "<8C7DD24D>": "<6CD0685F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sensational Vortex"
+    },
+    {
+      "$id": 217,
+      "<8C7DD24D>": "<61176CEA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Transient Bond"
+    },
+    {
+      "$id": 218,
+      "<8C7DD24D>": "<6487A7AF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Star-Spangled Fan"
+    },
+    {
+      "$id": 219,
+      "<8C7DD24D>": "<2307D53E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rite of Illumination"
+    },
+    {
+      "$id": 220,
+      "<8C7DD24D>": "<39407645>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Double Strike"
+    },
+    {
+      "$id": 221,
+      "<8C7DD24D>": "<CB49BC31>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Esoteric Sonic Blow"
+    },
+    {
+      "$id": 222,
+      "<8C7DD24D>": "<E71F0FCA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dive Slash"
+    },
+    {
+      "$id": 223,
+      "<8C7DD24D>": "<5A7530B5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Vampire Bat"
+    },
+    {
+      "$id": 224,
+      "<8C7DD24D>": "<A488A4D1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Doom Bat"
+    },
+    {
+      "$id": 225,
+      "<8C7DD24D>": "<C1C3D78F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Muddy Water"
+    },
+    {
+      "$id": 226,
+      "<8C7DD24D>": "<58896615>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hypno-Light"
+    },
+    {
+      "$id": 227,
+      "<8C7DD24D>": "<6D03981F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Vexing Dance"
+    },
+    {
+      "$id": 228,
+      "<8C7DD24D>": "<F177068D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Disintegration"
+    },
+    {
+      "$id": 229,
+      "<8C7DD24D>": "<CFFA3AE0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tail Slap"
+    },
+    {
+      "$id": 230,
+      "<8C7DD24D>": "<F4E0E21D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Call Allies"
+    },
+    {
+      "$id": 231,
+      "<8C7DD24D>": "<178A99C4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hypnotism"
+    },
+    {
+      "$id": 232,
+      "<8C7DD24D>": "<F1C9B237>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tornado Gust"
+    },
+    {
+      "$id": 233,
+      "<8C7DD24D>": "<5A6BEE11>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Peerless"
+    },
+    {
+      "$id": 234,
+      "<8C7DD24D>": "<5624CD58>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Flip Wheel"
+    },
+    {
+      "$id": 235,
+      "<8C7DD24D>": "<381C7FCE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rampage Drive"
+    },
+    {
+      "$id": 236,
+      "<8C7DD24D>": "<72A3F988>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Spit Beam"
+    },
+    {
+      "$id": 237,
+      "<8C7DD24D>": "<E14FAA7D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Iron Stamp"
+    },
+    {
+      "$id": 238,
+      "<8C7DD24D>": "<B4C3554D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Neck Slice"
+    },
+    {
+      "$id": 239,
+      "<8C7DD24D>": "<4A1A4A71>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rushing Drive"
+    },
+    {
+      "$id": 240,
+      "<8C7DD24D>": "<DBD87ED7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Piercing Charge"
+    },
+    {
+      "$id": 241,
+      "<8C7DD24D>": "<9BF4F711>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rushing Flame"
+    },
+    {
+      "$id": 242,
+      "<8C7DD24D>": "<899B3086>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Thrust Conduit"
+    },
+    {
+      "$id": 243,
+      "<8C7DD24D>": "<30B158B2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Crushing Hand"
+    },
+    {
+      "$id": 244,
+      "<8C7DD24D>": "<96E742B4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rising Spear"
+    },
+    {
+      "$id": 245,
+      "<8C7DD24D>": "<F5F73E71>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Piercing Laser"
+    },
+    {
+      "$id": 246,
+      "<8C7DD24D>": "<5EB0E9B6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Humbling Smash"
+    },
+    {
+      "$id": 247,
+      "<8C7DD24D>": "<D423C764>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Energy Charge"
+    },
+    {
+      "$id": 248,
+      "<8C7DD24D>": "<7C1F8FDC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Quarter Charge"
+    },
+    {
+      "$id": 249,
+      "<8C7DD24D>": "<BA5FE45C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Half Charge"
+    },
+    {
+      "$id": 250,
+      "<8C7DD24D>": "<767616EA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Full Charge"
+    },
+    {
+      "$id": 251,
+      "<8C7DD24D>": "<769A24DA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ultra Energy Charge"
+    },
+    {
+      "$id": 252,
+      "<8C7DD24D>": "<B0F2846A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Heat Injection"
+    },
+    {
+      "$id": 253,
+      "<8C7DD24D>": "<325D5FFF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ultra Heat Injection"
+    },
+    {
+      "$id": 254,
+      "<8C7DD24D>": "<57F7DB5D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Erasure Buster"
+    },
+    {
+      "$id": 255,
+      "<8C7DD24D>": "<11A2BBE8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Merciless Dance"
+    },
+    {
+      "$id": 256,
+      "<8C7DD24D>": "<F9454530>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tempest's Edge"
+    },
+    {
+      "$id": 257,
+      "<8C7DD24D>": "<90AB1CAE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bright Smash"
+    },
+    {
+      "$id": 258,
+      "<8C7DD24D>": "<1D84D210>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Arm Shot"
+    },
+    {
+      "$id": 259,
+      "<8C7DD24D>": "<B552E1D6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Impulse Switch"
+    },
+    {
+      "$id": 260,
+      "<8C7DD24D>": "<4D0C2125>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Uplift"
+    },
+    {
+      "$id": 261,
+      "<8C7DD24D>": "<BE39FC29>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ether Shield"
+    },
+    {
+      "$id": 262,
+      "<8C7DD24D>": "<AE1D2C00>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Body Cannon"
+    },
+    {
+      "$id": 263,
+      "<8C7DD24D>": "<88EBB10F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pollution Cannon"
+    },
+    {
+      "$id": 264,
+      "<8C7DD24D>": "<AD4C427F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mouth Laser"
+    },
+    {
+      "$id": 265,
+      "<8C7DD24D>": "<14BE9A2F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Homing Beam"
+    },
+    {
+      "$id": 266,
+      "<8C7DD24D>": "<8017E4E1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ether Burst"
+    },
+    {
+      "$id": 267,
+      "<8C7DD24D>": "<AA22AA1C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Burst Output"
+    },
+    {
+      "$id": 268,
+      "<8C7DD24D>": "<8C40C2E7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Punishment Shot"
+    },
+    {
+      "$id": 269,
+      "<8C7DD24D>": "<FA9A1903>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Downpour"
+    },
+    {
+      "$id": 270,
+      "<8C7DD24D>": "<C9FCBDC1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Psychowave"
+    },
+    {
+      "$id": 271,
+      "<8C7DD24D>": "<40EB5C60>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Knuckle Launcher"
+    },
+    {
+      "$id": 272,
+      "<8C7DD24D>": "<5EC9D674>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hand Capture"
+    },
+    {
+      "$id": 273,
+      "<8C7DD24D>": "<D64975BB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fingers of Flame"
+    },
+    {
+      "$id": 274,
+      "<8C7DD24D>": "<ECDE1D88>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ground Breach"
+    },
+    {
+      "$id": 275,
+      "<8C7DD24D>": "<E16CC277>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dust Sweep"
+    },
+    {
+      "$id": 276,
+      "<8C7DD24D>": "<101BC22D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lambda Pressure"
+    },
+    {
+      "$id": 277,
+      "<8C7DD24D>": "<B00FEA2A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fire Blindly"
+    },
+    {
+      "$id": 278,
+      "<8C7DD24D>": "<922E462D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lambda Cannon"
+    },
+    {
+      "$id": 279,
+      "<8C7DD24D>": "<446F1D26>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Levnis Command"
+    },
+    {
+      "$id": 280,
+      "<8C7DD24D>": "<F7C42583>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Conflagration Blade"
+    },
+    {
+      "$id": 281,
+      "<8C7DD24D>": "<1D4EA7D1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Heaven's Fire Bloom"
+    },
+    {
+      "$id": 282,
+      "<8C7DD24D>": "<D606EC40>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Seal of Divine Fire"
+    },
+    {
+      "$id": 283,
+      "<8C7DD24D>": "<F8A04FB6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Raider's Blade"
+    },
+    {
+      "$id": 284,
+      "<8C7DD24D>": "<EE71C984>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Machine Gun Sweep"
+    },
+    {
+      "$id": 285,
+      "<8C7DD24D>": "<D2D3E5A3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Three-Gun Salute"
+    },
+    {
+      "$id": 286,
+      "<8C7DD24D>": "<B603DC2B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Machine Gun Sweep Mk. II"
+    },
+    {
+      "$id": 287,
+      "<8C7DD24D>": "<8C16DE2B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Moebius Dominion: Defenders"
+    },
+    {
+      "$id": 288,
+      "<8C7DD24D>": "<CEEA2DB1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Moebius Dominion: Attackers"
+    },
+    {
+      "$id": 289,
+      "<8C7DD24D>": "<8B091390>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Moebius Dominion: Healers"
+    },
+    {
+      "$id": 290,
+      "<8C7DD24D>": "<C9536B14>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blood Moon"
+    },
+    {
+      "$id": 291,
+      "<8C7DD24D>": "<EF4CF14A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Chimera"
+    },
+    {
+      "$id": 292,
+      "<8C7DD24D>": "<76466092>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Essence of Chimera"
+    },
+    {
+      "$id": 293,
+      "<8C7DD24D>": "<2AA426D4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shred the Strawman"
+    },
+    {
+      "$id": 294,
+      "<8C7DD24D>": "<9A9F5C03>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Glimmering Swiftblade"
+    },
+    {
+      "$id": 295,
+      "<8C7DD24D>": "<D5FAE244>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Glimmering Swiftblade EX"
+    },
+    {
+      "$id": 296,
+      "<8C7DD24D>": "<01483142>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Wraith's Swordplay"
+    },
+    {
+      "$id": 297,
+      "<8C7DD24D>": "<A0B294D5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Wraith's Swordplay EX"
+    },
+    {
+      "$id": 298,
+      "<8C7DD24D>": "<F9FC9D72>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Kenotic Purge"
+    },
+    {
+      "$id": 299,
+      "<8C7DD24D>": "<574FB74F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Kenotic Purge EX"
+    },
+    {
+      "$id": 300,
+      "<8C7DD24D>": "<CC8D975F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Quantum Moment"
+    },
+    {
+      "$id": 301,
+      "<8C7DD24D>": "<CEA0E4CE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Primal Chronos"
+    },
+    {
+      "$id": 302,
+      "<8C7DD24D>": "<D2FCA89C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Universal Vertex"
+    },
+    {
+      "$id": 303,
+      "<8C7DD24D>": "<04DC8772>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aerial Fang"
+    },
+    {
+      "$id": 304,
+      "<8C7DD24D>": "<7716E337>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mirage Slash"
+    },
+    {
+      "$id": 305,
+      "<8C7DD24D>": "<404ACB1B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Eclipse Soul"
+    },
+    {
+      "$id": 306,
+      "<8C7DD24D>": "<901851C9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dominion Flower"
+    },
+    {
+      "$id": 307,
+      "<8C7DD24D>": "<4FDE0956>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ether Rampage"
+    },
+    {
+      "$id": 308,
+      "<8C7DD24D>": "<688D6714>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Crescendo Edge"
+    },
+    {
+      "$id": 309,
+      "<8C7DD24D>": "<0FBC1C9D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lightning Resonance"
+    },
+    {
+      "$id": 310,
+      "<8C7DD24D>": "<65C4C601>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Staccato Shock"
+    },
+    {
+      "$id": 311,
+      "<8C7DD24D>": "<8DE667A4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Finale"
+    },
+    {
+      "$id": 312,
+      "<8C7DD24D>": "<95F3F2EA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Valiant Deed"
+    },
+    {
+      "$id": 313,
+      "<8C7DD24D>": "<5A26AF4B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Whip Crash"
+    },
+    {
+      "$id": 314,
+      "<8C7DD24D>": "<35DC1565>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fatal Pierce"
+    },
+    {
+      "$id": 315,
+      "<8C7DD24D>": "<B01842CC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ruined Marionette"
+    },
+    {
+      "$id": 316,
+      "<8C7DD24D>": "<55B52AE1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hellbound Hammer"
+    },
+    {
+      "$id": 317,
+      "<8C7DD24D>": "<90EB9A9A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sonic Straight"
+    },
+    {
+      "$id": 318,
+      "<8C7DD24D>": "<54FA6F0F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Colony 4 Fire Support"
+    },
+    {
+      "$id": 319,
+      "<8C7DD24D>": "<B99B0D1B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bodyguard"
+    },
+    {
+      "$id": 320,
+      "<8C7DD24D>": "<2B6FE192>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Calamitous Slice"
+    },
+    {
+      "$id": 321,
+      "<8C7DD24D>": "<D405991D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Delightful Chain"
+    },
+    {
+      "$id": 322,
+      "<8C7DD24D>": "<B6D56EAA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Siren of Desire"
+    },
+    {
+      "$id": 323,
+      "<8C7DD24D>": "<851FD213>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Headhunt"
+    },
+    {
+      "$id": 324,
+      "<8C7DD24D>": "<24D79ACD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dusk"
+    },
+    {
+      "$id": 325,
+      "<8C7DD24D>": "<16BBF0D5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dark Ere the Dawn"
+    },
+    {
+      "$id": 326,
+      "<8C7DD24D>": "<26A8FF84>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sovereign Purge"
+    },
+    {
+      "$id": 327,
+      "<8C7DD24D>": "<65D01D4D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Reproach Barbarity"
+    },
+    {
+      "$id": 328,
+      "<8C7DD24D>": "<F99B7CEF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Grim Inquisition"
+    },
+    {
+      "$id": 329,
+      "<8C7DD24D>": "<36A68893>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Moebius Breath"
+    },
+    {
+      "$id": 330,
+      "<8C7DD24D>": "<25F279F7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Archon Purge"
+    },
+    {
+      "$id": 331,
+      "<8C7DD24D>": "<FEE414FE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Moebius Diffusion"
+    },
+    {
+      "$id": 332,
+      "<8C7DD24D>": "<BE33815B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Moonless"
+    },
+    {
+      "$id": 333,
+      "<8C7DD24D>": "<E92EACCE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gravity Catastrophe"
+    },
+    {
+      "$id": 334,
+      "<8C7DD24D>": "<79B325A2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Astraea"
+    },
+    {
+      "$id": 335,
+      "<8C7DD24D>": "<DED5B208>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Grandmaster"
+    },
+    {
+      "$id": 336,
+      "<8C7DD24D>": "<CDA39916>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Origin Blaster"
+    },
+    {
+      "$id": 337,
+      "<8C7DD24D>": "<B18A1C74>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Origin Punishment"
+    },
+    {
+      "$id": 338,
+      "<8C7DD24D>": "<3B622298>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hand of Origin"
+    },
+    {
+      "$id": 339,
+      "<8C7DD24D>": "<F09C6286>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Infinite Finale"
+    },
+    {
+      "$id": 340,
+      "<8C7DD24D>": "<0387C7FC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Void Sickle"
+    },
+    {
+      "$id": 341,
+      "<8C7DD24D>": "<BF40E6D3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sad Balloon"
+    },
+    {
+      "$id": 342,
+      "<8C7DD24D>": "<51652DC2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shadow Twister"
+    },
+    {
+      "$id": 343,
+      "<8C7DD24D>": "<F27D1CDD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Threefold Malice"
+    },
+    {
+      "$id": 344,
+      "<8C7DD24D>": "<1F3B39AD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Meaningless Pain"
+    },
+    {
+      "$id": 345,
+      "<8C7DD24D>": "<019E10DA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hammer Shake"
+    },
+    {
+      "$id": 346,
+      "<8C7DD24D>": "<E618C4BA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sandblast"
+    },
+    {
+      "$id": 347,
+      "<8C7DD24D>": "<408EF634>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fervid Typhoon"
+    },
+    {
+      "$id": 348,
+      "<8C7DD24D>": "<1309C581>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Glaring Violation"
+    },
+    {
+      "$id": 349,
+      "<8C7DD24D>": "<928C39F8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Unstoppable Spear"
+    },
+    {
+      "$id": 350,
+      "<8C7DD24D>": "<15FADEA5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Chaos Arch"
+    },
+    {
+      "$id": 351,
+      "<8C7DD24D>": "<E018F619>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Grim Rush"
+    },
+    {
+      "$id": 352,
+      "<8C7DD24D>": "<DD0E1D41>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Doom Rain"
+    },
+    {
+      "$id": 353,
+      "<8C7DD24D>": "<4DBE8396>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dread Edge"
+    },
+    {
+      "$id": 354,
+      "<8C7DD24D>": "<79AC6DF8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sanguine Fire"
+    },
+    {
+      "$id": 355,
+      "<8C7DD24D>": "<A0CCAA8F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Infernal Call"
+    },
+    {
+      "$id": 356,
+      "<8C7DD24D>": "<958F69B7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Beyond Death"
+    },
+    {
+      "$id": 357,
+      "<8C7DD24D>": "<131C9AEC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Brave Hand"
+    },
+    {
+      "$id": 358,
+      "<8C7DD24D>": "<1B073D8F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Incarceration"
+    },
+    {
+      "$id": 359,
+      "<8C7DD24D>": "<420D0E0B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Decoy Soul"
+    },
+    {
+      "$id": 360,
+      "<8C7DD24D>": "<8837D2FB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Healing Light"
+    },
+    {
+      "$id": 361,
+      "<8C7DD24D>": "<55B3924C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Farewell, My Puppet"
+    },
+    {
+      "$id": 362,
+      "<8C7DD24D>": "<5D06740E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Reaper's Pain"
+    },
+    {
+      "$id": 363,
+      "<8C7DD24D>": "<1CBBD45F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Trick Balloon"
+    },
+    {
+      "$id": 364,
+      "<8C7DD24D>": "<780C994A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Discerning Eye"
+    },
+    {
+      "$id": 365,
+      "<8C7DD24D>": "<4614FF14>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Vengeful Judge"
+    },
+    {
+      "$id": 366,
+      "<8C7DD24D>": "<DE517C67>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Crazed Headhunt"
+    },
+    {
+      "$id": 367,
+      "<8C7DD24D>": "<7218AB08>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Heel Stomp"
+    },
+    {
+      "$id": 368,
+      "<8C7DD24D>": "<49827BC2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rose Whip"
+    },
+    {
+      "$id": 369,
+      "<8C7DD24D>": "<CE9555B5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "August Symbol"
+    },
+    {
+      "$id": 370,
+      "<8C7DD24D>": "<0BFEEFB7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Exalted Fist"
+    },
+    {
+      "$id": 371,
+      "<8C7DD24D>": "<FD2204DE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Grand Berserker"
+    },
+    {
+      "$id": 372,
+      "<8C7DD24D>": "<3391344F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lunar Orbit"
+    },
+    {
+      "$id": 373,
+      "<8C7DD24D>": "<B0A68429>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Empress Chariot"
+    },
+    {
+      "$id": 374,
+      "<8C7DD24D>": "<19FFFB14>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Power Recovery"
+    },
+    {
+      "$id": 375,
+      "<8C7DD24D>": "<5A20A319>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mighty Orb"
+    },
+    {
+      "$id": 376,
+      "<8C7DD24D>": "<F9617195>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mega Sonic Straight"
+    },
+    {
+      "$id": 377,
+      "<8C7DD24D>": "<9BFAA7D7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Muscle Knockout"
+    },
+    {
+      "$id": 378,
+      "<8C7DD24D>": "<ED7F669A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Victory Pose"
+    },
+    {
+      "$id": 379,
+      "<8C7DD24D>": "<288CFB86>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blast Wave"
+    },
+    {
+      "$id": 380,
+      "<8C7DD24D>": "<920E4792>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Power Hold"
+    },
+    {
+      "$id": 381,
+      "<8C7DD24D>": "<1E8FBD9E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blaze Party"
+    },
+    {
+      "$id": 382,
+      "<8C7DD24D>": "<E7F476B9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Atomic Cannon"
+    },
+    {
+      "$id": 383,
+      "<8C7DD24D>": "<90A29BD8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Issue Challenge"
+    },
+    {
+      "$id": 384,
+      "<8C7DD24D>": "<1D815B13>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Reflective Shell"
+    },
+    {
+      "$id": 385,
+      "<8C7DD24D>": "<623D65A4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Agrius Knuckle"
+    },
+    {
+      "$id": 386,
+      "<8C7DD24D>": "<998908F4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gaia Quake"
+    },
+    {
+      "$id": 387,
+      "<8C7DD24D>": "<527276E7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Calamity Charge"
+    },
+    {
+      "$id": 388,
+      "<8C7DD24D>": "<E0B613CC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tyrant's Shout"
+    },
+    {
+      "$id": 389,
+      "<8C7DD24D>": "<AE05CF3F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tyrant's Shout - Spark"
+    },
+    {
+      "$id": 390,
+      "<8C7DD24D>": "<A6C623C7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tyrant's Shout - Glimmer"
+    },
+    {
+      "$id": 391,
+      "<8C7DD24D>": "<A9376577>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tyrant's Shout - Shine"
+    },
+    {
+      "$id": 392,
+      "<8C7DD24D>": "<7158DB41>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tyrant's Shout - Radiance"
+    },
+    {
+      "$id": 393,
+      "<8C7DD24D>": "<8DB87E61>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Impact Quake"
+    },
+    {
+      "$id": 394,
+      "<8C7DD24D>": "<CEDB4EE7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Body Trap"
+    },
+    {
+      "$id": 395,
+      "<8C7DD24D>": "<76C701CC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Glorious Typhoon"
+    },
+    {
+      "$id": 396,
+      "<8C7DD24D>": "<60C73AF5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cruel Taunt"
+    },
+    {
+      "$id": 397,
+      "<8C7DD24D>": "<20E7AAF1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Summon Soldier"
+    },
+    {
+      "$id": 398,
+      "<8C7DD24D>": "<EA4CCE72>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rising Storm"
+    },
+    {
+      "$id": 399,
+      "<8C7DD24D>": "<A0E1B62D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Guilty Combo"
+    },
+    {
+      "$id": 400,
+      "<8C7DD24D>": "<F3BC5418>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Savage Slaughter"
+    },
+    {
+      "$id": 401,
+      "<8C7DD24D>": "<35D92F09>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fire Bullet"
+    },
+    {
+      "$id": 402,
+      "<8C7DD24D>": "<AB571DC4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Flame Pillar"
+    },
+    {
+      "$id": 403,
+      "<8C7DD24D>": "<01005139>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shutout"
+    },
+    {
+      "$id": 404,
+      "<8C7DD24D>": "<B665E108>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fury Ray"
+    },
+    {
+      "$id": 405,
+      "<8C7DD24D>": "<2E27E4A1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Force Shout"
+    },
+    {
+      "$id": 406,
+      "<8C7DD24D>": "<E396FCF6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gift of Frost"
+    },
+    {
+      "$id": 407,
+      "<8C7DD24D>": "<1535F4FE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sweeping Slash"
+    },
+    {
+      "$id": 408,
+      "<8C7DD24D>": "<9104021F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Freezing Rush"
+    },
+    {
+      "$id": 409,
+      "<8C7DD24D>": "<5E8105D3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Icicle Moon"
+    },
+    {
+      "$id": 410,
+      "<8C7DD24D>": "<E5770C77>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Microblast"
+    },
+    {
+      "$id": 411,
+      "<8C7DD24D>": "<B06BA55B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lethal Mist"
+    },
+    {
+      "$id": 412,
+      "<8C7DD24D>": "<D43B71F6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Scapegoat"
+    },
+    {
+      "$id": 413,
+      "<8C7DD24D>": "<EAA8597A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Accursed Dance"
+    },
+    {
+      "$id": 414,
+      "<8C7DD24D>": "<4EFE291B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Binding Surge"
+    },
+    {
+      "$id": 415,
+      "<8C7DD24D>": "<666BCAC1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Jamming Mist"
+    },
+    {
+      "$id": 416,
+      "<8C7DD24D>": "<4AF74BFE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Beast Tail"
+    },
+    {
+      "$id": 417,
+      "<8C7DD24D>": "<41D41FFA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rage Assault"
+    },
+    {
+      "$id": 418,
+      "<8C7DD24D>": "<82A5BB8F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Animus Shout"
+    },
+    {
+      "$id": 419,
+      "<8C7DD24D>": "<8F65BC06>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mad Shot"
+    },
+    {
+      "$id": 420,
+      "<8C7DD24D>": "<BFB7EFDE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Nexus Slice"
+    },
+    {
+      "$id": 421,
+      "<8C7DD24D>": "<6D43521E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pain Wedge"
+    },
+    {
+      "$id": 422,
+      "<8C7DD24D>": "<3BDE9172>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Piercing Hatred"
+    },
+    {
+      "$id": 423,
+      "<8C7DD24D>": "<626B866D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Stasis Command"
+    },
+    {
+      "$id": 424,
+      "<8C7DD24D>": "<FC118B00>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Death Scream"
+    },
+    {
+      "$id": 425,
+      "<8C7DD24D>": "<D6F95B16>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Torture Lesson"
+    },
+    {
+      "$id": 426,
+      "<8C7DD24D>": "<EB317BDC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Skull Masquerade"
+    },
+    {
+      "$id": 427,
+      "<8C7DD24D>": "<22C73305>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Phantom Draw"
+    },
+    {
+      "$id": 428,
+      "<8C7DD24D>": "<E20B289B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Heaven or Death"
+    },
+    {
+      "$id": 429,
+      "<8C7DD24D>": "<B9BFD4E7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sensation"
+    },
+    {
+      "$id": 430,
+      "<8C7DD24D>": "<E07EF15B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Winnowing"
+    },
+    {
+      "$id": 431,
+      "<8C7DD24D>": "<261F6B41>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Force Assist"
+    },
+    {
+      "$id": 432,
+      "<8C7DD24D>": "<5580AFA8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tranquilizer Shot"
+    },
+    {
+      "$id": 433,
+      "<8C7DD24D>": "<8E355F79>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fragmented Circle"
+    },
+    {
+      "$id": 434,
+      "<8C7DD24D>": "<6853DC10>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Toxic Bullet"
+    },
+    {
+      "$id": 435,
+      "<8C7DD24D>": "<CEE5EEA8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Evil Powder"
+    },
+    {
+      "$id": 436,
+      "<8C7DD24D>": "<768441D3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mental Focus"
+    },
+    {
+      "$id": 437,
+      "<8C7DD24D>": "<30844177>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Missile Burst"
+    },
+    {
+      "$id": 438,
+      "<8C7DD24D>": "<8959FA93>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Poisonous Sparkle"
+    },
+    {
+      "$id": 439,
+      "<8C7DD24D>": "<142A02A0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ice Maiden"
+    },
+    {
+      "$id": 440,
+      "<8C7DD24D>": "<C6ADEB40>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Freeze Vortex"
+    },
+    {
+      "$id": 441,
+      "<8C7DD24D>": "<5A1C331E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Violent Soul"
+    },
+    {
+      "$id": 442,
+      "<8C7DD24D>": "<BE7DF900>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blizzard Stream"
+    },
+    {
+      "$id": 443,
+      "<8C7DD24D>": "<0E6A5814>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Elemental Wind"
+    },
+    {
+      "$id": 444,
+      "<8C7DD24D>": "<E44D4BFF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Elemental Earth"
+    },
+    {
+      "$id": 445,
+      "<8C7DD24D>": "<92AE98F8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Elemental Flare"
+    },
+    {
+      "$id": 446,
+      "<8C7DD24D>": "<E33B4256>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mind Blast"
+    },
+    {
+      "$id": 447,
+      "<8C7DD24D>": "<F82C0261>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ether Protection"
+    },
+    {
+      "$id": 448,
+      "<8C7DD24D>": "<4A188C6B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Nocturne Sword"
+    },
+    {
+      "$id": 449,
+      "<8C7DD24D>": "<C9DE3DDD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Phantasia Rush"
+    },
+    {
+      "$id": 450,
+      "<8C7DD24D>": "<48B4FA7F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Quick Tune-Up"
+    },
+    {
+      "$id": 451,
+      "<8C7DD24D>": "<73758FD9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rhapsodic Blast"
+    },
+    {
+      "$id": 452,
+      "<8C7DD24D>": "<1BB826A8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Requiem Rain"
+    },
+    {
+      "$id": 453,
+      "<8C7DD24D>": "<6FE759CE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Radiant Blade"
+    },
+    {
+      "$id": 454,
+      "<8C7DD24D>": "<E6CD5FFE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lightblade Duo Slash"
+    },
+    {
+      "$id": 455,
+      "<8C7DD24D>": "<199430F4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Support Executable"
+    },
+    {
+      "$id": 456,
+      "<8C7DD24D>": "<ED32A6C3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Photon Impact"
+    },
+    {
+      "$id": 457,
+      "<8C7DD24D>": "<B9556240>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Annihilator: Flash"
+    },
+    {
+      "$id": 458,
+      "<8C7DD24D>": "<08492E56>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Butterfly Blade"
+    },
+    {
+      "$id": 459,
+      "<8C7DD24D>": "<862E992E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Speed Demon"
+    },
+    {
+      "$id": 460,
+      "<8C7DD24D>": "<35AC23E7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Air Fang"
+    },
+    {
+      "$id": 461,
+      "<8C7DD24D>": "<322C1787>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Wide Slash"
+    },
+    {
+      "$id": 462,
+      "<8C7DD24D>": "<4FC9A9EE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Glow Ring"
+    },
+    {
+      "$id": 463,
+      "<8C7DD24D>": "<E92FBFFE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Overfall"
+    },
+    {
+      "$id": 464,
+      "<8C7DD24D>": "<4AF2DAF2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Stormy Skies"
+    },
+    {
+      "$id": 465,
+      "<8C7DD24D>": "<015FCFFB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hazy Figure"
+    },
+    {
+      "$id": 466,
+      "<8C7DD24D>": "<30F8BC3D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dark Banner"
+    },
+    {
+      "$id": 467,
+      "<8C7DD24D>": "<672D2B93>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Avenging Eagle"
+    },
+    {
+      "$id": 468,
+      "<8C7DD24D>": "<51A8DD9B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hammerhead"
+    },
+    {
+      "$id": 469,
+      "<8C7DD24D>": "<BE0C9811>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Big Impact"
+    },
+    {
+      "$id": 470,
+      "<8C7DD24D>": "<D9EB0C98>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Giant Swing"
+    },
+    {
+      "$id": 471,
+      "<8C7DD24D>": "<B66324FE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cannonball"
+    },
+    {
+      "$id": 472,
+      "<8C7DD24D>": "<73425B16>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Maximum Voltage"
+    },
+    {
+      "$id": 473,
+      "<8C7DD24D>": "<2E3811E9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cross Impact"
+    },
+    {
+      "$id": 474,
+      "<8C7DD24D>": "<DE3DA7F2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Acceleration"
+    },
+    {
+      "$id": 475,
+      "<8C7DD24D>": "<84B73F4F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Swallowtail"
+    },
+    {
+      "$id": 476,
+      "<8C7DD24D>": "<4A6A246C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Million Flash"
+    },
+    {
+      "$id": 477,
+      "<8C7DD24D>": "<2EFCA9ED>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Silver Cyclone"
+    },
+    {
+      "$id": 478,
+      "<8C7DD24D>": "<80F210F9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Saber Strike"
+    },
+    {
+      "$id": 479,
+      "<8C7DD24D>": "<BCE118A6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "No Love Lost"
+    },
+    {
+      "$id": 480,
+      "<8C7DD24D>": "<9351C739>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mirror Trap"
+    },
+    {
+      "$id": 481,
+      "<8C7DD24D>": "<2CE1259F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Moonshadow"
+    },
+    {
+      "$id": 482,
+      "<8C7DD24D>": "<D209929A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gyreflow"
+    },
+    {
+      "$id": 483,
+      "<8C7DD24D>": "<C449D9CC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Razor Wind"
+    },
+    {
+      "$id": 484,
+      "<8C7DD24D>": "<A5655BEB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Soulfire"
+    },
+    {
+      "$id": 485,
+      "<8C7DD24D>": "<0E536B41>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Twin Moons"
+    },
+    {
+      "$id": 486,
+      "<8C7DD24D>": "<D83B9706>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shadow Parade"
+    },
+    {
+      "$id": 487,
+      "<8C7DD24D>": "<C186201D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sweet Breeze"
+    },
+    {
+      "$id": 488,
+      "<8C7DD24D>": "<048F6046>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Empty Shell"
+    },
+    {
+      "$id": 489,
+      "<8C7DD24D>": "<907FE5DC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Snowdrift"
+    },
+    {
+      "$id": 490,
+      "<8C7DD24D>": "<103C92E5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Glittering Melody"
+    },
+    {
+      "$id": 491,
+      "<8C7DD24D>": "<5F39767E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Leveling Fire"
+    },
+    {
+      "$id": 492,
+      "<8C7DD24D>": "<276CED76>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Crimson Lance"
+    },
+    {
+      "$id": 493,
+      "<8C7DD24D>": "<479C4E92>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sturm und Drang"
+    },
+    {
+      "$id": 494,
+      "<8C7DD24D>": "<243119E4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Heavenly Spear"
+    },
+    {
+      "$id": 495,
+      "<8C7DD24D>": "<C8BF9137>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Searing Fury"
+    },
+    {
+      "$id": 496,
+      "<8C7DD24D>": "<41E842CE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Empyrean Salvo"
+    },
+    {
+      "$id": 497,
+      "<8C7DD24D>": "<4B148BD3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Taunt Pulse"
+    },
+    {
+      "$id": 498,
+      "<8C7DD24D>": "<8D5BBCDE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shockwave"
+    },
+    {
+      "$id": 499,
+      "<8C7DD24D>": "<B7AFCC19>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Geo Breaker"
+    },
+    {
+      "$id": 500,
+      "<8C7DD24D>": "<386F4524>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bolt Flinger"
+    },
+    {
+      "$id": 501,
+      "<8C7DD24D>": "<0E00BF47>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lightning Strike"
+    },
+    {
+      "$id": 502,
+      "<8C7DD24D>": "<DA63D5F8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Thunder Steel"
+    },
+    {
+      "$id": 503,
+      "<8C7DD24D>": "<8D8C5C48>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Heal Bullet"
+    },
+    {
+      "$id": 504,
+      "<8C7DD24D>": "<6458E16A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cure Bullet"
+    },
+    {
+      "$id": 505,
+      "<8C7DD24D>": "<B3AD07AA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Surprise Beat"
+    },
+    {
+      "$id": 506,
+      "<8C7DD24D>": "<7FDA88E8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Trickshot"
+    },
+    {
+      "$id": 507,
+      "<8C7DD24D>": "<CA1AC5D7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hyper Reload"
+    },
+    {
+      "$id": 508,
+      "<8C7DD24D>": "<41BEB830>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Technical Heal"
+    },
+    {
+      "$id": 509,
+      "<8C7DD24D>": "<14A5CE83>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Noble Taunt"
+    },
+    {
+      "$id": 510,
+      "<8C7DD24D>": "<D478470D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shield Bash"
+    },
+    {
+      "$id": 511,
+      "<8C7DD24D>": "<6D017D53>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Proud Edge"
+    },
+    {
+      "$id": 512,
+      "<8C7DD24D>": "<849B1FC2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Victory Shift"
+    },
+    {
+      "$id": 513,
+      "<8C7DD24D>": "<19A2807A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Celestial Strike"
+    },
+    {
+      "$id": 514,
+      "<8C7DD24D>": "<7A5B1C32>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Deflector Field"
+    },
+    {
+      "$id": 515,
+      "<8C7DD24D>": "<F73C95FB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Divine Protection"
+    },
+    {
+      "$id": 516,
+      "<8C7DD24D>": "<AF2AE8FD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rank Splitter"
+    },
+    {
+      "$id": 517,
+      "<8C7DD24D>": "<98E97FA7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Furious Flash"
+    },
+    {
+      "$id": 518,
+      "<8C7DD24D>": "<AF13054D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Profound Strength"
+    },
+    {
+      "$id": 519,
+      "<8C7DD24D>": "<689ED231>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "All-Slayer"
+    },
+    {
+      "$id": 520,
+      "<8C7DD24D>": "<E74E0C00>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Demise Thrust"
+    },
+    {
+      "$id": 521,
+      "<8C7DD24D>": "<4FBCD759>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Reversal Edge"
+    },
+    {
+      "$id": 522,
+      "<8C7DD24D>": "<380C4858>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sidewinder"
+    },
+    {
+      "$id": 523,
+      "<8C7DD24D>": "<276B85C4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Etched Deep"
+    },
+    {
+      "$id": 524,
+      "<8C7DD24D>": "<3B09EA9A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Luminous Illusion"
+    },
+    {
+      "$id": 525,
+      "<8C7DD24D>": "<22C87B4D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mirage Divide"
+    },
+    {
+      "$id": 526,
+      "<8C7DD24D>": "<11727B54>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Supreme Sword"
+    },
+    {
+      "$id": 527,
+      "<8C7DD24D>": "<03C58CE3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Night Hunt"
+    },
+    {
+      "$id": 528,
+      "<8C7DD24D>": "<011B92DC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Landslide"
+    },
+    {
+      "$id": 529,
+      "<8C7DD24D>": "<AF32DC9B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Downdraft"
+    },
+    {
+      "$id": 530,
+      "<8C7DD24D>": "<C52BCA34>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Force of Nature"
+    },
+    {
+      "$id": 531,
+      "<8C7DD24D>": "<25B7B2D0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Liberation Arrow"
+    },
+    {
+      "$id": 532,
+      "<8C7DD24D>": "<D576F4A7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Refreshing Rain"
+    },
+    {
+      "$id": 533,
+      "<8C7DD24D>": "<3B1C40BB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Demon Slayer"
+    },
+    {
+      "$id": 534,
+      "<8C7DD24D>": "<F9044AD8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Eye of the Storm"
+    },
+    {
+      "$id": 535,
+      "<8C7DD24D>": "<D55D1433>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Wind Sickle"
+    },
+    {
+      "$id": 536,
+      "<8C7DD24D>": "<23EAE255>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Inferno Wheel"
+    },
+    {
+      "$id": 537,
+      "<8C7DD24D>": "<755B1BC0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ascension Blade"
+    },
+    {
+      "$id": 538,
+      "<8C7DD24D>": "<BE0DE4CD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blossom Dance"
+    },
+    {
+      "$id": 539,
+      "<8C7DD24D>": "<EA208C05>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ultra Boost"
+    },
+    {
+      "$id": 540,
+      "<8C7DD24D>": "<28E4064A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Magnificent Fist"
+    },
+    {
+      "$id": 541,
+      "<8C7DD24D>": "<369BE952>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Peril Punch"
+    },
+    {
+      "$id": 542,
+      "<8C7DD24D>": "<93D17326>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Captain Strike"
+    },
+    {
+      "$id": 543,
+      "<8C7DD24D>": "<67558779>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pirate Lariat"
+    },
+    {
+      "$id": 544,
+      "<8C7DD24D>": "<DBA5CFA6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Final Countdown"
+    },
+    {
+      "$id": 545,
+      "<8C7DD24D>": "<35A756A7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Resonant Flag"
+    },
+    {
+      "$id": 546,
+      "<8C7DD24D>": "<C14D0682>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Illuminate"
+    },
+    {
+      "$id": 547,
+      "<8C7DD24D>": "<76EC2F8E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Max Effort"
+    },
+    {
+      "$id": 548,
+      "<8C7DD24D>": "<549C5EFA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Unbreakable Heart"
+    },
+    {
+      "$id": 549,
+      "<8C7DD24D>": "<491D5D64>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lightning Passion"
+    },
+    {
+      "$id": 550,
+      "<8C7DD24D>": "<A03838B5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cry of Faith"
+    },
+    {
+      "$id": 551,
+      "<8C7DD24D>": "<54E732F8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fatal Bite"
+    },
+    {
+      "$id": 552,
+      "<8C7DD24D>": "<624FE71F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tyrant Cross"
+    },
+    {
+      "$id": 553,
+      "<8C7DD24D>": "<735959A4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fury Reaper"
+    },
+    {
+      "$id": 554,
+      "<8C7DD24D>": "<8E1C8636>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Seventh Edge"
+    },
+    {
+      "$id": 555,
+      "<8C7DD24D>": "<4830C44F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hundred Shells"
+    },
+    {
+      "$id": 556,
+      "<8C7DD24D>": "<1B608394>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Viral Vector"
+    },
+    {
+      "$id": 557,
+      "<8C7DD24D>": "<06A5735F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Focus"
+    },
+    {
+      "$id": 558,
+      "<8C7DD24D>": "<B7AD9410>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Detonating Hit"
+    },
+    {
+      "$id": 559,
+      "<8C7DD24D>": "<C8099334>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Jackal Claw"
+    },
+    {
+      "$id": 560,
+      "<8C7DD24D>": "<0CC93414>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Comet Punch"
+    },
+    {
+      "$id": 561,
+      "<8C7DD24D>": "<C62A375E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rampaging Fists"
+    },
+    {
+      "$id": 562,
+      "<8C7DD24D>": "<A49B3DCF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Raging Force"
+    },
+    {
+      "$id": 563,
+      "<8C7DD24D>": "<25EC0E2B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Demolition"
+    },
+    {
+      "$id": 564,
+      "<8C7DD24D>": "<EB88E6B5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dead Set"
+    },
+    {
+      "$id": 565,
+      "<8C7DD24D>": "<634B1804>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Showdown"
+    },
+    {
+      "$id": 566,
+      "<8C7DD24D>": "<B80B5502>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Executioner"
+    },
+    {
+      "$id": 567,
+      "<8C7DD24D>": "<0F9E4040>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Vengeance"
+    },
+    {
+      "$id": 568,
+      "<8C7DD24D>": "<03C1E64F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Violent Streak"
+    },
+    {
+      "$id": 569,
+      "<8C7DD24D>": "<6FCC1773>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aero Burst"
+    },
+    {
+      "$id": 570,
+      "<8C7DD24D>": "<906F5FFB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Driving Bullet"
+    },
+    {
+      "$id": 571,
+      "<8C7DD24D>": "<0EF3381B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rising Blast"
+    },
+    {
+      "$id": 572,
+      "<8C7DD24D>": "<8316134C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Tri-Shot"
+    },
+    {
+      "$id": 573,
+      "<8C7DD24D>": "<CCFDCF78>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hair Trigger"
+    },
+    {
+      "$id": 574,
+      "<8C7DD24D>": "<9ABF1AE6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bullet Rush"
+    },
+    {
+      "$id": 575,
+      "<8C7DD24D>": "<37DFDAAD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blue Flame Wisdom"
+    },
+    {
+      "$id": 576,
+      "<8C7DD24D>": "<1B64BDFC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Windguard"
+    },
+    {
+      "$id": 577,
+      "<8C7DD24D>": "<448BCC61>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Waterfall Irruption"
+    },
+    {
+      "$id": 578,
+      "<8C7DD24D>": "<C702DB56>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Celestial Spearhead"
+    },
+    {
+      "$id": 579,
+      "<8C7DD24D>": "<C56A7A75>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Panther's Tornado"
+    },
+    {
+      "$id": 580,
+      "<8C7DD24D>": "<FC10D7C8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blue Flame Spear"
+    },
+    {
+      "$id": 581,
+      "<8C7DD24D>": "<03F6BD2D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bright Flame Wisdom"
+    },
+    {
+      "$id": 582,
+      "<8C7DD24D>": "<6FD02F9D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rock Grinder"
+    },
+    {
+      "$id": 583,
+      "<8C7DD24D>": "<46EB88FD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mountain Smasher"
+    },
+    {
+      "$id": 584,
+      "<8C7DD24D>": "<A99BA149>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Spearquake"
+    },
+    {
+      "$id": 585,
+      "<8C7DD24D>": "<4FC62870>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bestial Crash"
+    },
+    {
+      "$id": 586,
+      "<8C7DD24D>": "<7738EE44>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bright Flame Spear"
+    },
+    {
+      "$id": 587,
+      "<8C7DD24D>": "<C521DCCA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rebellious Spirit"
+    },
+    {
+      "$id": 588,
+      "<8C7DD24D>": "<D2A756D8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Leonine Bash"
+    },
+    {
+      "$id": 589,
+      "<8C7DD24D>": "<8C55D46B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bide Earth"
+    },
+    {
+      "$id": 590,
+      "<8C7DD24D>": "<DA26BD9B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Skyflow"
+    },
+    {
+      "$id": 591,
+      "<8C7DD24D>": "<8F9D93F7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Call Reinforcements"
+    },
+    {
+      "$id": 592,
+      "<8C7DD24D>": "<261E5535>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Flying Slash"
+    },
+    {
+      "$id": 593,
+      "<8C7DD24D>": "<B1C9E124>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Round Edge"
+    },
+    {
+      "$id": 594,
+      "<8C7DD24D>": "<256C8209>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Charging Stab"
+    },
+    {
+      "$id": 595,
+      "<8C7DD24D>": "<44415452>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Physical Increase"
+    },
+    {
+      "$id": 596,
+      "<8C7DD24D>": "<4657FA3F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Edge Turn"
+    },
+    {
+      "$id": 597,
+      "<8C7DD24D>": "<9C9B44E4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Victory Sword"
+    },
+    {
+      "$id": 598,
+      "<8C7DD24D>": "<7E386C67>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Technical Upgrade"
+    },
+    {
+      "$id": 599,
+      "<8C7DD24D>": "<0AA56354>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Brutal Knuckle"
+    },
+    {
+      "$id": 600,
+      "<8C7DD24D>": "<EDEF8211>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High Uppercut"
+    },
+    {
+      "$id": 601,
+      "<8C7DD24D>": "<0C9C9B60>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Front Kick"
+    },
+    {
+      "$id": 602,
+      "<8C7DD24D>": "<7C4D104D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Knuckle Impact"
+    },
+    {
+      "$id": 603,
+      "<8C7DD24D>": "<79F01EDD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rough Rush"
+    },
+    {
+      "$id": 604,
+      "<8C7DD24D>": "<E5B52AC9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Garner Force"
+    },
+    {
+      "$id": 605,
+      "<8C7DD24D>": "<83B59291>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ether Round"
+    },
+    {
+      "$id": 606,
+      "<8C7DD24D>": "<069F7201>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ether Wave"
+    },
+    {
+      "$id": 607,
+      "<8C7DD24D>": "<D34DA6E0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aura Yell"
+    },
+    {
+      "$id": 608,
+      "<8C7DD24D>": "<17ADE727>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rain Smash"
+    },
+    {
+      "$id": 609,
+      "<8C7DD24D>": "<65CD4AC2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Acid Fire"
+    },
+    {
+      "$id": 610,
+      "<8C7DD24D>": "<ECA8F937>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fire Support"
+    },
+    {
+      "$id": 611,
+      "<8C7DD24D>": "<C2592CD9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Full Clip"
+    },
+    {
+      "$id": 612,
+      "<8C7DD24D>": "<07B688D1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Quickshot"
+    },
+    {
+      "$id": 613,
+      "<8C7DD24D>": "<27607D32>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cool Off"
+    },
+    {
+      "$id": 614,
+      "<8C7DD24D>": "<7272E897>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bullet Meteor"
+    },
+    {
+      "$id": 615,
+      "<8C7DD24D>": "<19C24727>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Protective Shift"
+    },
+    {
+      "$id": 616,
+      "<8C7DD24D>": "<1F7BD24D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Riot Bash"
+    },
+    {
+      "$id": 617,
+      "<8C7DD24D>": "<8275A49C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Earthmover"
+    },
+    {
+      "$id": 618,
+      "<8C7DD24D>": "<02AA4494>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Skyflip"
+    },
+    {
+      "$id": 619,
+      "<8C7DD24D>": "<C2CF6B57>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Roar of Contempt"
+    },
+    {
+      "$id": 620,
+      "<8C7DD24D>": "<C44D4A2B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Critical Vengeance"
+    },
+    {
+      "$id": 621,
+      "<8C7DD24D>": "<78A42ED3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Chief's Heal"
+    },
+    {
+      "$id": 622,
+      "<8C7DD24D>": "<BE0A41BE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Physical Boost"
+    },
+    {
+      "$id": 623,
+      "<8C7DD24D>": "<DB5C8662>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Vitality Release"
+    },
+    {
+      "$id": 624,
+      "<8C7DD24D>": "<F8084596>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Run Through"
+    },
+    {
+      "$id": 625,
+      "<8C7DD24D>": "<41285CDB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Raw Aggression"
+    },
+    {
+      "$id": 626,
+      "<8C7DD24D>": "<EF24A361>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Circular Slice"
+    },
+    {
+      "$id": 627,
+      "<8C7DD24D>": "<B52C0B74>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cross Edge"
+    },
+    {
+      "$id": 628,
+      "<8C7DD24D>": "<EDA6D772>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Grenade Launch"
+    },
+    {
+      "$id": 629,
+      "<8C7DD24D>": "<A94D081C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Wingfall"
+    },
+    {
+      "$id": 630,
+      "<8C7DD24D>": "<56A70589>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rigid Body"
+    },
+    {
+      "$id": 631,
+      "<8C7DD24D>": "<480E91CF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Banish Lance"
+    },
+    {
+      "$id": 632,
+      "<8C7DD24D>": "<774E1728>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Killer Stab"
+    },
+    {
+      "$id": 633,
+      "<8C7DD24D>": "<C779001F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Updraft"
+    },
+    {
+      "$id": 634,
+      "<8C7DD24D>": "<F487E89F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Spiral"
+    },
+    {
+      "$id": 635,
+      "<8C7DD24D>": "<17D767EB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blitz Sting"
+    },
+    {
+      "$id": 636,
+      "<8C7DD24D>": "<3B42A5F8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Full Fire"
+    },
+    {
+      "$id": 637,
+      "<8C7DD24D>": "<B2BDAECA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Focus Frame"
+    },
+    {
+      "$id": 638,
+      "<8C7DD24D>": "<7A960F73>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ignis Shot"
+    },
+    {
+      "$id": 639,
+      "<8C7DD24D>": "<ABD769E3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bullet Moon"
+    },
+    {
+      "$id": 640,
+      "<8C7DD24D>": "<58FEBCA7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dive Rush"
+    },
+    {
+      "$id": 641,
+      "<8C7DD24D>": "<F3306D46>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blazing Revolution"
+    },
+    {
+      "$id": 642,
+      "<8C7DD24D>": "<883BB9FC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Delicate Blast"
+    },
+    {
+      "$id": 643,
+      "<8C7DD24D>": "<034647E0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Round Boost"
+    },
+    {
+      "$id": 644,
+      "<8C7DD24D>": "<EC0C8F66>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Triple Shot"
+    },
+    {
+      "$id": 645,
+      "<8C7DD24D>": "<F66764F6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Custom Boost"
+    },
+    {
+      "$id": 646,
+      "<8C7DD24D>": "<6C5A001F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Etherfall"
+    },
+    {
+      "$id": 647,
+      "<8C7DD24D>": "<E9E351D6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Prideful Call"
+    },
+    {
+      "$id": 648,
+      "<8C7DD24D>": "<79BD20AD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Valiant Tackle"
+    },
+    {
+      "$id": 649,
+      "<8C7DD24D>": "<3C3D82F6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aerial Slice"
+    },
+    {
+      "$id": 650,
+      "<8C7DD24D>": "<091D124D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Guard Position"
+    },
+    {
+      "$id": 651,
+      "<8C7DD24D>": "<8666BC67>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Charge Split"
+    },
+    {
+      "$id": 652,
+      "<8C7DD24D>": "<9C68406F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Energy Shield"
+    },
+    {
+      "$id": 653,
+      "<8C7DD24D>": "<5DB22BDF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Healing"
+    },
+    {
+      "$id": 654,
+      "<8C7DD24D>": "<66075205>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Battle Assist"
+    },
+    {
+      "$id": 655,
+      "<8C7DD24D>": "<B0517C27>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Relief Ace"
+    },
+    {
+      "$id": 656,
+      "<8C7DD24D>": "<4B6F378A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Brazen Challenge"
+    },
+    {
+      "$id": 657,
+      "<8C7DD24D>": "<62D54AF8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Armor Breaker"
+    },
+    {
+      "$id": 658,
+      "<8C7DD24D>": "<7F6F0CD7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Zephyr Slash"
+    },
+    {
+      "$id": 659,
+      "<8C7DD24D>": "<23604AC0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Defensive Stance"
+    },
+    {
+      "$id": 660,
+      "<8C7DD24D>": "<E0A342E8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Photonic Slash"
+    },
+    {
+      "$id": 661,
+      "<8C7DD24D>": "<F67FEA92>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Immovable Will"
+    },
+    {
+      "$id": 662,
+      "<8C7DD24D>": "<89E6C9B2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Crippling Round"
+    },
+    {
+      "$id": 663,
+      "<8C7DD24D>": "<0C285584>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fortifying Round"
+    },
+    {
+      "$id": 664,
+      "<8C7DD24D>": "<C139B9A0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Concentrated Fire"
+    },
+    {
+      "$id": 665,
+      "<8C7DD24D>": "<D223C9BB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Volley of Rage"
+    },
+    {
+      "$id": 666,
+      "<8C7DD24D>": "<24E3583D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lock and Load"
+    },
+    {
+      "$id": 667,
+      "<8C7DD24D>": "<CB1974E2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bullet Rain"
+    },
+    {
+      "$id": 668,
+      "<8C7DD24D>": "<29281F38>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gear Shift"
+    },
+    {
+      "$id": 669,
+      "<8C7DD24D>": "<7B584761>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Murder Knuckle"
+    },
+    {
+      "$id": 670,
+      "<8C7DD24D>": "<03DCD815>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Piston Upper"
+    },
+    {
+      "$id": 671,
+      "<8C7DD24D>": "<DC664153>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Zap Kick"
+    },
+    {
+      "$id": 672,
+      "<8C7DD24D>": "<48606B10>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dead Fist"
+    },
+    {
+      "$id": 673,
+      "<8C7DD24D>": "<728B0071>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Death Grip"
+    },
+    {
+      "$id": 674,
+      "<8C7DD24D>": "<A96CBCEF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lock On"
+    },
+    {
+      "$id": 675,
+      "<8C7DD24D>": "<6F42B96E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Stun Bash"
+    },
+    {
+      "$id": 676,
+      "<8C7DD24D>": "<214C67E3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Guillotine Slice"
+    },
+    {
+      "$id": 677,
+      "<8C7DD24D>": "<7A87E928>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Evasive Posture"
+    },
+    {
+      "$id": 678,
+      "<8C7DD24D>": "<694FA97F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Flash Edge"
+    },
+    {
+      "$id": 679,
+      "<8C7DD24D>": "<535064FA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Recovery Shield"
+    },
+    {
+      "$id": 680,
+      "<8C7DD24D>": "<BCEB0C1D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High Performance"
+    },
+    {
+      "$id": 681,
+      "<8C7DD24D>": "<A23CBFE6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Side Swing"
+    },
+    {
+      "$id": 682,
+      "<8C7DD24D>": "<BB603857>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hard Spear"
+    },
+    {
+      "$id": 683,
+      "<8C7DD24D>": "<3279DDF3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rage Hunt"
+    },
+    {
+      "$id": 684,
+      "<8C7DD24D>": "<C814B4DB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Wild Spin"
+    },
+    {
+      "$id": 685,
+      "<8C7DD24D>": "<5AABC981>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Breakdown"
+    },
+    {
+      "$id": 686,
+      "<8C7DD24D>": "<88747D7D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Speed Howl"
+    },
+    {
+      "$id": 687,
+      "<8C7DD24D>": "<C76D7EC3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Powered Flower"
+    },
+    {
+      "$id": 688,
+      "<8C7DD24D>": "<557D5069>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Powered Rampage"
+    },
+    {
+      "$id": 689,
+      "<8C7DD24D>": "<A820CA13>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Volffbite"
+    },
+    {
+      "$id": 690,
+      "<8C7DD24D>": "<5E6EC33D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Variant Cross"
+    },
+    {
+      "$id": 691,
+      "<8C7DD24D>": "<12ED54A3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Thanatos Reaper"
+    },
+    {
+      "$id": 692,
+      "<8C7DD24D>": "<D9892BBB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sectum Edge"
+    },
+    {
+      "$id": 693,
+      "<8C7DD24D>": "<DB62695D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mortal Burst"
+    },
+    {
+      "$id": 694,
+      "<8C7DD24D>": "<789F61FD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Vector XIII"
+    },
+    {
+      "$id": 695,
+      "<8C7DD24D>": "<86D30C07>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lonesome Soul"
+    },
+    {
+      "$id": 696,
+      "<8C7DD24D>": "<8E39F3BB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Escape Missile"
+    },
+    {
+      "$id": 697,
+      "<8C7DD24D>": "<D71E0120>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Annihilation"
+    },
+    {
+      "$id": 698,
+      "<8C7DD24D>": "<12CAB99E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Raise the Banner"
+    },
+    {
+      "$id": 699,
+      "<8C7DD24D>": "<AB33EFE4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Repel the Invaders"
+    },
+    {
+      "$id": 700,
+      "<8C7DD24D>": "<D3983B88>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Flockmates, Assemble!"
+    },
+    {
+      "$id": 701,
+      "<8C7DD24D>": "<5D1539A9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Drive Bak the Intruders!"
+    },
+    {
+      "$id": 702,
+      "<8C7DD24D>": "<433C56D6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Glory to the Nation"
+    },
+    {
+      "$id": 703,
+      "<8C7DD24D>": "<4CE217FA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Seething Fog"
+    },
+    {
+      "$id": 704,
+      "<8C7DD24D>": "<DA35A55D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Emergence"
+    },
+    {
+      "$id": 705,
+      "<8C7DD24D>": "<CB351F36>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hatching"
+    },
+    {
+      "$id": 706,
+      "<8C7DD24D>": "<1CE4529A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Motor Lifter"
+    },
+    {
+      "$id": 707,
+      "<8C7DD24D>": "<E3E06574>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Whirlwind"
+    },
+    {
+      "$id": 708,
+      "<8C7DD24D>": "<9739E351>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Steady Assault"
+    },
+    {
+      "$id": 709,
+      "<8C7DD24D>": "<42F5D578>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Total Destruction"
+    },
+    {
+      "$id": 710,
+      "<8C7DD24D>": "<DFD4F146>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Illusory Bloom"
+    },
+    {
+      "$id": 711,
+      "<8C7DD24D>": "<ADFD2CC7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Great Garland"
+    },
+    {
+      "$id": 712,
+      "<8C7DD24D>": "<6354484A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Elysian Anthem"
+    },
+    {
+      "$id": 713,
+      "<8C7DD24D>": "<4C37D93D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Backspin Punch"
+    },
+    {
+      "$id": 714,
+      "<8C7DD24D>": "<D06E812E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Mighty Strike"
+    },
+    {
+      "$id": 715,
+      "<8C7DD24D>": "<7B0B7A16>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Revolt Uppercut"
+    },
+    {
+      "$id": 716,
+      "<8C7DD24D>": "<F85754C9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Detonating Hit"
+    },
+    {
+      "$id": 717,
+      "<8C7DD24D>": "<6903D61D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gigantic Beat"
+    },
+    {
+      "$id": 718,
+      "<8C7DD24D>": "<AC3C7983>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Detonating Wave"
+    },
+    {
+      "$id": 719,
+      "<8C7DD24D>": "<054C7F1B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Lightning Bash"
+    },
+    {
+      "$id": 720,
+      "<8C7DD24D>": "<D64977DE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Demolition Bullet"
+    },
+    {
+      "$id": 721,
+      "<8C7DD24D>": "<9C8EA0FE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Double Impulse"
+    },
+    {
+      "$id": 722,
+      "<8C7DD24D>": "<261F3AD6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bounding Ray"
+    },
+    {
+      "$id": 723,
+      "<8C7DD24D>": "<7853C01D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Compound Force"
+    },
+    {
+      "$id": 724,
+      "<8C7DD24D>": "<BFE52A9C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Divine Blaster"
+    },
+    {
+      "$id": 725,
+      "<8C7DD24D>": "<49859156>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Banish From Sight"
+    },
+    {
+      "$id": 726,
+      "<8C7DD24D>": "<9CE6A5DA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dual Crash"
+    },
+    {
+      "$id": 727,
+      "<8C7DD24D>": "<28697DAA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Breakdown Shot"
+    },
+    {
+      "$id": 728,
+      "<8C7DD24D>": "<5AAFB862>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pulse Laser"
+    },
+    {
+      "$id": 729,
+      "<8C7DD24D>": "<77BAA639>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Charged Fire"
+    },
+    {
+      "$id": 730,
+      "<8C7DD24D>": "<EEE8CEF9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Kevesi Laser"
+    },
+    {
+      "$id": 731,
+      "<8C7DD24D>": "<87298540>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Banish and Punish"
+    },
+    {
+      "$id": 732,
+      "<8C7DD24D>": "<F051F30B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Agnian Laser"
+    },
+    {
+      "$id": 733,
+      "<8C7DD24D>": "<4DF0194D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Doubled Destruction"
+    },
+    {
+      "$id": 734,
+      "<8C7DD24D>": "<4B2C25E8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Emergency Boost"
+    },
+    {
+      "$id": 735,
+      "<8C7DD24D>": "<54ADF45B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Limitless Lightning"
+    },
+    {
+      "$id": 736,
+      "<8C7DD24D>": "<C36C2E65>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Motes of Revival"
+    },
+    {
+      "$id": 737,
+      "<8C7DD24D>": "<C65E1E17>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dual Ray"
+    },
+    {
+      "$id": 738,
+      "<8C7DD24D>": "<D46853A5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Monado Speed"
+    },
+    {
+      "$id": 739,
+      "<8C7DD24D>": "<FC0A33B7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Monado Eater"
+    },
+    {
+      "$id": 740,
+      "<8C7DD24D>": "<3F3EEAAB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Monado Cyclone"
+    },
+    {
+      "$id": 741,
+      "<8C7DD24D>": "<E33D6498>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Epuration"
+    },
+    {
+      "$id": 742,
+      "<8C7DD24D>": "<E3855711>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Erasure Strike"
+    },
+    {
+      "$id": 743,
+      "<8C7DD24D>": "<009F3321>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Penetrating Judgment"
+    },
+    {
+      "$id": 744,
+      "<8C7DD24D>": "<2CC34A05>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Monado Wedge"
+    },
+    {
+      "$id": 745,
+      "<8C7DD24D>": "<4084FA7D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cleanse the Dregs"
+    },
+    {
+      "$id": 746,
+      "<8C7DD24D>": "<00EBBAB9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Monado Cyclone"
+    },
+    {
+      "$id": 747,
+      "<8C7DD24D>": "<FD2E2B87>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Monado Combo"
+    },
+    {
+      "$id": 748,
+      "<8C7DD24D>": "<E025534B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "New World Quickening"
+    },
+    {
+      "$id": 749,
+      "<8C7DD24D>": "<B07523F9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Requiem for the Olden Ones"
+    },
+    {
+      "$id": 750,
+      "<8C7DD24D>": "<524CBFB0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Vision Mode"
+    },
+    {
+      "$id": 751,
+      "<8C7DD24D>": "<F2E108F8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Flawed Monado Buster"
+    },
+    {
+      "$id": 752,
+      "<8C7DD24D>": "<9EB019A9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Perfected Monado Buster"
+    },
+    {
+      "$id": 753,
+      "<8C7DD24D>": "<2D19B8A5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Monado Purge"
+    },
+    {
+      "$id": 754,
+      "<8C7DD24D>": "<4BB345C7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Stream Edge"
+    },
+    {
+      "$id": 755,
+      "<8C7DD24D>": "<998385C8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Heavy Rush"
+    },
+    {
+      "$id": 756,
+      "<8C7DD24D>": "<A1145E27>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Slit Edge"
+    },
+    {
+      "$id": 757,
+      "<8C7DD24D>": "<9B79693B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Monado Rage"
+    },
+    {
+      "$id": 758,
+      "<8C7DD24D>": "<314F7B9C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 759,
+      "<8C7DD24D>": "<DB43933E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Monado Purge"
+    },
+    {
+      "$id": 760,
+      "<8C7DD24D>": "<B36EBB6F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Monado Buster"
+    },
+    {
+      "$id": 761,
+      "<8C7DD24D>": "<B2F25095>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 762,
+      "<8C7DD24D>": "<D69F8A5E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Double Spinning Edge"
+    },
+    {
+      "$id": 763,
+      "<8C7DD24D>": "<231F4D80>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dual Blast"
+    },
+    {
+      "$id": 764,
+      "<8C7DD24D>": "<CEEE00CD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cross Blaze"
+    },
+    {
+      "$id": 765,
+      "<8C7DD24D>": "<14B04127>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rolling Smash"
+    },
+    {
+      "$id": 766,
+      "<8C7DD24D>": "<A0DE167E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Sword Bash"
+    },
+    {
+      "$id": 767,
+      "<8C7DD24D>": "<EF509A21>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Infinity Blade"
+    },
+    {
+      "$id": 768,
+      "<8C7DD24D>": "<2B143BD4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Stability Check: Failed!"
+    },
+    {
+      "$id": 769,
+      "<8C7DD24D>": "<BB18E374>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Critical Targeting Error"
+    },
+    {
+      "$id": 770,
+      "<8C7DD24D>": "<75EBEB0B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "It Got Its Wires Crossed!"
+    },
+    {
+      "$id": 771,
+      "<8C7DD24D>": "<C8A65A4B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Induce Torpor"
+    },
+    {
+      "$id": 772,
+      "<8C7DD24D>": "<12FC3D1D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dark Poison"
+    },
+    {
+      "$id": 773,
+      "<8C7DD24D>": "<A2537106>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Atrocity"
+    },
+    {
+      "$id": 774,
+      "<8C7DD24D>": "<7BF88E82>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Howl for Help"
+    },
+    {
+      "$id": 775,
+      "<8C7DD24D>": "<59AB948B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Nature Calls"
+    },
+    {
+      "$id": 776,
+      "<8C7DD24D>": "<30C7B33A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Adrenalized Call"
+    },
+    {
+      "$id": 777,
+      "<8C7DD24D>": "<D76F2D88>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Summoning Pheromones"
+    },
+    {
+      "$id": 778,
+      "<8C7DD24D>": "<8E8FB33D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Beckoning Solo"
+    },
+    {
+      "$id": 779,
+      "<8C7DD24D>": "<ADFFE823>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Beckoning Fanfare"
+    },
+    {
+      "$id": 780,
+      "<8C7DD24D>": "<BB1875AC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "S.O.S. Screech"
+    },
+    {
+      "$id": 781,
+      "<8C7DD24D>": "<21B8E47D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ultrasonic Summons"
+    },
+    {
+      "$id": 782,
+      "<8C7DD24D>": "<38641745>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Request Assistance"
+    },
+    {
+      "$id": 783,
+      "<8C7DD24D>": "<923BDAD0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Request Backup"
+    },
+    {
+      "$id": 784,
+      "<8C7DD24D>": "<F9B97E1C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Oblivion Hop"
+    },
+    {
+      "$id": 785,
+      "<8C7DD24D>": "<2A89CECA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Soporific Bite"
+    },
+    {
+      "$id": 786,
+      "<8C7DD24D>": "<C22DA240>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Oblivion Dive"
+    },
+    {
+      "$id": 787,
+      "<8C7DD24D>": "<6EBC13C8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Oblivion Powder"
+    },
+    {
+      "$id": 788,
+      "<8C7DD24D>": "<02132BE3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Soporific Sphere"
+    },
+    {
+      "$id": 789,
+      "<8C7DD24D>": "<2655DA81>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Soporific Fire"
+    },
+    {
+      "$id": 790,
+      "<8C7DD24D>": "<0801425E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Oblivion Press"
+    },
+    {
+      "$id": 791,
+      "<8C7DD24D>": "<E78BCF91>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fog Bark"
+    },
+    {
+      "$id": 792,
+      "<8C7DD24D>": "<6CF5A05E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fog Shockskin"
+    },
+    {
+      "$id": 793,
+      "<8C7DD24D>": "<ED69D856>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fog Spin"
+    },
+    {
+      "$id": 794,
+      "<8C7DD24D>": "<1C11E3F7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fog Flame"
+    },
+    {
+      "$id": 795,
+      "<8C7DD24D>": "<0D0408B3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fog Cannon"
+    },
+    {
+      "$id": 796,
+      "<8C7DD24D>": "<C7A75654>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Howl the Collapse"
+    },
+    {
+      "$id": 797,
+      "<8C7DD24D>": "<49240C24>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Spread Misery"
+    },
+    {
+      "$id": 798,
+      "<8C7DD24D>": "<A06B33B3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Briar Beware"
+    },
+    {
+      "$id": 799,
+      "<8C7DD24D>": "<E56782DF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Exploit Impurity"
+    },
+    {
+      "$id": 800,
+      "<8C7DD24D>": "<7FA5EFB6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Heinous Barrage"
+    },
+    {
+      "$id": 801,
+      "<8C7DD24D>": "<428E9EC0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Silence of the Deep"
+    },
+    {
+      "$id": 802,
+      "<8C7DD24D>": "<A8C12A21>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 803,
+      "<8C7DD24D>": "<4452E5CC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Double Ocean Halo"
+    },
+    {
+      "$id": 804,
+      "<8C7DD24D>": "<2AC72B87>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Triple Ocean Halo"
+    },
+    {
+      "$id": 805,
+      "<8C7DD24D>": "<18BD27DC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Quadruple Ocean Halo"
+    },
+    {
+      "$id": 806,
+      "<8C7DD24D>": "<6A03AEAB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Kevesi Termination Order"
+    },
+    {
+      "$id": 807,
+      "<8C7DD24D>": "<BF40FD69>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Extension Injection"
+    },
+    {
+      "$id": 808,
+      "<8C7DD24D>": "<E1CDAB70>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Agnian Termination Order"
+    },
+    {
+      "$id": 809,
+      "<8C7DD24D>": "<BDA7D45D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Scatterbind"
+    },
+    {
+      "$id": 810,
+      "<8C7DD24D>": "<1DDA0337>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ultra Tail Strike"
+    },
+    {
+      "$id": 811,
+      "<8C7DD24D>": "<6CB29418>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ultra Howl"
+    },
+    {
+      "$id": 812,
+      "<8C7DD24D>": "<D4C3D615>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fog Invocation"
+    },
+    {
+      "$id": 813,
+      "<8C7DD24D>": "<0CDD0E9B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fog-Fueled Frenzy"
+    },
+    {
+      "$id": 814,
+      "<8C7DD24D>": "<EA559A11>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ultra Wing Smite"
+    },
+    {
+      "$id": 815,
+      "<8C7DD24D>": "<BA3B5B64>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Demon Purging Fire"
+    },
+    {
+      "$id": 816,
+      "<8C7DD24D>": "<8C240686>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Triple Ultra Play Bite"
+    },
+    {
+      "$id": 817,
+      "<8C7DD24D>": "<0D80D7A7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Assume Stance - Defensive"
+    },
+    {
+      "$id": 818,
+      "<8C7DD24D>": "<71FF31BC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Assume Stance - Offensive"
+    },
+    {
+      "$id": 819,
+      "<8C7DD24D>": "<118BD037>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Assume Stance - Furious Attack"
+    }
+  ]
+}

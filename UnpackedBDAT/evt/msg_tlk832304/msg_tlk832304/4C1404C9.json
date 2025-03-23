@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<C558187D>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I can't believe the gall of that son of a bitch.\nThe scumbag burned the City to the ground,\nand he dared show his face to you...?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<31367D37>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And then, the thing with Na'el, too...\nDammit...! To hell with it all!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<0DE5FFAC>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mate..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<9FB93C90>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Sorry, I've gotta cool my head a bit. At this\nrate, it feels like I'm really gonna go berserk..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<3358F5FD>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    }
+  ]
+}

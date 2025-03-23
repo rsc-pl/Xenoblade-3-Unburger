@@ -1,0 +1,104 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<64BC0FEF>",
+      "<ACF3531A>": "sq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I guess on some level I realized\nGrandad's curry was always the\ntalk of Colony 9..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<A43BFDAE>",
+      "<ACF3531A>": "sq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...but I never thought it'd turn out to be *this*\nbig of a deal! Don't think he'd have imagined\nit either, to be honest!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<BAFA029D>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Haha, indeed! But I think dear\nold Giorgio would be proud."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<6E2F42B5>",
+      "<ACF3531A>": "sq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ahh, true enough.\nIt certainly is nice to be proven wrong."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<07E6B9A2>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't worry, I'll be sure to spread the\ngood curry word and have folk talking\nabout it a thousand years from now!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<EBB07D12>",
+      "<ACF3531A>": "d1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You get weirdly animated whenever\nyou have curry on the brain, huh..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<5F798A19>",
+      "<ACF3531A>": "sq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ha ha! Always good to establish a\ngood customer base! That'll keep me\nin good stead for years to come!"
+    }
+  ]
+}

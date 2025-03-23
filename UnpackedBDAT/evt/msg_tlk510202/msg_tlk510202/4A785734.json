@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<26FDA644>",
+      "<ACF3531A>": "pf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Lhukavu asked me over here,\nand they've got me working."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<40A2C620>",
+      "<ACF3531A>": "pf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But I'm bored outta my mind!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B794545E>",
+      "<ACF3531A>": "pf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I mean, I get the whole, don't-work-don't-\nearn-don't-eat thing, really, I do."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<E7967109>",
+      "<ACF3531A>": "pf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's just so boring without\nthe Cap'n though!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<9F0FF134>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm starting to worry about you..."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<9BA4060D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Two colossal martial nations, locked in war:"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<3EB11091>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Keves and Agnus."
+    }
+  ]
+}

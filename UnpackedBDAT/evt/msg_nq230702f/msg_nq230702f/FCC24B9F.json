@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<E3F94C8C>",
+      "<ACF3531A>": "ve1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, if isn't you guys. Thanks a ton\nfor the getting the message out."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<B0954105>",
+      "<ACF3531A>": "ve1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And if you don't mind me saying,\nyou're all looking pretty pale. What\nhappened between then and now?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<E474860D>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Umm..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<97E954E2>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We called these guys over just like\nyou told us to, but...are you really\nsure about this?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<DD2E5A9F>",
+      "<ACF3531A>": "ve1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hm? Sure about what?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<97535EB1>",
+      "<ACF3531A>": "ve1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ahh! I get you now."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<A0AB2613>",
+      "<ACF3531A>": "ve1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Seems like the Ouroboros really know\nwhat makes you guys tick, eh?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<D47F65AD>",
+      "<ACF3531A>": "fe1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Was that an attempt at humor?\nWhat drivel."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<4AF1BB10>",
+      "<ACF3531A>": "ve1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Relax, you guys. You're well within\nyour rights to be concerned, I know."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<9EEC34C5>",
+      "<ACF3531A>": "ve1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But the reason I called Zoren and his\nsquad over is to help me out with a\ncertain little job."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<00500A63>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What job?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<1F5A7F9D>",
+      "<ACF3531A>": "ve1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The kind of massively important job only\n*they* are capable of pulling off."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<EB9686D1>",
+      "<ACF3531A>": "ve1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A job made for the guards' vanguard:\nthe Antares squad."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<029F577D>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Wait, did I hear that right?"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<A92A800E>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hold on. By \"they\", you don't mean...?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<0C802464>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, pull the other one! I thought they\nwere supposed to be Colony 11 soldiers,\nweren't they?!"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<539EECDF>",
+      "<ACF3531A>": "le1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I was cut off from saying it earlier, but\nwe were originally part of the Guard."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<DA9B1361>",
+      "<ACF3531A>": "le1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Officially, we work for Colony 11, but\neven now, we get the occasional personal\nrequest from the captain here."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<0BB65577>",
+      "<ACF3531A>": "ve1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It may be hard to believe, but it's true.\nAmong the Guard, they were the elite\nof the elite."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<5F58B5F8>",
+      "<ACF3531A>": "ke1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What she said. In a better, fairer world,\nI might've even been your superior, making\nyou guys my little subordinates, you know."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<CA165688>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm just going to pretend I didn't hear\nthat... A-anyway, what's this \"job\" you\nmentioned earlier?"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<32CD4A57>",
+      "<ACF3531A>": "ve1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, of course. Sorry, I was going to\nexplain, but then we got sidetracked."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<26B74D0A>",
+      "<ACF3531A>": "ve1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "First, we'll need a change of location.\nFollow me."
+    }
+  ]
+}

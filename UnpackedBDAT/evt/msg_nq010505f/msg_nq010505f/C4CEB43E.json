@@ -1,0 +1,354 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<E8879D5F>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You came at just the right time."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<346D6D74>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We just got word that someone\nin Colony Mu wants to learn to\ngrow potatoes."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<14A38E2C>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ooh, that was quick!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<DF2FCDBD>",
+      "<ACF3531A>": "hX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I was actually about to assign\nsome teachers."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<A7CB1453>",
+      "<ACF3531A>": "hX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I was thinking of leaving this\none to Url and Carrie."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<F489C7AD>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We've heard it's full of young people\nso we picked a pair they can feel a bit\nmore at ease with."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<97DEFBA9>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And Url's got a bit of a green thumb."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<0CFE998A>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right, he was a big help with the fertilizer."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<5E7D5D0F>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So, sorry about the sudden\nrequest, but would you help?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<E74A7653>",
+      "<ACF3531A>": "YX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If Url's in, I'm in."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<E2BB0036>",
+      "<ACF3531A>": "XX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I don't think I'll be much use\nto be perfectly honest, but..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<27144542>",
+      "<ACF3531A>": "XX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm not going to turn my nose\nup at an opportunity like this."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<E6564126>",
+      "<ACF3531A>": "XX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And it'll be interesting to get\na look at an Agnian colony."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<10AA2BEB>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, good to hear."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<AA7D29AA>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The other thing we have to take\ninto consideration is that it's a\nfood people aren't familiar with."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<91F97A59>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Bit of a roadblock if no one\nknows how to cook it, yeah?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<F2C93DBF>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We could share our favorite\nrecipes. What do you think?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<9817620E>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That sound like forte of Manana!"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<8ADE547F>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Manana very well-equipped to share\ngoodness of Spongy Spuds with world!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<C9DFC074>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm telling you, give 'em a quick\nsteam, job's a good'un."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<8241FE41>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If friends serious about Spongy Spuds,\nthen higher height of deliciousness can\nbe achieve!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<6683BC58>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Cooking intuition of Manana say so!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<5805CEBB>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, then how about this?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<96DB6B9D>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We could try to find an original\nrecipe suited to that colony."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<C7A79270>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We can find out about the colony's\nparticular tastes, what they're looking for.\nI think we'll get people on board that way."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<9FC5B81F>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, that good plan! Manana all for it!"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<6E322F0B>",
+      "<ACF3531A>": "cX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's weird for you to think about\nhow on board people are with a plan..."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<EFA97F64>",
+      "<ACF3531A>": "hX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It just means people can change,\nno matter how many terms they've\ngot under their belt."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<5FDB2B44>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, OK, that's enough."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<A81C9FE0>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So Manana's taking care of the recipes."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<00DF2A8D>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We can do the asking around then."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<AC83EB29>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Good. Then let's start\ngathering data from Colony Mu."
+    }
+  ]
+}

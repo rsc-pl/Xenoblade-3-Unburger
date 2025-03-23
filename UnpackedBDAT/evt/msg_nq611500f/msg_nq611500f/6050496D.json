@@ -1,0 +1,394 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<80D8FD17>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, hey, Matty."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<3E05799F>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey yourself, Dillon.\nWhatcha up to here?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<DE261A24>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, well, y'know...\nJust thinking about things. Life.\nWhere we're going. Know what I mean?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<12F89171>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah... City's on your mind?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<AB9FA8C9>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Bingo."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<C5BBD3BE>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Things'll never go back to normal for us\nif we don't get this rebuilding done."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<9601AA6D>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "One day soon, we'll have to get started.\nWe'll need to scout out a new location..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<3B46EA29>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So with this and that, I figured it might help\nto have the Armories operational, y'know?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<9835F8DC>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But in Shulk's estimation, it'd be\ntoo much of a chore for the mo."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<E5F26097>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Repairing such a large piece of machinery\nwould require a lot of worker-hours."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<084A3B4F>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The internal wiring is also a lot more\ncomplicated than it appears at first glance.\n...It would not be a simple job, simply put."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<C8D6FA0E>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So, have you talked to the others about this?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<CF813A81>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No, not yet. Why, what are you thinking?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<2535AB6F>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's perfect, then.\nI'll take this to 'em."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<E770EEE0>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But, Matt, we'll never manage alone..."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<E677DCA7>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's why I wasn't gonna\nsuggest doing it alone."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<213CAE6B>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I wanna ask the Liberators for their help."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<B50D96B5>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What...? This is a City problem, Matt.\nYou really want to get them involved in it?"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<DBC51531>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's your problem right there, Dill."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<2F4B7047>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<9C08ACCA>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You gotta stop dividing the world\ninto \"us\" and \"them\"."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<2B9C74F7>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I know we were always livin' in our\nown little bubble, but it's like..."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<AED04DAC>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Us and the Liberators, we're tight now.\nDontcha think?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<21DC1316>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Honestly, we're pretty much a family."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<9DA9D689>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're with me on this, yeah?"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<9E657581>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hrmm, might have to chew\non that one for a bit."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<EE54C0CA>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Aw, come on, man,\ndon't be such a killjoy!"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<AC259B64>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Matthew, if you truly believe that,\nyou need only reach out to them."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<A9DC1383>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "See if they reciprocate how you feel."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<C4E7F216>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah. I was thinking of doing just that."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<7E03A748>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're something else, Matt, I swear..."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<5DED5973>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, anyway, I'll be sure to do something\nabout the whole Armory business."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<FC79F896>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And mate... Stop trying to do things alone.\nWe're all in this together."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<54A777EF>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, all right, I get the message!\nFlippin' poser..."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<3EEF8BA4>",
+      "<ACF3531A>": "mq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Well, guess I'll just have to hold you to it."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<03D0D6B6>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Aight, guess it's time to do the rounds!"
+    }
+  ]
+}

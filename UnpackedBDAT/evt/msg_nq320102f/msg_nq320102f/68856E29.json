@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<C6D698D3>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, please, tell me all about life outside\nthe City. It'll make fantastic source material\nfor my work..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<3B7AD422>",
+      "<ACF3531A>": "sf1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<1C465B57>",
+      "<ACF3531A>": "gn1",
+      "<9EE99B1E>": 33073,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, c'mon! Pergas is playing\nchase with us right now!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<79C798D2>",
+      "<ACF3531A>": "hn1",
+      "<9EE99B1E>": 33073,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Auntie's gonna be \"it\"! If she catches\nyou, then she can play with you,\nPergas! Easy-peasy!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<0DA701C9>",
+      "<ACF3531A>": "sf1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<2C6E8C88>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33105,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "W-wait up, will you?!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<DC155D73>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uhm... I mean they're getting along OK...\nafter a fashion..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<CFB024F0>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "After a fashion, indeed."
+    }
+  ]
+}

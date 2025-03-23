@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<614441C8>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Fusing a Kevesi and Agnian Ferronis together...\nThis is inconceivable..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<0160D35A>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "I hear there's a Moebius who\nresearches Ferronis Flame Clocks."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<FE26DE64>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Developing experimental tech and what have you."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<18F512C5>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Might be his handiwork that this was based on."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<CF2B5EC5>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Yeah... But you know what...?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<A6F784F1>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "No, what?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<05E35258>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "It must've taken a lot of engineering to make it work.\nI'm really curious... Wish we could bring it back for analysis..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<3269E037>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Uh-oh...\nHere comes Shulk's fatal weakness."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<46666C8C>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "I agree, Shulk, sir!\nI wanna study it too!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<B5A7108F>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Don't encourage him!"
+    }
+  ]
+}

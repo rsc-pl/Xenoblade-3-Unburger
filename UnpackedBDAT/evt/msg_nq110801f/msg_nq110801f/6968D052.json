@@ -1,0 +1,354 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<66B0C2B7>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Here, the part from the Levnis you\npointed us to. Is it what you needed?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<C26CEC3F>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, my...! This is stupendous!\nI can't see a single scratch on it!\nIt's like it's brand new...!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<F2899BF8>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Do you think this will solve your problem?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<0B7ABC9E>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes! All I have to do is put my theory into\npractice! Let me quickly combine the\ncomponents and attach them to the Levnis!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<7FCB143A>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whoa! It moved!\nDoes that mean it worked?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<0B973813>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes! No doubt about it! This is the best\nresult we could've wished for!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<BC9E404F>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let me compose myself... To be honest,\nI was half-doubting my theory before...\nBut I can't doubt what I just saw...!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<F7A57495>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Everyone, listen! I've been relying too\nmuch on established concepts! There's\nbeen a terrible oversight on my part!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<24C3D32B>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What oversight?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<69E23C8D>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Before, I'd guessed that the technology\nwas essentially located in the Agnian\nLevnises' levitational mechanism!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<69D75414>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But when I opened it up, what did I find,\nyou may ask? That it's actually super\nefficient at energy conduction!!!"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<87AF2F4D>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Energy...con-duck-shawn...?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<9B8ABEBA>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, yes... I read about the\nunderlying theory in a report\nabout Levnises once."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<648D7C50>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The process for converting the energy\nfrom an ether cylinder always results\nin a \"loss\" of energy... I think it said that."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<FC0DE718>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's exactly right! HOWEVER!\nAgnian Levnises in particular have barely\nany loss of energy during that process!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<B43334F7>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Sorry, Ymeer. Can you simplify\nthat a bit for us amateurs?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<6C70BD5C>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Errr... Roughly speaking, it means that\nit can operate at full power without\nwasting as much energy as before!"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<D32478D7>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmmm, I see. But, uh...is that\nreally such a big deal?"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<61B0DABE>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Of course it is! For instance, our Ferronis\nhas been out of order until now..."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<A3CD12DC>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Without a Flame Clock, ether cylinders\ndon't output sufficient energy, making it\nutterly impossible to operate our Ferronis!"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<CA833D4D>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "However! With this technology, we can\ncreate a power system to rival the Flame\nClock by our own means!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<240E4391>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And with that system...we can get\nthe Ferronis up and running once more!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<6DE8A158>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whoa...! Are you serious?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<47D126D8>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Deadly! ...Well, theoretically, of course!\nDepending on time, resources and available\nmanpower, too!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<B0B5E355>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...In other words, it's going to take a while."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<446A1D6F>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I am so grateful to you all! Thanks to you,\nmy results far exceeded my expectations!"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<9274298D>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "With this outcome alone, I'm pretty much\nguaranteed to be the next captain!"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<E66524DB>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A captain can allocate endless resources!\nMy research will bring advances the likes\nof which have never been seen before!"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<DEC0C358>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're starting to worry me, matey...\nAh, well, whatever. Fill your boots!"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<261B6559>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thanks for your support! I appreciate\nit so much! I'll do my very best!"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<8B4D3679>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If the Ferronis starts working again,\nthe first thing I'll do is help you out!"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<A6D383A1>",
+      "<ACF3531A>": "Ya1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "When that time comes, just remember\nwhat a bloody genius I was!!!"
+    }
+  ]
+}

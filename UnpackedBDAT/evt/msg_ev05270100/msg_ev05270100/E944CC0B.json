@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<2E683E5C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Hey, uh... Mimi?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<9D7EDC14>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What's up? Speak to me."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<49CF2F34>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ah...uh...ahuh..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<5C6282DD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Uhm... It's uh..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<DEA6D921>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Lovely...weather we're having!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<B4BD4B01>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I don't know I'd say \"lovely\"...\nBit overcast."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<C7A50CB3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ah, y-you're right!\nSilly clouds!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<20715BD5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Guess I had my head in 'em.\nAhahaha!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<6187713E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Huh?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<A77C1621>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Huh. What was that about?"
+    }
+  ]
+}

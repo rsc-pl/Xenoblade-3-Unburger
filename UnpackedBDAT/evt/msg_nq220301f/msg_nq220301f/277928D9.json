@@ -1,0 +1,194 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<E4A445A8>",
+      "<ACF3531A>": "bd1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Juniper, you made it!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<E5756606>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You said you'd found Raine?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<3EC2E9C4>",
+      "<ACF3531A>": "bd1",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Look! A Beaconstone!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<B40C8462>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wait, but that's..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<FBEFBD45>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Juniper, what's that smoke?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<3DBB1A5D>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's a Beaconstone. We use them when we\ncan't get normal communication out. They\nrelease smoke to warn of danger..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<9F8E0BA2>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wait, so do you think...?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<3CB906E3>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Looks like your man's in trouble."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<D957A66C>",
+      "<ACF3531A>": "bd1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ugh, Raine... He said he'd go hunting to\nreplenish our lackluster food supplies."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<374D7BAA>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK. I'll follow the Beaconstone.\nGeum, you wait here."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<40A01ED2>",
+      "<ACF3531A>": "bd1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But-"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<E02EF959>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You still haven't fully recovered yourself,\nhave you? I'm not risking you too."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<288ABE21>",
+      "<ACF3531A>": "bd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Understood..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<9BCCF2CF>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Just in case, tell Glory to come after us."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<B0AC5990>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll be there too, don't you worry."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<41DC325E>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thanks. OK, let's make a move."
+    }
+  ]
+}

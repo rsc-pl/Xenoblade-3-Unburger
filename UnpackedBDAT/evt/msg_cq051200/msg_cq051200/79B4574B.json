@@ -1,0 +1,514 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<8C0D390D>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](grunt of pain)"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<B9DAE497>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](dismissive 'tch')"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<420360D0>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Just finish 'em off already!\nI need that sweet, sweet life!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<47089E43>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](appalled gasp)"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<E2F0FF00>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "\"Finish 'em off\"?!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<35E6D128>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Hurry, run 'em through - go on!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<2CF8FC3C>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Kill 'em dead! That'll give me\na good top-up, nice and easy!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<8077C4EA>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Gotta love this new Flame Clock the Consul\nwas kind enough to give us! It's a belter!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<3FBDC551>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](gasp of realization)"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<89AD9642>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It's a different color..."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<ADCAB9FB>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah... That is no ordinary Flame Clock."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<9CD6A9E1>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Back in my old colony, if some moron slowed\nyou down, there was nothing you could do."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<C3DF8AA3>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Oh you could kill 'em, sure - but you\nwouldn't get any life from it."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<B7777DD8>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But around here, that's all changed!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<03588A2A>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Here, life is the privilege of the strong!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<9EF32DB1>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The final survivor gets to take\nthe whole snuffin' cake!"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<C0E9BF1B>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Garvel...!"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<17B01BF4>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You get it now, do you? The weaklings need to be taken\noutta the running, so gimme somma that sweet life!"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<7E70FBA3>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](stunned pained exert)"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<B4740EAD>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You mudder...!"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<B04D558B>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You can call yourself elite all you want."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<986F0C86>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But do moderate your expectations."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<E063B7B3>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](surprise)"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<932C5177>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You're the same as ever, Garv."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<9DEEF7BA>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Only ever thinking of yourself..."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<C16C6FF6>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "How're you gonna win against us like that?"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<892D68B0>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](scared yelp)"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<71E0B3D8>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Wh- The snuff is this?!\nNo one told us about these monsters!"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<B168B172>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You are not to hesitate!"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<937DF79E>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Will reuse ev03290100_0026.wav here"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<A6393FD5>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Will reuse ev07220100_0010.wav here"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<13E9B9BF>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Will reuse cq062600_0080.wav here"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<CC242102>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](pained scream)"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<01B41D09>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](pained grunt)"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<683D4BC0>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What...are y-?!"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<1B29DEED>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Lady Consul!"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<57EBEF9C>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I should've known..."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<3E2393C1>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Guess you can't have a Ferronis without a Consul, eh?"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<FDF0FC37>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "My, Ouroboros as well? I can't believe my luck."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<F69AB60C>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I suppose I ought to have prepared better still."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<5CB45F1A>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "A woman...?"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<C2A9F275>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You like my children? They're an anti-City special unit,"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<BD8304F7>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "one that I have diligently raised and lavished with love myself."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<7D31380E>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It has been back-breaking to educate them so."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<C6C3278C>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "They'll have to earn much, much more life\nfor me before they're done."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<94DA6F63>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I hate failed investments."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<2BF91C2A>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "So you see..."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<7A533433>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I'll take you brats out myself to protect mine!"
+    }
+  ]
+}

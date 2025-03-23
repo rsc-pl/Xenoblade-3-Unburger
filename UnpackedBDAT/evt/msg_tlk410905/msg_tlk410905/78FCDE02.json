@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<ED7877D3>",
+      "<ACF3531A>": "ne1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Bah... Bested by the walking dead!\nHave I fallen so far?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<A6EDF359>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't look at it like that. In fact,\nI thought you held out pretty well.\nYou're a tough bloke."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<CA546B4E>",
+      "<ACF3531A>": "ne1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Gah...! Don't think your flattery\nwill get you anywhere! That was\nwholly uncalled for!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<27F18DB1>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think he likes it."
+    }
+  ]
+}

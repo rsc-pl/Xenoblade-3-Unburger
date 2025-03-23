@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<33A4CADB>",
+      "<ACF3531A>": "pl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm actually quite busy right now. I hired\nsome new assistants to help me out, but it\nhasn't quite eased the load yet."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<943DDCF9>",
+      "<ACF3531A>": "pl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I've really had to show them an awful lot,\nabout the canteen, and the City too. I can\nunderstand though, it's all new to them."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<1DCFE632>",
+      "<ACF3531A>": "pl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It'll be well worth the effort of\ntraining them up, though!"
+    }
+  ]
+}

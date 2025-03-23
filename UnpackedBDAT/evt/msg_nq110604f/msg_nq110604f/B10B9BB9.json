@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<946E2557>",
+      "<ACF3531A>": "Wa1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well done! Mikoko can finally\nreplenish stores at long last!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<FBDED89A>",
+      "<ACF3531A>": "wZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mikoko, helpful Kukucha here to\nask if ingredients ready yet!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<E2209D35>",
+      "<ACF3531A>": "Wa1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh-MEH?! Not again!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<F5A289DA>",
+      "<ACF3531A>": "wZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Tummies of everyone making upsetting\nnoises! Grrr grrr and bubble-bubble!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<689057A8>",
+      "<ACF3531A>": "Wa1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mikoko already hear this! Kukucha\nkindly take this and leave vicinity\nof Mikoko, thankings in advance!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<CF0AD7ED>",
+      "<ACF3531A>": "wZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That perfect! Kukucha fill tummies\nof everyone with this!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<635A964C>",
+      "<ACF3531A>": "Wa1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Kukucha will take only what needed!\nMikoko had it with culinary team..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<7BEF43C5>",
+      "<ACF3531A>": "wZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "To say thank you, Kukucha will give\nMikoko grand high discount on favorite\nmeat of Mikoko!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<6D20E7BC>",
+      "<ACF3531A>": "Wa1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oho?! Please not to hesitate when\nneeding more stockup! Mikoko will\nhandle meat with handling of priority!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<56E5DEAA>",
+      "<ACF3531A>": "wZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Kukucha delighted to hear!\nCan always count on Mikoko!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<919D1062>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Was that...bribery?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<649D618D>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think the two of them are going to be\njust fine. Let's report back to Solon."
+    }
+  ]
+}

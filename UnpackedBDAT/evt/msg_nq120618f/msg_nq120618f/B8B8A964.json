@@ -1,0 +1,124 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<5FC9B64F>",
+      "<ACF3531A>": "qa1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So, what friend think?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<CB17E9F8>",
+      "<ACF3531A>": "po1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's all well and good, but..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<BA71A47D>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Can we say something?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<83365F1A>",
+      "<ACF3531A>": "po1",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mio!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<46AE7D0C>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There's no question of the skill\nof Colony 30's mechanics.\nThey'll make your lives much easier."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<DD3034DF>",
+      "<ACF3531A>": "po1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, if you're gonna go that far..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<0D6B57DA>",
+      "<ACF3531A>": "po1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK then. I'll talk to the brass about it."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<8CCDB365>",
+      "<ACF3531A>": "qa1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Valdi and friend manage\nto secure so much ether!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<07C5ED34>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thanks, all!"
+    }
+  ]
+}

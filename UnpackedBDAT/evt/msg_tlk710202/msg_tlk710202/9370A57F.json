@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B56EB740>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Our imprisoned friends made it home!\nYou lot did something truly great for us\nthere!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<12C96572>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But...we didn't manage to save all of them."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<90353ECD>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But that isn't on you. They must have\nbeen at least somewhat prepared for that,\nfrom the moment that they got captured."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<E2C8DD7B>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And now that infernal prison is no more.\nThat's going to make moving around a\nlot easier for me too."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<ED65F058>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm going to make the most of it, for our\ndear friends who never made it home!"
+    }
+  ]
+}

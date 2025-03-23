@@ -1,0 +1,564 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<DCEDF0AA>",
+      "<ACF3531A>": "xf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Eep...! He's here!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<D9F998CB>",
+      "<ACF3531A>": "bg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "H-hello and w-w-welcome!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<E9E3A9FC>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, pull yourself together!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<A0197FDD>",
+      "<ACF3531A>": "bg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Th-this is so stressful..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<FFE48145>",
+      "<ACF3531A>": "bg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uwaah?!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<643A9B63>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Lass... Are ye the cook?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<043C58B6>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This smell... I smell something\ncreamy, mayhap a sauce...?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<D3F383A7>",
+      "<ACF3531A>": "ag1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is sauce bechamel made with Armu milk.\nIs specialty of friend Lotus!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<51A0D8D6>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Arrrr, it sounds delicious!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<089E2A8B>",
+      "<ACF3531A>": "ag1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It also taste delicious! Therefore,\nhave to ask to please not to teasing\nesteemed cook of Lotus."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<D3FA0B6B>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Of course, of course!\nThem that make the food we eat\ndeserve our highest respect!"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<91041DC6>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They hold the keys to happiness! Making\nfolks unhappy? Easy as pie. But bringing\njoy, that's a harder Lexos to reel in!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<18D54CF1>",
+      "<ACF3531A>": "bg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I, uh, I'm sorry, what does that mean...?\nWas that...a compliment?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<3DA7024F>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Triton may be a Moebius, but he's\nour ally. You needn't be scared of him."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<51B217CE>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Are other Moebius...also that big...?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<3E01C8BF>",
+      "<ACF3531A>": "xf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Irma wasn't like that at all..."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<D7CC4736>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oho?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<0BDDE489>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Lass, lad... Were you\nthe ones that shot at me?"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<B7AA6C4B>",
+      "<ACF3531A>": "xf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Eeeek! How did he know?!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<61089D90>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whiff of gunpowder smoke.\nAhh, ye really let me have it, eh...?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<96B2893D>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thanks to you, I've worked up\na majestic old appetite!\nGwahahahah!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<B759369C>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wh-why is he laughing...?"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<500E004D>",
+      "<ACF3531A>": "xf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Beats me..."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<55FFAA30>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, Lottie...\nDo you know if there are any\nbig shellfish around here?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<616099C6>",
+      "<ACF3531A>": "bg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Big shellfish...? Hmm..."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<306B68C7>",
+      "<ACF3531A>": "bg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, do you mean Clammoths?\nThey grow to the size of\na person's face sometimes..."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<36D8514B>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's it! The Clammoth!\nWhere'd ye get those?"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<287742C9>",
+      "<ACF3531A>": "bg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think it was a beach somewhere...\nBut I've only seen the real thing once,\nso I don't remember exactly."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<CC279A6E>",
+      "<ACF3531A>": "xf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We find a lot of shellfish\naround Krezen Cliffs, I think?"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<B1542ACA>",
+      "<ACF3531A>": "ag1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Or sometimes Needle Reef Beach too!"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<166DC260>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It may be better to check\na few places, then."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<519B9706>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Countin' on ye, crew.\nI'll be waitin' right here!"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<44019C08>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh? You're not helping us look?"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<F3C33118>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Beggin' yer pardon laddie,\nit's gettin' to me dinnertime."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<97BEA38F>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ye wanna join me fer that, kiddos?"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<7831D32A>",
+      "<ACF3531A>": "xf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Bwuh?!"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<5172E854>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "U-u-u-us?!"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<FEEC6479>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I don't mean I'm gonna eat ye,\nrelax. 'Ere, come closer."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<BE17DAA9>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "BWAAAAAAARRRH!"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<D87416CF>",
+      "<ACF3531A>": "xf1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Eeeeeeeeek?!"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<ABBFFF44>",
+      "<ACF3531A>": "Xg1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yiiiiiiiipes!"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<954E72C9>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Gwahahaha! Ye let yer guard down!"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<66DD0209>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whadda ya think you're doing?!\nPut a lid on it, you muppet!"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<271A8F92>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Cap'n, all due respect,\nplease be nice to my crew..."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<61362913>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Otherwise, you can forget the clams."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<FCF6FBB4>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oho... Ye'll hafta pardon me, lassie...\nSeems I'd plum forgotten me manners."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<A354A539>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's all right! So long as we're clear."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<EF925B5C>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Now I'm scared of *her*..."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<E61697DA>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, you don't wanna make Fifi cross..."
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<48FE271D>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll go and find some Clammoths, then.\nHold the fort for us, guys!"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<D3F77585>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Aye-aye, lassie."
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<968EC160>",
+      "<ACF3531A>": "N",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ye don't mind pickin' up\nthe tab for me, do ya, lad?"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<662D3548>",
+      "<ACF3531A>": "xf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whattttt?!"
+    }
+  ]
+}

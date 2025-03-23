@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<84598302>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "An Attacker armed with a large\nsword whose refined technique\nbalances offense and defense."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<31C4E456>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A Defender who baffles foes with\nquick movement, skilled evasion\nand strong counterattacks."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<C23A22CA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A Healer who deploys fields\nto heal and buff allies across\na large area."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<26F2B9AB>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A Healer, specializing in dazzling\nfoes and offering support by using\nspell tags."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<ABDC08EF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A Defender who protects allies with\na huge weapon and Arts to focus\nthe enemies' attention."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<104E4467>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "An Attacker who smashes through\nfoes' defenses with a huge hammer\nand unstoppable Arts."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<9BF3C868>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "An Attacker, pressuring foes with\na dual-sword style and felling them\nin short, vicious bouts."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<1D778B88>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Protean Attacker class that exploits\nenemy weak points and uses\ndebuffs to alter the tide of battle."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<3E074683>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "An adroit, tactical Healer who uses\nspecial guns to aid allies in various\nways, as well as weakening foes."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<51997563>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A special Healer, raising allies'\nattack frequency and strengthening\nthem greatly with flute-playing."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<2E57DC17>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A bold Attacker, trading wounds\nfor augmentation of an already\nformidable offensive power."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<ECE39C0A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A stout Defender, guarding allies\nall around with shield and Arts,\nwhile crushing foes with a mace."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<DD71312A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A Healer whose command of water\ncan fell foes and heal allies in the\nsame beat; a battlefield messiah."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<5FAC144A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A fearsome Attacker combining\ndynamic elemental attacks with\nreliable support."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<47C215CC>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "An invaluable Healer who ensures\nthe party's continued survival with\nhealing and buffs."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<F5A44E73>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A Defender whose skills shine even\nbrighter in the face of adversity. A\nray of hope on the field of battle."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<6609C125>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A Healer with a belligerent bent.\nBatters enemies with powerful\ncombos while soothing ailing allies."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<BB9BCD90>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "An elegant Attacker, whose\nexquisite sword grows even keener\nwith critical hits."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<9C38903E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "An Attacker who excels at sniping\nfoes with arrows and hunting them\nfrom the safety of stealth."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<43CB2A4E>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "An aggressive Defender whose\nswift, deadly slash strikes draw\nfoes in, only to mow them down."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<7068FE34>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A special class, enabling a variety\nof fighting styles using skills and\nArts stolen from enemies."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<A8D463C3>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A special Healer excelling at\nsupport, using buffs to inspirit allies\nwith courage and strength."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<579F2D31>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "An Attacker who hounds foes with\ndebuffs, then fells them at their\nmost vulnerable with dual axes."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<37C2E7E6>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A martial artist Attacker who\npounds foes into dust with a\nceaseless torrent of blows."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<E8A7AE98>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Attacks foes in a wide area with\ntwin guns and drones, the shots\ngrowing deadlier with each hit."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<703EAD2C>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<2A8141EF>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A Defender who stays on the attack\nwhile evading enemy hits, revealing\ntheir true power after being KO'd."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<748C474D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A frontline Healer who restores HP\nwith critical hits and guides the flow\nof battle with unique field effects."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<6B057225>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A Defender who preempts and\nevades enemy attacks, holding their\nown even in attack and support."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<B2D24438>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A twin-greatsword Attacker who\nminces foes with relentless strikes\nand savage, far-reaching critical hits."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<63916A3D>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A combat-proficient Healer, harrying\nenemies with a slim sword. Can also\ninvalidate enemy attacks for a time."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<F5DE1191>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A Defender commanding a self-made\nweapon. Can deploy various effects\nwhile blocking enemy attacks."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<A27FCF33>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "A support Healer who soothes allies\nwith melodic music. Applies different\nsupport effects that vary by tune."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<F677DFEA>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "An Attacker who blasts Ether out of\nan accelerator device. Suppresses\nfoes with powerful ranged attacks."
+    }
+  ]
+}

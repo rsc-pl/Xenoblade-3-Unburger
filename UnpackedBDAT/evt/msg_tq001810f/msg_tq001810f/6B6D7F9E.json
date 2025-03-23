@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<ABE7C2CE>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sorry to have kept you waiting.\nSo, shall we head out?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<032AD996>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, so is this \"good place\"\nof yours far?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<0F410471>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmm, I'd say reasonably near."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<616468A2>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But the road is poorly maintained\nand slopes a lot. It might not be\nan easy journey."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<18943F94>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh great, now I'm totally sold."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<438617DE>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It all depends on how you walk it.\nOnce you get the hang of it, it's just\nlike strolling through a field of flowers."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<82C079A6>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you don't mind, I can\nexplain on the way."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<717654BF>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, in that case..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<905C4D55>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sounds great!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<340E0DA7>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 536887425,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...If it's reasonably close by."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<52975777>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 536887425,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'd better get ready."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<66FAE46A>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Teach has temporarily\njoined the party."
+    }
+  ]
+}

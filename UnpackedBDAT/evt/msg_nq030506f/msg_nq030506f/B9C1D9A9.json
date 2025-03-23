@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B3022A87>",
+      "<ACF3531A>": "rY1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...What?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<40F4F57F>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, nothing... It's nothing, sorry!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<EDF20FDC>",
+      "<ACF3531A>": "rY1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh...? Are you trying to make a fool of\nme? Or are you trying to start a fight?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<6194211C>",
+      "<ACF3531A>": "nY1",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "W-we're sorry! Really we are!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<6A8A70AA>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I don't think she's going to listen to you..."
+    }
+  ]
+}

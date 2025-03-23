@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<DF9CD982>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Matthew..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<4E6D97A3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Your actions have made the future uncertain."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<6657653E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Have you no regrets?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<6F9005DC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Given a choice of this magnitude...\nSurely...there is doubt."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<3CC14AC5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Oh believe me, got 'em in spades."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<902D717C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's why we move forward,"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<0208A5E1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "always ahead..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<EB2C93AE>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](silence)"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<57F573A4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "See ya,"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<6A5D0599>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Alpha..."
+    }
+  ]
+}

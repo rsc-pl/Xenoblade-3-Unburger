@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<2D47554B>",
+      "<ACF3531A>": "ke1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Honestly, Captain Easel's quite\na slave-driver..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<A2ACD0D3>",
+      "<ACF3531A>": "ke1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "One minute you think she's gone, then\nthe next she's telling you to go fetch\nthis or fetch that."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B672C243>",
+      "<ACF3531A>": "ke1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think...I might have to assassinate her.\nOuroboros, help a girl out?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<6B6E7936>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh?! What a thing to come out with\nall of a sudden!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<C25FAF1F>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Just ignore her, Sena, or you'll\nend up as crazy as she is."
+    }
+  ]
+}

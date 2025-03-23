@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<27BEA495>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Max HP Boost"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<84023C0F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Attack Boost"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<5BD1E4AE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Less Damage Taken"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<B121DE4C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dexterity Boost"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<C1B498F8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Agility Boost"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<F4415CFB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Healing Boost"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<1748E185>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto-Attack Damage Boost"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<126854AF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wider Attack Area"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<BD439E5F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Haste"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<9904BFAB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Absorb % HP"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<0C4BA8BF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Inflict Debuff Chance"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<73DE4E70>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Initial Damage Ratio Up"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<B087AF37>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chain Fills Faster"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<20BE20DB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chain Attack Gain"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<104ACE42>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Restore Chain Attack"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<2464D6B7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "After Use: Attack Up"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<3ED31772>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Debuff % Up"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<E57C50EA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Longer Debuffs"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<F5975AEE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Break % Up"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<E5CFF5EA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Combo Time Up"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<B49712BE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bonus Per Action"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<6BE50A07>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gain Score Faster"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<DD63C020>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bonus Per Curse"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<88489E16>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Recover Recharge"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<47C23446>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bonus Per Member"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<DD4B95DD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Max HP Up Per Member"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<990E0B05>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Attack Up Per Member"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<E3498027>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Charge Up Per Member"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<D8BD17A2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Reduce Boss Starting HP"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<E591833D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Max Depletion Bonus"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<6CB2AC45>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Slow Watch Drain"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<26832DD7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bonus Per 10k"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<01C359B1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Event Rate Up"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<297C27F5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Whimsy Rate Up"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<A663EEE3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lower Prices"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<85BF8383>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shuffle Ticket Chance"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<4B7E4B1F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Max HP Down"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<3BF57947>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shorter Debuffs"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<89F2D7C3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Slow Other Roles"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<9400EF18>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Non-Boss HP Up"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<61191A28>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Slower Recharge"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<06451B43>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Slow Charge Build"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<07C7A8DD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Event Rate Down"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<CC695984>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Whimsy Rate Down"
+    }
+  ]
+}

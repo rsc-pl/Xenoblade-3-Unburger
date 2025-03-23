@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<0B648CA4>",
+      "<ACF3531A>": "xf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I've been so busy with this conference\nstuff that I haven't been able to talk to\nAyase all that much."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<08E670E8>",
+      "<ACF3531A>": "xf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So, I'd appreciate it if you could ask her\nwhat's the number one thing that worries\nher the most."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B500A366>",
+      "<ACF3531A>": "xf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, it seems like you managed to speak\nto Ayase! I just got a call from her a\nmoment ago, funnily enough."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<E4CA1D2C>",
+      "<ACF3531A>": "xf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "She was absolutely livid about me failing\nto tell her about the whole Fiona-on-patrol-\n-duty thing. Man, am I a klutz or what!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<6B0546A7>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wait, are you really saying you didn't\npurposely set that up so Ayase would\nend up speaking with Fiona?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<B89BCA86>",
+      "<ACF3531A>": "xf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh? Whatever could you mean?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<A0AA9964>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mio, I know what airheads look like, and I\ncan tell you that ain't the look of someone\nwho could pull off any kind of conspiracy!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<20DBA6C7>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "My bad...\nI guess it really was just nothing, then."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<E8F4D51A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Right, OK... I think I understand."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<E1125375>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "If you're looking for Samon, he'll be\nin maintenance, same as usual."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B773A1F7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I'll send someone to get you.\nJust head on over."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<70A03074>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Many thanks. We'll be outside the Cloudkeep."
+    }
+  ]
+}

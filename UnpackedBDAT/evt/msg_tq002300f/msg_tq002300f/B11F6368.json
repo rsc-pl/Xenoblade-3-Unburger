@@ -1,0 +1,514 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<21B09059>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wait up. I heard something..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<32C4B49E>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What is it, Mimi?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<2475075D>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Ah!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<43FD55FE>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Manana see person on ground!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<985EE7C0>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Stay with me. We'll patch you right up..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<00E059CE>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I have to...help...everyone..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<8193514C>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Urgh!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<1EF944C8>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Stop moving!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<78AB4131>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You don't understand...\nI promised them...!\nSaid I'd...keep them safe..."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<2BA82F22>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If I'm the only one that survives...\nthen it's all been for nothing...!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<D8E8BF7D>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I have to go...!"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<57395389>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oi, don't be a clod."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<9515DC60>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Huh?!\nI'm, I'm not...!"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<17D881E1>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh what, you're really serious then?\nHow're you gonna save anyone when\nyou can barely stand yourself?"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<954CCBC2>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You got a death wish or something?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<F6919BD9>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "(gasp)"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<B89A2F88>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's break it down. As I see it,\nyou have two options here."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<1DC06E9A>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You can go in and try to save them\nby yourself..."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<7A7BBA00>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Or you can let us pitch in.\nWhich one of those strikes you\nas the better idea, eh?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<6DAAE0FA>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...You want to...help me?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<0D77FAC5>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I dunno, that depends. But I wouldn't be\nin such a hurry to throw my life away."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<3E0DA2DD>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Being ready to die, and actively\ntrying to get yourself killed are\ntwo very different things."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<C2CFB741>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "(gasp)"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<7D0194A8>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ahhh...!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<00B0D532>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's just a quick patch-up, but it\nshould help you think straight."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<8A28EEE6>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sorry about Lanz and his\nthreatening display of idiocy."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<A13DD656>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What's threatening?!"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<0D7EFEBA>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You missed the point."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<21093666>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I did not miss the...! Oh."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<3E9BBE49>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Look, you can relax.\nWe're all friends here."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<4158B53C>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Would you mind telling us\nwhat's going on?"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<0D68014F>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, OK...\nThere was a...Kevesi raid..."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<FC34EA9D>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There was no time. I had to cause\na diversion, so I leapt in without a\nsecond thought..."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<187FD92B>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "After that, it's... It's all a blur..."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<E8911B3C>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That was pretty reckless of you."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<07C205A4>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Remind Riku of someone Riku know."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<581ED702>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh?"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<F8663CA3>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whatever the case may be,\nwe had best hurry."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<49694F98>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Judging by the situation, your allies\nwere likely forced apart and are now\nfighting alone."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<E3C46806>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "(gasp)"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<C7ADD7F2>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It really sounds like it would help to have\nsome numbers on your side, no?"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<B93A289B>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "For now, let's take the best course\nof action we can. We can hash out\nthe details later."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<869E0CDF>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The best...course?"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<071B7FEA>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<5483A8A6>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "My name is Fiona.\nI am the commander of Colony Mu."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<913EEAAC>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I know this might be a lot to ask,\nseeing as we've just met..."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<217990AE>",
+      "<ACF3531A>": "O",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But please, lend me your strength!\nI need to save my people!"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<89A8C542>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 79,
+      "<DBAF43F0>": "Fiona has temporarily\njoined the party."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<13BB0B05>",
+      "<ACF3531A>": "lY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No. 7 is acting as if everything's perfectly\nnormal... She really is still shaken up."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<ACF1B64E>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Why did Segiri flare up when\nNo. 13 got mentioned?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<FC7994B5>",
+      "<ACF3531A>": "lY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I don't really know why myself, but\nseriously, just don't pry into it for now."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<8D0DC694>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...OK. I'll just keep close by\nher like usual."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<0C18878D>",
+      "<ACF3531A>": "lY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That would be great, thanks. With your\nhelp, I know that one day, she'll be ready\nto open up about what happened..."
+    }
+  ]
+}

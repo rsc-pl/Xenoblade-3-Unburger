@@ -1,0 +1,324 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<A366298E>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Why, hello there, kids.\nFancy running into you like this!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<C4AF982E>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Leeanne? What's going on here...?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<79FC36FC>",
+      "<ACF3531A>": "vY1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, you know each other already? Mega!\nLooks like I was right to bring you along."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<FE52AAFA>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is this really the painting-repair-person?\nThe Leeanne we know was-"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<DF08285F>",
+      "<ACF3531A>": "vY1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ahaha, I know what you're going to say!\nJust watch and listen."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<1A993493>",
+      "<ACF3531A>": "vY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Excuse me. I have a request\nfor one Miss Leeanne?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<02B66F5A>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hrm... I've never seen you around\nbefore, kid. What's your request?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<AF4FC77A>",
+      "<ACF3531A>": "vY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Before you became a novelist,\nyou restored relics to preserve\nthe City's cultural history, right?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<C9932AE1>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wow, that sure takes me back!\nThat was ages ago now. You've got\na good memory... Why do you ask?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<13772E3E>",
+      "<ACF3531A>": "vY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I was actually wondering if you could\nmend my relic... Here, take a look."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<46556BD5>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hohoh, oh wow, look at this...\nThis is a fine specimen you've got here."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<0C494C00>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hrmmm... A painting, eh?\nIt looks immeasurably valuable, but\nit's rather damaged, I'm afraid."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<21CFD703>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Do you think you can fix it?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<D3AAE8F6>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Weeell, it won't be straightforward,\nbut I think I could give it a crack."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<3EB8AA67>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Why don't you walk us through it?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<F6ABEC6F>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "First, I can remove all the dirt\nfrom it with a special solvent."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<FAA98D85>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Then I'll need the same paints and tools\nto restore the faded parts."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<4EBABA1D>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If I can get my hands on the\nsolvent and the pigments,\nthen I'll give it my best shot."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<1C04B5EE>",
+      "<ACF3531A>": "vY1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Snuff yeah...! A-ahem. I mean,\nthank you very much, Miss Leeanne."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<C8AE64F8>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hahaha, don't mention it. I'm just\nhappy that you youngsters still have\nsome interest in culture these days."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<7B91FA2C>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Where can we find the things you need?"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<E2240511>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The Metessia Resin I need for the\nsolvent should be somewhere\nin the Maktha Wildwood."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<B5CD4E60>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "As for the paint, I'll need to get it by\nsmashing a Seven-Hue Seashell...\nThat'll be a bit trickier."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<8C87E4AF>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Some monsters called Ottils in the\nCadensia region have been known\nto hoard such shells."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<827589B1>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Finding the shells yourself will be hard.\nIt might seem cruel, but your fastest bet is\nto defeat some Ottils and take their shells."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<6A03EE24>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Roger that. So we need Metessia Resin\nand a Seven-Hue Seashell."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<B01A03B2>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh to be so young and spry! Add some\npep in your step, Ouroboros."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<3B9E7480>",
+      "<ACF3531A>": "vY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll stay here and look after the painting.\nSorry and thanks! See you later, gang!"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<08B34271>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, you'd best take good care of it.\nWe don't want anyone *else* to steal it!"
+    }
+  ]
+}

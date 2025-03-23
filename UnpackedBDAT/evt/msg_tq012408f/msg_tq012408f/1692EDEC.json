@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<7894DF88>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A door?\nWhat's it doing in a place like this?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<BE5F828B>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Uhmm, doesn't want to open.\nWhat do we do?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<93ED6220>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Aha! Sounds like a job for Lanz!\nDinky door like this, all I need is\na bit of a running start, and..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<E9134DE7>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Interfacing with security seal...\nEntering override code... Clear."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<37B24871>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Entry lock has been released."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<DFDA92EC>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...O-oh, cool. Cheers."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<06AF3A1A>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Might be a bit late to ask, but since we're\nabout to meet this No. 13... What kind of\nperson is she?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<5B6F6367>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No. 13 was the foremost\nFerron pilot in Colony 0."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<F9947A01>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In terms of pure battle prowess,\nshe exceeds my own."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<8D720788>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If she attacks us before we can explain\nthe situation, things might go badly for us."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<C7C6067F>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That will not be an issue.\nNo. 13 will respond to me."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<D0DB4DC2>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You've got a lot of trust in her."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<3BE5031B>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes. I am sure she will understand."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<04DCB9CE>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Cool, cool. Well then, what say we\nget this teary reunion underway?"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<1E1C201D>",
+      "<ACF3531A>": "dd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hm? That smell...\nI'm guessing...Sirius Anemone?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<93CF749A>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, yes... I have a personal stash of it.\nI like to keep some on hand to make\nherbal tea with."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<1FAF734D>",
+      "<ACF3531A>": "dd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh wow, didn't take you for a tea guy!\nWell then, I've got a tip for you, so listen up."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<B8E0AD09>",
+      "<ACF3531A>": "dd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Try making tea from Mallow-o'-the-Marsh.\nIt's a fungus - quite pungent, but great for\nyour health. It builds strength, apparently!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<884C7641>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmm... Understood, thank you.\nI'll be sure to make a note of it."
+    }
+  ]
+}

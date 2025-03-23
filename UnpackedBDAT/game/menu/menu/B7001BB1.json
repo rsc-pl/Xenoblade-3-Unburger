@@ -1,0 +1,516 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<1401DC7F>",
+      "<554EE944>": 14,
+      "<DBAF43F0>": "ACCEPTED"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<F344035F>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "QUEST COMPLETE"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<68D78829>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "COMPLETE"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<C97428A5>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "All"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<4ED571C8>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Main Story"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<50E3CAAB>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Hero Quests"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<301A5CCC>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Standard Quests"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<A6B57E39>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Collectopaedia Cards"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<C42AB299>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<045B40FB>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<F4C8A3A3>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<4933933C>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<B7A584A7>",
+      "<554EE944>": 4,
+      "<DBAF43F0>": "Rewards"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<CFD2CDBB>",
+      "<554EE944>": 4,
+      "<DBAF43F0>": "Gold"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<E70E567C>",
+      "<554EE944>": 4,
+      "<DBAF43F0>": "EXP"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<FC12D256>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Affinity"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<36A03B76>",
+      "<554EE944>": 4,
+      "<DBAF43F0>": "SP"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<17A01678>",
+      "<554EE944>": 4,
+      "<DBAF43F0>": "EXP"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<B7BD03C1>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "???"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<E4EF3F1C>",
+      "<554EE944>": 5,
+      "<DBAF43F0>": "Quest"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<58FAD703>",
+      "<554EE944>": 5,
+      "<DBAF43F0>": "Rec. Level"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<246BD994>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Quest Details"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<2AB9A4A7>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Conditions"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<1E29F323>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<B54E7FA6>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Gathering"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<42292CA9>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Elimination"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<89B5120F>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Talk"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<52CD5E8E>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Investigation"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<BBB46528>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Discuss"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<F02F0FCA>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Destination"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<4C082B67>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Follow"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<DEDC09D1>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Delivery"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<E0FC13E8>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Collectopaedia Card"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<4E9C30BE>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Accompany"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<6B4018BD>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Action"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<2DB1B1E6>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Various"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<712F24A8>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Make a Choice"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<C751B348>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Collect the specified thing(s)."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<3F81ECB7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Defeat the specified foe(s)."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<4A1AD153>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Talk with the specified character(s)."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<FFA236B4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Investigate the specified object(s)."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<4CE5ED51>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hold a discussion at a rest spot."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<8ED27F21>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Head for the specified location(s)."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<1E84044F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Follow the trail."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<3DD93B91>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Hand over the required item(s)."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<55614D46>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Complete the specified card(s)."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<EE4121CF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Follow the specified character(s)."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<38CCCFAE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Perform the specified action(s)."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<8B8A5EE4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Complete all objectives."
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<7D48597F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Complete any one of the objectives."
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<FF678CF6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Activate"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<1E8D4547>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Deactivate"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<C7DEBCE0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Target Location:"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<30D3F36E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Set as Active Quest"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<EABA2970>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Deactivate Active Quest"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<EED187FE>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<D1F3F1A1>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "INFO ACQUIRED"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<0D5F70A0>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "New Topic Available"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<92949A95>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Close"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<EC924ED3>",
+      "<554EE944>": 0,
+      "<DBAF43F0>": "m"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<1BC73ED9>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Cooking Recipe"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<8FD801E4>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Show/Hide Objective"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<13AF7608>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Select Quest"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<D560716C>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Destination Map"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<EAC6264F>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Required Hero:"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<5CE9AEB0>",
+      "<554EE944>": 5,
+      "<DBAF43F0>": "Quest Updated"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<08EC4389>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "This quest requires a specific Hero in your party.\nAdd the necessary Hero to your party?"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<A4DF9E4A>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "This quest is necessary to progress in the main story.\nSet it as your Active Quest now?"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<1CF56A51>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "The party composition is locked at the moment.\nYou cannot activate quests that require Heroes."
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<F0676443>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "You cannot activate this Hero quest because the\nrequisite Hero is absent from the party."
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<8E6CE5BD>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Item List"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<73303E01>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Registered"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<56940C13>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Affinity Chart Updated"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<312CE984>",
+      "<554EE944>": 5,
+      "<DBAF43F0>": "Requester"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<987B6ADC>",
+      "<554EE944>": 5,
+      "<DBAF43F0>": "Register"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<D78E7584>",
+      "<554EE944>": 3,
+      "<DBAF43F0>": "+[ML:number digit=3 ]"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<48D117BA>",
+      "<554EE944>": 8,
+      "<DBAF43F0>": "[ML:number digit=6 ] EXP"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<92973383>",
+      "<554EE944>": 2,
+      "<DBAF43F0>": "x[ML:number digit=2 ]"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<D2EC496E>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Ether Sphere"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<72528AE5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Area Control"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<7074FCCF>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "This quest is necessary to progress in another quest.\nSet it as your Active Quest now?"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<DD027E0E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Scenario Quests"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<DB47527B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Gem Formula"
+    }
+  ]
+}

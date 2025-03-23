@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<A7CD7030>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "An emergency assembly?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<5A1197FA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It's the crack of dawn, guys..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<453DDE3D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ugh, why...?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<038DB7B8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "No idea.\nWe'd better take a look."
+    }
+  ]
+}

@@ -1,0 +1,1026 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<4770FB9B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Camera"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<8BF0516C>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Audio"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<CE254A9B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Messages"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<6B283E5F>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Notifications"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<23CA9211>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Display"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<9911341A>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Brightness"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<0901C1EB>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Game"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<A32DBD5A>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Background Lineup"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<BCD5B9CA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Invert up/down"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<1CEEAFC9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Invert left/right"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<743FB0BC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Camera reset speed"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<4B13A7F0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Camera movement speed"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<9B56B17E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Camera zoom speed"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<53E10B3F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Camera position"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<5EE7844F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gradient correction"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<ABDB79C3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle camera"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<BE01F69E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Adjust camera on enemy target"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<89D5F811>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Adjust camera upon Interlink"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<A5D27C22>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose the control type for vertical\ncamera movement."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<73DF42CC>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose the control type for horizontal\ncamera movement."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<735D1A5F>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose the speed at which the camera resets\nto a neutral position."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<D03CAD13>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose the camera movement speed."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<1D87125A>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose the speed at which the camera\nzooms in and out."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<AF45D37B>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose the position of the camera."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<FF924B82>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose whether the camera should automatically\nadjust on sloping terrain."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<2DBC2B29>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Activate/deactivate battle camera animations.\n(Does not affect Chain Attacks)"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<1374B353>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Automatically adjusts camera distance when targeting\nan enemy."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<65D90A8F>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Automatically adjusts camera distance upon Interlink\nbeing activated."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<BF9C8152>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Language"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<C425731A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Music"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<F707AD47>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Effects"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<4ADA6EDF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Voices"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<0C99D115>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "System"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<546FD910>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Audio environment"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<41AFE60B>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set the language used for in-game audio."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<089DB036>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set the volume of in-game music."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<FAE69661>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set the volume of in-game sounds."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<41878F44>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set the volume of in-game voices."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<19A79718>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set the volume of system sound effects."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<6C1123E0>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set the game's sound-output environment."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<ADB21001>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cutscene subtitles"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<42B1E3F0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Autoplay voiced text"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<6B3B7EDB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Autoplay unvoiced text"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<8970925E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dialog text speed"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<004BB625>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Textbox auto-advance speed"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<2B4796E4>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set whether subtitles are shown during cutscenes."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<86C62275>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set whether to advance automatically through text\nin voiced cutscenes."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<A081D26F>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set whether to advance automatically through text\nin non-voiced cutscenes."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<08B078DE>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set the speed at which text appears during dialog."
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<2AEBC1B2>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set the speed at which speech balloons for\nunvoiced dialog automatically advance."
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<E236E270>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Location"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<CD5B16EE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colony"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<8B9535B2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Affinity Chart"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<40446125>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gems and cooking"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<01992B94>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tutorials"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<49E6D446>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Training Drills"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<FC56B431>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "System"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<BB4D0304>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto-sell"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<0EF9DC95>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Show location-related notifications."
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<D6D56526>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Show colony-related notifications."
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<7B89CA8B>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Show Affinity Chart-related notifications."
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<6C3AEF2D>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Show gem- and cooking-related notifications."
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<E5B93C28>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Show tutorial-related notifications."
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<D24100E2>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Show training drill-related notifications."
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<C31D086A>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Show system-related notifications."
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<6F33F4A5>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Show notifications related to auto-selling."
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<50E66A5E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mini-map"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<AA8B8BA2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Enemy information"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<865E834E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Player auto damage"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<A963188A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Player Arts damage"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<BE6CCD6A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Party auto damage"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<8B184C67>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Party Arts damage"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<F276CF5D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Enemy auto damage"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<A49A533B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Enemy Arts damage"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<F3B34F02>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mio's hairstyle"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<D610263C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Other information"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<50007873>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Show the mini-map."
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<FD56CB05>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose whether to display information above\nthe enemy's head."
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<6FB6B481>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose whether to show damage dealt by player\nauto attacks."
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<40DD016F>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose whether to show damage dealt\nby player Arts."
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<B6783DDA>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose whether to show damage dealt by\nparty auto attacks."
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<1965A3E9>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose whether to show damage dealt\nby party Arts."
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<5D3DC134>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose whether to show damage dealt\nby enemy auto attacks."
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<7ADFEED4>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose whether to show damage dealt\nby enemy Arts."
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<976D2F08>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose a hairstyle for Mio to wear."
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<B2A1CEF2>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose whether to display other information\naround the mini-map's circumference."
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<E4DA699C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<83697919>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Adjust the screen's brightness."
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<96723A06>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Select your preferred brightness level."
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<4AD55128>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Difficulty"
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<3CE3B061>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vibration"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<F5BEAECA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto-targeting"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<265C87EE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto-battle"
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<FA2BEC15>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Targeting controls"
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<20AA66F3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Interlink control type"
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<86692ED7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto-save"
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<601BFA00>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Overkill"
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<9FA2D265>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Targeting controls (in battle)"
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<E4054146>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto-activate quests"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<5B43B9B3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto-display quest objectives"
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<1CBD1186>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "For those who want an easier time during combat,\npreferring to focus on progressing the story."
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<17F72CBD>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "For those who want moderately-difficult,\ngenerously-balanced combat."
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<B8FB0641>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "For those who enjoy challenging themselves\nwith fairly difficult combat."
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<2CB9A3C2>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Toggle the controller's rumble feature."
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<ED455789>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose whether to target enemies automatically."
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<6FD05FDC>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Leave control of battles to the AI.\n(Will not take effect in boss and unique monster battles.)"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<96552C3C>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Select enemies using the L and R buttons."
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<DED102B7>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Push the R Button to target the closest enemy.\nThe L Button cycles through targets in reverse order."
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<426D4FD2>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Only Interlink the player character.\nInterlinking of allies is controlled by the AI."
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<0F2C01BC>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Control Interlinking for the\nplayer character and party."
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<4D80407F>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "The game will save automatically during play."
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<2000D882>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Controls the occurrence of Overkill during\nChain Attacks."
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<D3B4FC2B>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set which targets to focus on when weapons are drawn."
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<DE5A9FC1>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set whether newly-received quests are automatically\nactivated. (Overrides any previously activated quest.)"
+    },
+    {
+      "$id": 115,
+      "<8C7DD24D>": "<88D2E202>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set whether newly-received quests are automatically\nactivated. (Quests always activate when none are set.)"
+    },
+    {
+      "$id": 116,
+      "<8C7DD24D>": "<42D15218>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set whether objectives for newly-received quests\nare displayed automatically."
+    },
+    {
+      "$id": 117,
+      "<8C7DD24D>": "<54545570>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Lets you select how the characters are arranged\nin the background of the main menu."
+    },
+    {
+      "$id": 118,
+      "<8C7DD24D>": "<80E5235E>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Select how the background of the main menu will look."
+    },
+    {
+      "$id": 119,
+      "<8C7DD24D>": "<938EA99F>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Normal"
+    },
+    {
+      "$id": 120,
+      "<8C7DD24D>": "<6164A56D>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Reverse"
+    },
+    {
+      "$id": 121,
+      "<8C7DD24D>": "<36567C9A>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "On"
+    },
+    {
+      "$id": 122,
+      "<8C7DD24D>": "<88B43756>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Off"
+    },
+    {
+      "$id": 123,
+      "<8C7DD24D>": "<DB8361F5>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "On"
+    },
+    {
+      "$id": 124,
+      "<8C7DD24D>": "<FF4C3BB5>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Off"
+    },
+    {
+      "$id": 125,
+      "<8C7DD24D>": "<F66F9766>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "On"
+    },
+    {
+      "$id": 126,
+      "<8C7DD24D>": "<3410B3E7>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Off"
+    },
+    {
+      "$id": 127,
+      "<8C7DD24D>": "<68DA1A42>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Default"
+    },
+    {
+      "$id": 128,
+      "<8C7DD24D>": "<85A66EA6>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Classic"
+    },
+    {
+      "$id": 129,
+      "<8C7DD24D>": "<9C2AA57F>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Player"
+    },
+    {
+      "$id": 130,
+      "<8C7DD24D>": "<792757D6>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Party"
+    },
+    {
+      "$id": 131,
+      "<8C7DD24D>": "<80EEB79A>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Don't adjust"
+    },
+    {
+      "$id": 132,
+      "<8C7DD24D>": "<14591F67>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Slow"
+    },
+    {
+      "$id": 133,
+      "<8C7DD24D>": "<1AD3474D>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Normal"
+    },
+    {
+      "$id": 134,
+      "<8C7DD24D>": "<5E65049F>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Fast"
+    },
+    {
+      "$id": 135,
+      "<8C7DD24D>": "<B4B7DADC>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Instant"
+    },
+    {
+      "$id": 136,
+      "<8C7DD24D>": "<9176A270>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Short"
+    },
+    {
+      "$id": 137,
+      "<8C7DD24D>": "<1A547131>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Long"
+    },
+    {
+      "$id": 138,
+      "<8C7DD24D>": "<74D36BAB>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "All"
+    },
+    {
+      "$id": 139,
+      "<8C7DD24D>": "<CEB3C1C0>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Enemies in battle"
+    },
+    {
+      "$id": 140,
+      "<8C7DD24D>": "<F6128611>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Japanese"
+    },
+    {
+      "$id": 141,
+      "<8C7DD24D>": "<62140DC2>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "English"
+    },
+    {
+      "$id": 142,
+      "<8C7DD24D>": "<CB5549D9>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Headphones"
+    },
+    {
+      "$id": 143,
+      "<8C7DD24D>": "<C36A1CE6>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "TV Speakers"
+    },
+    {
+      "$id": 144,
+      "<8C7DD24D>": "<AB9D2323>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Home Audio"
+    },
+    {
+      "$id": 145,
+      "<8C7DD24D>": "<8EFC4A99>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Console Speakers"
+    },
+    {
+      "$id": 146,
+      "<8C7DD24D>": "<9DD53D02>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Fixed Position"
+    },
+    {
+      "$id": 147,
+      "<8C7DD24D>": "<97388A59>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Revolving Display"
+    },
+    {
+      "$id": 148,
+      "<8C7DD24D>": "<E7B8EC63>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Easy"
+    },
+    {
+      "$id": 149,
+      "<8C7DD24D>": "<76BEA22F>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Normal"
+    },
+    {
+      "$id": 150,
+      "<8C7DD24D>": "<DE9518B0>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Hard"
+    },
+    {
+      "$id": 151,
+      "<8C7DD24D>": "<A60CB6C0>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Raid"
+    },
+    {
+      "$id": 152,
+      "<8C7DD24D>": "<D4D12CE3>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "March"
+    },
+    {
+      "$id": 153,
+      "<8C7DD24D>": "<61A21064>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Intercept"
+    },
+    {
+      "$id": 154,
+      "<8C7DD24D>": "<585A780F>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Unity"
+    },
+    {
+      "$id": 155,
+      "<8C7DD24D>": "<CD84F075>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Last Stand"
+    },
+    {
+      "$id": 156,
+      "<8C7DD24D>": "<828D916A>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Noah & Mio"
+    },
+    {
+      "$id": 157,
+      "<8C7DD24D>": "<74B5C83E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Eunie & Taion"
+    },
+    {
+      "$id": 158,
+      "<8C7DD24D>": "<A515ED43>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Lanz & Sena"
+    },
+    {
+      "$id": 159,
+      "<8C7DD24D>": "<626D5E9A>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Hero"
+    },
+    {
+      "$id": 160,
+      "<8C7DD24D>": "<897DFF54>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Special Hero BGM"
+    },
+    {
+      "$id": 161,
+      "<8C7DD24D>": "<5360E4E4>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "When certain Heroes are included in the party, the\nusual battle music will be replaced by special tracks."
+    },
+    {
+      "$id": 162,
+      "<8C7DD24D>": "<0997E70F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "X-Reader sensor volume"
+    },
+    {
+      "$id": 163,
+      "<8C7DD24D>": "<8B185D27>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 164,
+      "<8C7DD24D>": "<7E737F61>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Set the volume of the X-Reader's sensor-related\naudio notifications."
+    },
+    {
+      "$id": 165,
+      "<8C7DD24D>": "<9F6FC1F6>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 166,
+      "<8C7DD24D>": "<0E66821F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Community"
+    },
+    {
+      "$id": 167,
+      "<8C7DD24D>": "<E4DD2850>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Choose whether to show notifications related to\nCommunity."
+    },
+    {
+      "$id": 168,
+      "<8C7DD24D>": "<193B0E65>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Activate/deactivate battle camera animations.\n(Does not affect Unity Combos, Chain Attacks, etc.)"
+    }
+  ]
+}

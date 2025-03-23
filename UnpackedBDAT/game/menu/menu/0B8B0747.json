@@ -1,0 +1,348 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<5C4F2053>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Version 1.1.0 Update"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<3267A364>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "29 July 2022"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<5B7E6F1B>",
+      "<554EE944>": 138,
+      "<DBAF43F0>": "Updated the game to version 1.1.0."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<6E522AA1>",
+      "<554EE944>": 171,
+      "<DBAF43F0>": "- Added support for Expansion Pass.\n\n- Fixed several minor issues to improve gameplay."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<32822447>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "DLC Volume 1 Now Available"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<255C4D25>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "29 July 2022"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<A6787B6D>",
+      "<554EE944>": 138,
+      "<DBAF43F0>": "The 1st volume of the DLC is now available for download."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<8608CBA1>",
+      "<554EE944>": 171,
+      "<DBAF43F0>": "If you have purchased the Expansion Pass,\nyou can receive the following contents:\n\n- Accessories and expendable items useful for the journey\n- New clothing for Noah and co."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<CFA62A77>",
+      "<554EE944>": 138,
+      "<DBAF43F0>": "Note: You can receive the contents by\ngoing to the main menu > Expansion Pass."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<763C28D4>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "DLC Volume 2 Now Available"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<B6CBE5F2>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "14 October 2022"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<A7E7B51D>",
+      "<554EE944>": 138,
+      "<DBAF43F0>": "The 2nd volume of the DLC is now available for download."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<0A1552AE>",
+      "<554EE944>": 171,
+      "<DBAF43F0>": "If you have purchased the Expansion Pass,\nyou can receive the following contents:\n\n- A new Hero\n- Access to Challenge Battles"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<B0F62911>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Version 1.1.1 Update"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<73C5EE08>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "7 September 2022"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<CC31294E>",
+      "<554EE944>": 138,
+      "<DBAF43F0>": "Updated the game to version 1.1.1."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<C73E1951>",
+      "<554EE944>": 171,
+      "<DBAF43F0>": "- Adjusted movement pattern for Perilwing Ryuho,\n a Unique Monster found in the Aetia region.\n\n- Fixed several minor issues to improve gameplay."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<8ED73C07>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Version 1.2.0 Update"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<2374DA9A>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "14 October 2022"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<4005B9D9>",
+      "<554EE944>": 138,
+      "<DBAF43F0>": "Updated the game to version 1.2.0."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<F839B089>",
+      "<554EE944>": 171,
+      "<DBAF43F0>": "- Added functionality to back up party formation,\n letting you save and load the class, Arts, equipment etc.\n set for all party members. You can access this feature by\n pressing [ML:icon icon=btn_plus ] in the main menu.\n\n- Fixed several minor issues to improve gameplay."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<F8C9F37B>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Version 1.2.1 Update"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<6D6C0068>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "21 October 2022"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<1F468591>",
+      "<554EE944>": 138,
+      "<DBAF43F0>": "Updated the game to version 1.2.1."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<2ED2ED90>",
+      "<554EE944>": 171,
+      "<DBAF43F0>": "- Fixed several minor issues to improve gameplay."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<7AFE8C0C>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "DLC Volume 3 Now Available"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<72FB1AF2>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Sometime in 2022"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<0CE00DF3>",
+      "<554EE944>": 138,
+      "<DBAF43F0>": "The 3rd volume of the DLC is now available for download."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<6D31EF36>",
+      "<554EE944>": 171,
+      "<DBAF43F0>": "If you have purchased the Expansion Pass,\nyou can receive the following contents:\n\n- A new Hero\n- A new mode added to Challenge Battles"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<3526190A>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Version 1.3.0 Update"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<6E1CB759>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Sometime in 2022"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<39C674C6>",
+      "<554EE944>": 138,
+      "<DBAF43F0>": "Updated the game to version 1.3.0."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<0D8787C9>",
+      "<554EE944>": 171,
+      "<DBAF43F0>": "- Fixed several minor issues to improve gameplay."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<3C25647D>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "16 February 2023"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<71A02139>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<15B0AD16>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<20ADBC84>",
+      "<554EE944>": 138,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<E1EB8C4A>",
+      "<554EE944>": 171,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<B50AD5B1>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "DLC Volume 4 Now Available"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<40D886D2>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Version 2.0.0"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<FBB9AC9F>",
+      "<554EE944>": 138,
+      "<DBAF43F0>": "The 4th volume of the DLC is now available for download."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<768B76F4>",
+      "<554EE944>": 171,
+      "<DBAF43F0>": "If you have purchased the Expansion Pass, you can access\nthe new story, called \"Future Redeemed\", from the main\ngame's title screen.\n\nA new challenge has also been added to Time Attack mode\nwithin Challenge Battles."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<E98C6495>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Version 2.0.0 Update"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<B029AAA9>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Version 2.0.0"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<92067C60>",
+      "<554EE944>": 138,
+      "<DBAF43F0>": "Updated the game to version 2.0.0."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<FF2934E3>",
+      "<554EE944>": 171,
+      "<DBAF43F0>": "- Fixed several minor issues to improve gameplay."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<3C3A8ACB>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Pyra and Mythra amiibo Support"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<786181E5>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Version 2.1.0"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<86880834>",
+      "<554EE944>": 138,
+      "<DBAF43F0>": "Version 2.1.0 Update"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<0A13672E>",
+      "<554EE944>": 171,
+      "<DBAF43F0>": "- Added support for the Pyra and Mythra amiibo figures.\n You can scan the amiibo to receive their respective special\n items that can change certain weapons' appearance.\n\n- A special Nopon, Miibomii, has appeared at\n Llyn Nyddwr Camp in the Fornis region. Meeting certain\n criteria while playing the game will also allow you to\n obtain the aforementioned items from Miibomii."
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<5A204DA4>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Noah and Mio amiibo Support"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<C8C0AE4B>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Version 2.2.0"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<4DD3DE2F>",
+      "<554EE944>": 138,
+      "<DBAF43F0>": "Version 2.2.0 Update"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<6265A2B1>",
+      "<554EE944>": 171,
+      "<DBAF43F0>": "- Added support for the Noah and Mio amiibo figures.\n You can scan the amiibo to receive their respective special\n Clothing items.\n\n (Meeting certain criteria while playing the game will also\n allow you to obtain the aforementioned Clothing items\n from Miibomii at Llyn Nyddwr Camp in the Fornis region.)"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<08C48156>",
+      "<554EE944>": 138,
+      "<DBAF43F0>": "Note: You can purchase the contents from Nintendo eShop.\nGo to the main menu > Expansion Pass to learn more."
+    }
+  ]
+}

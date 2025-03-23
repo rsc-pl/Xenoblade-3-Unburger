@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<E4AA601F>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That plenty enough. Now,\nextractate nectar from picked\nflowers and-"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<7594FD33>",
+      "<ACF3531A>": "de1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, whack it in! I love\na bit of sweetness!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<05B35DB7>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "\"Whacking\" is word unbecoming of chef!\nNot do that."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<A8C88379>",
+      "<ACF3531A>": "ee1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So what we do?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<61765A5A>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Smear nectar on tree over there."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<FE83E581>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What...will that do?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<38C68B87>",
+      "<ACF3531A>": "de1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wait, we pour it on the tree?\nWe're gonna eat the tree?!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<75F78E5C>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Have faith in Manana!\nFriends understand when time is right!"
+    }
+  ]
+}

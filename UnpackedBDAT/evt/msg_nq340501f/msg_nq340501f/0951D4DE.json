@@ -1,0 +1,434 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<307C826D>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, could we talk to you for a minute?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<69BD747B>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sure thing, what's up?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<848DE1B3>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We heard you've got Agnian soldiers\nlocked up here, so-"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<DBE5B014>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh sparks... Really, even you've heard?!\nGahhh, give me a break..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<8C643ED7>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wow, sounds like that struck a nerve..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<AEC0751E>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, you're joking now, but just wait\ntill you've heard the story! I'm at\nthe end of my tether, I tell ya!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<D2480E3F>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I mean, look, I agree with Seeker's thinking,\nand I wanna work together with the City,\nreally I do."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<07512B29>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But the people they lock up for violating\nregulations have done some pretty\nheinous stuff in the past."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<C34F8ADF>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Take this Tohma guy, old pals with\na chick called Xera, then add in this\nhothead Jhodor in the mix..."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<281A31D0>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now the three of 'em have some\nkinda understanding. Cahoots o'clock.\nI'm telling you, thick as thieves!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<26B20EBA>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What are you suggesting...?\nYou think when they're let out,\nthey'll get up to some high jinks?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<6A55CF73>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "High jinks, huh...? Well, if it was just\n\"high jinks\", I think we could consider\nourselves lucky."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<F2D49ADF>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "To be honest with you, I'm kinda\nshocked they haven't been sent\nfor the chop already..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<7F517A44>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If we don't ever let them out, then\nmaybe it'd have been better to just\ndo that and be done with it..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<1FAA00CA>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "\"Getting the chop\"...? You mean execution?\nWhat you're saying is, you think what they\ndid is enough to deserve *that*?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<9AD4ED1C>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And what does Seeker have to say?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<866C32C4>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "\"I'm leaving their treatment\nto your discretion.\""
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<6BA3FD44>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "\"Discretion\"?!?! My arse!\nLike, tell me what to do?!\nYou! Utter! Shitbird!!!"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<EB0CBB63>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Phew, sorry, had to get it off my chest.\nSo anyway, you wanna see 'em?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<38BBB9A0>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Erm... If they're really so\nirredeemable, aren't they\ngonna take a pop at us?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<218AF374>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I mean, they're still in a cell, right?\nNot exactly made of sticks.\nOK, come along, I'll introduce ya."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<06375CF7>",
+      "<ACF3531A>": "wj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Hrmgh? What's this?\nTee tie toe tighter, I smell the\nsmell of a strong fighter..."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<DF95A7A2>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So that's the big baddie\nyou were talking about?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<662E0397>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's right. He's the main offender."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<CC7237B1>",
+      "<ACF3531A>": "wj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You come to break us out?\nOr cut our throats? I'll tell ya though,\nit pays to be on our good side."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<F4C3C519>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm still making my mind up, actually!\nDon't go forcing my hand, all right?"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<686DA9FB>",
+      "<ACF3531A>": "wj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And you, you're the lot that liberated\nthe Castle, aren't you? C'mon, let's\nhave a square go, you and us."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<55FF1403>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Beg your pardon?!"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<B1ED52EE>",
+      "<ACF3531A>": "wj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If we win, you cut us loose.\n...And before you go misinterpreting that,\nI don't mean we'll go on a killing spree."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<724E8D1B>",
+      "<ACF3531A>": "wj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Xera's my best and oldest friend, you see.\nAnd Jhodor, well, I met him here, on the\ninside, but I like the cut of his jib."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<4E5D9136>",
+      "<ACF3531A>": "wj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So I think we'd like to taste the air outside,\none day again, all three of us together.\n...Well, if we win, that is."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<417154DB>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And what if we win?"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<B5859E6B>",
+      "<ACF3531A>": "wj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Your choice, I suppose. Keep us jailed\ntill we die, make us follow you around...\nWhatever you decide, we'll go along with."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<710A23AD>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uhmm... That doesn't make it any easier..."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<EBF6195C>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wait wait, aren't they hardened criminals?\nI don't feel qualified to pass judgment on\nthem just like that..."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<8AD547F9>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's fine, it's fine. You're more qualified\nthan me, that's for sparking certain."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<9AAA9615>",
+      "<ACF3531A>": "wj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There we go, sounds like a deal to me.\nC'mon, let's get to the fisticuffs already!"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<B3DE0735>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What should we do...?"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<BB50E707>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All right there Feris, you pipe down\nand play nice until these good people\nfigure out what to do."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<7F29F002>",
+      "<ACF3531A>": "wj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sounds good to me.\nJust don't keep me\nwaiting too long."
+    }
+  ]
+}

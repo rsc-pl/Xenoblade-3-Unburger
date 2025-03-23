@@ -1,0 +1,464 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<CCD128AB>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Your Majesty! There you are."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<064BA415>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Please, it's \"Nia\"!\nYou aren't used to it yet, are you?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<5EA203E3>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh... I'm sorry, your...\nPlease, forgive me... It just..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<9A87957C>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Heh, it's fine. I may have taken\nmy teasing a step too far there."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<B2A25161>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uhm... I hope what I'm about to say\ndoesn't come out the wrong way, but..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<3B3E178B>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<F47AFC3C>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's just, you're our Queen! We believed\nyou were the one that gave us all life...\nAnd that we'd return to you in the end."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<B269C84F>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You were like this awesome being,\nhigh above... None of us could even\ndream of talking to you."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<13D0578E>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<7EADF33F>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And now you're just traveling along with\nus and chatting like it's an everyday thing."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<CF4DEADD>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's just really bizarre to me somehow.\nLike things have been switched around.\nIt still feels a little strange..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<02D5ECFA>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Could it be...that it just hasn't sunk in yet?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<606772E7>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<198AE9F2>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I see."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<FF9B9090>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Heheh... Well, it's the same for me."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<87454E05>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wh-what?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<6D8D1B39>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm sure I've told you this before, but\nplease indulge me."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<A32EC4D4>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "While I was asleep in the Cloudkeep,\nI was getting information about what was\nhappening in the world."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<3FF4FB8C>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So I knew, long before, that you were not\nM, but an independent being called \"Mio\"."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<6253042C>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But...it was nothing more than information."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<B5FE5308>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I wanted to truly know you more than\nanyone else, but I couldn't touch you,\ncouldn't make contact."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<7AB28C72>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I felt so close to you... But you were\nstill this distant far-off thing... It was\nso frustrating."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<976AFB32>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<3ECBB603>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But right now, you're so close I can reach\nout and touch you... Speak with you, even."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<5FF9015C>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I never thought the day would come.\nIt's a truly strange feeling."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<FAEF7BD4>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...It's the same for me."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<4DCF7C15>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Indeed. It's amazing really, the way things\nworked out, don't you think?"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<C61848C2>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hehe. For sure."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<C6302765>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If I hadn't become Ouroboros,\nI'd never have had the chance to\nmeet you, Nia."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<4047F0AA>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sometimes a small pebble starts the\navalanche which changes your whole\nfuture, don't you think?"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<1E878723>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...No, I don't think you can\nput it all down to chance."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<D5EBF456>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Huh? What do you mean?"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<15A9A061>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think we met because we were supposed\nto, Mio. It was meant to be."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<C5C36E80>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Because, to me, you're..."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<F5270A6B>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey!\nMio! Nia!"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<28F10306>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We're heading out soon, guys!\nGet a move on, or you'll get left behind!"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<7F65A9DB>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK! We're coming!"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<4C4E77D8>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Shall we go join the others?"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<6C925C1C>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Sure. Let's do that."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<397E1DE6>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mio!"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<6AC8E37B>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes?"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<BB219677>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm really glad we got to talk like this."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<9CADCFA8>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, me too...Nia."
+    }
+  ]
+}

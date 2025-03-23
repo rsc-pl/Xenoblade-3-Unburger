@@ -1,0 +1,394 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<2AF32A8D>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Feels like all I do is ask you to\nclean up our messes. Thanks again.\nIf there's anything I can do-"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<2DFDA703>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But why did they go berserk?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<C24683E6>",
+      "<ACF3531A>": "vc1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It might have been set so they couldn't\ntell between friend and foe once restarted."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<92F27382>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You think so?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<CA012D25>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So you're saying that forcing them to restart\noverwrote the previous instructions?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<4C1CC851>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh man..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<4E4166CD>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll have engineering\ngive me the details."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<3247A25E>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We need them in running order, but they can\nbe dangerous tools, so care is paramount."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<C22C489F>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Regardless, let me know if there's\nany way I can thank you."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<75F60D3F>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We told you before, we didn't do this\nfor any reward."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<8F7CF333>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Won't fly. I can't rest easy knowing I'm\nthis deep in someone else's debt."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<C98D4CB2>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you're going to insist...\nDo we need anything, guys?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<91F29325>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Er, lemme think..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<37E7EEA3>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All right, I've got something."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<229E25C7>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whatever it is, just say the word.\nWe've put you out of your way."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<4E42BB9F>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I want you to fight by our\nside once more."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<13C6A718>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Say that again?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<9291549F>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I want you to see for yourself that the path\nI'm walking is the right one, Commander."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<B78B1F4B>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Taion... Has this been bothering you...?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<5F78E985>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I understand."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<BC696D7D>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "My position as commander means\nI probably won't be able to accompany\nyou at all times."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<1F1234F9>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But I pledge myself and Colony Lambda\nto you, Taion. No, to all of you."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<122A7F39>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Call me any time you need me.\nI'll come running no matter what."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<65D09ACF>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thank you very much, Commander!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<58B2499C>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'd better brush up on my\nskills to keep up with you all."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<D09DA8AB>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Colony Lambda will have to keep up\nwith its current developments, too."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<A6D6052A>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We can help you with stuff like that, mate."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<629DDABE>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now look here, I can't\nask that of you-"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<CD1F373A>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Look, we're friends now.\nNothing wrong with asking\nyour friends for help."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<837AF8D3>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<79E005D5>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Heh. We're friends, you say?"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<475156F6>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're incredibly trusting, you know that?"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<A6D1A149>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What's that supposed to mean?\nWe're just helping."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<669B3DD4>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I don't mean anything bad by it.\nIf I need you, I'll ask for you."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<E8D6205F>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Please, call us any time you need."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<906AD427>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm a lucky man to have\nfriends like you, Taion."
+    }
+  ]
+}

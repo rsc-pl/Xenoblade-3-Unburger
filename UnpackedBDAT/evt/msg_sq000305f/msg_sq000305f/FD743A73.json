@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<48EFF0B9>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There we go."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<495E6A96>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's see just how strong it's gotten, yeah?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<F564CAD3>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's already nighttime.\nCan't it wait till morning?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<0B8B4D82>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Oh. You're right."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<117DB23F>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "With right materials, can create gems\nwith all kinds of properties."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<CAA04A1F>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Master art of gem crafting, and even\nGonzalez become easy-peasy like\ntiny little Bunnit."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<6EC30FB1>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "When find new materials,\nRiku craft new gems together!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<8102C097>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Manana also can make all sorts of dishes\nif have big choice of ingredients!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<D9E00173>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And also arrange dishes in courses,\nand menus, and accord to color, and..."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<74E7186D>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All right, put a sock in it!\nWe get it!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<33E75408>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well. I think that's probably enough\nfor today. Let's bunk down."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<80583BB0>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Guess I'll take first watch."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<685AC868>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We might be able to conserve more energy\nif we leave before sunrise."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<5DD4D532>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, thanks... Good night."
+    }
+  ]
+}

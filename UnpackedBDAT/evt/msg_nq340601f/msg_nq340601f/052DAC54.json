@@ -1,0 +1,354 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<F6092E71>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, Seeker."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<70E639B8>",
+      "<ACF3531A>": "rj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, Ghondor! And you didn't come alone."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<50DF197E>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You guys heading for the City, right?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<E3B9BA16>",
+      "<ACF3531A>": "rj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah. A little while after you handled\nthose rebels, we got a message through\nfrom the City."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<67C2851A>",
+      "<ACF3531A>": "rj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It was an invite to the City, addressed to\na few of us Agnians from the Castle."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<0A1AE1EE>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "An invitation? That must set your mind at\nease a bit. I mean, you can trust that you\nwon't be walking into anything dangerous."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<D4569301>",
+      "<ACF3531A>": "rj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Honestly, I don't know. I dropped the ball\npretty badly, not least by allowing Dana\nand the others to be murdered..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<97CC5D26>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That wasn't your fault!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<C40A7157>",
+      "<ACF3531A>": "rj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No, I deserve to take the fall for that,\nwithout question."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<B8C5F7C8>",
+      "<ACF3531A>": "rj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's possible that I'm being called out\nprecisely to answer for it, as a\nrepresentative of the Castle."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<B895F941>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uhm... You don't actually think they'd\nget us over there just to off us, do you?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<5D0A5228>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Heh. You did kinda bring this on\nyourselves. You might well have to\nargue for your lives, who knows."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<A3550F53>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah... I don't love the sound of that..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<7F7D3A6F>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Invite you in, then attack. Such simplistic\nstrategies are not their hallmark."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<248406E3>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If it did develop into a conflict, it would\nbe a futile waste of battle resources."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<7BC6617F>",
+      "<ACF3531A>": "rj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, I'm here. So if it does get to a scrap,\nyou've nothing to worry about."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<2098381F>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You...? But you're a hopeless fighter!\nNo use at all!"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<36917706>",
+      "<ACF3531A>": "rj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "W-well... I mean... I can catch\na bullet for you at least."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<F992E697>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If I let that happen, then they'd have my\nguts for garters here, you can count on it."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<5F97D3A1>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, if that's the way it is, then maybe we\nshould go along with you? We can at least\nargue on your behalf."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<60E764F8>",
+      "<ACF3531A>": "ye1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, the idea of being able to be present in\nthe City... It fills me up with such emotion!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<776A4A1A>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh? You're going to come along as well?"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<46D0EA1E>",
+      "<ACF3531A>": "ye1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Why, of course! Going to the City is my\ngreatest ambition! My ultimate goal!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<A580ED1A>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, well, no guarantees we'll be able to\nkeep you safe if shit hits the fan, aight?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<DFE74BF0>",
+      "<ACF3531A>": "ye1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "My ambition would be unchanged even if\nI was walking into a forest of swords and\na shower of bullets, have no fear!"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<EEADBA80>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, hang it... Whatever. If you got called\nup, then just go, OK?"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<4CAD15DC>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, I guess we'll need to make sure\nSeeker gets decent protection then. Maybe\nwe can recruit some skilled Agnians?"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<98CBF338>",
+      "<ACF3531A>": "rj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In any case, there's no turning back time,\nand what will be, will be. We will simply\nhave to think on our feet."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<DE683DA7>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I imagine it'll be fine, so long as his\ncuriosity doesn't get the better of him.\n...Welp, guess we're doing this..."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<16C5056B>",
+      "<ACF3531A>": "rj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right then, let's rendezvous at\nFarview Cape. We'll meet there\nonce we make our preparations."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<FCA908D1>",
+      "<ACF3531A>": "rj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll be counting on you all."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<A4F896C3>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Understood. We won't let you down."
+    }
+  ]
+}

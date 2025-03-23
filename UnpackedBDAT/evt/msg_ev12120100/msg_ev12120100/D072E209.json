@@ -1,0 +1,402 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<73B99C9D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](irritation)"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<9F7F95E6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Release her."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<0DFCE681>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Huh? But, Teacher!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<0DE3B4E8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "She's already been freed from the Flame Clock.\nAnd that makes her a friend."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<24BB6007>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "\"Friend\"...?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<09D5C3FD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "All right, then."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<8B270BA7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I'd like you to answer a few questions for me."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<6058C131>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "May I?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<9B53113C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](reticent/cautious breath)"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<8B0BF119>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "First we'll need your name,\nand the colony you belonged to."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<97D0BF86>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](refuses to answer)"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<404A65AA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "...So your name is \"Glimmer\"."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<D4290C6B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Colony Gamma. Assigned to the field support platoon, yes?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<7045EC8B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](startled)"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<CF7295FE>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's far."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<02C73584>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Gamma's territory is nowhere near here."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<EBC776A7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "So what are you doing out here all alone?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<339A97B3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Tell me who destroyed it."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<385EB7ED>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(surprised gasp)"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<9CEFB99D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Your colony's Clock, I mean."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<E96F2FE0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That isn't military intel."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<4D041089>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Surely you could tell me that, no?"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<799F983A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "...Weirdos. Two of them."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<439665D0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "\"Weirdos\"?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<F56F4FBC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "They waded straight into our battle with Keves,"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<0C9801EC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "and then..."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<4FCB8544>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And the Consuls?"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<A4B0F069>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](impressed 'phew')"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<3AFA6C35>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You're saying they took out Moebius?"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<E7B62CA4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's not too shabby."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<00D7159F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Teacher's level."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<3977431D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What were these two like?"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<50C31C7C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "One had...silver hair. Blue garb."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<21018FA1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Cut the Clock clean through with a red sword."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<FCD2D1E3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Right..."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<51C00299>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And the other?"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<8F58A662>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "...Some guy, didn't seem too bright."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<CC61E388>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Black clothes, used knuckles."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<E5438768>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "He's the one that defeated the Consuls,"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<0F1B8022>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "with the power of some weird light."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<E2F52092>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Hang on a sec."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<DC93EB14>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You're serious about that?"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<1A77AC50>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That guy. Did his hair...kinda look a bit like this?"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<E2F476C4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](nod of assent)"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<A56ABBA2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It's Matthew. Has to be him."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<695AC09F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's mad. So he's still alive!"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<7508989B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Matthew, eh?"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<3135EFAC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ah, yes."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<2A2C3B63>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "He's a guy from the City."
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<069F17E4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We were in Procurement together.\nIf someone's been beating up Moebius,"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<A61A012C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I can't think of anyone else but him."
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<27495E93>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "He's that strong, is he?"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<F79F7913>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](nod, affirming)"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<843CBC8A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "...You people, you're from the City?"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<33473CEE>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Quiet. Did I say you could ask questions?"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<9324D84C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](irritated scoff)"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<9A845121>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "No, it's all right."
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<9EE80F48>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You're correct, we do have Citizens among us...\nbut there's a bit more to it."
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<3F05EB64>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We are the Liberators."
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<91A60460>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We seek out survivors from the City."
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<D983E0FA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Survivors?"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<C5564AB3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's right."
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<BA361580>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "In order to protect this world..."
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<016BF23B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](breath)"
+    }
+  ]
+}

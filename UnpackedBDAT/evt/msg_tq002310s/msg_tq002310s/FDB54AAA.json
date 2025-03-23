@@ -1,0 +1,404 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<6D7A023F>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, let's not mince words.\nColony Mu is weird."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<EF82B3A5>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 14696577,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And this is why you can't make friends."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<867BA190>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I've looked into their combat records."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<6062EC0B>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "For the past few years, there have been no\nlarge-scale combat engagements involving\nColony Mu."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<E3A7A6B4>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That in and of itself is understandable,\nbut..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<3F87F64D>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 14696577,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But we can't do that investigation survey\nthing you thought up earlier, right? Back\nto the drawing board then?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<CB1A6A0F>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16793729,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, perhaps, but what really caught my\neye was the \"wastelessness\", so to speak."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<BC489BD0>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Without any big wins or losses,\nnot only were there no large swings\nto the Flame Clock total..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<0EAEA70B>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There were also no interruptions to the\ncolony's supply chain over the long term."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<292199D0>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 14696577,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...So? What's that prove, except\nthat Fiona and the others are fending\nwell for themselves?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<6CE98712>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I've gotta say, that's not really\nthe impression I got of this place\nat first glance..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<BB2D6365>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We've heard 'em chatting. They don't\nreally seem to talk a whole lot of training\nor strategy..."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<4AD931CB>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And think about the personnel turnover...\nYou saw the flower garden. Notice how\nyoung they all are...?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<8C3A52DD>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Add to that the Consul's extended\nperiods of absence..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<32949175>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ignoring for the sake of the argument the\ninsecure environment, the colony's military\nresults couldn't really afford such stability."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<FFF65AFA>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Come to think of it, didn't Fifi say\ntheir colony rank's stayed the same...?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<46F190FE>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 18890881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right. And the Flame Clock issue\nis odd as well."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<669B6F5B>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I couldn't stop wondering what the point\nof the deception was. We said we thought\nit could be to fool enemies, but..."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<E17022F2>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The soldiers here aren't given information.\nIt's not even being manipulated, just flat\nout not being supplied."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<49CFCCD1>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Fiona and the others didn't seem bothered\nby it, but I think in the real world, it\nwouldn't do them any real favors."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<B1A2ADCF>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right, of the two sides it's actually\nFiona and the others that it affects."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<4F512CA1>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What was it Tallow said...?\nSomething about not stressing all the time..."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<50423683>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Hold. Back the snuff up.\nYou're not saying...?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<D3C0E506>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The people the Consul wanted\nto deceive... Was it the residents\nof Colony Mu all along?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<DC8F69CA>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 32897,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...There's one more thing that bothers me.\nLooking at Fiona and the others, didn't\nthey remind you of someone?"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<1C83C612>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They don't believe in anything beyond\nwhat they can see in the moment, still\nthinking that fighting is everything..."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<06E4FA28>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 10502273,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Like we did way back when?"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<02BDF42A>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 18890881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right. They're so occupied with the\nreality put in front of them, they don't\nthink of anything beyond that horizon..."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<B71493DA>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In Colony Mu's case, they don't seem\nmuch interested in anything apart from\nthe banner that Fiona carries."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<A0CEE601>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "True, that. Soon as it's about Fiona,\nthey all get super passionate..."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<A8345D3C>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You think they're being used?"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<D2B95F16>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No... It's not a question of\nbeing used or otherwise."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<08991131>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'd imagine we're also\n\"only seeing what we want to see\"."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<CB11A282>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So that's why Fiona was appointed\ncommander? Because she's useful for\nhiding whatever's inconvenient...?"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<A74D6D1E>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If the Consul had to go to such lengths to\ndevise this, there can be only one reason."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<508B6001>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The Consul is betraying Colony Mu.\nThe raid we interrupted must have been\ntheir doing as well."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<61EA00E1>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1074,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Then we've gotta tell Fifi straight away!"
+    }
+  ]
+}

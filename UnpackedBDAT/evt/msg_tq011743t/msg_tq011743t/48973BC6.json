@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<1116991B>",
+      "<ACF3531A>": "eX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't you worry about the fields!\nWatering 'em won't take two ticks."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<5D87359B>",
+      "<ACF3531A>": "eX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmm, re-tilling the fields...\n15 ticks or so, I'd wager..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<73922FD4>",
+      "<ACF3531A>": "eX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Heh.\nBest put my back into it."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<BAA620A0>",
+      "<ACF3531A>": "eX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm giving you three ticks, and not a tick\nmore. Go get the fertilizer ready."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<E048FDDE>",
+      "<ACF3531A>": "eX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I don't mind Kite. He respects my time."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<D52B0B59>",
+      "<ACF3531A>": "eX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...You'd better watch your step as well.\nTime, and friends too... Once they're gone,\nthey're not coming back."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<2A47A494>",
+      "<ACF3531A>": "eX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Weird. Kite's already a hundred ticks late."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<A08D5167>",
+      "<ACF3531A>": "eX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Something bad might've happened."
+    }
+  ]
+}

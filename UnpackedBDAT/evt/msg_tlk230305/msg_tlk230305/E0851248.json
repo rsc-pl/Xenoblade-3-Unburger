@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<4FF606A3>",
+      "<ACF3531A>": "Wb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Honestly, this was not the development\nI was expecting."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<D664D073>",
+      "<ACF3531A>": "Wb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I thought it'd be a source of frustration,\nbut I actually feel really good about it all.\nI don't quite get it."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<1FFBB6D6>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's all right sometimes though, right?\nTo enjoy something, even if you can't\nquite explain it to yourself."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<8EDEDA59>",
+      "<ACF3531A>": "Wb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Fili said something like that to me once...\nBut it didn't quite sink in, back then."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<12655F64>",
+      "<ACF3531A>": "Wb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But now...I think I'd like to talk it over\nwith him, one more time..."
+    }
+  ]
+}

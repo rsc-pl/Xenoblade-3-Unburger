@@ -1,0 +1,314 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<287D992E>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Here we are, as requested!\nNow tell us what you want."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<307310A9>",
+      "<ACF3531A>": "fe1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What else? But before we get to that...\nAshera. I want to ask you something."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<2D69BF88>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's not stand on ceremony. Shoot."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<25143B4A>",
+      "<ACF3531A>": "fe1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The way I hear it, these rebels are looking\nto take control of Colony 11."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<FB03869F>",
+      "<ACF3531A>": "fe1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But you must be the one who\nsicced them on us."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<DB1D9CE9>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now, I wonder, where you could have\nheard that from? Not that you're wrong..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<3C8A895D>",
+      "<ACF3531A>": "fe1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmph, I see.\nYou must have really taken\na shine to them."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<AD494A22>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Again, I wouldn't say you were wrong.\nSo...? What are you trying to say?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<A862F023>",
+      "<ACF3531A>": "fe1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you're wanting to give up control\nof the colony to this lot, then I say\nhave at it."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<E7632675>",
+      "<ACF3531A>": "fe1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But if you think we'll just let\nyou go with a little parade after\nall the beatings you've given us..."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<BBA029C7>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, and here it comes."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<C76B4EA3>",
+      "<ACF3531A>": "ge1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I've always dreamed of hunting the\nbeast that dwells within you."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<ADC46B73>",
+      "<ACF3531A>": "ge1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Make my dream come true, Ashera.\nWe'll make this the best hunt of our lives!"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<C754D1A6>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well now. You're finally going\nto settle things with me."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<925CF6AA>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But if that's what you want, why\ncall these people out? I thought\nI was the one you want."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<27BCDC0C>",
+      "<ACF3531A>": "he1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Because they've earned your\nrecognition, Ashera."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<01410AA6>",
+      "<ACF3531A>": "he1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And I wish to fight not just you,\nbut Ouroboros one more time."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<00289486>",
+      "<ACF3531A>": "he1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Only you people can give me the pain...\nthe satisfaction I've been looking for!"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<D208A8E9>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I honestly didn't know\nthis guy could speak."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<776BBE65>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It doesn't really fit his image..."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<A5216925>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well I never! I didn't think I'd ever\nhear your voice again in this life, Clad."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<6A780203>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So the three of you are really\nserious about this..."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<A44DD86F>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm sorry, friends, but I need\nto ask you a favor."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<4A5EB36F>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How'd I know it'd come to this...?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<CAA6F94A>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hahaha, I praise your powers\nof foresight! Will you refuse?"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<5E3373B4>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Let's just say you'll owe me one.\nBe ready to pay up later."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<C260450A>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Zoren, Easel, Clad.\nThere's no more need for words."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<15A98E5F>",
+      "<ACF3531A>": "M",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You wanted this, and now you'll get it...\nA fight to the death!"
+    }
+  ]
+}

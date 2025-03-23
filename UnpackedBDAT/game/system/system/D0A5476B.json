@@ -1,0 +1,1248 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<AE03AD91>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ironclad I"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<2C0CEC88>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ironclad II"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<AF853579>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ironclad III"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<94FE6619>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ironclad IV"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<AE4EAEB1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ironclad V"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<EA3BF2AF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ironclad VI"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<CD5C6029>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ironclad VII"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<00CC0B79>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ironclad VIII"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<7513AA36>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ironclad IX"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<D0ABA7D1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ironclad X"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<C7298B0D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steady Striker I"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<A96161B9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steady Striker II"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<F482DBCC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steady Striker III"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<4CABDBF2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steady Striker IV"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<23E2A2E7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steady Striker V"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<773E1FA5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steady Striker VI"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<06424FBE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steady Striker VII"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<999FBAF7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steady Striker VIII"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<BCD14DFC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steady Striker IX"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<0ACAF5B2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steady Striker X"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<F169D1E7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Doublestrike I"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<4436A236>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Doublestrike II"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<0CA58908>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Doublestrike III"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<0FB514FE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Doublestrike IV"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<D6E15940>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Doublestrike V"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<B8019E5E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Doublestrike VI"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<284A5C3D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Doublestrike VII"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<8B428D54>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Doublestrike VIII"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<436D60B7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Doublestrike IX"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<B346B9C5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Doublestrike X"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<067A8ACD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Empowered Combo I"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<650A755C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Empowered Combo II"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<A514613A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Empowered Combo III"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<0C7CB03B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Empowered Combo IV"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<03411C87>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Empowered Combo V"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<896AE9CE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Empowered Combo VI"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<00B52769>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Empowered Combo VII"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<428845D5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Empowered Combo VIII"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<5BC12190>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Empowered Combo IX"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<7994CB50>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Empowered Combo X"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<419C3D26>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Disperse Bloodlust I"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<B4691A0C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Disperse Bloodlust II"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<896CF59E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Disperse Bloodlust III"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<41B0B51B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Disperse Bloodlust IV"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<BF781A71>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Disperse Bloodlust V"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<E6AC5588>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Disperse Bloodlust VI"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<26A302B5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Disperse Bloodlust VII"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<F82995D0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Disperse Bloodlust VIII"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<FC2763F2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Disperse Bloodlust IX"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<8C6A7DC9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Disperse Bloodlust X"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<BF45CC60>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steelcleaver I"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<3B4A5B18>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steelcleaver II"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<B2C580E6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steelcleaver III"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<5150C49D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steelcleaver IV"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<BBA13889>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steelcleaver V"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<E154654F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steelcleaver VI"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<81D63D4A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steelcleaver VII"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<BF00193A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steelcleaver VIII"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<29DBA822>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steelcleaver IX"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<D2B82A08>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steelcleaver X"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<5425BEAE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accurate Grace I"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<D7F45F1C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accurate Grace II"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<3A0491C9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accurate Grace III"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<55DF9F4C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accurate Grace IV"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<B60F4DED>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accurate Grace V"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<6195515E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accurate Grace VI"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<F41BDC17>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accurate Grace VII"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<33C3D431>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accurate Grace VIII"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<5CA235E5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accurate Grace IX"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<143C24C7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accurate Grace X"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<0C90F8B8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Analyze Weakness I"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<57569BBB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Analyze Weakness II"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<AB6583DF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Analyze Weakness III"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<0C52FFA7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Analyze Weakness IV"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<98A3F222>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Analyze Weakness V"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<C4CFECDB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Analyze Weakness VI"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<1391DB81>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Analyze Weakness VII"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<6713A10B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Analyze Weakness VIII"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<BD38E84F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Analyze Weakness IX"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<68D4B0F2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Analyze Weakness X"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<A9253E14>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Scourge I"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<1F82F3CF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Scourge II"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<34778F5F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Scourge III"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<E65D4C50>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Scourge IV"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<6257B3AF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Scourge V"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<6D8E6B2E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Scourge VI"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<D8A66F47>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Scourge VII"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<53BBC7A5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Scourge VIII"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<267CF791>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Scourge IX"
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<0D6A7F7D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Scourge X"
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<D825D97E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Incantation I"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<26D29DFA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Incantation II"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<0A4FCD23>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Incantation III"
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<D08DAF0A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Incantation IV"
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<9AEC2C33>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Incantation V"
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<FB65618E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Incantation VI"
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<116F008E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Incantation VII"
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<2A41D3B2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Incantation VIII"
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<E149CA68>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Incantation IX"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<469A9C15>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Incantation X"
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<3BF708A0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tailwind I"
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<FC4E87D3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tailwind II"
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<3B34A217>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tailwind III"
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<40B280D5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tailwind IV"
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<323406AE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tailwind V"
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<38771BAF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tailwind VI"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<5AE7AF9E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tailwind VII"
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<14012980>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tailwind VIII"
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<C84AE610>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tailwind IX"
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<51E524F0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tailwind X"
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<AE5A492C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steel Protection I"
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<B20D1EAB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steel Protection II"
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<7D623A2C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steel Protection III"
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<CF63109D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steel Protection IV"
+    },
+    {
+      "$id": 115,
+      "<8C7DD24D>": "<6B269E46>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steel Protection V"
+    },
+    {
+      "$id": 116,
+      "<8C7DD24D>": "<18ED82E3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steel Protection VI"
+    },
+    {
+      "$id": 117,
+      "<8C7DD24D>": "<09BB15E8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steel Protection VII"
+    },
+    {
+      "$id": 118,
+      "<8C7DD24D>": "<564BC455>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steel Protection VIII"
+    },
+    {
+      "$id": 119,
+      "<8C7DD24D>": "<866BB8D3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steel Protection IX"
+    },
+    {
+      "$id": 120,
+      "<8C7DD24D>": "<6B1DEB8E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steel Protection X"
+    },
+    {
+      "$id": 121,
+      "<8C7DD24D>": "<7806EA56>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ultimate Counter I"
+    },
+    {
+      "$id": 122,
+      "<8C7DD24D>": "<DB9103A4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ultimate Counter II"
+    },
+    {
+      "$id": 123,
+      "<8C7DD24D>": "<78D3A793>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ultimate Counter III"
+    },
+    {
+      "$id": 124,
+      "<8C7DD24D>": "<32D0DDA5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ultimate Counter IV"
+    },
+    {
+      "$id": 125,
+      "<8C7DD24D>": "<A2DC4E4C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ultimate Counter V"
+    },
+    {
+      "$id": 126,
+      "<8C7DD24D>": "<05CBA133>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ultimate Counter VI"
+    },
+    {
+      "$id": 127,
+      "<8C7DD24D>": "<0A3CE21C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ultimate Counter VII"
+    },
+    {
+      "$id": 128,
+      "<8C7DD24D>": "<6BC4262A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ultimate Counter VIII"
+    },
+    {
+      "$id": 129,
+      "<8C7DD24D>": "<B1C28485>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ultimate Counter IX"
+    },
+    {
+      "$id": 130,
+      "<8C7DD24D>": "<D26F0BF9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ultimate Counter X"
+    },
+    {
+      "$id": 131,
+      "<8C7DD24D>": "<E67D0D3A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brimming Spirit I"
+    },
+    {
+      "$id": 132,
+      "<8C7DD24D>": "<8781C4BF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brimming Spirit II"
+    },
+    {
+      "$id": 133,
+      "<8C7DD24D>": "<16279232>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brimming Spirit III"
+    },
+    {
+      "$id": 134,
+      "<8C7DD24D>": "<7550CCB1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brimming Spirit IV"
+    },
+    {
+      "$id": 135,
+      "<8C7DD24D>": "<E59E6381>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brimming Spirit V"
+    },
+    {
+      "$id": 136,
+      "<8C7DD24D>": "<5067E3E2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brimming Spirit VI"
+    },
+    {
+      "$id": 137,
+      "<8C7DD24D>": "<BBEE93F1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brimming Spirit VII"
+    },
+    {
+      "$id": 138,
+      "<8C7DD24D>": "<EECE106F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brimming Spirit VIII"
+    },
+    {
+      "$id": 139,
+      "<8C7DD24D>": "<818E592C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brimming Spirit IX"
+    },
+    {
+      "$id": 140,
+      "<8C7DD24D>": "<4A7BFEA0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brimming Spirit X"
+    },
+    {
+      "$id": 141,
+      "<8C7DD24D>": "<4AC63B77>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perilous Presence I"
+    },
+    {
+      "$id": 142,
+      "<8C7DD24D>": "<CEB0815D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perilous Presence II"
+    },
+    {
+      "$id": 143,
+      "<8C7DD24D>": "<CC9D0596>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perilous Presence III"
+    },
+    {
+      "$id": 144,
+      "<8C7DD24D>": "<70340C6A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perilous Presence IV"
+    },
+    {
+      "$id": 145,
+      "<8C7DD24D>": "<92B10375>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perilous Presence V"
+    },
+    {
+      "$id": 146,
+      "<8C7DD24D>": "<A0E87010>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perilous Presence VI"
+    },
+    {
+      "$id": 147,
+      "<8C7DD24D>": "<2D2BC2D2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perilous Presence VII"
+    },
+    {
+      "$id": 148,
+      "<8C7DD24D>": "<4CD5B3C5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perilous Presence VIII"
+    },
+    {
+      "$id": 149,
+      "<8C7DD24D>": "<392622D0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perilous Presence IX"
+    },
+    {
+      "$id": 150,
+      "<8C7DD24D>": "<26DA8609>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perilous Presence X"
+    },
+    {
+      "$id": 151,
+      "<8C7DD24D>": "<BC0102AF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifebearer I"
+    },
+    {
+      "$id": 152,
+      "<8C7DD24D>": "<5B734C5F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifebearer II"
+    },
+    {
+      "$id": 153,
+      "<8C7DD24D>": "<AF5C8614>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifebearer III"
+    },
+    {
+      "$id": 154,
+      "<8C7DD24D>": "<6ED8C95C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifebearer IV"
+    },
+    {
+      "$id": 155,
+      "<8C7DD24D>": "<A4B406F5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifebearer V"
+    },
+    {
+      "$id": 156,
+      "<8C7DD24D>": "<1617EFA5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifebearer VI"
+    },
+    {
+      "$id": 157,
+      "<8C7DD24D>": "<FBF5807E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifebearer VII"
+    },
+    {
+      "$id": 158,
+      "<8C7DD24D>": "<591902EF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifebearer VIII"
+    },
+    {
+      "$id": 159,
+      "<8C7DD24D>": "<FCD4C8DA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifebearer IX"
+    },
+    {
+      "$id": 160,
+      "<8C7DD24D>": "<D6301592>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifebearer X"
+    },
+    {
+      "$id": 161,
+      "<8C7DD24D>": "<82DF9618>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soothing Breath I"
+    },
+    {
+      "$id": 162,
+      "<8C7DD24D>": "<1ED61635>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soothing Breath II"
+    },
+    {
+      "$id": 163,
+      "<8C7DD24D>": "<2FE66844>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soothing Breath III"
+    },
+    {
+      "$id": 164,
+      "<8C7DD24D>": "<831DA215>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soothing Breath IV"
+    },
+    {
+      "$id": 165,
+      "<8C7DD24D>": "<5C550D5F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soothing Breath V"
+    },
+    {
+      "$id": 166,
+      "<8C7DD24D>": "<2B470920>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soothing Breath VI"
+    },
+    {
+      "$id": 167,
+      "<8C7DD24D>": "<8E03A6EC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soothing Breath VII"
+    },
+    {
+      "$id": 168,
+      "<8C7DD24D>": "<07D6D8C0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soothing Breath VIII"
+    },
+    {
+      "$id": 169,
+      "<8C7DD24D>": "<6DD9C8FA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soothing Breath IX"
+    },
+    {
+      "$id": 170,
+      "<8C7DD24D>": "<33B14A47>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soothing Breath X"
+    },
+    {
+      "$id": 171,
+      "<8C7DD24D>": "<DE7145B4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifesaving Expertise I"
+    },
+    {
+      "$id": 172,
+      "<8C7DD24D>": "<3666A044>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifesaving Expertise II"
+    },
+    {
+      "$id": 173,
+      "<8C7DD24D>": "<D8D3E660>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifesaving Expertise III"
+    },
+    {
+      "$id": 174,
+      "<8C7DD24D>": "<1D11D83D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifesaving Expertise IV"
+    },
+    {
+      "$id": 175,
+      "<8C7DD24D>": "<ABA63A97>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifesaving Expertise V"
+    },
+    {
+      "$id": 176,
+      "<8C7DD24D>": "<48D7135D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifesaving Expertise VI"
+    },
+    {
+      "$id": 177,
+      "<8C7DD24D>": "<12E4E0CD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifesaving Expertise VII"
+    },
+    {
+      "$id": 178,
+      "<8C7DD24D>": "<D19A02BE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifesaving Expertise VIII"
+    },
+    {
+      "$id": 179,
+      "<8C7DD24D>": "<0CA841BE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifesaving Expertise IX"
+    },
+    {
+      "$id": 180,
+      "<8C7DD24D>": "<FDA276BC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lifesaving Expertise X"
+    },
+    {
+      "$id": 181,
+      "<8C7DD24D>": "<30FDB34C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Blessing I"
+    },
+    {
+      "$id": 182,
+      "<8C7DD24D>": "<010DCA60>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Blessing II"
+    },
+    {
+      "$id": 183,
+      "<8C7DD24D>": "<F36E63E9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Blessing III"
+    },
+    {
+      "$id": 184,
+      "<8C7DD24D>": "<418ACC2F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Blessing IV"
+    },
+    {
+      "$id": 185,
+      "<8C7DD24D>": "<768E1A21>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Blessing V"
+    },
+    {
+      "$id": 186,
+      "<8C7DD24D>": "<01F32702>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Blessing VI"
+    },
+    {
+      "$id": 187,
+      "<8C7DD24D>": "<5C5321AB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Blessing VII"
+    },
+    {
+      "$id": 188,
+      "<8C7DD24D>": "<FC32825C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Blessing VIII"
+    },
+    {
+      "$id": 189,
+      "<8C7DD24D>": "<E9F5D421>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Blessing IX"
+    },
+    {
+      "$id": 190,
+      "<8C7DD24D>": "<FF6A73C9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swelling Blessing X"
+    },
+    {
+      "$id": 191,
+      "<8C7DD24D>": "<1CDFEBA5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Blessing I"
+    },
+    {
+      "$id": 192,
+      "<8C7DD24D>": "<D8A2116E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Blessing II"
+    },
+    {
+      "$id": 193,
+      "<8C7DD24D>": "<8E376524>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Blessing III"
+    },
+    {
+      "$id": 194,
+      "<8C7DD24D>": "<BBD9D037>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Blessing IV"
+    },
+    {
+      "$id": 195,
+      "<8C7DD24D>": "<8D828423>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Blessing V"
+    },
+    {
+      "$id": 196,
+      "<8C7DD24D>": "<EE1D659A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Blessing VI"
+    },
+    {
+      "$id": 197,
+      "<8C7DD24D>": "<6FE6D96E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Blessing VII"
+    },
+    {
+      "$id": 198,
+      "<8C7DD24D>": "<9FA71804>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Blessing VIII"
+    },
+    {
+      "$id": 199,
+      "<8C7DD24D>": "<ACD14368>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Blessing IX"
+    },
+    {
+      "$id": 200,
+      "<8C7DD24D>": "<4FAA0AEF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Refined Blessing X"
+    },
+    {
+      "$id": 201,
+      "<8C7DD24D>": "<4A3B0A7E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flowing Form I"
+    },
+    {
+      "$id": 202,
+      "<8C7DD24D>": "<F7156873>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flowing Form II"
+    },
+    {
+      "$id": 203,
+      "<8C7DD24D>": "<26C55501>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flowing Form III"
+    },
+    {
+      "$id": 204,
+      "<8C7DD24D>": "<26062442>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flowing Form IV"
+    },
+    {
+      "$id": 205,
+      "<8C7DD24D>": "<CEFFBE92>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flowing Form V"
+    }
+  ]
+}

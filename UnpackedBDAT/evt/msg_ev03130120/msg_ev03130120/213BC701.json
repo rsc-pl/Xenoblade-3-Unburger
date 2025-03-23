@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<D02B3B36>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Realization leads to hope...\nWhich in due time turns to despair."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<9D67AAA6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The significance of the stasis\nis driven ever deeper within..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<F48D055E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "A moment in time. A sublime experience."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<C01986CC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That brilliance, it shines ascendant over all else."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<7D6E7BE5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's why it takes so much frickin' work."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<C16CFF57>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Working stinks..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<31FF06FA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "They all learn sooner or later."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<B75780B2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "They learn how priceless it was,\nhow grossly irreplaceable."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<922441A1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The \"Eclipse\" grows near..."
+    }
+  ]
+}

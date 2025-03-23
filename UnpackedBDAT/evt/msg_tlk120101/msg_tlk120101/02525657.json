@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<9CDC5FAD>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I heard what happened to the\nConsul and the Flame Clock\nfrom Commander Teach..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<DADB9719>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm a little anxious about what we're\nsupposed to do from here on out."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<E3EC2971>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It'll be OK as long as Commander Teach\nand Mio are here, though! I'll follow you\ntwo to the ends of the world!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<0AFF9CB7>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Thanks, Kyrie. We'll try and help\nyou all out as much as we can."
+    }
+  ]
+}

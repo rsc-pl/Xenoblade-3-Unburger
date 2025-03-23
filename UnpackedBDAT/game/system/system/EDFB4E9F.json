@@ -1,0 +1,702 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<28A27364>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Commander"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<F408668B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Lieutenant"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<AE7F1645>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<4EE89B03>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Teensy Armu"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<6628A3D4>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Teensy Armu"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<8D6948AC>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Teensy Armu"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<52646533>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Teensy Armu"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<D75674D8>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Voracious Armu"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<EC49707D>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Voracious Armu"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<CED7E7F3>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Voracious Armu"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<D8FD19E2>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Voracious Armu"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<E9602252>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Adolescent Armu"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<C1FFBCF8>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Adolescent Armu"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<F34FF6E8>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Adolescent Ardun"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<A0FAC6E1>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Adolescent Ardun"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<2FE0D7BF>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Brawny Ardun"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<959A61FF>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Timid Armu"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<55015D4E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Impulsive Armu"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<E1821EED>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Assertive Armu"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<871D9572>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Greedy Armu"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<5B587AA9>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Serene Armu"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<D41F0E86>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Naughty Armu"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<F795501F>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Shy Armu"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<5DC1C0C7>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "One-Track Armu"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<CE164DC7>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Dainty Armu"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<5F9AF678>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Fluffy Armu"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<23B27476>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pensive Armu"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<2E816AA4>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Flirty Armu"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<889D84C6>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Loner Armu"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<200D7016>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Gourmet Armu"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<DD848EBF>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Rascally Ardun"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<1AAF477D>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Easygoing Ardun"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<DADC64B7>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Indulgent Ardun"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<A47A2017>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Innocent Ardun"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<FF766ED0>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Considerate Ardun"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<20BDA3AE>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Gallant Ardun"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<FB60E727>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Sensible Ardun"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<CC30993F>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Gentle Ardun"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<889FCEEE>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Impatient Ardun"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<7ABEDCA3>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Adamant Ardun"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<DB2C7275>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Serious Ardun"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<8714A7FA>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Cool Ardun"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<5628BA9F>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Excitable Ardun"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<E358B290>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Cleanly Ardun"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<94894062>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Timid Armu"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<B5DBE7FB>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Impulsive Armu"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<ABEF6A7B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Assertive Armu"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<4B63CC0C>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Greedy Armu"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<0216D1E0>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Serene Armu"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<71EA39E6>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Naughty Armu"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<D85E579A>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Shy Armu"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<6DA81DD3>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "One-Track Armu"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<08AFC3E4>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Dainty Armu"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<5201D8B6>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Fluffy Armu"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<4C22E02C>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pensive Armu"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<716D21F9>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Flirty Armu"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<95668711>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Loner Armu"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<E1327708>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Gourmet Armu"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<4824D787>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Rascally Ardun"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<8CDC907B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Easygoing Ardun"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<3E6FF9D3>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Indulgent Ardun"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<BBBF695A>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Innocent Ardun"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<1DFA8E88>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Considerate Ardun"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<7D4DA422>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Gallant Ardun"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<D6639B50>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Sensible Ardun"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<740CB864>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Gentle Ardun"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<46802DF1>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Impatient Ardun"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<08046EF5>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Adamant Ardun"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<7C0537E8>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Serious Ardun"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<52F82A13>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Cool Ardun"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<201E2D92>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Excitable Ardun"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<D23729C7>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Cleanly Ardun"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<CEED3A24>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Chief"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<B9FACDC7>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Acting Commander"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<E9774BE7>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Commander"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<E91DD6EF>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Elder"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<710C0516>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Queen of Keves"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<8DFF1DC3>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Queen of Agnus"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<4ED5A6C0>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Consul"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<37BF805A>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Dungeon Architect"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<8664BC06>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Traveling Traderpon"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<10CC9630>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Gourmet Travelpon"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<E668F8D7>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Permalost Fungal Ace"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<612B562D>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Saomi's Dogsbody"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<9C450C65>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Irrepressible Explorer"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<9B23A6B0>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "City Warrior"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<DC8B59B7>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Ex-Kevesi Soldier"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<94C41E24>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Ex-Agnian Soldier"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<CE5FB466>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Junior Mechanic"
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<B58DE014>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Senior Mechanic"
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<F83641E9>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Plucky Rookie Soldier"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<3B669300>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Up-and-Coming Chef"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<16CB9470>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Matthew's Disciple"
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<BD0351F6>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Old-Timey Luthier"
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<1E6E0022>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Rookie of Few Words"
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<F890A29B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Ex-Kevesi Supply Pro"
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<2B6576C6>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Ex-Agnian Supply Pro"
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<5DAE5C73>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Supply Manager"
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<0B58629A>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Prodigal Sonnypon"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<DCF04C3E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Matthew's Best Mate"
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<960442A3>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Stressed Mechanic"
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<97AA86E4>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Anxious Oldster"
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<9D22C708>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Hot-Blooded Rookie"
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<017211D4>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Mighty Metalworker"
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<19063E24>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Obliging Ex-Instructor"
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<926E59CD>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Bright Little Sister"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<679BAF2B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Fresh-Faced Artisan"
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<B6633EEB>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Matthew's Old Pal"
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<B1B37D92>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Kind Older Brother"
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<6B19B6DE>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Grizzled Lone Volff"
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<8584DE07>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Peculiar Fan of Nopon"
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<93CE85D4>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Talented Mechanic"
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<3768EB22>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Shulk's Disciple"
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<D7BE96C2>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Rex's Disciple"
+    }
+  ]
+}

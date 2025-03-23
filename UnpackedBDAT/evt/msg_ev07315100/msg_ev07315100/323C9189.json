@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<0B5345E3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ghondor!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<FAD199B0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What is it now?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B0CDB6CB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And can you not use that name?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<9E8E5628>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We're ready to launch a full offensive on Origin."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<2E290037>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Back us up!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<695E944F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Mother, dear..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<738AB3FE>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Like I wasn't gonna do that anyway!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<C2B21A9B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Our main goal is ultimately defense."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<4CB97CC8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Only destroy weapons on the outer rim."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<803BE3D6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Noah and the others are heading for the core."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<8A33C961>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Leave the middle intact."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<9CD63698>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Screw that up and we can't\nrestore the world, right?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<92BFAD16>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Roger, Wilco!"
+    }
+  ]
+}

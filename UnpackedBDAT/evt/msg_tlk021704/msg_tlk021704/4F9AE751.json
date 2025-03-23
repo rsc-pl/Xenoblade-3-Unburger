@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<00E57BB3>",
+      "<ACF3531A>": "aW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Jaggar be cut from the selfsame\nsailcloth as ye, that be certain."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<64170160>",
+      "<ACF3531A>": "aW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Jaggar's way o' looking at things is this:\nLife may be long, may be short, but what\nmatters is what you live it for. Same as ye!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<56FFC777>",
+      "<ACF3531A>": "aW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Aye, the right purpose o' life is to make it\nfull and rich, and make the folks around\nyou strong and sturdy."
+    }
+  ]
+}

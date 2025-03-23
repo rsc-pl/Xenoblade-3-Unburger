@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<52B11F36>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, so what happened with the\nAuto-Levs in the end?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<B5B28FB7>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33184,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I heard people discussing it on the road.\nThere's only one left, apparently, and it's\ndefending the upper level."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<9814EBBF>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, it's Moraine."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<F76F50FA>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I hope she doesn't push herself too hard..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<3F6E3253>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Lambda's all about cooperative effort.\nAnd they're well run."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<EC7E41BB>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Agnus may have the numbers,\nbut I can't imagine they'll be that\ntough an opponent."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<1A29B6AE>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Absolutely, Lambda's cohesion and firm\nleadership is a force to be reckoned with."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<F8C65D52>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But there's an odd...fatigue\nabout the colony right now."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<08E44050>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I don't know if they're just exhausted by\nthe work that the broken Flame Clock\nbrought on, or if it's something else."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<B6FC6C64>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Perhaps the combat and supply units\naren't quite working in concord."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<93981451>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, yeah. They have been trying\nto find a niche outside war. Fixing\nAuto-Levs, ether mining, all that..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<2F749526>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right. And all of those little things\nbuild up into stress."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<46378CC3>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There's a lot more to worry about,\nbut it's all moot if we can't win this\nbattle now."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<D59CFAC5>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah. Let's see what we\ncan do on that front, then."
+    }
+  ]
+}

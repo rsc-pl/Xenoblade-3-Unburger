@@ -1,0 +1,134 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<7720C913>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Here's something that's been bugging me...\nWhy did No. 9 have an off-seer's flute?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<63D3B237>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Here's something that's been bugging me...\nWhy did Fline have an off-seer's flute?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<19D995EF>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 12599425,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You know what, I asked her later, actually.\nShe said she was trying to become one."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<0FB0C1D6>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Unlike other colonies, Colony 0\nnever had an off-seer, apparently."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<1138FEF4>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...So she's been trying to send on\nher fallen comrades herself?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<1312E8CF>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whoa... What a good egg, that one!\nThorny demeanor notwithstanding..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<EFB28CC4>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If she cares deeply about others,\nthat might be exactly why she gets\nemotional and overwhelmed so easily."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<5E920DF7>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah! I really, really get that...\nI just wish she'd open up to us a bit more."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<565EE581>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 18890882,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Slow and steady wins the race, Sena.\nYou'll just have to be patient with her."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<B0BD08DF>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33168,
+      "<2B51649C>": 10502273,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, I know..."
+    }
+  ]
+}

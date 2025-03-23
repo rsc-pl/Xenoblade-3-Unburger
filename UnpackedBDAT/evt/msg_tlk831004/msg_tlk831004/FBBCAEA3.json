@@ -1,0 +1,104 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<A569CDF0>",
+      "<ACF3531A>": "qq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, that reminds me..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<3715D2B2>",
+      "<ACF3531A>": "qq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If we do succeed in mass-producing\nAutomatons, we're thinking of sharing\nthem with the people of the City."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<44A93189>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Really? You're OK with that?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<BB3FDAFC>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I requested this personally.\nI imagine they'll be vital assets\nsomewhere down the line."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<06FA64C1>",
+      "<ACF3531A>": "qq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "When we do, someone might have to\nvisit the City to perform maintenance\nevery now and then, though..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<F6878021>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No worries. We'll be glad to have you.\nLooking forward to it, Hamill!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<36813393>",
+      "<ACF3531A>": "qq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "R-right! Leave it to me!"
+    }
+  ]
+}

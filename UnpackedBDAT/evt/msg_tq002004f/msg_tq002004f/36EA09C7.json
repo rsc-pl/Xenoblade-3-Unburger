@@ -1,0 +1,634 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<A173AB83>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I've seen a few colonies with\ndwindling Flame Clocks before,\nbut this one is especially bizarre..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<B1103175>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's like they're not trying to survive\nhere at all... Do you get that impression?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<8DF2CE62>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Back when I was stationed at Lambda,\nI'd heard rumors about Colony Tau."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<D13489B1>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What did they say?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<271BA320>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That deep in the forest, there's a\ncolony with some very peculiar\ncustoms and traditions."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<1507EDDA>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This is my first time seeing it in\nreality, but I never expected it to\nbe so run-down..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<23E45F6E>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Did you have any dealings with it?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<781AD81E>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "None at all. This is just hearsay\nfrom Commander Isurd."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<407BAF22>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Anyway, we should hurry. Let's smash\nthe Flame Clock and free everyone."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<CD209B93>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It being an abandoned colony,\nwe are continually starved of\nsufficient life sources."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<60F3BED7>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wait... Are you the commander?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<18D3F0CA>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's right. Sorry I failed to\ntell you before. I am Juniper,\nand it's my job to lead Colony Tau."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<7CE04187>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If that's so, then surely\nyou must know who we are."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<5DA7B805>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm afraid I know nothing."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<80DF999B>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Huh."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<EFF02B7F>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We have no need of such information."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<62D3F243>",
+      "<ACF3531A>": "_c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Juniper told us we'd welcome you in,\nwhoever you might turn out to be."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<ACF6D488>",
+      "<ACF3531A>": "_c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So that's the rule. We don't ask questions."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<BBAFE816>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33041,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But you attacked us back there!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<878EC91C>",
+      "<ACF3531A>": "_c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Our scouts told us about some monsters\nin the forest they'd never seen before, so\nwe sent them out on a hunt."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<041837D6>",
+      "<ACF3531A>": "_c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But then they bumped into you en route.\nThey must've figured it'd be more\nefficient to get you out of the way first."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<8E4518D5>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Though contrary to our plan,\nwe were made to retreat."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<ED9CEDB2>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh yeah, what about your Consul?\nWhere are they hiding?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<7E0FBFBA>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I told you, this is an abandoned colony.\nOur Consul rarely visits us."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<58B104D5>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're in such a strange situation..."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<25187A4E>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All the more reason to get you\nout of this predicament!"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<93C406F8>",
+      "<ACF3531A>": "_c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think you guys are getting the\nwrong end of the stick here."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<5B4E52A2>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<181CE007>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's true. We aren't afraid of Colony Tau's\nFlame Clock running out."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<A904090B>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All it means is the end of our days\ngazing at our ever-diminishing supply."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<C958BF05>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But you could die!"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<92722F0E>",
+      "<ACF3531A>": "_c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh-huh. As if we'd just let you waltz in\nand break our Flame Clock."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<C024CE87>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We all have to perish someday."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<12134F8E>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If our lives should expire, then we'll sink\ninto silence, darkness...oblivion."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<F6DE94DE>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll return to the earth..."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<B3D46F1C>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<E1EAE379>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, but...! You can't just...!"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<32CCD42E>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The land will take us, and\nwe will simply \"be\"."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<0FE9272C>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's how it is at Colony Tau.\nNo one will ever think of us,\nand yet here we are."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<F872B63E>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Slowly but surely,\nwe are withering."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<13E424AB>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We don't always find the nutrition\nthat we need to live."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<F18EBE86>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If Colony Tau cannot accumulate\nthe vital flames it needs, then it proves\nonly that we were too weak."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<734C236A>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And in nature, the weak are\ndestined to perish."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<1BE55344>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Though logic would dictate that nature\nis pushing you to become stronger."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<BA2AB2CE>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If we set you free, you won't\nhave to worry about all this crap."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<D115BFFE>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We neither worry nor fear for\nwhat may come to pass."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<37FFEB8F>",
+      "<ACF3531A>": "_c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We've already lost so many\nof our friends and allies."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<21DE4B27>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And every time, we returned\ntheir bodies to the earth."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<F90952C5>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Such will be our fate."
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<9C02B143>",
+      "<ACF3531A>": "_c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What's the point in fearing\nthe inevitable?"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<83250AF7>",
+      "<ACF3531A>": "_c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We know we're gonna die.\nWhat's wrong with us living the\nway we always have?"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<BDCBA2B4>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But how do you live without hope?"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<6270B890>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It will spell the end of the story that our\npredecessors weaved for generations...\nA tale cut short."
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<2FC1E192>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I won't argue that it feels\na little melancholy..."
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<CF69B422>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In that sense, if we were to be freed\nfrom the Flame Clock, then..."
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<1719D5E0>",
+      "<ACF3531A>": "Wd1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Juniper, bad news!"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<F1DD8C54>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Tell me."
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<E03F85BB>",
+      "<ACF3531A>": "Wd1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The monsters're coming straight\nfor the colony! And they already\ntook one of us down!"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<FD1FD6B2>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No... They came all the way here?!"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<BBCF6B10>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33065,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll join you!"
+    }
+  ]
+}

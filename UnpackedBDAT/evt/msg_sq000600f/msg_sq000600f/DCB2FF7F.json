@@ -1,0 +1,224 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B64A48C2>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Since we're already out here gathering\nfood, we could think about building up\na reserve of stuff that'll keep for a while."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<9828A664>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's a good idea. What would that be...?\nMushrooms, nuts, that sort of thing?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<526A182D>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm on it!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<C7D65009>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "By the way, when the Tirkins got into\nour camp, did no one seriously notice?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<FA61BF90>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nope! Not even slightly.\nNot even a tiny little bit."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<F88FAC1E>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Riku was busy sawing logs all last night."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<898E20A5>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I'm sorry, you guys."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<B8D8E76F>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'd walked a lot yesterday.\nI'm sure you were just super pooped."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<36587180>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You'd never miss something as obvious\nas Tirkin footsteps on a good day, Mimi!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<18C3E718>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think it's safe to say we were all partially\nguilty of negligence this time."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<6C52D44E>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Indeed."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<50F51371>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "However, we should also reconsider our\nstorage arrangements, for the future."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<60FF5FE0>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah well, it's water under the bridge now.\nNo point talking locks after the Ardun's\nalready bolted, am I right?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<3755B137>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's just get to the searching already."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<D3BAA5FB>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Very well."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<C256C908>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, is that...?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<61E81D9B>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "An Anlood!"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<B6DA2DAB>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's hard to fill up on mushrooms alone...\nI say we hunt us some meat, as well."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<B1D4EA16>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Woo-hoo! I love me some hunter-gathering!"
+    }
+  ]
+}

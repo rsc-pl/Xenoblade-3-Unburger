@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<4F489506>",
+      "<ACF3531A>": "YY1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, Lanz! I need you to beat me up!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<630E5EBE>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...What? What are you on about, mate?\nYou got knocked on the head or somethin'?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<A697EB81>",
+      "<ACF3531A>": "YY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Defenders get hit a *lot*! So hit\nme and help me get stronger!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<4E513B07>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're bursting with energy, as usual...\nDon't you get tired being so hyped up?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<62144D2F>",
+      "<ACF3531A>": "YY1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whaddaya mean?! I have to stand out!\nThat's what a Defender *does*! I'm gonna\nget even *more* hyped up now!!!"
+    }
+  ]
+}

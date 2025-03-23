@@ -1,0 +1,194 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<BF11D585>",
+      "<ACF3531A>": "XZ1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Gah... Uh... Retreat, fall back!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<11D37E1B>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What is with everyone?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<66060B65>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, it's getting kinda ridic\nby this point..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<2BAF2EF3>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We learned something pretty\ninteresting, though."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<75591DBC>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah. They said they'd been looking\nfor the man we fought against earlier."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<3FFA7C67>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I wonder what happened...?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<482A234F>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If Keves is after him, then maybe\nhe wasn't our enemy after all?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<70338B84>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll remind you he did attack us, mate."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<D37FBFF4>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, that does make it hard to classify him\nas an ally. Some kind of deserter, perhaps?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<6A66E6AD>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, if he jumped in the river,\nhe'll have been carried downstream."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<1D1EA1AE>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We could try and catch him at the bottom.\nFigure out what's what."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<10B005C3>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He may yet prove hostile, though..."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<8DCF7031>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If he does, then we whack him!\nAnd if he doesn't, we listen to what\nhe says. Great plan, or what?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<72AC7A97>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I... Does that qualify as a \"plan\" to you?\nA plan takes forethought, and...planning.\nWhat you did is post-hoc rationalize your..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<9F21ACC3>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ugh... What do you think?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<A5D7D3CE>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Let's go and see."
+    }
+  ]
+}

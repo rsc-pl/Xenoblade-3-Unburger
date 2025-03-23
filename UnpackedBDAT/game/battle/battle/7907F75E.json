@@ -1,0 +1,1554 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<6D1EFEF9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Max HP Up"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<91C7F8AB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Attack Up"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<5DD0EF12>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Healing Up"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<DE7876EF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dexterity Up"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<A3579406>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Agility Up"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<62FD4FFF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Critical Rate Up"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<CC5F83E4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Physical Defense Up"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<BB29DF32>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ether Defense Up"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<182BDBB0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Block Rate Up"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<CC48B527>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Max HP Plus"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<B877069B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Attack Plus"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<3471C12D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Healing Plus"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<128F0EB6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dexterity Plus"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<29A697CF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Agility Plus"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<73B3E4E6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Critical Rate Plus"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<259A5348>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Physical Defense Plus"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<6F829469>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ether Defense Plus"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<5D8C043B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Block Rate Plus"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<0BE1E4AF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Species Expert"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<51824655>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Counter"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<94D6955B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Evasion Counter"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<9DAC21B7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto-Attack Heal: Self"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<C1EA5FD0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Critical Hit Plus"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<31E07B83>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Double Attack"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<1BBC16A5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Front Attack↑"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<0E068B20>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Side Attack↑"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<D98F820E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Back Attack↑"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<7CFA841F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Toppled↑"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<EBA7E958>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Launched↑"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<3B3ADA0D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Smash Effect Up"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<EED87816>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dazed↑"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<D066B83E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Burst Effect Up"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<9855BBC2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Challenger"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<924A10C8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Avenger"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<F54AED35>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Unblockable"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<B20B2C95>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (HP Low)"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<FF94BC38>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (HP High)"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<62966247>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Kick-Starter"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<71FA41D6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Enemy KO Damage Up"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<6F38B7C5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Break Duration Up"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<A70909A5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Topple Duration Up"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<4CD2D3F1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Launch Duration Up"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<7EAD0D56>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Daze Duration Up"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<56D5E7E1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto-Attack Up"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<72814751>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto-Attack Critical Rate Up"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<91E1E7C5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto-Attack Accuracy Up"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<D06DE1C2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aggroed↑"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<CA462C0A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Indoors↑"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<E1ED9598>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Outdoors↑"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<B110FE61>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Break Resist Down"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<A93F6C66>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perfect Shield"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<7A13A36B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Physical Absorb"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<B4A648F2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ether Absorb"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<08A3F690>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shield Spike"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<953BD12F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Reflector Shield"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<0842ECE7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Evasion Up (Low HP)"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<9A75EB0B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Evasion Up (Mobile)"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<6F5559BA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Evasion Up (Stationary)"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<F2184DAA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Evasion Up (Art)"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<876585BF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Block Rate Plus (Low HP)"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<9B443389>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fortitude (Low HP)"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<10055014>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Break Resist"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<C72F4A18>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Topple Resist"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<02F8D3C0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Launch Resist"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<1D0B008F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Smash Resist"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<DCEF292C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Daze Resist"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<B99ED6A0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Blowdown Resist"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<60A34383>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Knockback Resist"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<F59A3982>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Slower Auto-Attack Aggro"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<474B4046>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Faster Auto-Attack Aggro"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<0322218A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Slower Arts Aggro"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<49BA20B1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Faster Arts Aggro"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<E412DDEE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aggro Reduction Up"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<B34F4B42>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto Aggro Up"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<61B4E685>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aggro Starter"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<0AD883FB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Faster Damage Aggro"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<89B3D607>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rescue HP Up: Other"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<D7255576>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Arts Heal"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<F2864C24>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Healing Arts Up"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<B0E62971>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Slower Healing Aggro"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<156E7CD2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "HP Recovery Up"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<B39D4A2F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Heal: Self"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<27DCCC02>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Heal: Allies"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<F9880ABA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cancel Up"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<808296C3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Unbeatable"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<F386C8FA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Night Vision"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<C91EACAF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sunlight Eye"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<C5AD5215>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Buff Effect Up"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<718ED3B8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Longer Buff Timers"
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<157C9E90>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Debuff Effect Up"
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<B8636240>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Longer Debuff Timers"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<71548CCD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Debuff Success Rate Plus"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<63838943>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chain Gauge Up (Critical)"
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<073CA3B4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chain Gauge Up (Art)"
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<3751A0E7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Enemy Count Damage Up"
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<19327092>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ranged Attack Range Up"
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<9A868D3A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "KO Heal: Allies"
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<19142CFA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Anti-Deflection"
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<B53CB261>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Instant KO (Low HP)"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<80169CC1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accuracy/Evasion Up: Allies"
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<0275601E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Slower Attack Aggro"
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<662E6768>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "All Defenses Plus"
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<72C9E42F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perfect Hit/Evasion"
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<03AEB9CB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Reflection"
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<F2BA2BEE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Toppled/Launched↑"
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<E5797531>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Enemy KO Heal: Allies"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<B86BC0DA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Power Up (Dire Battle)"
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<F906853D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Resist Combo Reaction"
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<940476CC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Unique/Boss↑"
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<23AF7596>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Continuous Arts"
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<8090A2BD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Piercing Attacks"
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<85CE8845>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto-Attack Speed Up"
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<BD9972E7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto-Attack Twofold Haste"
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<E385D94E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Recover Recharge (Critical)"
+    },
+    {
+      "$id": 115,
+      "<8C7DD24D>": "<B3C4D509>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Regeneration (Low HP)"
+    },
+    {
+      "$id": 116,
+      "<8C7DD24D>": "<332D759B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (Talent Art)"
+    },
+    {
+      "$id": 117,
+      "<8C7DD24D>": "<95D17EEF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Counter: Reaction"
+    },
+    {
+      "$id": 118,
+      "<8C7DD24D>": "<F35FAEF2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bigger Cancel Window"
+    },
+    {
+      "$id": 119,
+      "<8C7DD24D>": "<177A10F9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ranged Evasion"
+    },
+    {
+      "$id": 120,
+      "<8C7DD24D>": "<8E440671>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hold Aggro (Self KO)"
+    },
+    {
+      "$id": 121,
+      "<8C7DD24D>": "<84DFCC0F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (Ally KO)"
+    },
+    {
+      "$id": 122,
+      "<8C7DD24D>": "<422B3469>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Attack Shift"
+    },
+    {
+      "$id": 123,
+      "<8C7DD24D>": "<C5A3DBD8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Defense Shift"
+    },
+    {
+      "$id": 124,
+      "<8C7DD24D>": "<25C02BBC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Debuff Resist: All"
+    },
+    {
+      "$id": 125,
+      "<8C7DD24D>": "<470A8750>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shorter Debuff Timers"
+    },
+    {
+      "$id": 126,
+      "<8C7DD24D>": "<2014A202>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (Cancel)"
+    },
+    {
+      "$id": 127,
+      "<8C7DD24D>": "<FE661883>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soul Hacking"
+    },
+    {
+      "$id": 128,
+      "<8C7DD24D>": "<3C8F1800>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (Enemy Arts)"
+    },
+    {
+      "$id": 129,
+      "<8C7DD24D>": "<D06DA04B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accuracy Up (Enemy Arts)"
+    },
+    {
+      "$id": 130,
+      "<8C7DD24D>": "<A5BFE43C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wounded Enemy↑"
+    },
+    {
+      "$id": 131,
+      "<8C7DD24D>": "<9C695464>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accuracy Up (Miss)"
+    },
+    {
+      "$id": 132,
+      "<8C7DD24D>": "<5DC59D39>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Debuffed Enemy↑"
+    },
+    {
+      "$id": 133,
+      "<8C7DD24D>": "<78F5BEB0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Bomb (Self KO)"
+    },
+    {
+      "$id": 134,
+      "<8C7DD24D>": "<150B41C3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Party Recharge (Self KO)"
+    },
+    {
+      "$id": 135,
+      "<8C7DD24D>": "<F5CCFF8C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Perfect Hit (Cancel)"
+    },
+    {
+      "$id": 136,
+      "<8C7DD24D>": "<B2073205>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fortitude (Art Duration)"
+    },
+    {
+      "$id": 137,
+      "<8C7DD24D>": "<FCD03A74>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (Full Recharge)"
+    },
+    {
+      "$id": 138,
+      "<8C7DD24D>": "<4FA3D7CE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Persistent Damage Up"
+    },
+    {
+      "$id": 139,
+      "<8C7DD24D>": "<BFDD1F28>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sequential Auto-Attack Up"
+    },
+    {
+      "$id": 140,
+      "<8C7DD24D>": "<8E5B7989>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Stance Duration Up"
+    },
+    {
+      "$id": 141,
+      "<8C7DD24D>": "<6C4ABA0E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Buff Heal"
+    },
+    {
+      "$id": 142,
+      "<8C7DD24D>": "<7B3C4105>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tender Auto-Attack"
+    },
+    {
+      "$id": 143,
+      "<8C7DD24D>": "<D0560D80>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tender Arts"
+    },
+    {
+      "$id": 144,
+      "<8C7DD24D>": "<166E55F4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fusion Arts Up"
+    },
+    {
+      "$id": 145,
+      "<8C7DD24D>": "<207B9B96>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aggro Reduce Up (Targeted)"
+    },
+    {
+      "$id": 146,
+      "<8C7DD24D>": "<348054A6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Draw Aggro (Evasion)"
+    },
+    {
+      "$id": 147,
+      "<8C7DD24D>": "<863964C0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Incremental Damage Up"
+    },
+    {
+      "$id": 148,
+      "<8C7DD24D>": "<0163228D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Preemptive Buff"
+    },
+    {
+      "$id": 149,
+      "<8C7DD24D>": "<F347E848>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (Buff No.)"
+    },
+    {
+      "$id": 150,
+      "<8C7DD24D>": "<DBA798C3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aerial Recovery"
+    },
+    {
+      "$id": 151,
+      "<8C7DD24D>": "<C41BACD2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Risky Recharge Up"
+    },
+    {
+      "$id": 152,
+      "<8C7DD24D>": "<CDD704FD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (Elem. Discharge)"
+    },
+    {
+      "$id": 153,
+      "<8C7DD24D>": "<A854DD5A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "EX Damage (Base Attack)"
+    },
+    {
+      "$id": 154,
+      "<8C7DD24D>": "<4F224AA3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "EX Damage (Base Healing)"
+    },
+    {
+      "$id": 155,
+      "<8C7DD24D>": "<0EFBD20C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (Ally Heal)"
+    },
+    {
+      "$id": 156,
+      "<8C7DD24D>": "<BC646343>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Prevent Attack: Nearby Allies"
+    },
+    {
+      "$id": 157,
+      "<8C7DD24D>": "<20AC328A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Field Duration Up"
+    },
+    {
+      "$id": 158,
+      "<8C7DD24D>": "<1CF2391E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Field Damage Up"
+    },
+    {
+      "$id": 159,
+      "<8C7DD24D>": "<0C5D9947>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Field Dissolution Dmg. Up"
+    },
+    {
+      "$id": 160,
+      "<8C7DD24D>": "<0F4CA061>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Enable Rescue"
+    },
+    {
+      "$id": 161,
+      "<8C7DD24D>": "<A0B7F67B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Evasion Chance"
+    },
+    {
+      "$id": 162,
+      "<8C7DD24D>": "<A2190E50>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Physical Damage Up"
+    },
+    {
+      "$id": 163,
+      "<8C7DD24D>": "<CCE308A9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ether Damage Up"
+    },
+    {
+      "$id": 164,
+      "<8C7DD24D>": "<509FF5B6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Reaction Success Up"
+    },
+    {
+      "$id": 165,
+      "<8C7DD24D>": "<59186159>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Talent Art Starter"
+    },
+    {
+      "$id": 166,
+      "<8C7DD24D>": "<435E8E16>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Unity Special Starter"
+    },
+    {
+      "$id": 167,
+      "<8C7DD24D>": "<A4189E0A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Guard Efficiency Up"
+    },
+    {
+      "$id": 168,
+      "<8C7DD24D>": "<DE1B5883>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Combo HP Heal: Allies"
+    },
+    {
+      "$id": 169,
+      "<8C7DD24D>": "<1983A013>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pierce Physical Defense"
+    },
+    {
+      "$id": 170,
+      "<8C7DD24D>": "<5EEAA6E5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pierce Ether Defense"
+    },
+    {
+      "$id": 171,
+      "<8C7DD24D>": "<3C759404>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Critical Rate Up (Hit)"
+    },
+    {
+      "$id": 172,
+      "<8C7DD24D>": "<63651E5E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Healing Up (Debuff Clear)"
+    },
+    {
+      "$id": 173,
+      "<8C7DD24D>": "<BF7A8F4D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (Buff)"
+    },
+    {
+      "$id": 174,
+      "<8C7DD24D>": "<D13DACC6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (Debuff)"
+    },
+    {
+      "$id": 175,
+      "<8C7DD24D>": "<176333C1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Nearby Ally Fortitude"
+    },
+    {
+      "$id": 176,
+      "<8C7DD24D>": "<637BF533>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Awaken (Damage Stack)"
+    },
+    {
+      "$id": 177,
+      "<8C7DD24D>": "<D11A3768>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Attack Up: All Allies"
+    },
+    {
+      "$id": 178,
+      "<8C7DD24D>": "<77169F6F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Elemental Up"
+    },
+    {
+      "$id": 179,
+      "<8C7DD24D>": "<150C2F9E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Def./Recovery Up: All Allies"
+    },
+    {
+      "$id": 180,
+      "<8C7DD24D>": "<282B72DC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rescue Buff"
+    },
+    {
+      "$id": 181,
+      "<8C7DD24D>": "<A2151C7C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pierce Defense (Critical)"
+    },
+    {
+      "$id": 182,
+      "<8C7DD24D>": "<817965D4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Extend Combo Time (Art Hit)"
+    },
+    {
+      "$id": 183,
+      "<8C7DD24D>": "<5DE38DED>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Evasion Up (Targeted)"
+    },
+    {
+      "$id": 184,
+      "<8C7DD24D>": "<2CA18775>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Slower Debuff Expiry"
+    },
+    {
+      "$id": 185,
+      "<8C7DD24D>": "<DB6E3F43>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Slower Buff Expiry"
+    },
+    {
+      "$id": 186,
+      "<8C7DD24D>": "<BF5D66B3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Negate Combo Reaction (Art)"
+    },
+    {
+      "$id": 187,
+      "<8C7DD24D>": "<CF010569>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (Targeted No.)"
+    },
+    {
+      "$id": 188,
+      "<8C7DD24D>": "<5F098ADE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Debuff Resist"
+    },
+    {
+      "$id": 189,
+      "<8C7DD24D>": "<FE2515DC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Arts Link"
+    },
+    {
+      "$id": 190,
+      "<8C7DD24D>": "<2D108211>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Recover Recharge (Ene. KO)"
+    },
+    {
+      "$id": 191,
+      "<8C7DD24D>": "<1261DFB0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (Critical)"
+    },
+    {
+      "$id": 192,
+      "<8C7DD24D>": "<B339B728>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Critical Up (Launched)"
+    },
+    {
+      "$id": 193,
+      "<8C7DD24D>": "<8AF374FA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Recharge Rec. Up (Danger)"
+    },
+    {
+      "$id": 194,
+      "<8C7DD24D>": "<088C46FD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Reduce Aggro (Ally KO)"
+    },
+    {
+      "$id": 195,
+      "<8C7DD24D>": "<BF952551>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Evasion Buff"
+    },
+    {
+      "$id": 196,
+      "<8C7DD24D>": "<36AD59B4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Target Lock (Danger)"
+    },
+    {
+      "$id": 197,
+      "<8C7DD24D>": "<77DF9561>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (Time)"
+    },
+    {
+      "$id": 198,
+      "<8C7DD24D>": "<3D0A3383>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Reduce Aggro (Auto-Attack)"
+    },
+    {
+      "$id": 199,
+      "<8C7DD24D>": "<1C04BB3D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Critical Rate + Damage Up"
+    },
+    {
+      "$id": 200,
+      "<8C7DD24D>": "<DB74BC99>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Emergency Rescue"
+    },
+    {
+      "$id": 201,
+      "<8C7DD24D>": "<604E296C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (Unharmed)"
+    },
+    {
+      "$id": 202,
+      "<8C7DD24D>": "<6B992968>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Enemy KO Buff"
+    },
+    {
+      "$id": 203,
+      "<8C7DD24D>": "<3EF29E7E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Extreme Attack Shift"
+    },
+    {
+      "$id": 204,
+      "<8C7DD24D>": "<1A5C7AFB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto-Atk Spd Up (Same Role)"
+    },
+    {
+      "$id": 205,
+      "<8C7DD24D>": "<A23ABB6D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Attacker Mastery"
+    },
+    {
+      "$id": 206,
+      "<8C7DD24D>": "<044B32D0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Defender Mastery"
+    },
+    {
+      "$id": 207,
+      "<8C7DD24D>": "<C474F9F2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Healer Mastery"
+    },
+    {
+      "$id": 208,
+      "<8C7DD24D>": "<60E6C06A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rushed Healing Arts"
+    },
+    {
+      "$id": 209,
+      "<8C7DD24D>": "<343FADB3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ally KO Buff"
+    },
+    {
+      "$id": 210,
+      "<8C7DD24D>": "<6C5C4A46>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fortitude (No Arts Ready)"
+    },
+    {
+      "$id": 211,
+      "<8C7DD24D>": "<06A293F9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Recover Recharge (Ally KO)"
+    },
+    {
+      "$id": 212,
+      "<8C7DD24D>": "<048C4AEF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Block Recharge"
+    },
+    {
+      "$id": 213,
+      "<8C7DD24D>": "<78616A08>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Recover HP (Low HP)"
+    },
+    {
+      "$id": 214,
+      "<8C7DD24D>": "<2292E562>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Target Lock (Revival)"
+    },
+    {
+      "$id": 215,
+      "<8C7DD24D>": "<DC62EDEF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Power Up (Revival)"
+    },
+    {
+      "$id": 216,
+      "<8C7DD24D>": "<5B2CB07D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Transfer"
+    },
+    {
+      "$id": 217,
+      "<8C7DD24D>": "<FB0B7B80>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Attack AOE Range Up"
+    },
+    {
+      "$id": 218,
+      "<8C7DD24D>": "<72A64016>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Attack AOE Range + Dmg Up"
+    },
+    {
+      "$id": 219,
+      "<8C7DD24D>": "<37D4EFE9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Reaction Recharge"
+    },
+    {
+      "$id": 220,
+      "<8C7DD24D>": "<4D73A1B4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (In Water)"
+    },
+    {
+      "$id": 221,
+      "<8C7DD24D>": "<2C5D3D5A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Recharge Up (In Water)"
+    },
+    {
+      "$id": 222,
+      "<8C7DD24D>": "<2F63C9DB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (On Land)"
+    },
+    {
+      "$id": 223,
+      "<8C7DD24D>": "<846C9B7E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Recharge Up (On Land)"
+    },
+    {
+      "$id": 224,
+      "<8C7DD24D>": "<F45028E8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Damage Up (Self Debuff)"
+    },
+    {
+      "$id": 225,
+      "<8C7DD24D>": "<EA8E0DDB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fortitude (Enemy KO)"
+    },
+    {
+      "$id": 226,
+      "<8C7DD24D>": "<E3A82414>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cover Low HP Allies"
+    },
+    {
+      "$id": 227,
+      "<8C7DD24D>": "<D9BB5B85>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ranged Counter"
+    },
+    {
+      "$id": 228,
+      "<8C7DD24D>": "<684B28EB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Quick Move Evasion Up"
+    },
+    {
+      "$id": 229,
+      "<8C7DD24D>": "<6D18E312>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Quick Move Damage Up"
+    },
+    {
+      "$id": 230,
+      "<8C7DD24D>": "<359AF0FB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Quick Move AOE Damage"
+    },
+    {
+      "$id": 231,
+      "<8C7DD24D>": "<4A7B7D9E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Faster Interlink Level Gain"
+    },
+    {
+      "$id": 232,
+      "<8C7DD24D>": "<52C85566>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Recover Recharge (Rescue)"
+    },
+    {
+      "$id": 233,
+      "<8C7DD24D>": "<2DA05422>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Starting Master Arts"
+    },
+    {
+      "$id": 234,
+      "<8C7DD24D>": "<768DB15E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Starting Ouroboros Powers"
+    },
+    {
+      "$id": 235,
+      "<8C7DD24D>": "<CB9F868C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Class Aptitude Up"
+    },
+    {
+      "$id": 236,
+      "<8C7DD24D>": "<56F1B268>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Extra Positional Arts"
+    },
+    {
+      "$id": 237,
+      "<8C7DD24D>": "<C5CA8916>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Extra Field Arts"
+    },
+    {
+      "$id": 238,
+      "<8C7DD24D>": "<DE61B570>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Absorb Attacks in Range"
+    },
+    {
+      "$id": 239,
+      "<8C7DD24D>": "<414EB577>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Starter TP Plus"
+    },
+    {
+      "$id": 240,
+      "<8C7DD24D>": "<E46CC4FF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fast Rescue & Healing Plus"
+    },
+    {
+      "$id": 241,
+      "<8C7DD24D>": "<A596BB52>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rescue HP & Healing Plus"
+    },
+    {
+      "$id": 242,
+      "<8C7DD24D>": "<2AA0210E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 243,
+      "<8C7DD24D>": "<A57F564A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 244,
+      "<8C7DD24D>": "<298E42CF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Recover HP: Self (Evasion)"
+    },
+    {
+      "$id": 245,
+      "<8C7DD24D>": "<74959112>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Recover Recharge (Evasion)"
+    },
+    {
+      "$id": 246,
+      "<8C7DD24D>": "<23677A0D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Recharge Up (Self KO)"
+    },
+    {
+      "$id": 247,
+      "<8C7DD24D>": "<39FBDE62>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Recharge (Nearby Ally Hit)"
+    },
+    {
+      "$id": 248,
+      "<8C7DD24D>": "<82B2D897>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ranged Heal (Critical)"
+    },
+    {
+      "$id": 249,
+      "<8C7DD24D>": "<34F6F136>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Critical Hit Plus: All Allies"
+    },
+    {
+      "$id": 250,
+      "<8C7DD24D>": "<BCEB26C8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Power Up (In Field)"
+    },
+    {
+      "$id": 251,
+      "<8C7DD24D>": "<605F22B3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Max Fields Up"
+    },
+    {
+      "$id": 252,
+      "<8C7DD24D>": "<A2399A09>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 253,
+      "<8C7DD24D>": "<48D996A7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Several Stats Up"
+    },
+    {
+      "$id": 254,
+      "<8C7DD24D>": "<6773F05E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Weaken Party"
+    },
+    {
+      "$id": 255,
+      "<8C7DD24D>": "<A625FEDB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Unity Combo Damage Up"
+    },
+    {
+      "$id": 256,
+      "<8C7DD24D>": "<8BE64F5B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Weakness Damage Up"
+    }
+  ]
+}

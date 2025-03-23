@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<BF316304>",
+      "<ACF3531A>": "al1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Will friends sample delights of\nemporium of Wellwell?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<7F78D469>",
+      "<ACF3531A>": "al1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wellwell stock much exotic wares,\nlike of which friends never see."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<8154C2D6>",
+      "<ACF3531A>": "al1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Novels, paintings, things of battle.\nPriceless things to make heart\nglad and rich!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<CD2955B2>",
+      "<ACF3531A>": "al1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wellwell very glad if friends draw closer\nand sample excellence of artistry!"
+    }
+  ]
+}

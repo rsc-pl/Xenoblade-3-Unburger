@@ -1,0 +1,214 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<8993639A>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, everyone... I've got something\nI've been meaning to ask you all!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<242BF5F1>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 41959553,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is it about Levnises?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<1CA9652B>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 41959553,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If so, you should probably\naddress it to Riku, not us."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<29E0AB0A>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Lanz, you are correct! And Taion,\nordinarily you would also be correct, but!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<190C3196>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I wanna know what everyone's\nfavorite Levnises are!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<FDC88EF0>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You mean, like, do I prefer\nan Equites or a Velites...?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<2F1D7E15>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Exactly!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<995A59CB>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "For me, I guess it's a Thorax.\nMakes it easier to get around."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<F513CE92>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I like Balaenas, myself.\nThey just look fun."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<E17A997C>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 14696577,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What about you, Taion?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<9B9B8A0C>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 41959553,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Gyrinus, I suppose.\nIt's on the cutting edge\nof technology."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<BFA6D66D>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Noah? Mio? Favorite Levnis?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<444382A2>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 41959553,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmm... I don't think I've ever\nlooked at Levnises through that\nparticular lens."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<FB712B10>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33200,
+      "<2B51649C>": 41959553,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Me neither..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<7EE7BB4E>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 41959553,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What's your fave, then, Valdi?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<F764F1E3>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Me? Well, obviously, it'd have to be-"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<54130404>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, we know yours already.\nNo need to say it."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<D531C9A3>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33193,
+      "<2B51649C>": 536887425,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whuh?! I wanna say it! Let me say it!"
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<E8C065E6>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Not to put too fine a point on it, but..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<2994CB7E>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Did anyone else find that man Fili\nkinda unlikeable?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<F1349494>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Man, I get what you mean...\nI felt like he was laughing at me\nthe whole time..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<BFF8E7F1>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Really? To me he seemed kinda nice..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<855500EA>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There was nothing nice about his attacks,\nI'll tell you that much."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<7F3AE551>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Did he have a soft spot for girls?\nOr maybe just hated guys? In any case,\nhe was definitely playing favorites..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<4B8438C4>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's it. It makes me wanna\nsend the mudder flying."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<1871CA42>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You already did send him flying...\nIt's true though, the guy left a stink\nthat lingers..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<B8DFE66E>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, at least now I understand.\nThank you for this rare moment\nof male bonding."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<1F79809E>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Am I being included in that, or...?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<5BDCD5A9>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Either way, Colony Iota's defenses\nshould now be a little thinner."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<CC95FAB4>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'd best stay on our guard as we go on."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<E54D5910>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "My earlier theory has morphed\ninto conviction..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<7CD41993>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Fili from Colony Iota truly is an\nobjectionable human being."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<4FF89B2A>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wow, Taion... It's rare for you to say\nsomething so emotional."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<18B5F969>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The way he instantly becomes over-\nfamiliar with any female interlocutor is a\ntrait I'd find hard to stomach in an ally."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<73B5A525>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Did I miss something...?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<C009ED89>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "When he speaks with Mio, he blithely\ninvades her personal space."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<29E2E23F>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now that you mention it...\nThat was a bit uncomfortable."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<5C7ACD0A>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll do you one better. He just went\nand grabbed me and Sena's hands\nwithout asking..."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<298B38D3>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whaaat...?\nRun that by me one more time?"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<ED13EF37>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It was just a handshake! ...I think."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<63648AE8>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He didn't shake hands with us.\nWhat makes Sena so special?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<392A0B92>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ugh, I can tell my gorge's risin' again..."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<0D262A95>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uhm... I think even Alexandria cautioned\nhim for being too flippant before..."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<2C292A33>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Maybe he's just the type of person\nthat rubs people the wrong way...?"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<4AB7A402>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, I get it. So he's adept at drawing\npeople's attention to himself."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<D2BFFF47>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sounds about right. He takes all the\naggro, but in the exact wrong sense."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<FDA15BA1>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In any case...\nFemale team members, take heed."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<E4395F62>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's all I've got to say about it."
+    }
+  ]
+}

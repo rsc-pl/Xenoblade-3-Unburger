@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<EA4255A0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I felt a lot more nimble there,\nlike the way you usually fight."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<027BAE70>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It looked like second-nature to you.\nIt was crazy."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<55D03303>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You should have seen yourself!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<78CE30DC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Hehe. I think I could've thrashed you!\nWith a little more practice..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<08E2510C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Y'know, it's totally bananas...\nOuroboros is bonkers powerful."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<D2C409D4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Right?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<E2E17CD1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ah!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<110CD287>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The gauge for the locked icon has\nfilled right up!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<95C87655>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Same here..."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<BAD19813>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "So, logically, if we gain enough experience by fighting together,\nwe will become able to use each other's classes."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<F5B70129>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That seems to be it."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<DCE6A94F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "As much as I'd like to experiment..."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<BCAAF643>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah, I guess we shouldn't stay in one place for too long."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<9E8438A1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Right."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<F7DFE528>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Well, better get ourselves down south!"
+    }
+  ]
+}

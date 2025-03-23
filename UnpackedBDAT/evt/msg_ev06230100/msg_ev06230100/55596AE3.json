@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<2D0ACD12>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "There it lies before you... Your heart's desire."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<A17A111B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "There is no life within."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<4EC5E8CD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You must breathe it into her yourself."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<173A921E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](shocked gasp)"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<685E4F55>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Life from the people of the City...?!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<1463C633>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You want me to end every one of them?!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<42DAB0B8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Why the hesitation?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<82141335>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Existing in \"this place\" is by itself\na result of your own choices."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<9C450B63>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You are the one who chose the \"endless now\", are you not?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<A29E4F01>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Your response should already be predetermined."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<EAC6CA41>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Such a shame..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<887F6520>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ah! Wait, please!"
+    }
+  ]
+}

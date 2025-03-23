@@ -1,0 +1,494 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<D4404F15>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, go do your thing!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<94515A6F>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sooner you finish, sooner we go home."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<0F1E43FF>",
+      "<ACF3531A>": "bb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There's nothing stopping you\nfrom helping too, Captain!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<3E9232D8>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, is that what you want?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<B78F0599>",
+      "<ACF3531A>": "bb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is that what I-... Give me strength!\nYou're a tenth-termer, for sparks' sakes!\nHow can you be so..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<B4429219>",
+      "<ACF3531A>": "bb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, what's going on?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<06B36294>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We were looking to pick up\nthe supply drop..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<ED65B095>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Looks like you beat us to it."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<FB26FB41>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, we knew it'd fall here."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<96B6B9A0>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "My Iris gives good forecasts\non pretty much anything."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<869E7A0C>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You know, like meeting you again\nhere like this. It was meant to be..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<E5721682>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "'Scuse me?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<5D116673>",
+      "<ACF3531A>": "bb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You need to have a handle on what\neach colony has in its possession, and\nwhat it's requested from the Castle."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<94E78C01>",
+      "<ACF3531A>": "bb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Take into account how hot the fighting is\nin each region, learn the lay of the land,\nand you can infer the good drop-off points."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<4553D7D2>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're very well-informed."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<09C927F0>",
+      "<ACF3531A>": "bb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Our intelligence is unmatched."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<FF279A73>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I find that somewhat hard to believe..."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<A6031536>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Looks like we got ourselves a doubter.\nYou'll come round, Scruff."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<15676BE8>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "\"Scruff\"?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<CD065A82>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We've got a few other drop-off points\non our radar, at Three Heroes Peak\nand Namba Mound."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<744E0A76>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Pick your poison."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<0E7E42B8>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And why the snuff do we have to\ngo around running your errands for-"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<AB9C5F36>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's tempting."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<33B7BC6C>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I had planned to verify the accuracy\nof Colony Iota's information anyway."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<9F12DD1C>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ugh, are you out of your mind?"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<292E7D4D>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, we're not strapped for resources.\nJust bring back what you find to the\ncolony and that'll be swell."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<D7F4F5D2>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Making good use of us, are you?"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<0AA71094>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Just following your example, Lexy!"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<53D39800>",
+      "<ACF3531A>": "K",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Cheeky..."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<DF16A3E2>",
+      "<ACF3531A>": "bb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "As you can see, he's lacking\nmotivation at the moment."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<B8E92436>",
+      "<ACF3531A>": "bb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Pissing about like this as a tenth-termer...\nHe's setting a terrible example to the new\nrecruits."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<E0C3F288>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, if ever there was a better time\nfor me to piss about, it's now."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<6DF05663>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It just clicked one day. Suddenly started\nwondering if this is really how I want to\ngo out, you know?"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<7586630A>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I see..."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<E505B393>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "What does Fili want?"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<0DD151D3>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "He wants to challenge his potential."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<D7D89B1E>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Are you sort of, challenging\nyour potential?"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<75EC7450>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "He wants to have more fun."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<D323DBE7>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You want to have more fun, is that it?"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<97EE6493>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Bingo. You get me, Mio."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<3CC56B94>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Are you free later? We should\ntalk more, one on one."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<AA30A88D>",
+      "<ACF3531A>": "bb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Too bad you aren't free later, Captain.\nBecause you're busy. Aren't you?"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<DDDCF627>",
+      "<ACF3531A>": "Xb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oof, Caspar... Right in the gut..."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<33F4DEF2>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They really landed at the drop points..."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<E2FCB602>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll report to Colony Iota\nwhen we're done."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<730A6E6E>",
+      "<ACF3531A>": "bb1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Apologies for...everything.\nThanks for this."
+    }
+  ]
+}

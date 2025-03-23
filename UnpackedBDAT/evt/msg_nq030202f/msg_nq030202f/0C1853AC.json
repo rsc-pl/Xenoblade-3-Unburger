@@ -1,0 +1,284 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<195811A6>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There favorite customer of Wheelideeli!\nCome in, come in, be welcomed!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<57E049EE>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This is your guy, is it?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<936FA3A8>",
+      "<ACF3531A>": "lY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's right. Like I said before, he broke\naway from a Nopon Caravan."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<693E45AD>",
+      "<ACF3531A>": "lY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He trades with anyone who can pay\nhim enough. Including unsavory parties\nsuch as us."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<6EC51345>",
+      "<ACF3531A>": "lY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "His name is Wheelideeli."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<96B3FEF2>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, and can we trust him?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<89F9D81D>",
+      "<ACF3531A>": "lY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nope. But he has his uses."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<B35B2DCD>",
+      "<ACF3531A>": "lY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wheelideeli can be relied on to procure\nalmost anything, as long as our interests\nalign... Every tool has a use."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<B2F167CC>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh-heh-heh, what can Wheelideeli do for\nfavorite customer today?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<041CD7AB>",
+      "<ACF3531A>": "lY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We need a few things from you."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<7DCB5418>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmmm. You need something to improve\nambience of old prison complex under\nAgnus Castle?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<95C785B3>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This gargantuan undertaking! Wheelideeli\nsmell equally gargantuan profit afoot!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<04C251AA>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, but can you do it?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<D828655C>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It impossible."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<449F11A8>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What?!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<116B4A4E>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No feeling of discouragement, please!\nImpossible not mean Wheelideeli is refusing!"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<51F69834>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But! There one small simple\ncondition before deal can be made."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<319697F3>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Clarification requested."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<AE18D223>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh-heh-heh! Wheelideeli like concise\nspeaking of young lady! It very useful!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<F950B084>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wheelideeli lay it out straight. Special\nprocurement tool of Wheelideeli recently\nthieved by monster."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<22CAE810>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If Wheelideeli not get tool back, Wheelideeli\nunable to carry out request."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<24F347EA>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, so we'll just get it back for you!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<51006C32>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Everyone very quick for agree!\nBut Wheelideeli not complain.\nWheelideeli very grateful!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<B58C427D>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sticky-finger Gogol somewhere in\nMaktha Wildwood, Wheelideeli wager."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<5A697BE8>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "When you find, give whack for Wheelideeli!"
+    }
+  ]
+}

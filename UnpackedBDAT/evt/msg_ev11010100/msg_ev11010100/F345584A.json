@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<BCCBED9A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Why?!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<E7E98BA4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Tell me why!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<61E790A9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Is this..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<AE96A152>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "really what you want?!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<D2499300>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Alvis!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<F6606682>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Drop it, Shulk!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<00463880>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Nothing's gonna get through to him!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<B02C252F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "He's a heartless machine!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<F3C1E427>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We have to try!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<92039DCF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Fascinating!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<491B7499>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Is this how badly you wish to erase us..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<77CB8BAD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "my god?!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<0D01E4DD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](nonverbal impact)"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<33A74E58>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](nonverbal impact)"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<0A6B4354>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](nonverbal impact)"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<2B2F71D8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](nonverbal scream (pain/being blown away))"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<AC922323>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](nonverbal scream (pain/being blown away))"
+    }
+  ]
+}

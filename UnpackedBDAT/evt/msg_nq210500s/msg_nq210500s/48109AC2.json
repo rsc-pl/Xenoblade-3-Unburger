@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<7ABE522A>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They say Colony Lambda's been\nraking in the ether lately."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<5B457C0F>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, some bloke called Koji's\nmeant to be behind it all."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B4A16CD8>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He seems to have pressured the\ncommander personally. Which\nsounds like Koji."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<D27F0F75>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They've always had some ether,\nI thought. They mined it, didn't they?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<3272B757>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They're saying that there's huge amounts\nof it now. It takes some skill to produce\nsuch results in that length of time."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<B83CFCCB>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Accomplishing something like that in\nColony Lambda? That's no small feat."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<B82EAA67>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There are so many colonies that never\nhave enough ether, and here's Colony\nLambda, sitting on a hoard of it."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<8501DA7D>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They're saying they have too much, even."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<E5A65205>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Can't they share some\nwith other colonies?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<37BF105A>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, what's stopping 'em?\nHow about we ask 'em ourselves?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<AAF7B04E>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm curious too. Let's find out."
+    }
+  ]
+}

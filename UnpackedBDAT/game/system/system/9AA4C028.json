@@ -1,0 +1,2166 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<DD3DB9F5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bronze Temple Guard"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<1A774A18>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Iron Temple Guard"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<2938209E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Titanium Temple Guard"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<9A8568CE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Carbide Temple Guard"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<2F478A38>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Circlet of Intellect"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<A2074BDB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Circlet of Wisdom"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<4347F545>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Search Headgear"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<8BAFD2E2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Detector Headgear"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<565F81F2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Thermo Headgear"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<6AE22B29>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hermit Mask"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<C5DA5216>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Predator Mask"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<285BA15A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shadow Mask"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<DDA4453A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soldier's Headband"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<43DB58F4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sergeant's Headband"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<E8AE744D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fighting Headband"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<2FCCADCD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Emergency Bandana"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<ED5D22DF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Feather Band"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<D2064B3A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Black Feather Band"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<88110C6B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rainbow Feather Band"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<B8D713E9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glorious Feather Band"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<A1A64DD0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Divining Hairgrip"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<753B57E9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Four Sea Hairgrip"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<3C9BF500>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Light Memory"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<2D17EEB1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Pale Memory"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<76AD464D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brute Memory"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<7B94A2E0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chaotic Memory"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<DED24E21>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Boost Memory"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<AEC59B59>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Iron Headband"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<BA56E9C1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ice Headband"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<D645BA91>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Optical Headband"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<14C44220>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Beast Mask"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<38CD82FB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ghillie Mask"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<D9A3A40B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Scale Mask"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<8DD7A7C5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mask of Banishing"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<EB99C7F2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Aural Enhance Sensor"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<5355886D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ultra Aural Sensor"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<19D16C05>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glass Memory"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<0884F3EE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sonic Sensor"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<A07034DC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Crimson Headband"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<243F8AC3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soulgaze Headband"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<3EE9E233>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lazure Headband"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<F002784C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Golden Headband"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<3D8220B5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fiber Underguard"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<4D4BD1FB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ceramic Underguard"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<D25C4796>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Expansion Holder"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<59C57E17>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Warrior's Armor Vest"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<7DD23659>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fierce Armor Vest"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<E98398D8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Berserker's Armor Vest"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<94B594E1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Armored Lining"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<F33B04A4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shell Lining"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<60EF52AF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Asylum Lining"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<46088EEF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Swimmer's Chemise"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<010C71D2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Crystalline Chemise"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<E3BF83BE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gear Support"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<F13CB79D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Jade Support"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<97CCAE0D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Titanium Support"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<33A5EF83>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Carbide Support"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<FE4FCFB4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rigid Support"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<270C5994>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Spiked Pauldrons"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<E625D13F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Jet Pauldrons"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<051A5AAF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hero Pauldrons"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<A3251C93>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Power Bangle"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<8C0C5731>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strike Bangle"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<2108AB61>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Induction Bangle"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<88F039EA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mighty Bangle"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<1A6BDCA7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Leather Wraps"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<90DC0338>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fiber Wraps"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<6FB7B25E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Work Gloves"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<5BD4CF42>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactical Gloves"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<5465EBAF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Engineer Gloves"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<6CDE3BCC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Challenger Gauntlet"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<8A7240B4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Victor Gauntlet"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<E3815151>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bronze Gauntlet"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<FB5E2BCB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Adamantine Gauntlet"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<77916AB6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Jewel Beetle Gauntlet"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<54730E74>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Silver Gauntlet"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<D54F8EE3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rainbow Gloves"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<F1F898B3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hero Gloves"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<85927F62>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Carbon Gloves"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<04E4CDA7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Nanotech Gloves"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<3989898A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Leather Gloves"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<2E2CFD9D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Smithy Gloves"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<2364E457>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Apprentice Vambraces"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<8BBDF151>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Warrior's Armlet"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<9CD6F41A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hero Vambraces"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<A90335DC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brave Vambraces"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<2D97A22A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lazure Vambraces"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<60BE3DBF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Misanga"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<25EA6B84>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Iron Misanga"
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<0C0A5CAA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Feather Misanga"
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<6ED600AC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Black Steel Band"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<30949D31>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Charm Bangle"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<30A06330>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Belemnite Bangle"
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<1A088E92>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wind Bracelet"
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<CEC132E2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gust Bracelet"
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<C0C5F384>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bronze Choker"
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<0CE2E3F6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Silver Choker"
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<C515442B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gold Choker"
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<98574428>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wing Necklace"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<5EF113F9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Silver Necklace"
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<C3FAED88>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gold Necklace"
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<53FA732D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Star Necklace"
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<A9F350A7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Moon Necklace"
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<1A7FC91B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Prayer Necklace"
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<42DA3D9E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Devotional Necklace"
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<E518D68E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Beastfang Necklace"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<F197EF43>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dragonfang Necklace"
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<684EEF5C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Demonfang Necklace"
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<7621C2F5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shell Necklace"
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<B348BA25>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Buffeting Necklace"
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<7E56D577>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Whirlwind Necklace"
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<43B90C37>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Storm Necklace"
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<065DBCE1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Scourwind Necklace"
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<F0BDC99A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Nacre Choker"
+    },
+    {
+      "$id": 115,
+      "<8C7DD24D>": "<9813538E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Comet Choker"
+    },
+    {
+      "$id": 116,
+      "<8C7DD24D>": "<0A3DC4B9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bunnit Choker"
+    },
+    {
+      "$id": 117,
+      "<8C7DD24D>": "<A10E4BFF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gold Gear Choker"
+    },
+    {
+      "$id": 118,
+      "<8C7DD24D>": "<C81AAE23>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sunlight Choker"
+    },
+    {
+      "$id": 119,
+      "<8C7DD24D>": "<18A07350>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chrome Scarf"
+    },
+    {
+      "$id": 120,
+      "<8C7DD24D>": "<67D38A6C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Unicorn Scarf"
+    },
+    {
+      "$id": 121,
+      "<8C7DD24D>": "<E6F53589>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Quantum Scarf"
+    },
+    {
+      "$id": 122,
+      "<8C7DD24D>": "<7BB2A9BD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Harvest Necklace"
+    },
+    {
+      "$id": 123,
+      "<8C7DD24D>": "<F5240493>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Affection Necklace"
+    },
+    {
+      "$id": 124,
+      "<8C7DD24D>": "<DF8E26C5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Memory Locket"
+    },
+    {
+      "$id": 125,
+      "<8C7DD24D>": "<26F2ADF7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sage's Auspices"
+    },
+    {
+      "$id": 126,
+      "<8C7DD24D>": "<E73A4448>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Immaculate Necklace"
+    },
+    {
+      "$id": 127,
+      "<8C7DD24D>": "<F518FF39>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Learned Amulet"
+    },
+    {
+      "$id": 128,
+      "<8C7DD24D>": "<002129B5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Scholar Necklace"
+    },
+    {
+      "$id": 129,
+      "<8C7DD24D>": "<E61C2C20>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mastery Necklace"
+    },
+    {
+      "$id": 130,
+      "<8C7DD24D>": "<342B1BA9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Monastic Necklace"
+    },
+    {
+      "$id": 131,
+      "<8C7DD24D>": "<64A34AAB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fiber Belt"
+    },
+    {
+      "$id": 132,
+      "<8C7DD24D>": "<0AEBBF8C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Engineer Belt"
+    },
+    {
+      "$id": 133,
+      "<8C7DD24D>": "<BD84AE15>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Plate Belt"
+    },
+    {
+      "$id": 134,
+      "<8C7DD24D>": "<E1DF634D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shield Belt"
+    },
+    {
+      "$id": 135,
+      "<8C7DD24D>": "<83B7AA7E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tool Belt"
+    },
+    {
+      "$id": 136,
+      "<8C7DD24D>": "<2A015B70>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Work Belt"
+    },
+    {
+      "$id": 137,
+      "<8C7DD24D>": "<8BE456E0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Braided Belt"
+    },
+    {
+      "$id": 138,
+      "<8C7DD24D>": "<2D912846>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Silver Braided Belt"
+    },
+    {
+      "$id": 139,
+      "<8C7DD24D>": "<D4AB6E6E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Slashing Weapon Belt"
+    },
+    {
+      "$id": 140,
+      "<8C7DD24D>": "<3480DF55>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Firearm Belt"
+    },
+    {
+      "$id": 141,
+      "<8C7DD24D>": "<DC3C142F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Crushing Weapon Belt"
+    },
+    {
+      "$id": 142,
+      "<8C7DD24D>": "<00AC0D83>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Blasting Weapon Belt"
+    },
+    {
+      "$id": 143,
+      "<8C7DD24D>": "<E59DAD7C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Assist Belt"
+    },
+    {
+      "$id": 144,
+      "<8C7DD24D>": "<D0603BA2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Survival Belt"
+    },
+    {
+      "$id": 145,
+      "<8C7DD24D>": "<77EE4B63>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Harness Belt"
+    },
+    {
+      "$id": 146,
+      "<8C7DD24D>": "<570257B7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strung Amber"
+    },
+    {
+      "$id": 147,
+      "<8C7DD24D>": "<F67D2EF5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strung Jade"
+    },
+    {
+      "$id": 148,
+      "<8C7DD24D>": "<FF87581F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strung Lapis Lazuli"
+    },
+    {
+      "$id": 149,
+      "<8C7DD24D>": "<C5E89AC5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Stone Belt"
+    },
+    {
+      "$id": 150,
+      "<8C7DD24D>": "<88E25D4B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Power Belt"
+    },
+    {
+      "$id": 151,
+      "<8C7DD24D>": "<2B66F055>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Steam Belt"
+    },
+    {
+      "$id": 152,
+      "<8C7DD24D>": "<1011ADA3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Silver Belt"
+    },
+    {
+      "$id": 153,
+      "<8C7DD24D>": "<07A61F45>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Ceramic Belt"
+    },
+    {
+      "$id": 154,
+      "<8C7DD24D>": "<8ABDF7A6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sapphire Belt"
+    },
+    {
+      "$id": 155,
+      "<8C7DD24D>": "<D2AE7FE2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Muscle Belt"
+    },
+    {
+      "$id": 156,
+      "<8C7DD24D>": "<108D5C65>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Champion Belt"
+    },
+    {
+      "$id": 157,
+      "<8C7DD24D>": "<6663C9B0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Beast-Hide Vest"
+    },
+    {
+      "$id": 158,
+      "<8C7DD24D>": "<36E33FB8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "White Belt"
+    },
+    {
+      "$id": 159,
+      "<8C7DD24D>": "<5E829284>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Black Belt"
+    },
+    {
+      "$id": 160,
+      "<8C7DD24D>": "<FDB251D2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Platinum Belt"
+    },
+    {
+      "$id": 161,
+      "<8C7DD24D>": "<C246C3CC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Foot Protector"
+    },
+    {
+      "$id": 162,
+      "<8C7DD24D>": "<41DBA1E4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Heavy Foot Protector"
+    },
+    {
+      "$id": 163,
+      "<8C7DD24D>": "<7564B144>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Metal Foot Protector"
+    },
+    {
+      "$id": 164,
+      "<8C7DD24D>": "<817A2AAC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soft Foot Wraps"
+    },
+    {
+      "$id": 165,
+      "<8C7DD24D>": "<87C1B492>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strong Foot Wraps"
+    },
+    {
+      "$id": 166,
+      "<8C7DD24D>": "<A2EAC691>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Special Foot Wraps"
+    },
+    {
+      "$id": 167,
+      "<8C7DD24D>": "<15077AFD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Light Weak Guard"
+    },
+    {
+      "$id": 168,
+      "<8C7DD24D>": "<B44C1575>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Heavy Weak Guard"
+    },
+    {
+      "$id": 169,
+      "<8C7DD24D>": "<E597044E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Solid Weak Guard"
+    },
+    {
+      "$id": 170,
+      "<8C7DD24D>": "<C4B5EAAB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Full Weak Guard"
+    },
+    {
+      "$id": 171,
+      "<8C7DD24D>": "<5C4DAC84>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fur Socks"
+    },
+    {
+      "$id": 172,
+      "<8C7DD24D>": "<7C60F8EF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flood Socks"
+    },
+    {
+      "$id": 173,
+      "<8C7DD24D>": "<D9A68030>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Star Anklets"
+    },
+    {
+      "$id": 174,
+      "<8C7DD24D>": "<A45D1117>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Moon Anklets"
+    },
+    {
+      "$id": 175,
+      "<8C7DD24D>": "<11734895>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cosmos Anklets"
+    },
+    {
+      "$id": 176,
+      "<8C7DD24D>": "<63CA85F6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Wind Leg Frame"
+    },
+    {
+      "$id": 177,
+      "<8C7DD24D>": "<949EDBE2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gale Leg Frame"
+    },
+    {
+      "$id": 178,
+      "<8C7DD24D>": "<2BEAF10F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cyrus Leg Frame"
+    },
+    {
+      "$id": 179,
+      "<8C7DD24D>": "<BC5CCC6A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sturdy Anklets"
+    },
+    {
+      "$id": 180,
+      "<8C7DD24D>": "<ED0A1B56>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vigorous Anklets"
+    },
+    {
+      "$id": 181,
+      "<8C7DD24D>": "<5A2DCBFE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shell Protector"
+    },
+    {
+      "$id": 182,
+      "<8C7DD24D>": "<89547DD5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Smart Protector"
+    },
+    {
+      "$id": 183,
+      "<8C7DD24D>": "<CF7AD205>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Herald's Kneeguard"
+    },
+    {
+      "$id": 184,
+      "<8C7DD24D>": "<FE8D103E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Graphite Kneeguard"
+    },
+    {
+      "$id": 185,
+      "<8C7DD24D>": "<09240391>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Crystal Anklets"
+    },
+    {
+      "$id": 186,
+      "<8C7DD24D>": "<9FBC7AB2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Survivor Kneeguard"
+    },
+    {
+      "$id": 187,
+      "<8C7DD24D>": "<B7E17C5D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lead Kneeguard"
+    },
+    {
+      "$id": 188,
+      "<8C7DD24D>": "<D059F556>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Metallic Kneeguard"
+    },
+    {
+      "$id": 189,
+      "<8C7DD24D>": "<5FE9DFC0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Defense Cuffs"
+    },
+    {
+      "$id": 190,
+      "<8C7DD24D>": "<E7D2CA38>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Repulsor Cuffs"
+    },
+    {
+      "$id": 191,
+      "<8C7DD24D>": "<144D1D90>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mercy Earring"
+    },
+    {
+      "$id": 192,
+      "<8C7DD24D>": "<3A4B2A8F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tear Amulet"
+    },
+    {
+      "$id": 193,
+      "<8C7DD24D>": "<A93FB898>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Rage Amulet"
+    },
+    {
+      "$id": 194,
+      "<8C7DD24D>": "<3E243B18>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Signet Ring"
+    },
+    {
+      "$id": 195,
+      "<8C7DD24D>": "<C5DD6FDE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Champion Ring"
+    },
+    {
+      "$id": 196,
+      "<8C7DD24D>": "<01002750>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gold Cube"
+    },
+    {
+      "$id": 197,
+      "<8C7DD24D>": "<F7B39E4D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Platinum Cube"
+    },
+    {
+      "$id": 198,
+      "<8C7DD24D>": "<860348CE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Garnet"
+    },
+    {
+      "$id": 199,
+      "<8C7DD24D>": "<451E3282>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sapphire"
+    },
+    {
+      "$id": 200,
+      "<8C7DD24D>": "<38BBAC6A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Diamond"
+    },
+    {
+      "$id": 201,
+      "<8C7DD24D>": "<E1C98D15>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Dark Orb"
+    },
+    {
+      "$id": 202,
+      "<8C7DD24D>": "<B141EC11>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Eraser Orb"
+    },
+    {
+      "$id": 203,
+      "<8C7DD24D>": "<2AAC896D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bloody Orb"
+    },
+    {
+      "$id": 204,
+      "<8C7DD24D>": "<22304ECF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Brutal Orb"
+    },
+    {
+      "$id": 205,
+      "<8C7DD24D>": "<13FF57A9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Soldier Ring"
+    },
+    {
+      "$id": 206,
+      "<8C7DD24D>": "<91BE9BD7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Berserk Ring"
+    },
+    {
+      "$id": 207,
+      "<8C7DD24D>": "<BC688482>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tyrant Ring"
+    },
+    {
+      "$id": 208,
+      "<8C7DD24D>": "<79EE47E5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Attack Stone"
+    },
+    {
+      "$id": 209,
+      "<8C7DD24D>": "<5E1A25BA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Assault Stone"
+    },
+    {
+      "$id": 210,
+      "<8C7DD24D>": "<2FB3F072>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Violent Stone"
+    },
+    {
+      "$id": 211,
+      "<8C7DD24D>": "<0E2F7389>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Friendship Ring"
+    },
+    {
+      "$id": 212,
+      "<8C7DD24D>": "<4FBAC3A0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Affection Ring"
+    },
+    {
+      "$id": 213,
+      "<8C7DD24D>": "<83BC6E76>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Silver Earrings"
+    },
+    {
+      "$id": 214,
+      "<8C7DD24D>": "<04524232>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Crystal Earrings"
+    },
+    {
+      "$id": 215,
+      "<8C7DD24D>": "<A8F7A4EE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Activity Amulet"
+    },
+    {
+      "$id": 216,
+      "<8C7DD24D>": "<96179C7B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Healing Amulet"
+    },
+    {
+      "$id": 217,
+      "<8C7DD24D>": "<4408872B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chain Ring"
+    },
+    {
+      "$id": 218,
+      "<8C7DD24D>": "<7F5B8D92>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shackle Ring"
+    },
+    {
+      "$id": 219,
+      "<8C7DD24D>": "<4E18FBB8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Friendship Badge"
+    },
+    {
+      "$id": 220,
+      "<8C7DD24D>": "<1F985DB2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fraternal Badge"
+    },
+    {
+      "$id": 221,
+      "<8C7DD24D>": "<025B2D32>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Platinum Brooch"
+    },
+    {
+      "$id": 222,
+      "<8C7DD24D>": "<9C9FC94C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gold Brooch"
+    },
+    {
+      "$id": 223,
+      "<8C7DD24D>": "<520B6081>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Silver Brooch"
+    },
+    {
+      "$id": 224,
+      "<8C7DD24D>": "<1D88831C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Break Brooch"
+    },
+    {
+      "$id": 225,
+      "<8C7DD24D>": "<121B42C7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Cracked Crystal"
+    },
+    {
+      "$id": 226,
+      "<8C7DD24D>": "<B163C77E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Warped Crystal"
+    },
+    {
+      "$id": 227,
+      "<8C7DD24D>": "<55083F97>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Beautiful Crystal"
+    },
+    {
+      "$id": 228,
+      "<8C7DD24D>": "<C28A17FA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flawless Crystal"
+    },
+    {
+      "$id": 229,
+      "<8C7DD24D>": "<7FA581E2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glowing Medal"
+    },
+    {
+      "$id": 230,
+      "<8C7DD24D>": "<F674C28E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gleaming Medal"
+    },
+    {
+      "$id": 231,
+      "<8C7DD24D>": "<C989B852>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Glistening Medal"
+    },
+    {
+      "$id": 232,
+      "<8C7DD24D>": "<079976FF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Colorful Feather"
+    },
+    {
+      "$id": 233,
+      "<8C7DD24D>": "<0F76F1E0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Silver Feather"
+    },
+    {
+      "$id": 234,
+      "<8C7DD24D>": "<346613EC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Phantom Feather"
+    },
+    {
+      "$id": 235,
+      "<8C7DD24D>": "<E0013CCA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Shell Cameo"
+    },
+    {
+      "$id": 236,
+      "<8C7DD24D>": "<7A0570AB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Vibrant Armring"
+    },
+    {
+      "$id": 237,
+      "<8C7DD24D>": "<510059DC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Florid Armring"
+    },
+    {
+      "$id": 238,
+      "<8C7DD24D>": "<36A95485>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lustrous Armring"
+    },
+    {
+      "$id": 239,
+      "<8C7DD24D>": "<B1188EA8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Resplendent Armring"
+    },
+    {
+      "$id": 240,
+      "<8C7DD24D>": "<937A95F8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bond Fragment"
+    },
+    {
+      "$id": 241,
+      "<8C7DD24D>": "<21CF1F32>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Bond Crystal"
+    },
+    {
+      "$id": 242,
+      "<8C7DD24D>": "<E8ADA60D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Nopon Strap"
+    },
+    {
+      "$id": 243,
+      "<8C7DD24D>": "<9DA789C6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chipped White Brooch"
+    },
+    {
+      "$id": 244,
+      "<8C7DD24D>": "<69A359F8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Chipped Black Brooch"
+    },
+    {
+      "$id": 245,
+      "<8C7DD24D>": "<EC17243F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mint Potpourri"
+    },
+    {
+      "$id": 246,
+      "<8C7DD24D>": "<FCDDB44A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lavender Potpourri"
+    },
+    {
+      "$id": 247,
+      "<8C7DD24D>": "<43073138>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Incense of Calm"
+    },
+    {
+      "$id": 248,
+      "<8C7DD24D>": "<32F284F5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Incense of Elegance"
+    },
+    {
+      "$id": 249,
+      "<8C7DD24D>": "<903C91BA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Nopon Doll"
+    },
+    {
+      "$id": 250,
+      "<8C7DD24D>": "<B933E158>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Auto-Balancer"
+    },
+    {
+      "$id": 251,
+      "<8C7DD24D>": "<893F06B5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Circlet of Enlightenment"
+    },
+    {
+      "$id": 252,
+      "<8C7DD24D>": "<8DDB10B8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Circlet of All-Knowing"
+    },
+    {
+      "$id": 253,
+      "<8C7DD24D>": "<8463A34B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Black Mask"
+    },
+    {
+      "$id": 254,
+      "<8C7DD24D>": "<47EBA199>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Long-Range Memory"
+    },
+    {
+      "$id": 255,
+      "<8C7DD24D>": "<873851C9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Luminous Memory"
+    },
+    {
+      "$id": 256,
+      "<8C7DD24D>": "<E1A4C665>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Expanding Memory"
+    },
+    {
+      "$id": 257,
+      "<8C7DD24D>": "<E220F083>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Analyzer Scope"
+    },
+    {
+      "$id": 258,
+      "<8C7DD24D>": "<9B03A1B7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "White Wraps"
+    },
+    {
+      "$id": 259,
+      "<8C7DD24D>": "<174ABB57>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fire Bangle"
+    },
+    {
+      "$id": 260,
+      "<8C7DD24D>": "<0C6427EA>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flame Bangle"
+    },
+    {
+      "$id": 261,
+      "<8C7DD24D>": "<DB0CD9F6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sharpfang Necklace"
+    },
+    {
+      "$id": 262,
+      "<8C7DD24D>": "<8E252557>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Scout's Kneeguard"
+    },
+    {
+      "$id": 263,
+      "<8C7DD24D>": "<B617BDE0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hyper Protector"
+    },
+    {
+      "$id": 264,
+      "<8C7DD24D>": "<26C87BEC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Silver Anklets"
+    },
+    {
+      "$id": 265,
+      "<8C7DD24D>": "<C4352374>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Golden Anklets"
+    },
+    {
+      "$id": 266,
+      "<8C7DD24D>": "<CE997D21>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Platinum Anklets"
+    },
+    {
+      "$id": 267,
+      "<8C7DD24D>": "<518DCA8E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Solid Socks"
+    },
+    {
+      "$id": 268,
+      "<8C7DD24D>": "<6952AFB5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Iron Sash"
+    },
+    {
+      "$id": 269,
+      "<8C7DD24D>": "<A1EF02E5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Flame Amulet"
+    },
+    {
+      "$id": 270,
+      "<8C7DD24D>": "<94ECAD7E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Hellfire Amulet"
+    },
+    {
+      "$id": 271,
+      "<8C7DD24D>": "<EB0AC076>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Warped White Brooch"
+    },
+    {
+      "$id": 272,
+      "<8C7DD24D>": "<5CD6DF9F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Warped Black Brooch"
+    },
+    {
+      "$id": 273,
+      "<8C7DD24D>": "<B19C6344>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Legendary Biter"
+    },
+    {
+      "$id": 274,
+      "<8C7DD24D>": "<0D3F7EB2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Lunae Rings"
+    },
+    {
+      "$id": 275,
+      "<8C7DD24D>": "<B2844F8C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Martis Rings"
+    },
+    {
+      "$id": 276,
+      "<8C7DD24D>": "<F228A3B6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Mercurii Rings"
+    },
+    {
+      "$id": 277,
+      "<8C7DD24D>": "<570A5BAF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Iovis Rings"
+    },
+    {
+      "$id": 278,
+      "<8C7DD24D>": "<C0D07916>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Veneris Rings"
+    },
+    {
+      "$id": 279,
+      "<8C7DD24D>": "<7AD34C7B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Saturni Rings"
+    },
+    {
+      "$id": 280,
+      "<8C7DD24D>": "<077EFE69>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Solis Rings"
+    },
+    {
+      "$id": 281,
+      "<8C7DD24D>": "<D3407664>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 282,
+      "<8C7DD24D>": "<29F3D909>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 283,
+      "<8C7DD24D>": "<B7EDF04D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accomplished Hairpiece"
+    },
+    {
+      "$id": 284,
+      "<8C7DD24D>": "<28719A7C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accomplished Crown"
+    },
+    {
+      "$id": 285,
+      "<8C7DD24D>": "<8F2EE8A7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accomplished Necklace"
+    },
+    {
+      "$id": 286,
+      "<8C7DD24D>": "<20985885>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accomplished Ring"
+    },
+    {
+      "$id": 287,
+      "<8C7DD24D>": "<EBDA69DD>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accomplished Vambraces"
+    },
+    {
+      "$id": 288,
+      "<8C7DD24D>": "<57EB4789>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accomplished Sash"
+    },
+    {
+      "$id": 289,
+      "<8C7DD24D>": "<ACD7749C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Accomplished Earring"
+    },
+    {
+      "$id": 290,
+      "<8C7DD24D>": "<8931535A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Archsage's Flower Fan"
+    },
+    {
+      "$id": 291,
+      "<8C7DD24D>": "<E120C1E0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Humongous Nopon Doll"
+    },
+    {
+      "$id": 292,
+      "<8C7DD24D>": "<D84BA4DF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Emberlight Ring"
+    },
+    {
+      "$id": 293,
+      "<8C7DD24D>": "<3FAB3942>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Torchlight Ring"
+    },
+    {
+      "$id": 294,
+      "<8C7DD24D>": "<6B1F82D4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Sunlight Ring"
+    },
+    {
+      "$id": 295,
+      "<8C7DD24D>": "<FE239688>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Silver Jewel"
+    },
+    {
+      "$id": 296,
+      "<8C7DD24D>": "<DAE232F0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Gold Jewel"
+    },
+    {
+      "$id": 297,
+      "<8C7DD24D>": "<DF2F6290>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Platinum Jewel"
+    },
+    {
+      "$id": 298,
+      "<8C7DD24D>": "<B140550D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 1"
+    },
+    {
+      "$id": 299,
+      "<8C7DD24D>": "<46515659>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 2"
+    },
+    {
+      "$id": 300,
+      "<8C7DD24D>": "<B2E17034>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 3"
+    },
+    {
+      "$id": 301,
+      "<8C7DD24D>": "<D0E4A614>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 4"
+    },
+    {
+      "$id": 302,
+      "<8C7DD24D>": "<94DB54C7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 5"
+    },
+    {
+      "$id": 303,
+      "<8C7DD24D>": "<95060074>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 6"
+    },
+    {
+      "$id": 304,
+      "<8C7DD24D>": "<9BE8D86A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 7"
+    },
+    {
+      "$id": 305,
+      "<8C7DD24D>": "<ECB9F733>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 8"
+    },
+    {
+      "$id": 306,
+      "<8C7DD24D>": "<1A8969F3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 9"
+    },
+    {
+      "$id": 307,
+      "<8C7DD24D>": "<BF4A994D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 10"
+    },
+    {
+      "$id": 308,
+      "<8C7DD24D>": "<8CB4AF8C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 11"
+    },
+    {
+      "$id": 309,
+      "<8C7DD24D>": "<7A0E5A6D>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 12"
+    },
+    {
+      "$id": 310,
+      "<8C7DD24D>": "<FB05924B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 13"
+    },
+    {
+      "$id": 311,
+      "<8C7DD24D>": "<79C75DE7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 14"
+    },
+    {
+      "$id": 312,
+      "<8C7DD24D>": "<5DAB3C66>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 15"
+    },
+    {
+      "$id": 313,
+      "<8C7DD24D>": "<4E1FA0B0>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 16"
+    },
+    {
+      "$id": 314,
+      "<8C7DD24D>": "<AB1AC89A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 17"
+    },
+    {
+      "$id": 315,
+      "<8C7DD24D>": "<9023A875>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 18"
+    },
+    {
+      "$id": 316,
+      "<8C7DD24D>": "<CDFCC583>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 19"
+    },
+    {
+      "$id": 317,
+      "<8C7DD24D>": "<BED5F67F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Battle Manual, vol. 20"
+    },
+    {
+      "$id": 318,
+      "<8C7DD24D>": "<8092D116>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 1"
+    },
+    {
+      "$id": 319,
+      "<8C7DD24D>": "<9ACF2A3E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 2"
+    },
+    {
+      "$id": 320,
+      "<8C7DD24D>": "<1BB161AF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 3"
+    },
+    {
+      "$id": 321,
+      "<8C7DD24D>": "<386BF9EC>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 4"
+    },
+    {
+      "$id": 322,
+      "<8C7DD24D>": "<E1A5C68A>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 5"
+    },
+    {
+      "$id": 323,
+      "<8C7DD24D>": "<F1ACCE13>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 6"
+    },
+    {
+      "$id": 324,
+      "<8C7DD24D>": "<1EF115DE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 7"
+    },
+    {
+      "$id": 325,
+      "<8C7DD24D>": "<7A0CC4C4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 8"
+    },
+    {
+      "$id": 326,
+      "<8C7DD24D>": "<86FA0616>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 9"
+    },
+    {
+      "$id": 327,
+      "<8C7DD24D>": "<D9A929BB>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 10"
+    },
+    {
+      "$id": 328,
+      "<8C7DD24D>": "<E8222736>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 11"
+    },
+    {
+      "$id": 329,
+      "<8C7DD24D>": "<C260AF5C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 12"
+    },
+    {
+      "$id": 330,
+      "<8C7DD24D>": "<7374F037>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 13"
+    },
+    {
+      "$id": 331,
+      "<8C7DD24D>": "<97A7D3C6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 14"
+    },
+    {
+      "$id": 332,
+      "<8C7DD24D>": "<5AE6CEC2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 15"
+    },
+    {
+      "$id": 333,
+      "<8C7DD24D>": "<C2D59FAE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 16"
+    },
+    {
+      "$id": 334,
+      "<8C7DD24D>": "<EE124A5E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 17"
+    },
+    {
+      "$id": 335,
+      "<8C7DD24D>": "<39912F07>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 18"
+    },
+    {
+      "$id": 336,
+      "<8C7DD24D>": "<3B5659B4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 19"
+    },
+    {
+      "$id": 337,
+      "<8C7DD24D>": "<A9B1F743>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Tactics Manual, vol. 20"
+    },
+    {
+      "$id": 338,
+      "<8C7DD24D>": "<A6F6D3B3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 1"
+    },
+    {
+      "$id": 339,
+      "<8C7DD24D>": "<E5DE2C8B>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 2"
+    },
+    {
+      "$id": 340,
+      "<8C7DD24D>": "<A8A5C2D9>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 3"
+    },
+    {
+      "$id": 341,
+      "<8C7DD24D>": "<C7B359D5>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 4"
+    },
+    {
+      "$id": 342,
+      "<8C7DD24D>": "<D3309BE3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 5"
+    },
+    {
+      "$id": 343,
+      "<8C7DD24D>": "<9C367D81>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 6"
+    },
+    {
+      "$id": 344,
+      "<8C7DD24D>": "<35E0D4D8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 7"
+    },
+    {
+      "$id": 345,
+      "<8C7DD24D>": "<9B871BD2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 8"
+    },
+    {
+      "$id": 346,
+      "<8C7DD24D>": "<2AA44691>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 9"
+    },
+    {
+      "$id": 347,
+      "<8C7DD24D>": "<75808B0C>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 10"
+    },
+    {
+      "$id": 348,
+      "<8C7DD24D>": "<1355431E>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 11"
+    },
+    {
+      "$id": 349,
+      "<8C7DD24D>": "<FFD48ED1>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 12"
+    },
+    {
+      "$id": 350,
+      "<8C7DD24D>": "<90D4FF9F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 13"
+    },
+    {
+      "$id": 351,
+      "<8C7DD24D>": "<019D7228>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 14"
+    },
+    {
+      "$id": 352,
+      "<8C7DD24D>": "<466B48AF>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 15"
+    },
+    {
+      "$id": 353,
+      "<8C7DD24D>": "<F06BDC58>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 16"
+    },
+    {
+      "$id": 354,
+      "<8C7DD24D>": "<8A4638E3>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 17"
+    },
+    {
+      "$id": 355,
+      "<8C7DD24D>": "<712C7E32>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 18"
+    },
+    {
+      "$id": 356,
+      "<8C7DD24D>": "<723393B6>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 19"
+    },
+    {
+      "$id": 357,
+      "<8C7DD24D>": "<3B6DF429>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Strategy Manual, vol. 20"
+    },
+    {
+      "$id": 358,
+      "<8C7DD24D>": "<1EC73C29>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Nopon Seven-Star Medal"
+    }
+  ]
+}

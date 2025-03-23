@@ -1,0 +1,546 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<E8DEE032>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Enigmatter Bangle"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<00D73BFC>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Enigmatter Ring"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<BF4FCE68>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Enigmatter Collar"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<3145C4C3>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Enigmatter Tiara"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<8CA1DE9C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "More likely to have abilities tailored\ntoward Defenders."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<725431C4>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "More likely to have abilities tailored\ntoward Attackers."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<B6FC2D70>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "More likely to have abilities tailored\ntoward Healers."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<2E05F325>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Abilities will be completely random."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<8F60ECBB>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Viridian"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<EA29A86D>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Cinnabar"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<DC4B0223>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Coral"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<95142E3C>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Vermilion"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<07AE13B5>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Ceruse"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<92AF236B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Tangerine"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<9D00C332>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Sand"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<32173888>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Lapis"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<25079055>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Ochre"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<63E6ED66>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Chalk"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<DC16EB97>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Gamboge"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<72EF1CF2>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Purpure"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<E3C2E0A6>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Sunrise"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<37FA38C0>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Crimson"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<3E54E9E4>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Emerald"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<E215A5DD>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Cobalt"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<7C547B65>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Gunmetal"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<AA99356E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Midnight"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<7EE6BFF3>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Cerulean"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<53AF6FC9>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Bangle, Saffron"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<92F686BD>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Viridian"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<19CB455B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Cinnabar"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<85C0F5AE>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Coral"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<B08430FB>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Vermilion"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<BFF9C930>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Ceruse"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<7C1BC9B2>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Tangerine"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<B84A3BBC>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Sand"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<787EE6E8>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Lapis"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<DAC457FE>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Ochre"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<9C8CABD2>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Chalk"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<09AAB5F2>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Gamboge"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<15DEF894>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Purpure"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<6DA813A1>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Sunrise"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<7962E212>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Crimson"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<8AEE8BCC>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Emerald"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<3CEDD8A6>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Cobalt"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<74D1C7B1>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Gunmetal"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<52E740E5>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Midnight"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<17B4E161>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Cerulean"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<E243273A>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Ring, Saffron"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<92F71655>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Viridian"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<94C40F27>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Cinnabar"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<539127FF>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Coral"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<D6CE319A>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Vermilion"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<0A389257>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Ceruse"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<632D95E9>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Tangerine"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<1A94DF3E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Sand"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<DCAF59DF>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Lapis"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<22290093>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Ochre"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<4E977D25>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Chalk"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<210CD611>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Gamboge"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<66A89BA1>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Purpure"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<2890F53D>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Sunrise"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<0B1AF01E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Crimson"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<2809E41B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Emerald"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<12831F26>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Cobalt"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<2FACE2F6>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Gunmetal"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<D1DE4D75>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Midnight"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<3D8A2205>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Cerulean"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<D46E6105>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Collar, Saffron"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<B3913552>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Viridian"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<F98EBFE4>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Cinnabar"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<AB550317>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Coral"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<346ED0DA>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Vermilion"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<A5F009F1>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Ceruse"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<98DCD374>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Tangerine"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<8683AE2E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Sand"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<713FA644>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Lapis"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<CC20797C>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Ochre"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<F8365F34>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Chalk"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<3E04F5D6>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Gamboge"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<380EED6C>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Purpure"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<B65E996B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Sunrise"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<A5E2BFD9>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Crimson"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<631A7F41>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Emerald"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<42050542>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Cobalt"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<3A75E851>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Gunmetal"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<441639E4>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Midnight"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<B9D1FB09>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Cerulean"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<C7B22FCB>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pro Tiara, Saffron"
+    }
+  ]
+}

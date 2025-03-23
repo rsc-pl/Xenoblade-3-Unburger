@@ -1,0 +1,184 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<160EDF6F>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uhm, say... You really think it's\nthe right choice, letting them walk...?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<316A8962>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I don't foresee any particular problems."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<D985C209>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They'll be working for the good\nof the Castle now, right?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<F9FEC8F5>",
+      "<ACF3531A>": "wj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Tch... I really wanted to fight you guys,\nbut if it means I get to leave this place,\nthen I guess I'll settle."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<3FADAE9A>",
+      "<ACF3531A>": "xj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Same here...\nAnything's better than rotting in jail."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<D0E541C5>",
+      "<ACF3531A>": "yj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right. Can't say I'm really digging the\njail vibe too much."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<0BB1D2BB>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uhm, say... Are you really-really sure?\nI don't want this coming back on me, OK?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<EEA21319>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If they start going nuts, we'll handle it.\nRelax."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<A5E7638F>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Seeker did leave it to your discretion.\nIf anything, the responsibility is his."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<65DF1598>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Hey, that's a good point.\nThey were in my custody, but\nSeeker's the one in charge."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<A503867F>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, in that case, why don't we make 'em\nhis bodyguards or something?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<DD3E839E>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmm. That's not a bad plan at all.\nThey would perform well as a personal\nsecurity detail for someone of his position."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<AEF1135F>",
+      "<ACF3531A>": "vj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right, you've heard him! Get outta here,\nand don't darken my doorstep again.\nAhhh, that's a weight off my chest!"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<E8493965>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...And straight onto Seeker's, innit..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<7DC766D6>",
+      "<ACF3531A>": "wj1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All right, friends!\nTime to get to work!"
+    }
+  ]
+}

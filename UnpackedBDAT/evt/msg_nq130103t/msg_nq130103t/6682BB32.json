@@ -1,0 +1,104 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B73067B8>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yep, everything went through no problem."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<A7D66B4C>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You've got authority over about half\nof the resources in this room."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<ACB5E20D>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How you divvy it up is absolutely up\nto you. We're trusting you to distribute it\naccording to the common good."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<CAFD2AB1>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The common what now?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<8D8FE29F>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "To each colony according\nto its need, innit."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<940E319F>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If we scratch their back,\nthey'll scratch ours in future."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<5EF54F2A>",
+      "<ACF3531A>": "_a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's like an investment that'll\npay dividends to us later."
+    }
+  ]
+}

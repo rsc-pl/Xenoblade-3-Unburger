@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<FBC541CB>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Max HP Up"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<70F037EF>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Attack Up"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<7A1783D1>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Defense Up"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<243CFFD8>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Dexterity Up"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<4E17206B>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Agility Up"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<EB48C381>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Healing Power Up"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<98D9419C>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Auto-Attack Up"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<AEB623AA>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Area Attack"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<B366540C>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Fast Attack"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<4235EF6D>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Absorb HP"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<E8292F3A>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Debuffing Attack"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<E929B301>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Damage Ratio Up"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<6EAA6163>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Faster Chain Build"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<CCEDA0EB>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Combo to Chain"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<76ED2F3C>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Refund Chain"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<6B43F35B>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Attack Up After Use"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<D3694D44>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Debuff Rate Up"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<CC4BF134>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Debuff Duration Up"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<734E1444>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Debuff to Break"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<D331969D>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Combo Duration Up"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<8DFE62FC>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Combo to Attack"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<908F5C60>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Score Up"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<96CD1C73>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Curse to Attack"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<F15A2405>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Curse to Recharge"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<A9DD2273>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Rescue to Attack"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<BECE8D73>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Rescue Recharge"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<F00195F1>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Focus: Defenders"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<F0209880>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Focus: Attackers"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<37E112FD>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Focus: Healers"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<3F56AF49>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Focus: Role Unity"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<FD8A3383>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Kevesi Prosperity"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<34C5CE2C>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Agnian Prosperity"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<58C6EAAD>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Other Prosperity"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<7A6FFC42>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Kevesi Zeal"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<5574978D>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Agnian Zeal"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<0DA10E1F>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Other Zeal"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<674913EC>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Boss HP Down"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<AA14D93C>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Small-Unit Tactics"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<B073538C>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Last-Ditch Effort"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<D18F75C2>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Slow Nopwatch"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<D2CB13DA>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Moneybags"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<5DFCE1BD>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Attract Events"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<C8FE7B6B>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Tickle Whimsy"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<DAE5358B>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Discount Card"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<8F0E6F5B>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Ticket Line"
+    }
+  ]
+}

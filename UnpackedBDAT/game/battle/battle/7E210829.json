@@ -1,0 +1,2946 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<181E0BE2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Side Break"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<7D663366>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Back attack↑"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<416AC159>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aggro halved / Atk up"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<087D3822>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cancel attack↑"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<E6DBBF7F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<9962625C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dazed↑"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<589A3C1F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Pierce"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<2FF0D5D5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Draw Lucky Seven"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<9BA21E30>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High aggro"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<30DD98AC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Eva. up / Atk down"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<3275F1A9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aggroed↑"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<F8953DC2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Evade"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<C5A939DB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Target Lock"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<FE321FD4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High aggro / Evade"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<52CB70E2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Burst/Pierce"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<5478873E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Daze"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<05220CF8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Heal"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<30F0C461>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Atk up"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<987A0C3F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Accuracy down"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<934E402C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Area heal on hit"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<81564655>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Regenerate"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<6F9EFBBC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ether Def. down"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<97E59638>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Heal"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<B0BABF40>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Eva. up"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<3AF2AB39>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Sleep"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<608F79D8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Eva. down"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<1BB33F3D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Heal all on hit"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<50A35FE3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Def. up / Atk down"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<3B133328>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Topple"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<26343163>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / High aggro"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<3B2EEE5D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High aggro"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<70B5388A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Block attacks"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<4109677D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Taunt"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<2736D01C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Side attack↑"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<B3EFC8CA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Front Blowdown"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<DB3941A0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Knockback"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<6BBDC687>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dazed↑"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<2D789599>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Unblockable/Atk up"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<A3BC5D8A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Launch"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<64C1E0D6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Power Charge on hit"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<E0292180>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Atk spd up / Dmg taken up"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<B60B3FFA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Back attack↑"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<8C8DC3AC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bleed"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<0BA2534D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Side Crit. Rate+"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<DBA74281>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Back attack↑"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<526EC2B8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bleed"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<B4DBC99E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Side Crit. Rate+"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<670FA898>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Smash"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<E1959928>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Power+ within fields"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<B6F16066>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Side Break"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<33ECD10C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Accuracy down"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<B53365D0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shackle block/Front atk↑"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<943E3C26>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Continuous dmg field"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<497C4DE0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Power+ within fields"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<908FE9CE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Side Break"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<433E860A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shackle block/Front atk↑"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<B65E592E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Crit. Rate up"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<024DF2AB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Continuous dmg field"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<F7279681>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Damage link"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<E86E89FC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Damage link"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<BFAD41F5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Physical Def. down"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<BBEEB2F6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Counter Heal"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<D4C58855>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bind"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<1FC29508>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bind"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<8D994774>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Regenerate"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<5D071441>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Area heal on hit"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<62D3BAB7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Area heal on hit"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<5102239F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Regenerate"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<7F68D67D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Heal all on hit/Atk down"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<5B5117E1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Remove buffs"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<E6FB03EB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fast charge/Def. down"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<B1B1D960>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Regenerate"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<D3016C10>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Regenerate"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<96456FE3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Fast charge"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<EBE74541>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Burst"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<AE9CD5A9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Fast charge"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<6DE4AFE7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Burst"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<5D0450F0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gain charge/Pause buffs"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<8E07FCAC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Atk boost/Dmg to self"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<77E943B0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Side Topple"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<0FC42842>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High Crit. Rate/Dmg self"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<52E38F22>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High Crit. Rate/Dmg self"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<2D065D70>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Dmg to self/Blaze"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<3483B290>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fast charge"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<C7B45525>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Dmg to self/Blaze"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<85CE9E8C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Front attack↑"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<F83D7C4F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Blaze/Awakened+"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<58D120D3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cont. dmg/Fast aggro"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<E0CEECAA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Knockback mid-Art enemy"
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<E2EBCD7F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/High aggro/Smash"
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<91CD11A1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Armor Veil"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<C7ACFED5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High aggro / Blowdown"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<476C0483>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/High aggro/Smash"
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<C36D8AA3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Block/Heal/Ether anchor"
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<3325307B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Armor Veil"
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<1B0E28DA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Bind/Machines↑"
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<17DD8BA2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Area heal on hit"
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<4B9D7B9D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Heal"
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<DC9B0361>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pierce/Blowdown"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<46361E6A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Knockback"
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<0FC8DC50>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Regenerate"
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<DFF8C962>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pierce (%)/Blowdown"
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<2FCB4F23>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Regen allies/Fast charge"
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<4DE074E7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Regenerate"
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<807F220B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Heal all on hit/Pierce"
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<9460B7A3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Summon Elementals"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<267AA3D0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Release Elementals"
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<C69B2C04>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Back Bind"
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<C53C94DA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Topple"
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<D0E2A6F2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Back Bind"
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<2F81878E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Atk up / Def. down"
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<D2ABAF83>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Atk up / Def. down"
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<4181E820>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Topple"
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<2D399C0A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Elem. Discharge dmg+"
+    },
+    {
+      "$id": 115,
+      "<8C7DD24D>": "<A5870FEE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Heal"
+    },
+    {
+      "$id": 116,
+      "<8C7DD24D>": "<1F59FFFB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Clear debuffs/Debf. barrier"
+    },
+    {
+      "$id": 117,
+      "<8C7DD24D>": "<ECC17C93>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Delayed healing"
+    },
+    {
+      "$id": 118,
+      "<8C7DD24D>": "<2998CA06>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Atk down / Machines↑"
+    },
+    {
+      "$id": 119,
+      "<8C7DD24D>": "<85D99F4D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Area heal on hit"
+    },
+    {
+      "$id": 120,
+      "<8C7DD24D>": "<84465102>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Def. up"
+    },
+    {
+      "$id": 121,
+      "<8C7DD24D>": "<9B60E9B6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Area heal on hit"
+    },
+    {
+      "$id": 122,
+      "<8C7DD24D>": "<C905E570>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Def. up"
+    },
+    {
+      "$id": 123,
+      "<8C7DD24D>": "<BFA1BAAB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Heal party"
+    },
+    {
+      "$id": 124,
+      "<8C7DD24D>": "<B9660D24>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Taunt"
+    },
+    {
+      "$id": 125,
+      "<8C7DD24D>": "<73F3B916>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Topple"
+    },
+    {
+      "$id": 126,
+      "<8C7DD24D>": "<EC85A86F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Awakened Boost"
+    },
+    {
+      "$id": 127,
+      "<8C7DD24D>": "<CF0833E1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Awakened Boost"
+    },
+    {
+      "$id": 128,
+      "<8C7DD24D>": "<2CBB6262>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Block Rate+/Atk down"
+    },
+    {
+      "$id": 129,
+      "<8C7DD24D>": "<FE72B086>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Knockback/Awakened+"
+    },
+    {
+      "$id": 130,
+      "<8C7DD24D>": "<BD6EB5DA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Block Rate+/Atk down"
+    },
+    {
+      "$id": 131,
+      "<8C7DD24D>": "<E6890603>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Awakened Boost"
+    },
+    {
+      "$id": 132,
+      "<8C7DD24D>": "<B8D42812>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Absorb damage/Awaken"
+    },
+    {
+      "$id": 133,
+      "<8C7DD24D>": "<F881C03D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Armor Veil"
+    },
+    {
+      "$id": 134,
+      "<8C7DD24D>": "<3FDB3E4A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Area heal on hit"
+    },
+    {
+      "$id": 135,
+      "<8C7DD24D>": "<33E9E07F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bind"
+    },
+    {
+      "$id": 136,
+      "<8C7DD24D>": "<39003F61>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bind"
+    },
+    {
+      "$id": 137,
+      "<8C7DD24D>": "<EC4AE83B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Clear debuffs/Atk+"
+    },
+    {
+      "$id": 138,
+      "<8C7DD24D>": "<F6AC0D26>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Chance to pierce"
+    },
+    {
+      "$id": 139,
+      "<8C7DD24D>": "<0A7966AC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Clear debuffs/Atk+"
+    },
+    {
+      "$id": 140,
+      "<8C7DD24D>": "<9C6E87C8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Chance to pierce"
+    },
+    {
+      "$id": 141,
+      "<8C7DD24D>": "<092667D1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Burst"
+    },
+    {
+      "$id": 142,
+      "<8C7DD24D>": "<4543410C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Crit.+ during enemy Art"
+    },
+    {
+      "$id": 143,
+      "<8C7DD24D>": "<AC3EF5BE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Back Crit. Rate+"
+    },
+    {
+      "$id": 144,
+      "<8C7DD24D>": "<363071AC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Side Break"
+    },
+    {
+      "$id": 145,
+      "<8C7DD24D>": "<95DD584B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Side Break"
+    },
+    {
+      "$id": 146,
+      "<8C7DD24D>": "<82ACF9D9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High Crit. Rate/Evade"
+    },
+    {
+      "$id": 147,
+      "<8C7DD24D>": "<86EEF503>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Mid-Art enemy↑"
+    },
+    {
+      "$id": 148,
+      "<8C7DD24D>": "<E13B4A28>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Crit. Rate & dmg+"
+    },
+    {
+      "$id": 149,
+      "<8C7DD24D>": "<E4DE6F49>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High Crit. Rate/Evade"
+    },
+    {
+      "$id": 150,
+      "<8C7DD24D>": "<FBC032E9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Launched↑"
+    },
+    {
+      "$id": 151,
+      "<8C7DD24D>": "<ADAD45E7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Slower aggro/Back atk+"
+    },
+    {
+      "$id": 152,
+      "<8C7DD24D>": "<889DF8CB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Launched↑ / Evade"
+    },
+    {
+      "$id": 153,
+      "<8C7DD24D>": "<511436A3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Back Bleed"
+    },
+    {
+      "$id": 154,
+      "<8C7DD24D>": "<6076D9EF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Back Bleed"
+    },
+    {
+      "$id": 155,
+      "<8C7DD24D>": "<7F0CBCE2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Art Follow-up"
+    },
+    {
+      "$id": 156,
+      "<8C7DD24D>": "<A3CE967B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Side attack↑"
+    },
+    {
+      "$id": 157,
+      "<8C7DD24D>": "<908F461A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Side attack↑"
+    },
+    {
+      "$id": 158,
+      "<8C7DD24D>": "<291696DF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Art Follow-up"
+    },
+    {
+      "$id": 159,
+      "<8C7DD24D>": "<F88157F3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Wounded enemy↑"
+    },
+    {
+      "$id": 160,
+      "<8C7DD24D>": "<21051195>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High aggro"
+    },
+    {
+      "$id": 161,
+      "<8C7DD24D>": "<A5ED44BA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Block / Spike"
+    },
+    {
+      "$id": 162,
+      "<8C7DD24D>": "<A1A60BA7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Launch"
+    },
+    {
+      "$id": 163,
+      "<8C7DD24D>": "<1D25D174>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dmg up at low HP"
+    },
+    {
+      "$id": 164,
+      "<8C7DD24D>": "<8583406B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aggroed↑"
+    },
+    {
+      "$id": 165,
+      "<8C7DD24D>": "<8423F667>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Launch"
+    },
+    {
+      "$id": 166,
+      "<8C7DD24D>": "<99B98813>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Atk up / Faster aggro"
+    },
+    {
+      "$id": 167,
+      "<8C7DD24D>": "<C4E6B8C8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Aggroed↑"
+    },
+    {
+      "$id": 168,
+      "<8C7DD24D>": "<74E70CC2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High aggro/Pierce"
+    },
+    {
+      "$id": 169,
+      "<8C7DD24D>": "<E5A2EE24>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Share own buffs"
+    },
+    {
+      "$id": 170,
+      "<8C7DD24D>": "<249D6665>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Dmg+ per buff"
+    },
+    {
+      "$id": 171,
+      "<8C7DD24D>": "<EE19C996>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dmg up per buff"
+    },
+    {
+      "$id": 172,
+      "<8C7DD24D>": "<0F705000>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "1 random buff"
+    },
+    {
+      "$id": 173,
+      "<8C7DD24D>": "<0589362F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dmg up per buff"
+    },
+    {
+      "$id": 174,
+      "<8C7DD24D>": "<54D4D9AF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Regenerate"
+    },
+    {
+      "$id": 175,
+      "<8C7DD24D>": "<0BB54F84>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Regenerate"
+    },
+    {
+      "$id": 176,
+      "<8C7DD24D>": "<6591CA79>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "1 random buff"
+    },
+    {
+      "$id": 177,
+      "<8C7DD24D>": "<511E3E49>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "2 random buffs (party)"
+    },
+    {
+      "$id": 178,
+      "<8C7DD24D>": "<3C246D8B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Side attack↑"
+    },
+    {
+      "$id": 179,
+      "<8C7DD24D>": "<956FF4ED>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "1 random debuff"
+    },
+    {
+      "$id": 180,
+      "<8C7DD24D>": "<8A0D3E2B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Extend debuff time"
+    },
+    {
+      "$id": 181,
+      "<8C7DD24D>": "<5CFCE7E8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Spread debuffs"
+    },
+    {
+      "$id": 182,
+      "<8C7DD24D>": "<6A64D744>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Back resistance down"
+    },
+    {
+      "$id": 183,
+      "<8C7DD24D>": "<09A66D49>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Extend debuff time"
+    },
+    {
+      "$id": 184,
+      "<8C7DD24D>": "<98D34D93>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Spread debuffs"
+    },
+    {
+      "$id": 185,
+      "<8C7DD24D>": "<CB1CF316>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Back resistance down"
+    },
+    {
+      "$id": 186,
+      "<8C7DD24D>": "<B8EDBAC7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/2 random debuffs"
+    },
+    {
+      "$id": 187,
+      "<8C7DD24D>": "<7231B013>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fast charge/Auto-atk spd+"
+    },
+    {
+      "$id": 188,
+      "<8C7DD24D>": "<CC403152>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Side Daze"
+    },
+    {
+      "$id": 189,
+      "<8C7DD24D>": "<8558B83D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High Crit. Rate/Evade"
+    },
+    {
+      "$id": 190,
+      "<8C7DD24D>": "<7F308F1C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Front atk↑ / Blowdown"
+    },
+    {
+      "$id": 191,
+      "<8C7DD24D>": "<65A464FF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dmg up per enemy"
+    },
+    {
+      "$id": 192,
+      "<8C7DD24D>": "<08CD3ABD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/High Crit. Rate/Evade"
+    },
+    {
+      "$id": 193,
+      "<8C7DD24D>": "<A3F8A0FF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Front atk↑ / Blowdown"
+    },
+    {
+      "$id": 194,
+      "<8C7DD24D>": "<C84749D1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Dmg+ per enemy"
+    },
+    {
+      "$id": 195,
+      "<8C7DD24D>": "<00A4AC92>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Deplete Arts: Boost dmg"
+    },
+    {
+      "$id": 196,
+      "<8C7DD24D>": "<7FC6DE8C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Pierce (%)"
+    },
+    {
+      "$id": 197,
+      "<8C7DD24D>": "<A2881E0E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Remove aggro/Acc. up"
+    },
+    {
+      "$id": 198,
+      "<8C7DD24D>": "<83FDB04D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High acc. / Eva. down"
+    },
+    {
+      "$id": 199,
+      "<8C7DD24D>": "<16B29B2E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/High acc./Eva. down"
+    },
+    {
+      "$id": 200,
+      "<8C7DD24D>": "<146FBC53>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Back attack↑"
+    },
+    {
+      "$id": 201,
+      "<8C7DD24D>": "<DD3D8FF9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Evade / Front atk↑"
+    },
+    {
+      "$id": 202,
+      "<8C7DD24D>": "<039EEB7B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Evade / Front atk↑"
+    },
+    {
+      "$id": 203,
+      "<8C7DD24D>": "<916F4C37>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Back attack↑"
+    },
+    {
+      "$id": 204,
+      "<8C7DD24D>": "<B2884EA1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Evade/Pierce"
+    },
+    {
+      "$id": 205,
+      "<8C7DD24D>": "<7C6077BA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Launch/Smash"
+    },
+    {
+      "$id": 206,
+      "<8C7DD24D>": "<ED9395BF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / KO wounded"
+    },
+    {
+      "$id": 207,
+      "<8C7DD24D>": "<550AAF9D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / High aggro"
+    },
+    {
+      "$id": 208,
+      "<8C7DD24D>": "<68B5DC1F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Temp. invincibility"
+    },
+    {
+      "$id": 209,
+      "<8C7DD24D>": "<951A401F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Trg. Lock/Atk down"
+    },
+    {
+      "$id": 210,
+      "<8C7DD24D>": "<B7728DCA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Pierce/High aggro"
+    },
+    {
+      "$id": 211,
+      "<8C7DD24D>": "<9B92E0D3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Launch/Smash"
+    },
+    {
+      "$id": 212,
+      "<8C7DD24D>": "<8DC41CA9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / KO wounded"
+    },
+    {
+      "$id": 213,
+      "<8C7DD24D>": "<AC60FEE4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Front attack↑"
+    },
+    {
+      "$id": 214,
+      "<8C7DD24D>": "<34B3AFCB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/1 random buff"
+    },
+    {
+      "$id": 215,
+      "<8C7DD24D>": "<937E04BD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/1 random debuff"
+    },
+    {
+      "$id": 216,
+      "<8C7DD24D>": "<C6301C93>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Pierce/Wounded↑"
+    },
+    {
+      "$id": 217,
+      "<8C7DD24D>": "<0FB3CD7C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Launch/Smash"
+    },
+    {
+      "$id": 218,
+      "<8C7DD24D>": "<0B4ED2A2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / KO wounded"
+    },
+    {
+      "$id": 219,
+      "<8C7DD24D>": "<9E409D13>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Area heal on hit"
+    },
+    {
+      "$id": 220,
+      "<8C7DD24D>": "<A2C3153B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Regenerate"
+    },
+    {
+      "$id": 221,
+      "<8C7DD24D>": "<88E9ED61>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Acc. down/Atk down"
+    },
+    {
+      "$id": 222,
+      "<8C7DD24D>": "<CDDA290A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Pierce/Area heal on hit"
+    },
+    {
+      "$id": 223,
+      "<8C7DD24D>": "<ED7C4E3C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Smash cmb./Pierce"
+    },
+    {
+      "$id": 224,
+      "<8C7DD24D>": "<BF652597>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Agnus↑"
+    },
+    {
+      "$id": 225,
+      "<8C7DD24D>": "<016BFC69>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Accuracy Up"
+    },
+    {
+      "$id": 226,
+      "<8C7DD24D>": "<F04D448F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Side attack↑"
+    },
+    {
+      "$id": 227,
+      "<8C7DD24D>": "<FD1A04EF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Machines↑"
+    },
+    {
+      "$id": 228,
+      "<8C7DD24D>": "<4B0884E2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Crit. rate up"
+    },
+    {
+      "$id": 229,
+      "<8C7DD24D>": "<BDD7AEB7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Interlink Lv3: Break all"
+    },
+    {
+      "$id": 230,
+      "<8C7DD24D>": "<DA49AFB7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Attack down"
+    },
+    {
+      "$id": 231,
+      "<8C7DD24D>": "<9CAB2CD0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Interlink Lv3: Smash all"
+    },
+    {
+      "$id": 232,
+      "<8C7DD24D>": "<4F7D469D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Annul guard (%)"
+    },
+    {
+      "$id": 233,
+      "<8C7DD24D>": "<D21378D3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Power Charge for all"
+    },
+    {
+      "$id": 234,
+      "<8C7DD24D>": "<60F6E870>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High Crit. Rate"
+    },
+    {
+      "$id": 235,
+      "<8C7DD24D>": "<26304D9A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Pierce"
+    },
+    {
+      "$id": 236,
+      "<8C7DD24D>": "<8AC27124>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Weaken all enemies"
+    },
+    {
+      "$id": 237,
+      "<8C7DD24D>": "<F0D4654A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Target Lock"
+    },
+    {
+      "$id": 238,
+      "<8C7DD24D>": "<2CAA9BDC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Evade"
+    },
+    {
+      "$id": 239,
+      "<8C7DD24D>": "<2D0A8910>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Extend combo time"
+    },
+    {
+      "$id": 240,
+      "<8C7DD24D>": "<C3513F42>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Interlink Lv3: Break all"
+    },
+    {
+      "$id": 241,
+      "<8C7DD24D>": "<AE12E74D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Interlink Lv3: Daze all"
+    },
+    {
+      "$id": 242,
+      "<8C7DD24D>": "<B98DB237>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bleed / Blowdown"
+    },
+    {
+      "$id": 243,
+      "<8C7DD24D>": "<60E84B81>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Party evade/KO wounded"
+    },
+    {
+      "$id": 244,
+      "<8C7DD24D>": "<4713D039>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Unblockable (%)/Knockback"
+    },
+    {
+      "$id": 245,
+      "<8C7DD24D>": "<AA3C4ED3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Interlink Lv3: Daze all"
+    },
+    {
+      "$id": 246,
+      "<8C7DD24D>": "<B10D1DEB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Area heal on hit"
+    },
+    {
+      "$id": 247,
+      "<8C7DD24D>": "<BFB78143>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "1 random buff (party)"
+    },
+    {
+      "$id": 248,
+      "<8C7DD24D>": "<E69E2446>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Acc. down/Evade"
+    },
+    {
+      "$id": 249,
+      "<8C7DD24D>": "<70C07511>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Revive incapacitated"
+    },
+    {
+      "$id": 250,
+      "<8C7DD24D>": "<894C1A97>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Moebius↑/Unblockable"
+    },
+    {
+      "$id": 251,
+      "<8C7DD24D>": "<CDA69B76>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Area heal on hit"
+    },
+    {
+      "$id": 252,
+      "<8C7DD24D>": "<3AFC3798>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Interlink Lv3: Burst all"
+    },
+    {
+      "$id": 253,
+      "<8C7DD24D>": "<17BB076F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Interlink Lv3: Topple all"
+    },
+    {
+      "$id": 254,
+      "<8C7DD24D>": "<0B46D4BC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Regenerate to all"
+    },
+    {
+      "$id": 255,
+      "<8C7DD24D>": "<D8510BE9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / 1 random debuff"
+    },
+    {
+      "$id": 256,
+      "<8C7DD24D>": "<70389B8A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Blowdown/Blaze/Evade"
+    },
+    {
+      "$id": 257,
+      "<8C7DD24D>": "<A91D24A8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Blowdown/0 charge"
+    },
+    {
+      "$id": 258,
+      "<8C7DD24D>": "<703DB68A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Aggroed↑"
+    },
+    {
+      "$id": 259,
+      "<8C7DD24D>": "<76894EAB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Interlink Lv3: Topple all"
+    },
+    {
+      "$id": 260,
+      "<8C7DD24D>": "<F7CFBDA7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blowdown/Shackle block"
+    },
+    {
+      "$id": 261,
+      "<8C7DD24D>": "<F76E2902>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Interlink Lv3: Launch all"
+    },
+    {
+      "$id": 262,
+      "<8C7DD24D>": "<3A48C773>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Defend allies/Counter"
+    },
+    {
+      "$id": 263,
+      "<8C7DD24D>": "<B3718CD2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / High aggro"
+    },
+    {
+      "$id": 264,
+      "<8C7DD24D>": "<EA2379C7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pierce/Launch combo"
+    },
+    {
+      "$id": 265,
+      "<8C7DD24D>": "<DD8BE6DB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Interlink Lv3: Launch all"
+    },
+    {
+      "$id": 266,
+      "<8C7DD24D>": "<86293B28>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Interlink Lv3: Smash all"
+    },
+    {
+      "$id": 267,
+      "<8C7DD24D>": "<35B383A8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Knockbk/Annul reaction"
+    },
+    {
+      "$id": 268,
+      "<8C7DD24D>": "<D73E1D69>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Blowdown/P-Def. down"
+    },
+    {
+      "$id": 269,
+      "<8C7DD24D>": "<456462F0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Evade / Blaze"
+    },
+    {
+      "$id": 270,
+      "<8C7DD24D>": "<75BAEB63>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blowdown"
+    },
+    {
+      "$id": 271,
+      "<8C7DD24D>": "<682A3162>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Pierce/Blowdown"
+    },
+    {
+      "$id": 272,
+      "<8C7DD24D>": "<682A8C2C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Atk up / Def. down"
+    },
+    {
+      "$id": 273,
+      "<8C7DD24D>": "<98094EA9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gain charge on hit"
+    },
+    {
+      "$id": 274,
+      "<8C7DD24D>": "<745F18C8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Side attack↑"
+    },
+    {
+      "$id": 275,
+      "<8C7DD24D>": "<ACC5849F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pierce (%)/Blowdown"
+    },
+    {
+      "$id": 276,
+      "<8C7DD24D>": "<DFA4C61E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Topple"
+    },
+    {
+      "$id": 277,
+      "<8C7DD24D>": "<80284E32>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dmg+ per Soul Hack"
+    },
+    {
+      "$id": 278,
+      "<8C7DD24D>": "<AD470050>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Toppled↑ / Knockback"
+    },
+    {
+      "$id": 279,
+      "<8C7DD24D>": "<61E05B61>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / High aggro"
+    },
+    {
+      "$id": 280,
+      "<8C7DD24D>": "<47809741>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Launched↑"
+    },
+    {
+      "$id": 281,
+      "<8C7DD24D>": "<294394FE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Heal"
+    },
+    {
+      "$id": 282,
+      "<8C7DD24D>": "<44D1AA68>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Smash"
+    },
+    {
+      "$id": 283,
+      "<8C7DD24D>": "<18A7107F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Def. up / Atk down"
+    },
+    {
+      "$id": 284,
+      "<8C7DD24D>": "<A12D059D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Machines↑"
+    },
+    {
+      "$id": 285,
+      "<8C7DD24D>": "<9C7CB772>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Evade / Flying↑"
+    },
+    {
+      "$id": 286,
+      "<8C7DD24D>": "<97620504>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dmg up at low HP"
+    },
+    {
+      "$id": 287,
+      "<8C7DD24D>": "<E42ABC56>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Daze"
+    },
+    {
+      "$id": 288,
+      "<8C7DD24D>": "<8178F6EC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / 1 random debuff"
+    },
+    {
+      "$id": 289,
+      "<8C7DD24D>": "<22E736BB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Def. up"
+    },
+    {
+      "$id": 290,
+      "<8C7DD24D>": "<4597EF1B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Chance to remove buff"
+    },
+    {
+      "$id": 291,
+      "<8C7DD24D>": "<7CF588BE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Bleed"
+    },
+    {
+      "$id": 292,
+      "<8C7DD24D>": "<DD55ECDB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Side Break"
+    },
+    {
+      "$id": 293,
+      "<8C7DD24D>": "<101A1942>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Acc. down/Knockbk"
+    },
+    {
+      "$id": 294,
+      "<8C7DD24D>": "<7E5B18F4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blowdown"
+    },
+    {
+      "$id": 295,
+      "<8C7DD24D>": "<92345B61>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Target Lock"
+    },
+    {
+      "$id": 296,
+      "<8C7DD24D>": "<33CEF130>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Eva. down/Acc. down"
+    },
+    {
+      "$id": 297,
+      "<8C7DD24D>": "<4561302A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aggro down"
+    },
+    {
+      "$id": 298,
+      "<8C7DD24D>": "<55D2CA1D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bind"
+    },
+    {
+      "$id": 299,
+      "<8C7DD24D>": "<B3729535>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Dmg+ per enemy"
+    },
+    {
+      "$id": 300,
+      "<8C7DD24D>": "<C6241DFF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Dmg to self"
+    },
+    {
+      "$id": 301,
+      "<8C7DD24D>": "<4568EF1F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Atk+/Crit. rate+"
+    },
+    {
+      "$id": 302,
+      "<8C7DD24D>": "<79B4EB99>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Chance to pierce"
+    },
+    {
+      "$id": 303,
+      "<8C7DD24D>": "<CD858367>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Regenerate"
+    },
+    {
+      "$id": 304,
+      "<8C7DD24D>": "<6B878510>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Wounded enemy↑"
+    },
+    {
+      "$id": 305,
+      "<8C7DD24D>": "<87A9C26B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Physical Def. down"
+    },
+    {
+      "$id": 306,
+      "<8C7DD24D>": "<1508D3B8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Area heal on hit"
+    },
+    {
+      "$id": 307,
+      "<8C7DD24D>": "<06A56D21>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Topple"
+    },
+    {
+      "$id": 308,
+      "<8C7DD24D>": "<12FA1EC7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Dmg per exhausted Art"
+    },
+    {
+      "$id": 309,
+      "<8C7DD24D>": "<AF0CBDB2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Evade"
+    },
+    {
+      "$id": 310,
+      "<8C7DD24D>": "<AF308C3F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Aquatic↑ / Bleed"
+    },
+    {
+      "$id": 311,
+      "<8C7DD24D>": "<E311CCAE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Land↑/Atk down"
+    },
+    {
+      "$id": 312,
+      "<8C7DD24D>": "<4A0EDC4C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Launch"
+    },
+    {
+      "$id": 313,
+      "<8C7DD24D>": "<94E26278>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Shackle blocking"
+    },
+    {
+      "$id": 314,
+      "<8C7DD24D>": "<5A18682B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Back attack↑"
+    },
+    {
+      "$id": 315,
+      "<8C7DD24D>": "<1DF65B38>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Blowdown"
+    },
+    {
+      "$id": 316,
+      "<8C7DD24D>": "<F8548016>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Fast charge/Crit.+"
+    },
+    {
+      "$id": 317,
+      "<8C7DD24D>": "<2DA5289F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/X-debuff/Pwr Charge"
+    },
+    {
+      "$id": 318,
+      "<8C7DD24D>": "<F9D13C82>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Reduce mid-Art damage"
+    },
+    {
+      "$id": 319,
+      "<8C7DD24D>": "<2EA1A86A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / High Crit. Rate"
+    },
+    {
+      "$id": 320,
+      "<8C7DD24D>": "<A6A70352>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Front attack↑"
+    },
+    {
+      "$id": 321,
+      "<8C7DD24D>": "<56C3200F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Keves↑/Burst"
+    },
+    {
+      "$id": 322,
+      "<8C7DD24D>": "<7AC13D8C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Area heal on hit"
+    },
+    {
+      "$id": 323,
+      "<8C7DD24D>": "<C64FFCE1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High aggro / Agnus↑"
+    },
+    {
+      "$id": 324,
+      "<8C7DD24D>": "<17D06008>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Unblockable (%)"
+    },
+    {
+      "$id": 325,
+      "<8C7DD24D>": "<54D3ECFD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gain charge on crit."
+    },
+    {
+      "$id": 326,
+      "<8C7DD24D>": "<D3B9C118>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ether Def. down"
+    },
+    {
+      "$id": 327,
+      "<8C7DD24D>": "<F556CBA0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High HP: Dmg up"
+    },
+    {
+      "$id": 328,
+      "<8C7DD24D>": "<1E17C4FA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High acc. / Evade"
+    },
+    {
+      "$id": 329,
+      "<8C7DD24D>": "<90F33A64>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Annul reaction/Blowdown"
+    },
+    {
+      "$id": 330,
+      "<8C7DD24D>": "<F1416B9E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Cancel attack↑"
+    },
+    {
+      "$id": 331,
+      "<8C7DD24D>": "<0F1A6A95>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "KO chance on wounded"
+    },
+    {
+      "$id": 332,
+      "<8C7DD24D>": "<7529FF70>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Wounded enemy↑"
+    },
+    {
+      "$id": 333,
+      "<8C7DD24D>": "<5CA09E3A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Side attack↑"
+    },
+    {
+      "$id": 334,
+      "<8C7DD24D>": "<B46E9BCF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Mid-Art enemy↑"
+    },
+    {
+      "$id": 335,
+      "<8C7DD24D>": "<B0D8DC04>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Eva.+ during Art"
+    },
+    {
+      "$id": 336,
+      "<8C7DD24D>": "<24E74CF6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Enemy charge 0 (%)"
+    },
+    {
+      "$id": 337,
+      "<8C7DD24D>": "<9432F3E5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Resistance down"
+    },
+    {
+      "$id": 338,
+      "<8C7DD24D>": "<59903AA4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Pwr Charge on hit"
+    },
+    {
+      "$id": 339,
+      "<8C7DD24D>": "<9216C7B6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gain charge on hit"
+    },
+    {
+      "$id": 340,
+      "<8C7DD24D>": "<3EE54E35>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Phys. Def. down"
+    },
+    {
+      "$id": 341,
+      "<8C7DD24D>": "<17118450>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pierce/Dmg to self"
+    },
+    {
+      "$id": 342,
+      "<8C7DD24D>": "<07721AF8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Eva. up / Atk down"
+    },
+    {
+      "$id": 343,
+      "<8C7DD24D>": "<114FC34A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High aggro"
+    },
+    {
+      "$id": 344,
+      "<8C7DD24D>": "<A28F3130>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Eva. up / Faster aggro"
+    },
+    {
+      "$id": 345,
+      "<8C7DD24D>": "<9400D100>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Break"
+    },
+    {
+      "$id": 346,
+      "<8C7DD24D>": "<39515D81>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Self KO↑"
+    },
+    {
+      "$id": 347,
+      "<8C7DD24D>": "<CA278375>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Evade / High aggro"
+    },
+    {
+      "$id": 348,
+      "<8C7DD24D>": "<E2D3DB32>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Break"
+    },
+    {
+      "$id": 349,
+      "<8C7DD24D>": "<8A36FA75>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Self KO↑"
+    },
+    {
+      "$id": 350,
+      "<8C7DD24D>": "<C5F976ED>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Evade / High aggro"
+    },
+    {
+      "$id": 351,
+      "<8C7DD24D>": "<D144ED4A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Evade / Self KO↑"
+    },
+    {
+      "$id": 352,
+      "<8C7DD24D>": "<0BA53DDB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Area heal on hit"
+    },
+    {
+      "$id": 353,
+      "<8C7DD24D>": "<E59CFA13>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Fast charge"
+    },
+    {
+      "$id": 354,
+      "<8C7DD24D>": "<A2A61914>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Slow charge"
+    },
+    {
+      "$id": 355,
+      "<8C7DD24D>": "<EDD02CE0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Arts heal"
+    },
+    {
+      "$id": 356,
+      "<8C7DD24D>": "<022EA6D9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Remove buffs"
+    },
+    {
+      "$id": 357,
+      "<8C7DD24D>": "<72580368>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Slow charge"
+    },
+    {
+      "$id": 358,
+      "<8C7DD24D>": "<4D2D4F97>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Arts heal"
+    },
+    {
+      "$id": 359,
+      "<8C7DD24D>": "<1EAEFC35>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Remove buffs"
+    },
+    {
+      "$id": 360,
+      "<8C7DD24D>": "<C385A515>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field / Blaze & Regen"
+    },
+    {
+      "$id": 361,
+      "<8C7DD24D>": "<5BC34B67>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Break"
+    },
+    {
+      "$id": 362,
+      "<8C7DD24D>": "<454D6B8E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Front atk↑/Knockback"
+    },
+    {
+      "$id": 363,
+      "<8C7DD24D>": "<5772D4BC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Evade/Cancel attack↑"
+    },
+    {
+      "$id": 364,
+      "<8C7DD24D>": "<676BCF28>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE"
+    },
+    {
+      "$id": 365,
+      "<8C7DD24D>": "<0C457105>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Chance to pierce"
+    },
+    {
+      "$id": 366,
+      "<8C7DD24D>": "<D9FCA328>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Power Charge"
+    },
+    {
+      "$id": 367,
+      "<8C7DD24D>": "<7F9971B3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Charge all Arts on hit"
+    },
+    {
+      "$id": 368,
+      "<8C7DD24D>": "<7DA6DC53>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Topple"
+    },
+    {
+      "$id": 369,
+      "<8C7DD24D>": "<BC65455B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Area heal on hit"
+    },
+    {
+      "$id": 370,
+      "<8C7DD24D>": "<9A35EE3B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field/Regenerate"
+    },
+    {
+      "$id": 371,
+      "<8C7DD24D>": "<6A5AB9E3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Evade up"
+    },
+    {
+      "$id": 372,
+      "<8C7DD24D>": "<FA6EAEAB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Accuracy down"
+    },
+    {
+      "$id": 373,
+      "<8C7DD24D>": "<2C0E49D7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Attack down"
+    },
+    {
+      "$id": 374,
+      "<8C7DD24D>": "<A73D23CE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Grant Vision"
+    },
+    {
+      "$id": 375,
+      "<8C7DD24D>": "<EDFB021A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pierce all"
+    },
+    {
+      "$id": 376,
+      "<8C7DD24D>": "<AA0DBBA1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Launch"
+    },
+    {
+      "$id": 377,
+      "<8C7DD24D>": "<AE9FA369>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/High aggro"
+    },
+    {
+      "$id": 378,
+      "<8C7DD24D>": "<0F29F238>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Reduce mid-Art damage"
+    },
+    {
+      "$id": 379,
+      "<8C7DD24D>": "<4D687897>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High aggro"
+    },
+    {
+      "$id": 380,
+      "<8C7DD24D>": "<50E57372>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE"
+    },
+    {
+      "$id": 381,
+      "<8C7DD24D>": "<78FAB02F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Defense up"
+    },
+    {
+      "$id": 382,
+      "<8C7DD24D>": "<01CD4F95>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Reduce dmg mid-Art/Pierce"
+    },
+    {
+      "$id": 383,
+      "<8C7DD24D>": "<3685FB87>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Phys. Def. down/Blaze"
+    },
+    {
+      "$id": 384,
+      "<8C7DD24D>": "<A7641AC0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Area heal on hit"
+    },
+    {
+      "$id": 385,
+      "<8C7DD24D>": "<FFD1317B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field/Atk up"
+    },
+    {
+      "$id": 386,
+      "<8C7DD24D>": "<47040EFB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Heal"
+    },
+    {
+      "$id": 387,
+      "<8C7DD24D>": "<0304A00D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Crit. Rate up"
+    },
+    {
+      "$id": 388,
+      "<8C7DD24D>": "<E55EF567>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ether Def. down"
+    },
+    {
+      "$id": 389,
+      "<8C7DD24D>": "<3644F4A2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Heal all on hit"
+    },
+    {
+      "$id": 390,
+      "<8C7DD24D>": "<DC700532>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Break"
+    },
+    {
+      "$id": 391,
+      "<8C7DD24D>": "<00A746E1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Awakened Boost"
+    },
+    {
+      "$id": 392,
+      "<8C7DD24D>": "<3623ED3B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Bleed"
+    },
+    {
+      "$id": 393,
+      "<8C7DD24D>": "<BA153FAC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Target Lock"
+    },
+    {
+      "$id": 394,
+      "<8C7DD24D>": "<BFAA9DDC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field/Armor Veil"
+    },
+    {
+      "$id": 395,
+      "<8C7DD24D>": "<2EFDF04E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Aggroed↑"
+    },
+    {
+      "$id": 396,
+      "<8C7DD24D>": "<BB37BFBD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Awakened+/Pierce"
+    },
+    {
+      "$id": 397,
+      "<8C7DD24D>": "<1F118C41>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Front Topple"
+    },
+    {
+      "$id": 398,
+      "<8C7DD24D>": "<5474E5A0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Gain charge on crit."
+    },
+    {
+      "$id": 399,
+      "<8C7DD24D>": "<36444244>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Side Launch"
+    },
+    {
+      "$id": 400,
+      "<8C7DD24D>": "<9AF9381C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Crit.+ during enemy Art"
+    },
+    {
+      "$id": 401,
+      "<8C7DD24D>": "<8A577A3E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE"
+    },
+    {
+      "$id": 402,
+      "<8C7DD24D>": "<B8916880>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Resistance down"
+    },
+    {
+      "$id": 403,
+      "<8C7DD24D>": "<F668F9C7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Pierce/Unblockable"
+    },
+    {
+      "$id": 404,
+      "<8C7DD24D>": "<A80490DC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Side attack↑"
+    },
+    {
+      "$id": 405,
+      "<8C7DD24D>": "<AE3EC662>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Sleep"
+    },
+    {
+      "$id": 406,
+      "<8C7DD24D>": "<D3917426>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bind"
+    },
+    {
+      "$id": 407,
+      "<8C7DD24D>": "<565A19DC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High HP: Dmg up"
+    },
+    {
+      "$id": 408,
+      "<8C7DD24D>": "<375F95A8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Chance to pierce"
+    },
+    {
+      "$id": 409,
+      "<8C7DD24D>": "<31D71A61>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE"
+    },
+    {
+      "$id": 410,
+      "<8C7DD24D>": "<6F2FFBCD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/2 random debuffs"
+    },
+    {
+      "$id": 411,
+      "<8C7DD24D>": "<0FEDD8B7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Terrestrial↑"
+    },
+    {
+      "$id": 412,
+      "<8C7DD24D>": "<FD5758DA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Machines↑"
+    },
+    {
+      "$id": 413,
+      "<8C7DD24D>": "<090F2743>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Launched↑"
+    },
+    {
+      "$id": 414,
+      "<8C7DD24D>": "<45696036>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pierce/Flying↑"
+    },
+    {
+      "$id": 415,
+      "<8C7DD24D>": "<3D9FB7D9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pierce/Aquatic↑"
+    },
+    {
+      "$id": 416,
+      "<8C7DD24D>": "<D9CFFD6A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pierce (%)/Launch"
+    },
+    {
+      "$id": 417,
+      "<8C7DD24D>": "<E3846F4D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Power Charge/Crit. Rate up"
+    },
+    {
+      "$id": 418,
+      "<8C7DD24D>": "<0F20FE7F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Power Charge/Fast charge"
+    },
+    {
+      "$id": 419,
+      "<8C7DD24D>": "<32BDB808>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Power Charge/AOE"
+    },
+    {
+      "$id": 420,
+      "<8C7DD24D>": "<AAD852F7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Eva. up/Atk up"
+    },
+    {
+      "$id": 421,
+      "<8C7DD24D>": "<50DC41A5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Eva. up/Regen"
+    },
+    {
+      "$id": 422,
+      "<8C7DD24D>": "<AB814183>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Eva. up for all"
+    },
+    {
+      "$id": 423,
+      "<8C7DD24D>": "<4E613AB9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Acc. down/Slow charge"
+    },
+    {
+      "$id": 424,
+      "<8C7DD24D>": "<68DE15EC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Shackle block"
+    },
+    {
+      "$id": 425,
+      "<8C7DD24D>": "<7D01A406>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Acc. down/Toppled↑"
+    },
+    {
+      "$id": 426,
+      "<8C7DD24D>": "<795505A1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Atk down/Eva. down"
+    },
+    {
+      "$id": 427,
+      "<8C7DD24D>": "<2ED79447>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bind"
+    },
+    {
+      "$id": 428,
+      "<8C7DD24D>": "<9E5E8F81>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Atk down"
+    },
+    {
+      "$id": 429,
+      "<8C7DD24D>": "<35B7CEDD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High aggro/Blowdown"
+    },
+    {
+      "$id": 430,
+      "<8C7DD24D>": "<0EDBB72C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/High aggro"
+    },
+    {
+      "$id": 431,
+      "<8C7DD24D>": "<52710F6E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High aggro/Pierce"
+    },
+    {
+      "$id": 432,
+      "<8C7DD24D>": "<E9EE9D37>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Knockback"
+    },
+    {
+      "$id": 433,
+      "<8C7DD24D>": "<912D1504>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Wide AOE"
+    },
+    {
+      "$id": 434,
+      "<8C7DD24D>": "<DE599A6D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Pierce"
+    },
+    {
+      "$id": 435,
+      "<8C7DD24D>": "<BB56C58C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Def. up/Debuff barrier"
+    },
+    {
+      "$id": 436,
+      "<8C7DD24D>": "<1BBE7F60>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Def. up"
+    },
+    {
+      "$id": 437,
+      "<8C7DD24D>": "<4047FBE2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Def. up/Ether anchor"
+    },
+    {
+      "$id": 438,
+      "<8C7DD24D>": "<4DA18015>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Heal/Acc. up"
+    },
+    {
+      "$id": 439,
+      "<8C7DD24D>": "<D68E4532>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Heal/Eva. up"
+    },
+    {
+      "$id": 440,
+      "<8C7DD24D>": "<86BB8CD9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Heal all"
+    },
+    {
+      "$id": 441,
+      "<8C7DD24D>": "<E424C191>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Crit. Rate up/Atk up"
+    },
+    {
+      "$id": 442,
+      "<8C7DD24D>": "<B75B5294>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Crit. Rate & dmg up"
+    },
+    {
+      "$id": 443,
+      "<8C7DD24D>": "<39AF2E69>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Crit. Rate up for all"
+    },
+    {
+      "$id": 444,
+      "<8C7DD24D>": "<71E45512>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ether Def. down/Eva. down"
+    },
+    {
+      "$id": 445,
+      "<8C7DD24D>": "<5917738D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Damage link"
+    },
+    {
+      "$id": 446,
+      "<8C7DD24D>": "<54647C97>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Ether Def. down"
+    },
+    {
+      "$id": 447,
+      "<8C7DD24D>": "<37BB8AAE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Target Lock/Blowdown"
+    },
+    {
+      "$id": 448,
+      "<8C7DD24D>": "<BFA427FE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Target Lock/Awakened Boost"
+    },
+    {
+      "$id": 449,
+      "<8C7DD24D>": "<FA74B0D5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Target Lock"
+    },
+    {
+      "$id": 450,
+      "<8C7DD24D>": "<18E19B32>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Armor Veil/Eva. up"
+    },
+    {
+      "$id": 451,
+      "<8C7DD24D>": "<2935DD99>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Armor Veil/Power Charge"
+    },
+    {
+      "$id": 452,
+      "<8C7DD24D>": "<1A871B6E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Armor Veil"
+    },
+    {
+      "$id": 453,
+      "<8C7DD24D>": "<56D7CA0B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Purge buffs/Atk down"
+    },
+    {
+      "$id": 454,
+      "<8C7DD24D>": "<3CB1FB5E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Purge buffs/Acc. down"
+    },
+    {
+      "$id": 455,
+      "<8C7DD24D>": "<F0E12C49>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Purge buffs for all"
+    },
+    {
+      "$id": 456,
+      "<8C7DD24D>": "<F216D771>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High Crit. Rate/Wounded↑"
+    },
+    {
+      "$id": 457,
+      "<8C7DD24D>": "<6E722DD9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High Crit. Rate/Charge on hit"
+    },
+    {
+      "$id": 458,
+      "<8C7DD24D>": "<BADC32CC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High Crit. Rate/Launched↑"
+    },
+    {
+      "$id": 459,
+      "<8C7DD24D>": "<377ADD5A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Break"
+    },
+    {
+      "$id": 460,
+      "<8C7DD24D>": "<AB09EA0B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Gain charge on hit"
+    },
+    {
+      "$id": 461,
+      "<8C7DD24D>": "<DBBFD00A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/High HP: Dmg up"
+    },
+    {
+      "$id": 462,
+      "<8C7DD24D>": "<A27156DA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Resistance down/Toppled↑"
+    },
+    {
+      "$id": 463,
+      "<8C7DD24D>": "<F3FDC2CA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Res. down/Gain charge on hit"
+    },
+    {
+      "$id": 464,
+      "<8C7DD24D>": "<B5729BA0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Resistance down"
+    },
+    {
+      "$id": 465,
+      "<8C7DD24D>": "<91A2E8AB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High HP: Dmg up/High Crit. Rate"
+    },
+    {
+      "$id": 466,
+      "<8C7DD24D>": "<309A72D7>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/High HP: Dmg up"
+    },
+    {
+      "$id": 467,
+      "<8C7DD24D>": "<5850E87E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "High HP: Dmg up/Shackle block"
+    },
+    {
+      "$id": 468,
+      "<8C7DD24D>": "<9EB4D993>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Pierce/High Crit. Rate"
+    },
+    {
+      "$id": 469,
+      "<8C7DD24D>": "<C528DCEC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Pierce all"
+    },
+    {
+      "$id": 470,
+      "<8C7DD24D>": "<EC663E9F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/Pierce/Shackle block"
+    },
+    {
+      "$id": 471,
+      "<8C7DD24D>": "<B80F5D0B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/High HP: Dmg up"
+    },
+    {
+      "$id": 472,
+      "<8C7DD24D>": "<60EEBB9F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Resistance down for all"
+    },
+    {
+      "$id": 473,
+      "<8C7DD24D>": "<D915DB85>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE/1 random debuff"
+    },
+    {
+      "$id": 474,
+      "<8C7DD24D>": "<19F640FA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Blowdown"
+    },
+    {
+      "$id": 475,
+      "<8C7DD24D>": "<7AD78369>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blowdown"
+    },
+    {
+      "$id": 476,
+      "<8C7DD24D>": "<B2515574>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Burst"
+    },
+    {
+      "$id": 477,
+      "<8C7DD24D>": "<CF812509>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Smash"
+    },
+    {
+      "$id": 478,
+      "<8C7DD24D>": "<0135E966>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Burst"
+    },
+    {
+      "$id": 479,
+      "<8C7DD24D>": "<5050A158>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Smash"
+    },
+    {
+      "$id": 480,
+      "<8C7DD24D>": "<1B2B3C3F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Smash"
+    },
+    {
+      "$id": 481,
+      "<8C7DD24D>": "<624781D5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Burst"
+    },
+    {
+      "$id": 482,
+      "<8C7DD24D>": "<39153622>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Blowdown"
+    },
+    {
+      "$id": 483,
+      "<8C7DD24D>": "<3D5BEAAA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Burst"
+    },
+    {
+      "$id": 484,
+      "<8C7DD24D>": "<6576C4E1>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Burst"
+    },
+    {
+      "$id": 485,
+      "<8C7DD24D>": "<EE84686E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Smash"
+    },
+    {
+      "$id": 486,
+      "<8C7DD24D>": "<CF7D129E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "AOE / Blowdown"
+    },
+    {
+      "$id": 487,
+      "<8C7DD24D>": "<BBC4990C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Blowdown"
+    },
+    {
+      "$id": 488,
+      "<8C7DD24D>": "<460531FB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Smash"
+    }
+  ]
+}

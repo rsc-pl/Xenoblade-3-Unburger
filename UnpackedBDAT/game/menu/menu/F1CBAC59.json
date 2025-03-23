@@ -1,0 +1,474 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<1729FE77>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Containers"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<B1C9CA4F>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Ether Channels"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<947EE7DF>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Locations"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<34D3C504>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Landmarks"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<0648AB23>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Secret Areas"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<E8428146>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Field Crafting"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<E2BB89D6>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Relics"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<515F1496>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "City Survivors"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<26F7DF25>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Affinity Scenes"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<3F44FA87>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Unique Monsters"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<DC087A84>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Enemy Territories"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<19BFF09F>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Interventions"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<921C87DB>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Fog Rifts"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<9591FD9F>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Rest Spots"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<349A5DE5>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<25BC7E26>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Enemypaedia Entry Complete"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<82F9BFA4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Collectopaedia Entry Complete"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<7D7804AB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Affinity Points Earned"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<E10692BD>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Area Complete"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<750F2EF8>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<2BE7D9A1>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Elevators"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<278478E0>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Ladders"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<D3DE0930>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Ether Slides"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<969A1FEE>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Ether Lifts"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<B533E764>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Ether Masts"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<018E2F03>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<34B02861>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Container Claimed"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<99CAAAB8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Relic Claimed"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<4C916DD9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ether Channel Harvested"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<B2283726>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Location Discovered"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<3F22308C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Landmark Discovered"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<DAC9DC37>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rest Spot Discovered"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<BE23B533>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Secret Area Discovered"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<543F15EE>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field Crafting Complete"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<2B3FB0A9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "City Survivor"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<28639BBB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Affinity Scene Viewed"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<D5EA4104>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Unique Monster Defeated"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<33346EA6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Capture Complete"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<92DF3C84>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Intervention Concluded"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<170A2ACA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fog Rift Sealed"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<4723DB75>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Map Progress"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<3CB4C952>",
+      "<554EE944>": 5,
+      "<DBAF43F0>": "Time"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<472FCADF>",
+      "<554EE944>": 5,
+      "<DBAF43F0>": "Weather"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<F99DA356>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Community Expanded"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<28058A49>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Community Tasks Complete"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<809DAB4E>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Containers Complete!"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<93060AD2>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Relics Complete!"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<80FC7BEC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ether Channels Complete!"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<42AA913C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Locations Complete!"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<858A62D6>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Landmarks Complete!"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<B5BEB2CC>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rest Spots Complete!"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<5166A4FB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Secret Areas Complete!"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<2AA725AA>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field Crafting Complete!"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<0C53DB18>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "City Survivors Complete!"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<B66912F4>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Switch Level"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<6D1F7464>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Switch Level"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<A62F9A49>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Containers Claimed"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<420C349A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Relics Claimed"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<2C64E2D5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Ether Channels Harvested"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<45ABB903>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Locations Discovered"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<197EF88B>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Landmarks Discovered"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<63A2F5BD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rest Spots Discovered"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<678A65FB>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Secret Areas Discovered"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<2F5A9130>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field Crafting Complete"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<1AC30DEF>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "City Survivors"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<1AAD6E04>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Affinity Scenes Viewed"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<157FE997>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Unique Monsters Defeated"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<0E18C79A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Captures Complete"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<B14D5297>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Interventions Concluded"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<0396E622>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Fog Rifts Sealed"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<BB18913C>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<64313BF4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<E59770A7>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Enemy Territory"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<09689B03>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Intervention"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<0444589A>",
+      "<554EE944>": 13,
+      "<DBAF43F0>": "Fog Rift"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<C1615182>",
+      "<554EE944>": 17,
+      "<DBAF43F0>": "Ladder"
+    }
+  ]
+}

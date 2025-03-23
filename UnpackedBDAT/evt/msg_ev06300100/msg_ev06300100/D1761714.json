@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<93DC4111>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That was...Joran."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<52F6E4F6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah. Sure was."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<AAFF7323>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I swear, he hadn't changed one bit."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<68FD6365>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But this... This isn't OK."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<64B161B5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "People shouldn't have to make such\nheartbreaking choices."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<F316D750>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<1C7D0D4B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's exactly why...we gotta move forward."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<91D8CBD3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah, well..."
+    }
+  ]
+}

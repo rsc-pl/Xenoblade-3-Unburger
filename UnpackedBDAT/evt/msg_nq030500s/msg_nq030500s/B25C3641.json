@@ -1,0 +1,134 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<82FB1434>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 18890881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, Sena... Did that No. 9 have\nsome beef with you or something?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<72C900FD>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16793729,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What? How did you know- Wait,\nyou didn't see us, did you?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<4B6FE666>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Frankly, everyone knows already.\nYou do something to piss her off?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<C5305926>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No...! Well, I didn't mean to. We'd never\nhad a proper conversation before that."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<B23A85A2>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Speaking of No. 9...I remember her arguing\nwith her comrades when they were trying\nto cull the monster population."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<E9F7077C>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33184,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In that case, maybe she just\nhas a short fuse or something?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<88039C05>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You think...? I have the feeling there's\nmore to it than that..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<5014F0EE>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm sure they all have their reasons.\nWe shouldn't get too involved."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<2384BB12>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, but it's bloody awkward to leave\nmisunderstandings unresolved, 'specially\nseeing how she can be so openly hostile..."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<7AC9F856>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I agree... I think we should try talking to\nher again and bring it up subtly."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<E821EF28>",
+      "<ACF3531A>": "zX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So Her Majesty the Queen wasn't the real\ndeal... Who'd have thought it? So what is it\nthat we've all been fighting for exactly?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<8761809C>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I get that your hope's all worn out, love.\nBut you've gotta give a thought to what\nthe future has in store for you."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<11E42F2C>",
+      "<ACF3531A>": "zX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's fine, I'm not totally down in\nthe dumps or anything. Wallowing in\nnegativity... That's not my thing."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<ED54DE8C>",
+      "<ACF3531A>": "zX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let me know if there's anything I can\ndo to help, OK? It's about time we put\na stop to these Moebius mudders!"
+    }
+  ]
+}

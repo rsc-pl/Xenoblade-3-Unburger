@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<4F650838>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Phew... We took it down somehow."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<3756BB61>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They sure don't mess about with\nthe work detail here..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<4F0C1A3E>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Our duty is accomplished.\n...What now?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<66B4147C>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We should probably go report it, but-"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<24C356EE>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, what? You already took it out?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<E17994E2>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But I barely got to go nuts yet!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<76688CD9>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "\"Go nuts\"...?\nYou really have a taste for battle..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<10646D58>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah well, what's done is done.\nYou dags better hop to it\nand report to the guard."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<8955CB33>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh? Are you sure?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<DDCBFFC2>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sure I'm sure.\nYou earned it, didn't ya?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<2BF78EA6>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Anyhow, since there's not a lot of attention\non this place now, we'll take a look around\nand scope things out for tomorrow."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<96C47D8B>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All right, if that's how you want to play it..."
+    }
+  ]
+}

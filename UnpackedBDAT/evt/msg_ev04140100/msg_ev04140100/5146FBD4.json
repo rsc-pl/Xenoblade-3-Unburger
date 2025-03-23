@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<DECE372A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "GASP! All the food's completely gone!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<7D162F83>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](gasps, startled awake)"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<6D3CA68E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Whazzup? What's wrong?!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<DD35EE20>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What did you say was gone?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<7CF43973>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I think she was yelling about food?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<AC734D29>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Wha-? No way! For real?!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<83ED0E74>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Friends sure did not just\nput elsewhere and forget?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<4455B77B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Nuh-uh, I'm positive it was right here!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<EE90D6F0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Indeed, I checked it myself before I turned in."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<C2BDA860>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Don't tell me someone scoffed the whole lot?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<3BCF2B95>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ugh, no way..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<DE87F5AA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Mmmeeehh..."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<2A6851FD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Manana will leave no plate unpolished..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<14F9772C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That awful!\nFalse accusation!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<DE370C28>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Not even Manana ever stoop\nto such crude vulgar behavior!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<CEB94C41>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "All right, all right, we get it,\njust chill out already."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<A8941447>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Manana refuse to become frosty!"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<1B3AF9ED>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This now matter of honor and dignity!"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<6F8CE437>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "For starters...!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<9CCECC37>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I know Manana was feeling a bit peckish,\nbut she can't have eaten up the lot..."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<C4D37C16>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "So, who then?"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<78F940FC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Hrmm..."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<64EDCF6D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Hey! Check it!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<A67CEF80>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "...A feather? But what kind?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<9F52031A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I found tracks, here!"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<7D826BA4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "These footprints... I think they're...Tirkin!"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<4755F1AF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Mystery solved, then.\nA Tirkin feather!"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<542178F8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Sooo... They raided our supplies?"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<B971B3E0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Manana so victimized!"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<5B2C2C64>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Why nobody even consider\nRiku for culprit, hm?!"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<A7915261>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Clearly it wasn't Riku.\nThat guy barely eats at all."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<E15D2B00>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Right?"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<C33B91D4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Indeed! Riku practice ancient\nNopon art of restraint."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<20401DEC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Manana do not."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<B997ECF1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Meh-meh!"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<53187C19>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Wh-what that?!\nRiku imply Manana is big glutton?!"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<FB7B8791>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Nobody's blaming you here, Manana."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<8D3D2517>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Uh-uh, heavy implied."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<A68DD751>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Ears of Manana hear it clear:\naccused of being absolute greedypon!"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<A31F6BD4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Look, we're sorry, OK?"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<B8273EA4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Lanz can stuff apology!"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<FE9219BF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Honor and dignity of Manana left in tatters\nfrom vile and baseless accusation!"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<4EFB8A44>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "C'mon, please, lighten up already..."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<3CD4BA1F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Manana not lighten up even if receive\nten thousand Tasty Sausage!"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<23B98932>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Ten thousand?! They'd go fuzzy before you ate 'em!"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<B83F6D4A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "All accusations aside, we're\nreally...strapped for food."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<FF30BDDF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Guess we'll have to go foraging."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<D3ABDA4A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I concur."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<62EDB05E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Luckily, this area is pretty bountiful all in all,\nso we might not be too hard-pressed."
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<59C56548>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Well, better get to it."
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<54D88B52>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Right."
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<B218CB77>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "'Kay!"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<462FFAB1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Conclusion is not foregone!"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<62AC0526>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Manana can easily eat one thousand per day."
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<7B1DCA81>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]\"Best before\" is fifteen days, so all peachy!"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<140B6A44>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]What now? Uh, best before what?"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<51DCD1C1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Anyway, that clearly too much eat."
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<C7D6B16C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Manana is bottomless pit."
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<F61FF6A7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Meh-meh!"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<A285BB69>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Whuh- Will have Riku know\nManana is dainty eater!!!"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<25D856A2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Not denying."
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<00ECAF2A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Lies! And deceit!"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<C97B4514>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "On this day of days,\nManana will have retribution!!!"
+    }
+  ]
+}

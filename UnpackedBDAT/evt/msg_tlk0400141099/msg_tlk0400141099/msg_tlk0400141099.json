@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "talker",
+      "type": 7
+    },
+    {
+      "name": "talkattr",
+      "type": 2
+    },
+    {
+      "name": "talkattr2",
+      "type": 3
+    },
+    {
+      "name": "talkattr3",
+      "type": 3
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk0400141099_msg0001",
+      "talker": "",
+      "talkattr": 33024,
+      "talkattr2": 16513,
+      "talkattr3": 1072,
+      "style": 126,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "tlk0400141099_msg0002",
+      "talker": "",
+      "talkattr": 33024,
+      "talkattr2": 16513,
+      "talkattr3": 1072,
+      "style": 126,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "tlk0400141099_msg0003",
+      "talker": "",
+      "talkattr": 33024,
+      "talkattr2": 16513,
+      "talkattr3": 1072,
+      "style": 126,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "tlk0400141099_msg0004",
+      "talker": "",
+      "talkattr": 33024,
+      "talkattr2": 16513,
+      "talkattr3": 1072,
+      "style": 126,
+      "name": ""
+    }
+  ]
+}

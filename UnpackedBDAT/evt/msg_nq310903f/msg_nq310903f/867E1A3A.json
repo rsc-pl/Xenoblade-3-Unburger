@@ -1,0 +1,494 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B71980C3>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So that's our strategy.\nStand by till we deploy."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<1ECE14D8>",
+      "<ACF3531A>": "_m1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Understood!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<F21FDB02>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You! Stay focused. The battle's\nalready started. Remember that."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<B97B5D0A>",
+      "<ACF3531A>": "_m1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Y-yes ma'am!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<26A12D4B>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yep, voice like a Skwaror..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<AFAB2657>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Psst! Joulietta!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<BDBC9D1B>",
+      "<ACF3531A>": "Yl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, it's you again...!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<B55A33E8>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "When did you sign up\nwith the Lost Numbers?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<33FB7B85>",
+      "<ACF3531A>": "Yl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The very day that followed when we met.\nWhen poor Romero came to seek my hand."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<DBC3C16B>",
+      "<ACF3531A>": "Yl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In fact, since I was but a tiny girl,\nI've wanted to be like our Monica."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<27A23CC7>",
+      "<ACF3531A>": "Yl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But woe, my father wouldn't let me join.\nHe said the soldier's life was not for me..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<E1C03981>",
+      "<ACF3531A>": "Yl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But now I'm older, and it's past the time\nwhen I should act upon my own desires."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<46B17AC7>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Do Garrett and Romero know...?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<565BAEFC>",
+      "<ACF3531A>": "Yl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Why, no!\nSo keep it deathly secret, if you please!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<4B8BF805>",
+      "<ACF3531A>": "Yl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm thinking when this coming fight is done,\nI'll tell them everything that's on my mind."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<4A4878BA>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Keep this up and your first battle\nwill be nothing to worry about."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<9E3280CA>",
+      "<ACF3531A>": "Yl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, ma'am!"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<70B2F94D>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You showed a lot of promise\neven when I was teaching you.\nI'm expecting great things."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<7FE106F1>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh, are you here to help as well?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<7E479A8D>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We're after something pretty\nhuge, so you'd be a big help!"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<86BA1B95>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What are you going for?"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<4FD6F0D8>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We're going to obtain \"growth modules\"."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<1436DB8E>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "She's an excellent soldier but Joulietta\ndoesn't have combat experience yet."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<9883923F>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think it'd be good for her\nif you came along."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<D36C9798>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This is, without a doubt,\ngoing to end in combat."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<3570AE46>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Romero's not gonna\nmake it in time, is he?"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<0B19D0F4>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We should go in his place, then, to make\nsure Joulietta doesn't do anything reckless."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<CBF3A0C7>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Kabata, we're in."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<1720C6B6>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I knew you would be!"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<F70C7DEB>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, so the plan's simple. We attack the\nKevesi transport Levnis that's carrying\nthe cage."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<1673F014>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll stage the attack at the base of the\nGreat Sword, in the N'ohm Wetlands."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<E63A0F7C>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now, you can join either the vanguard\nor the rearguard. Which'll it be?"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<60D5CA3B>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Do you prefer the van or the rear?"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<E679C467>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Vanguard."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<0D88AE51>",
+      "<ACF3531A>": "",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Rearguard."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<A82D8B54>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll take the vanguard."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<17668FEB>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll be able to pull off a pincer\nmaneuver with Joulietta."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<DA61C1A0>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll take the rearguard."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<1BA5D967>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It'll be better to attack from\nbehind with Joulietta."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<CF57BC36>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, let's get moving!"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<9700C47E>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I've just sent you the rendezvous point."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<550E6399>",
+      "<ACF3531A>": "sk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll head out to the attack point.\nYou come along as soon as you're\nready, yeah?"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<D8024AEE>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Got it."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<5C9E4478>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, we've fallen on our feet here.\nBetter we do this than Romero, anyway..."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<AED88902>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You might be right..."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<7CE10C25>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, let's keep Joulietta\nsafe and get this done."
+    }
+  ]
+}

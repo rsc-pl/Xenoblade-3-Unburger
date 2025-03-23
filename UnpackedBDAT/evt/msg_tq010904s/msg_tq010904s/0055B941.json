@@ -1,0 +1,284 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<002C0D73>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So...what do we know about natural spas?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<01EB2E2A>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "To summarize, hardly much of anything,\nexcept that they can heal and restore you."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<53224633>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We didn't get the most concrete info, huh?\nNobody's even been to one."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<982D0A7D>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 27279489,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Look at this poor clod...Isurd's so haggard,\nI think we're gonna lose him."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<B4D32CA6>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 12599425,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Just how do I look to you...?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<2AFD0A25>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "One thing's for sure, we're not gonna\nfind one with what we've got so far."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<617FD244>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33200,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We've no clue where one actually could\nbe... Like, in a forest, under a cliff?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<84648072>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, realistically we can't just blindly\nsearch everywhere."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<B6CCE51E>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But it does sound kinda cool,\nright? Just soaking your body\nand somehow healing?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<4E735663>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, but soaking in what?\nIt sounds a lot like a bath.\nIt can't just be a bath, right?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<54BBB3CF>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "From the way they talked I thought the\nsame. But I've never been in a bath that\nhealed my wounds."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<A6D84A38>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Maybe it's a question of\nusing the right soap?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<760F18B2>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sir, I hate to think we've wasted\nyour time, but if we can't come up\nwith any more results..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<14F61753>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Heh, I'm grateful for your concern, but\nhonestly I've been enjoying myself."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<5C12357C>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We might not find anything, after\nall our searching, but there's just\nsomething in all this talk..."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<F0CFF3DA>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Just hearing that gave my heart a\nmuch-needed jolt... Though that might\nnot be the best way to put it."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<76E8E592>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No, I think you have it right."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<FB6BB6C8>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, I'd be lying if I said I didn't care\nwhat happens. Let's keep searching\nfor a little bit longer."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<BDC3FCA7>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Then let's go ask the bloke that people said\nwould know about this whole spa business."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<3918C332>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What, that trivia king guy?\nOr the supposedly-dead guy?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<34B5372C>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The report of his death could still turn out\nto have been a mite exaggerated."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<59AD0645>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We don't know whether trivia king and this\ndead-or-not guy are the same person,\nbut it's worth finding out."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<5823F49E>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I know I've said it before, but I've certainly\nsaddled you with a tough task..."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<D8B029BA>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 27279489,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, enough of that! We're giving your\nspirits a lift and all that. Once we find this\nnatural spa, we'll chuck you right in it!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<350C3856>",
+      "<ACF3531A>": "A",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16793729,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Haha! Then you had better really find it!"
+    }
+  ]
+}

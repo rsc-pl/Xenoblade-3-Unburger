@@ -1,0 +1,314 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<1F79C5A0>",
+      "<ACF3531A>": "vl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, tell me what you know."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<713335C0>",
+      "<ACF3531A>": "yl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let me send you what Taion and I\ngot from analyzing the maps."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<4D2E0D90>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "First, about infiltrating the island itself...\nIt appears that there are natural caverns\ndirectly underneath Agnus Castle."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<FB707E1D>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If we break through one of the walls,\nthen climb the cliffs, we can avoid\nmost of the guards' attention."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<69013A61>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There should be even less chance\nof us getting caught if we do it under\ncover of darkness."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<3C7ECB42>",
+      "<ACF3531A>": "ti1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I seem to remember a little inlet\nnear Hykt's Cove."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<688957E9>",
+      "<ACF3531A>": "ti1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It could be a good place\nto wait for nightfall."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<ABEE0A11>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Once we've ascended the cliffside,\nwe can approach the camp from the back."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<E9F454A9>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Notice the air vents? I expect one of\nthose is our way in."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<0FC5C18C>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's quite a drop."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<D0DC2B26>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Indeed. They won't be any use for\nexfiltration. Those ID devices are\ncertainly going to be a help."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<78486EB5>",
+      "<ACF3531A>": "yl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well if they're not and you're spotted,\nyou'll all be rounded up in seconds."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<EE39FD08>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So, assuming we get into the prison,\nhow exactly are we supposed to\nblend in?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<993044DC>",
+      "<ACF3531A>": "ti1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "See how the vents also connect\nto the central cell block?"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<20466E90>",
+      "<ACF3531A>": "ti1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It should be easy for you to mingle\nwhen the prisoners are all in one place\nfor morning assembly."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<F8C8C073>",
+      "<ACF3531A>": "yl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "After that, you can move about in the open,\ncalm as you like. As long as you've got an\nID device, they won't suspect a thing."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<F96DD099>",
+      "<ACF3531A>": "vl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Once you're inside, you should\nmake contact with Ghondor as\nsoon as possible..."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<BE798C6A>",
+      "<ACF3531A>": "vl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I've prepared a few possible plans\nof action for when you're ready to\nleave the camp."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<2B9FE29D>",
+      "<ACF3531A>": "vl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You'll need to change plans as the\nsituation demands. Everyone needs\nto play their part."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<DE2E66C9>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Once you're on Agnian soil,\nI'll head back to the City and stand by."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<A77003EB>",
+      "<ACF3531A>": "vl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you manage to extract Ghondor without\ncausing too much noise, we can\nrendezvous at Patulia Bay."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<4B28A573>",
+      "<ACF3531A>": "vl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And if you don't, well..."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<7E6CA4CB>",
+      "<ACF3531A>": "ti1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you don't, you just dive right into\nthe water below the western gate,\nand we'll come fish you out."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<03CFC40C>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Give 'em a good booting from me, eh?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<B0F9B712>",
+      "<ACF3531A>": "vl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you can get out quietly, head\nfor Patulia Bay, where you'll\nrendezvous with Kisame."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<DB1BB1A2>",
+      "<ACF3531A>": "vl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But top priority is breaking out Ghondor.\nBlast the western gate off, if you must."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<34E5648E>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, it seems like we've got\nour plan in place."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<7248F6E4>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Riku roger that. When preparations ready,\nwe take Boundary to Hykt's Cove."
+    }
+  ]
+}

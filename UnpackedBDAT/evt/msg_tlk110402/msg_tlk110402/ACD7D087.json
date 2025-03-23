@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<29717DAE>",
+      "<ACF3531A>": "aX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Our destination for this mission is\nAlfeto Valley. It's still a ways away\nfrom here, though."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<33B7A316>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's a tough trek for a Levnis. You sure\nyour ether cylinders are gonna last the\nway?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<8667B4F7>",
+      "<ACF3531A>": "aX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "With these new Levnises, we should be\njust dandy. That's exactly why they sent 'em,\nI imagine."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<41E12669>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Gotcha. Just the kind of big-gun\nsupport you'd expect for a royally-\ndecreed mission, huh?"
+    }
+  ]
+}

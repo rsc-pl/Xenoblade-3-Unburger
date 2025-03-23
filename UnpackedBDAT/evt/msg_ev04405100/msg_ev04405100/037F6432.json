@@ -1,0 +1,792 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<ABBA702D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Um...are you sure we're on the right path?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<139AF276>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Doesn't this feel off?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<D0A2CAF4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We followed the right route..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<1504342C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "According to Bolearis's data, we should be..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<0E2E587B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Everything here look so sumptuous and lavish!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<FFB7FAD3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Wait..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<1982E192>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Hm?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<F8260D7A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It's the right path, but..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<C0CAC381>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We shouldn't be here!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<08A564F8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What do you mean? Why shouldn't we?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<7318602D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Uhh..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<512C4B57>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I should have known!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<8737A1F9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Th-this place.\nI saw an image of it in training."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<E4BBABCD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Oh. Oh..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<8D993FE9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Shit, we gotta go!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<F219CD58>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Noah, is this where I think it is?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<E5BED30C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<54F80464>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The throne room!"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<51044A3F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This not just bad place."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<2AD0DB01>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This worstest place, heart of enemy base!"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<92B8AA6F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We haven't been noticed yet.\nLet's get out of here, now!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<427992F1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Good idea."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<1815999A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What are you doing?! We have to go!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<C7E48C2E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Noah, what're you playin' at?! Come on!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<8AE33646>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](awed noise)"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<3A27288E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Is this...?"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<95FADB30>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah. I barely remember it...but yeah."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<B850C4AB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This is the place...where we were born..."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<BB437AF4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Spark... This is creepy."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<35A3B41A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Were we...ever like that?"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<BAC14FD1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "My skin's crawlin'...\nPlease can we leave?"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<4685E2D9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "All those people... Do you think they're sleeping?"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<E135398F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Or maybe they're..."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<9B2F158D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Wait, is that...?"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<D41573D7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It *is* her!"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<514920D5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What?"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<A5BE46DA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ethel!"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<BFCB8CFF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Huh?!"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<DC013432>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's crazy.\nHow can it be Ethel?"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<1F8FFAA5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Well, it sure looks like her...\nbut this is definitely a first-termer!"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<B67AFFE3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "No. It really is Ethel."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<D019AF19>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "From when we first met her."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<9909DC37>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah. No mistake."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<1B166496>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What do you mean, when you first met...?"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<56B12D20>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What in the...spark...*is* this?!"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<61B16C77>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This is what they taught us, right?"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<6DD971E9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That our lives are born from the Queen..."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<4BBF9A77>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You are as well?"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<E37A720E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Huh? Same for you guys?"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<9AF0E9C8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We soldiers are born from the Queen, we fight..."
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<D59794FE>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "and then..."
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<2BAEB3F5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "To the Queen you return."
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<CF017473>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Huh...?"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<8ABF0F6B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Th-the Queen..."
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<6EB70944>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Melia..."
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<A12BC066>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's the...Queen of Keves... Melia..."
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<C12E0631>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You have returned..."
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<C6226E55>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "My beloved...soldiers..."
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<29801CA7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(disturbed gasps)"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<0F41DEBC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(disturbed gasps)"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<86EC60A8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(disturbed gasps)"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<7805953F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(disturbed gasps)"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<73E70417>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(disturbed gasps)"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<ACD92894>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(disturbed gasps)"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<7E5FF28C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(disturbed gasps)"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<562FFB6C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(disturbed gasps)"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<6898D302>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Uh?"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<1D98EA2B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "A Consul?"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<66E7F9B9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ouroboros rabble."
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<BF0F5F48>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You dare to intrude on the presence of\nHer Majesty, Melia Antiqua?"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<E0D03651>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](spooked)"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<44432BE1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "There's a Golden Consul...?"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<5E11FCD9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What is this guy?"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<BBABB74A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "He's not like the other Consuls we've met...\nMio, be careful!"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<1CD79CDD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](entranced breath)"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<E309F8CC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Mio!"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<69C5E0E0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](surprised)"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<A95437AF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ah...sorry."
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<78F1497D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What's wrong?"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<12A87606>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Uh, nothing. Don't worry."
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<B30E05C4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I'm OK..."
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<30868E2F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](suspicion)"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<60C6A335>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(I know him...)"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<CDC194A7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "(But from where...?)"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<A7B4C584>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](pain)"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<8B51B4DD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What is...this sensation...?"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<B346BB59>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I have endeavored, for countless years..."
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<3C565615>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "to protect...and shelter Keves\nunder my aegis."
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<CDCBE321>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "And now you seek to bring ruin to this world."
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<2DA24C28>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This grieves me."
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<60D686CC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Come off it. How are we bringing ruin to anything?"
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<FFD8094F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You seek to deny it?"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<5A92F2FE>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Think. Upon your actions."
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<A0A9EFCB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Have you, or have you not...\ndestroyed Colony Flame Clocks?"
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<3FFD75B6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We didn't have any choice!"
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<180CB716>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "No choice?"
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<A2FE7BBC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Indeed. I assume then...you had no choice\nbut to collude with our sworn enemy?"
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<7453349E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's why you've been trying to wipe us out?"
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<D1F36472>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Both us, and Ethel's Colony 4?!"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<B1F09D86>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Verily it is said..."
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<2BCB2758>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Ouroboros abhor this world."
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<64931685>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You must be erased, lest this world be destroyed."
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<C6203FF5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We don't \"abhor\" anything!"
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<27BB7700>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Do you realize how many battles\nwe've fought and won for Keves?"
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<1F9473D3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "We've served you our whole lives.\nAnd now this bollocks?!"
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<C6F85136>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Your Majesty! Please!"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<DAA9FCCF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You say you fight for Keves?"
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<C1C27B0F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That you've served *us*?"
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<A1AFB82C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Are you certain?"
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<2EF89201>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Rather it seems...you have been fighting\nfor yourselves and none other."
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<F00BB667>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](shocked, exasperated)"
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<69DE1FAD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](shocked, exasperated)"
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<546491A0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](shocked, exasperated)"
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<8CC5D609>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](shocked, exasperated)"
+    },
+    {
+      "$id": 115,
+      "<8C7DD24D>": "<6321EB0B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](shocked, exasperated)"
+    },
+    {
+      "$id": 116,
+      "<8C7DD24D>": "<5DFD3F83>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](shocked, exasperated)"
+    },
+    {
+      "$id": 117,
+      "<8C7DD24D>": "<B61C3394>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You cling to life in your desperation."
+    },
+    {
+      "$id": 118,
+      "<8C7DD24D>": "<3FF83259>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That is why you have fought."
+    },
+    {
+      "$id": 119,
+      "<8C7DD24D>": "<D1184CB8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](breath, smouldering anger)"
+    },
+    {
+      "$id": 120,
+      "<8C7DD24D>": "<74260F10>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Unchecked, Ouroboros will lead this world to ruin."
+    },
+    {
+      "$id": 121,
+      "<8C7DD24D>": "<6D769F45>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Now, by my authority, you shall perish."
+    },
+    {
+      "$id": 122,
+      "<8C7DD24D>": "<B5DE9120>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "So..."
+    },
+    {
+      "$id": 123,
+      "<8C7DD24D>": "<298B12AA>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's it? That's your verdict, then?"
+    },
+    {
+      "$id": 124,
+      "<8C7DD24D>": "<B537A07C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It is not Her Majesty's \"verdict\"."
+    },
+    {
+      "$id": 125,
+      "<8C7DD24D>": "<FBAC77A1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "'Tis the will of the world."
+    },
+    {
+      "$id": 126,
+      "<8C7DD24D>": "<5BB3EF6E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It's what?"
+    },
+    {
+      "$id": 127,
+      "<8C7DD24D>": "<3AB0D269>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Indeed. The security of this world is paramount!"
+    },
+    {
+      "$id": 128,
+      "<8C7DD24D>": "<AC20B764>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Therefore, Ouroboros..."
+    },
+    {
+      "$id": 129,
+      "<8C7DD24D>": "<19E9674B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The end is nigh...for you\nshall die by my hand!"
+    }
+  ]
+}

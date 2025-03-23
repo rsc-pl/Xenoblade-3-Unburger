@@ -1,0 +1,194 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<7EC6740D>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "(Huff, huff) Where did that thing come from?!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<48912C83>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You don't think this device was...?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<3B47103C>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A trap? Yeah, no, hundred percent it was.\nSorry about that, Matthew."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<BFC98059>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ugh, dammit! So much for\nmy hopes of a payoff..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<77C1BF63>",
+      "<ACF3531A>": "b1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hold that thought, Matthew."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<4C9E206B>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<434BF04D>",
+      "<ACF3531A>": "b1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Look. Beneath the relief."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<AEFD58D2>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is that...?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<1040B222>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And now we know the true\npurpose of this contraption."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<9A790759>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So that's what this is about...\nAnd that monster'll have been\nset there guarding it."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<9595CF1E>",
+      "<ACF3531A>": "vp1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A blessing in disguise, eh, Matthew?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<A5D72320>",
+      "<ACF3531A>": "gq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I have to hand it to you, Matthew.\nFine work."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<857F7548>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh? O-oh, yeah! See?\nMy intuition never fails me!"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<0BB2B183>",
+      "<ACF3531A>": "d1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, except you were the one who\nactually spotted the whole thing, A..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<39E449BE>",
+      "<ACF3531A>": "b1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Shh. Let him have his moment."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<199CF058>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Anyhow, we found the treasure.\nBe a waste not to make good use of it!"
+    }
+  ]
+}

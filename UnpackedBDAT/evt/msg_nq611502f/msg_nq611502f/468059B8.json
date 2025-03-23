@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<A6B6BA0A>",
+      "<ACF3531A>": "rq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I actually tried looking into it one time,\nmyself, but it seemed like a massive pain\nto fix up. Didn't know where to start."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<720D4F4D>",
+      "<ACF3531A>": "qq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But it's definitely possible, right?\n...That is, leaving cost out of the equation."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<22DD53CE>",
+      "<ACF3531A>": "xq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Bringing the cost down is exactly why\nwe're needed here, isn't it?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<839EB511>",
+      "<ACF3531A>": "nq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But Matthew, isn't this a City problem?\nDo we really need to beg for help...?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<D5C860EA>",
+      "<ACF3531A>": "yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If it enables us to use aerial routes,\nour logistics will get a much-needed\nboost in efficiency."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<89761C73>",
+      "<ACF3531A>": "yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Getting it done would benefit everyone here.\nI think we'd be mad to pass this one up."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<737A5D5F>",
+      "<ACF3531A>": "nq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh, right... Valid point."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<18BCA232>",
+      "<ACF3531A>": "rq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All on the same page, then? Great!\nNow how about we get to laying the\ngroundwork?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<C35557E7>",
+      "<ACF3531A>": "xq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If there's anything we can do to help,\njust shout. We'll sort it out."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<651D9C4E>",
+      "<ACF3531A>": "yq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Better start rounding up the materials.\nCan someone get a list going?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<ED9117FB>",
+      "<ACF3531A>": "nq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...All right, then.\nWe'll defer to you here, Matthew."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<DA7A26EE>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I appreciate the vote of confidence."
+    }
+  ]
+}

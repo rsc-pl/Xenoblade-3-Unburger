@@ -1,0 +1,364 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<634DE3A5>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 18890884,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Sena.\nOnce again, I wish to make a request."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<0F7137E6>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 58736771,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A request... Uh, to me?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B6A3F0D8>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Affirmative.\nYou are uniquely qualified to fulfill it."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<1B031579>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33168,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It sounds so formal...\nI gotta admit, I'm kinda nervous."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<1E3DCD94>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, goes to show how much she\ntrusts you, innit. So, whatcha need?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<4FE4E8B6>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I require assistance in devising what\nyou call...\"names\"."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<6452F539>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Names for who? Or what?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<63FDC203>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No. 6, No. 3, No. 15...\nAll the members of Colony 0."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<DA98E2AB>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 32897,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Similar to Segiri...I mean, me, they should\nhave names. Not identification numbers."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<C127D7E3>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<480DB899>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 32897,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "As you know, the soldiers of Colony 0\nare unfamiliar with the concept\nof \"names\"."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<2829F1C8>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "As components required to operate\nFerrons, we did not have the luxury to\nquestion such things..."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<94BD54BE>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 58736769,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, Segiri..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<B23EE635>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But when you, Sena, told me that\nSegiri could give No. 7 orders..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<B6D6D78F>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The moment I reconfigured from No. 7\nto Segiri, I realized there had been an\nerror in my thinking."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<15A3A325>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I began to confront the simple fact\nthat we are human."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<89667F05>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And that's why you want names\nfor everybody?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<3C33012E>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If everyone can acquire names and\nbecome more human, they could feel\nthe same as I do."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<37C65261>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If we can do that, perhaps our colony\ncan forge a better path than the one\nit is currently on."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<C99086DA>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Aww."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<2E58E940>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 18890881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Will you do this for me, Sena?"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<9A7FA477>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 58736769,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "When you put it like that...\nI'd love to be all \"absolutely\", but..."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<4278BAEE>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But...what? What's up?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<3FDDCFE1>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33168,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I mean, it's kind of a huge\nresponsibility! I have to think\nabout it real carefully..."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<95F5B5C4>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 18890881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This isn't like you, Sena. What happened\nto the gusto with which you invented the\nname \"Segiri\"?"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<4D7AA3BD>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 14696577,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That was...! I mean, I was thinking about\nSegiri a lot, and that name just sort of...\npopped into my head."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<6903A0DF>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 58736769,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A-anyway, Segiri, I'll give this a good\nhard think, so can you give me\na little time?"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<7F35B05F>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 18890881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Of course. You have my gratitude, Sena."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<FB4CE343>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Why don't we take this opportunity\nto look back on everything that's\nhappened so far?"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<13839637>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The people of Colony 0 have been\nthrough a lot. It might help you come\nup with some names."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<0C0C1C05>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 10502273,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh yeah... Good point, Mimi.\nLet's do that then!"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<4BA5EEFB>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "With all that's been going on, we might\nas well take a stroll round the prison.\nI'll come up with something."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<A3497ACF>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Compliance. I will accompany you."
+    }
+  ]
+}

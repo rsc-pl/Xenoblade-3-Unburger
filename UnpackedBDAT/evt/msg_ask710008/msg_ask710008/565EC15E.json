@@ -1,0 +1,134 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B9C7EA88>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Did you notice how in the City, people\ncalled \"adults\", like Monica, teach those\nsmaller folks things?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<2770419D>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Not \"smaller folks\", Eunie.\nThe word's \"children\"."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<E65F3345>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I saw adults reading books to children.\nIt was a really peaceful scene, somehow."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<C69C27C4>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah... I remember in our old training\nand lectures, they'd basically beat stuff\ninto us. Nothing so relaxed as this!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<B29FA354>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I imagine Monica would say this\nis how things are meant to be."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<357399F5>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "She'd have a point. I can't really imagine\nthose children holding weapons, fighting\nfor their lives..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<91660543>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Before Monica became an adult,\ndo you think Guernica read to her\nlike that too?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<C81FD37B>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I guess...he might have?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<2C036D5C>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Strange, isn't it?\nI can't picture it at all."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<476B4DC8>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeahhh... Bit outlandish, innit..."
+    }
+  ]
+}

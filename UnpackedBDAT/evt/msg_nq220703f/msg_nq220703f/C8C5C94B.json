@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<844A9CA7>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, hi! Thanks for coming!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<D2E3A9AB>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How's it going?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<AE3F17C7>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Not bad! I managed to get all the\nrelevant approvals. People have\nbeen really nice to me."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<9B9C98E2>",
+      "<ACF3531A>": "bg1",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmm, I think this one's cuter.\nWhat do you think, Nico?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<792A85AE>",
+      "<ACF3531A>": "@f1",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Between this one...or that one?\nHnghhh, I, the one and only Nico,\ncan't decide!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<3D60264F>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Look at all the customers I've got!\nAnd it's all thanks to you!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<2AB8B550>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I am a bit nervous when it comes to\nshowing my things to the public, though."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<B397B581>",
+      "<ACF3531A>": "bg1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You know what, I'm just going to\ntell everyone about your work!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<8F25DFE8>",
+      "<ACF3531A>": "fd1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "O-oh, that would be lovely,\nbut you don't have to go to-"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<79CCAF59>",
+      "<ACF3531A>": "bg1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Just wait here!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<24684000>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Aaand she's gone."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<29A3D674>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's stick around and see\nwhat happens, shall we?"
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<5E950363>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Brave Assault"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<13D19541>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Lightning Quick"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<E6954314>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Pinion Primed"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<E0A13BC5>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Art of Subjugation"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<C4561E4C>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Tyrant Wave"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<DB35E2CE>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Bombshell Blitz"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<92FC15D2>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Wintry End"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<C4DFEB46>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Noogie Storm"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<251974D2>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "War of Attrition"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<C32DAA5A>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Elegant Maelstrom"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<ADE5D7FE>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "The Indomitable"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<01F44478>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Lost Advent"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<80E7BD82>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Salvation's Ripple"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<B3C183DA>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Ether Absolute"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<6A016BF1>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Bullet Hail"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<E4C61427>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Deflector Form"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<F67490DF>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Dragon Unbound"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<4E61EEF4>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Whistling Blades"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<A1D836F8>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Radiant Cascade"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<250A1E69>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Saber Siege"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<5B385B5B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Barbarous Rage"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<21D4C886>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Galactic Flight"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<031A9C90>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Viscous Venom"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<0B1CF9E8>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Avalanche Onslaught"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<6EFAB3A8>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Ruthless Persecution"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<034F9600>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<511348AF>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Limits Unbound"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<BAC6731F>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Death of 1,000 Cuts"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<442A9C98>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Brilliant Ascension"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<AB3C332C>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Grand Design"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<2C74703A>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Demon Punisher"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<9468F4E6>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Big Bang Implosion"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<DE32DC35>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Ino Unlimited"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<CD338351>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Radiant Artificer"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<DF7377D5>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Liberation Edge"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<9C538B6F>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Deliverance Hew"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<49B921BB>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Lightspeed"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<38D4214E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Cyclone Form"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<1B5220AA>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Red-Hot Paean"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<79D23CF5>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Liberation Edge"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<8B070F8B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Deliverance Hew"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<3032E14A>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Ether Calamity"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<D465D4E6>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Light Avalanche"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<2A5A639B>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Cyclone Onslaught"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<43872542>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Red-Hot Furyfist"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<37EADF02>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Liberation Onslaught"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<E4618971>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Deliverance Boomfist"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<D5718AA7>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Light Cyclone"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<6C86DB72>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Red-Hot Bladeflash"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<9CBFB96D>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Liberation Blade"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<F0BF20C8>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Deliverance Flash"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<1B2C8862>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Red-Hot Cyclone"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<6CAF9EAB>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Liberation Link"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<73140CD7>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Deliverance Engine"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<B6DDFA7E>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Red-Hot Horizon"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<1D59D7E0>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Red-Hot Aegislight"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<EBBB87D7>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Sword of Liberation"
+    }
+  ]
+}

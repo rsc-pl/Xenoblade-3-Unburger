@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<3D2C01DB>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Defeat the specified number of\nmonsters in total."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<4294E0C4>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Defeat the specified number of\nunique monsters in total."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<236381CB>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Learn the specified number of Arts\nfrom monsters in total."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<66458466>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Learn the specified number of skills\nfrom monsters in total."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<118EE335>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Obtain the set amount of gold (only\ncounts some ways, e.g. auto-selling)."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<C9E63886>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Discover the specified number of\nlandmarks in total."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<94876750>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Discover the specified number of\nSecret Areas in total."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<8E83A1E1>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Raise the Affinity Level of the given\nno. of colonies/forces to at least 1."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<11E661B0>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Use this Art the specified number\nof times."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<C4D57A0F>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Deal the specified amount of\ndamage with this Art."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<E132A054>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Heal the specified amount of HP\nwith this Art."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<EDC2B5B8>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Defeat the indicated monster(s)."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<BCF3B292>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Heal the specified amount of HP\nwith this skill set (not Interlinked)."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<9C28921A>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Deal the specified amount of damage\nwith this skill set (not Interlinked)."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<668F5F3C>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Defeat the specified number of\nmonsters with this skill set."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<A16587AE>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Block the specified no. of attacks\nwith this skill set (not Interlinked)."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<5CE92D21>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "Evade the specified no. of attacks\nwith this skill set (not Interlinked)."
+    }
+  ]
+}

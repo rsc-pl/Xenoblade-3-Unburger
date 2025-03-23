@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<44D1750F>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Your victory over Moebius will certainly\nbe wonderful grist for my literary mill."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<F3AFEAEB>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're writing another novel?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<3BAF3384>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, this wouldn't be a novel, rather a\nchronicle. I want to depict you all just\nas exactly as you are, unvarnished."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<561B7541>",
+      "<ACF3531A>": "bl1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, it'll be a true masterwork, shaking\nthe world so hard that it'll echo down the\nages. Ha! The future is bright, my friends!"
+    }
+  ]
+}

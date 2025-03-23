@@ -1,0 +1,324 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<01519DDE>",
+      "<ACF3531A>": "dd1",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Aha, so that light was you."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<C620C34F>",
+      "<ACF3531A>": "Yd1",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We thought it might have\nbeen a sending-off."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<C0B521AD>",
+      "<ACF3531A>": "dd1",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It looked so...soft and gentle."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<2BB3FDDE>",
+      "<ACF3531A>": "dd1",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What did you come here for?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<F10AEAB1>",
+      "<ACF3531A>": "Yd1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wait... You did it for us?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<1113F086>",
+      "<ACF3531A>": "Yd1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm sorry you had to do that.\nBut perhaps now..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<8E2A75C9>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah. They can all rest easily now."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<8B4676AB>",
+      "<ACF3531A>": "Yd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The old commander died here too,\nand was left where he fell."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<27EBFE55>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, really?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<1B7A80D0>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He was the first to fall."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<C0C8B691>",
+      "<ACF3531A>": "Yd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He's the one who promoted\nJuniper, and ensured our new\ncommander's escape."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<173B956F>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He was so strong and kind.\nI idolized him."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<B37D93F5>",
+      "<ACF3531A>": "Yd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He was always thinking of the colony.\nHe helped Juniper get to safety and\nfought to the bitter end."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<8FB20AF1>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So he promoted you to commander...\nUnusual, but given the circumstances\nI can see why."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<D4194501>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, you carry on his legacy...\nI think that's a wonderful thing."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<5940B886>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Our off-seer at the time understood\nhow we operated. He worked hard\nto make himself useful."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<EB1D52E8>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He was very gentle, that off-seer.\nMuch like Graziana in that respect."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<8DB7A7AB>",
+      "<ACF3531A>": "dd1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Did you just call me gentle?"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<067CB4D5>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And Cardamine may be rough around the\nedges, but he takes his duties seriously.\nJust like the old commander."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<0C9936F9>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We all inherited something of\nthe commander. The whole of\nColony Tau..."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<18BD0145>",
+      "<ACF3531A>": "dd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We can see him in your strength\nand kindness too, Juniper."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<D326691D>",
+      "<ACF3531A>": "Yd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's why he named you his successor,\nand fought so hard to protect the colony\nyou'd inherit."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<F0B6056C>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes...I suppose you're right."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<831F1856>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But after meeting Noah and the\nothers, I see there's still so much\nmore we could change."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<9873A6D3>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We have to look for new trails to blaze,\ninstead of stagnating as we are."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<AF9D3666>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll help as much as we can, too."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<851311AA>",
+      "<ACF3531A>": "dd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whatever choice you take, Commander,\nwe'll follow. We believe in you."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<D9D2A5B6>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's good to hear. Thank you."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<1635660F>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll all have to band together to\nbuild a new Tau. And we'll make\nour late friends proud."
+    }
+  ]
+}

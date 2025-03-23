@@ -1,0 +1,644 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<63E21179>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33105,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Ngh..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<01CF45E4>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33105,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Valdi!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<5135EAF7>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33184,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "(cough cough)"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<6ADDEE71>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33073,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What in the...\nValdi!!!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<949805C5>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33128,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mecha...friend..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<8B843C6C>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Are you OK?!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<BFF52062>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think Mechafriend protected\nhim from the worst of the blast."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<FDBBF579>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But Mechafriend doesn't look too good..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<B19466C9>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Dorrick also entirely broken..."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<58B9918A>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33128,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<91B2D28F>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33128,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Oh."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<B87B3CDF>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33128,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You...you helped me so\nmany times, Mechafriend..."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<FD9639BA>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So I... I..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<34EA13C7>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I won't let it end like this!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<66523474>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll give you a hand.\nWith Dorrick too."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<FC523B6C>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Lanz..."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<31D86C9A>",
+      "<ACF3531A>": "na1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll help too, Commander."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<35A4720B>",
+      "<ACF3531A>": "ha1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, if we leave it to you I'm sure it's\njust a matter of time before everything\ngets out of hand."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<C16C969F>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thanks, guys..."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<91C5178F>",
+      "<ACF3531A>": "WW1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And just where do you think you're going?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<5437689C>",
+      "<ACF3531A>": "sa1",
+      "<9EE99B1E>": 33105,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh? Alexandria!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<5A17655D>",
+      "<ACF3531A>": "WW1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Isn't there someone you\nhave something to say to?"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<9ED5D600>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, you owe Valdi an apology."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<DE974329>",
+      "<ACF3531A>": "sa1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh...! Meh...!!!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<626B06E5>",
+      "<ACF3531A>": "sa1",
+      "<9EE99B1E>": 33137,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mehhh! Pulipuli refuse!"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<2BE4BB61>",
+      "<ACF3531A>": "sa1",
+      "<9EE99B1E>": 33136,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Pulipuli try and try\nbut it not go right!"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<2DE406D4>",
+      "<ACF3531A>": "sa1",
+      "<9EE99B1E>": 33136,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Alexandria only like\nValdi and others!"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<C70FF33F>",
+      "<ACF3531A>": "sa1",
+      "<9EE99B1E>": 33136,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Pulipuli wish Pulipuli just\ndisappear! Meh...meh...meh..."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<EAB3E746>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, Pulipuli."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<0C9F030E>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You aren't hurt, are you?"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<BFFD8E51>",
+      "<ACF3531A>": "sa1",
+      "<9EE99B1E>": 33105,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh?!"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<5140D70B>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You only wanted to be friends\nwith everyone, didn't you?"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<1AAEC18C>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But you can't do it that way.\nSomeone could get hurt."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<FFE730D4>",
+      "<ACF3531A>": "sa1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What Valdi know?"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<838E5D21>",
+      "<ACF3531A>": "sa1",
+      "<9EE99B1E>": 33136,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Pulipuli is nobody! That why\nnobody take notice of Pulipuli\nif Pulipuli not work hard!"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<57B8D706>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "*I* took notice."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<F252A84A>",
+      "<ACF3531A>": "sa1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh?"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<A02CC014>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I mean, your methods were not particularly\ngreat, but you're pretty good with a Levnis."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<4D4B8D3F>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're not a nobody.\nYou're valuable."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<91843F82>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're just your own worst enemy."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<66A13755>",
+      "<ACF3531A>": "sa1",
+      "<9EE99B1E>": 33105,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Meh?"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<91C25A3B>",
+      "<ACF3531A>": "sa1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But Pulipuli do only failures.\nValdi not angry?"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<0FC4F901>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I mess things up all the time."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<2C12DF48>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Look at what happened this time.\nAnd I've broken Mechafriend more\ntimes than I can count."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<D4BED287>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But you know, failures always\ncome with an \"afterwards\"."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<3E341004>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I got to build Dorrick."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<2C02F99A>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I got to make a lot of friends."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<9AC449B1>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I can do a lot more than I could before,\nthanks to everyone's help."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<56B2C5A5>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's all connected to\nwhat's happened now."
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<7C956415>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Failure teaches you things."
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<CE65687D>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So I don't want you\nto give up, Pulipuli."
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<47A59FB2>",
+      "<ACF3531A>": "sa1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Valdi..."
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<E714C286>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's try again."
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<C898778A>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I want to build a world where people\nand Levnises can live in harmony."
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<B60368DD>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But it'll take a long time\nif I try to do it alone."
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<A6C12065>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It'd be a lot easier if you'd\nhelp me out. Would you?"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<B8DC837A>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Haha, good."
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<235647C5>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33050,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There's still plenty more I can do."
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<7C0ECD6B>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33050,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And with the rest of you helping,\nwe can aim even higher!"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<6250E45E>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, first order of business\nis fixing up Mechafriend."
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<3AB02A43>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Time to pick up all those parts, people!"
+    }
+  ]
+}

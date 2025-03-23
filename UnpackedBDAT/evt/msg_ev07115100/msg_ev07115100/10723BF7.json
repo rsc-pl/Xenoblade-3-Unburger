@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<CAB2EFD1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Do you truly want it thus, o ye voices?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<D99078E7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Then let me enunciate, emphatically so,"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<F71DF408>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "the rules to which this world adheres,\nfor the benefit of us all."
+    }
+  ]
+}

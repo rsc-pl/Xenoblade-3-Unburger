@@ -1,0 +1,304 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B36D4B7C>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Phew... Looks like we lost them."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<E3333B18>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Y-you're amazing as ever, Mio!\nThat was so flickering cool!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<8814C332>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're strong, beautiful, *and* kind...!\nI respect the flame out of you!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<7A5CC39E>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No need to flatter me, Kyrie..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<4EC66DD5>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm not trying to flatter you!\nI'm telling the absolute truth!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<DD237370>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think everyone feels the same way.\nThey all wish they could go on\nadventures with you..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<9A3AC385>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's why I want to be just like you..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<289DC3E8>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Kyrie?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<BFB50281>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Um... Mio, if I may ask... Do you\nreally think I'm suited to being a\nleader?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<1AE32B39>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hm...? Why are you asking me\nall of a sudden?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<F3F1BAA6>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's just... You probably\ndon't know this, but..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<7C20985F>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Namuki was actually supposed to\nbecome the leader of my team."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<9AF0623C>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He turned down the role, though.\nHe figured I'd be better suited to it\nand nominated me instead..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<46FC6CD0>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I always wanted to be a team leader,\nso I was over the moon about it, but..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<2AAA5E3F>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You've had enough of it now...?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<288A2A3E>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "O-of course I'm still happy about it.\nIt's just..."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<041CFD4D>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sometimes I wonder if I was\nthe right choice for the job..."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<560EF5BB>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, Kyrie..."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<20F959DF>",
+      "<ACF3531A>": "jn1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ayyy! Come at me!!!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<DAA87516>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I know that voice...!"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<BD08B0B6>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wait, is that...?!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<7435C103>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Foots!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<5D74CCF8>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We have to help him...!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<711234CB>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Can you still fight?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<1CB9DA24>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Y-yeah! Of course!"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<E66368DF>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "First, we have to get out of here.\nNo complaints, I assume?"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<B44D4D89>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "N-nope...!"
+    }
+  ]
+}

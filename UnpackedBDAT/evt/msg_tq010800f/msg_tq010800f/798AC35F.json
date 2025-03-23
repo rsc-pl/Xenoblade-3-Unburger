@@ -1,0 +1,334 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<5242C622>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, look at those Nopon."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<4F9AB0DD>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They look like Nopon traders."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<58BFAE86>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What are they dancing out there for?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<B4301D42>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Shall we ask?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<7E44A646>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, you."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<033E6ED5>",
+      "<ACF3531A>": "pi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh? Looking for bargains?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<263200B4>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What's all this dancing about then?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<A0FDBC98>",
+      "<ACF3531A>": "pi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sometimes Nopon just want to dance.\nIs there law against?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<3F4F7525>",
+      "<ACF3531A>": "pi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Already ate dinner."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<D5108A81>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You dance after eating?\nThat's pretty unusual."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<5841CCFF>",
+      "<ACF3531A>": "pi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Not even slightly unusual.\nWhat silly maniac dance while eating?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<21B43F33>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nobody said anything about that!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<B6BA687D>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, anyway, so why were you dancing?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<F114EE4D>",
+      "<ACF3531A>": "pi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Because just ate dinner\nwith legendary Tempapa!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<7549ADF5>",
+      "<ACF3531A>": "pi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Never have Selfifi been this happy!\nSo glad to come on journey!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<5F4B0AB8>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Legendary Tempapa?\nWhat makes him a legend?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<8666C6E6>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh-meh! Did friend say Tempapa?!\nTempapa is real?!"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<A054C667>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is he famous?"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<A70CAF9D>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He very famous! Does cooking so tasty\nit make face melt! Legend among Nopon!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<ADBFDD3F>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He's really that good?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<EEFFBF7C>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Good is gross understate!\nManana want to meet Tempapa so bad..."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<B0DE44B4>",
+      "<ACF3531A>": "pi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He here till just now!\nChase after and you catch him!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<5021FD9C>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Manana must go!\nDate with destiny as apprentice!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<3CFA37A8>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wow, he even takes apprentices?"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<FCD39183>",
+      "<ACF3531A>": "pi1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Selfifi saw him go in direction of\nDaedal Isle, so go there to meet him."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<508B4FB1>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This best news of Manana's life!\nManana going to become apprentice!"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<F5EC69B9>",
+      "<ACF3531A>": "8",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is worth shot."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<1574A905>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uhh, we're just gonna go along with this?"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<FEED6290>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I doubt we can simply pretend\nnone of this just happened."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<CA918EBD>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Guess not..."
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B3E2A54F>",
+      "<ACF3531A>": "nX1",
+      "<9EE99B1E>": 33200,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hello...?\nWho's...there...?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<66759806>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's all right. We're here to help."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<36B3EAB0>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Stay still. I'll get that heavy thing\noff you right this instant!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<C8CC55FE>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right, that's her injuries about treated!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<DF6F3337>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're a survivor by nature.\nGood fortune that we made it in time."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<CDB8F79F>",
+      "<ACF3531A>": "nX1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, I can't thank you enough!\nI thought I was a goner..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<E2DAC0CF>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Say, you wouldn't happen\nto be Anita, by any chance?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<0365C75F>",
+      "<ACF3531A>": "nX1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, I'm Anita."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<FDB571D0>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, that's great news! There was a guy\nin the rescue tent who was really worried\nabout you!"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<66003228>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He said he wanted you to pay him back,\nor something?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<46DA1DEE>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I suspect that was merely an excuse."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<1063B7D6>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He seemed really rather worried.\nVery insistent that you make it back."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<77BB0827>",
+      "<ACF3531A>": "nX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, it's got to be Kurt. We've been in the\nsame unit since first term."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<D2B2D705>",
+      "<ACF3531A>": "nX1",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He can be a little faint-hearted at times.\nI'd better go and try to calm him down..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<4AE0CE27>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah... So you've been joined at the hip\nsince childhood."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<C669E3A6>",
+      "<ACF3531A>": "nX1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Joined at the... Sorry?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<7B89709F>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I mean that you were...inseparable.\nYou've had a special connection\nthroughout your lives."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<76C660E1>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You understand each other's feelings,\nand you lift each other up in times of\nneed, is what I'm trying to say."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<687C57F2>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Hm?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<5B4CE052>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Your friends are irreplaceable.\nBe sure to treasure them."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<CF0CF878>",
+      "<ACF3531A>": "nX1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, ma'am! Thank you, thank you!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<EBB22DC5>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33066,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Did she have someone in mind herself?\nThere's someone out there special to her?"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<BC852ACF>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33066,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But then, she was imprisoned\nin Origin for so long..."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<20A0C495>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33066,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So maybe they're already..."
+    }
+  ]
+}

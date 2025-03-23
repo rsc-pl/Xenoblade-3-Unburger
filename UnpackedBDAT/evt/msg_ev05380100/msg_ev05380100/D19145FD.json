@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<8CD07A1E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I have my style."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<3DA764B8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "She has hers."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<7EC9709D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Why doesn't she get the message?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<6F204DCE>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I'm so sick of it!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<28F22159>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Hey, now..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<4CD4020E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "They seem confident...\nAre we OK?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<A97666C2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Everything's going to plan."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<DDB5F912>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Everything's fine."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<90EB904E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Everything..."
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<96A2D2E5>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Hm?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<9E82BE3F>",
+      "<ACF3531A>": "b1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What is it, Matthew?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<DF1B268A>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, it's this weird ball thing lying on the\nground here. Looks a little out of place."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<9969E4BE>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hold on. Doesn't it look like\nit'd fit in this hole?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<1EB0C28A>",
+      "<ACF3531A>": "b1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It certainly looks like the shapes match."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<EE246108>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, so they do! In which case..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<DF1F4963>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<D5D0191C>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<26A50522>",
+      "<ACF3531A>": "c1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Nothing's happening."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<2C6372A9>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wow. What a letdown."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<EE2E1789>",
+      "<ACF3531A>": "d1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What did you expect?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<566D0F06>",
+      "<ACF3531A>": "b1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Wait. There are more holes."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<0BE66763>",
+      "<ACF3531A>": "b1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Perhaps if we place a ball in each one,\nit will activate whatever contraption this is."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<E23FA043>",
+      "<ACF3531A>": "d1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And what exactly would that achieve?"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<EFC491A3>",
+      "<ACF3531A>": "b1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I've no idea. We won't know until we try."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<1674F7FF>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Damn straight. Let's get them balls\nback where they belong!"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<19BBF9AD>",
+      "<ACF3531A>": "vp1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Except we've only got one of them."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<0BE8A2EA>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, I already found one just lying here.\nWe'll run into 'em, mark my words."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<22D478D6>",
+      "<ACF3531A>": "f1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is that really your approach to everything?\nWinging it?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<8DB5B468>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't be too harsh on him.\nWho knows, we may actually\ncome across them quite quickly."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<B681236F>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "See? Shulk knows what's up.\nCome on, let's get looking!"
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<A8615AD2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Lay down and die already!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<C188A8BC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](pained scream)"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<D46D14F3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](pained scream)"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<7EC2AFDB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](pained scream)"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<A0B10202>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](pained scream)"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<55663B7F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](pained scream)"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<A154ECA4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](pained grunt)"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<4B818062>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](Meh-inflected pained grunt)"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<2C477523>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](Meh-inflected pained grunt)"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<FFC28E15>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]ev_mio_defense_02.wav will go here"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<DD5D31FF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]ev_mio_defense_04.wav will go here"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<B98DA2F3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]ev_lan_defense_01.wav will go here"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<B0182656>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]ev_lan_defense_05.wav will go here"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<CB80BF60>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Commander Isurd...!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<72A262F3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Please... Please, stop this now!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<B76B8DF2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Taion..."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<3625075A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]ev_jun_breathe.wav will go here"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<F456EB31>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]ev_jun_damage_04.wav will go here"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<1E20FF80>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]If he hadn't used his powers back there,\nyou'd have been first out of the running!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<076B63B9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]You OK, Eunie?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<EC065610>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]A win would've been a nice surprise."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<32D2309B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Quick, we're gonna miss the Homecoming!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<089A3AA3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]First one they've ever had here, right?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<1D80EB4D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Eunie!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<3BCEAC7E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]No time! Look! Above!"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<896EA668>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]What is this?"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<0D169D41>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]A Saffronia."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<C695A92B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]So, why give this to me?"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<C920583C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Not that l have all that much time to spare."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<AD68F23A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]But soon..."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<3D25B14B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What the?!"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<160AD9AD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Wh-which one?!"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<519345F3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Which one's real?!"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<F4F300D8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This one?!"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<0BFE2F1E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "How about here?!"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<F19ABCF0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](startled yelp)"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<271B726E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Wha- Another illusion?!"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<FA44E44C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Gh... Playing me for a fool?!"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<07FB862C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Arrggh, I'll show you a fool!"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<C54C77A0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I'll blow you away, you and all your rustling phantoms!"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<69265C66>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Whoa... Intense..."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<B6F92CC3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I can't defend against that..."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<7E13EF53>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "If Taion took the Ouroboros form..."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<1A1CDA50>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I can too!"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<F1B556CB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Lanz! Come with me!"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<72400758>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You insane?!"
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<7F2A0DF7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Just trust me! Hurry!"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<190DEABB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It's over!"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<0020E871>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Taion!"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<46F2E295>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Taion, all of you..."
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<3B8A4603>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I won't let this creep"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<9513B092>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "lay a finger on anyone!"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<4B9A7735>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Quick thinking, Lanz!"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<2691B2E8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Get off me!"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<CFF18D8B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Had to go and play the hero, didn't he?"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<305808DB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Come on. He was trying to protect you!"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<B3655210>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Just stop it!!!"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<0BC6AB0F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]No more arguing..."
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<C0C90BD7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Say, why a hammer?"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<59A392F3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]You gonna hit something or not?"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<CA3E7AC3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]I'm Mio, third term."
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<10DE22F9>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]We...haven't met before...have we?"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<99E90E01>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](large attack exert)"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<A5314A01>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](extended, unsteady shout)"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<6C2C2809>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](another even more large attack exert)"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<9384E121>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "No...! Unacceptable!"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<ED85F16C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The Flame Clock! It has to go!"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<45531160>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Embers on coat... Brush them off."
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<6A850463>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "If push comes to shove, do not flinch!"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<C4FAF13F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Do whatever it takes...!"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<8D300095>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "For the greater good!"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<C2EBEE2C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]The dead don't think anything."
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<33ED4020>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]They don't speak..."
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<CDAE71CB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]To me,"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<22D69F6D>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]he looked ready to cry."
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<9B692652>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Stop crying, Lanz!"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<40E2C5A4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]It won't change anything!"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<81598AC1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Only way is fight like life depends."
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<19E527E5>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]I was top of the rankings,\nin all the training categories!"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<805034D3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]We could be playing our hearts out here,"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<D21B9924>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]and nobody'd even see us."
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<75A6D9F6>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Mio... Is that why you're here,\nfor recognition?"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<3E2B8EF4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]It's not the notes that matter..."
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<54588ECF>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]It's the feelings you imbue them with."
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<853F1540>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]Is that why you're being an off-seer?"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<BAFDEF77>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ]For a commendation?"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<D4BD13B7>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Better make it count!"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<57CAB2EB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I was planning to!"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<7A951830>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](attack exert)"
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<050FFA10>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So, Teach, what's this favor\nyou wanted to ask?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<3B71DBC1>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK, I'm just going to come out and say it."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<D71057DE>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I want to know if you'd consider teaching\nthe newbies in Colony Gamma."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<31B5F992>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In an instructional capacity...?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<20BCD25F>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Colony Gamma's Flame Clock was\nbroken by your hand, Ouroboros."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<8FFF75B3>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But the conflict between\nKeves and Agnus continues."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<CE18D002>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If things get more violent, then my newbies\nare going to need to be proficient in battle\nif they're going to survive."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<D622A11D>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And you want us Kevesi crew to teach\nthem what we know?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<A637EA02>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes! That's why I asked you. The training\nwill be all the more meaningful, coming\nfrom you."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<9CA66C62>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So...there's an extra dimension to this?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<52153ED7>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes. If you teach them, you'll become\nthe model for them to emulate."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<9AFA58C9>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You want them to...emulate us?"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<31E73896>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Keves is supposed to be our implacable\nenemy, living only to bring Agnus down."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<C2CF7474>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 32897,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But you overturned those biases, and came\nto an understanding among yourselves."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<2D235BB2>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So I want them to take you as their role\nmodels and shake up their ideas."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<CCD720A6>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You want them to relax their aggression\nand wariness towards Keves?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<B8BDF6A2>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Having such strong feelings with nowhere\nto vent them is going to eventually drive\npeople to fight over nothing."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<2AEBE079>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think it's vital to teach them this, to keep\nthem away from war."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<EA184803>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I understand. Well, in that case, we'll\nbe only too happy to help out."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<BB665297>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I've gotta say, this is my first ever\nteaching job. Where should we start?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<F5558433>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 536887425,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeahhh..."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<BD73D68E>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't worry about that. I'll support\nyou through the beginner program."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<9295F1BA>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "First, I'll post the news that you've been\nmade teachers, along with your personal\nhistories on the colony bulletin board."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<C28519DF>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Based on the bulletin board posting, the\nsoldiers will decide who they want to\nlearn from."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<5CE6A3FF>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "An unusual method. Letting the\nstudents choose the teacher?"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<747C6945>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right. This method emphasizes\ntheir independence."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<3658EB9E>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But if you do it this way, surely\neveryone will just choose Mio."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<3D939887>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Not at all. The new recruits are\ngenuinely curious about all of you."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<FC9124CC>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Guess we'll find out. Let's give it a go."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<48BE5F6C>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I've never taught either, but I'll\ndo my best not to let you down."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<24A1D609>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You know, I believe it, coming from you.\nThank you so much for helping me out\nwith this."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<C568273F>",
+      "<ACF3531A>": "J",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now go out there and lead those\nnewbies into a new future."
+    }
+  ]
+}

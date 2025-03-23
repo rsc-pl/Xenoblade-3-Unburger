@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<099E6B60>",
+      "<ACF3531A>": "Yd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If you wanna survive in this here\nMaktha Wildwood, you'll need to\nlearn about mushrooms."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<CF6F9549>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Mushrooms...? Why mushrooms?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<3BE36176>",
+      "<ACF3531A>": "Yd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hah, well. They may look fun and all, but\nyou'd better not be underestimating them."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<FB196596>",
+      "<ACF3531A>": "Yd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Some mushrooms are priceless treasures.\nOthers are toxic like you wouldn't believe.\n...The Naiti-Nait takes the crown there."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<857ED7B4>",
+      "<ACF3531A>": "Yd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You eat one of them by mistake, then the\nnext thing you know, you might wake up\ninside some monster's stomach!"
+    }
+  ]
+}

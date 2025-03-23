@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<99D84E52>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1074,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Everyone's talking up\nthe Spongy Spuds!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<36B86389>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They're mouthwatering even\nif you just steam them."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<A7E0C54B>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33168,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Heh. Didn't I say they were delicious?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<7143C7FF>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 44056705,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You look well made up."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<C79C3728>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 44056705,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Not surprised. He got teary-eyed\njust from eating them raw."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<B0FD8044>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 49281,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Not just that!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<6E1BB198>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We can reliably raise a sizeable yield\nwithout much difficulty. This has put a\nlot of minds at ease."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<2249136C>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think it's safe to say Spongy Spuds are\nthe key to Colony 9's survival."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<670C74FE>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The whole colony seems much\nbrighter now. Everybody's getting\na go of working in the fields."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<85122FA9>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 32897,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "When people are less anxious,\nthey're less prone to confrontation too."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<6E39EFC1>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I just wish we had a similar way to reduce\ninter-colony hostilities..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<A1563E10>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<3742EEE1>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't we? Maybe we should give it a try."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<01972A35>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Give what a try, exactly?"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<E28F4939>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 32897,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's try spreading Spongy\nSpuds to other colonies."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<74FA131E>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They'd solve food shortages,\nand maybe help a little with the\ntension and anxiety of the war."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<3370CB63>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Colony 9 certainly works as a successful\ntest model, but...are you sure this is\ngoing to work?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<04DE5020>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 14696577,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll do our best to make it work."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<900133F0>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hunger makes it hard to think\nrationally. It eats away at the heart."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<0476D34E>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We need to free people\nfrom that anguish."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<3F8081EF>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Then let's get going?\nSpread the good news\nof the Spongy Spud!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<5AE59BDB>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We can't waste any time!\nI'll call some friends."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<15D77B0D>",
+      "<ACF3531A>": "I",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll continue this conversation in\nthe Colony 9 Commander's Office."
+    }
+  ]
+}

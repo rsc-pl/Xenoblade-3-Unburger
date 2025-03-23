@@ -1,0 +1,274 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<CC8D9234>",
+      "<ACF3531A>": "oq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, Shulk, sir!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<30D9CD5F>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, hello. You're...Kayleigh, right?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<320CE6E4>",
+      "<ACF3531A>": "oq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's correct, sir! I'm honored\nthat you would remember me!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<530A9455>",
+      "<ACF3531A>": "vp1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Relax. No need to get so stiff.\nWhat are you doing out here?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<767F828E>",
+      "<ACF3531A>": "oq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "U-uh, well..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<98E52B42>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, Harby's not with you?\nYou two are always so close..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<06C30AED>",
+      "<ACF3531A>": "oq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<B273856E>",
+      "<ACF3531A>": "vp1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I'm guessing something happened\nbetween them, Teacher."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<7142822D>",
+      "<ACF3531A>": "oq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I...lost contact with Harby\nabout two days ago."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<74CF20CD>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You don't know where he's gone?\nCould something have happened?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<156112C0>",
+      "<ACF3531A>": "oq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I don't know..."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<12DD9500>",
+      "<ACF3531A>": "oq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm leading a search party right now,\nand we've checked a few places so far,\nbut there's been no sight of him."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<78175CA0>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That doesn't sound good...\nAdd us to the search party then, would you?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<0D275AE8>",
+      "<ACF3531A>": "oq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh...! Thank you so much, sir!\nThen, could I ask you to accompany me?"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<1830EA53>",
+      "<ACF3531A>": "oq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll have the other members\nsearch someplace else."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<EE75744A>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So, anyway, who is this Harby guy to you?"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<B3AFEF55>",
+      "<ACF3531A>": "oq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Harby is a soldier I was with\nwhen the Liberators took us in."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<74FB5CEF>",
+      "<ACF3531A>": "oq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Since then, Harby and I have been\nunited in eternal gratitude to Shulk\nand Panacea here."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<87BC53D9>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Noted. Then we better get a move on\nand see where this guy's got to, eh?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<1970B0E5>",
+      "<ACF3531A>": "vp1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Do you have any leads\nthat we could follow?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<B6AA2196>",
+      "<ACF3531A>": "oq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The two of us came to the Cent-Omnia\nregion not too long ago."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<AEC0E2D8>",
+      "<ACF3531A>": "oq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So there aren't all that many\nplaces we even know how to reach.\nWhich would mean..."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<DC11975C>",
+      "<ACF3531A>": "e1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I understand. We'll let you take the lead\nand see where that takes us."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<126DA2F1>",
+      "<ACF3531A>": "oq1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right then, let's head towards\nZalmor's Falls. Our destination\nlies in that area."
+    }
+  ]
+}

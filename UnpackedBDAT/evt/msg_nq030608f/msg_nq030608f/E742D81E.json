@@ -1,0 +1,104 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<320CEDEE>",
+      "<ACF3531A>": "rY1",
+      "<9EE99B1E>": 33073,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wait a second! Don't you think this\nis a bit steep for one measly sweet?!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<57831A4E>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All due respect, stocking fee\nincluded as standard..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<22111A6E>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If desire is haggle, Wheelideeli\nhappy to accommodate."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<8D703114>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wheelideeli hear something about\ngoods of great antiquity that\nvalued customers collect...?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<B839DAA7>",
+      "<ACF3531A>": "rY1",
+      "<9EE99B1E>": 33184,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Th-that was just our job! And we\ngot rid of them ages ago!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<A6152822>",
+      "<ACF3531A>": "qd1",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Meh... Great shame. Wheelideeli\nlook forward to next visit."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<68B3954D>",
+      "<ACF3531A>": "rY1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Urghhh...!"
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<C0DB71B5>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Augh, what do you plonkers want now?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<85BFCFEF>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, c'mon. Don't be like that.\nWe're just here to say hi!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<1105EFB3>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh? What's that? You got time on\nyour hands, have you?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<FD0D4413>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Huh?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<D5C4834B>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Why, if it isn't..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<0FA978E8>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I believe this is the first time we\nspeak directly, isn't it, Ghondor?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<A29A4240>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Can someone tell me what\nthe hell's going on? What's the\nQueen of Agnus doin' here?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<EDE1AFD7>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Oh, uh, hang on."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<33EA93B6>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I suppose we *are* in Agnus Castle right\nnow. So...maybe it's not so weird to see\nyou here..."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<FA80493E>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But, what I don't get is, why's the Queen\nof Agnus seem to know about me?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<42880235>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's...\nWell, it's a long story."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<D3939995>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The Vandham name, and those that\nbear it, have a deep meaning for me."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<17D4E84D>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You mean my family?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<2A3B230E>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In the past, I...we...were saved by a man\ncalled Vandham. He taught us a lot about\nlife, and what it was we were called to do."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<275B72F1>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's no exaggeration to say that,\nwithout him, there would be no me."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<81EF28A8>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh? A real deep connection between\nNia and Ghondor's fam? Spooky."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<37B57D83>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The memories of it are all but lost now...\nThese were events of the distant past."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<076877D9>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oho..."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<740B4295>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Uh, more to the point, seems you dags\nhave gotten pretty used to chumming up\nwith royalty. Like it's no big thing!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<9F060A0D>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, Nia asked us to treat her that\nway. Like another one of the gang."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<173E01B8>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "C'mon, Ghondor. Surely you more than\nanyone wouldn't expect us to mince our\nwords around Nia."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<B3F60E2B>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wind your neck in, will ya?\nNothin' wrong with how I talk!"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<3834AA4B>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Haha... Oh, you're so bold and\nunabashed. I simply adore it!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<043BA717>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh...oh...? I suppose I am..."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<2447A32C>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I mean, you've passed through the\nconflict with the false Queen, maintained\norder in the Castle..."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<3FF50105>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There are a lot of things that came\nabout because of your blood, sweat\nand tears, Ghondor."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<79D7012B>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh? Well, that's a real heckuva\ncompliment... Too much for the\nlikes of me maybe, your Madge."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<0ACBF0EB>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All I reckon we really did was set a few\nboundaries to stop things going daft."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<7A9D19FA>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I don't have a clue about your\nAgnian folks though."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<A134231D>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're just being humble, Ghondor.\nPlease, there's no need for it."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<23676E58>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's not easy to earn people's trust,\nto maintain the balance."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<92F4301B>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And you do all that, while still remaining\nnatural, unadulterated Ghondor."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<6576607B>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oi! I'm basically an adult!\nI'm almost- Ah, forget it..."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<BAD7D04F>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ghondor... You really soften up when\nyou get a few kind words, don't you?"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<F810C312>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh...! Who're you callin' soft...?!"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<DEEF7B26>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I hope Agnus can count on\nyour continued support."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<8926C7C0>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I mean, what I'd really like to be\nsaying right now...is \"bite me\"."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<A5B88070>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But since I got a real-deal Queen going to\nall the trouble of asking me, I guess I've\ngotta at least consider the request a bit."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<F31A75EE>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "From the bottom of my heart,\nthank you, Ghondor."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<30B4DC41>",
+      "<ACF3531A>": "F",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "As the nominal lady of Agnus Castle,\nI bestow upon you my sincere admiration\nfor fulfilling the-"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<7AD0F5B7>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey! Whoa! Enough already...!\nIt's like you *wanna* make me squirm?!"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<B44A3762>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, there's our Ghondor..."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<9AA18D2F>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Just shut up, will you?!\nWe're done talking about me, all right?!"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<A9667186>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You Ouroboros arseholes mind your own\nbeeswax, all right? I better not hear you've\nbeen holding the Queen back!"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<6F2298B0>",
+      "<ACF3531A>": "Q",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're a real goofy bunch, arentcha?\nJust bein' around ya counts as a hazard!"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<B8FF891B>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Pff... Pot calling the kettle black much,\nthere, Ghondor, love?"
+    }
+  ]
+}

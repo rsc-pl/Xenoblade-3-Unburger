@@ -1,0 +1,534 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<FF70AB4D>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<5FAFDE54>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What happened?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<49636A09>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...A coded transmission from Colony 0."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<3A0702E6>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The Moebius Consul F is requesting\nparley with the Ouroboros."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<5A777EA0>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The Moebius is requesting what...?!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<C5C06E5B>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No. 7 will use own Iris as relay to\nforward the transmission to you."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<93ACA449>",
+      "<ACF3531A>": "pW103pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A pleasure to make your acquaintance,\nmy young Ouroboros friends."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<28C874C2>",
+      "<ACF3531A>": "pW103pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I am F, and before we go further,\nI would like to sincerely apologize for the\ndiscourtesy of this method of introduction."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<702A9D21>",
+      "<ACF3531A>": "30330",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ugh, what a shameless slug.\nHe thinks we'll forget he tried\nto kill us?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<A38B5B63>",
+      "<ACF3531A>": "40340",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You say you want to parley.\nHow do you imagine that will go,\nat this point...?"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<DEF66C43>",
+      "<ACF3531A>": "pW104pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I am certain you will feel guarded,\nand rightly so."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<5BFB6AB9>",
+      "<ACF3531A>": "pW104pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And yet, with that acknowledged,\nI would like to offer an opening of\nnegotiations with you."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<6E677FE8>",
+      "<ACF3531A>": "20320",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Negotiations?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<D6981766>",
+      "<ACF3531A>": "pW104pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Should you accept my invitation,\nI will rescind the extermination order\non you Ouroboros."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<F600358C>",
+      "<ACF3531A>": "pW104pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Colony 0 will henceforth no longer concern\nitself with your comings and goings."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<95643CD5>",
+      "<ACF3531A>": "50350",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, that'd be swell! ... If we were stupid\nenough to trust your word."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<49431F42>",
+      "<ACF3531A>": "10310",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And your demands?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<4E33044C>",
+      "<ACF3531A>": "pW104pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...The bodily return of No. 7."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<CEA01403>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh...?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<4FAD46D5>",
+      "<ACF3531A>": "10410",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...And that's it? That's all it would take\nfor you to never fight with us again?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<BBE60DBF>",
+      "<ACF3531A>": "pW103pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes. You have my guarantee, and that of\nthe whole of Colony 0."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<3F582005>",
+      "<ACF3531A>": "30430",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Are you joking? You're Moebius. You'd\nthrow away one or two soldiers without\nbatting an eye."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<A61C81BB>",
+      "<ACF3531A>": "pW104pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Certainly, some Consuls do display such\ncallousness. A deplorable state of affairs..."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<5DC90542>",
+      "<ACF3531A>": "pW104pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But not I. I hold the light of life\npossessed by Colony 0 to be of\nthe utmost importance."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<1AC9308F>",
+      "<ACF3531A>": "pW104pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Naturally, that includes No. 7."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<6EBC43E6>",
+      "<ACF3531A>": "pW104pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That is precisely why I have reached out\nto you, nominally my enemies, even with\nthe concomitant difficulties acknowledged."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<7491F90A>",
+      "<ACF3531A>": "60360",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Are you telling the truth?"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<4709BEA1>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "C'mon Sena, don't fall for it..."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<B49D32B4>",
+      "<ACF3531A>": "60360",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Can you give us a guarantee that\nyou aren't lying to us right now?"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<8722517A>",
+      "<ACF3531A>": "pW104pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Of course! ...Is what I would love to say,\nbut naturally, simple words are never\nenough to engender trust, I know."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<4AAA513A>",
+      "<ACF3531A>": "pW104pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I have sent the current coordinates\nof Colony 0 to No. 7."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<665B861C>",
+      "<ACF3531A>": "pW104pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We shall remain here. Should you find\nyourselves receptive to my offer, do please\npay us a visit, and bring No. 7 with you."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<A7294865>",
+      "<ACF3531A>": "10310",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So you think giving us your location\nwill make us trust you?"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<DFAFEDCE>",
+      "<ACF3531A>": "40340",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "How do we know this isn't a trap?"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<69CFFD4A>",
+      "<ACF3531A>": "pW104pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In such a circumstance, you would possess\na handy hostage in No. 7. I trust I needn't\nsay more?"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<5C37F713>",
+      "<ACF3531A>": "50350",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ugh...\nHas this guy heard the way he sounds?"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<C40B9718>",
+      "<ACF3531A>": "pW103pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Of course, that is not what any of us\nreally want. My desire is to see No. 7\nsafely returned to me. That is all."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<71C4821B>",
+      "<ACF3531A>": "pW103pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...No. 7."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<401E4FFE>",
+      "<ACF3531A>": "dW104dW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<96B41995>",
+      "<ACF3531A>": "pW103pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I am tasking you with guiding them\nto Colony 0. Follow their command\nuntil your return."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<4AED0642>",
+      "<ACF3531A>": "dW104dW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Compliance."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<BC2094BD>",
+      "<ACF3531A>": "pW104pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...And, No. 7?"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<FB033716>",
+      "<ACF3531A>": "dW103dW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<1DFE5A7D>",
+      "<ACF3531A>": "pW104pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We've all been worried about you."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<B4452E1C>",
+      "<ACF3531A>": "dW103dW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<F4B97C46>",
+      "<ACF3531A>": "pW108pW10",
+      "<9EE99B1E>": 33027,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That will be all. I will eagerly anticipate\nthe day when we meet in more favorable\ncircumstances."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<B0B6F885>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "By the Consul's authority, No. 7 is hereby\nassigned to the Ouroboros' command as an\nexceptional measure for the duration."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<9774B67B>",
+      "<ACF3531A>": "dW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Pending your decision on the outcome of\nthe proposed exchange, I await your\ncommand to depart."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<4C89CE2B>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, this was...unexpected."
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<DEAC0858>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Segiri... What do we do with you...?"
+    }
+  ]
+}

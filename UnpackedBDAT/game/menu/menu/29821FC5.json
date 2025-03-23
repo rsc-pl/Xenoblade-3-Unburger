@@ -1,0 +1,540 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<63211103>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Art Mastered"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<700E03B9>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Skill Mastered"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<E315D25D>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Enemy Art"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<631BFA07>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Enemy Skill"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<533FE30D>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Class Acquired"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<B0FF4977>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "[ML:space ]- travel here?"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<9557C112>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Best time"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<2C663318>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Best time"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<DE7D3F7B>",
+      "<554EE944>": 4,
+      "<DBAF43F0>": "Level"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<3203D2BE>",
+      "<554EE944>": 3,
+      "<DBAF43F0>": "Easy"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<18BD598B>",
+      "<554EE944>": 3,
+      "<DBAF43F0>": "Normal"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<42B6491E>",
+      "<554EE944>": 2,
+      "<DBAF43F0>": "Hard"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<DCA65484>",
+      "<554EE944>": 1,
+      "<DBAF43F0>": "Retry"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<431CB53F>",
+      "<554EE944>": 2,
+      "<DBAF43F0>": "Quit"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<8AF8DA34>",
+      "<554EE944>": 1,
+      "<DBAF43F0>": "Challenge"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<2DBC66AE>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "You can fight the unique monster(s) again."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<5ED1D5F7>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "Let's leave it."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<2E635EA9>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "You can challenge the superboss."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<EB6A8FDF>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Once the Clothing menu is unlocked, rewards can be\nused by going to Characters > Clothing."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<25FBCA08>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "All"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<55E948FE>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "Combat"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<9FF6C931>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "Field"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<4AD5938E>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "Menu"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<D2595BE8>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "System"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<83D63628>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "New File"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<5234E539>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Party Members"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<AB144E36>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Current Time"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<347898B3>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Time After"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<8FD757AD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Apply the changed settings?"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<3FC9C4A9>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Land-based enemies."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<6B41D0BD>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Water-based enemies."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<217A715A>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Flying enemies."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<C6169DF8>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Enemy Kevesi soldiers."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<255B4973>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Enemy Agnian soldiers."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<CF43852D>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Enemy Lost Numbers soldiers."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<68461B0F>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Levnises and other robotic enemies."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<318C499F>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Moebius-type enemies."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<228C52A5>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Reduced by damage; characters fall when this hits 0."
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<7B09017E>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Used to calculate the damage dealt to enemies."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<2A54B34C>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Used to calculate HP restored while healing."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<89D649DC>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Used to calculate attack accuracy."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<356ECED4>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Used to calculate chance of evading enemy attacks."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<01874415>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Chance of blocking enemy attacks."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<1B616067>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Chance of attacks resulting in a critical hit."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<2D5425EB>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Damage reduction when taking a physical attack."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<0EEF0E44>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Damage reduction when taking an ether attack."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<E17C85C5>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Special Rewards"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<CC1A8514>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "amiibo Bonus"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<41588CAD>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Bonus EXP"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<8893EF2A>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Class Points"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<CD5598B0>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Class Succession Points"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<C7D01E34>",
+      "<554EE944>": 11,
+      "<DBAF43F0>": "Receive"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<D301C98F>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Hold an amiibo to the NFC touchpoint."
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<B2A7836B>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<C91CC49B>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "You've already received the bonus for this\namiibo today. You can try again tomorrow!"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<3CB7BA39>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Failed to read amiibo.\nHold it to the NFC touchpoint again."
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<BC60F4B8>",
+      "<554EE944>": 89,
+      "<DBAF43F0>": "You can receive a little reward by scanning\nany amiibo you might have to hand.\n(Up to three amiibo can be scanned per day.)"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<1D7C9C0D>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Be sure to pick up the collectibles that appear\naround your feet when you close the menu."
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<191AD44D>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Once the Clothing menu is unlocked, rewards can be\nused by going to Characters > Clothing > Attachments."
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<D604A266>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "You've reached the limit of amiibo you can\nscan today. Feel free to try again tomorrow!"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<7648BF83>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "EXP"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<D19CF831>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "CP"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<AC5E554A>",
+      "<554EE944>": 59,
+      "<DBAF43F0>": "Return all options to their default settings?"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<EC040D0D>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "No tips to show here right now."
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<4B139588>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "Challenges"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<2E1219BB>",
+      "<554EE944>": 49,
+      "<DBAF43F0>": "You cannot go further."
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<3FAD630B>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Enemy Liberators."
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<A224C65B>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Fogbeast enemies."
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<11C0D68A>",
+      "<554EE944>": 14,
+      "<DBAF43F0>": "Weak During Combos"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<A3F5FB8D>",
+      "<554EE944>": 14,
+      "<DBAF43F0>": "Weak From The Front"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<3869DAF0>",
+      "<554EE944>": 14,
+      "<DBAF43F0>": "Weak From The Side"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<9C7CE95B>",
+      "<554EE944>": 14,
+      "<DBAF43F0>": "Weak From The Back"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<695C41D7>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Takes extra damage when under the effect of a combo."
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<44A247A6>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Takes extra damage when attacked from the front."
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<A2BA4014>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Takes extra damage when attacked from the side."
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<6DCD25BA>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Takes extra damage when attacked from the back."
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<CAFC7B19>",
+      "<554EE944>": 14,
+      "<DBAF43F0>": "Visual"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<59E72DAB>",
+      "<554EE944>": 14,
+      "<DBAF43F0>": "Visual (Wide)"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<52FE061C>",
+      "<554EE944>": 14,
+      "<DBAF43F0>": "Presence"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<1FCE5C17>",
+      "<554EE944>": 14,
+      "<DBAF43F0>": "Presence & Visual"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<E678CB54>",
+      "<554EE944>": 14,
+      "<DBAF43F0>": "Presence & Visual (Wide)"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<A9BD80C4>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "This enemy detects characters by sight."
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<D9DE485A>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "This enemy detects characters by sight in a wide range."
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<D010D5B9>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "This enemy detects characters by their presence."
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<24C41BB6>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "This enemy detects characters by sight and presence."
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<D35E93FC>",
+      "<554EE944>": 29,
+      "<DBAF43F0>": "Detects characters by sight and presence (wide range)."
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<E57E5ABD>",
+      "<554EE944>": 9,
+      "<DBAF43F0>": "Future Redeemed"
+    }
+  ]
+}

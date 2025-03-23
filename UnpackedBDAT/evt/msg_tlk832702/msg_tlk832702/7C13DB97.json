@@ -1,0 +1,94 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<3F5FD5FB>",
+      "<ACF3531A>": "br1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Please to keep up good work with\nregard to improvement of X-Reader!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<0D2B59DE>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh yeah, we're planning on having Nikol do\na lot of that good work, believe you me."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<EA7114B9>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Though I reckon the rest of us'll have our\nhands full trying to source all the necessary\nbits and bobs..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<069E5B97>",
+      "<ACF3531A>": "br1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Exactly! Did Timtim not say?\nNow friends understand how\nTimtim feel every day!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<CDDFB738>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh yeah, it's a helpful little gadget\nand no mistake."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<FFE582AE>",
+      "<ACF3531A>": "a1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Though I reckon we'll have our hands\nfull trying to source all the necessary\nbits and bobs..."
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<9C74C710>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Snow's so pretty...\nI love it so much!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<A8392F00>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah...no. It's cold, and it can\nfreeze your arse off... Give me\na sunny beach any day."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<7EAB0505>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 12599426,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Really? I much prefer it\nto the heat, myself."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<785C4FFA>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 10502274,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, 'cause you hate nice things, innit.\nRemember when you were all, \"augh, it's\nso hooot, I'm gonna melt into a pancake\"?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<39626537>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 12599426,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I said no such thing!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<466D4F4E>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33176,
+      "<2B51649C>": 10502274,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh yeah? I distinctly remember it!\n\"No moooree... Someone kill me nooow...!\""
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<51B95838>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33073,
+      "<2B51649C>": 12599425,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I did not!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<5589B109>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 12599426,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uhm... Oh, that's right, now I remember.\nWhen you're feeling cold, you have to try\nand move your body!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<F63A1DA9>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 18890882,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Nope, uh-uh, no way.\nI've already gone on the defensive.\nGonna stay bundled up, thanks."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<D698538C>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 12599426,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "C'mon, just shout yourself warm!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<43CCB0F7>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 18890881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah right, and I suppose Mio coulda\njust yelled herself cool, huh?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<D2E880FA>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33065,
+      "<2B51649C>": 12599426,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I just struggle with the heat, all right?!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<A21C9957>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 10502274,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Honesty's a virtue, love."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<D729954D>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33120,
+      "<2B51649C>": 12599425,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...I'll never hear the end of this, will I?"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<87024710>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 8405122,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh, Noah? What's this all about?"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<FBA3511A>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Beats me."
+    }
+  ]
+}

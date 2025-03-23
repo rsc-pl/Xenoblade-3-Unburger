@@ -1,0 +1,134 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<AE4F074A>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They say the Clad Unit is the\n\"cornerstone of Colony 11's defense\"."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<CE87568C>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They draw the enemy in, so Zoren's unit\ncan focus on attack and Easel's unit can\ndeliver support."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<89873047>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hmm. I'm surprised their roles\nare so evenly divided."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<A66DF818>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33048,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They're specialists in combat.\nEven if they're a rotten bunch,\nthey're Silver-rank elites."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<2C6971E7>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But we know almost nothing\nabout the captain, Clad."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<7AFEFBA6>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "He's always wearing a helmet.\nI'd wonder if anyone's ever seen his face."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<72E79FB1>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "All we do know is that he\nconstantly drills his troops in\n\"training pits\"."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<1B58C37B>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Training pits?"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<29F9A247>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Like the plaza where we fought R.\nApparently that's what they call\none of those in Colony 11."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<A0A18EB6>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I get it. Well, why don't we\npay a visit? We might get\nlucky and bump into him."
+    }
+  ]
+}

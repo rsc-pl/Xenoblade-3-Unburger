@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<EF95986A>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Er, are we really going this way?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<84745D21>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I can't see any other way\nto the Castle, can you?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<C4E042AE>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I don't want to drag our feet getting there.\nBe careful crossing though, yeah?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<1C294991>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Are you joking me."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<2D551CBA>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Afraid of heights, huh?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<519DE83E>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Not afraid as such, but if we fell\nfrom here, we'd, like, die? Instantly?!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<9A5B5386>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If Manana think something tasty waiting on\nother side, then Manana can be brave."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<A69CACA4>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If we can make it across, we'll\nalmost be out of Maktha Wildwood."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<5DE20BA1>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Just one more hop to Keves Castle."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<66FD0E2C>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll probably have quite a\ngood view of it from over there."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<CD381DBD>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Fine, fine, I get it!\nLet's just get this over with!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<CF6492A9>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<01A79608>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "It seems to be locked."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<5EDC855A>",
+      "<554EE944>": 79,
+      "<DBAF43F0>": "It doesn't seem to be responding."
+    }
+  ]
+}

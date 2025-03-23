@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<3B21E823>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Inflict Topple"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<AA7A117F>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Inflict Smash"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<80703E37>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Inflict Burst"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<EA895783>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Avoid being KO'd"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<D873B8D8>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Defeat as Ouroboros"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<2905F288>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Defeat w/ Chain Atk"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<880FA8D7>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": "Fell the enemy"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<BB694AE2>",
+      "<554EE944>": 15,
+      "<DBAF43F0>": ""
+    }
+  ]
+}

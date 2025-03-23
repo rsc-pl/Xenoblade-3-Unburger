@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<B33C1F8B>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "They gave Ethel, and Cammuravi, new Ferronises."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<B0EEFB56>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "They've been made specifically to kill Ouroboros."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B9C764D0>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The tune-up...might take a little while."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<CCCC3C4C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Though... You don't have much time.\nThe two of them are after your heads."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<3D04F1D4>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You're sure of this? Really?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<CF7F621A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That's why I came here. To give you warning."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<FD0579AE>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "They already know your rough position.\nThat's how I found you in the first place"
+    }
+  ]
+}

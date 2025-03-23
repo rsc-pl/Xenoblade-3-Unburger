@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<30AC21F1>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "So, where's the maintenance hatch?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<15FE229F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It's in the reserve area on the upper level."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<4FFCE29E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "First we'll need to take the elevator\nthat can get us up to that floor."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<A8C22631>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I don't see any guards."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<A04CECAD>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Too foggy, for taste of Manana."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<9EAE35B8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "If we're gonna move, now's the time."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<315A3B6E>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "That said, we are indoors.\nMove fast, but keep your eyes peeled."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<F873DEEC>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Yeah, of course."
+    }
+  ]
+}

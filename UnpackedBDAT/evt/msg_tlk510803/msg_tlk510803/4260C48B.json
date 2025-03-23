@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<70320B82>",
+      "<ACF3531A>": "vf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Vane got in contact with me.\nIt was quite the surprise."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<FED44F3C>",
+      "<ACF3531A>": "vf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The support that we gave to\nthe Lost Numbers must have\nreally done the trick, huh?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B79A055B>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, I think you really got it across\nthat Colony 15 wants to contribute\nto the City, at least!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<7409D27F>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, you got them thinking of\nyou as friends now, I reckon."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<EC406445>",
+      "<ACF3531A>": "vf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, that's it. Things have eased up\nhere now, got a bit more comfortable.\nI'm starting to think we can make it here."
+    }
+  ]
+}

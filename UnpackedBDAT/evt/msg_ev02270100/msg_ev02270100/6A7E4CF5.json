@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<CB7C7F2F>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Is that so?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<FF4B6CC8>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Colony 4..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<CE41BC7A>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Henceforth...all orders are rescinded.\nEliminate Ouroboros at all cost!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<460091A2>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Make this known throughout the colonies!"
+    }
+  ]
+}

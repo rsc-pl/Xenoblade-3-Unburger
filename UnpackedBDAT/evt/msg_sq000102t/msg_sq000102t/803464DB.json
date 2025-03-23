@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<AC8AE016>",
+      "<ACF3531A>": "gX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey guys. Keeping the hustle alive, I see?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<7D43533E>",
+      "<ACF3531A>": "T",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, you could say that. Listen, could\nwe get a Bronze Temple Guard? I wanna\nget Noah kitted out."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<19A8D1FE>",
+      "<ACF3531A>": "gX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sure thing, here you go."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<0A5E8739>",
+      "<ACF3531A>": "gX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Glad I could be of some help!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<0AC6C9A3>",
+      "<ACF3531A>": "gX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Come again!"
+    }
+  ]
+}

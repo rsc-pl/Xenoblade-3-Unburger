@@ -1,0 +1,384 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<96CCFECD>",
+      "<ACF3531A>": "YY1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Raaaaarrrrrrrrgggghhhh!\nSnuff youuuuu!!!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<3FF97DC9>",
+      "<ACF3531A>": "XY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "(pant pant) Haha, we're\nin trouble, Nagumo."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<0E18EFEC>",
+      "<ACF3531A>": "ZY1",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They're amazing. Foots and Nagumo\nwere giving everything they had, but\nthis lot are in a different league."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<74EE0A8E>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, you lot ain't so bad.\nAnd you've got nerve."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<24C88F40>",
+      "<ACF3531A>": "XY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Yeah we do."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<8D12C225>",
+      "<ACF3531A>": "XY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But I can't stand it. You still look so fresh!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<078B9350>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You look so fresh...Miss Eunie."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<696E5FD9>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Feel free to challenge me anytime, though.\nAs long as you don't mind losing."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<63982427>",
+      "<ACF3531A>": "XY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ha, that's some big talk."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<C10B9655>",
+      "<ACF3531A>": "XY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In that case, I'm happy to keep challenging\nyou. I look forward to seeing your face\nwhen we beat you!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<BFE19DD9>",
+      "<ACF3531A>": "XY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sound good to you...Miss Eunie?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<932F0F30>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Ah!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<F53C23BF>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33026,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "MISS Eunie?!"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<D20F22D9>",
+      "<ACF3531A>": "XY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, and Sena, you better be ready too."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<1465F882>",
+      "<ACF3531A>": "YY1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah, be prepared, Sena!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<737D8525>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Why don't I get a nice title?!"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<C84D5075>",
+      "<ACF3531A>": "XY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But I'll let it slide for today.\nI'm knackered."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<9B0AB3EE>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<06B64A32>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "N-no, you don't get to decide\nwhen the lesson's over!\nThis is where it really begins!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<919BEFFA>",
+      "<ACF3531A>": "XY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Er, what?"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<DE9C9FA2>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You've shown you want to get\nstronger, so let's have a little\nstrength training competition!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<4E141152>",
+      "<ACF3531A>": "ZY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Strength training?"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<127C39FE>",
+      "<ACF3531A>": "XY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You know, actually I'm done for-"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<810E5C71>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You want to beat us, don't you?\nThen strength training is the only way!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<94A065FA>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now you're all done warming up,\nyou should be in tip-top condition!"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<515984F5>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It has to be now!"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<5D8CE917>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You have to train!"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<33BCBDBB>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It's the only way!"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<DD6C4B31>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Train your muscles!"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<7BFA30DE>",
+      "<ACF3531A>": "XY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<A6EB2C2B>",
+      "<ACF3531A>": "YY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 536887425,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Is she serious?"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<ABB5B85B>",
+      "<ACF3531A>": "ZY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This is what I mean when\nI say you two are too cocky."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<D75A45CB>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh dear, oh dear. Well, do your best.\nI'll be cheering you on from here."
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<DD541237>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, you're going to join in\ntoo, right? \"Miss\" Eunie?"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<197A72D1>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "(gulp)"
+    }
+  ]
+}

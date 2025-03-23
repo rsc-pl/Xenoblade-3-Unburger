@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<2B15A08C>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, Lanz! Thank you for going\nalong with Namuki!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<90FC39A9>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Eh? Why the thanks? It's no problem.\nI'm good at pushing my body!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<D3BD96AF>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Despite his strangeness, you have quite a\nhigh opinion of him, don't you, Kyrie?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<9D9DD02F>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah! Namuki is super brainy. He knows\nwaaaay more than I do."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<0C35DAB3>",
+      "<ACF3531A>": "WY1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I want to support him in whatever he\nwants to do. It's only fair after everything\nhe does to help me!"
+    }
+  ]
+}

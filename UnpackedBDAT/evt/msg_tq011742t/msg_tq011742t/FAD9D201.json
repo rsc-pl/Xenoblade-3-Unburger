@@ -1,0 +1,124 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<99EE2FDB>",
+      "<ACF3531A>": "bX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So we wanna watch the soil\nfor signs of drying, yeah?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<2CA00E4D>",
+      "<ACF3531A>": "bX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm on the case, no worries.\nYou can count on me!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B225FCFB>",
+      "<ACF3531A>": "bX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm really sorry about this..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<52A6B1A4>",
+      "<ACF3531A>": "bX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We'll need 10 more seed potatoes."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<C9D7FA54>",
+      "<ACF3531A>": "bX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think Url's the person to talk to about\nmaking fertilizer. He's a dab hand at\ngardening."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<1E7ABC5C>",
+      "<ACF3531A>": "bX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm sure he'll be able to help us out\nif we explain our situation."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<D5AC3442>",
+      "<ACF3531A>": "bX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I know how Kite thinks.\nHe might be acting stubborn now..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<840A7035>",
+      "<ACF3531A>": "bX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...but I'm sure deep down he realizes\nhe can't leave things like this."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<D7933559>",
+      "<ACF3531A>": "bX1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What's going on...?\nThere's some kind of commotion\ndown by the fields..."
+    }
+  ]
+}

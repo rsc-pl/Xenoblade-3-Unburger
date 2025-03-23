@@ -1,0 +1,528 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<45345B2F>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Draw Weapon / Confirm"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<99360B6D>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Jump/Cancel"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<EF2BDD3B>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Menu"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<D50FC683>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Current Objective"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<BA92E6BF>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Target Enemy (Right)"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<0B3F0FA3>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Switch to Next Character"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<32F5CF8D>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Target Enemy (Left)"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<426B0F5D>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Switch to Prev. Character"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<055AEA73>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Shift Controls"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<0BA9BA0E>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Chain Attack"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<B1FD6C32>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Toggle Auto-Battle /\nHold for Battle Menu"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<EC0E7B63>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Lure"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<8412E40C>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Shortcut 1"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<5CCEFE7E>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Shortcut 2"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<2CEC1B2A>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Shortcut 3"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<FA13690F>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Shortcut 4"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<CE25F90C>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Control Camera"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<0FC67DDC>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Reset the Camera"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<0C0C56AD>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Expand Mini-Map"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<B236CB78>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Movement"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<5EAAB7B9>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Auto-Run (while moving)"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<F47B8223>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Screenshot (w/o interface)"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<7E4214A1>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Cancel Target"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<2B82041D>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<57EBFC7C>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Art Fusion"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<E1EE3078>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Interlink"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<05C6FBD5>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Quick Move"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<130EDC44>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Talent Art"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<882E6A99>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Class Art 1"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<8EF23902>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Class Art 2"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<269D61B0>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Class Art 3"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<779EA8F6>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Master Art 1"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<607CA68A>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Master Art 2"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<F9A07280>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Master Art 3"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<E2DB0C72>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Ouroboros Art 1"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<87D54025>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Ouroboros Art 2"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<21CCAB1D>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Ouroboros Art 3"
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<12E88318>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Talent Art /\nHold to sheathe Blade"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<A15D6E20>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Tactics 1"
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<76969E14>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Tactics 2"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<B8F2872C>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Tactics 3"
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<9CE209DF>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Tactics 4"
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<98324E05>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Interlink Switch"
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<AAB7EA3A>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Cancel Interlink"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<880EA072>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Interlink Controls\n(when controls set to Party)"
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<B5EF0428>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<7EB96574>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Draw Weapon on Boat\nHold to Disembark"
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<D60324C0>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Accelerate"
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<37A661B5>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Brake/Reverse"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<7CEB4CFB>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Turn"
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<F72DE78D>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Boost"
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<38511FA8>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Move to Cabin"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<3D689DD3>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field Controls"
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<1E9DDE86>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field Controls (Shift)"
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<78F5211F>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Combat Controls"
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<1B3B73D8>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Combat Controls (Shift)"
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<55BA3620>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Combat Controls (Interlink)"
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<D51318E4>",
+      "<554EE944>": 19,
+      "<DBAF43F0>": "Field Controls (Ship)"
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<E4C7ADCD>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "--------"
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<A44D7CCE>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "1/5"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<B3C63047>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "2/5"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<BBF27B11>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "3/5"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<9150416E>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "4/5"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<3011FE5F>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "5/5"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<5F57844D>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "1/4"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<F1EEFF2C>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "2/4"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<F7DA8D99>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "3/4"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<0C971DBC>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "4/4"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<82EA245E>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "1/6"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<509B113E>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "2/6"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<B1573457>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "3/6"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<D320D824>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "4/6"
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<CBD87ED7>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "5/6"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<83C331C8>",
+      "<554EE944>": 7,
+      "<DBAF43F0>": "6/6"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<EDA6BB63>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "X-Reader On/Off"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<2D8AAE8F>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Normal Art 1"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<A0C8E1D2>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Normal Art 2"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<6E2C933D>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Normal Art 3"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<B7C65B28>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Ouroboros Power 1"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<8DC9389F>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Ouroboros Power 2"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<B84C26CA>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Ouroboros Power 3"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<EAEF2D8C>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Special"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<C84F2061>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Special 1"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<7B1417F7>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Special 2"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<FBD5AD67>",
+      "<554EE944>": 44,
+      "<DBAF43F0>": "Special 3"
+    }
+  ]
+}

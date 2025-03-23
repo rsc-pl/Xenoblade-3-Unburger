@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<1F7E01AC>",
+      "<ACF3531A>": "ge1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So Ashera is a \"bloodthirsty beast\", huh?\nHow fitting."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<EA509528>",
+      "<ACF3531A>": "ge1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In truth, she is like a beast wearing\nthe skin of a woman. Her soul, her body...\nher skills are far beyond normal humans."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<F24C3E17>",
+      "<ACF3531A>": "ge1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I could surely never feel more excitement\nand completion than if I were to hunt her."
+    }
+  ]
+}

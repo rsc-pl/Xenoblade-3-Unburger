@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<FD4B296E>",
+      "<ACF3531A>": "uk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I heard you helped Mizuki out with\na scavenging mission the other day.\nThanks for that!"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<20855EB3>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Don't mention it. It was a perfectly\nnatural thing for us to do."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B836CFD1>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, I heard you're an oven-fresh\nnewlywed. Is that right? Not that I\nhave a clue what that even means."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<68C18E04>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Kabata told me that if something ever\nhappened to Mizuki, you'd cry about it.\nI guess he's a pretty important guy then!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<62EBD8EF>",
+      "<ACF3531A>": "uk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes! Mizuki is more important to me\nthan the air we breathe! I'm so glad\nhe's safe and sound!"
+    }
+  ]
+}

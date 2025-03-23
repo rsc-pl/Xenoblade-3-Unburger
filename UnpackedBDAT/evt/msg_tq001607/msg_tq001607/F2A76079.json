@@ -1,0 +1,304 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<6EDEF2AB>",
+      "<ACF3531A>": "qW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You've wasted time.\nI'm afraid you'll have to pick up the pace."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<0A4CDD76>",
+      "<ACF3531A>": "qW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Because if you can't..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<9A342025>",
+      "<ACF3531A>": "qW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Well, you know the stakes."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<4A9B32A4>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](worried breath)"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<8A7E2051>",
+      "<ACF3531A>": "qW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The game will soon resume.\nWe have precious little time."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<0E871C9B>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "If I do as I'm told..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<5A4CF207>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You'll..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<4754AAA6>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You'll end up hurting so many people."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<057AC428>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Don't worry."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<1E972466>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I refuse to put you through that."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<8BA331DB>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "The next time we meet,"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<E9F51B07>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I'll make you into the best Levnis\nthere ever was."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<46076A9B>",
+      "<ACF3531A>": "qW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "So that's the game we're playing, is it now?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<70A82A21>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Huh?!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<3554B86A>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](react, getting hit)"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<F86F1D05>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](feeling groggy)"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<E8A642A4>",
+      "<ACF3531A>": "qW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "You little upstart!!!"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<34C0A56C>",
+      "<ACF3531A>": "qW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](disheveled, catching breath)"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<1EE521D4>",
+      "<ACF3531A>": "qW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "This is a case of falling in with\nthe wrong crowd, isn't it?"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<E13E10B8>",
+      "<ACF3531A>": "qW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I'm very disappointed."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<C2848F1E>",
+      "<ACF3531A>": "qW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Hm... It's about halfway through the\nprojected schedule..."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<E152A2A6>",
+      "<ACF3531A>": "qW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But this will have to do."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<36C0A6BB>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "What are you gonna do?"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<02F9176C>",
+      "<ACF3531A>": "qW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I will have it achieve its intended purpose."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<6691FEAB>",
+      "<ACF3531A>": "qW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "But, first of all..."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<7EC5BB19>",
+      "<ACF3531A>": "qW1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "I believe you need a little...discipline."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<8A18E7B7>",
+      "<ACF3531A>": "H",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 124,
+      "<DBAF43F0>": "[ML:undisp ](breath, fearful)"
+    }
+  ]
+}

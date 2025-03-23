@@ -1,0 +1,274 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<A5F6349B>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Agnian Auto-Levs..."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<7081C120>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They've hauled those things out here?\nCan't catch a break, can we?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<749B2AC9>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "As Lady Nia informed us, we should\nexpect them to be hiding in an ambush\nsomewhere on this island."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<DFE19E72>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I must remind you that we are only here\nto negotiate. If possible, I would like to\navoid combat..."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<027C1A5C>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sure, but what if they're the ones\nto come at us first?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<6A82E9BF>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Then suppress them at once. We could\neven disable their Levnises, so that they\nhave nothing with which to fight back."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<B9114A69>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, I've been meaning to ask for\na while now... You really know how\nto handle yourself in a scrap, don't you?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<199A7CA4>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, I'm no stranger to the field of battle.\nNor is this the first attempt on my life."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<BDFD061E>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Whuh? Even though you're the Queen?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<FB8D1B5E>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Precisely because I am the Queen."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<FE88818A>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Is it really so strange for nobles to be\nacquainted with violence? There was\neven an assassin within my family once."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<B2CE0652>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh?!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<1CC11C79>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33200,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm sorry, I hope we didn't bring back\npainful memories for you..."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<A149E353>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Please, it's perfectly fine.\nMany are the things that have shaped me\ninto who I am today."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<BA36C739>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Learning to accept my weaknesses,\nunderstanding each other's differences..."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<AE42B4D5>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Opening one's heart to others..."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<FB5603C2>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "(whistle) You must've been in some real\ngood company to learn all that."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<2CD91934>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Haha! Perhaps, yes."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<3E9820A3>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Back when I was young and naive,\nmy companions taught me some\ninvaluable lessons."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<6D0C4A82>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And you took those lessons to heart."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<6D5DCC0A>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's how you came to be such a\nmagnificent Queen."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<89E1EBA4>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Though times may change,\ntheir teachings will never fade."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<E4056DC2>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Which is why I still believe..."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<B374F88F>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33056,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I believe that our last breaths\nshould not be those of despair..."
+    }
+  ]
+}

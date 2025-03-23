@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<5E3F0A02>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Say... The Cent-Omnia region we're in now...\nIt's smack in the middle of Aionios, yeah?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<16952083>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Yes. That assessment is correct."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<291533A9>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Right, so...if we captured this area, couldn't\nwe raid the other regions pretty much at will?"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<708294FC>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "This is the only place connected to\nthe other four regions at once, right?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<0AD56224>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Which means that conversely, it can\nalso *be* attacked from all four sides."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<D24CFF3D>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Ah... Yeah, there's that-"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<5573D685>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "But I'll admit that it does have the\nstrategic value that you ascribed to it."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<09D118F1>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "It's an undeniable fact that both Keves and Agnus\nare desperate to gain control of this region."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<8529775D>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "The positional advantage of having access to all other regions\nmay make the attendant risks more palatable."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<CB7C87C0>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "I see, I see..."
+    }
+  ]
+}

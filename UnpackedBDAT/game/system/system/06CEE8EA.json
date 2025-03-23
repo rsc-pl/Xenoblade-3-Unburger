@@ -1,0 +1,7548 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<C9DE1447>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<C66C0BA8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<47BBE854>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<A13B6E2A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Commander and lieutenant"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<54B6DA3B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Mutual respect"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<6B582854>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Not happy with Zeon"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<6064AF7D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Not happy with Zeon"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<477898D0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Not happy with Zeon"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<1FFD1D1D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fast friends"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<0E792916>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<9FC003B9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Meddlers"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<72E1ADA1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Must be stopped"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<24C03B3F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Together"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<0ACDDE09>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Seems decent enough"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<EB9D83EC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<9A49C9AA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Awaiting return"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<DE6324DC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Worried about"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<6B2B4E2B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Give supplies!"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<95DCAD6C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Happy to see alive"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<14785ED1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fertilizer supplier"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<964A96A7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Confidants"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<A3F4CEE6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friendly toward"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<671E03EE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Off-seer and bodyguard"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<75B3A598>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Confidants"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<D0FBAFAB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Shared a secret"
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<092301A0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Shared a secret"
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<16F7A392>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Sad memories"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<682132FA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Has a request"
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<881ACD68>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "A friend lost too soon"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<C220DF77>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lost friend"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<C1958FB8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lost friend"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<910D4671>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lost friend"
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<FF711D55>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<791668FC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<ECA10B05>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<0C38502F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<10CDA1CB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<60FBCD57>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<17A3123C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<F681650C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<D5EC46D1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<9F0382A2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<B1A85470>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<26FF7D5A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<970AAB3A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<EE5FF505>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<32914EE7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<FC33AF9A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<92064C00>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<1622F814>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<8DCFC130>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<34106B44>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<97866A82>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<D14D2652>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<5E8FAE5C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<FEAE5C9C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<333BFC9F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<674E855E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<26F1FA76>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<E5714321>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friend"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<786680A9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "A big help"
+    },
+    {
+      "$id": 62,
+      "<8C7DD24D>": "<E27533A5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Has no report for"
+    },
+    {
+      "$id": 63,
+      "<8C7DD24D>": "<D6443A7E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow salvager"
+    },
+    {
+      "$id": 64,
+      "<8C7DD24D>": "<59872FE5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellowship"
+    },
+    {
+      "$id": 65,
+      "<8C7DD24D>": "<643CC411>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Dependable friends"
+    },
+    {
+      "$id": 66,
+      "<8C7DD24D>": "<E7359733>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Trust"
+    },
+    {
+      "$id": 67,
+      "<8C7DD24D>": "<B19BA5F4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "At odds"
+    },
+    {
+      "$id": 68,
+      "<8C7DD24D>": "<9EB497A1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Interested in"
+    },
+    {
+      "$id": 69,
+      "<8C7DD24D>": "<4D568BB4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lifelong friends"
+    },
+    {
+      "$id": 70,
+      "<8C7DD24D>": "<F66E909E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Plan to meet again"
+    },
+    {
+      "$id": 71,
+      "<8C7DD24D>": "<58240AA4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Plan to see the world"
+    },
+    {
+      "$id": 72,
+      "<8C7DD24D>": "<17A0EE22>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 73,
+      "<8C7DD24D>": "<434D1580>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Frequent confidants"
+    },
+    {
+      "$id": 74,
+      "<8C7DD24D>": "<380BB3AE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Easy for you"
+    },
+    {
+      "$id": 75,
+      "<8C7DD24D>": "<516B584D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Very interested in"
+    },
+    {
+      "$id": 76,
+      "<8C7DD24D>": "<7A196C53>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Best friends"
+    },
+    {
+      "$id": 77,
+      "<8C7DD24D>": "<6FE53BAC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Worried about"
+    },
+    {
+      "$id": 78,
+      "<8C7DD24D>": "<16B3E45E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Valued friends"
+    },
+    {
+      "$id": 79,
+      "<8C7DD24D>": "<3204AB74>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "A commander like no other"
+    },
+    {
+      "$id": 80,
+      "<8C7DD24D>": "<AAF1ED33>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Follows in her footsteps"
+    },
+    {
+      "$id": 81,
+      "<8C7DD24D>": "<79FB67E3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Companions of old"
+    },
+    {
+      "$id": 82,
+      "<8C7DD24D>": "<4D8B897A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Observing"
+    },
+    {
+      "$id": 83,
+      "<8C7DD24D>": "<D301B105>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Worthy leader"
+    },
+    {
+      "$id": 84,
+      "<8C7DD24D>": "<A19159B0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Commander Bolearis"
+    },
+    {
+      "$id": 85,
+      "<8C7DD24D>": "<E8D2D5AE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Worried about"
+    },
+    {
+      "$id": 86,
+      "<8C7DD24D>": "<4CE35748>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Entrusts future to"
+    },
+    {
+      "$id": 87,
+      "<8C7DD24D>": "<0EF09E28>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Concerned"
+    },
+    {
+      "$id": 88,
+      "<8C7DD24D>": "<281A0F51>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Has high hopes for"
+    },
+    {
+      "$id": 89,
+      "<8C7DD24D>": "<8BD7FAEF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Disappointed in"
+    },
+    {
+      "$id": 90,
+      "<8C7DD24D>": "<96BF2A4A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Acting commander"
+    },
+    {
+      "$id": 91,
+      "<8C7DD24D>": "<D597506D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 92,
+      "<8C7DD24D>": "<34F0433B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Subordinate tactician"
+    },
+    {
+      "$id": 93,
+      "<8C7DD24D>": "<5D8EF2FA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Not convinced"
+    },
+    {
+      "$id": 94,
+      "<8C7DD24D>": "<6BCD10ED>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Same-term buddies"
+    },
+    {
+      "$id": 95,
+      "<8C7DD24D>": "<F7B11821>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Has an eye on"
+    },
+    {
+      "$id": 96,
+      "<8C7DD24D>": "<AA8459A1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Caught off-guard"
+    },
+    {
+      "$id": 97,
+      "<8C7DD24D>": "<75C4A8AE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Hoping to reconcile"
+    },
+    {
+      "$id": 98,
+      "<8C7DD24D>": "<A8F2380F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "You framed me!"
+    },
+    {
+      "$id": 99,
+      "<8C7DD24D>": "<B7282386>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Traitor"
+    },
+    {
+      "$id": 100,
+      "<8C7DD24D>": "<B3871B2F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Supports as a friend"
+    },
+    {
+      "$id": 101,
+      "<8C7DD24D>": "<1BB40ACC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow tactician"
+    },
+    {
+      "$id": 102,
+      "<8C7DD24D>": "<918FD4C0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Will never forgive"
+    },
+    {
+      "$id": 103,
+      "<8C7DD24D>": "<2284FF3B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Needs to confront"
+    },
+    {
+      "$id": 104,
+      "<8C7DD24D>": "<FF9C8EFF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Treasured friend"
+    },
+    {
+      "$id": 105,
+      "<8C7DD24D>": "<FC69F6F3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Reliable companion"
+    },
+    {
+      "$id": 106,
+      "<8C7DD24D>": "<3E03AFA2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "In the same boat"
+    },
+    {
+      "$id": 107,
+      "<8C7DD24D>": "<C70C6EC5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 108,
+      "<8C7DD24D>": "<33BF3780>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Getting on well"
+    },
+    {
+      "$id": 109,
+      "<8C7DD24D>": "<B2166206>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "A culinary master"
+    },
+    {
+      "$id": 110,
+      "<8C7DD24D>": "<CA099A9D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 111,
+      "<8C7DD24D>": "<229D7967>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Livid at"
+    },
+    {
+      "$id": 112,
+      "<8C7DD24D>": "<B9FA8CD1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Dancing to tune of"
+    },
+    {
+      "$id": 113,
+      "<8C7DD24D>": "<EF9E162D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 114,
+      "<8C7DD24D>": "<3A2A32C5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Late with supplies"
+    },
+    {
+      "$id": 115,
+      "<8C7DD24D>": "<11F591C4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Reevaluating"
+    },
+    {
+      "$id": 116,
+      "<8C7DD24D>": "<5A5A5CC9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Procurement subordinate"
+    },
+    {
+      "$id": 117,
+      "<8C7DD24D>": "<A764BC75>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Are you superhuman?!"
+    },
+    {
+      "$id": 118,
+      "<8C7DD24D>": "<FBA21F9E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Procurement subordinate"
+    },
+    {
+      "$id": 119,
+      "<8C7DD24D>": "<2E50DA2F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 120,
+      "<8C7DD24D>": "<A4829F4C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "I'm *so* dead!"
+    },
+    {
+      "$id": 121,
+      "<8C7DD24D>": "<CFA52B09>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "A real powerhouse"
+    },
+    {
+      "$id": 122,
+      "<8C7DD24D>": "<1758C266>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Do your job!"
+    },
+    {
+      "$id": 123,
+      "<8C7DD24D>": "<09C2A0AF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Spark if I care!"
+    },
+    {
+      "$id": 124,
+      "<8C7DD24D>": "<F6440D9F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Live true!"
+    },
+    {
+      "$id": 125,
+      "<8C7DD24D>": "<0212ECAF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Do your job!"
+    },
+    {
+      "$id": 126,
+      "<8C7DD24D>": "<C9A29DCB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Spark if I care!"
+    },
+    {
+      "$id": 127,
+      "<8C7DD24D>": "<D8B54F8B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Live true!"
+    },
+    {
+      "$id": 128,
+      "<8C7DD24D>": "<C340D3CE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 129,
+      "<8C7DD24D>": "<2DEE2AAB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Sturdy test subject"
+    },
+    {
+      "$id": 130,
+      "<8C7DD24D>": "<00480616>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lost cause"
+    },
+    {
+      "$id": 131,
+      "<8C7DD24D>": "<78080D5F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Traveling pals"
+    },
+    {
+      "$id": 132,
+      "<8C7DD24D>": "<21FD664F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "No longer pals"
+    },
+    {
+      "$id": 133,
+      "<8C7DD24D>": "<BC4BF6A2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Now pals again"
+    },
+    {
+      "$id": 134,
+      "<8C7DD24D>": "<922DD53F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "The best of pals"
+    },
+    {
+      "$id": 135,
+      "<8C7DD24D>": "<5B602B58>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Close friends"
+    },
+    {
+      "$id": 136,
+      "<8C7DD24D>": "<945FC5FB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Bitter toward"
+    },
+    {
+      "$id": 137,
+      "<8C7DD24D>": "<D89B195E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Trusted lieutenant"
+    },
+    {
+      "$id": 138,
+      "<8C7DD24D>": "<23CA945A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends"
+    },
+    {
+      "$id": 139,
+      "<8C7DD24D>": "<D87EDB33>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Repapa is chief!"
+    },
+    {
+      "$id": 140,
+      "<8C7DD24D>": "<69E86562>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "New friend"
+    },
+    {
+      "$id": 141,
+      "<8C7DD24D>": "<29AB49B6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Masterpon and disciple"
+    },
+    {
+      "$id": 142,
+      "<8C7DD24D>": "<6B60876F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Really amazing"
+    },
+    {
+      "$id": 143,
+      "<8C7DD24D>": "<F0D511FF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "More reliable than the boss"
+    },
+    {
+      "$id": 144,
+      "<8C7DD24D>": "<1AE794B3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "One of the gang"
+    },
+    {
+      "$id": 145,
+      "<8C7DD24D>": "<80B08DDA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "One of the gang"
+    },
+    {
+      "$id": 146,
+      "<8C7DD24D>": "<1FB3480A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "We friends now?"
+    },
+    {
+      "$id": 147,
+      "<8C7DD24D>": "<1D8BCAF7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "We friends now?"
+    },
+    {
+      "$id": 148,
+      "<8C7DD24D>": "<1A338392>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 149,
+      "<8C7DD24D>": "<A01EC3F4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 150,
+      "<8C7DD24D>": "<1C5E29ED>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Made a promise"
+    },
+    {
+      "$id": 151,
+      "<8C7DD24D>": "<266F90F1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Want to send Radek on"
+    },
+    {
+      "$id": 152,
+      "<8C7DD24D>": "<F1B3F9B0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wishes safe return"
+    },
+    {
+      "$id": 153,
+      "<8C7DD24D>": "<F82FB602>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Owes life to"
+    },
+    {
+      "$id": 154,
+      "<8C7DD24D>": "<FDC46999>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Worried about"
+    },
+    {
+      "$id": 155,
+      "<8C7DD24D>": "<BCF0C786>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "I'm here for you"
+    },
+    {
+      "$id": 156,
+      "<8C7DD24D>": "<E0B41EDB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Don't wreck the Levnises!"
+    },
+    {
+      "$id": 157,
+      "<8C7DD24D>": "<41736420>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Somehow stuck with"
+    },
+    {
+      "$id": 158,
+      "<8C7DD24D>": "<96B60BAE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 159,
+      "<8C7DD24D>": "<F86EA90A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Happy to welcome"
+    },
+    {
+      "$id": 160,
+      "<8C7DD24D>": "<9ED3D5CB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Masterpon and disciple"
+    },
+    {
+      "$id": 161,
+      "<8C7DD24D>": "<440212C7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Determined\nnot to lose to"
+    },
+    {
+      "$id": 162,
+      "<8C7DD24D>": "<62A65938>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "All friends cooperating!"
+    },
+    {
+      "$id": 163,
+      "<8C7DD24D>": "<1E1D29A1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Who this again?"
+    },
+    {
+      "$id": 164,
+      "<8C7DD24D>": "<E54D9669>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Who this again?"
+    },
+    {
+      "$id": 165,
+      "<8C7DD24D>": "<792CF81C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Well of wisdom!"
+    },
+    {
+      "$id": 166,
+      "<8C7DD24D>": "<394580A4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Love!"
+    },
+    {
+      "$id": 167,
+      "<8C7DD24D>": "<8EDEE86B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow legendary Nopon"
+    },
+    {
+      "$id": 168,
+      "<8C7DD24D>": "<92BF2452>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Over five times his age"
+    },
+    {
+      "$id": 169,
+      "<8C7DD24D>": "<7510AB97>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Dummy"
+    },
+    {
+      "$id": 170,
+      "<8C7DD24D>": "<79EC07B9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Doing great work"
+    },
+    {
+      "$id": 171,
+      "<8C7DD24D>": "<B0CA5686>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "More friends!"
+    },
+    {
+      "$id": 172,
+      "<8C7DD24D>": "<23876142>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "See-Mee-Off"
+    },
+    {
+      "$id": 173,
+      "<8C7DD24D>": "<3F8C53FD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Give me a break"
+    },
+    {
+      "$id": 174,
+      "<8C7DD24D>": "<A48FDE07>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Confirmed her safety"
+    },
+    {
+      "$id": 175,
+      "<8C7DD24D>": "<BF978A98>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Finds kinda cute"
+    },
+    {
+      "$id": 176,
+      "<8C7DD24D>": "<D7E8E78A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "In awe of"
+    },
+    {
+      "$id": 177,
+      "<8C7DD24D>": "<19E2F50D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "In awe of"
+    },
+    {
+      "$id": 178,
+      "<8C7DD24D>": "<16A16EAA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Still love!"
+    },
+    {
+      "$id": 179,
+      "<8C7DD24D>": "<3AB1FE18>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "He can't be dead"
+    },
+    {
+      "$id": 180,
+      "<8C7DD24D>": "<8E4C13EC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Expect to get\nalong"
+    },
+    {
+      "$id": 181,
+      "<8C7DD24D>": "<4EA225B3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "We're all friends"
+    },
+    {
+      "$id": 182,
+      "<8C7DD24D>": "<9DB90442>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Respects"
+    },
+    {
+      "$id": 183,
+      "<8C7DD24D>": "<873413DA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 184,
+      "<8C7DD24D>": "<8377C1A0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Dependable\nfriends"
+    },
+    {
+      "$id": 185,
+      "<8C7DD24D>": "<C3DE25E6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "It's gonna be great!"
+    },
+    {
+      "$id": 186,
+      "<8C7DD24D>": "<7FCC024A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Brings back memories"
+    },
+    {
+      "$id": 187,
+      "<8C7DD24D>": "<0AB76B8B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to \"marry\""
+    },
+    {
+      "$id": 188,
+      "<8C7DD24D>": "<7AF357AF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Grateful"
+    },
+    {
+      "$id": 189,
+      "<8C7DD24D>": "<7FCECBC7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow legendary Nopon"
+    },
+    {
+      "$id": 190,
+      "<8C7DD24D>": "<8ADF8E36>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Built house for"
+    },
+    {
+      "$id": 191,
+      "<8C7DD24D>": "<45ECE543>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 192,
+      "<8C7DD24D>": "<F749C9E6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 193,
+      "<8C7DD24D>": "<37866443>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 194,
+      "<8C7DD24D>": "<F36EBDE2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 195,
+      "<8C7DD24D>": "<B979CFC6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 196,
+      "<8C7DD24D>": "<5E24DAF8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 197,
+      "<8C7DD24D>": "<F10BC805>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 198,
+      "<8C7DD24D>": "<CFEB73FB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 199,
+      "<8C7DD24D>": "<661D9489>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 200,
+      "<8C7DD24D>": "<E7E75E27>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 201,
+      "<8C7DD24D>": "<2AE4166E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 202,
+      "<8C7DD24D>": "<D68278A4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 203,
+      "<8C7DD24D>": "<3DE3FC06>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 204,
+      "<8C7DD24D>": "<68ABB521>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 205,
+      "<8C7DD24D>": "<EBC50E19>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 206,
+      "<8C7DD24D>": "<C3E3F310>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 207,
+      "<8C7DD24D>": "<A4539951>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 208,
+      "<8C7DD24D>": "<8F587C1B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 209,
+      "<8C7DD24D>": "<A27825B9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 210,
+      "<8C7DD24D>": "<B91883E7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 211,
+      "<8C7DD24D>": "<305D26E4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 212,
+      "<8C7DD24D>": "<37B95B16>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 213,
+      "<8C7DD24D>": "<02653135>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Commander\nand captain"
+    },
+    {
+      "$id": 214,
+      "<8C7DD24D>": "<0045C797>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Commander\nand captain"
+    },
+    {
+      "$id": 215,
+      "<8C7DD24D>": "<68E99584>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Commander\nand lieutenant"
+    },
+    {
+      "$id": 216,
+      "<8C7DD24D>": "<DCC9C34F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Commander\nand captain"
+    },
+    {
+      "$id": 217,
+      "<8C7DD24D>": "<8AE28CBF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Commander\nand captain"
+    },
+    {
+      "$id": 218,
+      "<8C7DD24D>": "<7CB33D10>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Alexandria's friend"
+    },
+    {
+      "$id": 219,
+      "<8C7DD24D>": "<574FF5E7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Reliable colleagues"
+    },
+    {
+      "$id": 220,
+      "<8C7DD24D>": "<510F6CFC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Meep!"
+    },
+    {
+      "$id": 221,
+      "<8C7DD24D>": "<132FCF25>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Successor"
+    },
+    {
+      "$id": 222,
+      "<8C7DD24D>": "<52383A24>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Eye for people"
+    },
+    {
+      "$id": 223,
+      "<8C7DD24D>": "<CCE036E1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Envious of"
+    },
+    {
+      "$id": 224,
+      "<8C7DD24D>": "<EA5C3EF6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "The rest is up to you"
+    },
+    {
+      "$id": 225,
+      "<8C7DD24D>": "<0C5B24A6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Our future ace"
+    },
+    {
+      "$id": 226,
+      "<8C7DD24D>": "<A7D313FC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Yearning to be like"
+    },
+    {
+      "$id": 227,
+      "<8C7DD24D>": "<F694AE1F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Finds kinda cute"
+    },
+    {
+      "$id": 228,
+      "<8C7DD24D>": "<45FDAB90>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Distressed C-paedia user"
+    },
+    {
+      "$id": 229,
+      "<8C7DD24D>": "<A4AF4B5E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Teacher"
+    },
+    {
+      "$id": 230,
+      "<8C7DD24D>": "<BE94D978>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "On the\nsame squad"
+    },
+    {
+      "$id": 231,
+      "<8C7DD24D>": "<F8D34D04>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Disappointing captain"
+    },
+    {
+      "$id": 232,
+      "<8C7DD24D>": "<322F3C3C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Finds kinda cute"
+    },
+    {
+      "$id": 233,
+      "<8C7DD24D>": "<CB71D74A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "A hindrance"
+    },
+    {
+      "$id": 234,
+      "<8C7DD24D>": "<D37CB77B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 235,
+      "<8C7DD24D>": "<4B59FD77>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Rivals"
+    },
+    {
+      "$id": 236,
+      "<8C7DD24D>": "<12984460>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Cosmetics afficionados"
+    },
+    {
+      "$id": 237,
+      "<8C7DD24D>": "<084D5EF7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Problematic friend"
+    },
+    {
+      "$id": 238,
+      "<8C7DD24D>": "<AB75ADD1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Working together"
+    },
+    {
+      "$id": 239,
+      "<8C7DD24D>": "<4E8BE64B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Right-hand man"
+    },
+    {
+      "$id": 240,
+      "<8C7DD24D>": "<09764EF1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Flawless support"
+    },
+    {
+      "$id": 241,
+      "<8C7DD24D>": "<879B6535>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Adoration"
+    },
+    {
+      "$id": 242,
+      "<8C7DD24D>": "<B88CEAAA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Has a thing for\nthe ladies"
+    },
+    {
+      "$id": 243,
+      "<8C7DD24D>": "<B0FB0E90>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "A skilled spy"
+    },
+    {
+      "$id": 244,
+      "<8C7DD24D>": "<31F6874D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Meanie!"
+    },
+    {
+      "$id": 245,
+      "<8C7DD24D>": "<31B36E3A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "A worthy successor"
+    },
+    {
+      "$id": 246,
+      "<8C7DD24D>": "<7B1271B8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Meanie!"
+    },
+    {
+      "$id": 247,
+      "<8C7DD24D>": "<4844898D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Keep in touch!"
+    },
+    {
+      "$id": 248,
+      "<8C7DD24D>": "<3F9641F1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Owes life to"
+    },
+    {
+      "$id": 249,
+      "<8C7DD24D>": "<8853AFCD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Kvetching buddies"
+    },
+    {
+      "$id": 250,
+      "<8C7DD24D>": "<BE9ADF13>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lackadaisical"
+    },
+    {
+      "$id": 251,
+      "<8C7DD24D>": "<313F1574>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friendly rivals"
+    },
+    {
+      "$id": 252,
+      "<8C7DD24D>": "<A95CF1F4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Protecting"
+    },
+    {
+      "$id": 253,
+      "<8C7DD24D>": "<6F19CF38>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 254,
+      "<8C7DD24D>": "<4D0C1AC7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fears shaky relations"
+    },
+    {
+      "$id": 255,
+      "<8C7DD24D>": "<E214EBB6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Long-time ally"
+    },
+    {
+      "$id": 256,
+      "<8C7DD24D>": "<56AEA9EE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Senses change in"
+    },
+    {
+      "$id": 257,
+      "<8C7DD24D>": "<F65EE4F0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Finds kinda cute"
+    },
+    {
+      "$id": 258,
+      "<8C7DD24D>": "<69531643>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "On friendly terms"
+    },
+    {
+      "$id": 259,
+      "<8C7DD24D>": "<6A9CE40F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Waterfall meditation\nbuddies"
+    },
+    {
+      "$id": 260,
+      "<8C7DD24D>": "<255A9E98>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Worried about"
+    },
+    {
+      "$id": 261,
+      "<8C7DD24D>": "<A118867C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Mutual respect"
+    },
+    {
+      "$id": 262,
+      "<8C7DD24D>": "<36637D4D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Future aspiration"
+    },
+    {
+      "$id": 263,
+      "<8C7DD24D>": "<AF9FE454>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Total opposites"
+    },
+    {
+      "$id": 264,
+      "<8C7DD24D>": "<04D7186E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends"
+    },
+    {
+      "$id": 265,
+      "<8C7DD24D>": "<89F9007F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Precious young friend"
+    },
+    {
+      "$id": 266,
+      "<8C7DD24D>": "<771280BC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Feels a change within"
+    },
+    {
+      "$id": 267,
+      "<8C7DD24D>": "<221EA6EA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Future commander"
+    },
+    {
+      "$id": 268,
+      "<8C7DD24D>": "<D78F8ECB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wishing much happiness"
+    },
+    {
+      "$id": 269,
+      "<8C7DD24D>": "<31CF2468>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Are in fact\nsame-termers"
+    },
+    {
+      "$id": 270,
+      "<8C7DD24D>": "<0BABB5C8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Weathered storms together"
+    },
+    {
+      "$id": 271,
+      "<8C7DD24D>": "<2E91A702>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 272,
+      "<8C7DD24D>": "<CE9ED3D7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wishing much happiness"
+    },
+    {
+      "$id": 273,
+      "<8C7DD24D>": "<4FAEC74B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Possesses insight"
+    },
+    {
+      "$id": 274,
+      "<8C7DD24D>": "<56F50911>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Special to each other"
+    },
+    {
+      "$id": 275,
+      "<8C7DD24D>": "<E081961F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Takedown alliance"
+    },
+    {
+      "$id": 276,
+      "<8C7DD24D>": "<0EE6C12C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to contact"
+    },
+    {
+      "$id": 277,
+      "<8C7DD24D>": "<E8294778>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Commander and lieutenant"
+    },
+    {
+      "$id": 278,
+      "<8C7DD24D>": "<7D033A89>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Feeling anxious"
+    },
+    {
+      "$id": 279,
+      "<8C7DD24D>": "<CECFB9AF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Feeling anxious"
+    },
+    {
+      "$id": 280,
+      "<8C7DD24D>": "<266AAF37>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow captains"
+    },
+    {
+      "$id": 281,
+      "<8C7DD24D>": "<5450BD52>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow captains"
+    },
+    {
+      "$id": 282,
+      "<8C7DD24D>": "<8202172F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "By the book"
+    },
+    {
+      "$id": 283,
+      "<8C7DD24D>": "<0257A6C6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 284,
+      "<8C7DD24D>": "<A43C2566>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Unease"
+    },
+    {
+      "$id": 285,
+      "<8C7DD24D>": "<2DFB06F6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Same term"
+    },
+    {
+      "$id": 286,
+      "<8C7DD24D>": "<9C155FD3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 287,
+      "<8C7DD24D>": "<071CEF45>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow captains"
+    },
+    {
+      "$id": 288,
+      "<8C7DD24D>": "<EF8794CE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow captains"
+    },
+    {
+      "$id": 289,
+      "<8C7DD24D>": "<31493EFE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "At odds"
+    },
+    {
+      "$id": 290,
+      "<8C7DD24D>": "<5EE23865>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow captains"
+    },
+    {
+      "$id": 291,
+      "<8C7DD24D>": "<1048D51C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Trust"
+    },
+    {
+      "$id": 292,
+      "<8C7DD24D>": "<BF633DC2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Next head of engineering"
+    },
+    {
+      "$id": 293,
+      "<8C7DD24D>": "<0282D874>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Gave orders to"
+    },
+    {
+      "$id": 294,
+      "<8C7DD24D>": "<8AB1A318>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Cooperating"
+    },
+    {
+      "$id": 295,
+      "<8C7DD24D>": "<94A596CA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 296,
+      "<8C7DD24D>": "<C2824D5C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Do your job!"
+    },
+    {
+      "$id": 297,
+      "<8C7DD24D>": "<C452D8D3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Learning from"
+    },
+    {
+      "$id": 298,
+      "<8C7DD24D>": "<FBDBE36C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Stubborn"
+    },
+    {
+      "$id": 299,
+      "<8C7DD24D>": "<91C735DD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lenient captain"
+    },
+    {
+      "$id": 300,
+      "<8C7DD24D>": "<405B2F82>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to protect"
+    },
+    {
+      "$id": 301,
+      "<8C7DD24D>": "<3C5570F0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Respect the rules!"
+    },
+    {
+      "$id": 302,
+      "<8C7DD24D>": "<ADF504D5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Caused to worry"
+    },
+    {
+      "$id": 303,
+      "<8C7DD24D>": "<DFEFCCAB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Carrying on will"
+    },
+    {
+      "$id": 304,
+      "<8C7DD24D>": "<2079FAC5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Trust"
+    },
+    {
+      "$id": 305,
+      "<8C7DD24D>": "<B9E83A7B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Dependable"
+    },
+    {
+      "$id": 306,
+      "<8C7DD24D>": "<9F19EA80>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Happy to be of use"
+    },
+    {
+      "$id": 307,
+      "<8C7DD24D>": "<42E1A14B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Relief"
+    },
+    {
+      "$id": 308,
+      "<8C7DD24D>": "<9049E084>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Still has a lot to learn"
+    },
+    {
+      "$id": 309,
+      "<8C7DD24D>": "<9452115E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Why?!"
+    },
+    {
+      "$id": 310,
+      "<8C7DD24D>": "<B7287944>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Unsure about"
+    },
+    {
+      "$id": 311,
+      "<8C7DD24D>": "<37DDD8B2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Respects"
+    },
+    {
+      "$id": 312,
+      "<8C7DD24D>": "<5A8AC89E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Trust"
+    },
+    {
+      "$id": 313,
+      "<8C7DD24D>": "<EE18E7EC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "The worst subordinate"
+    },
+    {
+      "$id": 314,
+      "<8C7DD24D>": "<80EDFCA6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Mentor and mentee"
+    },
+    {
+      "$id": 315,
+      "<8C7DD24D>": "<48C1A678>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "The one Lambda needs"
+    },
+    {
+      "$id": 316,
+      "<8C7DD24D>": "<67F8E85E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Complete idiot"
+    },
+    {
+      "$id": 317,
+      "<8C7DD24D>": "<68B36CB2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "One with Nopon"
+    },
+    {
+      "$id": 318,
+      "<8C7DD24D>": "<DDBBC0E7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Acknowledges efforts"
+    },
+    {
+      "$id": 319,
+      "<8C7DD24D>": "<9EF22074>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Satisfied with"
+    },
+    {
+      "$id": 320,
+      "<8C7DD24D>": "<F76E6397>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friend"
+    },
+    {
+      "$id": 321,
+      "<8C7DD24D>": "<403246E5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Successor"
+    },
+    {
+      "$id": 322,
+      "<8C7DD24D>": "<B998E01A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Questionable\ntastebuds"
+    },
+    {
+      "$id": 323,
+      "<8C7DD24D>": "<6715E05F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to be useful"
+    },
+    {
+      "$id": 324,
+      "<8C7DD24D>": "<40CA91AF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Leave the colony to me!"
+    },
+    {
+      "$id": 325,
+      "<8C7DD24D>": "<47B84A7A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Strong and kind\ncommander"
+    },
+    {
+      "$id": 326,
+      "<8C7DD24D>": "<A115FCF3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Alliance in tatters"
+    },
+    {
+      "$id": 327,
+      "<8C7DD24D>": "<5BB3D3B4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Finds interesting"
+    },
+    {
+      "$id": 328,
+      "<8C7DD24D>": "<21024CA0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Feels guilty about"
+    },
+    {
+      "$id": 329,
+      "<8C7DD24D>": "<B5F274DB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Worried about"
+    },
+    {
+      "$id": 330,
+      "<8C7DD24D>": "<01F742F3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Stop your nonsense"
+    },
+    {
+      "$id": 331,
+      "<8C7DD24D>": "<47C41090>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Vows to carry on legacy"
+    },
+    {
+      "$id": 332,
+      "<8C7DD24D>": "<50A12B03>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Tasty snack"
+    },
+    {
+      "$id": 333,
+      "<8C7DD24D>": "<2EE01EC5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Owes life to"
+    },
+    {
+      "$id": 334,
+      "<8C7DD24D>": "<0CF3CB82>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Supportive"
+    },
+    {
+      "$id": 335,
+      "<8C7DD24D>": "<592CFB4D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Don't get along"
+    },
+    {
+      "$id": 336,
+      "<8C7DD24D>": "<E0121F39>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 337,
+      "<8C7DD24D>": "<C8115106>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 338,
+      "<8C7DD24D>": "<CC6FBF0F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 339,
+      "<8C7DD24D>": "<09CAA715>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Worried for"
+    },
+    {
+      "$id": 340,
+      "<8C7DD24D>": "<2D23EB9C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 341,
+      "<8C7DD24D>": "<A0F0A094>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 342,
+      "<8C7DD24D>": "<EAA777A2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 343,
+      "<8C7DD24D>": "<7C37C096>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "I want them gone!"
+    },
+    {
+      "$id": 344,
+      "<8C7DD24D>": "<AC29481B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Cared about"
+    },
+    {
+      "$id": 345,
+      "<8C7DD24D>": "<E34F3B81>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 346,
+      "<8C7DD24D>": "<F0E8222E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 347,
+      "<8C7DD24D>": "<B6955343>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 348,
+      "<8C7DD24D>": "<4A76050E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Our food..."
+    },
+    {
+      "$id": 349,
+      "<8C7DD24D>": "<8CB1C30A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Alliance in tatters"
+    },
+    {
+      "$id": 350,
+      "<8C7DD24D>": "<D824F1E8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 351,
+      "<8C7DD24D>": "<1EBA0B67>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 352,
+      "<8C7DD24D>": "<04C3F454>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Scared of"
+    },
+    {
+      "$id": 353,
+      "<8C7DD24D>": "<93CC7243>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 354,
+      "<8C7DD24D>": "<B8929C07>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 355,
+      "<8C7DD24D>": "<311E5EA0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Died on same battlefield"
+    },
+    {
+      "$id": 356,
+      "<8C7DD24D>": "<5559F719>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Harvest help"
+    },
+    {
+      "$id": 357,
+      "<8C7DD24D>": "<30D55AE4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Camaraderie"
+    },
+    {
+      "$id": 358,
+      "<8C7DD24D>": "<F2575B29>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lives on through"
+    },
+    {
+      "$id": 359,
+      "<8C7DD24D>": "<D15F4F8E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Problem-solver"
+    },
+    {
+      "$id": 360,
+      "<8C7DD24D>": "<F346FD77>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Alike in some regards?"
+    },
+    {
+      "$id": 361,
+      "<8C7DD24D>": "<7C6CC389>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Problem-solver"
+    },
+    {
+      "$id": 362,
+      "<8C7DD24D>": "<3B0958D3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Thankful to"
+    },
+    {
+      "$id": 363,
+      "<8C7DD24D>": "<2AB7B5DF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Relief"
+    },
+    {
+      "$id": 364,
+      "<8C7DD24D>": "<6CDEFEC3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Worried about"
+    },
+    {
+      "$id": 365,
+      "<8C7DD24D>": "<15ADDED9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Understanding"
+    },
+    {
+      "$id": 366,
+      "<8C7DD24D>": "<73307751>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Owes life to"
+    },
+    {
+      "$id": 367,
+      "<8C7DD24D>": "<6B394A56>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "I, too, will change"
+    },
+    {
+      "$id": 368,
+      "<8C7DD24D>": "<A339E22B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Precious friend"
+    },
+    {
+      "$id": 369,
+      "<8C7DD24D>": "<1FD453EE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Glad of safety"
+    },
+    {
+      "$id": 370,
+      "<8C7DD24D>": "<3C70B91B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Teach me the tech"
+    },
+    {
+      "$id": 371,
+      "<8C7DD24D>": "<DDBAA814>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Allied"
+    },
+    {
+      "$id": 372,
+      "<8C7DD24D>": "<5285D340>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Smoked food is\ndelicious!"
+    },
+    {
+      "$id": 373,
+      "<8C7DD24D>": "<691C4AAB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Got used to"
+    },
+    {
+      "$id": 374,
+      "<8C7DD24D>": "<7F633691>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Allied"
+    },
+    {
+      "$id": 375,
+      "<8C7DD24D>": "<4328EB19>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Truly alive"
+    },
+    {
+      "$id": 376,
+      "<8C7DD24D>": "<644D8AB8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Glad he's safe"
+    },
+    {
+      "$id": 377,
+      "<8C7DD24D>": "<1CB9E977>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Cooperating"
+    },
+    {
+      "$id": 378,
+      "<8C7DD24D>": "<F5039ECF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Greatest alliance!"
+    },
+    {
+      "$id": 379,
+      "<8C7DD24D>": "<39A56FEC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "First customer"
+    },
+    {
+      "$id": 380,
+      "<8C7DD24D>": "<89CE645E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "In a foul mood over"
+    },
+    {
+      "$id": 381,
+      "<8C7DD24D>": "<3213290D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants Papa's approval"
+    },
+    {
+      "$id": 382,
+      "<8C7DD24D>": "<9EEB27F2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Mutual love"
+    },
+    {
+      "$id": 383,
+      "<8C7DD24D>": "<00B48F4A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Observing"
+    },
+    {
+      "$id": 384,
+      "<8C7DD24D>": "<35623AEF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Observing"
+    },
+    {
+      "$id": 385,
+      "<8C7DD24D>": "<1E2F17AD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Mutual love"
+    },
+    {
+      "$id": 386,
+      "<8C7DD24D>": "<A6AF10C3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "No blessing yet!"
+    },
+    {
+      "$id": 387,
+      "<8C7DD24D>": "<AE629D3D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "No blessing yet!"
+    },
+    {
+      "$id": 388,
+      "<8C7DD24D>": "<5EA5C696>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "I approve mateship"
+    },
+    {
+      "$id": 389,
+      "<8C7DD24D>": "<DD8E72BA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "I approve mateship"
+    },
+    {
+      "$id": 390,
+      "<8C7DD24D>": "<19F16FB7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 391,
+      "<8C7DD24D>": "<A1B5B530>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 392,
+      "<8C7DD24D>": "<B87AED75>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 393,
+      "<8C7DD24D>": "<311DBD16>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 394,
+      "<8C7DD24D>": "<58A97929>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 395,
+      "<8C7DD24D>": "<CCA0CF6C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 396,
+      "<8C7DD24D>": "<9AB8F24C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 397,
+      "<8C7DD24D>": "<E22F1293>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 398,
+      "<8C7DD24D>": "<6D26B45B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 399,
+      "<8C7DD24D>": "<C463E162>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 400,
+      "<8C7DD24D>": "<63BD6A1D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 401,
+      "<8C7DD24D>": "<C246A2B9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 402,
+      "<8C7DD24D>": "<90A6079C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 403,
+      "<8C7DD24D>": "<96B9D702>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 404,
+      "<8C7DD24D>": "<A40F3A03>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 405,
+      "<8C7DD24D>": "<5B0022F1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 406,
+      "<8C7DD24D>": "<90A76460>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 407,
+      "<8C7DD24D>": "<75E91C84>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 408,
+      "<8C7DD24D>": "<51BE4BE1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 409,
+      "<8C7DD24D>": "<F7552771>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 410,
+      "<8C7DD24D>": "<19006A81>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 411,
+      "<8C7DD24D>": "<7C0D364D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 412,
+      "<8C7DD24D>": "<13F82E10>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 413,
+      "<8C7DD24D>": "<84A7C726>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 414,
+      "<8C7DD24D>": "<A47E5E06>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 415,
+      "<8C7DD24D>": "<AB5E05E8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 416,
+      "<8C7DD24D>": "<6B4B234C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 417,
+      "<8C7DD24D>": "<259B1D7E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 418,
+      "<8C7DD24D>": "<4E3122F0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 419,
+      "<8C7DD24D>": "<0FCA9086>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 420,
+      "<8C7DD24D>": "<B7178FD3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 421,
+      "<8C7DD24D>": "<1763EACC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 422,
+      "<8C7DD24D>": "<17D1AEF1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 423,
+      "<8C7DD24D>": "<944CF905>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 424,
+      "<8C7DD24D>": "<C50DBD76>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 425,
+      "<8C7DD24D>": "<2DCEDF5B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 426,
+      "<8C7DD24D>": "<041AFBFB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 427,
+      "<8C7DD24D>": "<96D52CB4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 428,
+      "<8C7DD24D>": "<D8FE54BB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 429,
+      "<8C7DD24D>": "<9DC2BBBA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 430,
+      "<8C7DD24D>": "<0577C224>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 431,
+      "<8C7DD24D>": "<5DE6F794>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 432,
+      "<8C7DD24D>": "<4A1C2854>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 433,
+      "<8C7DD24D>": "<42531D4A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 434,
+      "<8C7DD24D>": "<EB6CC1D6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 435,
+      "<8C7DD24D>": "<305B4896>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 436,
+      "<8C7DD24D>": "<388BDEAA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 437,
+      "<8C7DD24D>": "<38047512>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 438,
+      "<8C7DD24D>": "<800490A0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 439,
+      "<8C7DD24D>": "<70132096>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 440,
+      "<8C7DD24D>": "<8F422C10>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 441,
+      "<8C7DD24D>": "<03ECB843>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 442,
+      "<8C7DD24D>": "<F4A285E6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 443,
+      "<8C7DD24D>": "<C1C5713B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 444,
+      "<8C7DD24D>": "<FA312E79>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 445,
+      "<8C7DD24D>": "<F87BEDD5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 446,
+      "<8C7DD24D>": "<1E5E0516>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 447,
+      "<8C7DD24D>": "<A0797E40>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 448,
+      "<8C7DD24D>": "<00249028>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 449,
+      "<8C7DD24D>": "<6DBE0759>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 450,
+      "<8C7DD24D>": "<D389582B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 451,
+      "<8C7DD24D>": "<7C29F806>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 452,
+      "<8C7DD24D>": "<3E94D18B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 453,
+      "<8C7DD24D>": "<8540CA38>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 454,
+      "<8C7DD24D>": "<D2692891>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 455,
+      "<8C7DD24D>": "<7813DBD3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 456,
+      "<8C7DD24D>": "<CEFCC38F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 457,
+      "<8C7DD24D>": "<2B51BA21>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 458,
+      "<8C7DD24D>": "<2067C7F4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 459,
+      "<8C7DD24D>": "<732B7F13>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 460,
+      "<8C7DD24D>": "<95905491>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 461,
+      "<8C7DD24D>": "<A2F8CAE7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 462,
+      "<8C7DD24D>": "<1F6EE44B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 463,
+      "<8C7DD24D>": "<193BB2F2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 464,
+      "<8C7DD24D>": "<E78E6E26>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 465,
+      "<8C7DD24D>": "<9F321D12>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 466,
+      "<8C7DD24D>": "<2569D4E9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 467,
+      "<8C7DD24D>": "<CCAC9D00>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 468,
+      "<8C7DD24D>": "<85F6339E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 469,
+      "<8C7DD24D>": "<E42E7EFA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 470,
+      "<8C7DD24D>": "<6B279E98>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 471,
+      "<8C7DD24D>": "<3180E814>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 472,
+      "<8C7DD24D>": "<EB9EC3E0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 473,
+      "<8C7DD24D>": "<5E3B487F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 474,
+      "<8C7DD24D>": "<69CC9294>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 475,
+      "<8C7DD24D>": "<85254901>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 476,
+      "<8C7DD24D>": "<74F7AF5E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 477,
+      "<8C7DD24D>": "<F3C370DF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 478,
+      "<8C7DD24D>": "<6419D769>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 479,
+      "<8C7DD24D>": "<3BA42B62>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Openly threatening"
+    },
+    {
+      "$id": 480,
+      "<8C7DD24D>": "<2A9ECC0E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Ceasefire"
+    },
+    {
+      "$id": 481,
+      "<8C7DD24D>": "<2956F187>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fought in the past"
+    },
+    {
+      "$id": 482,
+      "<8C7DD24D>": "<A0F6ECF9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Cooperating"
+    },
+    {
+      "$id": 483,
+      "<8C7DD24D>": "<A5009FFC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "United"
+    },
+    {
+      "$id": 484,
+      "<8C7DD24D>": "<7434E79E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Antagonistic"
+    },
+    {
+      "$id": 485,
+      "<8C7DD24D>": "<513555DB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 486,
+      "<8C7DD24D>": "<C53BD537>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Sharing personnel"
+    },
+    {
+      "$id": 487,
+      "<8C7DD24D>": "<FE2608E2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 488,
+      "<8C7DD24D>": "<60D94A80>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 489,
+      "<8C7DD24D>": "<3C3BC1EC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 490,
+      "<8C7DD24D>": "<78882FDA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 491,
+      "<8C7DD24D>": "<84A29894>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 492,
+      "<8C7DD24D>": "<81914636>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 493,
+      "<8C7DD24D>": "<72E57550>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 494,
+      "<8C7DD24D>": "<EDB5A255>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 495,
+      "<8C7DD24D>": "<119452C0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 496,
+      "<8C7DD24D>": "<7F9D3BD8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 497,
+      "<8C7DD24D>": "<DC663654>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 498,
+      "<8C7DD24D>": "<C936C7E8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 499,
+      "<8C7DD24D>": "<B69CD736>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 500,
+      "<8C7DD24D>": "<134AEDC2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 501,
+      "<8C7DD24D>": "<5214EA9C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 502,
+      "<8C7DD24D>": "<29CC0CBD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 503,
+      "<8C7DD24D>": "<89AD5BBA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 504,
+      "<8C7DD24D>": "<DF6A912A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 505,
+      "<8C7DD24D>": "<EEC3DBC2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Mysterious connection"
+    },
+    {
+      "$id": 506,
+      "<8C7DD24D>": "<9D0BB198>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fights constantly"
+    },
+    {
+      "$id": 507,
+      "<8C7DD24D>": "<D58528A5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Three Ravens"
+    },
+    {
+      "$id": 508,
+      "<8C7DD24D>": "<01842A62>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Three Ravens"
+    },
+    {
+      "$id": 509,
+      "<8C7DD24D>": "<43877734>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lieutenant's scout"
+    },
+    {
+      "$id": 510,
+      "<8C7DD24D>": "<8CED10CA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lieutenant's sniper"
+    },
+    {
+      "$id": 511,
+      "<8C7DD24D>": "<6209A513>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Related how?"
+    },
+    {
+      "$id": 512,
+      "<8C7DD24D>": "<21F99588>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "I'll have my prey"
+    },
+    {
+      "$id": 513,
+      "<8C7DD24D>": "<47D5C0D0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lieutenant's\nsubordinate"
+    },
+    {
+      "$id": 514,
+      "<8C7DD24D>": "<BA0D85FF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Leaves the kitchen to"
+    },
+    {
+      "$id": 515,
+      "<8C7DD24D>": "<FBBD4F0E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Three Ravens"
+    },
+    {
+      "$id": 516,
+      "<8C7DD24D>": "<B7C13EF9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 517,
+      "<8C7DD24D>": "<D25DFED8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Devoted to"
+    },
+    {
+      "$id": 518,
+      "<8C7DD24D>": "<AA6ACF34>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Clad's Unit"
+    },
+    {
+      "$id": 519,
+      "<8C7DD24D>": "<B32B4E3F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Zoren's Unit"
+    },
+    {
+      "$id": 520,
+      "<8C7DD24D>": "<F0EB1D18>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Hopeless"
+    },
+    {
+      "$id": 521,
+      "<8C7DD24D>": "<C8EC01A1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Easel's Unit"
+    },
+    {
+      "$id": 522,
+      "<8C7DD24D>": "<6FFEDC87>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 523,
+      "<8C7DD24D>": "<D9206EBA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Joined the Guard with"
+    },
+    {
+      "$id": 524,
+      "<8C7DD24D>": "<3D6143D7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Clad's spokespeople"
+    },
+    {
+      "$id": 525,
+      "<8C7DD24D>": "<31407CC3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Pride as a warrior"
+    },
+    {
+      "$id": 526,
+      "<8C7DD24D>": "<DA359327>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Three Ravens\nresolved"
+    },
+    {
+      "$id": 527,
+      "<8C7DD24D>": "<947ECB23>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Three Ravens\nresolved"
+    },
+    {
+      "$id": 528,
+      "<8C7DD24D>": "<BB67C9CA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Former Castle Guard"
+    },
+    {
+      "$id": 529,
+      "<8C7DD24D>": "<2120821D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "In thrall to inner beast"
+    },
+    {
+      "$id": 530,
+      "<8C7DD24D>": "<69938E11>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Plans to kill"
+    },
+    {
+      "$id": 531,
+      "<8C7DD24D>": "<13946DDE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Three Ravens\nresolved"
+    },
+    {
+      "$id": 532,
+      "<8C7DD24D>": "<D17660FD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "A real wake-up call"
+    },
+    {
+      "$id": 533,
+      "<8C7DD24D>": "<1F206CF5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "At the peak of shame"
+    },
+    {
+      "$id": 534,
+      "<8C7DD24D>": "<044C66BF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Long-term friends"
+    },
+    {
+      "$id": 535,
+      "<8C7DD24D>": "<3182615A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Joined the Guard with"
+    },
+    {
+      "$id": 536,
+      "<8C7DD24D>": "<616658A4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 537,
+      "<8C7DD24D>": "<55B3FAEA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Old friends"
+    },
+    {
+      "$id": 538,
+      "<8C7DD24D>": "<6CCEC8D0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to clear name"
+    },
+    {
+      "$id": 539,
+      "<8C7DD24D>": "<76739CE7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 540,
+      "<8C7DD24D>": "<C89B0747>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 541,
+      "<8C7DD24D>": "<0A2D9F3C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Regular customer"
+    },
+    {
+      "$id": 542,
+      "<8C7DD24D>": "<09EAB0FE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Regular customer"
+    },
+    {
+      "$id": 543,
+      "<8C7DD24D>": "<B4E9977A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 544,
+      "<8C7DD24D>": "<280B685C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Served large portions by"
+    },
+    {
+      "$id": 545,
+      "<8C7DD24D>": "<240F5CE5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lovely performance"
+    },
+    {
+      "$id": 546,
+      "<8C7DD24D>": "<E61A5584>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 547,
+      "<8C7DD24D>": "<A7015B92>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Must protect the true Queen"
+    },
+    {
+      "$id": 548,
+      "<8C7DD24D>": "<7B67591B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to build solidarity"
+    },
+    {
+      "$id": 549,
+      "<8C7DD24D>": "<6C73F113>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to build solidarity"
+    },
+    {
+      "$id": 550,
+      "<8C7DD24D>": "<44CAC888>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 551,
+      "<8C7DD24D>": "<F4858996>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Discord"
+    },
+    {
+      "$id": 552,
+      "<8C7DD24D>": "<F1ABDD12>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Ridiculously strait-laced"
+    },
+    {
+      "$id": 553,
+      "<8C7DD24D>": "<9F705634>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Will make a fine soldier"
+    },
+    {
+      "$id": 554,
+      "<8C7DD24D>": "<221D0560>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Mentee"
+    },
+    {
+      "$id": 555,
+      "<8C7DD24D>": "<D2615361>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants political reconciliation"
+    },
+    {
+      "$id": 556,
+      "<8C7DD24D>": "<6E9A4E00>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Devoted follower of"
+    },
+    {
+      "$id": 557,
+      "<8C7DD24D>": "<6A828F72>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 558,
+      "<8C7DD24D>": "<C0AB23C3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Leader-in-training"
+    },
+    {
+      "$id": 559,
+      "<8C7DD24D>": "<F6C1F5A2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Leader-in-training"
+    },
+    {
+      "$id": 560,
+      "<8C7DD24D>": "<26F522E9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Leader-in-training"
+    },
+    {
+      "$id": 561,
+      "<8C7DD24D>": "<8C8C833B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "The hope of Keves"
+    },
+    {
+      "$id": 562,
+      "<8C7DD24D>": "<95A2FE41>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Praised by"
+    },
+    {
+      "$id": 563,
+      "<8C7DD24D>": "<DFD0AE98>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Dependable subordinate"
+    },
+    {
+      "$id": 564,
+      "<8C7DD24D>": "<3F3A1E60>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Dependable subordinate"
+    },
+    {
+      "$id": 565,
+      "<8C7DD24D>": "<63814F94>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Like-minded"
+    },
+    {
+      "$id": 566,
+      "<8C7DD24D>": "<8FA679E6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "That idiot..."
+    },
+    {
+      "$id": 567,
+      "<8C7DD24D>": "<1F3322C6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Was blind to true intent"
+    },
+    {
+      "$id": 568,
+      "<8C7DD24D>": "<4ED8A81F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friendly rivals"
+    },
+    {
+      "$id": 569,
+      "<8C7DD24D>": "<B5BB47A5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friendly rivals"
+    },
+    {
+      "$id": 570,
+      "<8C7DD24D>": "<48C1FDB4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friendly rivals"
+    },
+    {
+      "$id": 571,
+      "<8C7DD24D>": "<F7DBBF0F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Loyal to"
+    },
+    {
+      "$id": 572,
+      "<8C7DD24D>": "<338BD0F8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Walking side by side"
+    },
+    {
+      "$id": 573,
+      "<8C7DD24D>": "<16B9E9CA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Ashamed about trusting"
+    },
+    {
+      "$id": 574,
+      "<8C7DD24D>": "<F22C99BA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Like-minded"
+    },
+    {
+      "$id": 575,
+      "<8C7DD24D>": "<EAB3649F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 576,
+      "<8C7DD24D>": "<C08DEEC8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 577,
+      "<8C7DD24D>": "<91E5B606>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 578,
+      "<8C7DD24D>": "<6FB91035>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 579,
+      "<8C7DD24D>": "<1BF518DE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 580,
+      "<8C7DD24D>": "<26C7A8CE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 581,
+      "<8C7DD24D>": "<04AFA87C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 582,
+      "<8C7DD24D>": "<9E4EE76D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 583,
+      "<8C7DD24D>": "<12828EDF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 584,
+      "<8C7DD24D>": "<68735C91>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 585,
+      "<8C7DD24D>": "<4BD095B4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 586,
+      "<8C7DD24D>": "<64A2495B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 587,
+      "<8C7DD24D>": "<1CB847FF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 588,
+      "<8C7DD24D>": "<01531A17>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 589,
+      "<8C7DD24D>": "<6D5E0B5F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 590,
+      "<8C7DD24D>": "<ABF69D44>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 591,
+      "<8C7DD24D>": "<C30B99CB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 592,
+      "<8C7DD24D>": "<FFCC3002>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 593,
+      "<8C7DD24D>": "<3C96B776>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 594,
+      "<8C7DD24D>": "<A6AA71ED>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 595,
+      "<8C7DD24D>": "<885864AB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 596,
+      "<8C7DD24D>": "<5CAD5A43>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 597,
+      "<8C7DD24D>": "<E116C90F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 598,
+      "<8C7DD24D>": "<AA809CDC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 599,
+      "<8C7DD24D>": "<3103E1F5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 600,
+      "<8C7DD24D>": "<CE53E84D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 601,
+      "<8C7DD24D>": "<44DDAB08>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 602,
+      "<8C7DD24D>": "<E22C5CEC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 603,
+      "<8C7DD24D>": "<6B7E0194>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 604,
+      "<8C7DD24D>": "<A2D3182C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 605,
+      "<8C7DD24D>": "<77615990>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 606,
+      "<8C7DD24D>": "<B31AEDB1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 607,
+      "<8C7DD24D>": "<6055B05B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 608,
+      "<8C7DD24D>": "<A6EE8F24>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 609,
+      "<8C7DD24D>": "<D2483EF5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "I'll follow you!"
+    },
+    {
+      "$id": 610,
+      "<8C7DD24D>": "<84CBE701>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Teach's pet"
+    },
+    {
+      "$id": 611,
+      "<8C7DD24D>": "<389B99EF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Prized advisor"
+    },
+    {
+      "$id": 612,
+      "<8C7DD24D>": "<17E02F62>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Team Kyrie"
+    },
+    {
+      "$id": 613,
+      "<8C7DD24D>": "<96C7CBBF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Really cannot stomach"
+    },
+    {
+      "$id": 614,
+      "<8C7DD24D>": "<F7D7AB4F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Respects"
+    },
+    {
+      "$id": 615,
+      "<8C7DD24D>": "<78E488B0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Causes issues"
+    },
+    {
+      "$id": 616,
+      "<8C7DD24D>": "<0EB4CB36>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Causes issues"
+    },
+    {
+      "$id": 617,
+      "<8C7DD24D>": "<9110CE6D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Team Kyrie"
+    },
+    {
+      "$id": 618,
+      "<8C7DD24D>": "<8F6E72A1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "???"
+    },
+    {
+      "$id": 619,
+      "<8C7DD24D>": "<918D71F2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Busybody"
+    },
+    {
+      "$id": 620,
+      "<8C7DD24D>": "<D22D3514>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Team Foots"
+    },
+    {
+      "$id": 621,
+      "<8C7DD24D>": "<70BE5C85>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Getting too cocky!"
+    },
+    {
+      "$id": 622,
+      "<8C7DD24D>": "<CA4C2C58>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "So noisy!"
+    },
+    {
+      "$id": 623,
+      "<8C7DD24D>": "<57ACF9C7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Troublesome\nsame-termer"
+    },
+    {
+      "$id": 624,
+      "<8C7DD24D>": "<8BFB25A3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Special instructor"
+    },
+    {
+      "$id": 625,
+      "<8C7DD24D>": "<BF3D736F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Team Zakir"
+    },
+    {
+      "$id": 626,
+      "<8C7DD24D>": "<344E6878>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Team Zakir"
+    },
+    {
+      "$id": 627,
+      "<8C7DD24D>": "<A94A6164>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Team Zakir"
+    },
+    {
+      "$id": 628,
+      "<8C7DD24D>": "<6DC3265B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "He's gone..."
+    },
+    {
+      "$id": 629,
+      "<8C7DD24D>": "<EC9C78BE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Praying for safety"
+    },
+    {
+      "$id": 630,
+      "<8C7DD24D>": "<7F8457B0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Seems promising"
+    },
+    {
+      "$id": 631,
+      "<8C7DD24D>": "<ADB5C3BC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to support research"
+    },
+    {
+      "$id": 632,
+      "<8C7DD24D>": "<07FD6A3E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Relies on"
+    },
+    {
+      "$id": 633,
+      "<8C7DD24D>": "<F226EFAF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Had underestimated"
+    },
+    {
+      "$id": 634,
+      "<8C7DD24D>": "<A002F149>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Carrying on teachings"
+    },
+    {
+      "$id": 635,
+      "<8C7DD24D>": "<A35D5ADE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Un-captain-like"
+    },
+    {
+      "$id": 636,
+      "<8C7DD24D>": "<B44DA1D1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Equally cherished"
+    },
+    {
+      "$id": 637,
+      "<8C7DD24D>": "<313867D4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Expends effort for"
+    },
+    {
+      "$id": 638,
+      "<8C7DD24D>": "<CB32D78F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Considers\na friend"
+    },
+    {
+      "$id": 639,
+      "<8C7DD24D>": "<09DBCF2F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Foots is the greatest!"
+    },
+    {
+      "$id": 640,
+      "<8C7DD24D>": "<725A8DD2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Too overconfident"
+    },
+    {
+      "$id": 641,
+      "<8C7DD24D>": "<3EC278A3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Too overconfident"
+    },
+    {
+      "$id": 642,
+      "<8C7DD24D>": "<129ED43F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Different somehow?"
+    },
+    {
+      "$id": 643,
+      "<8C7DD24D>": "<206CCA0B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Study buddies"
+    },
+    {
+      "$id": 644,
+      "<8C7DD24D>": "<BCE6F6CC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Very captain-like"
+    },
+    {
+      "$id": 645,
+      "<8C7DD24D>": "<3F885AD3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Very concerned about"
+    },
+    {
+      "$id": 646,
+      "<8C7DD24D>": "<E3661E08>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Carries melody in heart"
+    },
+    {
+      "$id": 647,
+      "<8C7DD24D>": "<8AE0D536>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fully-fledged soldier"
+    },
+    {
+      "$id": 648,
+      "<8C7DD24D>": "<372B358E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Very understanding"
+    },
+    {
+      "$id": 649,
+      "<8C7DD24D>": "<F29BC8C1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Equally cherished"
+    },
+    {
+      "$id": 650,
+      "<8C7DD24D>": "<6032FBBA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Dear to each other"
+    },
+    {
+      "$id": 651,
+      "<8C7DD24D>": "<2FFC1DED>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Future right-hand man"
+    },
+    {
+      "$id": 652,
+      "<8C7DD24D>": "<91727EBE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Hiding medical\naspirations from"
+    },
+    {
+      "$id": 653,
+      "<8C7DD24D>": "<83C7CF8F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Hiding medical\naspirations from"
+    },
+    {
+      "$id": 654,
+      "<8C7DD24D>": "<C58F1ED6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Keep no secrets"
+    },
+    {
+      "$id": 655,
+      "<8C7DD24D>": "<8C7BE144>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Glad she's bounced back"
+    },
+    {
+      "$id": 656,
+      "<8C7DD24D>": "<B05B07D8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Do as you like"
+    },
+    {
+      "$id": 657,
+      "<8C7DD24D>": "<9E5D8A3F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Ysorra's the greatest!"
+    },
+    {
+      "$id": 658,
+      "<8C7DD24D>": "<D35C54D1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 659,
+      "<8C7DD24D>": "<CB3A06EE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 660,
+      "<8C7DD24D>": "<BC2CF7A2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 661,
+      "<8C7DD24D>": "<D53E0A0E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 662,
+      "<8C7DD24D>": "<721ACD1F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 663,
+      "<8C7DD24D>": "<A7F427B6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 664,
+      "<8C7DD24D>": "<7966CF75>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 665,
+      "<8C7DD24D>": "<630528DA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 666,
+      "<8C7DD24D>": "<26DC9815>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lieutenant"
+    },
+    {
+      "$id": 667,
+      "<8C7DD24D>": "<53296E83>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Live freely!"
+    },
+    {
+      "$id": 668,
+      "<8C7DD24D>": "<34F026FF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Can't remember"
+    },
+    {
+      "$id": 669,
+      "<8C7DD24D>": "<25086C47>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Interest"
+    },
+    {
+      "$id": 670,
+      "<8C7DD24D>": "<5713BE9B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends"
+    },
+    {
+      "$id": 671,
+      "<8C7DD24D>": "<F966E30A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Drinking buddies"
+    },
+    {
+      "$id": 672,
+      "<8C7DD24D>": "<FAB38F64>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Doing work of"
+    },
+    {
+      "$id": 673,
+      "<8C7DD24D>": "<6B83EB10>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Newbie"
+    },
+    {
+      "$id": 674,
+      "<8C7DD24D>": "<9DD98207>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Family"
+    },
+    {
+      "$id": 675,
+      "<8C7DD24D>": "<DA021136>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Working with"
+    },
+    {
+      "$id": 676,
+      "<8C7DD24D>": "<DC5EF9CA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Finds the work dull"
+    },
+    {
+      "$id": 677,
+      "<8C7DD24D>": "<8340EAAD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Family"
+    },
+    {
+      "$id": 678,
+      "<8C7DD24D>": "<62692707>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Abducted?!"
+    },
+    {
+      "$id": 679,
+      "<8C7DD24D>": "<00FAA887>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Family"
+    },
+    {
+      "$id": 680,
+      "<8C7DD24D>": "<AE9E07C5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Family"
+    },
+    {
+      "$id": 681,
+      "<8C7DD24D>": "<D6DB0EE9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Try the clams!"
+    },
+    {
+      "$id": 682,
+      "<8C7DD24D>": "<6FEF6D28>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Family"
+    },
+    {
+      "$id": 683,
+      "<8C7DD24D>": "<A294CD87>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Let me talk to you!"
+    },
+    {
+      "$id": 684,
+      "<8C7DD24D>": "<379A81A3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Family"
+    },
+    {
+      "$id": 685,
+      "<8C7DD24D>": "<CD933732>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Thankful to"
+    },
+    {
+      "$id": 686,
+      "<8C7DD24D>": "<3F1137B4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fascinating"
+    },
+    {
+      "$id": 687,
+      "<8C7DD24D>": "<EBE3EF5C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Respect the rules!"
+    },
+    {
+      "$id": 688,
+      "<8C7DD24D>": "<5D65B20D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Be free!"
+    },
+    {
+      "$id": 689,
+      "<8C7DD24D>": "<B23407D1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Family"
+    },
+    {
+      "$id": 690,
+      "<8C7DD24D>": "<8FFCE5C0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Entrusted miso to"
+    },
+    {
+      "$id": 691,
+      "<8C7DD24D>": "<E7666A6B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends"
+    },
+    {
+      "$id": 692,
+      "<8C7DD24D>": "<4350D2C1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Last drinking buddy"
+    },
+    {
+      "$id": 693,
+      "<8C7DD24D>": "<9BFD9A50>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Family"
+    },
+    {
+      "$id": 694,
+      "<8C7DD24D>": "<E4745854>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Good employer"
+    },
+    {
+      "$id": 695,
+      "<8C7DD24D>": "<DBDC733F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Family"
+    },
+    {
+      "$id": 696,
+      "<8C7DD24D>": "<848BAE66>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Support"
+    },
+    {
+      "$id": 697,
+      "<8C7DD24D>": "<66B459DB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to help"
+    },
+    {
+      "$id": 698,
+      "<8C7DD24D>": "<72E9F9A4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Helping to gather data"
+    },
+    {
+      "$id": 699,
+      "<8C7DD24D>": "<CC414787>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Indebted to"
+    },
+    {
+      "$id": 700,
+      "<8C7DD24D>": "<201DF50D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "City members"
+    },
+    {
+      "$id": 701,
+      "<8C7DD24D>": "<995F09D5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "No time for"
+    },
+    {
+      "$id": 702,
+      "<8C7DD24D>": "<67ECE379>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Buddies"
+    },
+    {
+      "$id": 703,
+      "<8C7DD24D>": "<EDC13DCE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Family"
+    },
+    {
+      "$id": 704,
+      "<8C7DD24D>": "<F9E2F90D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Master and disciple"
+    },
+    {
+      "$id": 705,
+      "<8C7DD24D>": "<064CA7EC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Master and disciple"
+    },
+    {
+      "$id": 706,
+      "<8C7DD24D>": "<DEFF24FF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 707,
+      "<8C7DD24D>": "<8F7B17E2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 708,
+      "<8C7DD24D>": "<5DE772D8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 709,
+      "<8C7DD24D>": "<A3102A2D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 710,
+      "<8C7DD24D>": "<4C1F12D2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 711,
+      "<8C7DD24D>": "<F9AF9A19>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 712,
+      "<8C7DD24D>": "<5111E093>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 713,
+      "<8C7DD24D>": "<8AD5CA3E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 714,
+      "<8C7DD24D>": "<D8D216BE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 715,
+      "<8C7DD24D>": "<33417CC5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 716,
+      "<8C7DD24D>": "<8CCB8055>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 717,
+      "<8C7DD24D>": "<C9D92DB3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 718,
+      "<8C7DD24D>": "<A3D060EC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 719,
+      "<8C7DD24D>": "<5B33414E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 720,
+      "<8C7DD24D>": "<3B2CAB6C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 721,
+      "<8C7DD24D>": "<A5A5E924>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 722,
+      "<8C7DD24D>": "<83D9BBAD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 723,
+      "<8C7DD24D>": "<95D33EBC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 724,
+      "<8C7DD24D>": "<AA04E204>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 725,
+      "<8C7DD24D>": "<4C7A65C3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 726,
+      "<8C7DD24D>": "<947DBF94>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 727,
+      "<8C7DD24D>": "<5408CBEA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 728,
+      "<8C7DD24D>": "<5A18D9C6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 729,
+      "<8C7DD24D>": "<4FDD2CD0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 730,
+      "<8C7DD24D>": "<D764C7C2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 731,
+      "<8C7DD24D>": "<E93FD6FD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 732,
+      "<8C7DD24D>": "<8FA5E150>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 733,
+      "<8C7DD24D>": "<AC009715>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 734,
+      "<8C7DD24D>": "<B9D26E13>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 735,
+      "<8C7DD24D>": "<E273721D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 736,
+      "<8C7DD24D>": "<AABB4365>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 737,
+      "<8C7DD24D>": "<320D8581>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 738,
+      "<8C7DD24D>": "<C1DE1993>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 739,
+      "<8C7DD24D>": "<D4726671>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 740,
+      "<8C7DD24D>": "<BCF63749>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Can talk about anything"
+    },
+    {
+      "$id": 741,
+      "<8C7DD24D>": "<B66304FD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Best friends"
+    },
+    {
+      "$id": 742,
+      "<8C7DD24D>": "<7FEC019A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Respects"
+    },
+    {
+      "$id": 743,
+      "<8C7DD24D>": "<CCFA14DD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Interested in"
+    },
+    {
+      "$id": 744,
+      "<8C7DD24D>": "<3E573E10>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Trust"
+    },
+    {
+      "$id": 745,
+      "<8C7DD24D>": "<F84BFC26>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Trust"
+    },
+    {
+      "$id": 746,
+      "<8C7DD24D>": "<3449DB47>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fast friends"
+    },
+    {
+      "$id": 747,
+      "<8C7DD24D>": "<DF266940>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Out of sorts"
+    },
+    {
+      "$id": 748,
+      "<8C7DD24D>": "<EB37C78C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fast friends"
+    },
+    {
+      "$id": 749,
+      "<8C7DD24D>": "<7E161FF7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Live for Fiona"
+    },
+    {
+      "$id": 750,
+      "<8C7DD24D>": "<494536D8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Junior squad"
+    },
+    {
+      "$id": 751,
+      "<8C7DD24D>": "<7621639E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Optimist"
+    },
+    {
+      "$id": 752,
+      "<8C7DD24D>": "<05DB7DE1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Gentle and quiet"
+    },
+    {
+      "$id": 753,
+      "<8C7DD24D>": "<803B5973>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Resourceful"
+    },
+    {
+      "$id": 754,
+      "<8C7DD24D>": "<5E5305EC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "On the same wavelength"
+    },
+    {
+      "$id": 755,
+      "<8C7DD24D>": "<661F62BE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Different somehow"
+    },
+    {
+      "$id": 756,
+      "<8C7DD24D>": "<8F6C5C0A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Emotional support"
+    },
+    {
+      "$id": 757,
+      "<8C7DD24D>": "<E6C3AF21>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Made a promise to"
+    },
+    {
+      "$id": 758,
+      "<8C7DD24D>": "<68A5B7C1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Mentor and mentee"
+    },
+    {
+      "$id": 759,
+      "<8C7DD24D>": "<4755948E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Trust each other"
+    },
+    {
+      "$id": 760,
+      "<8C7DD24D>": "<63DA256A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Reliable"
+    },
+    {
+      "$id": 761,
+      "<8C7DD24D>": "<CC2C93C9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lost friend"
+    },
+    {
+      "$id": 762,
+      "<8C7DD24D>": "<9C2BB004>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lost friend"
+    },
+    {
+      "$id": 763,
+      "<8C7DD24D>": "<A8F402B0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Pals"
+    },
+    {
+      "$id": 764,
+      "<8C7DD24D>": "<58DA1356>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Good cook"
+    },
+    {
+      "$id": 765,
+      "<8C7DD24D>": "<7B666410>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Off in their own corner"
+    },
+    {
+      "$id": 766,
+      "<8C7DD24D>": "<16BC5248>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "So cute!"
+    },
+    {
+      "$id": 767,
+      "<8C7DD24D>": "<29A382FE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Thank you much"
+    },
+    {
+      "$id": 768,
+      "<8C7DD24D>": "<FDDBBC25>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Full of secrets"
+    },
+    {
+      "$id": 769,
+      "<8C7DD24D>": "<3A601980>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to support"
+    },
+    {
+      "$id": 770,
+      "<8C7DD24D>": "<62149539>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 771,
+      "<8C7DD24D>": "<10F1D576>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 772,
+      "<8C7DD24D>": "<3EE50BFB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Share a secret"
+    },
+    {
+      "$id": 773,
+      "<8C7DD24D>": "<4D76F5BD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wounds run deep"
+    },
+    {
+      "$id": 774,
+      "<8C7DD24D>": "<C5BFC16B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Likes a lot"
+    },
+    {
+      "$id": 775,
+      "<8C7DD24D>": "<12C4FD82>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Buddy-buddy"
+    },
+    {
+      "$id": 776,
+      "<8C7DD24D>": "<9DE8C44F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Worried about"
+    },
+    {
+      "$id": 777,
+      "<8C7DD24D>": "<4EC0ABBC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "A handful"
+    },
+    {
+      "$id": 778,
+      "<8C7DD24D>": "<334CE034>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Worried about"
+    },
+    {
+      "$id": 779,
+      "<8C7DD24D>": "<D41942E7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Has a sad secret"
+    },
+    {
+      "$id": 780,
+      "<8C7DD24D>": "<0C254FBB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Conflict"
+    },
+    {
+      "$id": 781,
+      "<8C7DD24D>": "<936789ED>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Tirkinhead"
+    },
+    {
+      "$id": 782,
+      "<8C7DD24D>": "<4D4FF83E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Has guts"
+    },
+    {
+      "$id": 783,
+      "<8C7DD24D>": "<4AF05CC9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Materials, please!"
+    },
+    {
+      "$id": 784,
+      "<8C7DD24D>": "<438169B3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Tough stuff"
+    },
+    {
+      "$id": 785,
+      "<8C7DD24D>": "<33CD704F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Skilled tactician"
+    },
+    {
+      "$id": 786,
+      "<8C7DD24D>": "<A147D68C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Encourages"
+    },
+    {
+      "$id": 787,
+      "<8C7DD24D>": "<629EA7C7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Worried about"
+    },
+    {
+      "$id": 788,
+      "<8C7DD24D>": "<EDED174D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to learn from"
+    },
+    {
+      "$id": 789,
+      "<8C7DD24D>": "<896E69D0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Amaaazing!"
+    },
+    {
+      "$id": 790,
+      "<8C7DD24D>": "<7C9B64DC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Dependable friend"
+    },
+    {
+      "$id": 791,
+      "<8C7DD24D>": "<AB6D397F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Watch over us"
+    },
+    {
+      "$id": 792,
+      "<8C7DD24D>": "<D91601B2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Watch over us"
+    },
+    {
+      "$id": 793,
+      "<8C7DD24D>": "<BB22E4CA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Help each other"
+    },
+    {
+      "$id": 794,
+      "<8C7DD24D>": "<4DD3EA9C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Reliable"
+    },
+    {
+      "$id": 795,
+      "<8C7DD24D>": "<5192B73D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friend of Armus"
+    },
+    {
+      "$id": 796,
+      "<8C7DD24D>": "<BEC45C5F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Smells nice"
+    },
+    {
+      "$id": 797,
+      "<8C7DD24D>": "<E538F215>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Warrior"
+    },
+    {
+      "$id": 798,
+      "<8C7DD24D>": "<099CC020>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Moebius"
+    },
+    {
+      "$id": 799,
+      "<8C7DD24D>": "<F00D91E1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Has taste"
+    },
+    {
+      "$id": 800,
+      "<8C7DD24D>": "<392DD87D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 801,
+      "<8C7DD24D>": "<7AAF9892>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Overdo it"
+    },
+    {
+      "$id": 802,
+      "<8C7DD24D>": "<3C7CD898>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends"
+    },
+    {
+      "$id": 803,
+      "<8C7DD24D>": "<5C9C5B1B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Distant from"
+    },
+    {
+      "$id": 804,
+      "<8C7DD24D>": "<0E03B62A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Understand suffering"
+    },
+    {
+      "$id": 805,
+      "<8C7DD24D>": "<3AD1CEF7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to believe in"
+    },
+    {
+      "$id": 806,
+      "<8C7DD24D>": "<536F9A66>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "We're so sorry..."
+    },
+    {
+      "$id": 807,
+      "<8C7DD24D>": "<6C27A4F7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Sorry..."
+    },
+    {
+      "$id": 808,
+      "<8C7DD24D>": "<81F491EC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Tirkinhead"
+    },
+    {
+      "$id": 809,
+      "<8C7DD24D>": "<4F45DBD5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "I won't lose to you"
+    },
+    {
+      "$id": 810,
+      "<8C7DD24D>": "<795AAAAB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Finds stronger now"
+    },
+    {
+      "$id": 811,
+      "<8C7DD24D>": "<6EACC895>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Super enthusiastic"
+    },
+    {
+      "$id": 812,
+      "<8C7DD24D>": "<36631337>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "In high spirits"
+    },
+    {
+      "$id": 813,
+      "<8C7DD24D>": "<81B69118>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Tough cookies, both"
+    },
+    {
+      "$id": 814,
+      "<8C7DD24D>": "<314EF590>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "In high spirits"
+    },
+    {
+      "$id": 815,
+      "<8C7DD24D>": "<D671658A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Breathing easy"
+    },
+    {
+      "$id": 816,
+      "<8C7DD24D>": "<0FF3BB77>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Have each other's backs"
+    },
+    {
+      "$id": 817,
+      "<8C7DD24D>": "<4C386969>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Plenty motivated"
+    },
+    {
+      "$id": 818,
+      "<8C7DD24D>": "<1A1E4E9D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Feels inferior to"
+    },
+    {
+      "$id": 819,
+      "<8C7DD24D>": "<1644E0D8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "So cool!"
+    },
+    {
+      "$id": 820,
+      "<8C7DD24D>": "<1297EA8E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Raising Armus is fun"
+    },
+    {
+      "$id": 821,
+      "<8C7DD24D>": "<51ED1C58>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Soft and bouncy!"
+    },
+    {
+      "$id": 822,
+      "<8C7DD24D>": "<E6406AEE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 823,
+      "<8C7DD24D>": "<81A85288>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Long-time allies"
+    },
+    {
+      "$id": 824,
+      "<8C7DD24D>": "<F83F92E0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Unique\nfriendship"
+    },
+    {
+      "$id": 825,
+      "<8C7DD24D>": "<49F64B06>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to be\nthere for"
+    },
+    {
+      "$id": 826,
+      "<8C7DD24D>": "<0627B9E5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Go, Team Tallow!"
+    },
+    {
+      "$id": 827,
+      "<8C7DD24D>": "<74DEB5CB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Worked hard"
+    },
+    {
+      "$id": 828,
+      "<8C7DD24D>": "<C45F0208>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Till next time!"
+    },
+    {
+      "$id": 829,
+      "<8C7DD24D>": "<9398B66E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Let's do our best"
+    },
+    {
+      "$id": 830,
+      "<8C7DD24D>": "<33D46C9B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "We're so sorry..."
+    },
+    {
+      "$id": 831,
+      "<8C7DD24D>": "<4BAA527C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Inherited dying wish"
+    },
+    {
+      "$id": 832,
+      "<8C7DD24D>": "<881920E0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "You're the best!"
+    },
+    {
+      "$id": 833,
+      "<8C7DD24D>": "<5A4C806E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "You're the best!"
+    },
+    {
+      "$id": 834,
+      "<8C7DD24D>": "<6DE9962F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "You're the best!"
+    },
+    {
+      "$id": 835,
+      "<8C7DD24D>": "<1EB6C085>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Pals"
+    },
+    {
+      "$id": 836,
+      "<8C7DD24D>": "<485A8C37>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Want to chat more"
+    },
+    {
+      "$id": 837,
+      "<8C7DD24D>": "<B8820DC7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Close friends"
+    },
+    {
+      "$id": 838,
+      "<8C7DD24D>": "<83B3E3D6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Understands her pain"
+    },
+    {
+      "$id": 839,
+      "<8C7DD24D>": "<BFEEAA0D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Gourmands"
+    },
+    {
+      "$id": 840,
+      "<8C7DD24D>": "<A57F3B36>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Sweetie"
+    },
+    {
+      "$id": 841,
+      "<8C7DD24D>": "<D4B8D749>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Can talk about anything"
+    },
+    {
+      "$id": 842,
+      "<8C7DD24D>": "<527504E8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Inspired each\nother"
+    },
+    {
+      "$id": 843,
+      "<8C7DD24D>": "<7A9F1F88>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends like no other"
+    },
+    {
+      "$id": 844,
+      "<8C7DD24D>": "<AADE0455>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Good pals"
+    },
+    {
+      "$id": 845,
+      "<8C7DD24D>": "<B8F13CB1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Get along"
+    },
+    {
+      "$id": 846,
+      "<8C7DD24D>": "<307292D8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Got your back"
+    },
+    {
+      "$id": 847,
+      "<8C7DD24D>": "<74E165F2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Open and honest"
+    },
+    {
+      "$id": 848,
+      "<8C7DD24D>": "<B1318929>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow Tirkinheads"
+    },
+    {
+      "$id": 849,
+      "<8C7DD24D>": "<0DC62F03>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "A culinary\ngenius!"
+    },
+    {
+      "$id": 850,
+      "<8C7DD24D>": "<FE3256CE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends forever"
+    },
+    {
+      "$id": 851,
+      "<8C7DD24D>": "<35321B4C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends forever"
+    },
+    {
+      "$id": 852,
+      "<8C7DD24D>": "<60466476>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Has to rescue"
+    },
+    {
+      "$id": 853,
+      "<8C7DD24D>": "<D9AF08D2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Cooperating"
+    },
+    {
+      "$id": 854,
+      "<8C7DD24D>": "<D4E88037>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lieutenant"
+    },
+    {
+      "$id": 855,
+      "<8C7DD24D>": "<A2662CCD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "At odds with"
+    },
+    {
+      "$id": 856,
+      "<8C7DD24D>": "<52C7893A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Candidate leader"
+    },
+    {
+      "$id": 857,
+      "<8C7DD24D>": "<2C22BD61>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Partners"
+    },
+    {
+      "$id": 858,
+      "<8C7DD24D>": "<BA3987E6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Aspires to"
+    },
+    {
+      "$id": 859,
+      "<8C7DD24D>": "<10967855>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow Queens"
+    },
+    {
+      "$id": 860,
+      "<8C7DD24D>": "<C610E049>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 861,
+      "<8C7DD24D>": "<CB271778>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Looks after"
+    },
+    {
+      "$id": 862,
+      "<8C7DD24D>": "<E4070DF0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Concerned about"
+    },
+    {
+      "$id": 863,
+      "<8C7DD24D>": "<2B120D31>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Concerned about"
+    },
+    {
+      "$id": 864,
+      "<8C7DD24D>": "<87011518>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Looks exhausted"
+    },
+    {
+      "$id": 865,
+      "<8C7DD24D>": "<F2449E68>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Respected teacher"
+    },
+    {
+      "$id": 866,
+      "<8C7DD24D>": "<0A214CBE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Newlyweds"
+    },
+    {
+      "$id": 867,
+      "<8C7DD24D>": "<DFD12F19>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Brother-in-law"
+    },
+    {
+      "$id": 868,
+      "<8C7DD24D>": "<291200F0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Acquainted"
+    },
+    {
+      "$id": 869,
+      "<8C7DD24D>": "<4DD9D3E0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 870,
+      "<8C7DD24D>": "<9E60671F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Newbie and superior"
+    },
+    {
+      "$id": 871,
+      "<8C7DD24D>": "<DE686FF1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Don't get greedy"
+    },
+    {
+      "$id": 872,
+      "<8C7DD24D>": "<DCF8E0B4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 873,
+      "<8C7DD24D>": "<0EEFAC3C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Understand their hardships"
+    },
+    {
+      "$id": 874,
+      "<8C7DD24D>": "<E6EDD188>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "A handful when drunk"
+    },
+    {
+      "$id": 875,
+      "<8C7DD24D>": "<2047CD2E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Kind older brother"
+    },
+    {
+      "$id": 876,
+      "<8C7DD24D>": "<952D4275>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends"
+    },
+    {
+      "$id": 877,
+      "<8C7DD24D>": "<7F6E18DA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends"
+    },
+    {
+      "$id": 878,
+      "<8C7DD24D>": "<C3FC5F9F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fashionistas"
+    },
+    {
+      "$id": 879,
+      "<8C7DD24D>": "<06E07593>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Grandpa and grandkid"
+    },
+    {
+      "$id": 880,
+      "<8C7DD24D>": "<32FBF929>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends"
+    },
+    {
+      "$id": 881,
+      "<8C7DD24D>": "<7A376EAC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Hide-and-seek buddies"
+    },
+    {
+      "$id": 882,
+      "<8C7DD24D>": "<5EC55437>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Father and son"
+    },
+    {
+      "$id": 883,
+      "<8C7DD24D>": "<67F218F8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Hit a nerve"
+    },
+    {
+      "$id": 884,
+      "<8C7DD24D>": "<A2823FEA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends"
+    },
+    {
+      "$id": 885,
+      "<8C7DD24D>": "<D36FFAA8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Adopted child"
+    },
+    {
+      "$id": 886,
+      "<8C7DD24D>": "<37EE58A0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 887,
+      "<8C7DD24D>": "<78BE9399>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to see smiling"
+    },
+    {
+      "$id": 888,
+      "<8C7DD24D>": "<464B8FED>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 889,
+      "<8C7DD24D>": "<787EE464>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Proposing marriage"
+    },
+    {
+      "$id": 890,
+      "<8C7DD24D>": "<25CE3F43>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants approval from"
+    },
+    {
+      "$id": 891,
+      "<8C7DD24D>": "<7CBAA04E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Cut from the same cloth"
+    },
+    {
+      "$id": 892,
+      "<8C7DD24D>": "<8FDA2FBF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 893,
+      "<8C7DD24D>": "<482C372C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fought for the first time"
+    },
+    {
+      "$id": 894,
+      "<8C7DD24D>": "<896AB2D9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 895,
+      "<8C7DD24D>": "<604982F9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Good grief"
+    },
+    {
+      "$id": 896,
+      "<8C7DD24D>": "<DC90468E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wary of"
+    },
+    {
+      "$id": 897,
+      "<8C7DD24D>": "<D32E3A11>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Discussing independence"
+    },
+    {
+      "$id": 898,
+      "<8C7DD24D>": "<6BFE7E79>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Supports"
+    },
+    {
+      "$id": 899,
+      "<8C7DD24D>": "<0E0D3BC1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lady of lofty wisdom"
+    },
+    {
+      "$id": 900,
+      "<8C7DD24D>": "<3C1D07C2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Great artist"
+    },
+    {
+      "$id": 901,
+      "<8C7DD24D>": "<F6FF514E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 902,
+      "<8C7DD24D>": "<97525D4B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 903,
+      "<8C7DD24D>": "<C5AA3FD6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 904,
+      "<8C7DD24D>": "<696C11EE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Has a request"
+    },
+    {
+      "$id": 905,
+      "<8C7DD24D>": "<5E0AC8AB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "A right firecracker"
+    },
+    {
+      "$id": 906,
+      "<8C7DD24D>": "<09700D6D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Very wary of"
+    },
+    {
+      "$id": 907,
+      "<8C7DD24D>": "<0D7E06F6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Supplies intel"
+    },
+    {
+      "$id": 908,
+      "<8C7DD24D>": "<AE6DC356>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Hardliners"
+    },
+    {
+      "$id": 909,
+      "<8C7DD24D>": "<5F283012>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Apprentice"
+    },
+    {
+      "$id": 910,
+      "<8C7DD24D>": "<91D9FBA4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Has a taste for adventure"
+    },
+    {
+      "$id": 911,
+      "<8C7DD24D>": "<7818323B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "A good doctor"
+    },
+    {
+      "$id": 912,
+      "<8C7DD24D>": "<04093190>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 913,
+      "<8C7DD24D>": "<C96BE5A8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 914,
+      "<8C7DD24D>": "<BC1A8A60>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow legendary Nopon"
+    },
+    {
+      "$id": 915,
+      "<8C7DD24D>": "<9982D996>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow legendary Nopon"
+    },
+    {
+      "$id": 916,
+      "<8C7DD24D>": "<E035B650>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Mother and son"
+    },
+    {
+      "$id": 917,
+      "<8C7DD24D>": "<F2EE4317>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 918,
+      "<8C7DD24D>": "<4FD0577E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Nearly got\nmarried, once"
+    },
+    {
+      "$id": 919,
+      "<8C7DD24D>": "<02E0574D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 920,
+      "<8C7DD24D>": "<7F2B7F39>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Ouroboros candidates"
+    },
+    {
+      "$id": 921,
+      "<8C7DD24D>": "<8343AFE1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Ouroboros candidates"
+    },
+    {
+      "$id": 922,
+      "<8C7DD24D>": "<94236F71>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Ouroboros candidates"
+    },
+    {
+      "$id": 923,
+      "<8C7DD24D>": "<2A0CC6E7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Good with machines"
+    },
+    {
+      "$id": 924,
+      "<8C7DD24D>": "<6865E5FC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 925,
+      "<8C7DD24D>": "<CBBDA6C2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Hardliners"
+    },
+    {
+      "$id": 926,
+      "<8C7DD24D>": "<DAEF0D8F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Sole blood relatives"
+    },
+    {
+      "$id": 927,
+      "<8C7DD24D>": "<7C738342>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Part of Guernica's\nsquad"
+    },
+    {
+      "$id": 928,
+      "<8C7DD24D>": "<7FEFC4A4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Part of Guernica's squad"
+    },
+    {
+      "$id": 929,
+      "<8C7DD24D>": "<5E627AF3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lost Numbers"
+    },
+    {
+      "$id": 930,
+      "<8C7DD24D>": "<EF5DAB3B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Ouroboros candidates"
+    },
+    {
+      "$id": 931,
+      "<8C7DD24D>": "<D312C878>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Ouroboros candidates"
+    },
+    {
+      "$id": 932,
+      "<8C7DD24D>": "<DC2EC0B1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Laments"
+    },
+    {
+      "$id": 933,
+      "<8C7DD24D>": "<E9496729>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 934,
+      "<8C7DD24D>": "<A779D92D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends"
+    },
+    {
+      "$id": 935,
+      "<8C7DD24D>": "<79FFE2FB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 936,
+      "<8C7DD24D>": "<69F50209>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 937,
+      "<8C7DD24D>": "<523A1FDC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Daughter"
+    },
+    {
+      "$id": 938,
+      "<8C7DD24D>": "<E2F15696>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Part of Guernica's squad"
+    },
+    {
+      "$id": 939,
+      "<8C7DD24D>": "<87C4236E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Part of Guernica's squad"
+    },
+    {
+      "$id": 940,
+      "<8C7DD24D>": "<962BD95B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Close friends"
+    },
+    {
+      "$id": 941,
+      "<8C7DD24D>": "<364BE356>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Supports"
+    },
+    {
+      "$id": 942,
+      "<8C7DD24D>": "<017B0CF4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Actually twins"
+    },
+    {
+      "$id": 943,
+      "<8C7DD24D>": "<62BDCC72>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Bitchqueen"
+    },
+    {
+      "$id": 944,
+      "<8C7DD24D>": "<99980E27>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Dependable lieutenant"
+    },
+    {
+      "$id": 945,
+      "<8C7DD24D>": "<FF76FEFE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Disagrees with"
+    },
+    {
+      "$id": 946,
+      "<8C7DD24D>": "<DD715134>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Defiance?"
+    },
+    {
+      "$id": 947,
+      "<8C7DD24D>": "<C2EDB01F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Married"
+    },
+    {
+      "$id": 948,
+      "<8C7DD24D>": "<4A773AFD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Partners"
+    },
+    {
+      "$id": 949,
+      "<8C7DD24D>": "<44F7FDFC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Benefactor"
+    },
+    {
+      "$id": 950,
+      "<8C7DD24D>": "<50A65958>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Cool captain"
+    },
+    {
+      "$id": 951,
+      "<8C7DD24D>": "<F26F080C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Great work"
+    },
+    {
+      "$id": 952,
+      "<8C7DD24D>": "<5A79653A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Precious friend"
+    },
+    {
+      "$id": 953,
+      "<8C7DD24D>": "<9FC47216>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Like a little brother"
+    },
+    {
+      "$id": 954,
+      "<8C7DD24D>": "<C091F185>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Gets on well with"
+    },
+    {
+      "$id": 955,
+      "<8C7DD24D>": "<B0B00BC2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fun grandpa and grandkid"
+    },
+    {
+      "$id": 956,
+      "<8C7DD24D>": "<D2B3851C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Precious friend"
+    },
+    {
+      "$id": 957,
+      "<8C7DD24D>": "<7B26B834>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Beloved father"
+    },
+    {
+      "$id": 958,
+      "<8C7DD24D>": "<6DA68C8A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Generous"
+    },
+    {
+      "$id": 959,
+      "<8C7DD24D>": "<A6336EB9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Good at crafts"
+    },
+    {
+      "$id": 960,
+      "<8C7DD24D>": "<D79703C4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Would that we\ncould marry!"
+    },
+    {
+      "$id": 961,
+      "<8C7DD24D>": "<E490D9BE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "I won't give up!"
+    },
+    {
+      "$id": 962,
+      "<8C7DD24D>": "<15382F88>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Disowned"
+    },
+    {
+      "$id": 963,
+      "<8C7DD24D>": "<B60EB66A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "A handful when drunk"
+    },
+    {
+      "$id": 964,
+      "<8C7DD24D>": "<83C0CFCC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Imprudent"
+    },
+    {
+      "$id": 965,
+      "<8C7DD24D>": "<01C105D2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Tuning Automaton for"
+    },
+    {
+      "$id": 966,
+      "<8C7DD24D>": "<2A2D6842>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Owed a debt"
+    },
+    {
+      "$id": 967,
+      "<8C7DD24D>": "<FB0FB5D7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Admires"
+    },
+    {
+      "$id": 968,
+      "<8C7DD24D>": "<D74C29B9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Traitor"
+    },
+    {
+      "$id": 969,
+      "<8C7DD24D>": "<09BFB138>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Caring\napprentice"
+    },
+    {
+      "$id": 970,
+      "<8C7DD24D>": "<C1D5B633>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Intimidating\nmother"
+    },
+    {
+      "$id": 971,
+      "<8C7DD24D>": "<E34DED7E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Solidarity"
+    },
+    {
+      "$id": 972,
+      "<8C7DD24D>": "<253BE87C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Solidarity"
+    },
+    {
+      "$id": 973,
+      "<8C7DD24D>": "<EA5E7520>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Solidarity"
+    },
+    {
+      "$id": 974,
+      "<8C7DD24D>": "<74B5FD64>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Their plan\nfailed"
+    },
+    {
+      "$id": 975,
+      "<8C7DD24D>": "<35BCAEA9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Sympathy"
+    },
+    {
+      "$id": 976,
+      "<8C7DD24D>": "<20FC4F91>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Solidarity"
+    },
+    {
+      "$id": 977,
+      "<8C7DD24D>": "<CA28B760>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Solidarity"
+    },
+    {
+      "$id": 978,
+      "<8C7DD24D>": "<B869B7C2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Frustration"
+    },
+    {
+      "$id": 979,
+      "<8C7DD24D>": "<63D88782>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Inherited dying wish"
+    },
+    {
+      "$id": 980,
+      "<8C7DD24D>": "<BC723135>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Adventurer and\nbodyguard"
+    },
+    {
+      "$id": 981,
+      "<8C7DD24D>": "<3533D451>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Relief"
+    },
+    {
+      "$id": 982,
+      "<8C7DD24D>": "<29650D2D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lieutenant"
+    },
+    {
+      "$id": 983,
+      "<8C7DD24D>": "<2D7BB1B1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Recognize their authority"
+    },
+    {
+      "$id": 984,
+      "<8C7DD24D>": "<6D280123>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Affection"
+    },
+    {
+      "$id": 985,
+      "<8C7DD24D>": "<2EB3DEF8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Secretive"
+    },
+    {
+      "$id": 986,
+      "<8C7DD24D>": "<37D4FC35>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "We'll find the answer"
+    },
+    {
+      "$id": 987,
+      "<8C7DD24D>": "<E5E78E5A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Hitting it off"
+    },
+    {
+      "$id": 988,
+      "<8C7DD24D>": "<DAE0F47A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Reliable leader"
+    },
+    {
+      "$id": 989,
+      "<8C7DD24D>": "<5286C2B5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Go, Ouroboros!"
+    },
+    {
+      "$id": 990,
+      "<8C7DD24D>": "<E03798E3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends beyond\ncompare"
+    },
+    {
+      "$id": 991,
+      "<8C7DD24D>": "<4FE4DE73>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Hoping he'll mature"
+    },
+    {
+      "$id": 992,
+      "<8C7DD24D>": "<29116B92>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Both alike in\ntheir resolve"
+    },
+    {
+      "$id": 993,
+      "<8C7DD24D>": "<113E7643>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Keep her safe!"
+    },
+    {
+      "$id": 994,
+      "<8C7DD24D>": "<58E8DB14>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "He's not so bad"
+    },
+    {
+      "$id": 995,
+      "<8C7DD24D>": "<93BA5284>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends"
+    },
+    {
+      "$id": 996,
+      "<8C7DD24D>": "<ABC3D77D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Trusting\napprentice"
+    },
+    {
+      "$id": 997,
+      "<8C7DD24D>": "<D9BC3E97>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Feels more\nmature than"
+    },
+    {
+      "$id": 998,
+      "<8C7DD24D>": "<A57EA214>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "House Vandham"
+    },
+    {
+      "$id": 999,
+      "<8C7DD24D>": "<773E0A4A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Married"
+    },
+    {
+      "$id": 1000,
+      "<8C7DD24D>": "<93A261D7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Has a debt to repay"
+    },
+    {
+      "$id": 1001,
+      "<8C7DD24D>": "<601A5F09>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Protect each other"
+    },
+    {
+      "$id": 1002,
+      "<8C7DD24D>": "<FF6FAFC7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Understands his feelings"
+    },
+    {
+      "$id": 1003,
+      "<8C7DD24D>": "<556752B7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Family"
+    },
+    {
+      "$id": 1004,
+      "<8C7DD24D>": "<D41D3AC2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Will meet when map is done"
+    },
+    {
+      "$id": 1005,
+      "<8C7DD24D>": "<0B1B4F7B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Important to each other"
+    },
+    {
+      "$id": 1006,
+      "<8C7DD24D>": "<D105D5F0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "New parents"
+    },
+    {
+      "$id": 1007,
+      "<8C7DD24D>": "<A8775458>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1008,
+      "<8C7DD24D>": "<A7B62F86>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1009,
+      "<8C7DD24D>": "<7A76DB2C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1010,
+      "<8C7DD24D>": "<625C5648>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1011,
+      "<8C7DD24D>": "<712ED9D0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1012,
+      "<8C7DD24D>": "<49661804>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1013,
+      "<8C7DD24D>": "<E6B5D1FD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1014,
+      "<8C7DD24D>": "<BE979553>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1015,
+      "<8C7DD24D>": "<F8A0EA40>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1016,
+      "<8C7DD24D>": "<0AD7C244>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1017,
+      "<8C7DD24D>": "<D5D313B8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1018,
+      "<8C7DD24D>": "<FA329DAC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1019,
+      "<8C7DD24D>": "<4D4FCA7E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1020,
+      "<8C7DD24D>": "<5CCF6661>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1021,
+      "<8C7DD24D>": "<B6EAC1EC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1022,
+      "<8C7DD24D>": "<19F774B3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1023,
+      "<8C7DD24D>": "<CF51DD3D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1024,
+      "<8C7DD24D>": "<A0481006>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1025,
+      "<8C7DD24D>": "<2E4D1B36>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1026,
+      "<8C7DD24D>": "<88CAA073>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1027,
+      "<8C7DD24D>": "<D28765B2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1028,
+      "<8C7DD24D>": "<6E60B531>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1029,
+      "<8C7DD24D>": "<5D644933>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1030,
+      "<8C7DD24D>": "<DB7E49AE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1031,
+      "<8C7DD24D>": "<92D01BBB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1032,
+      "<8C7DD24D>": "<FDBCDB9C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1033,
+      "<8C7DD24D>": "<7FA14749>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1034,
+      "<8C7DD24D>": "<67E23D8C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1035,
+      "<8C7DD24D>": "<B1332562>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1036,
+      "<8C7DD24D>": "<40820F4A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1037,
+      "<8C7DD24D>": "<CE58EC21>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1038,
+      "<8C7DD24D>": "<2826E31E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1039,
+      "<8C7DD24D>": "<CBF66FBE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1040,
+      "<8C7DD24D>": "<B5428EF7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1041,
+      "<8C7DD24D>": "<AB7D0AD8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1042,
+      "<8C7DD24D>": "<D9895592>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1043,
+      "<8C7DD24D>": "<8FEDD3F4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Supply manager"
+    },
+    {
+      "$id": 1044,
+      "<8C7DD24D>": "<E5A6197A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Model soldier"
+    },
+    {
+      "$id": 1045,
+      "<8C7DD24D>": "<C99A69AB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Keeping an eye on"
+    },
+    {
+      "$id": 1046,
+      "<8C7DD24D>": "<F94B0F8C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Was protected by"
+    },
+    {
+      "$id": 1047,
+      "<8C7DD24D>": "<C11DA0AC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Dead weight"
+    },
+    {
+      "$id": 1048,
+      "<8C7DD24D>": "<2AF43763>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Frets over"
+    },
+    {
+      "$id": 1049,
+      "<8C7DD24D>": "<F75F1EB5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Seven cheers for Segiri!"
+    },
+    {
+      "$id": 1050,
+      "<8C7DD24D>": "<A6783B4E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wishes well"
+    },
+    {
+      "$id": 1051,
+      "<8C7DD24D>": "<F7744FA1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Being teased by"
+    },
+    {
+      "$id": 1052,
+      "<8C7DD24D>": "<F51CF908>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Share a secret"
+    },
+    {
+      "$id": 1053,
+      "<8C7DD24D>": "<74835977>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Cute"
+    },
+    {
+      "$id": 1054,
+      "<8C7DD24D>": "<399E6D91>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "???"
+    },
+    {
+      "$id": 1055,
+      "<8C7DD24D>": "<92A6D1DD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Mourns"
+    },
+    {
+      "$id": 1056,
+      "<8C7DD24D>": "<B91311BD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Advisor"
+    },
+    {
+      "$id": 1057,
+      "<8C7DD24D>": "<ACE6D2DC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Valued customer"
+    },
+    {
+      "$id": 1058,
+      "<8C7DD24D>": "<4A47B615>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to make up"
+    },
+    {
+      "$id": 1059,
+      "<8C7DD24D>": "<556C084C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Helping to grow"
+    },
+    {
+      "$id": 1060,
+      "<8C7DD24D>": "<CDDBAA31>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Not the same Segiri"
+    },
+    {
+      "$id": 1061,
+      "<8C7DD24D>": "<96D2D7A9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Similar"
+    },
+    {
+      "$id": 1062,
+      "<8C7DD24D>": "<EC67778D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "She was alive?"
+    },
+    {
+      "$id": 1063,
+      "<8C7DD24D>": "<1A1BA576>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Reconciled"
+    },
+    {
+      "$id": 1064,
+      "<8C7DD24D>": "<9B60E28B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Invisible bond"
+    },
+    {
+      "$id": 1065,
+      "<8C7DD24D>": "<154EFEDE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Majorly serious"
+    },
+    {
+      "$id": 1066,
+      "<8C7DD24D>": "<501EC95E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1067,
+      "<8C7DD24D>": "<4017D77B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1068,
+      "<8C7DD24D>": "<F5B93D05>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Slacker"
+    },
+    {
+      "$id": 1069,
+      "<8C7DD24D>": "<FB00E96B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1070,
+      "<8C7DD24D>": "<54CD4AB5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Sloppy-pon"
+    },
+    {
+      "$id": 1071,
+      "<8C7DD24D>": "<ACE33F45>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Oodles of fun"
+    },
+    {
+      "$id": 1072,
+      "<8C7DD24D>": "<228DF52C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Good-natured"
+    },
+    {
+      "$id": 1073,
+      "<8C7DD24D>": "<787D11E9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Terrible defense"
+    },
+    {
+      "$id": 1074,
+      "<8C7DD24D>": "<70A9604D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Feels safe with"
+    },
+    {
+      "$id": 1075,
+      "<8C7DD24D>": "<29517260>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Scaredy-pon"
+    },
+    {
+      "$id": 1076,
+      "<8C7DD24D>": "<2CC1D9CB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Forgetful-pon"
+    },
+    {
+      "$id": 1077,
+      "<8C7DD24D>": "<E5D9393F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Trouble-pon"
+    },
+    {
+      "$id": 1078,
+      "<8C7DD24D>": "<1B782552>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Nastypon"
+    },
+    {
+      "$id": 1079,
+      "<8C7DD24D>": "<1A36EC78>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Easy-going"
+    },
+    {
+      "$id": 1080,
+      "<8C7DD24D>": "<B20E9660>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Likes voice of Paroro"
+    },
+    {
+      "$id": 1081,
+      "<8C7DD24D>": "<A4D14368>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Dunderhead"
+    },
+    {
+      "$id": 1082,
+      "<8C7DD24D>": "<5AC022BA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Moderately brilliant"
+    },
+    {
+      "$id": 1083,
+      "<8C7DD24D>": "<7BA9B7B8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Lovelypon"
+    },
+    {
+      "$id": 1084,
+      "<8C7DD24D>": "<C0D54315>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Masterpon"
+    },
+    {
+      "$id": 1085,
+      "<8C7DD24D>": "<C9753F97>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Compulsive wanderpon"
+    },
+    {
+      "$id": 1086,
+      "<8C7DD24D>": "<5C0C64B3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Icy cold"
+    },
+    {
+      "$id": 1087,
+      "<8C7DD24D>": "<23B718F6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Cooperative"
+    },
+    {
+      "$id": 1088,
+      "<8C7DD24D>": "<DF675114>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Apprentice"
+    },
+    {
+      "$id": 1089,
+      "<8C7DD24D>": "<35AD23FA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Working together"
+    },
+    {
+      "$id": 1090,
+      "<8C7DD24D>": "<29E0810F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1091,
+      "<8C7DD24D>": "<CBE0CA64>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1092,
+      "<8C7DD24D>": "<E08246BD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1093,
+      "<8C7DD24D>": "<BE02C6FE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1094,
+      "<8C7DD24D>": "<30D7A025>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1095,
+      "<8C7DD24D>": "<BDBD6CAD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1096,
+      "<8C7DD24D>": "<3805E6C7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1097,
+      "<8C7DD24D>": "<8D068A76>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1098,
+      "<8C7DD24D>": "<67C0A6FA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1099,
+      "<8C7DD24D>": "<B8CD7C7C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1100,
+      "<8C7DD24D>": "<F62DEF12>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1101,
+      "<8C7DD24D>": "<FFCA30F6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1102,
+      "<8C7DD24D>": "<2CEBF67C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1103,
+      "<8C7DD24D>": "<882AAF64>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1104,
+      "<8C7DD24D>": "<EE18F91A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1105,
+      "<8C7DD24D>": "<4552749B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1106,
+      "<8C7DD24D>": "<937D5C51>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1107,
+      "<8C7DD24D>": "<C74910DC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1108,
+      "<8C7DD24D>": "<46DC247B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1109,
+      "<8C7DD24D>": "<CE25D5A9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1110,
+      "<8C7DD24D>": "<A66C284C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1111,
+      "<8C7DD24D>": "<A4F0351C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1112,
+      "<8C7DD24D>": "<D788BD40>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow legendary Nopon"
+    },
+    {
+      "$id": 1113,
+      "<8C7DD24D>": "<668E4B60>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow legendary Nopon"
+    },
+    {
+      "$id": 1114,
+      "<8C7DD24D>": "<43ACBEA2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "First secretary"
+    },
+    {
+      "$id": 1115,
+      "<8C7DD24D>": "<3CE8B652>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Nopon Coins\ncompleted"
+    },
+    {
+      "$id": 1116,
+      "<8C7DD24D>": "<BF2543F1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1117,
+      "<8C7DD24D>": "<02B1D7A1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1118,
+      "<8C7DD24D>": "<0960C386>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1119,
+      "<8C7DD24D>": "<1F93266D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1120,
+      "<8C7DD24D>": "<D78DE9FB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1121,
+      "<8C7DD24D>": "<4274F986>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Colony chief"
+    },
+    {
+      "$id": 1122,
+      "<8C7DD24D>": "<73E86DD4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Has unknown past"
+    },
+    {
+      "$id": 1123,
+      "<8C7DD24D>": "<D9056A7F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Decide not to choose death"
+    },
+    {
+      "$id": 1124,
+      "<8C7DD24D>": "<72F1487C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to see\noutside world"
+    },
+    {
+      "$id": 1125,
+      "<8C7DD24D>": "<68BEEB55>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Surviving together"
+    },
+    {
+      "$id": 1126,
+      "<8C7DD24D>": "<29B33616>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1127,
+      "<8C7DD24D>": "<F5F2EA46>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1128,
+      "<8C7DD24D>": "<156D8B14>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1129,
+      "<8C7DD24D>": "<1A6CEB79>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1130,
+      "<8C7DD24D>": "<8AB3FB0A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1131,
+      "<8C7DD24D>": "<9D203278>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1132,
+      "<8C7DD24D>": "<28699967>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1133,
+      "<8C7DD24D>": "<3CD87AFA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1134,
+      "<8C7DD24D>": "<801AC62D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1135,
+      "<8C7DD24D>": "<8026E994>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1136,
+      "<8C7DD24D>": "<F87C2444>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1137,
+      "<8C7DD24D>": "<ABF6C5AC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1138,
+      "<8C7DD24D>": "<23291F30>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1139,
+      "<8C7DD24D>": "<F2E41C61>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1140,
+      "<8C7DD24D>": "<6172759D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1141,
+      "<8C7DD24D>": "<80630C16>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends from the crib"
+    },
+    {
+      "$id": 1142,
+      "<8C7DD24D>": "<CD1A985A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "M'lady!"
+    },
+    {
+      "$id": 1143,
+      "<8C7DD24D>": "<A00F6318>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1144,
+      "<8C7DD24D>": "<37F96CB8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1145,
+      "<8C7DD24D>": "<7C2BEF87>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "By Ghondor's side"
+    },
+    {
+      "$id": 1146,
+      "<8C7DD24D>": "<A5DC35C6>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1147,
+      "<8C7DD24D>": "<C7DA0286>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "I'll make things right"
+    },
+    {
+      "$id": 1148,
+      "<8C7DD24D>": "<67F955CA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "He was a good man"
+    },
+    {
+      "$id": 1149,
+      "<8C7DD24D>": "<A54796F4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1150,
+      "<8C7DD24D>": "<5851A345>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1151,
+      "<8C7DD24D>": "<BB4421AC>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "I big bro\nTirkin, kraa!"
+    },
+    {
+      "$id": 1152,
+      "<8C7DD24D>": "<AC1276BD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1153,
+      "<8C7DD24D>": "<55DA5B8F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Workaholic"
+    },
+    {
+      "$id": 1154,
+      "<8C7DD24D>": "<A2C94F42>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1155,
+      "<8C7DD24D>": "<76B5A8BB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Permitted to stay"
+    },
+    {
+      "$id": 1156,
+      "<8C7DD24D>": "<6B33E614>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1157,
+      "<8C7DD24D>": "<131BF1F4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1158,
+      "<8C7DD24D>": "<B50BFF31>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1159,
+      "<8C7DD24D>": "<095D5F76>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Bitter"
+    },
+    {
+      "$id": 1160,
+      "<8C7DD24D>": "<A50F7995>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1161,
+      "<8C7DD24D>": "<233C3028>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1162,
+      "<8C7DD24D>": "<C6662330>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1163,
+      "<8C7DD24D>": "<3EA61F0D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1164,
+      "<8C7DD24D>": "<D45CAB0F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1165,
+      "<8C7DD24D>": "<8FFFA8B7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1166,
+      "<8C7DD24D>": "<6ABF8442>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1167,
+      "<8C7DD24D>": "<A92203B0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1168,
+      "<8C7DD24D>": "<41FA96AA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1169,
+      "<8C7DD24D>": "<5FBF7A4D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1170,
+      "<8C7DD24D>": "<FDB89673>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Sworn brothers"
+    },
+    {
+      "$id": 1171,
+      "<8C7DD24D>": "<A96FFFAB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "I'll make things right"
+    },
+    {
+      "$id": 1172,
+      "<8C7DD24D>": "<EC6A073F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "He was a good man"
+    },
+    {
+      "$id": 1173,
+      "<8C7DD24D>": "<690EBBAF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "M'lady!"
+    },
+    {
+      "$id": 1174,
+      "<8C7DD24D>": "<C27B3296>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Cooperating with"
+    },
+    {
+      "$id": 1175,
+      "<8C7DD24D>": "<2275B03B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Totally different"
+    },
+    {
+      "$id": 1176,
+      "<8C7DD24D>": "<8E9FF981>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Workaholic"
+    },
+    {
+      "$id": 1177,
+      "<8C7DD24D>": "<20C86A66>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Can never forgive"
+    },
+    {
+      "$id": 1178,
+      "<8C7DD24D>": "<3856F3D0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Considerate outsider"
+    },
+    {
+      "$id": 1179,
+      "<8C7DD24D>": "<E6090CAF>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Doesn't want to disappoint"
+    },
+    {
+      "$id": 1180,
+      "<8C7DD24D>": "<AACDD827>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Dependable"
+    },
+    {
+      "$id": 1181,
+      "<8C7DD24D>": "<DBE70747>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Old colleagues"
+    },
+    {
+      "$id": 1182,
+      "<8C7DD24D>": "<0FEAB4C0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Bitter"
+    },
+    {
+      "$id": 1183,
+      "<8C7DD24D>": "<552BD50E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Betrayed by"
+    },
+    {
+      "$id": 1184,
+      "<8C7DD24D>": "<989E2AFA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "I feel an ulcer\ncoming on..."
+    },
+    {
+      "$id": 1185,
+      "<8C7DD24D>": "<5210EAD0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Rebel force"
+    },
+    {
+      "$id": 1186,
+      "<8C7DD24D>": "<F8F8FE54>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Troublesome"
+    },
+    {
+      "$id": 1187,
+      "<8C7DD24D>": "<F6A9FC72>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "The three fiends"
+    },
+    {
+      "$id": 1188,
+      "<8C7DD24D>": "<A6F4CE57>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "The three fiends"
+    },
+    {
+      "$id": 1189,
+      "<8C7DD24D>": "<1E7483E7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Idiot..."
+    },
+    {
+      "$id": 1190,
+      "<8C7DD24D>": "<7C8D39A0>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "The three fiends"
+    },
+    {
+      "$id": 1191,
+      "<8C7DD24D>": "<42E6D2E8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "By Ghondor's side"
+    },
+    {
+      "$id": 1192,
+      "<8C7DD24D>": "<8A1946A1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Grandma\nwho waited"
+    },
+    {
+      "$id": 1193,
+      "<8C7DD24D>": "<5B03E52B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Misses"
+    },
+    {
+      "$id": 1194,
+      "<8C7DD24D>": "<F36D0945>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Crazy about their books"
+    },
+    {
+      "$id": 1195,
+      "<8C7DD24D>": "<1CDE572C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Married"
+    },
+    {
+      "$id": 1196,
+      "<8C7DD24D>": "<9D88E03C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Old room claimed by"
+    },
+    {
+      "$id": 1197,
+      "<8C7DD24D>": "<FB24C79B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Emotionally distant"
+    },
+    {
+      "$id": 1198,
+      "<8C7DD24D>": "<C3B5E984>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "We need more provisions"
+    },
+    {
+      "$id": 1199,
+      "<8C7DD24D>": "<DDB08155>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Wants to atone to"
+    },
+    {
+      "$id": 1200,
+      "<8C7DD24D>": "<DFC14EC2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Don't leave them to me!"
+    },
+    {
+      "$id": 1201,
+      "<8C7DD24D>": "<52656AA3>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "I'll come see you"
+    },
+    {
+      "$id": 1202,
+      "<8C7DD24D>": "<04D6E296>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Advisor to"
+    },
+    {
+      "$id": 1203,
+      "<8C7DD24D>": "<338A9645>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "An exceptional man"
+    },
+    {
+      "$id": 1204,
+      "<8C7DD24D>": "<79E5217B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Saved own comrades"
+    },
+    {
+      "$id": 1205,
+      "<8C7DD24D>": "<437E9485>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Pities"
+    },
+    {
+      "$id": 1206,
+      "<8C7DD24D>": "<5551D53D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "She was a good friend"
+    },
+    {
+      "$id": 1207,
+      "<8C7DD24D>": "<0561D029>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Family despite everything"
+    },
+    {
+      "$id": 1208,
+      "<8C7DD24D>": "<23361149>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Joy"
+    },
+    {
+      "$id": 1209,
+      "<8C7DD24D>": "<3DCB6D21>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Food wasn't needed"
+    },
+    {
+      "$id": 1210,
+      "<8C7DD24D>": "<7A9FB425>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Shame"
+    },
+    {
+      "$id": 1211,
+      "<8C7DD24D>": "<500D4904>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "No more antics!"
+    },
+    {
+      "$id": 1212,
+      "<8C7DD24D>": "<2015ABD2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Betrayal"
+    },
+    {
+      "$id": 1213,
+      "<8C7DD24D>": "<6CEC5A05>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Be true to yourself"
+    },
+    {
+      "$id": 1214,
+      "<8C7DD24D>": "<D9E4DB5A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Get studying!"
+    },
+    {
+      "$id": 1215,
+      "<8C7DD24D>": "<A5E271D2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Not to blame"
+    },
+    {
+      "$id": 1216,
+      "<8C7DD24D>": "<2B631DE7>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Enjoying the stories"
+    },
+    {
+      "$id": 1217,
+      "<8C7DD24D>": "<5D2ADBCA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Treading the same path"
+    },
+    {
+      "$id": 1218,
+      "<8C7DD24D>": "<BB17AF17>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "My Tirklet"
+    },
+    {
+      "$id": 1219,
+      "<8C7DD24D>": "<4B171F31>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "My Tirklet"
+    },
+    {
+      "$id": 1220,
+      "<8C7DD24D>": "<213101EA>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Nestmates"
+    },
+    {
+      "$id": 1221,
+      "<8C7DD24D>": "<093A396D>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Live strong,\nyoung Tirklet"
+    },
+    {
+      "$id": 1222,
+      "<8C7DD24D>": "<EF5CB978>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Live strong,\nyoung Tirklet"
+    },
+    {
+      "$id": 1223,
+      "<8C7DD24D>": "<E5056B3E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1224,
+      "<8C7DD24D>": "<86AAFD3E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1225,
+      "<8C7DD24D>": "<2A6EFFBE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1226,
+      "<8C7DD24D>": "<2D8770F8>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1227,
+      "<8C7DD24D>": "<5292D318>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1228,
+      "<8C7DD24D>": "<E5E676A1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1229,
+      "<8C7DD24D>": "<AE304C29>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1230,
+      "<8C7DD24D>": "<0C47EBB9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Great and terrible!"
+    },
+    {
+      "$id": 1231,
+      "<8C7DD24D>": "<765A0D98>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Friends"
+    },
+    {
+      "$id": 1232,
+      "<8C7DD24D>": "<399D482A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1233,
+      "<8C7DD24D>": "<BD662DDD>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1234,
+      "<8C7DD24D>": "<C480500E>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1235,
+      "<8C7DD24D>": "<FADE83D4>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1236,
+      "<8C7DD24D>": "<F3625CAB>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1237,
+      "<8C7DD24D>": "<EF148F81>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": ""
+    },
+    {
+      "$id": 1238,
+      "<8C7DD24D>": "<CE83B28A>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Tension"
+    },
+    {
+      "$id": 1239,
+      "<8C7DD24D>": "<235DDBE9>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Worried about"
+    },
+    {
+      "$id": 1240,
+      "<8C7DD24D>": "<751FF659>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Source of anguish"
+    },
+    {
+      "$id": 1241,
+      "<8C7DD24D>": "<77181F4B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow comrade"
+    },
+    {
+      "$id": 1242,
+      "<8C7DD24D>": "<B80956A1>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Aspires to be like"
+    },
+    {
+      "$id": 1243,
+      "<8C7DD24D>": "<2C3744D5>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Fellow comrade"
+    },
+    {
+      "$id": 1244,
+      "<8C7DD24D>": "<5EAD8D02>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Reliable leader"
+    },
+    {
+      "$id": 1245,
+      "<8C7DD24D>": "<38FBC947>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Couple"
+    },
+    {
+      "$id": 1246,
+      "<8C7DD24D>": "<FC10D72C>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Servant"
+    },
+    {
+      "$id": 1247,
+      "<8C7DD24D>": "<A85BD14B>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Helper"
+    },
+    {
+      "$id": 1248,
+      "<8C7DD24D>": "<F749F003>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Bacon-saver"
+    },
+    {
+      "$id": 1249,
+      "<8C7DD24D>": "<CF7A2454>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Bacon-saver"
+    },
+    {
+      "$id": 1250,
+      "<8C7DD24D>": "<F13F3E17>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Married soldiers"
+    },
+    {
+      "$id": 1251,
+      "<8C7DD24D>": "<C8667594>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Commissioned"
+    },
+    {
+      "$id": 1252,
+      "<8C7DD24D>": "<9EC29F09>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Commissioned"
+    },
+    {
+      "$id": 1253,
+      "<8C7DD24D>": "<B75C7FDE>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Bond forged in\nargencium"
+    },
+    {
+      "$id": 1254,
+      "<8C7DD24D>": "<500F00A2>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "Thanks a mil!"
+    },
+    {
+      "$id": 1255,
+      "<8C7DD24D>": "<69AE072F>",
+      "<554EE944>": 45,
+      "<DBAF43F0>": "We'll treasure 'em!"
+    }
+  ]
+}

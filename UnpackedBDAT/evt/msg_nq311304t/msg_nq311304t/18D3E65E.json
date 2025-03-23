@@ -1,0 +1,194 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<90CAEF3C>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, you're old, right? Been around a\nwhile? You must know all about the\nHomecoming."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<2B38D4AE>",
+      "<ACF3531A>": "il1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, I suppose I'm sort of an expert. After\nall, I've celebrated the Homecoming of\nmany hundreds of people by now."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B2BE0DAF>",
+      "<ACF3531A>": "il1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The ceremony has an extra significance,\nI think, as a celebration of the time that\nwe took back from Moebius."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<6ABE417E>",
+      "<ACF3531A>": "il1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And of course, it isn't just for the people\ncoming of age. It's a yearly chance for\neveryone to let off some steam."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<C9D1BA15>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I see... So it's a fun event\nfor everyone, huh?"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<A98A6F6D>",
+      "<ACF3531A>": "il1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Not just for fun though,\nyou must remember."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<676FEF24>",
+      "<ACF3531A>": "il1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Everyone at the ceremony gets a key for\ntheir new quarters, as a symbol of their\nnew independence."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<CF04E7A5>",
+      "<ACF3531A>": "il1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If young 'uns miss the cue to move out of\nthe dormitories, it's my job to give their\nbums a gentle smack to get them gone."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<456260BE>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh...? So they aren't allowed\nto stay in the dormitories?"
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<69FFC8AB>",
+      "<ACF3531A>": "il1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What we really want them to do is get out\nthere and build a home for themselves that\nthey want to return to, you see."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<0371C144>",
+      "<ACF3531A>": "il1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The reason we fight is to restore the\nnatural way of things for everyone,\nall people."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<D7259B98>",
+      "<ACF3531A>": "il1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That's our goal, not simply creating\nsoldiers that live a bit longer. I'd like\nyou to try to keep that in mind!"
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<6B6F349F>",
+      "<ACF3531A>": "il1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Miyori was really well-behaved as a child.\nYes, no trouble at all, that one."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<DA011524>",
+      "<ACF3531A>": "il1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It was welcome for us adults,\nbut now I wonder if it made her\nhappy to be that way..."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<101C7C2B>",
+      "<ACF3531A>": "il1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "People oughtn't to live just to grant\nthe hopes of others. They should live\nfor themselves!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<3C89AD11>",
+      "<ACF3531A>": "il1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Homecoming should act as a little nudge,\nI think, to help you really choose how\nyou're going to spend your future..."
+    }
+  ]
+}

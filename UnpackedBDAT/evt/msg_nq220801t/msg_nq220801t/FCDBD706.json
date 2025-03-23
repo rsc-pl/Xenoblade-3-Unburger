@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<1881C00B>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Are there resources here?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<B6041CA8>",
+      "<ACF3531A>": "Wd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, there you are. I don't know,\ncan't really say just yet."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<5690107C>",
+      "<ACF3531A>": "Wd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But I reckon we'll have a good idea\nonce we use this device to look around."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<A9A0CDAA>",
+      "<ACF3531A>": "L",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<3E9B55BE>",
+      "<ACF3531A>": "Wd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Here, take it."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<0741A664>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "OK..."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<7DDCF62F>",
+      "<ACF3531A>": "Wd1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Give it a quick test. Just stick it\nsomewhere around here."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<D3C0B686>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Let's give it a try."
+    }
+  ]
+}

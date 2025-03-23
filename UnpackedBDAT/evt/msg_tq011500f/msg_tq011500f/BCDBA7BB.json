@@ -1,0 +1,644 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<66BBCFAA>",
+      "<ACF3531A>": "af1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You're having a laugh. You think this\nis going to make it all better, do you?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<A5680BFB>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I will bear full responsibility!"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<98F703E2>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33200,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Otherwise... Well, there is no \"otherwise\"!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<0197FC45>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What *are* you two bickering about?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<1D08FDB6>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Your Majesty..."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<319F574C>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What a welcome sight, to see you return!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<578B940E>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Has a problem arisen in my absence?"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<1259D6FB>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33200,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, no no... Just a trifling matter, really..."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<26E709B2>",
+      "<ACF3531A>": "af1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Actually, we do have a bit of a problem\non our hands, Your Majesty."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<D951CC35>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey! Mind your-"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<81A5032E>",
+      "<ACF3531A>": "af1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "We have to report the facts as they are.\nHow much longer are you going to leave\nthis hanging, eh?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<2850F254>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33200,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Tch."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<D9B77E9A>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33096,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What's the problem?"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<9AFEB60F>",
+      "<ACF3531A>": "af1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Couple of days ago, we had a small run-in\nwith our Agnian opposites."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<67D10D65>",
+      "<ACF3531A>": "af1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Aizel took care of them, but things\ngot out of hand a little bit..."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<079E0202>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33073,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "\"Out of hand\", nothing!\nThey insulted Her Majesty's honor!\nI'm spitting feathers!"
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<7B6133D1>",
+      "<ACF3531A>": "af1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But we'd no reason to fight.\nYou were the one who earned their ire!"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<4C8EB119>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Did they come to any harm?\nYou hurt them?"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<68A66ADE>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33200,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'd only intended to, er, scare them.\nBut, then they resisted..."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<F6555AF6>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So you sought to defeat them."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<EB913069>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33200,
+      "<2B51649C>": 805322881,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "No! Nothing of the sort! They had no\nFlame Clocks, so I would never-"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<1B8CE602>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The presence of a Flame Clock is not what\ninstigates a battle. The glimmerings of war\nare always there, within us."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<B219FBB0>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I imagine discovering that fact must have\ncome as quite a shock to you."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<68D6514E>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...!"
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<4339183E>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Circumstances aside, if you've incited\ntheir wrath, then I assume we haven't\nheard the end of this."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<9DA56A27>",
+      "<ACF3531A>": "af1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...As you say, they have since begun to\nrally together in opposition."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<391DCEBF>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33200,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I am ashamed... Truly ashamed!"
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<D5642373>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33200,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now that this has come to a head,\nI cannot but take full responsibility..."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<B12DDF41>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33200,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I will thwart their objective,\neven if it should cost me my life!"
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<58F97077>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You shall not!"
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<CF5BC9B9>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Do not speak of throwing\nyour life away so lightly."
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<299DFF64>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I've already lost so many of my friends.\nI could not bear to lose another..."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<B84FC7C6>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Your Majesty!"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<ED8771D4>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I told you, did I not?\nYou are my hope."
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<0E939BF5>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I will speak to the Agnian chief retainer\npersonally about the matter."
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<EE56C652>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "In the meantime, cool your head."
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<30CC14B2>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33200,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "..."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<C90FC61D>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Any more unfinished business that\nI should know about?"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<9754147E>",
+      "<ACF3531A>": "af1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Couple of house calls to make,\nYour Majesty. They want you at\nColony 9 and the City."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<A7AE4025>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Colony 9? So Zeon, then?"
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<01F5DA20>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Indeed. They've asked for some urgent\nbackup following the recent Origin attack."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<20B1EFD1>",
+      "<ACF3531A>": "af1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "And the other request is from Monica.\nWants you to give her people a pep talk."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<5D17B20F>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The descendants of Ouroboros..."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<A162C30F>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33200,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I've caused such grief for them,\nand for an unfathomably long time."
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<159CDA7D>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...But now they get to speak\nto their real Queen."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<7AAA0050>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm sure they'll be overjoyed."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<146C242F>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...Yes, perhaps."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<D7755102>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Speaking face to face with another...\nThere's nothing quite like it."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<ECF6E349>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Um, Melia...?"
+    },
+    {
+      "$id": 50,
+      "<8C7DD24D>": "<F7FC246D>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm sorry. I'm afraid I'm going to be\ntaking up some more of your time..."
+    },
+    {
+      "$id": 51,
+      "<8C7DD24D>": "<C1C5B774>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Now, you can cut that out."
+    },
+    {
+      "$id": 52,
+      "<8C7DD24D>": "<4CDB7FF9>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Agnus or Keves, soldier or Queen...\nWhat difference does it make?"
+    },
+    {
+      "$id": 53,
+      "<8C7DD24D>": "<8B717BFE>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "The future is to be created by each\nand every person in the world."
+    },
+    {
+      "$id": 54,
+      "<8C7DD24D>": "<5BE79FFE>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I think you were the one\nwho taught us that."
+    },
+    {
+      "$id": 55,
+      "<8C7DD24D>": "<4C4B0608>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...True enough."
+    },
+    {
+      "$id": 56,
+      "<8C7DD24D>": "<C588DCF9>",
+      "<ACF3531A>": "G",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Your unyielding spirit...gives me\nthe strength to go on."
+    },
+    {
+      "$id": 57,
+      "<8C7DD24D>": "<AD3BD9BE>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33066,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sometimes when Melia smiles...\nI see sadness in her eyes."
+    },
+    {
+      "$id": 58,
+      "<8C7DD24D>": "<AA3B18B0>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33066,
+      "<2B51649C>": 268451969,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "As if she's all alone in the world..."
+    },
+    {
+      "$id": 59,
+      "<8C7DD24D>": "<66B989F9>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, better start making the rounds.\nWe've gotta stop by Colony 9, the City,\nand..."
+    },
+    {
+      "$id": 60,
+      "<8C7DD24D>": "<5ECBA6E1>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Agnus Castle, right?"
+    },
+    {
+      "$id": 61,
+      "<8C7DD24D>": "<C989E367>",
+      "<ACF3531A>": "Zf1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Safe journey to you all."
+    }
+  ]
+}

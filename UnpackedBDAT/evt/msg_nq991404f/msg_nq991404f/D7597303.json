@@ -1,0 +1,184 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<778139BE>",
+      "<ACF3531A>": "fe1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It appears you're all out of luck now.\nThis is the end of the road for you."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<34E608C6>",
+      "<ACF3531A>": "cf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Aiii! P-please! Help me! At least spare my\nlife, I'm begging you..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<01CD7F53>",
+      "<ACF3531A>": "cf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...As if!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<5D0708C1>",
+      "<ACF3531A>": "fe1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh?!"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<647C5163>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Wh-what's going on?!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<3D0BB89E>",
+      "<ACF3531A>": "cf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hahaha! You fell right into my trap!\nJust as I thought you simple-minded\nimbeciles would."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<192B0A3F>",
+      "<ACF3531A>": "cf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "My analysis proved correct! You're all a\nbunch of browbeaters who love to boast\nto anyone who you think can't push back."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<E671DECE>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I knew something was off... Your \"futile\nescape\" was all an act to lure us into a\nfalse sense of security, and into your trap."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<408E91B8>",
+      "<ACF3531A>": "cf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Heh. There's nothing I wouldn't do to\nmake you all suffer."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<6BCA5649>",
+      "<ACF3531A>": "cf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If it weren't for you fools, *I* would've\nbrought glory to Keves! The Queen herself\nwould have commended my triumph!"
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<13A44A5E>",
+      "<ACF3531A>": "cf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What you did...I can never forgive! As part\nof my glorious plan, I shall sentence you\nall to death!"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<3618FADB>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "...He kinda reminds me of Taion,\nI gotta be honest."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<6E383CFE>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey! Now that's just out of order!\nYou take that back!"
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<B479FE60>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "For the love of-! Leave the bickering for\nlater, dumbasses! We're kinda in a life or\ndeath situation, in case you've forgotten!"
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<03F33165>",
+      "<ACF3531A>": "cf1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Enough talk! You shall now learn\njust how fatal your recklessness is!"
+    }
+  ]
+}

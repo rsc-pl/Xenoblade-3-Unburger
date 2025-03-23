@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<C8676612>",
+      "<ACF3531A>": "tc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Sarge?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<3372EEC5>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Did you install this?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<C09EED6E>",
+      "<ACF3531A>": "tc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Er...yeah."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<92C032C1>",
+      "<ACF3531A>": "tc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm sure you're aware, but Sergeant\nTonya heads an assault troop. They're\nthe best of the best."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<D80BA8D5>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You cannot put these things up without\nthe requisite approval from the top."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<22D71BD1>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm sorry about this, but you're\ngoing to have to take them all down."
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<D1B9A311>",
+      "<ACF3531A>": "tc1",
+      "<9EE99B1E>": 33104,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, what?!"
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<AB382351>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You engineers are always disrupting the\nsystem because you just go on ahead and\ndo what you please without ever asking."
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<772EA28C>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You don't get to get special treatment,\nyou hear? All requests must be made\nthrough the proper channels."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<F985177A>",
+      "<ACF3531A>": "tc1",
+      "<9EE99B1E>": 33144,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Well, perhaps..."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<BC8418DE>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33072,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "What, you're just gonna back down?\nYou're gonna let her talk to you like that?"
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<C3DB13CF>",
+      "<ACF3531A>": "tc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "She's a stickler for the rules. And she\ndoesn't get on with engineering because\nwe work outside those rules."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<A531413C>",
+      "<ACF3531A>": "tc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "She won't listen to me,\nno matter what I say."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<3ECCEBB7>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But someday Lambda might be\nglad to have these sensors."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<5FFCC469>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oh, they're useful, I fully agree.\nAnd that's exactly why you need to\nget the proper approvals."
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<AB0A2676>",
+      "<ACF3531A>": "wc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey, now hold on a minute, Tonya."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<0D848F22>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Captain? Is there something\nI can do for you?"
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<BE475EBC>",
+      "<ACF3531A>": "tc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Captain Rosh supervises the troops.\nSergeant Tonya reports in to him."
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<B12134F2>",
+      "<ACF3531A>": "wc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "A request just came in from the\nengineers. You weren't around,\nso I approved it in your place."
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<E5141A55>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "If that's your decision, then of course\nI shan't be the one to gainsay-"
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<B7C8493E>",
+      "<ACF3531A>": "wc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'm just trying to make your life easier.\nYour love of the job is admirable, but\nbeing too rigid is a problem of its own."
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<F21AFBB9>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33064,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Captain, you're too soft. If you can't\nkeep the soldiers disciplined, then-"
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<67B242A0>",
+      "<ACF3531A>": "wc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "My word is final. Anyway, everyone's\nticked the right boxes and got the right\nstamps, so we can all go home."
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<DD6B7513>",
+      "<ACF3531A>": "tc1",
+      "<9EE99B1E>": 33152,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Thanks for that, Captain."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<B301E83B>",
+      "<ACF3531A>": "xc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Captain, I'm not done yet.\nI ask that you stay behind."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<B0C812A2>",
+      "<ACF3531A>": "wc1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Oof. I think you're taking this\na touch too seriously..."
+    }
+  ]
+}

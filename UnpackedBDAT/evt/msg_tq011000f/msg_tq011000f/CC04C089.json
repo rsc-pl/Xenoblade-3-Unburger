@@ -1,0 +1,524 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<ACF3531A>",
+      "type": 7
+    },
+    {
+      "name": "<9EE99B1E>",
+      "type": 2
+    },
+    {
+      "name": "<2B51649C>",
+      "type": 3
+    },
+    {
+      "name": "<C1A03E98>",
+      "type": 3
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<FFAC111C>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "It seems pretty lively over there.\nWhat's the occasion?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<8DAF4406>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There's supposed to be some kind\nof cooking contest. Maybe they're\npreparing for it?"
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<7BCA3A11>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ohoho!\nSomeone say cooking contest?!"
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<7633B728>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You think they'd let me participate...?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<F7718F60>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Huh?! I didn't know you cooked, Lanz!"
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<65F3524C>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Me? Nah. I'm all about the eating!\nThink of all that grub!"
+    },
+    {
+      "$id": 7,
+      "<8C7DD24D>": "<80315C9E>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah! Maybe I should join too..."
+    },
+    {
+      "$id": 8,
+      "<8C7DD24D>": "<538AB0CF>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hey there, folks!"
+    },
+    {
+      "$id": 9,
+      "<8C7DD24D>": "<9C01B4AC>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Travis. Monica.\nWe just heard about this cooking contest."
+    },
+    {
+      "$id": 10,
+      "<8C7DD24D>": "<5170B895>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah? It's kind of a tradition around here."
+    },
+    {
+      "$id": 11,
+      "<8C7DD24D>": "<E9275F7E>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You know how the world is.\nCan't set foot outside without putting\nyourself in danger."
+    },
+    {
+      "$id": 12,
+      "<8C7DD24D>": "<5E741DFC>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "People are going stir-crazy,\nall shut up with nowhere to go."
+    },
+    {
+      "$id": 13,
+      "<8C7DD24D>": "<3F2B6CCD>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "They need a bit of light entertainment\nto diffuse some of that stress, so these\ncontests are kind of a regular thing."
+    },
+    {
+      "$id": 14,
+      "<8C7DD24D>": "<5E837EFC>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "This seems like the perfect opportunity\nfor you to join in."
+    },
+    {
+      "$id": 15,
+      "<8C7DD24D>": "<1F368C04>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "To sample the food?!"
+    },
+    {
+      "$id": 16,
+      "<8C7DD24D>": "<D1FBDF7A>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Ah, I'm afraid the judges are selected\nby majority vote. They've already been\ndecided well in advance."
+    },
+    {
+      "$id": 17,
+      "<8C7DD24D>": "<28CF29DC>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That said, the winning dishes do\nget shared among the audience."
+    },
+    {
+      "$id": 18,
+      "<8C7DD24D>": "<5FA28386>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So you'd like us to join as chefs?"
+    },
+    {
+      "$id": 19,
+      "<8C7DD24D>": "<741D3D80>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes!!! Count Manana in! Manana been\nchamping at bit for cookery action!"
+    },
+    {
+      "$id": 20,
+      "<8C7DD24D>": "<1BE763CB>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Haha, yeah.\nThis event's pretty much made for Manana."
+    },
+    {
+      "$id": 21,
+      "<8C7DD24D>": "<66868564>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Word!"
+    },
+    {
+      "$id": 22,
+      "<8C7DD24D>": "<62CC8609>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "C-could I..."
+    },
+    {
+      "$id": 23,
+      "<8C7DD24D>": "<4CB13BF2>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Could I join as well?!"
+    },
+    {
+      "$id": 24,
+      "<8C7DD24D>": "<A155E2A7>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I like your spirit.\nYou're both very welcome."
+    },
+    {
+      "$id": 25,
+      "<8C7DD24D>": "<DCC18EB9>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Looks like you'll have your work\ncut out for you, eh, Boss."
+    },
+    {
+      "$id": 26,
+      "<8C7DD24D>": "<5F6A7D44>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "You said it, Travis.\nI'll let you prepare the Lucky Spice."
+    },
+    {
+      "$id": 27,
+      "<8C7DD24D>": "<657AAE0B>",
+      "<ACF3531A>": "tk1",
+      "<9EE99B1E>": 33025,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Awww, tch, crap!\nNot that stuff..."
+    },
+    {
+      "$id": 28,
+      "<8C7DD24D>": "<F23D4457>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "There are no binding rules, no themes\nto follow. You're free to make whatever\nyou like."
+    },
+    {
+      "$id": 29,
+      "<8C7DD24D>": "<5DB8D980>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "But you are expected to bring\nyour own ingredients."
+    },
+    {
+      "$id": 30,
+      "<8C7DD24D>": "<A7D58135>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Once you have them, take them to\nMichiba at her canteen. She'll hold onto\nthem for you."
+    },
+    {
+      "$id": 31,
+      "<8C7DD24D>": "<AABB8116>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hearing loud and clear!"
+    },
+    {
+      "$id": 32,
+      "<8C7DD24D>": "<6C65F756>",
+      "<ACF3531A>": "D",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I'll see you at the contest then."
+    },
+    {
+      "$id": 33,
+      "<8C7DD24D>": "<6773AD6D>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Looking forward to it!"
+    },
+    {
+      "$id": 34,
+      "<8C7DD24D>": "<B42461BD>",
+      "<ACF3531A>": "9",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Manana not pull punches!\nWe rivals now, Miss Miyabi!"
+    },
+    {
+      "$id": 35,
+      "<8C7DD24D>": "<4E20CE65>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yes, let's do this!"
+    },
+    {
+      "$id": 36,
+      "<8C7DD24D>": "<A44DF9B6>",
+      "<ACF3531A>": "6",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Since when did you learn to cook,\nMiyabi? You never told me!"
+    },
+    {
+      "$id": 37,
+      "<8C7DD24D>": "<8AC330CC>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Haha. I've only dabbled, really."
+    },
+    {
+      "$id": 38,
+      "<8C7DD24D>": "<C85B0FB6>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Right. We'd better go out looking\nfor our ingredients, eh?"
+    },
+    {
+      "$id": 39,
+      "<8C7DD24D>": "<01AF44CE>",
+      "<ACF3531A>": "4",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hold on. We haven't even decided\nwhat we're going to make yet."
+    },
+    {
+      "$id": 40,
+      "<8C7DD24D>": "<E146C4D7>",
+      "<ACF3531A>": "5",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Uh-huh. Just testin' ya."
+    },
+    {
+      "$id": 41,
+      "<8C7DD24D>": "<DDB52C11>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Before we decide, maybe we should\nask around the City first? See what kind of\nfoods they like, their favorite seasonings..."
+    },
+    {
+      "$id": 42,
+      "<8C7DD24D>": "<0C85897B>",
+      "<ACF3531A>": "B",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "That should give us enough to\nmake a start on."
+    },
+    {
+      "$id": 43,
+      "<8C7DD24D>": "<9C3A7E64>",
+      "<ACF3531A>": "3",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "True, we need some kind of direction\nto start with before we can think about\nmaking anything."
+    },
+    {
+      "$id": 44,
+      "<8C7DD24D>": "<68371297>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Something on your mind, Mio?"
+    },
+    {
+      "$id": 45,
+      "<8C7DD24D>": "<E1EB63A5>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "I was just thinking, it's unusual for Miyabi\nto voice her interest in something like this."
+    },
+    {
+      "$id": 46,
+      "<8C7DD24D>": "<6EB38DAA>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Before, she'd always try to avoid\nanything that involved competition."
+    },
+    {
+      "$id": 47,
+      "<8C7DD24D>": "<6CFA0E63>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "So this is...kind of a surprise."
+    },
+    {
+      "$id": 48,
+      "<8C7DD24D>": "<6D6E118C>",
+      "<ACF3531A>": "1",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Hah, I see.\nWell, all the more reason\nfor us to cheer her on."
+    },
+    {
+      "$id": 49,
+      "<8C7DD24D>": "<5C1A4D9D>",
+      "<ACF3531A>": "2",
+      "<9EE99B1E>": 33024,
+      "<2B51649C>": 16513,
+      "<C1A03E98>": 1072,
+      "<554EE944>": 126,
+      "<DBAF43F0>": "Yeah."
+    }
+  ]
+}

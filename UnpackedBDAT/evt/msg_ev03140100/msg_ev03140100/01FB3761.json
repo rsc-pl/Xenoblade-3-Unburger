@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<BBE07E4C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Did you find something?"
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<7E5BDEDB>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Hm? No..."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<3C68FA6C>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Just brings me back a bit..."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<19BCE846>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "It reminded me of someone."
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<A772EDA3>",
+      "<554EE944>": 124,
+      "<DBAF43F0>": "Oh yeah?"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "<8C7DD24D>",
+      "type": 9
+    },
+    {
+      "name": "<554EE944>",
+      "type": 2
+    },
+    {
+      "name": "<DBAF43F0>",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<8C7DD24D>": "<9102A9B7>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "We can see Prison Island from here."
+    },
+    {
+      "$id": 2,
+      "<8C7DD24D>": "<8D05194A>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "That snowy mountain... It's like Captocorn Peak,\nin the upper reaches of Aetia."
+    },
+    {
+      "$id": 3,
+      "<8C7DD24D>": "<B6BEC858>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Yeah... Must be horribly cold there."
+    },
+    {
+      "$id": 4,
+      "<8C7DD24D>": "<385EAA4B>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "I see it's not just Valak Mountain.\nSome of Alrest, too...?"
+    },
+    {
+      "$id": 5,
+      "<8C7DD24D>": "<1ADEEC3C>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "Yeah. Going by the Tantalese ruins there,\nit must've got fused with Genbu's interior too."
+    },
+    {
+      "$id": 6,
+      "<8C7DD24D>": "<262C5704>",
+      "<554EE944>": 125,
+      "<DBAF43F0>": "I would hate to get stranded\nin a place like that..."
+    }
+  ]
+}
