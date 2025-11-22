@@ -18,13 +18,13 @@
       "$id": 1,
       "<8C7DD24D>": "<8C471E04>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's really supposed to be here?"
+      "<DBAF43F0>": "Are we sure this is the area?"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<1AD5D096>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I don't see much."
+      "<DBAF43F0>": "There's nothing here."
     },
     {
       "$id": 3,
@@ -36,73 +36,73 @@
       "$id": 4,
       "<8C7DD24D>": "<EAE69F43>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Agnian troops."
+      "<DBAF43F0>": "It's the Agnus army."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<12908E91>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Seriously?!"
+      "<DBAF43F0>": "Seriously!?"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<A1393531>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They're still far off.\nThey haven't spotted us."
+      "<DBAF43F0>": "There's still some distance. They haven't spotted us."
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<3FC64BAE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Goin' in?"
+      "<DBAF43F0>": "Should we take them?"
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<94841BF1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We don't have permission to engage."
+      "<DBAF43F0>": "We haven't been given permission to engage."
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<47F1D169>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The only thing we need to focus on...is our target."
+      "<DBAF43F0>": "Besides, our duty is the destruction of the target."
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<CAAF1454>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\\[Communications down due to\nblack fog interference.\\]"
+      "<DBAF43F0>": "\"Communications disabled due to black fog.\""
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<F0F86C72>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](surprised noise)"
+      "<DBAF43F0>": "[ML:undisp ]!"
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<64EB3555>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What?"
+      "<DBAF43F0>": "What is it?"
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<0F604101>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Heads up. Enemies at two o'clock.\nGo tell the main force."
+      "<DBAF43F0>": "Enemy forces detected at the two o'clock position.\nInform the main force."
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<DB775D23>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm worried about Mwamba and the others.\nI think we'll go on alone."
+      "<DBAF43F0>": "I'm worried about Mwamba and the others\nwho went ahead. We will press on."
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<087D1F3C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "OK then. I'll handle it."
+      "<DBAF43F0>": "Understood. Leave it to me."
     }
   ]
 }

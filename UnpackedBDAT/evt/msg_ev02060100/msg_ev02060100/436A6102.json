@@ -18,91 +18,91 @@
       "$id": 1,
       "<8C7DD24D>": "<334A3CD5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ugh!"
+      "<DBAF43F0>": "[ML:undisp ]Kuh!"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<65157E57>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Huh, a hover type...?"
+      "<DBAF43F0>": "A hover-type transport..."
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<823CA13E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I mean, did they not get the memo\nabout the terrain here?"
+      "<DBAF43F0>": "They should really think about the model they choose."
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<20C020E5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(coughing)"
+      "<DBAF43F0>": "[ML:undisp ](Cough, cough)..."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<8C07F2A9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ohh, why is it so insufferably dusty around here?"
+      "<DBAF43F0>": "My, what a dusty place this is."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<4E429162>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Clearly...the place befits its Dirt-rank status."
+      "<DBAF43F0>": "A truly fitting location for a \"Dirt\" rank, wouldn't you say?"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<4F0A0D11>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The rainy season will soon be upon us."
+      "<DBAF43F0>": "The rainy season will begin shortly."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<6CF88F4C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I ask your patience, for just this short while."
+      "<DBAF43F0>": "Though it is for a short time,\nI believe it will lessen the dust somewhat."
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<C4E4BF1D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Is that so?"
+      "<DBAF43F0>": "Oh, is that so?"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<8F6EBB37>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Then, leaving aside the issue of cleanliness..."
+      "<DBAF43F0>": "Then, putting the dust problem aside..."
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<4412598D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Just what is with all this fog?"
+      "<DBAF43F0>": "...there is a lot of \"fog\" here, isn't there?"
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<FB8BD127>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I don't take kindly to my vision\nbeing obfuscated..."
+      "<DBAF43F0>": "My \"vision\" is obstructed, so I can't say I'm fond of it..."
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<0C489CA7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh, forget it."
+      "<DBAF43F0>": "Well, no matter."
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<6B7CA03C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So? Where are my quarters?"
+      "<DBAF43F0>": "So then, where is my [System:Ruby rt=room ]office[/System:Ruby]?"
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<93E19C55>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yes, this way."
+      "<DBAF43F0>": "Y-Yes! This way."
     }
   ]
 }

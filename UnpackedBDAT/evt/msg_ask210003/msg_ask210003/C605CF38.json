@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems Millick Meadows isn't\nthe only place with a rusted-out\nFerronis, huh?"
+      "<DBAF43F0>": "It seems there are rusted\nIron Giants in places other\nthan Millick Meadows, too."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah... If I had to guess, I'd say\nthey're scattered all over Aionios."
+      "<DBAF43F0>": "Yeah... They're probably\nscattered all over Aionios."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What bothers me is how totaled\nthey all are. Surely that can't be\nstandard practice, right?"
+      "<DBAF43F0>": "Still, they were completely destroyed.\nDo they normally get that wrecked?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ferronises come in different Flame Clock\nranks. If they aren't used to their\nstrengths, the defeat can be crushing."
+      "<DBAF43F0>": "Iron Giants vary depending on their\nFlame Clock rank. If there's a poor strategic\nmatchup, they can suffer a crushing defeat."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Retrieval and transportation of a Ferronis\nalso comes with costs. Leaving it to rot on\nthe field can sometimes be simplest."
+      "<DBAF43F0>": "There are also costs to retrieving and transporting\nan Iron Giant. Depending on the extent of the damage,\nleaving it on the battlefield is sometimes unavoidable."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And then it turns into a monster\nbreeding ground. Man, that makes\nmy blood boil a bit."
+      "<DBAF43F0>": "And now they're just monster lairs...\nSomething about that just\nfeels frustrating..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But even abandoned, they can contain\na wealth of supplies. I think they'll prove\nuseful on our journey."
+      "<DBAF43F0>": "Even though they've been abandoned,\nthere are likely some supplies left,\nand they should be useful on our journey."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For sure. If we see one anywhere,\nwe should make an effort to check\nit out."
+      "<DBAF43F0>": "Yes. When we find one, let's try to stop by."
     }
   ]
 }

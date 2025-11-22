@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How's Commander Isurugi?"
+      "<DBAF43F0>": "How is Commander Isurugi?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It sounds like he's eager to jump\nback into work. I do wish he'd rest up\nfirst, but... That's the kind of man he is."
+      "<DBAF43F0>": "He says he's returning to\nhis duties right away. I wish he'd rest,\nbut... that's just like him."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Ah, um, good to hear he's\nfeeling well, at least..."
+      "<DBAF43F0>": "...Well, I'm glad he's alright."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The other soldiers are waking up, too."
+      "<DBAF43F0>": "The other soldiers are\nstarting to wake up, too."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Very interesting."
+      "<DBAF43F0>": "I see..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Someone should bring them up to speed,\nbut we're just outsiders, after all..."
+      "<DBAF43F0>": "Someone needs to explain the situation,\nbut we're outsiders."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is your manor, right?\nYou should do the honors\nand fill everyone in."
+      "<DBAF43F0>": "You were originally from here, right?\nYou should explain it to everyone."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That is being taken care of."
+      "<DBAF43F0>": "There is no need to worry about that."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Commander Isurugi is going to get\nthe colony troops back in line shortly."
+      "<DBAF43F0>": "Commander Isurugi will soon intercede\non our behalf with the colony's soldiers."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK... So, it sounds like it's fine for us\nto just walk around like normal then."
+      "<DBAF43F0>": "Well then, it seems it's\nsafe for us to walk around."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "On that note, there's something\nI'd like to check."
+      "<DBAF43F0>": "There's something I want to check."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Taion, will you come along?"
+      "<DBAF43F0>": "Taion, will you come with me?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Huh...? Sure. Where are we going?"
+      "<DBAF43F0>": "...? Yes. Where to?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Out of Colony Lambda."
+      "<DBAF43F0>": "Outside of Colony Lambda."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Lotsa Armus around Colony 30,\nisn't there?"
+      "<DBAF43F0>": "There are a lot of Armu\naround Colony 30, aren't there?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Must be nice for them, lotsa food around.\nAnd Armu meat ain't nothing to scoff at."
+      "<DBAF43F0>": "It's nice they don't have to worry\nabout food. Armu meat is tasty, too."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You keep saying Armus this and Armus\nthat, but actually, the proper term would\nbe \"Armuidae\"."
+      "<DBAF43F0>": "You keep saying \"Armu, Armu,\"\nbut to be precise,\nthey are of the Armu genus."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The ones with horns are Arduns, while\nthe ones without are Armus proper."
+      "<DBAF43F0>": "The ones with horns are called Ardun,\nand the ones without are called Armu."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1200,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And speaking of meat quality,\nArmus have more subcutaneous fat,\nmaking theirs the more flavorful."
+      "<DBAF43F0>": "Incidentally, as for the quality of the meat,\nthe Armu has more subcutaneous fat, so it is\nconsidered more delicious than the Ardun."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1200,
       "<554EE944>": 126,
-      "<DBAF43F0>": "On the other hand, Ardun horns are rich\nin nutritious compounds, so people grind\nand mix them with water to drink."
+      "<DBAF43F0>": "On the other hand, Ardun horns are rich in\nnourishing and strengthening medicinal components, and\nit is good for the body to drink them in powdered form."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Any other questions?"
+      "<DBAF43F0>": "Are there any other questions?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, wow! I didn't know half of that!\nTaion, you're awesome."
+      "<DBAF43F0>": "O-Oh, really! That's amazing!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nobody asked any questions to begin with.\nWhat're you, some kinda Armu-ologist...?"
+      "<DBAF43F0>": "Nobody asked for that much...\nWhat are you, some kinda Armu fanboy?"
     }
   ]
 }

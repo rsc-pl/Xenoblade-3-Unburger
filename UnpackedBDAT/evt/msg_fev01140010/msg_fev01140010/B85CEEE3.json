@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Rendezvous point up ahead!"
+      "<DBAF43F0>": "The rendezvous point is just ahead, mo."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Since Nopon can't use Irises,\nisn't it a pain to have to keep\nfiddling with a terminal?"
+      "<DBAF43F0>": "Since Nopon can't use \"Irises,\"\nit must be inconvenient to always\nhave to rely on a terminal, huh?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No fear. Riku take it in stride."
+      "<DBAF43F0>": "Riku has never been bothered by it, mo."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Also if pretend to not look at terminal,\ncan ignore all sort of troublesome\nand tiresome communications."
+      "<DBAF43F0>": "If Riku doesn't touch the terminal,\nhe can ignore troublesome messages, mo."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa, that's kinda smart."
+      "<DBAF43F0>": "Ah... that's actually a pretty good idea."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Riku! Watch out!"
+      "<DBAF43F0>": "Riku!!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...It was camouflaged as a rock...?"
+      "<DBAF43F0>": "It was camouflaged as a rock?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're gonna have to face it!"
+      "<DBAF43F0>": "Looks like we have no choice but to fight."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Here it comes!"
+      "<DBAF43F0>": "It's coming!"
     }
   ]
 }

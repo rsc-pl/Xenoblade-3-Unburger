@@ -38,7 +38,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh no!"
+      "<DBAF43F0>": "!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Guess they knew we'd come here..."
+      "<DBAF43F0>": "It seems they got ahead of us..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're the ones that raided the Colony!\nI ain't lettin' you get away!"
+      "<DBAF43F0>": "You're the ones who attacked the Colony!\nYou're not getting away!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh! Someone having real bad mood..."
+      "<DBAF43F0>": "They're really mad, desu mo."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But why...?\nIt's like nobody recognizes us..."
+      "<DBAF43F0>": "Why...? Why can't they tell it's us?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As of this moment, the point is moot.\nClearly, we ought to prioritize our\nphysical safety."
+      "<DBAF43F0>": "For now, let's prioritize\nensuring our own safety."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But-"
+      "<DBAF43F0>": "But..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sena! Come on. You don't want to get\nslaughtered by our allies, do you...?"
+      "<DBAF43F0>": "Sena. You don't want to be killed\nby our own comrades, do you?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't get it at all..."
+      "<DBAF43F0>": "I don't know why, but..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But we can't go back to Colony Gamma\nwith things like this."
+      "<DBAF43F0>": "as things are now, we can't\nreturn to Colony Gamma."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Taion. Is there somewhere we can\nhide out?"
+      "<DBAF43F0>": "Taion, is there a suitable area to hide?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I suppose where we bade farewell to\nour new \"friends\" might do."
+      "<DBAF43F0>": "The place where we parted from\n'them' should be suitable."
     },
     {
       "$id": 13,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's try to slow him down at most."
+      "<DBAF43F0>": "Let's just focus on sealing their movements."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Exactly my thoughts."
+      "<DBAF43F0>": "That was my intention from the start."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...(sob)"
+      "<DBAF43F0>": "...!"
     }
   ]
 }

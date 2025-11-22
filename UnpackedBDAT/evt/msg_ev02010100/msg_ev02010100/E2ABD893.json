@@ -18,19 +18,19 @@
       "$id": 1,
       "<8C7DD24D>": "<D5BE0768>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](sniffling, sobbing tapering off)"
+      "<DBAF43F0>": "[ML:undisp ](Sobbing, sniffling sounds)"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<09A1C2B4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Stop crying, Lanz!"
+      "<DBAF43F0>": "Don't cry, Lanz!"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<233B9DCD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It won't change anything!"
+      "<DBAF43F0>": "Crying won't change anything!"
     },
     {
       "$id": 4,
@@ -42,55 +42,55 @@
       "$id": 5,
       "<8C7DD24D>": "<9CD3858C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Run with all the breath you have!"
+      "<DBAF43F0>": "Run even when you're out of breath!"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<1C9B1537>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](bawling his eyes out)"
+      "<DBAF43F0>": "[ML:undisp ](Crying sounds)"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<FC2D7B84>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Noah! Over here!"
+      "<DBAF43F0>": "Noah, this way!"
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<294D83FD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We can go through here,\nand then we're out!"
+      "<DBAF43F0>": "If we get through here, we'll be outside!"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<1DDDDB57>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "All right!"
+      "<DBAF43F0>": "Got it."
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<AF54D4E9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh no!"
+      "<DBAF43F0>": "No..."
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<442DF93B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Damn...!"
+      "<DBAF43F0>": "Dammit!"
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<C210A631>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We almost made it..."
+      "<DBAF43F0>": "We were so close..."
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<62FE28A2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](frustrated/resigned grunt?)"
+      "<DBAF43F0>": "[ML:undisp ]Tch!!"
     }
   ]
 }

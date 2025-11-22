@@ -18,55 +18,55 @@
       "$id": 1,
       "<8C7DD24D>": "<9FE24322>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Well then, you've made your choice."
+      "<DBAF43F0>": "You have made a choice."
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<D8751739>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Are you happy with how it turned out?"
+      "<DBAF43F0>": "Are you satisfied with the outcome?"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<AD02C8C1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Is this...how you wanted the future to be?"
+      "<DBAF43F0>": "Is this the future you wished for?"
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<2B378F25>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](surprised noise, groggy)"
+      "<DBAF43F0>": "[ML:undisp ]!"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<7B3FCF83>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Where am I?"
+      "<DBAF43F0>": "Where...?"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<59378FA3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "All this time, you've been repeating\nthe same aimless actions."
+      "<DBAF43F0>": "All this time, you have repeated 'yourself'\nan unfathomable number of times."
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<DEFE19EF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "All to keep the world this way. And yourself."
+      "<DBAF43F0>": "You are caught in a cycle, just like this world."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<1FD23393>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](desolate breath)"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<AE57F887>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Once more today, you've lost\nthe one you cherished most."
+      "<DBAF43F0>": "And this time, once again, you have lost something precious."
     },
     {
       "$id": 10,
@@ -78,19 +78,19 @@
       "$id": 11,
       "<8C7DD24D>": "<5EF13B62>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If you could, would you try again?"
+      "<DBAF43F0>": "If you could, would you wish to do it all over again?"
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<6FE14742>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Or would you rather..."
+      "<DBAF43F0>": "Or..."
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<0F8074E2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "linger in the \"endless now\"...?"
+      "<DBAF43F0>": "do you wish to remain in the 'endless now'?"
     }
   ]
 }

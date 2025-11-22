@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hurry up and load the stuff going\nto Colony 5 into the transport."
+      "<DBAF43F0>": "Load the portion being transported\nto Colony 5 onto the transport\nvessel immediately."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And that stuff is going to the Castle."
+      "<DBAF43F0>": "That stuff over there,\ncarry it into the Castle."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hear that? They're going to the Castle."
+      "<DBAF43F0>": "It seems they're heading for the Castle."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's hide in that container."
+      "<DBAF43F0>": "Let's get into that container."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, start loading."
+      "<DBAF43F0>": "Alright, begin loading."
     }
   ]
 }

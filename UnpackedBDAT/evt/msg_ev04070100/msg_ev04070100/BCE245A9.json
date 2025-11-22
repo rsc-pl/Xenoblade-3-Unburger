@@ -18,13 +18,13 @@
       "$id": 1,
       "<8C7DD24D>": "<C363437D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Is that...?"
+      "<DBAF43F0>": "Is that..."
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<6B8C0C2F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's Keves Castle, all right.\nFirst time seeing it?"
+      "<DBAF43F0>": "That's Keves Castle. First time seeing it?"
     },
     {
       "$id": 3,
@@ -36,31 +36,31 @@
       "$id": 4,
       "<8C7DD24D>": "<ED405F7F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Same level of elaborate as Castle of Agnus!"
+      "<DBAF43F0>": "It's so big, it rivals the Agnus Castle, desu mo!"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<F05865C8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Can also see Great Sword on left."
+      "<DBAF43F0>": "You can see the Great Sword on the left, too, mo."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<0CA416CB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Are we going through with this?"
+      "<DBAF43F0>": "Are we just gonna keep heading straight?"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<A9419E51>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "No, I see it's far too risky now."
+      "<DBAF43F0>": "No, that would be far too dangerous."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<C4EA9885>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The area will be under strict guard.\nBut downslope, we could go via the forest."
+      "<DBAF43F0>": "Security around the Castle is tight. I think we should head down\nthe slope and proceed through the forest route."
     },
     {
       "$id": 9,
@@ -72,7 +72,7 @@
       "$id": 10,
       "<8C7DD24D>": "<B7862079>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Doesn't sound too bad to me."
+      "<DBAF43F0>": "That doesn't sound too bad."
     }
   ]
 }

@@ -18,79 +18,79 @@
       "$id": 1,
       "<8C7DD24D>": "<4D3C6FA7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Guh, what a filthy room!"
+      "<DBAF43F0>": "Wh-What a filthy room."
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<1CECAFA1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "How the Dirt rank has fallen..."
+      "<DBAF43F0>": "Is this what Dirt rank is like these days?"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<16A5BD60>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ah, I suppose that would be something\nto take up with the Castle."
+      "<DBAF43F0>": "Well, I suppose it would be proper to complain to the [System:Ruby rt=Castle ]homeland[/System:Ruby], but..."
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<63CA719D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Our Ferronis is an old model.\nI understand your displeasure..."
+      "<DBAF43F0>": "Because this is an old-model Iron Giant,\nI apologize for the inconvenience, but..."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<C05C30BE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "but please don't escalate this."
+      "<DBAF43F0>": "...I humbly ask for your forbearance."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<3AF0CD4C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Do I detect some defiance?"
+      "<DBAF43F0>": "Oh? Are you talking back?"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<69C8A9EA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "No, no, that was never my-"
+      "<DBAF43F0>": "No, that was not my intention at all..."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<42F4212D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Relax, girl. I jest."
+      "<DBAF43F0>": "It's a joke, a joke."
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<0B2BE0A2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Now then, let's cut the chitchat and talk business."
+      "<DBAF43F0>": "By the way, let's get right down to business..."
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<C06A7FC4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'd like you to eradicate some vermin for me."
+      "<DBAF43F0>": "There is a certain group I want you to eliminate."
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<70DA9F0F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Vermin?"
+      "<DBAF43F0>": "Eliminate?"
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<08CF51A0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "By your leave, sir, we've detected no movement\nfrom Agnian Ferronises around this area..."
+      "<DBAF43F0>": "No Agnian Iron Giants have been confirmed in this area."
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<033381C6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Not Agnus!"
+      "<DBAF43F0>": "No, no."
     },
     {
       "$id": 14,
@@ -102,43 +102,43 @@
       "$id": 15,
       "<8C7DD24D>": "<312E0C7C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "A band of deserters from both sides."
+      "<DBAF43F0>": "A joint force of Keves and Agnus..."
     },
     {
       "$id": 16,
       "<8C7DD24D>": "<20917B9E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Well, something like that."
+      "<DBAF43F0>": "...or something of the sort."
     },
     {
       "$id": 17,
       "<8C7DD24D>": "<7B4E1318>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Agnus and Keves...both?"
+      "<DBAF43F0>": "A \"joint force\"...?"
     },
     {
       "$id": 18,
       "<8C7DD24D>": "<60D70B00>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hah. I think it's best you see for yourself."
+      "<DBAF43F0>": "Well, it's faster to \"watch\" than to be told, isn't it?"
     },
     {
       "$id": 19,
       "<8C7DD24D>": "<1EB3B182>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hmm?"
+      "<DBAF43F0>": "[ML:undisp ]?"
     },
     {
       "$id": 20,
       "<8C7DD24D>": "<7F8CB133>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This is expressly at the Queen's behest."
+      "<DBAF43F0>": "It is an earnest wish of Her Majesty the Queen."
     },
     {
       "$id": 21,
       "<8C7DD24D>": "<D4185C9B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Don't foul this up."
+      "<DBAF43F0>": "I'm counting on you... alright?"
     }
   ]
 }

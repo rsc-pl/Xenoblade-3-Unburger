@@ -18,19 +18,19 @@
       "$id": 1,
       "<8C7DD24D>": "<C503CCC0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Staying here, are you?"
+      "<DBAF43F0>": "Aren't you going, Taion?"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<93EFE6FA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I've got something to take care of."
+      "<DBAF43F0>": "I have something I need to do."
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<5440066D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'll send it to you now."
+      "<DBAF43F0>": "I am sending it now."
     },
     {
       "$id": 4,
@@ -42,19 +42,19 @@
       "$id": 5,
       "<8C7DD24D>": "<296A3FD2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "From the survey branch."
+      "<DBAF43F0>": "From the Topography Bureau."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<879F79D7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Annihilation events occur frequently here."
+      "<DBAF43F0>": "Annihilation events occur frequently in this area."
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<EE32333A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Annihilation events? You mean..."
+      "<DBAF43F0>": "\"Annihilation events\"... you mean those?"
     },
     {
       "$id": 8,
@@ -66,85 +66,85 @@
       "$id": 9,
       "<8C7DD24D>": "<079B7790>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It happens here too."
+      "<DBAF43F0>": "It's happening here, too."
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<7556E7E5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Given our route, we should take the safest way possible."
+      "<DBAF43F0>": "If we're going to proceed, I'd rather take the safer route."
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<B9C6DC6C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Very cautious of you."
+      "<DBAF43F0>": "You're a cautious one."
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<AE40B70C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's my duty to be."
+      "<DBAF43F0>": "That is my duty."
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<D5D35D19>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Thank you."
+      "<DBAF43F0>": "...That's a great help."
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<7084672A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Uh...Sure."
+      "<DBAF43F0>": "N-No..."
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<AE71878C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Adlib of starting to run)"
+      "<DBAF43F0>": "[ML:undisp ](Running ad-lib)"
     },
     {
       "$id": 16,
       "<8C7DD24D>": "<457922CB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Adlib of jumping in)"
+      "<DBAF43F0>": "[ML:undisp ](Diving ad-lib)"
     },
     {
       "$id": 17,
       "<8C7DD24D>": "<5E72BE79>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Whoa!"
+      "<DBAF43F0>": "[ML:undisp ]Uwah!"
     },
     {
       "$id": 18,
       "<8C7DD24D>": "<790D1A66>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Startled reaction to Noah jumping)"
+      "<DBAF43F0>": "[ML:undisp ](Reaction to dive)"
     },
     {
       "$id": 19,
       "<8C7DD24D>": "<FC44DAB1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Startled reaction to Noah jumping)"
+      "<DBAF43F0>": "[ML:undisp ](Reaction to dive)"
     },
     {
       "$id": 20,
       "<8C7DD24D>": "<DE32BD81>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Startled reaction to Noah jumping)"
+      "<DBAF43F0>": "[ML:undisp ](Reaction to dive)"
     },
     {
       "$id": 21,
       "<8C7DD24D>": "<4B7FC157>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Startled reaction to Noah jumping)"
+      "<DBAF43F0>": "[ML:undisp ](Reaction to dive)"
     },
     {
       "$id": 22,
       "<8C7DD24D>": "<4A26E4CF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Startled reaction to Noah jumping)"
+      "<DBAF43F0>": "[ML:undisp ](Reaction to dive)"
     }
   ]
 }

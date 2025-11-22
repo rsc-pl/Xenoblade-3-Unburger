@@ -18,61 +18,61 @@
       "$id": 1,
       "<8C7DD24D>": "<744E218E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "All right then."
+      "<DBAF43F0>": "Alright then..."
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<074EF820>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That should be us good for food now."
+      "<DBAF43F0>": "That takes care of our food supply for now."
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<FC82FB58>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yeah! Looks like that'll last us a little while."
+      "<DBAF43F0>": "Yeah, it looks like we'll be okay for a little while."
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<2958345F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](small breath of surprise, noticing something)"
+      "<DBAF43F0>": "[ML:undisp ]!?"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<49A36E33>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What's wrong, Mio?"
+      "<DBAF43F0>": "What is it, Mio?"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<8913DCA1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](startled gasp)"
+      "<DBAF43F0>": "[ML:undisp ]!"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<46F3576E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Who's there? Come out!"
+      "<DBAF43F0>": "What is it? An enemy!?"
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<33E34F0C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ](gasp)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1]!!"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<FF7F4876>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Bolearis?!"
+      "<DBAF43F0>": "Bolearis!?"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<5990C44C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Will use ev04150100_0010_b.wav here"
+      "<DBAF43F0>": "[ML:undisp ]huff— huff— huff—"
     }
   ]
 }

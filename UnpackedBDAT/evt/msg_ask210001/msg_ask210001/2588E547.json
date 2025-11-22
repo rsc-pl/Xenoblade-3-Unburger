@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like wrecking a Flame Clock isn't\nenough to make everyone be like us."
+      "<DBAF43F0>": "It seems that even when we\ndestroy a Flame Clock,\nnot everyone becomes like us."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They don't have to worry about\nthe clock, but everything apart\nfrom that stays the same."
+      "<DBAF43F0>": "Their Flame Clock is gone,\nbut everything else seems\nto be the same as before."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Guess it's just us that can Interlink,\nchange Blades and so on...?"
+      "<DBAF43F0>": "So that means only we can Interlink\nor fight using a different Blade?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Bit of a shame though, innit?\nThe trick with using other Blades\nis pretty useful."
+      "<DBAF43F0>": "Being able to use other Blades\nis pretty useful, what a waste."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16793729,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Lanz, have you got comfortable\nwith using Sena's Blade yet?"
+      "<DBAF43F0>": "Lanz, have you gotten used\nto handling Sena's Blade?"
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 8405121,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uh, still workin' on that one, mate..."
+      "<DBAF43F0>": "Well, I still have a ways to go..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll tell you this though, bashing\nenemies around with that thing\nis a real bloody kick."
+      "<DBAF43F0>": "But sending enemies flying \nwith that Blade\nis pretty thrilling. It's addicting."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, hey, here's a thought.\nWhy don't we all try using\nSena's Blade at once?"
+      "<DBAF43F0>": "Oh, I know!\nHow about all of us try\nusing Sena's Blade next time?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Offense is the best defense, right?\nWe'd be done in no time!"
+      "<DBAF43F0>": "The best defense is a good offense, right?\nWe'll definitely finish things\nin one fell swoop!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Done and dusted as\nhusks on the ground, yes."
+      "<DBAF43F0>": "With our own defeat, you mean."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 14696577,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whaddya mean?!"
+      "<DBAF43F0>": "Why?!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Attackers like Sena can only focus on the\noffense when they've got a Defender to\ncover them."
+      "<DBAF43F0>": "An Attacker like Sena can only\nfocus on attacking precisely\nbecause there is a Defender."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You have to maintain a balance in team\ncomposition. Going all-in on any one role\nwould only risk total defeat."
+      "<DBAF43F0>": "A balance of roles is crucial in combat.\nAn all-or-nothing fighting style will only\nincrease the risk of defeat."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 14696577,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Bah... Yeah, no, I'm sorry, you're right.\nIt's exactly as you say."
+      "<DBAF43F0>": "Grh... I get it. You're right, Taion."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 14696578,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Here's what we do then. Taion, you do\nthe Defender thing, and everyone else\ngrabs Sena's Blade. Better, yeah?"
+      "<DBAF43F0>": "Alright then, Taion, you be the Defender!\nThe rest of us will head\nout with Sena's Blade!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16793729,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Were you even listening to me...?\nOr does the word \"balance\" have\ntoo many syllables for you?!"
+      "<DBAF43F0>": "Were you even listening to me!?\nI just said that balance is crucial"
     }
   ]
 }

@@ -528,7 +528,7 @@
       "$id": 86,
       "<8C7DD24D>": "<5B978109>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Hillside Ferronis Hulk"
+      "<DBAF43F0>": "Hillside Iron Giant Hulk"
     },
     {
       "$id": 87,
@@ -546,7 +546,7 @@
       "$id": 89,
       "<8C7DD24D>": "<D26400B8>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Battlescar Ferronis Hulk"
+      "<DBAF43F0>": "Battlescar Iron Giant Hulk"
     },
     {
       "$id": 90,
@@ -1278,13 +1278,13 @@
       "$id": 211,
       "<8C7DD24D>": "<4D52A38F>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Atoll Ferronis Hulk"
+      "<DBAF43F0>": "Atoll Iron Giant Hulk"
     },
     {
       "$id": 212,
       "<8C7DD24D>": "<F6678974>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Sandbar Ferronis Hulk"
+      "<DBAF43F0>": "Sandbar Iron Giant Hulk"
     },
     {
       "$id": 213,
@@ -1686,7 +1686,7 @@
       "$id": 279,
       "<8C7DD24D>": "<8D837FB2>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Colony 4 Ferronis Hatch"
+      "<DBAF43F0>": "Colony 4 Iron Giant Hatch"
     },
     {
       "$id": 280,
@@ -2040,7 +2040,7 @@
       "$id": 338,
       "<8C7DD24D>": "<9A946FC5>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Desert Ferronis Hulk"
+      "<DBAF43F0>": "Desert Iron Giant Hulk"
     },
     {
       "$id": 339,
@@ -2328,7 +2328,7 @@
       "$id": 386,
       "<8C7DD24D>": "<3F023B06>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Tableland Ferronis Hulk"
+      "<DBAF43F0>": "Tableland Iron Giant Hulk"
     },
     {
       "$id": 387,
@@ -2508,13 +2508,13 @@
       "$id": 416,
       "<8C7DD24D>": "<F6C1A985>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Colony Lambda Ferronis"
+      "<DBAF43F0>": "Colony Lambda Iron Giant"
     },
     {
       "$id": 417,
       "<8C7DD24D>": "<C33F26E2>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Colony 5 Ferronis"
+      "<DBAF43F0>": "Colony 5 Iron Giant"
     },
     {
       "$id": 418,
@@ -2580,7 +2580,7 @@
       "$id": 428,
       "<8C7DD24D>": "<4B0B330A>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Colony Tau, Ferronis Head"
+      "<DBAF43F0>": "Colony Tau, Iron Giant Head"
     },
     {
       "$id": 429,
@@ -2700,7 +2700,7 @@
       "$id": 448,
       "<8C7DD24D>": "<45C6280A>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Colony Tau Ferronis"
+      "<DBAF43F0>": "Colony Tau Iron Giant"
     },
     {
       "$id": 449,
@@ -2814,13 +2814,13 @@
       "$id": 467,
       "<8C7DD24D>": "<8FFD4BF1>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Cascade Ferronis Hulk"
+      "<DBAF43F0>": "Cascade Iron Giant Hulk"
     },
     {
       "$id": 468,
       "<8C7DD24D>": "<C050815D>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Clifftop Ferronis Hulk"
+      "<DBAF43F0>": "Clifftop Iron Giant Hulk"
     },
     {
       "$id": 469,
@@ -3108,19 +3108,19 @@
       "$id": 516,
       "<8C7DD24D>": "<6011124C>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Assnal #1"
+      "<DBAF43F0>": "Iron Giant Assnal #1"
     },
     {
       "$id": 517,
       "<8C7DD24D>": "<5E7C8BA2>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Assnal #2"
+      "<DBAF43F0>": "Iron Giant Assnal #2"
     },
     {
       "$id": 518,
       "<8C7DD24D>": "<ED847F62>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Assnal #3"
+      "<DBAF43F0>": "Iron Giant Assnal #3"
     },
     {
       "$id": 519,
@@ -3132,25 +3132,25 @@
       "$id": 520,
       "<8C7DD24D>": "<C0A81B3F>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Assnal #1: E. Gate"
+      "<DBAF43F0>": "Iron Giant Assnal #1: E. Gate"
     },
     {
       "$id": 521,
       "<8C7DD24D>": "<E845BE71>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Assnal #1: S. Gate"
+      "<DBAF43F0>": "Iron Giant Assnal #1: S. Gate"
     },
     {
       "$id": 522,
       "<8C7DD24D>": "<AF3E98E3>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Assnal #3: N. Gate"
+      "<DBAF43F0>": "Iron Giant Assnal #3: N. Gate"
     },
     {
       "$id": 523,
       "<8C7DD24D>": "<4C4BA44D>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Assnal #3: E. Gate"
+      "<DBAF43F0>": "Iron Giant Assnal #3: E. Gate"
     },
     {
       "$id": 524,
@@ -3786,7 +3786,7 @@
       "$id": 629,
       "<8C7DD24D>": "<4F9F71C1>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Crater"
+      "<DBAF43F0>": "Iron Giant Crater"
     },
     {
       "$id": 630,

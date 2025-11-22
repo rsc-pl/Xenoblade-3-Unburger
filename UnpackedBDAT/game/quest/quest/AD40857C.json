@@ -150,7 +150,7 @@
       "$id": 23,
       "<8C7DD24D>": "<62464860>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Navigate the battlefield to reach\nthe Colony Sigma Ferronis."
+      "<DBAF43F0>": "Navigate the battlefield to reach\nthe Colony Sigma Iron Giant."
     },
     {
       "$id": 24,
@@ -162,7 +162,7 @@
       "$id": 25,
       "<8C7DD24D>": "<2BEE7C3B>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Navigate the battlefield to reach\nthe Colony Sigma Ferronis."
+      "<DBAF43F0>": "Navigate the battlefield to reach\nthe Colony Sigma Iron Giant."
     },
     {
       "$id": 26,
@@ -198,7 +198,7 @@
       "$id": 31,
       "<8C7DD24D>": "<CA749407>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Pass through the Colony 9 Ferronis\nto get to the assembly square."
+      "<DBAF43F0>": "Pass through the Colony 9 Iron Giant\nto get to the assembly square."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "$id": 56,
       "<8C7DD24D>": "<DE3E0292>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Rest up at the Hillside\nFerronis Hulk."
+      "<DBAF43F0>": "Rest up at the Hillside\nIron Giant Hulk."
     },
     {
       "$id": 57,
@@ -420,7 +420,7 @@
       "$id": 68,
       "<8C7DD24D>": "<493F4959>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Head for the Colony 4 Ferronis\nto speak with Ethel."
+      "<DBAF43F0>": "Head for the Colony 4 Iron Giant\nto speak with Ethel."
     },
     {
       "$id": 69,
@@ -510,7 +510,7 @@
       "$id": 83,
       "<8C7DD24D>": "<40A30E41>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Defeat the Colony Lambda Ferronis."
+      "<DBAF43F0>": "Defeat the Colony Lambda Iron Giant."
     },
     {
       "$id": 84,
@@ -1080,7 +1080,7 @@
       "$id": 178,
       "<8C7DD24D>": "<D9B6FE6D>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "The party finds a decrepit Ferronis\non their travels. Search it to see if\nit contains any useful resources."
+      "<DBAF43F0>": "The party finds a decrepit Iron Giant\non their travels. Search it to see if\nit contains any useful resources."
     },
     {
       "$id": 179,
@@ -1092,7 +1092,7 @@
       "$id": 180,
       "<8C7DD24D>": "<40A0CE66>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Hillside Ferronis Hulk"
+      "<DBAF43F0>": "Hillside Iron Giant Hulk"
     },
     {
       "$id": 181,
@@ -1122,7 +1122,7 @@
       "$id": 185,
       "<8C7DD24D>": "<56789098>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Return to the Ferronis hulk,\nand insert the ether cylinder."
+      "<DBAF43F0>": "Return to the Iron Giant hulk,\nand insert the ether cylinder."
     },
     {
       "$id": 186,
@@ -1842,7 +1842,7 @@
       "$id": 305,
       "<8C7DD24D>": "<A6F6DF3A>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Lost Colony Ferronis"
+      "<DBAF43F0>": "Lost Colony Iron Giant"
     },
     {
       "$id": 306,
@@ -2478,7 +2478,7 @@
       "$id": 411,
       "<8C7DD24D>": "<36CBF248>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Colony Iota Ferronis"
+      "<DBAF43F0>": "Colony Iota Iron Giant"
     },
     {
       "$id": 412,
@@ -3036,19 +3036,19 @@
       "$id": 504,
       "<8C7DD24D>": "<14FEAB71>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "An Off-Seer's Anguish"
+      "<DBAF43F0>": "An Sender's Anguish"
     },
     {
       "$id": 505,
       "<8C7DD24D>": "<B8F69444>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Colony 9's new off-seer appears to be struggling\nwith some problems. Try asking the people that\nknow him what's troubling him."
+      "<DBAF43F0>": "Colony 9's new Sender appears to be struggling\nwith some problems. Try asking the people that\nknow him what's troubling him."
     },
     {
       "$id": 506,
       "<8C7DD24D>": "<8AFCFD7E>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Url came clean to Colony 9 that he is no longer\nable to perform as an off-seer. He seems a little\nmore at peace now, at least..."
+      "<DBAF43F0>": "Url came clean to Colony 9 that he is no longer\nable to perform as an Sender. He seems a little\nmore at peace now, at least..."
     },
     {
       "$id": 507,
@@ -3180,7 +3180,7 @@
       "$id": 528,
       "<8C7DD24D>": "<69F37C3A>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "By the Ferronis hatch"
+      "<DBAF43F0>": "By the Iron Giant hatch"
     },
     {
       "$id": 529,
@@ -3198,7 +3198,7 @@
       "$id": 531,
       "<8C7DD24D>": "<6D7061E8>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "Around the Ferronis"
+      "<DBAF43F0>": "Around the Iron Giant"
     },
     {
       "$id": 532,
@@ -3732,7 +3732,7 @@
       "$id": 620,
       "<8C7DD24D>": "<A0C800CE>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "No. 3 fully made up with No. 9 by getting\nher off-seer's flute fixed. But, No. 9 still\nremains wary of Sena..."
+      "<DBAF43F0>": "No. 3 fully made up with No. 9 by getting\nher Sender's flute fixed. But, No. 9 still\nremains wary of Sena..."
     },
     {
       "$id": 621,
@@ -3954,13 +3954,13 @@
       "$id": 657,
       "<8C7DD24D>": "<31F683CE>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Stories arise of a Colony 30 Nopon aspiring to\nbecome an off-seer. Go meet him and find out\nhis motivation."
+      "<DBAF43F0>": "Stories arise of a Colony 30 Nopon aspiring to\nbecome an Sender. Go meet him and find out\nhis motivation."
     },
     {
       "$id": 658,
       "<8C7DD24D>": "<ED3C7FAC>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "His promise to Colony 30's previous off-seer Radek\nnow fulfilled, See-Mee-Mee is on course to inherit\nhis role and become \"See-Mee-Off\"."
+      "<DBAF43F0>": "His promise to Colony 30's previous Sender Radek\nnow fulfilled, See-Mee-Mee is on course to inherit\nhis role and become \"See-Mee-Off\"."
     },
     {
       "$id": 659,
@@ -4188,7 +4188,7 @@
       "$id": 696,
       "<8C7DD24D>": "<8F1634AD>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Colony Lambda's Ferronis is out of commission,\nwhich inconveniently puts its canteen out of use too.\nSuggest a plan to the head of manufacturing."
+      "<DBAF43F0>": "Colony Lambda's Iron Giant is out of commission,\nwhich inconveniently puts its canteen out of use too.\nSuggest a plan to the head of manufacturing."
     },
     {
       "$id": 697,
@@ -4206,13 +4206,13 @@
       "$id": 699,
       "<8C7DD24D>": "<961493CE>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "The Lost Off-Seer"
+      "<DBAF43F0>": "The Lost Sender"
     },
     {
       "$id": 700,
       "<8C7DD24D>": "<AC001523>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Lambda's off-seer seemed to have gone to the Fornis\nregion through the tunnels, but no search party has\nbeen sent out. In light of this, go look for him instead."
+      "<DBAF43F0>": "Lambda's Sender seemed to have gone to the Fornis\nregion through the tunnels, but no search party has\nbeen sent out. In light of this, go look for him instead."
     },
     {
       "$id": 701,
@@ -4224,7 +4224,7 @@
       "$id": 702,
       "<8C7DD24D>": "<A0A4CFB7>",
       "<554EE944>": 79,
-      "<DBAF43F0>": "Look for the missing off-seer\nin the Invidian Tunnel Facility."
+      "<DBAF43F0>": "Look for the missing Sender\nin the Invidian Tunnel Facility."
     },
     {
       "$id": 703,
@@ -4368,7 +4368,7 @@
       "$id": 726,
       "<8C7DD24D>": "<AAE05213>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Lambda's off-seer appears to have met his end...\nGo and see how Moraine is coping with it."
+      "<DBAF43F0>": "Lambda's Sender appears to have met his end...\nGo and see how Moraine is coping with it."
     },
     {
       "$id": 727,
@@ -5124,25 +5124,25 @@
       "$id": 852,
       "<8C7DD24D>": "<324EFC58>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Clear out the monsters lurking\naround the decrepit Ferronis."
+      "<DBAF43F0>": "Clear out the monsters lurking\naround the decrepit Iron Giant."
     },
     {
       "$id": 853,
       "<8C7DD24D>": "<BE5E2658>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "The Ferronis Hulk was rebooted so that it's\nup and running again. You can now use the\nnewly-arrived Nopon Caravan's rest spot."
+      "<DBAF43F0>": "The Iron Giant Hulk was rebooted so that it's\nup and running again. You can now use the\nnewly-arrived Nopon Caravan's rest spot."
     },
     {
       "$id": 854,
       "<8C7DD24D>": "<53D57251>",
       "<554EE944>": 16,
-      "<DBAF43F0>": "Monsters near the Ferronis hulk"
+      "<DBAF43F0>": "Monsters near the Iron Giant hulk"
     },
     {
       "$id": 855,
       "<8C7DD24D>": "<AA27B33E>",
       "<554EE944>": 79,
-      "<DBAF43F0>": "Reactivate the Ferronis."
+      "<DBAF43F0>": "Reactivate the Iron Giant."
     },
     {
       "$id": 856,
@@ -6036,7 +6036,7 @@
       "$id": 1004,
       "<8C7DD24D>": "<99DD21A0>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "The deserters were secured. One can only imagine\nwhat Knoquehardt has in store for them..."
+      "<DBAF43F0>": "The deserters were secured. One can only imagine\nwhat Knockheart has in store for them..."
     },
     {
       "$id": 1005,
@@ -6522,7 +6522,7 @@
       "$id": 1085,
       "<8C7DD24D>": "<01C2CF74>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "It turns out the secret to the Agnian Levnises' flotation\nmechanism lies in energy conversion efficiency.\nCould such technology help restart the Ferronis...?"
+      "<DBAF43F0>": "It turns out the secret to the Agnian Levnises' flotation\nmechanism lies in energy conversion efficiency.\nCould such technology help restart the Iron Giant...?"
     },
     {
       "$id": 1086,
@@ -7170,7 +7170,7 @@
       "$id": 1193,
       "<8C7DD24D>": "<9B15D1F7>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Colony Tau's off-seer, previous commander\nand other fallen were seen off by Noah and Mio.\nMay their spirits rest in peace."
+      "<DBAF43F0>": "Colony Tau's Sender, previous commander\nand other fallen were seen off by Noah and Mio.\nMay their spirits rest in peace."
     },
     {
       "$id": 1194,
@@ -8394,7 +8394,7 @@
       "$id": 1397,
       "<8C7DD24D>": "<329480F0>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Koma has been fully rehydrated.\nHe's going to the Hillside Ferronis\nHulk, where Shillshill is waiting."
+      "<DBAF43F0>": "Koma has been fully rehydrated.\nHe's going to the Hillside Iron Giant\nHulk, where Shillshill is waiting."
     },
     {
       "$id": 1398,
@@ -8886,7 +8886,7 @@
       "$id": 1479,
       "<8C7DD24D>": "<B200D110>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "Inside the Ferronis"
+      "<DBAF43F0>": "Inside the Iron Giant"
     },
     {
       "$id": 1480,
@@ -8910,7 +8910,7 @@
       "$id": 1483,
       "<8C7DD24D>": "<9164BBA7>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "Inside the Ferronis"
+      "<DBAF43F0>": "Inside the Iron Giant"
     },
     {
       "$id": 1484,
@@ -9324,19 +9324,19 @@
       "$id": 1552,
       "<8C7DD24D>": "<B7E77CFE>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Matia has asked the party's help fulfilling Jake and\nTessa's order. Don't let her down!"
+      "<DBAF43F0>": "Matia has asked the party's help fulfilling Jake and\nTiian's order. Don't let her down!"
     },
     {
       "$id": 1553,
       "<8C7DD24D>": "<BD19B60A>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "With the party's help, Matia had no trouble crafting\nelegant keepsakes for Jake and Tessa that met their\nexpectations, marking another victory for the arts."
+      "<DBAF43F0>": "With the party's help, Matia had no trouble crafting\nelegant keepsakes for Jake and Tiian that met their\nexpectations, marking another victory for the arts."
     },
     {
       "$id": 1554,
       "<8C7DD24D>": "<13149E1B>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Gather enough \"Jake and Tessa\"\ninfo fragments."
+      "<DBAF43F0>": "Gather enough \"Jake and Tiian\"\ninfo fragments."
     },
     {
       "$id": 1555,
@@ -9426,7 +9426,7 @@
       "$id": 1569,
       "<8C7DD24D>": "<75158152>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Matthew and co. found themselves amid a fevered\nconfrontation against a Ferronis, when help arrived\nsuddenly in the form of a large, mysterious man."
+      "<DBAF43F0>": "Matthew and co. found themselves amid a fevered\nconfrontation against a Iron Giant, when help arrived\nsuddenly in the form of a large, mysterious man."
     },
     {
       "$id": 1570,
@@ -9516,7 +9516,7 @@
       "$id": 1584,
       "<8C7DD24D>": "<AFE30B05>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Defeat the Colony Eta Ferronis."
+      "<DBAF43F0>": "Defeat the Colony Eta Iron Giant."
     },
     {
       "$id": 1585,
@@ -9528,7 +9528,7 @@
       "$id": 1586,
       "<8C7DD24D>": "<B3071B23>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Faced with a pair of fused Ferronises, Matthew and co.\ngain some new allies, and with that, the final piece is\nin place to fend off the Moebius threat."
+      "<DBAF43F0>": "Faced with a pair of fused Iron Giants, Matthew and co.\ngain some new allies, and with that, the final piece is\nin place to fend off the Moebius threat."
     },
     {
       "$id": 1587,

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mr. Samon's engineering department?\nGo down the lift near Dolgan Cliff and\nyou'll find it in no time."
+      "<DBAF43F0>": "The Engineering Bureau where Samon-san is...\nit's at the bottom of the elevator at Dolgan\nCliff, so you should find it right away."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's the big lift you took to get\nup here. You know the one?"
+      "<DBAF43F0>": "It's the long elevator you\nused to get up here. Got it?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right."
+      "<DBAF43F0>": "Yeah."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Welp, that's it! Ciao!"
+      "<DBAF43F0>": "That's all for the explanation. See you."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh what, you're not gonna\nshow us the way?"
+      "<DBAF43F0>": "You guys aren't coming with us?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's a strategy meeting we\nhave to be at, discussing what\nto do after the infiltration."
+      "<DBAF43F0>": "We have a strategy meeting\nfor after the infiltration."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, you're infiltrating\nthe prison too?"
+      "<DBAF43F0>": "...! You're infiltrating the\nprison facility too?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, it was originally *our* plan."
+      "<DBAF43F0>": "It was originally \"our\" mission."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see."
+      "<DBAF43F0>": "...I see."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looking forward to working with you, then."
+      "<DBAF43F0>": "Let's work well together from now on."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, sorry, not going to be\nall buddy-buddy with you."
+      "<DBAF43F0>": "Let me make this clear.\nI have no intention of\ngetting friendly with you."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wow, what crawled up his ass?"
+      "<DBAF43F0>": "What's with his attitude? It's the worst."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Look at it from their perspective.\nWe essentially took the Ouroboros powers\nthat were originally intended for them."
+      "<DBAF43F0>": "It may have been a matter of circumstance,\nbut we did take Ouroboros from them."
     },
     {
       "$id": 14,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What does that have\nto do with any of this?"
+      "<DBAF43F0>": "That doesn't matter now, does it?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's just play our part for now."
+      "<DBAF43F0>": "We will fulfill our role."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We should head to engineering."
+      "<DBAF43F0>": "Let's go to the Engineering Bureau."
     }
   ]
 }

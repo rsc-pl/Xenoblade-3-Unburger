@@ -38,7 +38,7 @@
       "<2B51649C>": 32897,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, Manana... You know that stuff\ncalled Gromrice that they grow in\nNami's Colony?"
+      "<DBAF43F0>": "Hey, Manana. In Nami-san's colony,\nthey grow a crop called Folta, right?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What kinda food do you make with that?"
+      "<DBAF43F0>": "What kind of dishes can you use it in?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "First, have to make into dough."
+      "<DBAF43F0>": "First, you make it into a dough, desu mo."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Have to take dried Gromrice,\nand grindy-grind into flour."
+      "<DBAF43F0>": "You start by taking dried Folta\nand grinding it into a powder, mo."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then, take Gromrice flour,\nadd water, and poundy-pound."
+      "<DBAF43F0>": "Then you add water to the Folta\npowder and knead it thoroughly, mo."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hum, hum..."
+      "<DBAF43F0>": "Uh-huh, uh-huh."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That make fluffy-fluffy dough.\nThen can bake, or steam, and\nit become tasty-tasty food."
+      "<DBAF43F0>": "Then you'll have a chewy dough, mo.\nYou can use it in all sorts of dishes\nby baking or steaming it, mo."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see, I see..."
+      "<DBAF43F0>": "I see..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 32897,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Since Sena so curious,\nwill let render assistance\nwhen making one day soon!"
+      "<DBAF43F0>": "Since we have the chance,\nlet's try making it together sometime, mo."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sena is strong, so if Sena poundy-pound,\nwill definitely make nice smooth dough!"
+      "<DBAF43F0>": "If the powerful Sena-san does the kneading,\nI'm sure it'll turn into a fine dough, mo!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Awesome! I can't wait to try!"
+      "<DBAF43F0>": "Yeah! I want to try!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My Blade's perfect for poundy-pounding!"
+      "<DBAF43F0>": "I'll use my Blade to knead\nit with all my might!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uhm, in that scenario, result will be less\nsmooth dough and more chewy dish called\nmochi... But that have its own charm too!"
+      "<DBAF43F0>": "If you do that, it won't be dough,\nit'll be Omochi, mo."
     }
   ]
 }

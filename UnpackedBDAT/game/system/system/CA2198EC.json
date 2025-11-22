@@ -42,7 +42,7 @@
       "$id": 5,
       "<8C7DD24D>": "<E2B5B290>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Colony 9's Off-Seer"
+      "<DBAF43F0>": "Colony 9's Sender"
     },
     {
       "$id": 6,
@@ -126,7 +126,7 @@
       "$id": 19,
       "<8C7DD24D>": "<692EA12F>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Tutor: Off-Seer"
+      "<DBAF43F0>": "Tutor: Sender"
     },
     {
       "$id": 20,
@@ -240,7 +240,7 @@
       "$id": 38,
       "<8C7DD24D>": "<A010E662>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Colony 30's Off-Seer"
+      "<DBAF43F0>": "Colony 30's Sender"
     },
     {
       "$id": 39,
@@ -348,7 +348,7 @@
       "$id": 56,
       "<8C7DD24D>": "<724D3965>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Missing Off-Seer"
+      "<DBAF43F0>": "Missing Sender"
     },
     {
       "$id": 57,
@@ -384,7 +384,7 @@
       "$id": 62,
       "<8C7DD24D>": "<0965741E>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Colony Tau's Off-Seer"
+      "<DBAF43F0>": "Colony Tau's Sender"
     },
     {
       "$id": 63,
@@ -942,7 +942,7 @@
       "$id": 155,
       "<8C7DD24D>": "<B6C2375F>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Ferronis Hulks"
+      "<DBAF43F0>": "Iron Giant Hulks"
     },
     {
       "$id": 156,
@@ -1086,7 +1086,7 @@
       "$id": 179,
       "<8C7DD24D>": "<1E9E7F44>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Colony 11's Ferronis"
+      "<DBAF43F0>": "Colony 11's Iron Giant"
     },
     {
       "$id": 180,
@@ -1236,7 +1236,7 @@
       "$id": 204,
       "<8C7DD24D>": "<D2F823B0>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Jake and Tessa"
+      "<DBAF43F0>": "Jake and Tiian"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I been waiting for you!\nShip is steady-ready."
+      "<DBAF43F0>": "Momo, I've been waiting, mo!\nThe ship is ready, mo."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, I'm counting on you to\nbust out and bring back Ghondor."
+      "<DBAF43F0>": "I'm counting on you.\nGo and pull Ghondor\nout of that prison facility."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're counting on us?\nCount on yourself - you're\ncoming too, aren't you?"
+      "<DBAF43F0>": "You're counting on us?\n...You're not coming with us, Monica?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll be accompanying you on the trip,\nbut I'm leaving the actual prison\ninfiltration up to you."
+      "<DBAF43F0>": "I will accompany you part of the way,\nbut I want to entrust the infiltration\nof the prison facility to you."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This isn't the Lost Numbers'\nonly job right now, you know."
+      "<DBAF43F0>": "This is not the only mission the\nLost Numbers are currently undertaking."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think you should be plenty capable\nof carrying it out yourselves, but if\nyou want me there, I'll go with you."
+      "<DBAF43F0>": "I believe this is a mission you are fully\ncapable of accomplishing on your own... \nbut if you say you need my strength, I will accompany you."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just for the journey, mind.\nThe infiltration is your job."
+      "<DBAF43F0>": "I will accompany you part of the way,\nbut I want to entrust the infiltration\nmission to you."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This isn't the Lost Numbers'\nonly job right now, you know."
+      "<DBAF43F0>": "This is not the only mission\nthe Lost Numbers are currently undertaking."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Jansen, you're in\ncharge of the infiltration."
+      "<DBAF43F0>": "I am entrusting command during\nthe infiltration mission to Jansen."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Try not to drag us\ndown, Ouroboros."
+      "<DBAF43F0>": "Try not to drag us down, \"Ouroboros.\""
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Worry about yourself."
+      "<DBAF43F0>": "You should worry about yourselves."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Samon, tell us the route."
+      "<DBAF43F0>": "Samon, let's discuss the route."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meh!"
+      "<DBAF43F0>": "Momo."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Me-hem!"
+      "<DBAF43F0>": "Ahem, mo!"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As said before, you cross along\nErythia Sea on good ship Boundary, then\ngo to prison direct underneath Castle."
+      "<DBAF43F0>": "As I said before, you will take this Boundary\nacross the Erythia Sea and head for the prison\nfacility directly beneath the Castle, mo."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, good. Right through the fog."
+      "<DBAF43F0>": "The plan is to advance under\nthe cover of the black fog, right?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But! Here is detail\nof importance."
+      "<DBAF43F0>": "Momo! But this next part is important, mo."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Even if all get there without\nbumps and bruises, island is\nsurrounded by tall cliff on all side!"
+      "<DBAF43F0>": "Even if you arrive safely,\nthe island is completely surrounded\nby sheer cliffs, mo."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Boundary only run over water...\nAfter that, friends will need proceed\nunder own strength."
+      "<DBAF43F0>": "The Boundary is for water travel only.\nFrom there, you'll have to\nmanage on your own, mo."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So we just have to do our best\nto climb up the cliffs without\ngetting rumbled?"
+      "<DBAF43F0>": "So, we just have to try our best\nto climb the cliffs without being found?"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we can climb up them just by\ndoing our best then that's great, but..."
+      "<DBAF43F0>": "It would be nice if you could climb\nit just by trying your best, but..."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "First, it can't be done."
+      "<DBAF43F0>": "That's pretty much impossible."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If the prison's in Agnus Castle, then\nit's going to be more heavily guarded\nthan any old Colony."
+      "<DBAF43F0>": "Since the prison facility is at Agnus Castle,\nits security is likely a cut above\nany ordinary colony..."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right on the money."
+      "<DBAF43F0>": "That's where this comes in."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Before we head for the prison,\nlet's rendezvous with a soldier\nhiding on nearby Vinisog Holm."
+      "<DBAF43F0>": "Before heading to the prison facility,\nwe will go and meet a soldier we have hiding\non the nearby Vinisog Holm."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Before you head for the prison,\nrendezvous with a soldier\nhiding on nearby Vinisog Holm."
+      "<DBAF43F0>": "Before you head to the prison facility,\nI want you to go and meet a soldier we\nhave hiding on the nearby Vinisog Holm."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Her name's Kisame. She's the only soldier\nwho managed to escape from Hope's Rest."
+      "<DBAF43F0>": "Her name is \"Kisame.\"\nShe is the only soldier who managed\nto escape from the Hill of Hope."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we learn about how she managed\nto escape, we can use that information\nin our infiltration, is that right?"
+      "<DBAF43F0>": "So if we hear the story of her escape,\nwe might be able to use it as a means\nof infiltration. Is that it?"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Vinisog Holm is on the way anyway, so\nrather than fiddle with janky comms, I\nthought it'd be best to go there and chat."
+      "<DBAF43F0>": "Vinisog Holm is on our route. I figured it\nwould be better to meet and talk in person\nrather than struggle with communication interference."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, makes sense."
+      "<DBAF43F0>": "That makes sense."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right, let's be off."
+      "<DBAF43F0>": "Well then, let's be off."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's all I've got to say.\nGet everything ready for departure."
+      "<DBAF43F0>": "That is all I have to say.\nBegin preparations for departure."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK."
+      "<DBAF43F0>": "Right."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All righty-doodles,\ngoodest of luck to friends."
+      "<DBAF43F0>": "Momo. I'm praying for your success, mo."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait, are you not\npiloting us, Mr. Samon?"
+      "<DBAF43F0>": "Huh? You're not the one\npiloting this, Samon-san?"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Samon is tired after long night of work.\nPlease to not overwork poor Samon."
+      "<DBAF43F0>": "Samon is exhausted from\nworking all night, mo. Please don't\noverwork me any more, mo."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So who is our pilot, then...?"
+      "<DBAF43F0>": "Then who's going to pilot...?"
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Pilot is inside you all along! Samon can\nsend information of direction to any Iris, so\nanyone who want to pilot can fulfill dream."
+      "<DBAF43F0>": "I have sent the piloting guide to all\nof your \"Irises,\" mo. Whoever wants\nto do it can do it, mo."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But however, if break Boundary,\nis punishable by megaspankings."
+      "<DBAF43F0>": "However, if you break the Boundary,\nI will absolutely not forgive you, mo."
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, yeah, we get it."
+      "<DBAF43F0>": "This is way too unreasonable..."
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Fine, fine, Riku will\nvolunteer for pilot."
+      "<DBAF43F0>": "...It can't be helped, mo.\nRiku will do it, mo."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is that OK?"
+      "<DBAF43F0>": "You think you can handle it?"
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is easier than\nworking Levnis."
+      "<DBAF43F0>": "It's easier than operating a Levnister, mo."
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Riku was our mechanic\nback in the colony."
+      "<DBAF43F0>": "Riku was a mechanic at our colony."
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He's good with stuff like this.\nI trust him to lead us right."
+      "<DBAF43F0>": "He's used to this sort of thing, so I don't\nthink there will be any problem\nleaving it to Riku, but..."
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can I trust you not to let me down?"
+      "<DBAF43F0>": "Can I count on you?"
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meh! Riku make it smooth sailing."
+      "<DBAF43F0>": "Momo. You're in good hands, mo."
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure it'll be fine."
+      "<DBAF43F0>": "I'm sure it will be fine."
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Will do our best!"
+      "<DBAF43F0>": "Let's do our best, desu mo~!"
     },
     {
       "$id": 51,
@@ -538,7 +538,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This Ghondor person in prison is\nour key to finding the whereabouts\nof the true Queens."
+      "<DBAF43F0>": "Ghondor, who is in the prison facility,\nis the key to finding the true queen."
     },
     {
       "$id": 52,
@@ -548,7 +548,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We have to pull this off."
+      "<DBAF43F0>": "We must absolutely succeed\nin this rescue mission."
     }
   ]
 }

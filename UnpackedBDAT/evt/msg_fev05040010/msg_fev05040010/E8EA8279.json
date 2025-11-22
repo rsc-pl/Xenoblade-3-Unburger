@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Levnis from earlier disappeared in sky."
+      "<DBAF43F0>": "The Levnister from before\ndisappeared into the sky, mo."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yep. Oh, and before we take you\nto the City, you have to wear these."
+      "<DBAF43F0>": "That's right.\nBefore I take you to the City,\nyou'll need to put these on."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eyepatches?"
+      "<DBAF43F0>": "These are... eyepatches?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They're the same as the ones we wear."
+      "<DBAF43F0>": "They're the same as the ones we are wearing."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Put them over the eye\nwhere your Iris is."
+      "<DBAF43F0>": "Put the eyepatch on the\neye that has your \"Iris\"."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What? They won't hurt you."
+      "<DBAF43F0>": "Don't worry, it's not something\nthat will harm your bodies."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks for the cooperation.\nWe appreciate this."
+      "<DBAF43F0>": "I appreciate your cooperation."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So. I said we aren't hostile,\nbut that might not be enough\nto earn your trust, I'm guessing."
+      "<DBAF43F0>": "Now then... I told you we have\nno hostile intent, but I doubt that's enough\nfor you to trust us yet."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If it lays your fears to rest, you can\ntreat me as your prisoner until we\nreach the City."
+      "<DBAF43F0>": "To guarantee your safety until\nwe reach the City, you can treat me\nas your prisoner."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, that doesn't sound right, darlin'."
+      "<DBAF43F0>": "No way... you, a prisoner...?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't want a prisoner?\nWhatever, I'll be your escort then."
+      "<DBAF43F0>": "Not satisfied with \"prisoner\"? In that case,\nI will also serve as your escort."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I should point out, you won't find anyone\nbetter with a mace in the Lost Numbers."
+      "<DBAF43F0>": "When it comes to wielding a mace,\nno one in the Lost Numbers can best me."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, well, don't bash us\nabout with it or anything."
+      "<DBAF43F0>": "Just don't go hitting us\nwith that thing, alright?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If I wanted to, then your\nattitude would have earned\nyou a thrashing already."
+      "<DBAF43F0>": "If I had any such intention...\nby now, you wouldn't even be able to speak."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, let's be on our way.\nShania'll show you how to go."
+      "<DBAF43F0>": "Well then, shall we go?\nShe will guide you to the City."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Monica has temporarily\njoined the party."
+      "<DBAF43F0>": "Monica has temporarily joined the party."
     }
   ]
 }

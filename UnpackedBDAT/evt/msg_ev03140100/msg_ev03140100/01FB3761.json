@@ -18,19 +18,19 @@
       "$id": 1,
       "<8C7DD24D>": "<BBE07E4C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Did you find something?"
+      "<DBAF43F0>": "Something about that tree?"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<7E5BDEDB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hm? No..."
+      "<DBAF43F0>": "Hm? Oh..."
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<3C68FA6C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Just brings me back a bit..."
+      "<DBAF43F0>": "Just... remembering the past for a moment."
     },
     {
       "$id": 4,
@@ -42,7 +42,7 @@
       "$id": 5,
       "<8C7DD24D>": "<A772EDA3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh yeah?"
+      "<DBAF43F0>": "Someone?"
     }
   ]
 }

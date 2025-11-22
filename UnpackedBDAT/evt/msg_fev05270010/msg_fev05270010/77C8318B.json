@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can leave\nat any time."
+      "<DBAF43F0>": "We can depart at any time, mo."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's get on with it then."
+      "<DBAF43F0>": "...Alright, there we go."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Got my identification device on."
+      "<DBAF43F0>": "Identification device is on."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Once we're inside the prison,\nwe won't be able to come\nback out again for a while."
+      "<DBAF43F0>": "Assuming we successfully infiltrate\nthe prison facility, we won't be able to\nget back outside for a while."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We must be absolutely sure\nthat we're ready for anything."
+      "<DBAF43F0>": "I believe our preparations\nhave been thorough, but..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Infiltrate the prison?"
+      "<DBAF43F0>": "Proceed to the prison facility?"
     },
     {
       "$id": 7,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, the rest is up to you.\nI'll get back to the City."
+      "<DBAF43F0>": "Well then, I'm leaving the rest to you.\nI will return to the City."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you for all you've done."
+      "<DBAF43F0>": "Thank you for everything up to this point."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll do our best to see\nthis mission through."
+      "<DBAF43F0>": "We will see to it that\nthis mission is a success."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's give everything another\nonce-over before we set off."
+      "<DBAF43F0>": "Let's confirm the route for after\nwe land a little more thoroughly\nbefore we go."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's smash it!"
+      "<DBAF43F0>": "Right!"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Monica is staying in the City to lead\nthe Lost Numbers and won't be able\nto join the party for a while."
+      "<DBAF43F0>": "Monica will remain in the City to command\nthe Lost Numbers and cannot be in the party\nfor a while."
     }
   ]
 }

@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<5A5EEBA5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Every one of us\nis born looking like this."
+      "<DBAF43F0>": "We are all born \"in this form.\""
     },
     {
       "$id": 2,
@@ -30,145 +30,145 @@
       "$id": 3,
       "<8C7DD24D>": "<81CFD0DD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "As weapons for slaying Agnians..."
+      "<DBAF43F0>": "As weapons to kill the [System:Ruby rt=Agnus ]enemy[/System:Ruby]."
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<AC120337>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yes."
+      "<DBAF43F0>": "That's right."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<660A81CE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "All of us..."
+      "<DBAF43F0>": "We..."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<847642D1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "live only..."
+      "<DBAF43F0>": "...live..."
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<C441FE31>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "to fight."
+      "<DBAF43F0>": "...to fight."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<F892F3FE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Tch! Cut that out!"
+      "<DBAF43F0>": "Tch! Stop scurrying around!"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<E3134C94>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Stupid..."
+      "<DBAF43F0>": "Noah..."
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<B0997A05>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Noah!"
+      "<DBAF43F0>": "...you're a pain!"
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<CAB5BEB3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](land, then jump x2)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1]"
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<ECF224DF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](gasp of horror)"
+      "<DBAF43F0>": "[ML:undisp ]!!"
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<F9C88BE4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Tch."
+      "<DBAF43F0>": "[ML:undisp ]Tch!"
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<A3EA70E3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Nice one, Lanz!"
+      "<DBAF43F0>": "Thanks, Lanz."
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<19FAD080>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Too early for that!"
+      "<DBAF43F0>": "Save the thanks for later."
     },
     {
       "$id": 16,
       "<8C7DD24D>": "<672174F6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Look, it's you they're after here!"
+      "<DBAF43F0>": "Looks like you're their target."
     },
     {
       "$id": 17,
       "<8C7DD24D>": "<82060C92>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Just take out their Attackers and we're golden."
+      "<DBAF43F0>": "They're probably thinking, \"Just crush the Attacker.\""
     },
     {
       "$id": 18,
       "<8C7DD24D>": "<4269172C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They're gonna get it handed to 'em!"
+      "<DBAF43F0>": "As if it'd be that easy!"
     },
     {
       "$id": 19,
       "<8C7DD24D>": "<E8B7B0CB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Bah! Flickerin' Hoope...\nYou're as slippery as Noah sometimes!"
+      "<DBAF43F0>": "Tch, that bastard Hoope... he's as nimble as Noah."
     },
     {
       "$id": 20,
       "<8C7DD24D>": "<A9BDF483>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Eunie... Chick never shuts up."
+      "<DBAF43F0>": "Eunie... you're a bit annoying."
     },
     {
       "$id": 21,
       "<8C7DD24D>": "<787118E2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Kite!"
+      "<DBAF43F0>": "Kite."
     },
     {
       "$id": 22,
       "<8C7DD24D>": "<0FBDA7EA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ranged Arts!"
+      "<DBAF43F0>": "Area Arts."
     },
     {
       "$id": 23,
       "<8C7DD24D>": "<5589AC41>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Easy!"
+      "<DBAF43F0>": "Understood."
     },
     {
       "$id": 24,
       "<8C7DD24D>": "<99149BDD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](panting)"
+      "<DBAF43F0>": "ML:undisp"
     },
     {
       "$id": 25,
       "<8C7DD24D>": "<F86ECE25>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](pained exert)"
+      "<DBAF43F0>": "[ML:undisp ]Kuh!"
     },
     {
       "$id": 26,
       "<8C7DD24D>": "<5644BC3A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](cry of surprise)"
+      "<DBAF43F0>": "[ML:undisp ]Uwaah!!"
     },
     {
       "$id": 27,
@@ -180,49 +180,49 @@
       "$id": 28,
       "<8C7DD24D>": "<DFC5FCCD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Tch!"
+      "<DBAF43F0>": "[ML:undisp ]Tch..."
     },
     {
       "$id": 29,
       "<8C7DD24D>": "<213C7E09>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Didn't account for Kite...\nUgh... I snuffed this up."
+      "<DBAF43F0>": "I forgot Kite was there... D-Dammit, I let my guard down!"
     },
     {
       "$id": 30,
       "<8C7DD24D>": "<F37A92A0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](coughing, winded)"
+      "<DBAF43F0>": "[ML:undisp ]Gah!"
     },
     {
       "$id": 31,
       "<8C7DD24D>": "<76A9BE42>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](heavy panting x3)"
+      "<DBAF43F0>": "ML:undisp ... (Panting)... (Panting)..."
     },
     {
       "$id": 32,
       "<8C7DD24D>": "<8D8C4C21>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](quick intake of breath, then\npanting resumes, but shallower)"
+      "<DBAF43F0>": "[ML:undisp ]Ngh... (Heavy panting)"
     },
     {
       "$id": 33,
       "<8C7DD24D>": "<FF3E01A9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You OK, Eunie?"
+      "<DBAF43F0>": "Are you okay, Eunie?"
     },
     {
       "$id": 34,
       "<8C7DD24D>": "<E7A814CC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Cheers for that.\nYou're a lifesaver, Joran!"
+      "<DBAF43F0>": "Thanks. I appreciate it, Joran."
     },
     {
       "$id": 35,
       "<8C7DD24D>": "<80E51D76>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Sparkin' deadweight...!"
+      "<DBAF43F0>": "That deadweight..."
     },
     {
       "$id": 36,
@@ -234,253 +234,253 @@
       "$id": 37,
       "<8C7DD24D>": "<A9B0A181>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Change of plan!"
+      "<DBAF43F0>": "We're changing the plan."
     },
     {
       "$id": 38,
       "<8C7DD24D>": "<CF0248C2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Kite, you keep firing, and don't stop."
+      "<DBAF43F0>": "Kite, fire your Arts as much as you can."
     },
     {
       "$id": 39,
       "<8C7DD24D>": "<B333D40A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "At what?"
+      "<DBAF43F0>": "The target?"
     },
     {
       "$id": 40,
       "<8C7DD24D>": "<B93E6E21>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Whatever you want."
+      "<DBAF43F0>": "Anywhere is fine."
     },
     {
       "$id": 41,
       "<8C7DD24D>": "<581885E7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Huh?"
+      "<DBAF43F0>": "Eh?"
     },
     {
       "$id": 42,
       "<8C7DD24D>": "<91F7DED9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Go ballistic."
+      "<DBAF43F0>": "It's a diversion."
     },
     {
       "$id": 43,
       "<8C7DD24D>": "<F06833DA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Just draw their attention."
+      "<DBAF43F0>": "As long as you draw their attention, it's fine."
     },
     {
       "$id": 44,
       "<8C7DD24D>": "<A504CBAC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "'Cause what we're after here..."
+      "<DBAF43F0>": "Our target is..."
     },
     {
       "$id": 45,
       "<8C7DD24D>": "<692E8B5E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "is that lame duck."
+      "<DBAF43F0>": "...that deadweight."
     },
     {
       "$id": 46,
       "<8C7DD24D>": "<C9FFB6CB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Joran?! But he's bottom of the class."
+      "<DBAF43F0>": "Joran?! But he's at the bottom of the class rankings!"
     },
     {
       "$id": 47,
       "<8C7DD24D>": "<9149ACC2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Why bother?"
+      "<DBAF43F0>": "Why him?"
     },
     {
       "$id": 48,
       "<8C7DD24D>": "<6EFF8205>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Thing is, the brat's still a decent Healer."
+      "<DBAF43F0>": "But his healing ability is the real deal."
     },
     {
       "$id": 49,
       "<8C7DD24D>": "<42F680E3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Get it?"
+      "<DBAF43F0>": "That's why."
     },
     {
       "$id": 50,
       "<8C7DD24D>": "<8FC194FB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ahh, right. So we're playing by the book here."
+      "<DBAF43F0>": "I see. So we're going by the book."
     },
     {
       "$id": 51,
       "<8C7DD24D>": "<75BC157C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Pisses me off,"
+      "<DBAF43F0>": "Pisses me off, but yeah."
     },
     {
       "$id": 52,
       "<8C7DD24D>": "<72379563>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "but the fight'll be good as won!"
+      "<DBAF43F0>": "And with that, we'll finish this in one go."
     },
     {
       "$id": 53,
       "<8C7DD24D>": "<FDF313D6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yeah!"
+      "<DBAF43F0>": "Ooh!"
     },
     {
       "$id": 54,
       "<8C7DD24D>": "<960D9F2C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yeah!"
+      "<DBAF43F0>": "Ooh!"
     },
     {
       "$id": 55,
       "<8C7DD24D>": "<910D85B6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yeah!"
+      "<DBAF43F0>": "Ooh!"
     },
     {
       "$id": 56,
       "<8C7DD24D>": "<05190BE5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Eunie! Take out Kite!"
+      "<DBAF43F0>": "Eunie, take out Kite!"
     },
     {
       "$id": 57,
       "<8C7DD24D>": "<79DC9257>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Can't! They've got the advantage,\nAND they're behind cover!"
+      "<DBAF43F0>": "I can't. They got the drop on me, and he's behind cover."
     },
     {
       "$id": 58,
       "<8C7DD24D>": "<56DE4225>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Noah! Can we flank 'em?"
+      "<DBAF43F0>": "Noah, can you get around them?"
     },
     {
       "$id": 59,
       "<8C7DD24D>": "<64E3398F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Noah!"
+      "<DBAF43F0>": "Noah?"
     },
     {
       "$id": 60,
       "<8C7DD24D>": "<6A2B3B6D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They're not in their usual formation..."
+      "<DBAF43F0>": "Something's strange about Gessel's team's movements..."
     },
     {
       "$id": 61,
       "<8C7DD24D>": "<292FE15C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Wait, what?"
+      "<DBAF43F0>": "What do you mean?"
     },
     {
       "$id": 62,
       "<8C7DD24D>": "<4AEA43A7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](gasp)"
+      "<DBAF43F0>": "[ML:undisp ]!!"
     },
     {
       "$id": 63,
       "<8C7DD24D>": "<8341660B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We're snuffed!"
+      "<DBAF43F0>": "We fell for it!"
     },
     {
       "$id": 64,
       "<8C7DD24D>": "<118A5CE6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Kite's just a decoy!"
+      "<DBAF43F0>": "Kite was the decoy!"
     },
     {
       "$id": 65,
       "<8C7DD24D>": "<861C42D4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So they're really after-"
+      "<DBAF43F0>": "Their real target is—"
     },
     {
       "$id": 66,
       "<8C7DD24D>": "<78C9253A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](exasperated tut)"
+      "<DBAF43F0>": "[ML:undisp ]Tch!!"
     },
     {
       "$id": 67,
       "<8C7DD24D>": "<A72179B1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](gasp)"
+      "<DBAF43F0>": "[ML:undisp ]!!"
     },
     {
       "$id": 68,
       "<8C7DD24D>": "<AEEF8A78>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](reaction, knocked down)"
+      "<DBAF43F0>": "[ML:undisp ]Uwaaah!"
     },
     {
       "$id": 69,
       "<8C7DD24D>": "<4C9456C9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Quick thinking, Lanz!"
+      "<DBAF43F0>": "Sharp instincts, Lanz."
     },
     {
       "$id": 70,
       "<8C7DD24D>": "<270DD8E7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Grr..."
+      "<DBAF43F0>": "[ML:undisp ]Kuh!"
     },
     {
       "$id": 71,
       "<8C7DD24D>": "<441ADC0A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](exert, straining)"
+      "<DBAF43F0>": "[ML:undisp ]Gngh!"
     },
     {
       "$id": 72,
       "<8C7DD24D>": "<E9B97D0D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(gasp) Lanz?!"
+      "<DBAF43F0>": "L-Lanz?!"
     },
     {
       "$id": 73,
       "<8C7DD24D>": "<2AAA0EB8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](exert, further straining)"
+      "<DBAF43F0>": "[ML:undisp ]Guuh... HRAAAGH!!"
     },
     {
       "$id": 74,
       "<8C7DD24D>": "<C31E8E18>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Tough guy!"
+      "<DBAF43F0>": "But..."
     },
     {
       "$id": 75,
       "<8C7DD24D>": "<662D3A41>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But ya can't hold out forever."
+      "<DBAF43F0>": "...how long can you hold out?"
     },
     {
       "$id": 76,
       "<8C7DD24D>": "<66FF9A7B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](exerts, confident and intimidating)"
+      "<DBAF43F0>": "C'mon, c'mon, c'mon!"
     },
     {
       "$id": 77,
       "<8C7DD24D>": "<28D5224A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Damn!"
+      "<DBAF43F0>": "Dammit!"
     },
     {
       "$id": 78,
       "<8C7DD24D>": "<BE78CCAE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](dodging adlib)"
+      "<DBAF43F0>": "(Dodging ad-lib)"
     },
     {
       "$id": 79,
@@ -492,103 +492,103 @@
       "$id": 80,
       "<8C7DD24D>": "<97A0DD99>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](exert, strain)"
+      "<DBAF43F0>": "[ML:undisp ]Guh!"
     },
     {
       "$id": 81,
       "<8C7DD24D>": "<E2D09E84>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Lanz...!"
+      "<DBAF43F0>": "L-Lanz...!"
     },
     {
       "$id": 82,
       "<8C7DD24D>": "<BE346063>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Rrgh...! You stay put..."
+      "<DBAF43F0>": "D-Don't... move..."
     },
     {
       "$id": 83,
       "<8C7DD24D>": "<884C948A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They wanna take you outta the running!"
+      "<DBAF43F0>": "You're the one they're after!"
     },
     {
       "$id": 84,
       "<8C7DD24D>": "<BB24E5C3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](exert, fierce attack)"
+      "<DBAF43F0>": "[ML:undisp ]Hraah!"
     },
     {
       "$id": 85,
       "<8C7DD24D>": "<B9F62E5E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](exert, strain)"
+      "<DBAF43F0>": "[ML:undisp ]Guuh!"
     },
     {
       "$id": 86,
       "<8C7DD24D>": "<5A986B64>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yeah, but...!"
+      "<DBAF43F0>": "B-But...!"
     },
     {
       "$id": 87,
       "<8C7DD24D>": "<5EA6F229>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Don't you leave that snuffing spot!"
+      "<DBAF43F0>": "I told you not to move!"
     },
     {
       "$id": 88,
       "<8C7DD24D>": "<1745B587>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](pathetic shriek)"
+      "<DBAF43F0>": "[ML:undisp ]!!"
     },
     {
       "$id": 89,
       "<8C7DD24D>": "<7F7ECC10>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](pained exert, taking a hit)"
+      "<DBAF43F0>": "[ML:undisp ]Guwah!"
     },
     {
       "$id": 90,
       "<8C7DD24D>": "<3E3BCE6E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](worried breath)"
+      "<DBAF43F0>": "[ML:undisp ]Uuh..."
     },
     {
       "$id": 91,
       "<8C7DD24D>": "<7ED25CA7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Why would you..."
+      "<DBAF43F0>": "F-For my sake...?"
     },
     {
       "$id": 92,
       "<8C7DD24D>": "<D8A8396E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](surprised react)"
+      "<DBAF43F0>": "[ML:undisp ]Wha-!?"
     },
     {
       "$id": 93,
       "<8C7DD24D>": "<7E1311CC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](dodging adlib)"
+      "<DBAF43F0>": "(Dodging ad-lib)"
     },
     {
       "$id": 94,
       "<8C7DD24D>": "<FCFFD8A7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "All that I am..."
+      "<DBAF43F0>": "I'll give you..."
     },
     {
       "$id": 95,
       "<8C7DD24D>": "<81678EA0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "is yours!"
+      "<DBAF43F0>": "...everything I have."
     },
     {
       "$id": 96,
       "<8C7DD24D>": "<697231F3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Now...you can carry on..."
+      "<DBAF43F0>": "P-Please... fight with this."
     },
     {
       "$id": 97,
@@ -600,7 +600,7 @@
       "$id": 98,
       "<8C7DD24D>": "<01E9466A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You shoulda done that much sooner!"
+      "<DBAF43F0>": "You just saved me the trouble."
     }
   ]
 }

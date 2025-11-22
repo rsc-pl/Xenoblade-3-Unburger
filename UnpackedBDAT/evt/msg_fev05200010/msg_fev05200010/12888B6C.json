@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did we hear from Monica?"
+      "<DBAF43F0>": "Did we get a transmission from Monica?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah. The ship's ready."
+      "<DBAF43F0>": "Yeah. She says the ship is ready."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The ship's ready."
+      "<DBAF43F0>": "The ship's preparations are complete."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mr. Samon must have\npulled an all-nighter."
+      "<DBAF43F0>": "Samon-san...\nhe really worked through the night for us."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's all going to kick off soon."
+      "<DBAF43F0>": "That means the operation\ncan start any time now, right?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Our preparations should also\nbe complete. Let's rendezvous\nwith Mr. Samon at the port."
+      "<DBAF43F0>": "Our preparations are flawless.\nLet's head for the port where Samon-san is."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's."
+      "<DBAF43F0>": "Right."
     }
   ]
 }

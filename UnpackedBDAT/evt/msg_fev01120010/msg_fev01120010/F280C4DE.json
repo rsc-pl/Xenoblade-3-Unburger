@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Hey! Check it out!"
+      "<DBAF43F0>": "Hey, look!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The spearhead squad."
+      "<DBAF43F0>": "It's the squad that went ahead of us."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh, Volffs?"
+      "<DBAF43F0>": "Volffs?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They're not much of an enemy if\nyou take 'em on one at a time.\nStill..."
+      "<DBAF43F0>": "They aren't much of an\nopponent one-on-one, but..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The main objective of the op is still ahead.\nIf these guys've hit an impasse, we ought\nto help them."
+      "<DBAF43F0>": "The real operation is still ahead of us.\nIf they're being held up, we should help."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I thought you'd say something like that."
+      "<DBAF43F0>": "I thought you'd say that."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey! You lot!"
+      "<DBAF43F0>": "! You guys...!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hang tight, we'll back you up!"
+      "<DBAF43F0>": "We'll back you up!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nice! Together, we'll take\nthem out in no time."
+      "<DBAF43F0>": "Yeah. Let's take them down quickly."
     }
   ]
 }

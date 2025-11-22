@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We should check the route data again.\nMake sure we're on the right path."
+      "<DBAF43F0>": "Let's re-confirm the route."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're on course for Swordmarch."
+      "<DBAF43F0>": "Regarding the route to Swordmarch..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But first we'll need to take the\nsouth-east road through Ribbi Flats."
+      "<DBAF43F0>": "First, we'll proceed along the path\nthat cuts southeast from\nthe Ribbi Flats ahead."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, yes. That's the route that Ethel\nrecommended."
+      "<DBAF43F0>": "That's the route Ethel recommended, yeah?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Correct."
+      "<DBAF43F0>": "Yes."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She said the battlefronts are pretty static\nat the moment. But do we have any intel\nabout colony deployment?"
+      "<DBAF43F0>": "She said the front lines are\nrelatively stable, but do we have any\ninformation on the colonies deployed there?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As far as Ethel and Colony 4 is concerned,\nwe've got a pretty good idea... But what\nabout any others?"
+      "<DBAF43F0>": "We hear things about places\nlike Ethel's Colony 4, but..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wouldn't expect any shenanigans\nall the way out here..."
+      "<DBAF43F0>": "when it comes to all the\nway out here... well..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In any case, we mustn't let our\nguard down along the way."
+      "<DBAF43F0>": "In any case, we have no choice\nbut to proceed with caution."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Danger could be lurking anywhere in\nthe background, so insecurity stalks us...\nNot much we can do about that though."
+      "<DBAF43F0>": "The high risk of being put on the defensive\nis somewhat concerning,\nbut it cannot be helped."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, c'mon man. We'll muddle through."
+      "<DBAF43F0>": "Eh, it'll work out somehow."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's hope so."
+      "<DBAF43F0>": "Hah... Let us hope that is the case."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, I mean, if we run into another colony,\nit isn't necessarily a bad thing."
+      "<DBAF43F0>": "But... I don't think encountering\na colony is necessarily a bad thing."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uhh... Are you sure about that?"
+      "<DBAF43F0>": "Whoa, whoa..."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It doesn't matter if we run into Agnus\nor Keves. Either one would mean getting\ninto a dust-up."
+      "<DBAF43F0>": "We'll get into a fight whether we run\ninto the Kevesi army or the Agnian army,\nyou know?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "True, but what I meant was... If we\ndestroyed their Flame Clock, we'd set\neveryone free, like we did for Colony 4."
+      "<DBAF43F0>": "But if we destroy their Flame Clock,\nwe can free everyone from the fighting,\njust like with Colony 4."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Easy to say..."
+      "<DBAF43F0>": "Yeah, but..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, sure, I mean...if conditions allow it."
+      "<DBAF43F0>": "Depending on the circumstances, that is."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we're \"brushing off embers\",\nwe'll have no choice in the matter."
+      "<DBAF43F0>": "If it is a matter of\n\"brushing off the sparks that fall on us,\"\nthen it cannot be helped."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...That's right."
+      "<DBAF43F0>": "...You're right."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, maybe it's better if we put off\nworrying about that until the time comes."
+      "<DBAF43F0>": "Well, ain't that the kinda thing we\ncan just figure out when we find one?"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eunie's speaking sense there."
+      "<DBAF43F0>": "That's also true."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "True. We can just react to events\nas they happen. Play it by ear."
+      "<DBAF43F0>": "Let's adapt to the situation as it unfolds."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gotcha! I'll apply myself to that!"
+      "<DBAF43F0>": "Got it! I'll do my best!"
     }
   ]
 }

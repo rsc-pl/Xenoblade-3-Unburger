@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK!\nTime to hit the sack, maybe?"
+      "<DBAF43F0>": "Alright... Let's call it a night."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Rest in your tent?"
+      "<DBAF43F0>": "Rest in the barracks?"
     },
     {
       "$id": 3,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure, let's do it."
+      "<DBAF43F0>": "Yeah, let's."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Rest to max!\nResting very serious business."
+      "<DBAF43F0>": "Make sure you get a proper rest, mo."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Indeed."
+      "<DBAF43F0>": "Yeah."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Actually, I need to take care\nof some things. Eunie, you and\nthe others go ahead and rest."
+      "<DBAF43F0>": "There's still something I need to do.\nEunie, you guys go on ahead and rest."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I got a few loose ends to tie up too.\nLet's hang together for a bit, huh?"
+      "<DBAF43F0>": "I've got maintenance and stuff to do, too.\nI can keep you company for a bit."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's not take too long, OK, guys?"
+      "<DBAF43F0>": "Just finish up quickly, alright?"
     }
   ]
 }

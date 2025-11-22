@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Our mission objective lies in Alfeto Valley."
+      "<DBAF43F0>": "Our mission is to investigate the mysterious\nether source said to be appearing\nin Alfeto Valley..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "An unidentified ether source has\nbeen reported. We are tasked with\nsurveying it and destroying it."
+      "<DBAF43F0>": "and to destroy it."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Waypoint marked out on map now.\nPlease to have look at waypoint on map!"
+      "<DBAF43F0>": "The operation point has been marked, mo.\nPlease check the map, mo."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The advance party should have already\narrived at the planned contact point."
+      "<DBAF43F0>": "The advance unit should have already\narrived at the expected contact point."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's time we headed out too, then!"
+      "<DBAF43F0>": "It's about time we headed out, too."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's get the snuff out of here."
+      "<DBAF43F0>": "Yeah."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A royal decree, eh?\nI don't know about all this..."
+      "<DBAF43F0>": "I don't know or care if this is\na direct order from the Castle,"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But let's get out there and square it away\nas quick as we can!"
+      "<DBAF43F0>": "let's just get this over with quickly."
     }
   ]
 }

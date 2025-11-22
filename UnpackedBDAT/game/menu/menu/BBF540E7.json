@@ -90,7 +90,7 @@
       "$id": 13,
       "<8C7DD24D>": "<D9386E65>",
       "<554EE944>": 44,
-      "<DBAF43F0>": "Use Edge Thrust from\nbehind the enemy"
+      "<DBAF43F0>": "Use Thrust Edge from\nbehind the enemy"
     },
     {
       "$id": 14,
@@ -132,7 +132,7 @@
       "$id": 20,
       "<8C7DD24D>": "<D6879F03>",
       "<554EE944>": 44,
-      "<DBAF43F0>": "Edge Thrust from behind"
+      "<DBAF43F0>": "Thrust Edge from behind"
     },
     {
       "$id": 21,
@@ -1512,7 +1512,7 @@
       "$id": 250,
       "<8C7DD24D>": "<6557E725>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Noah is an off-seer, a soldier who helps the fallen pass\non. Sending off any husks you find on the field will\nbuild your affinity with the colonies they belonged to."
+      "<DBAF43F0>": "Noah is an Sender, a soldier who helps the fallen pass\non. Sending off any husks you find on the field will\nbuild your affinity with the colonies they belonged to."
     },
     {
       "$id": 251,
@@ -1590,7 +1590,7 @@
       "$id": 263,
       "<8C7DD24D>": "<B26C2F38>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Each Ferronis Hulk has a Fabricator nearby, which can be\nmade to manufacture collectibles by spending G. They\ncan make very rare and difficult-to-acquire items."
+      "<DBAF43F0>": "Each Iron Giant Hulk has a Fabricator nearby, which can be\nmade to manufacture collectibles by spending G. They\ncan make very rare and difficult-to-acquire items."
     },
     {
       "$id": 264,
@@ -2094,19 +2094,19 @@
       "$id": 347,
       "<8C7DD24D>": "<4BBE2FE6>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Rebooting Ferronis Hulks"
+      "<DBAF43F0>": "Rebooting Iron Giant Hulks"
     },
     {
       "$id": 348,
       "<8C7DD24D>": "<BF281727>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Throughout Aionios, you will find decrepit Ferronis hulks\nlying around. They can be rebooted with the use of some\nether cylinders."
+      "<DBAF43F0>": "Throughout Aionios, you will find decrepit Iron Giant hulks\nlying around. They can be rebooted with the use of some\nether cylinders."
     },
     {
       "$id": 349,
       "<8C7DD24D>": "<62DC4BED>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "A rebooted Ferronis can manufacture items with its\nFabricator. It will also have containers which conceal\nhard-to-get items, and can even be used as a rest spot."
+      "<DBAF43F0>": "A rebooted Iron Giant can manufacture items with its\nFabricator. It will also have containers which conceal\nhard-to-get items, and can even be used as a rest spot."
     },
     {
       "$id": 350,
@@ -6972,7 +6972,7 @@
       "$id": 1160,
       "<8C7DD24D>": "<CEC88B68>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Using Edge Thrust from behind an enemy deals much\nmore damage than usual, so take full advantage of this."
+      "<DBAF43F0>": "Using Thrust Edge from behind an enemy deals much\nmore damage than usual, so take full advantage of this."
     },
     {
       "$id": 1161,

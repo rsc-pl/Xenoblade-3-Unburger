@@ -36,49 +36,49 @@
       "$id": 4,
       "<8C7DD24D>": "<9D682F88>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm gonna go on ahead."
+      "<DBAF43F0>": "I'm going to head out first."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<4E573B70>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We got a call - Martha's team\nhas a spot free, 'pparently."
+      "<DBAF43F0>": "A transmission came in. Said there's an opening on Martha's team."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<7ACE5FF4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ah. Right."
+      "<DBAF43F0>": "Oh... I see."
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<2BB0DD00>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Do me a favor?"
+      "<DBAF43F0>": "When this is over, I've got a favor to ask."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<5D71AD66>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Come along with me. To the office."
+      "<DBAF43F0>": "Come with me to the Commander's office."
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<D37431D8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "When you apply?"
+      "<DBAF43F0>": "To put in your application?"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<F64935C0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Got it."
+      "<DBAF43F0>": "Understood."
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<1B8B6DF5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The commander can be...intense."
+      "<DBAF43F0>": "The Commander is pretty intense, mo."
     },
     {
       "$id": 12,
@@ -90,13 +90,13 @@
       "$id": 13,
       "<8C7DD24D>": "<1D280B0A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Later!"
+      "<DBAF43F0>": "Later."
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<2BD89F61>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](pensive exhalation)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1][ML:line len=1]"
     }
   ]
 }

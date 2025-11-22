@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey! Over there!"
+      "<DBAF43F0>": "Hey, over there."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we set up camp there, we'll have good\nvisibility. Think it's time we took a break?"
+      "<DBAF43F0>": "If we set up over there,\nwe'll have a good view.\nHow about we take a break?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Riku, for one, want to rest, anyway!"
+      "<DBAF43F0>": "Riku wants to take a break too, mo."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Relentless walking has left legs\nlike numbed-out sausages..."
+      "<DBAF43F0>": "I'm starting to lose the feeling\nin my feet from walking non-stop, mo..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sausages indeed! Mealtime is here!"
+      "<DBAF43F0>": "It's about time for a meal, desu mo!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sounds good."
+      "<DBAF43F0>": "You're right."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's go for it, I say.\nShould we rest in shifts?"
+      "<DBAF43F0>": "This is a good time. Shall we rest in shifts?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can take sentry duty first."
+      "<DBAF43F0>": "I'll take the first watch."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, Mio-chan! Let me back you up on that!"
+      "<DBAF43F0>": "Oh! I'll do it with Mio-chan, too!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK!"
+      "<DBAF43F0>": "Understood."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then let's take a break there."
+      "<DBAF43F0>": "Then let's take a rest\nover there for a while."
     }
   ]
 }

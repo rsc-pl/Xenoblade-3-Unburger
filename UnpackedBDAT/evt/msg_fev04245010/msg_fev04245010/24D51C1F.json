@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Er, are we really going this way?"
+      "<DBAF43F0>": "Hey... are we really going to cross here...?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can't see any other way\nto the Castle, can you?"
+      "<DBAF43F0>": "There wasn't any other path that\nlooked like it led to the Castle, was there?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't want to drag our feet getting there.\nBe careful crossing though, yeah?"
+      "<DBAF43F0>": "I want to get there as quickly as possible.\nIn any case, let's be careful crossing."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you joking me."
+      "<DBAF43F0>": "Ugh... Seriously...?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Afraid of heights, huh?"
+      "<DBAF43F0>": "Are you bad with heights?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not afraid as such, but if we fell\nfrom here, we'd, like, die? Instantly?!"
+      "<DBAF43F0>": "This isn't on the level of just being 'bad'\nwith them! If you fall from here, it's\ninstant death, you know!?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If Manana think something tasty waiting on\nother side, then Manana can be brave."
+      "<DBAF43F0>": "Let's do our best by thinking of all\nthe delicious things waiting on\nthe other side, desu mo!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we can make it across, we'll\nalmost be out of Morukuna Wildwood."
+      "<DBAF43F0>": "If we cross here,\nwe'll be out of Morukuna Wildwood soon."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just one more hop to Keves Castle."
+      "<DBAF43F0>": "That means we're just one last push\naway from Keves Castle, right?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll probably have quite a\ngood view of it from over there."
+      "<DBAF43F0>": "We might even get a good view\nof the Castle from over there."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Fine, fine, I get it!\nLet's just get this over with!"
+      "<DBAF43F0>": "Alright, I get it!! Come on, let's go!!"
     }
   ]
 }

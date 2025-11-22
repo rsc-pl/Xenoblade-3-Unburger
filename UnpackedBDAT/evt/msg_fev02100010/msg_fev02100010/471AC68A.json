@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ooh... That felt great!"
+      "<DBAF43F0>": "Aaaah, that felt great!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How are you feeling, Mio?"
+      "<DBAF43F0>": "Mio, how are you feeling?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Great, since I cooled off in the lake."
+      "<DBAF43F0>": "I feel much better since\nI was able to cool off in the lake."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Glad to hear it."
+      "<DBAF43F0>": "I'm glad."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I worked up a chonkin' appetite\nwith all that moving about."
+      "<DBAF43F0>": "All that moving around made me hungry."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sure we still have some rations left.\nGrab some after you've rested."
+      "<DBAF43F0>": "We should still have some rations left.\nAfter we've rested a bit..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is turning into quite the leisurely\npleasure cruise, isn't it...?"
+      "<DBAF43F0>": "Hah... this is shaping up to\nbe quite a leisurely journey."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, man. I seem to remember you\nagreeing to have a rest at the oasis too."
+      "<DBAF43F0>": "You agreed to resting at\nthe oasis too, didn't you?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure. I adjudged it necessary to take\na short break and check the route."
+      "<DBAF43F0>": "I judged it was necessary in\norder to rest and confirm our route."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Taion... C'mon, take a dip. Cool off that\noverheated cranium of yours."
+      "<DBAF43F0>": "Well then, you should've gone\nfor a swim and cooled your head off a little."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't think so. Even in a highly open\ndesert locale with good sight-lines like this,\nwe must maintain a lookout at all times."
+      "<DBAF43F0>": "Even if we are in the middle of a desert with\na clear view, it's far too defenseless to\nhave no one on watch."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah... I guess you're right."
+      "<DBAF43F0>": "Ah... you're right."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey... Thanks. I can go on, because of you."
+      "<DBAF43F0>": "Thank you.\nThanks to you, I feel like I can walk again."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In fact, you've helped me out a lot of\ntimes since we joined forces, Taion."
+      "<DBAF43F0>": "Taion, you've helped me so many\ntimes since we became a team."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, dude. If it wasn't for you,\nI don't know if I'd still be here in\none piece."
+      "<DBAF43F0>": "Yeah. If Taion wasn't here,\nwe might not have made it this far alive."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's what I'm here for. To determine\nthe best course of action, tactically and\nstrategically."
+      "<DBAF43F0>": "Devising the best strategy is my role."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, Taion. Do you think you could tell us\nthe way out of this desert, then?"
+      "<DBAF43F0>": "Taion, could you tell us\nthe route out of this desert?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Naturally."
+      "<DBAF43F0>": "Of course."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We bear further south, into the Ribbi Flats."
+      "<DBAF43F0>": "From here, we'll continue further south.\nFirst, I want to reach the Ribbi Flats."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sounds like another massive hike, on foot."
+      "<DBAF43F0>": "Looks like we have\na lot more walking ahead of us."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we've got so much walking through the\nwilds ahead of us, why don't we make\ncamp here for the day?"
+      "<DBAF43F0>": "Hey, if we're just going to be walking\nthrough the wilderness for ages,\nwhy don't we make camp here for the night?"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Could probably do with topping up the\nwater supplies too, I reckon."
+      "<DBAF43F0>": "We don't know if we'll be able\nto secure water up ahead, after all."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not a terrible line of reasoning.\nHowever..."
+      "<DBAF43F0>": "There is certainly logic to that, but..."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Taion, we've been hiking through a wasteland\nfor a while. You need to rest, same as the rest\nof us. Didn't you admit as much just now?"
+      "<DBAF43F0>": "We've been walking non-stop since we entered\nthe wastes, you know. You yourself just said\nthat rest is necessary, Taion."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And what's more, I'm starving too!"
+      "<DBAF43F0>": "Oh, and besides!\nI'm starting to get hungry, too."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Haha! Attagirl!"
+      "<DBAF43F0>": "Mio-chan..."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Manana's tummy hear someone\ntalking about food."
+      "<DBAF43F0>": "Did I hear someone say\nthey were hungry, desu mo?"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Riku! Manana!\nWhere did you get to?"
+      "<DBAF43F0>": "Riku! Manana! Where have you two been?"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Went on little search for tasty treats."
+      "<DBAF43F0>": "We went to look for ingredients, mo."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Since we now at lush oasis, morsels\neven tastier than pack rations can be had!"
+      "<DBAF43F0>": "At an oasis, we can eat something\nother than field rations, desu mo."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tickle of tastebuds make chuckle\nin heart and soul! Good for morale,\ngood for mood!"
+      "<DBAF43F0>": "Eating delicious food will fill\nyou right up with energy, mo!"
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So Manana will keep eyes to ground\nin search of ever-tastier treats!"
+      "<DBAF43F0>": "And that is why Manana will\nnow present her specialty dish, desu mo!"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So you're gonna be cooking something up\nfor us, huh?"
+      "<DBAF43F0>": "What, you're going to cook for us?"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Correct muchly."
+      "<DBAF43F0>": "Yes, desu mo."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Manana's a total diva when it\ncomes to cuisine, I can confirm."
+      "<DBAF43F0>": "Manana's cooking is\nincredibly delicious, you know."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But-"
+      "<DBAF43F0>": "However..."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Planned cuisine take two hours to make.\nIn meanwhile, please endure hunger with\npatience, like well-behaved soldiers."
+      "<DBAF43F0>": "Well then, for the two hours it takes\nfor the meal to be ready, you must all wait\nlike good children, desu mo."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What the heck? Two hours?\nNothing's worth that kinda wait..."
+      "<DBAF43F0>": "Huh!? Two hours!?\nNo matter how you slice it,\nthat's way too long..."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "C'mon. All you need to do is chuck\na few ingredients in a pot. Is there\nreally that much to it?"
+      "<DBAF43F0>": "Cooking is just chucking\ningredients into a pot, isn't it?"
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meh! Such unkind and untrue words!"
+      "<DBAF43F0>": "Momo?! What are you saying, desu mo~~~!"
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Friends think food is nothing more\nthan fuel for furless meat sacks?!\nSuch rotten attitude!"
+      "<DBAF43F0>": "Is your way of thinking really\n\"as long as it becomes energy,\nanything is fine,\" desu mo?!"
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Manana can offer incredible tasty cuisine!\nNot simply chuck stuff in pot then deliver\nunceremoniously into mouth-hole!"
+      "<DBAF43F0>": "Manana refuses to just boil and eat something\nwhen she knows she can make\nit delicious, desu mo!!"
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Manana, would you like us to help you out\nwith the cooking? Then maybe it would get\nto our mouth-holes a bit faster."
+      "<DBAF43F0>": "Manana, could you let us help?\nI think we could make the food\nfaster that way."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meh meh!\nAcceptable."
+      "<DBAF43F0>": "Momomo... Understood, desu mo."
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But if friends want to help Manana\nin cooking duties, certain boundary\nmust be set."
+      "<DBAF43F0>": "However, if you wish to help Manana,\nthere is one thing I must state\nbeforehand, desu mo."
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tasting is 100% purview of Manana!"
+      "<DBAF43F0>": "The taste-testing is for Manana to do,\ndesu mo! You are absolutely, absolutely\nforbidden from doing it, desu mo!"
     }
   ]
 }

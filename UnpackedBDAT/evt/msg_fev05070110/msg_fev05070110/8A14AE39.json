@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can take the eyepatches off now.\nWon't need them past this point."
+      "<DBAF43F0>": "You don't need the eyepatches\nfrom this point on.\nYou can take them off now."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "O-oh, right... And you're sure about that?"
+      "<DBAF43F0>": "Oh... right... But is it safe?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The City's got some signal-jamming tech\nthat functions just like the eyepatches,\nblocking detection by Moebius."
+      "<DBAF43F0>": "The City is equipped with a mechanism,\njust like the eyepatches, that deceives\nMoebius's detection systems."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're safe inside. You have my word."
+      "<DBAF43F0>": "For now, it is safe inside. I guarantee it."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I suppose that must be the reason\nwhy they haven't been able to discover\nthe City thus far."
+      "<DBAF43F0>": "So that is the reason\nMoebius has yet to discover the City."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You got that right. This place is our last\nredoubt, and our sole haven in this world."
+      "<DBAF43F0>": "That's right. For us,\nthis place is our last fortress,\nand also our only haven."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But as soon as we step outside, Moebius\nare all over us, like a bad wool sweater."
+      "<DBAF43F0>": "However, the moment you step outside,\nyou are unavoidably exposed\nto the threat of Moebius."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So what I'm saying is, don't forget your\neyepatches when you're out and about.\nThat's all."
+      "<DBAF43F0>": "When the need arises,\ndo not forget your eyepatches.\nI am telling you this for your own sake."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I hear you, loud and clear. We'll remember."
+      "<DBAF43F0>": "...Understood. I'll remember that."
     }
   ]
 }
