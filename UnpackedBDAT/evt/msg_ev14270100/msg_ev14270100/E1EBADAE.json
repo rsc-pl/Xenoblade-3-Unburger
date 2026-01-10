@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<2D3D22F6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(panting)"
+      "<DBAF43F0>": "[ML:undisp ](heavy panting)"
     },
     {
       "$id": 2,
@@ -36,7 +36,7 @@
       "$id": 4,
       "<8C7DD24D>": "<C1AE8F6D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(horrified gasp)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!"
     },
     {
       "$id": 5,
@@ -48,7 +48,7 @@
       "$id": 6,
       "<8C7DD24D>": "<72014392>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I have chosen."
+      "<DBAF43F0>": "I choose."
     },
     {
       "$id": 7,
@@ -60,19 +60,19 @@
       "$id": 8,
       "<8C7DD24D>": "<2F4E6535>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Grandad...!"
+      "<DBAF43F0>": "Grandad...![ML:line len=1]"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<06AA4F5F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Take care of...Na'el..."
+      "<DBAF43F0>": "Look after Na'el...[ML:line len=1 ] the future...[ML:line len=1 ]"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<2CC4D944>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "the future..."
+      "<DBAF43F0>": "I'm entrusting them to you."
     },
     {
       "$id": 11,
@@ -84,13 +84,13 @@
       "$id": 12,
       "<8C7DD24D>": "<7B8D6074>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's in your hands, Matthew!"
+      "<DBAF43F0>": "It's up to you now, Matthew!"
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<00E88DC4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](pained scream)"
+      "<DBAF43F0>": "[ML:undisp ](A scream of agony and loss)"
     }
   ]
 }

@@ -18,37 +18,37 @@
       "$id": 1,
       "<8C7DD24D>": "<2F92C748>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](frustration, straining)"
+      "<DBAF43F0>": "[ML:undisp ]Ngh...![ML:line len=1 ]"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<B7E02AA4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "He's still standing...!"
+      "<DBAF43F0>": "Even after all that..."
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<FEE40CD5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "After all this?!"
+      "<DBAF43F0>": "he's still standing?"
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<4DEBECC6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Cheers to old Klaus..."
+      "<DBAF43F0>": "Old man Klaus..."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<A3656D34>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "His gifts just keep on giving...!"
+      "<DBAF43F0>": "some parting gift you left us.[ML:line len=1]"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<A9EDB97F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Stopping and bearing the brunt of Alpha's attack)"
+      "<DBAF43F0>": "[ML:undisp ](grunts, bracing against Alpha's assault)"
     },
     {
       "$id": 7,
@@ -60,7 +60,7 @@
       "$id": 8,
       "<8C7DD24D>": "<E6F8B8A9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If only *those two* were here..."
+      "<DBAF43F0>": "If only *those two* were here...[ML:line len=1]"
     },
     {
       "$id": 9,
@@ -72,7 +72,7 @@
       "$id": 10,
       "<8C7DD24D>": "<48F71A26>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Raise up your fists."
+      "<DBAF43F0>": "Raise your fists."
     },
     {
       "$id": 11,
@@ -84,25 +84,25 @@
       "$id": 12,
       "<8C7DD24D>": "<0C035261>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I will grant you the sword's power."
+      "<DBAF43F0>": "I'm giving you the power of [System:Ruby rt=this ]the Sword of the End[/System:Ruby]."
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<9DC54223>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Transfer it to your"
+      "<DBAF43F0>": "I'll transfer it into those..."
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<77466F83>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"Fists of the End\"."
+      "<DBAF43F0>": "\"Fists of the End\" of yours."
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<343E65CE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](shock)"
+      "<DBAF43F0>": "[ML:undisp ]!!"
     },
     {
       "$id": 16,
@@ -114,13 +114,13 @@
       "$id": 17,
       "<8C7DD24D>": "<AAA75740>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "No way...!"
+      "<DBAF43F0>": "No way...![ML:line len=1]"
     },
     {
       "$id": 18,
       "<8C7DD24D>": "<70D9874D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Drive it in!"
+      "<DBAF43F0>": "Strike now!"
     },
     {
       "$id": 19,
@@ -132,13 +132,13 @@
       "$id": 20,
       "<8C7DD24D>": "<C119C80F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Shut the hell up already!"
+      "<DBAF43F0>": "Quit your damn yelling!"
     },
     {
       "$id": 21,
       "<8C7DD24D>": "<42BAB6BD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I ain't taking orders..."
+      "<DBAF43F0>": "I don't take orders..."
     },
     {
       "$id": 22,
@@ -150,7 +150,7 @@
       "$id": 23,
       "<8C7DD24D>": "<1A2F9402>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Aaarrrggghhh!"
+      "<DBAF43F0>": "[ML:undisp ]Hraaaaaaah!"
     }
   ]
 }

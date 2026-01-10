@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, we made it. We should be\nsafe here for the time being."
+      "<DBAF43F0>": "Alright, we're here.\nFor now, it's safe."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can use that tent over there.\nWe've had it set up especially for you."
+      "<DBAF43F0>": "You can use the tent over there.\nI had it prepared for you."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you. We'll do just that."
+      "<DBAF43F0>": "Ah, we'll gratefully accept."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Phew... Be a nice change to\nfinally get to kip under a roof."
+      "<DBAF43F0>": "Phew...\nIt's been a while since I've slept\nwith a roof over my head."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Look, everyone here knows what's what.\nNobody's gonna bully you or anything."
+      "<DBAF43F0>": "I've explained the situation\nto the others here.\nIt's not like they're going to eat you."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Gee, thanks, very reassuring... Not."
+      "<DBAF43F0>": "...And you think I'd believe you\njust because you say that?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All right, break it up now. How about\nwe grab a bite and unwind, eh? Don't\nneed you running around hangry."
+      "<DBAF43F0>": "Just eat something and calm down.\nYou're hungry, aren't you?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm not really hungry..."
+      "<DBAF43F0>": "I'm not, particularly..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Try to get some rest.\nWe'll take the guard shifts."
+      "<DBAF43F0>": "You should get some rest for now.\nWe will stand watch."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll be departing for base in the morning.\nDon't go the whole night without sleep."
+      "<DBAF43F0>": "We leave for the main base in the morning.\nMake sure you're not still tired then."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Noted. All right then, we'll see you later."
+      "<DBAF43F0>": "See you then."
     }
   ]
 }

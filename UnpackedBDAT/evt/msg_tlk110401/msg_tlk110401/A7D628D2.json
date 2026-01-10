@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colony Sigma is defeated, but the\nFlame Clock hasn't increased much."
+      "<DBAF43F0>": "We beat Colony Sigma, but\nthe Flame Clock didn't go up by much."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You get into a fever pretty easy, huh?\nYou made light work of those Agnians\nwith the Levnis."
+      "<DBAF43F0>": "Eilis gets heated up pretty easily.\nMaybe she wiped out those Agnus soldiers\nwith her Levnis?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You won't feed the Flame Clock unless we\ntake 'em out with a Blade. Be careful, innit?"
+      "<DBAF43F0>": "You can't fill the Flame Clock unless\nyou defeat them with a Blade.\nBe careful."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Relax, I'm a cool-headed pilot - no hasty\ncoup de grâce from me. I deliver max pain\nand punishment and then stop just short!"
+      "<DBAF43F0>": "I am always a cool-headed pilot.\nI'm careful to just rough up the enemy\nwithout delivering the final blow!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, all right, if you say so..."
+      "<DBAF43F0>": "\"Cool-headed,\" huh..."
     }
   ]
 }

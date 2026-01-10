@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, thanks for what you did in\nthat battle. We couldn't have made\nit back without you."
+      "<DBAF43F0>": "Thanks for your help in that last battle.\nWe were able to come back because of your efforts."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I mean, four Levnises from Colony\nSigma? I had no idea how I was\ngoing to handle that."
+      "<DBAF43F0>": "We were attacked by four of\nColony Sigma's Levnises at once...\nWe were really in a bind."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We don't have a whole lot of Levnises\nat our colony... I get how it can be a\nproblem."
+      "<DBAF43F0>": "Our colony doesn't have many Levnises,\nso it can't be helped."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah... I wonder if we could get our\nhands on some reinforcements..."
+      "<DBAF43F0>": "Yeah.\nAh well, I wonder if we'll get any reinforcements."
     }
   ]
 }

@@ -18,25 +18,25 @@
       "$id": 1,
       "<8C7DD24D>": "<BA519582>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Knowing N is your family..."
+      "<DBAF43F0>": "N is your family."
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<D776311B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Still up to it?"
+      "<DBAF43F0>": "You think you can do this?"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<9B921DC5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Family? He killed Grandad."
+      "<DBAF43F0>": "He cut down my Grandad."
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<EA247F09>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "He's no family of mine."
+      "<DBAF43F0>": "That makes him nothing to me."
     },
     {
       "$id": 5,
@@ -48,43 +48,43 @@
       "$id": 6,
       "<8C7DD24D>": "<1A22F68A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Then I won't stop you."
+      "<DBAF43F0>": "Then I won't try to stop you."
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<AC73340F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Though..."
+      "<DBAF43F0>": "[ML:line len=1]But..."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<BC864087>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Huh?"
+      "<DBAF43F0>": "[ML:undisp ]?"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<147B0B36>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Listen to me. If you decide to hear his side of the story,\nbe sure to heed his words."
+      "<DBAF43F0>": "But if you decide to hear his side of the story,\nyou need to take it all in."
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<F50B4CF1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Once you do, you can judge for yourself."
+      "<DBAF43F0>": "Hear him out completely, and then you make the call."
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<7E31B322>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'll respect your choice."
+      "<DBAF43F0>": "I'll respect whatever you decide."
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<924C6CE5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](considering)"
+      "<DBAF43F0>": "[ML:line len=1 ][ML:undisp ]"
     }
   ]
 }

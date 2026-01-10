@@ -18,37 +18,37 @@
       "$id": 1,
       "<8C7DD24D>": "<CA277210>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(Let us away...)"
+      "<DBAF43F0>": "Let us go...[ML:line len=1]"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<4E4C8C7E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(Towards a new world...)"
+      "<DBAF43F0>": "To a new world.[ML:line len=1]"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<9C41E4FF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(Out with the old.\nAnd in once more with the new...)"
+      "<DBAF43F0>": "Abandon the old things, and be with the new...[ML:line ]"
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<1C475DFE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](surprise at sound of explosions)"
+      "<DBAF43F0>": "[ML:undisp ](gasps at the sound of an explosion)"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<BF8D288B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](bursting into a run)"
+      "<DBAF43F0>": "[ML:undisp ](starts running)"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<07655B49>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](horror at seeing City in flames)"
+      "<DBAF43F0>": "[ML:undisp ](stares in horror at the burning City)"
     }
   ]
 }

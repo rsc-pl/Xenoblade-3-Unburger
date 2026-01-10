@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've just reported what happened with\nJango and the others to the colony."
+      "<DBAF43F0>": "I just reported about Jango and the others\nto the colony via my Iris."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You lot are headed for Alfeto Valley,\nright? If you get in a tight spot, just\nhit me up over your Iris, OK?"
+      "<DBAF43F0>": "You all are heading to Alfeto Valley, right?\nIf there's an emergency,\nbe sure to call me on the Iris."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you. But I think that area might\nbe enveloped in black fog..."
+      "<DBAF43F0>": "Thank you.\nBut there might be black fog\nover there..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The black fog...! Ugh, yeah, that'll\nspell trouble for communications..."
+      "<DBAF43F0>": "Black fog...! The stuff that causes\ncommunication interference so you can't get in touch..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then it's going to be tough indeed.\nBest keep your wits about you!"
+      "<DBAF43F0>": "It's going to be rough, but\nplease, be careful."
     }
   ]
 }

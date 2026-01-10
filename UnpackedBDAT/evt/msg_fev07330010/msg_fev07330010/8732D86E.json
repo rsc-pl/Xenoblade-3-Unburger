@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Z's waiting for us beyond here."
+      "<DBAF43F0>": "Z is just ahead."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Finally, we can wallop\nsome sense into him."
+      "<DBAF43F0>": "Finally, we can give him a good thrashing."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's no turning back once we\nproceed past this point."
+      "<DBAF43F0>": "If we proceed beyond this point,\nthere's no turning back."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are we all ready?"
+      "<DBAF43F0>": "Is everyone ready?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Go through the door?"
+      "<DBAF43F0>": "Proceed through the door?"
     },
     {
       "$id": 6,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Come on. Let's go."
+      "<DBAF43F0>": "Yes. Let's go."
     }
   ]
 }

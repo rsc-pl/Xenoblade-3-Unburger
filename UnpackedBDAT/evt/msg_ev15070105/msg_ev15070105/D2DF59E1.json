@@ -24,43 +24,43 @@
       "$id": 2,
       "<8C7DD24D>": "<4E6D97A3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Your actions have made the future uncertain."
+      "<DBAF43F0>": "With this, the future has become uncertain."
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<6657653E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Have you no regrets?"
+      "<DBAF43F0>": "Do you have no regrets?"
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<6F9005DC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Given a choice of this magnitude...\nSurely...there is doubt."
+      "<DBAF43F0>": "To make such a choice... you feel no regret?[ML:line len=1]"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<3CC14AC5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh believe me, got 'em in spades."
+      "<DBAF43F0>": "Regrets? Hell, I live with 'em."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<902D717C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's why we move forward,"
+      "<DBAF43F0>": "That's how we keep moving forward."
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<0208A5E1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "always ahead..."
+      "<DBAF43F0>": "That's how it's always been.[ML:line len=1]"
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<EB2C93AE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](silence)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
     },
     {
       "$id": 9,
@@ -72,7 +72,7 @@
       "$id": 10,
       "<8C7DD24D>": "<6A5D0599>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Alpha..."
+      "<DBAF43F0>": "Alpha.[ML:line len=1]"
     }
   ]
 }

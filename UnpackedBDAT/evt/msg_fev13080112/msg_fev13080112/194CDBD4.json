@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You all done then?"
+      "<DBAF43F0>": "...Are you finished?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Continue with the rest of the tour?"
+      "<DBAF43F0>": "Have Panacea resume the tour?"
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure. Sorry you had to wait."
+      "<DBAF43F0>": "Yeah. Sorry to keep you waiting."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK. Then let's move swiftly on.\nFollow me."
+      "<DBAF43F0>": "Alright, let's go to the next place.\nFollow me."
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uhh, sorry, I think there's something\nthat I wanted to check first."
+      "<DBAF43F0>": "Ah, sorry.\nThere are some other places I want to see..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "(sigh) Fine then, off you go.\nBut don't take too long."
+      "<DBAF43F0>": "Haaah... then go look, and make it quick.\nI'll be waiting."
     }
   ]
 }

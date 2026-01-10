@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Our destination for this mission is\nAlfeto Valley. It's still a ways away\nfrom here, though."
+      "<DBAF43F0>": "The next mission is in Alfeto Valley.\nIt's a bit of a long way..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a tough trek for a Levnis. You sure\nyour ether cylinders are gonna last the\nway?"
+      "<DBAF43F0>": "That's a tough distance to go by Levnis.\nEven if we make it, will the ether cylinders\nlast?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "With these new Levnises, we should be\njust dandy. That's exactly why they sent 'em,\nI imagine."
+      "<DBAF43F0>": "The new Levnises will be fine.\nThey were probably deployed for this very reason."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gotcha. Just the kind of big-gun\nsupport you'd expect for a royally-\ndecreed mission, huh?"
+      "<DBAF43F0>": "I see.\nJust as expected of a mission by\nCastle decree..."
     }
   ]
 }

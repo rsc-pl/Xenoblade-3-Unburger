@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Morning, all. Feeling refreshed\nand ready to take on the world?"
+      "<DBAF43F0>": "Good morning.\nDid you get some rest?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, thanks to you guys.\nHaven't slept this well in ages."
+      "<DBAF43F0>": "Yeah, thanks to you.\nI slept soundly\nfor the first time in a while."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't mention it. It's gonna be\nquite a trek to our base, though."
+      "<DBAF43F0>": "Glad to hear it.\nWe still have a long way to go to our base."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, speaking of, where\nis this base of yours exactly?"
+      "<DBAF43F0>": "The Liberators' base, huh...?\nWhereabouts is it?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Once we climb that cliff and follow the road,\nyou'll be able to see for yourself."
+      "<DBAF43F0>": "Climb that cliff over there,\nand you'll see it if you\njust follow the path."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh, sweet! Can't wait to see what it's like.\nHow 'bout you, Kagiroi?"
+      "<DBAF43F0>": "Ooh...\nI'm excited to see what\nkind of place it is, Kagiroi."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Not interested."
+      "<DBAF43F0>": "...I'm not interested."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahahah, still being a sulk, eh?"
+      "<DBAF43F0>": "Hahaha, you're as stubborn as ever."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm...a little curious, I think."
+      "<DBAF43F0>": "I'm... a little excited, I guess."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, attaboy, Nikol!\nSee that, Kagiroi? You could\nstand to learn from this one."
+      "<DBAF43F0>": "Oh, right, Nikol?!\nKagiroi's just no fun, is she?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Can someone shut this guy up?"
+      "<DBAF43F0>": "...This guy is so annoying."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...He'll grow on you."
+      "<DBAF43F0>": "...You get used to it."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We have some refugees from the City,\nby the way, back at base."
+      "<DBAF43F0>": "There are people who evacuated from\nthe City at the base as well."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You should let them know you're fine\nonce we've arrived. I'm sure they'll\nappreciate it."
+      "<DBAF43F0>": "You should let them know\nyou're safe when we arrive.\nI'm sure they'll be happy."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I'll be sure to do that. Thanks."
+      "<DBAF43F0>": "Yeah.\nI'll be sure to do that."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All right, we all done with the banter?\nThis road's not gonna walk itself."
+      "<DBAF43F0>": "Alright, that's enough chatting.\nLet's get moving."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, let's make tracks!"
+      "<DBAF43F0>": "Yeah!"
     }
   ]
 }

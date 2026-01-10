@@ -18,43 +18,43 @@
       "$id": 1,
       "<8C7DD24D>": "<180CE76A>",
       "<554EE944>": 170,
-      "<DBAF43F0>": "Good afternoon, this is 11 News."
+      "<DBAF43F0>": "Hello, and welcome to News Eleven."
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<11544722>",
       "<554EE944>": 170,
-      "<DBAF43F0>": "Wednesday, May 16th."
+      "<DBAF43F0>": "The date is Wednesday, May 16th."
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<1CD2DE29>",
       "<554EE944>": 170,
-      "<DBAF43F0>": "Weather in the Rhadamanthus Authority is fair."
+      "<DBAF43F0>": "The weather in the Rhadamanthus Autonomous Zone is clear skies."
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<EADC08D0>",
       "<554EE944>": 170,
-      "<DBAF43F0>": "It is 24 degrees centigrade, 56% humidity."
+      "<DBAF43F0>": "We're seeing a temperature of 24 degrees Celsius,\nwith 56 percent humidity."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<3323D25D>",
       "<554EE944>": 170,
-      "<DBAF43F0>": "Continuing yesterday's placid highs,\nthe day promises to be pleasant."
+      "<DBAF43F0>": "Following yesterday's trend,\nit's shaping up to be another very pleasant day."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<01D80C35>",
       "<554EE944>": 170,
-      "<DBAF43F0>": "Today's news will be delivered by me, Sienna Morgan,"
+      "<DBAF43F0>": "I'm your anchor, Sienna Morgan,"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<E202F047>",
       "<554EE944>": 170,
-      "<DBAF43F0>": "with additional analysis by our political\ncorrespondent, Barry Crow Li."
+      "<DBAF43F0>": "and joining me with analysis from our political desk is Barry Crow Li."
     }
   ]
 }

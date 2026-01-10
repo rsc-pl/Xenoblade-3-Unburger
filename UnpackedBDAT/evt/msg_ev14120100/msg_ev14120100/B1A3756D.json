@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<BA5762BB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](heavy breath)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
     },
     {
       "$id": 2,
@@ -30,31 +30,31 @@
       "$id": 3,
       "<8C7DD24D>": "<61A1B435>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Come on, let's go back to base and regroup."
+      "<DBAF43F0>": "Let's return to base and regroup."
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<6391B7F6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We'll tell you everything we know."
+      "<DBAF43F0>": "We will tell you everything there."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<9C663446>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Damn straight..."
+      "<DBAF43F0>": "Damn right you will...[ML:line len=1]"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<EE68B995>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm done being kept in the dark.\n'Bout time you let me into the club."
+      "<DBAF43F0>": "I'm not gonna stand for being the only one left in the dark."
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<BEB2137F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](silence)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
     }
   ]
 }

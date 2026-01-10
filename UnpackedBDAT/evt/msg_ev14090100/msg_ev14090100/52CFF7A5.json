@@ -18,85 +18,85 @@
       "$id": 1,
       "<8C7DD24D>": "<D694335A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Impossible..."
+      "<DBAF43F0>": "No way...[ML:line ]"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<10E68BF7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Can't be...!"
+      "<DBAF43F0>": "That can't be...[ML:line len=1]"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<34EE3AD3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yet..."
+      "<DBAF43F0>": "It is.[ML:line len=1]"
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<0CB9D354>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It was this man who tried to erase me."
+      "<DBAF43F0>": "And yet he tried to erase me."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<6991ED8E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "*He* is the one to blame!"
+      "<DBAF43F0>": "That is the kind of man he is."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<DC3C34C8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Na'el..."
+      "<DBAF43F0>": "Na'el...[ML:line len=1]"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<214B7757>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They're strong, your emotions."
+      "<DBAF43F0>": "Your emotions... they are strong."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<72754A8B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Stronger even...than my own."
+      "<DBAF43F0>": "As strong as my own... or perhaps, even more so."
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<B417D4A1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](breath adlib)"
+      "<DBAF43F0>": "[ML:undisp ](sharp breath)"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<853A3C49>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Think you've bought yourself some time?"
+      "<DBAF43F0>": "Do you think you've bought yourself some time?"
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<1CC725FB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We may not have much, but it's more than we need to erase you."
+      "<DBAF43F0>": "It may be but a moment, but it's more than enough to erase you."
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<6D4433DE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Quite..."
+      "<DBAF43F0>": "I see...[ML:line len=1]"
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<A11F050F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Well then, I'm happy to wait."
+      "<DBAF43F0>": "In that case, I will wait for you."
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<0777361C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "For you both, yes?"
+      "<DBAF43F0>": "For you too, Matthew."
     }
   ]
 }

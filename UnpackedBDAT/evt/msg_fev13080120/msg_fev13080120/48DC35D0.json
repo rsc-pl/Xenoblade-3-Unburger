@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is the command center."
+      "<DBAF43F0>": "This is the \"Command Center.\""
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's where the captains convene, where we\nplan our strategies and manage affairs. The\nnerve center of the Liberators, you could say."
+      "<DBAF43F0>": "Reports between unit leaders, strategy meetings,\nverall management...it all happens here.\nIt's truly the nerve center of the Liberators."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well met, everyone."
+      "<DBAF43F0>": "We've been waiting for you all."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm happy to inform you that quarters\nhave been arranged for Matthew and\nhis associates."
+      "<DBAF43F0>": "We've prepared\nlodgings for Matthew-san's group\nfor the time being."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Great, cheers for that."
+      "<DBAF43F0>": "Oh, thanks for your trouble."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Allow me to show you the way."
+      "<DBAF43F0>": "Then, I will guide you there now."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks, that'd be great."
+      "<DBAF43F0>": "Yeah, please do."
     }
   ]
 }

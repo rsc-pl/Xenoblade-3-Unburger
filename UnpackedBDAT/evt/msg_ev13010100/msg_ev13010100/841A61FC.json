@@ -18,31 +18,31 @@
       "$id": 1,
       "<8C7DD24D>": "<7FDB6A49>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Leave it to Uncle Rex."
+      "<DBAF43F0>": "That spirit..."
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<4193577D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'll show 'em a thing or three!"
+      "<DBAF43F0>": "I, Rex, will take it from here."
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<3CFA6FD6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](adlib something)"
+      "<DBAF43F0>": "[ML:undisp ]Hah!"
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<D2B42E50>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You OK?"
+      "<DBAF43F0>": "Are you alright!?"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<4AA7AF30>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Y-yeah..."
+      "<DBAF43F0>": "Y-Yes..."
     },
     {
       "$id": 6,
@@ -54,25 +54,25 @@
       "$id": 7,
       "<8C7DD24D>": "<711904FF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<572E344C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Nikol, ready to fight?"
+      "<DBAF43F0>": "Nikol, you can fight, right?"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<4BF9CDD3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](nod/assertion)"
+      "<DBAF43F0>": "ML:undisp"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<238828B3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You too, Glim! Hup-hup!"
+      "<DBAF43F0>": "You too, Kagiroi."
     },
     {
       "$id": 11,
@@ -84,19 +84,19 @@
       "$id": 12,
       "<8C7DD24D>": "<6D272AEB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "There'll be time for thinking later."
+      "<DBAF43F0>": "Save the thinking for later."
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<D697D204>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "For now..."
+      "<DBAF43F0>": "Right now..."
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<065F6810>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's down to brass tacks!"
+      "<DBAF43F0>": "this is reality."
     }
   ]
 }

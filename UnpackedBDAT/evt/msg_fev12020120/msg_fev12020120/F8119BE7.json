@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? What is it, A?"
+      "<DBAF43F0>": "Hm? What is it, A?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Monster...! Do you think\nthe girl is fine...?"
+      "<DBAF43F0>": "A monster...!\nI wonder if that person was okay..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Unclear. I'd say for now,\nyou should probably worry\nabout yourself."
+      "<DBAF43F0>": "Who knows.\nBut right now, you should\nbe worried about yourself."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hah, this is great! Gimme gimme!\nLemme have a bash at this fella!"
+      "<DBAF43F0>": "Hah! Bring it on, you bastard!\nI'll be your opponent!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't get too heated up, Matthew.\nThis is the time for a synergy move."
+      "<DBAF43F0>": "Don't get carried away, Matthew.\nWe'll use a combination attack here."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Aw yeah, good shout!\nYou better follow my lead though!"
+      "<DBAF43F0>": "Yeah, sounds good!\nJust make sure you keep up, A!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hah... Not if I can help it!"
+      "<DBAF43F0>": "Hmph... You too!"
     }
   ]
 }

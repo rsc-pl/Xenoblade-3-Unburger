@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then, once again, welcome.\nTo our headquarters... To Colony 9."
+      "<DBAF43F0>": "Welcome, once again.\nTo our base... \"Colony 9.\""
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uh? Colony 9?\nLike the one from Keves?"
+      "<DBAF43F0>": "Huh...? Colony 9?\nThe one from Keves?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, not that one.\nThis is the original Colony 9."
+      "<DBAF43F0>": "No, it's different.\nThis is the \"original\" Colony 9."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Though I guess that won't mean\nanything to you, one way or another."
+      "<DBAF43F0>": "...Though saying that,\nI doubt you'd understand what it means."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Huh?"
+      "<DBAF43F0>": "...???"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't get it..."
+      "<DBAF43F0>": "What do you mean?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, anyway! Point is, it's not like\na Kevesi or Agnian colony. That's\nall you need to know right now."
+      "<DBAF43F0>": "Anyway! It's different\nfrom a Kevesior Agnian colony.\nJust think of it that way for now."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uh, OK..."
+      "<DBAF43F0>": "O-Okay..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll go on ahead to the command center\nand have your quarters prepared."
+      "<DBAF43F0>": "I'll head to the command post first\nand arrange your lodgings."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right, see you around then, Matthew.\nLet's have a proper catch-up once things\nhave settled down a bit."
+      "<DBAF43F0>": "Well then, Matthew.\nLet's talk again later\nwhen you're settled in."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Will do, cheers!"
+      "<DBAF43F0>": "Yeah, take it easy!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Righto, let's see how the gang's doing.\nWe can give you a little tour along the way."
+      "<DBAF43F0>": "Alright then,\nwhile we check on how the base is doing,\nI guess we'll show these guys around."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, that's a good idea."
+      "<DBAF43F0>": "Ah, yes, good idea."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Panacea, can I ask you to take point?"
+      "<DBAF43F0>": "Panacea,\nwould you mind leading the way?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right, you heard the man.\nTry to keep up!"
+      "<DBAF43F0>": "Come on, hurry up and follow.\nDon't fall behind."
     }
   ]
 }

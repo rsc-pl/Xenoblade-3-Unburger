@@ -18,49 +18,49 @@
       "$id": 1,
       "<8C7DD24D>": "<1CEEA008>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...Why are you doing this?"
+      "<DBAF43F0>": "[ML:line len=1]Why are you doing this?"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<E084C1E1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](cold silence)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<3394FFB5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But you told me yourself...\nYou told me to make friends..."
+      "<DBAF43F0>": "I told you, didn't I? I told you to find allies...![ML:line ]"
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<F53ACB0D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Say something!"
+      "<DBAF43F0>": "Answer me!"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<8429D0E3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "He doesn't want us here. We're a nuisance."
+      "<DBAF43F0>": "We're in his way."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<0984B707>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Nuisance...?"
+      "<DBAF43F0>": "Na'el...?[ML:line len=1]"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<300F7302>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Right? You who've become Moebius."
+      "<DBAF43F0>": "Right, mister Moebius?"
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<7308B45C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "N... Isn't that your name?"
+      "<DBAF43F0>": "N... that's your name, isn't it?"
     },
     {
       "$id": 9,
@@ -72,7 +72,7 @@
       "$id": 10,
       "<8C7DD24D>": "<CA8E8F3B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What've you done to Na'el?"
+      "<DBAF43F0>": "What did you do to Na'el?"
     },
     {
       "$id": 11,
@@ -84,37 +84,37 @@
       "$id": 12,
       "<8C7DD24D>": "<755A02A8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "An entity that wishes to erase this world."
+      "<DBAF43F0>": "An entity existence that seeks to erase this world."
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<F9AC3CE3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Huh?"
+      "<DBAF43F0>": "[ML:undisp ]What...!?[ML:line len=1 ]"
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<B1978149>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "He's wrong."
+      "<DBAF43F0>": "That's not true."
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<002ECFE6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I want to embark on a journey, to the future."
+      "<DBAF43F0>": "I'm setting off on a journey to the future."
     },
     {
       "$id": 16,
       "<8C7DD24D>": "<E442CE3E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "There's just the matter of unwanted baggage."
+      "<DBAF43F0>": "There's just... some unwanted baggage to deal with first."
     },
     {
       "$id": 17,
       "<8C7DD24D>": "<B817ED52>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What're you talking about?"
+      "<DBAF43F0>": "Unwanted baggage?"
     },
     {
       "$id": 18,
@@ -126,37 +126,37 @@
       "$id": 19,
       "<8C7DD24D>": "<5B68087C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](shock)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!?"
     },
     {
       "$id": 20,
       "<8C7DD24D>": "<F3536B5D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We Moebius, and..."
+      "<DBAF43F0>": "The lives of us Moebius...[ML:line len=1]"
     },
     {
       "$id": 21,
       "<8C7DD24D>": "<DFF9BC5F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "every last soldier on the face of this world."
+      "<DBAF43F0>": "and of every last soldier living in this world."
     },
     {
       "$id": 22,
       "<8C7DD24D>": "<879AC233>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I... What are...?"
+      "<DBAF43F0>": "Th-That's...[ML:line len=1]"
     },
     {
       "$id": 23,
       "<8C7DD24D>": "<452BF855>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "And that's why, all this...?"
+      "<DBAF43F0>": "You'd do all this... just for that...?[ML:line len=1 ]"
     },
     {
       "$id": 24,
       "<8C7DD24D>": "<8F320A21>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "See? We don't need them."
+      "<DBAF43F0>": "See? They're not needed, are they?"
     },
     {
       "$id": 25,
@@ -168,19 +168,19 @@
       "$id": 26,
       "<8C7DD24D>": "<C4C5C4B8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I will arrest it."
+      "<DBAF43F0>": "preserve it."
     },
     {
       "$id": 27,
       "<8C7DD24D>": "<8E553BB8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This moment..."
+      "<DBAF43F0>": "This moment...[ML:line len=1]"
     },
     {
       "$id": 28,
       "<8C7DD24D>": "<9B1010A7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This instant!"
+      "<DBAF43F0>": "This very now."
     }
   ]
 }

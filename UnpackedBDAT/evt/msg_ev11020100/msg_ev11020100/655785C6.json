@@ -18,49 +18,49 @@
       "$id": 1,
       "<8C7DD24D>": "<F59DFEE0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](running, chased by the enemy)"
+      "<DBAF43F0>": "[ML:undisp ](Ad-lib: Running while being chased by the enemy)"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<85BE4465>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](turning around, reacting to impact behind)"
+      "<DBAF43F0>": "[ML:undisp ](Ad-lib: Reacts to an impact from behind and changes direction)"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<4DF33F63>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](running jump)"
+      "<DBAF43F0>": "[ML:undisp ](Ad-lib: A running jump)"
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<5A49F94D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](frustrated grunt)"
+      "<DBAF43F0>": "[ML:undisp ]Ghh!"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<0FA0FFD9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Tough little so-and-so!"
+      "<DBAF43F0>": "Damn, this thing's tough!"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<2A9C45A1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Can't even seem to Break it!"
+      "<DBAF43F0>": "It won't even Break?!"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<839AD9AB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I told you we should've left alone."
+      "<DBAF43F0>": "That's why I said we should have just let it pass."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<729EA256>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But you had to stick your oar in, didn't you?"
+      "<DBAF43F0>": "The one who charged in so carelessly was you,"
     },
     {
       "$id": 9,
@@ -72,37 +72,37 @@
       "$id": 10,
       "<8C7DD24D>": "<967FE81E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](backward jump to dodge attack)"
+      "<DBAF43F0>": "[ML:undisp ](Ad-lib: Jumps back to dodge an attack)"
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<1A7D9855>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](backward jump to dodge attack)"
+      "<DBAF43F0>": "[ML:undisp ](Ad-lib: Jumps back to dodge an attack)"
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<2658EB7E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Lecture me later, A!"
+      "<DBAF43F0>": "I'll hear your lecture later!"
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<96A043D2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Aight? First things first!"
+      "<DBAF43F0>": "A, right now we need to deal with this thing!"
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<F1259BB7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(exasperated snort)"
+      "<DBAF43F0>": "[ML:undisp ]Hmph...[ML:line ]"
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<3262B2EF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You're impossible..."
+      "<DBAF43F0>": "You are just unbelievable...[ML:line len=1]"
     }
   ]
 }

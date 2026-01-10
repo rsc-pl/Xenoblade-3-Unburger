@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, are these the assignments?"
+      "<DBAF43F0>": "Is this a duty roster?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"Lookouts:\nMiharu, Himari, Mashiro (if available)\""
+      "<DBAF43F0>": "\"Lookout Duty!\n Miharu, Himari, Mashiro (if she's here)\""
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"I'll do my part when I'm there, promise!\n - Mashiro\""
+      "<DBAF43F0>": "\"I'll do my best when I'm around! - Mashiro\""
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So you were trying to get to\nSwordmarch, am I correct?"
+      "<DBAF43F0>": "You were aiming for Swordmarch, correct?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's right."
+      "<DBAF43F0>": "Yes."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then, you'll be passing through\nMorukuna Wildwood into Cadensia?"
+      "<DBAF43F0>": "So, you'll go past Morukuna Wildwood\nand into the Cadensia Region..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's a hard path to traverse.\nBe careful along the way."
+      "<DBAF43F0>": "It will be an arduous journey.\nPlease be careful."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I will lend a hand whenever you require it."
+      "<DBAF43F0>": "Of course, if the need arises,\nI will lend you my strength as well."
     }
   ]
 }

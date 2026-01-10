@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Agyou and Ungyou are, like,\nalways right behind you, huh?"
+      "<DBAF43F0>": "Agyou and Ungyou are\nalways following you around,\naren't they, Ghondor?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not literally always.\nLike right now, they're off\ndoing their separate thing."
+      "<DBAF43F0>": "Not always.\nThey're off on their own right now, see?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How long have they been with you?"
+      "<DBAF43F0>": "How long have you all been together?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 32897,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uhh, I forget. They've worked for\nHouse Vandham as long as I can\nremember, though."
+      "<DBAF43F0>": "How long...? I've forgotten.\nBy the time I was old enough to know what was what,\nthey were already serving House Vandham."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So it was actually those two\nwho've looked after me most\nsince I was a tyke."
+      "<DBAF43F0>": "And those two were the ones who\nlooked after me\nwhen I was a kid."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y'know, it makes sense. Vandham family's\ngot a lot going on, so raising kids is like,\nway down the to-do list..."
+      "<DBAF43F0>": "My family was always so busy with their \"duties\"\nthat looking after a child was a second or third\nthought to them."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Huh..."
+      "<DBAF43F0>": "......"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 49281,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eh, I'm not tryna make it sound like some\nkinda sob story, mind. They've gotten me\nout of a tight spot more'n once."
+      "<DBAF43F0>": "Well, it doesn't matter now.\nThey've saved my hide more\ntimes than I can count."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And anyway, guarding me was the only\nreason they followed me into that prison."
+      "<DBAF43F0>": "And besides... Agyou and Ungyou followed me\nto that prison camp for the sole reason\nof protecting me."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Coulda been their heads on the choppin'\nblock at any point, right? Not just anyone'd\nrisk that for ya. ...I know I can trust 'em."
+      "<DBAF43F0>": "In a situation where they could have been executed at any moment.\nThere aren't many people who'd lay down their lives for a comrade.\n...That's why I can trust them."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I bet if they heard you saying that,\nthey'd weep themselves hoass with joy."
+      "<DBAF43F0>": "...If the two of them heard you say that,\nI'm sure they would weep with joy."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heh, yeah. \"M'ladyyyy! You're too kind!\""
+      "<DBAF43F0>": "\"M'laaadyyy~!\" Something like that."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hah, too true. Which is exactly why\nyou dags can never tell, hear me?\nOr else."
+      "<DBAF43F0>": "Hah, no doubt.\nSo don't you dare say\na word to them. Not ever."
     }
   ]
 }

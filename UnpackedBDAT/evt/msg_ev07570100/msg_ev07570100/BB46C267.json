@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<6216C5BE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](little amazed sigh)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ][ML:line len=1 ]"
     },
     {
       "$id": 2,
@@ -30,37 +30,37 @@
       "$id": 3,
       "<8C7DD24D>": "<965EF5CF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What're you doing, man?"
+      "<DBAF43F0>": "What are you doing?"
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<917D9223>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They'll start the fireworks without us!"
+      "<DBAF43F0>": "The fireworks festival is going to start, you know."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<B121B2CE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Get a move on already,\nor all the good spots'll be taken!"
+      "<DBAF43F0>": "If you keep dawdling, all the good spots will be taken."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<009655A9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Exactly! So c'mon, move it!"
+      "<DBAF43F0>": "That's right! Hurry, hurry!"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<3921FF89>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Sorry! I zoned out for a sec."
+      "<DBAF43F0>": "Sorry. I was just lost in thought."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<C11DD58A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm coming...!"
+      "<DBAF43F0>": "I'm coming..."
     }
   ]
 }

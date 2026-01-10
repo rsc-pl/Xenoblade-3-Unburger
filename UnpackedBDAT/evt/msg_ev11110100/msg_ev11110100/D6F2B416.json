@@ -18,91 +18,91 @@
       "$id": 1,
       "<8C7DD24D>": "<12DF90BC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "*Huff* What is that? That weapon...?"
+      "<DBAF43F0>": "Wh-What is that weapon...?"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<0CA03BAB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](exhausted panting)"
+      "<DBAF43F0>": "[ML:undisp ]pant... huff... pant..."
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<F215E755>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Can't be a Blade..."
+      "<DBAF43F0>": "It's not... a Blade..."
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<340F6795>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](taking a massive punch)"
+      "<DBAF43F0>": "[ML:undisp ]Guhaah!"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<0303100F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(exhausted panting)"
+      "<DBAF43F0>": "[ML:undisp ]pant... pant... pant..."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<5A11C8C2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Huh...?!"
+      "<DBAF43F0>": "[ML:undisp ]!?"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<739FC607>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(shocked gasp)"
+      "<DBAF43F0>": "[ML:undisp ]!"
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<A6E5335B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We... We take this one."
+      "<DBAF43F0>": "W-We've won..."
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<7C962A23>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "How...?"
+      "<DBAF43F0>": "What...?"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<276E6451>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So long as we can hold the flanks...the colony will mop up."
+      "<DBAF43F0>": "As long as we could defend the flanks...\nthe rest was up to the Colony..."
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<243AE0B9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "New armament."
+      "<DBAF43F0>": "and the new weapon."
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<A16F91CF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "All went...as planned."
+      "<DBAF43F0>": "The center was wide open, wasn't it?"
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<9A031CCB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Grh..."
+      "<DBAF43F0>": "D-"
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<983D6F74>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "And now it's curtains."
+      "<DBAF43F0>": "You fell right into our—"
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<A41640ED>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Shut up!!!"
+      "<DBAF43F0>": "Shut up!"
     }
   ]
 }

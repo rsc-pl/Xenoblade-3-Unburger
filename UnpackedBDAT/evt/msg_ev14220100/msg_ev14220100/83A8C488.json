@@ -18,19 +18,19 @@
       "$id": 1,
       "<8C7DD24D>": "<7F982D8C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](gasp)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!?"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<8287BB74>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(surprise)"
+      "<DBAF43F0>": "[ML:undisp ]!!"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<F831C8FA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What's that...strange pillar of light...?"
+      "<DBAF43F0>": "What in the world is that pillar of light...?[ML:line len=1]"
     }
   ]
 }

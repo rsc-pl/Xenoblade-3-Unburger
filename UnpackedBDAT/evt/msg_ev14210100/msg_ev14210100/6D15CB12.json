@@ -18,19 +18,19 @@
       "$id": 1,
       "<8C7DD24D>": "<BD2BBDF9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]"
+      "<DBAF43F0>": "[ML:undisp ](attack grunt)"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<443D5391>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]"
+      "<DBAF43F0>": "[ML:undisp ](attack grunt)"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<F7DF4942>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]"
+      "<DBAF43F0>": "[ML:undisp ](attack grunt)"
     },
     {
       "$id": 4,
@@ -48,43 +48,43 @@
       "$id": 6,
       "<8C7DD24D>": "<B0A6328E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Taking a hit)"
+      "<DBAF43F0>": "[ML:undisp ](hit reaction)"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<8E79375F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Taking a hit)"
+      "<DBAF43F0>": "[ML:undisp ](hit reaction)"
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<D8D73A74>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Enduring N's flurry of attacks)"
+      "<DBAF43F0>": "[ML:undisp ](grunts, enduring N's flurry of attacks)"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<E3D4FC0C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](landing a hit, then several more)"
+      "<DBAF43F0>": "[ML:undisp ](grunts, landing a solid hit, then several more)"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<2218C6F1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Jump exert)"
+      "<DBAF43F0>": "[ML:undisp ](jump grunt)"
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<B8430B0B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]"
+      "<DBAF43F0>": "[ML:undisp ](combat ad-lib)"
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<B6150185>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]"
+      "<DBAF43F0>": "[ML:undisp ](combat ad-lib)"
     },
     {
       "$id": 13,
@@ -96,7 +96,7 @@
       "$id": 14,
       "<8C7DD24D>": "<3439144C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]"
+      "<DBAF43F0>": "[ML:undisp ](combat ad-lib)"
     },
     {
       "$id": 15,
@@ -108,31 +108,31 @@
       "$id": 16,
       "<8C7DD24D>": "<5CD55152>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Idiot..."
+      "<DBAF43F0>": "You..."
     },
     {
       "$id": 17,
       "<8C7DD24D>": "<F1ED449D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "See some bloody sense, man!"
+      "<DBAF43F0>": "damned blockhead!"
     },
     {
       "$id": 18,
       "<8C7DD24D>": "<673064A0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](shocked breath)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!?"
     },
     {
       "$id": 19,
       "<8C7DD24D>": "<4D431FDE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What...? What's that light?!"
+      "<DBAF43F0>": "What? What is that light?!"
     },
     {
       "$id": 20,
       "<8C7DD24D>": "<BBE2C3AB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Could it be...?"
+      "<DBAF43F0>": "Is that...[ML:line len=1]"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Your sleeping quarters are on the\nopposite side of the hill, further down."
+      "<DBAF43F0>": "The sleeping quarters are down the slope\non the opposite side from the entrance."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Please, take your rest."
+      "<DBAF43F0>": "Please, rest well."
     }
   ]
 }

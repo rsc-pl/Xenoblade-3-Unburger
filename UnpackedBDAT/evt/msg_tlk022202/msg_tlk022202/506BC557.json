@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You look busy."
+      "<DBAF43F0>": "You seem busy."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "N-not at all..."
+      "<DBAF43F0>": "N-not at all."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In fact, this is the first opportunity\nwe've had to rest in quite some time."
+      "<DBAF43F0>": "It's been a while since I've been able to rest\nso peacefully. Truly."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see! Still, I hope you aren't\nstraining yourselves too hard..."
+      "<DBAF43F0>": "Well, if you say so..."
     }
   ]
 }

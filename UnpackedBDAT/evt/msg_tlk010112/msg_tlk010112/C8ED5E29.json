@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The squad assignments are\nwritten out here..."
+      "<DBAF43F0>": "The squad assignments are written here..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"Tallow's Squad:\nTallow, Kanata, Shu\""
+      "<DBAF43F0>": "\"Taro's Squad:\n　Taro, Kanata, Shuu\""
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"Battle Squad:\nAyase, Miharu, Ichika, Touji, Natsume\""
+      "<DBAF43F0>": "\"Battle Squad:\n　Ayase, Miharu, Ichika,\n　Touji, Natsume\""
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"Maintenance Squad:\nNico, Renge, Kokinari, Tsumugi, Himari\""
+      "<DBAF43F0>": "\"Maintenance Squad:\n　Nico, Renge, Yukinari,\n　Tsumugi, Himari\""
     }
   ]
 }

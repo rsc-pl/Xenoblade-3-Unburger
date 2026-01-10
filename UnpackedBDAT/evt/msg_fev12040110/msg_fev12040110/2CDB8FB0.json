@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Um, excuse me...?"
+      "<DBAF43F0>": "...U-Um..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's up, Nikol?"
+      "<DBAF43F0>": "What is it, Nikol?"
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Come on, man. Enough with the\numming and ahing, spit it out!"
+      "<DBAF43F0>": "If you have something to say,\nspit it out."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry..."
+      "<DBAF43F0>": "I'm sorry..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Matthew... You could have chosen\nyour words more carefully."
+      "<DBAF43F0>": "Matthew...\nYou could have phrased that a bit better."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah! Wait, uh, scratch that! I just meant that\nyou shouldn't be afraid to speak your mind...!"
+      "<DBAF43F0>": "Ah, no! That's not what I meant!\nI meant, don't hesitate to speak up...!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I'd like to make some adjustments\nto the operation of my backpack arms."
+      "<DBAF43F0>": "...I want to adjust\nthe backpack's arm drive."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There was an issue with mobility in\nthat last battle against the monster..."
+      "<DBAF43F0>": "During the fight with\nthat monster, a slight problem\nwith its range of motion occurred..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sure there'll be more fighting ahead,\nand I don't want to slow you guys down..."
+      "<DBAF43F0>": "I'm sure there will be more fighting ahead,\nand I don't want to be a burden..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well now..."
+      "<DBAF43F0>": "I see..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is that all? Relax, no worries! We can take\na load off somewhere and let you tinker."
+      "<DBAF43F0>": "Oh, is that all?\nIn that case, let's take a break somewhere."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's an open space over there.\nIt should serve for a rest spot."
+      "<DBAF43F0>": "There's an open area over there.\nIt should be perfect for a short rest."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, er, thanks very much..."
+      "<DBAF43F0>": "O-Oh, thank you..."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And hey, it came out weird earlier, but I\nreally meant it - no need to be shy with us,\nor hold anything back."
+      "<DBAF43F0>": "Hey, like I said before,\nyou really don't have\nto be so reserved, you know?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're not our hostage or prisoner.\nYou know that, right?"
+      "<DBAF43F0>": "It's not like you're a hostage or a prisoner\nor anything, right?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Um, yeah... Thank you."
+      "<DBAF43F0>": "...Yeah."
     }
   ]
 }

@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just over there, to Hope's Rest.\nI'll be back soon."
+      "<DBAF43F0>": "Just over there.\nI'm just going to Hope's Hill."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The other \"me\" had something\nshe wanted Noah to see."
+      "<DBAF43F0>": "\"I\" thought I should\nshow Noah something."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He's gonna see *that*?"
+      "<DBAF43F0>": "You're going to show him *that*?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I'm coming too."
+      "<DBAF43F0>": "I'm coming too."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What?"
+      "<DBAF43F0>": "Huh?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Come on. Let's go."
+      "<DBAF43F0>": "Come on, let's go."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hope's Rest is a summer\nstroll from here."
+      "<DBAF43F0>": "If you're going to Hope's Hill,\nit's easier to go this way."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just get off the transport Levnis,\nsaunter out of the west gate..."
+      "<DBAF43F0>": "You take the transport Levnis down,\\and go through the\nprison's west gate."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...then keep going till you see\nthe hill with a sea view."
+      "<DBAF43F0>": "Then you'll come out at the hill\nwith a view of the sea."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Easy-peasy, eh?"
+      "<DBAF43F0>": "That's the place, right?"
     },
     {
       "$id": 12,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, let's go."
+      "<DBAF43F0>": "Let's go."
     }
   ]
 }

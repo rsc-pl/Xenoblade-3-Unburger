@@ -18,55 +18,55 @@
       "$id": 1,
       "<8C7DD24D>": "<00F10E29>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Enduring N's flurry of attacks)"
+      "<DBAF43F0>": "[ML:undisp ](grunts, enduring N's flurry of attacks)"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<DA03CCAB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](frustration, impact)"
+      "<DBAF43F0>": "[ML:undisp ]Ngh...![ML:line len=1 ]"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<0CB5DE4F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You're just Moebius..."
+      "<DBAF43F0>": "You're just a Moebius..."
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<48F19AFA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But...what's this power...?!"
+      "<DBAF43F0>": "But this power...![ML:line len=1]"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<968109A6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You would never understand."
+      "<DBAF43F0>": "You could never understand."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<B0E1B07F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This is..."
+      "<DBAF43F0>": "This...[ML:line len=1]"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<570A91AC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "my choice!"
+      "<DBAF43F0>": "is my choice."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<27E0ABDF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So you choose to stay in the now?\nTo abandon the future?!"
+      "<DBAF43F0>": "You choose the now? By throwing away [System:Ruby rt=us ]the future[/System:Ruby]?"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<7E869E29>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The one leaving things behind..."
+      "<DBAF43F0>": "The one who's throwing things away..."
     },
     {
       "$id": 10,
@@ -78,37 +78,37 @@
       "$id": 11,
       "<8C7DD24D>": "<03B03093>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](pain, impact)"
+      "<DBAF43F0>": "[ML:undisp ]Agh!"
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<143A72B3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Struck and drops to ground)"
+      "<DBAF43F0>": "[ML:undisp ](gets knocked to the ground)"
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<A1CF28F9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](struggling breath)"
+      "<DBAF43F0>": "[ML:undisp ]Ugh...[ML:line len=1 ]"
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<A6293A77>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Grandad, help... Please help..."
+      "<DBAF43F0>": "Help me... Grandad...[ML:line len=1]"
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<F5D25BCF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Na'el..."
+      "<DBAF43F0>": "Na'el...[ML:line len=1]"
     },
     {
       "$id": 16,
       "<8C7DD24D>": "<15EF7971>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It is done,"
+      "<DBAF43F0>": "It is over,[ML:line len=1]"
     },
     {
       "$id": 17,
@@ -120,109 +120,109 @@
       "$id": 18,
       "<8C7DD24D>": "<D4203744>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](shaky breath)"
+      "<DBAF43F0>": "[ML:undisp ]N-No...[ML:line len=1 ]"
     },
     {
       "$id": 19,
       "<8C7DD24D>": "<FC38F6FB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Leave her!"
+      "<DBAF43F0>": "Don't!"
     },
     {
       "$id": 20,
       "<8C7DD24D>": "<D0770501>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(surprise)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!"
     },
     {
       "$id": 21,
       "<8C7DD24D>": "<75E51956>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Na'el is... She's your family..."
+      "<DBAF43F0>": "She's family, damn it![ML:line len=1 ] Na'el is!"
     },
     {
       "$id": 22,
       "<8C7DD24D>": "<C93D9EEB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I can't let you do this..."
+      "<DBAF43F0>": "You can't do this!"
     },
     {
       "$id": 23,
       "<8C7DD24D>": "<4E000BF9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](shaky breath)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
     },
     {
       "$id": 24,
       "<8C7DD24D>": "<FB6537C6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...What about Mum...?"
+      "<DBAF43F0>": "[ML:line len=1]What about... Mom?"
     },
     {
       "$id": 25,
       "<8C7DD24D>": "<560C2853>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](shock/outrage)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!?"
     },
     {
       "$id": 26,
       "<8C7DD24D>": "<1AFED7D4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Did she...want this too?"
+      "<DBAF43F0>": "Does Mom know about this?"
     },
     {
       "$id": 27,
       "<8C7DD24D>": "<0C504207>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...You don't need to know."
+      "<DBAF43F0>": "[ML:line len=1]She doesn't need to know."
     },
     {
       "$id": 28,
       "<8C7DD24D>": "<E18738AF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The burden is...mine alone to bear."
+      "<DBAF43F0>": "This is my burden to bear."
     },
     {
       "$id": 29,
       "<8C7DD24D>": "<3A1B4D94>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](sigh)"
+      "<DBAF43F0>": "ML:undisp [ML:line len=1 ]"
     },
     {
       "$id": 30,
       "<8C7DD24D>": "<C79AA22E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Mum would..."
+      "<DBAF43F0>": "I'm sure...[ML:line len=1]"
     },
     {
       "$id": 31,
       "<8C7DD24D>": "<14065939>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "tell you...to let it go, I'm sure..."
+      "<DBAF43F0>": "I'm sure she would tell me to go on."
     },
     {
       "$id": 32,
       "<8C7DD24D>": "<33B1DF75>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I know it..."
+      "<DBAF43F0>": "Mom would..."
     },
     {
       "$id": 33,
       "<8C7DD24D>": "<939CF5C6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But you..."
+      "<DBAF43F0>": "But...[ML:line len=1]"
     },
     {
       "$id": 34,
       "<8C7DD24D>": "<5348DC45>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "you can't choose...this path..."
+      "<DBAF43F0>": "I can't choose that path."
     },
     {
       "$id": 35,
       "<8C7DD24D>": "<E7D355A6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ghondor..."
+      "<DBAF43F0>": "Ghondor...[ML:line len=1]"
     }
   ]
 }
