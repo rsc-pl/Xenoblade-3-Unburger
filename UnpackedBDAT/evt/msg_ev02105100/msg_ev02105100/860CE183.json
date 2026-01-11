@@ -24,7 +24,7 @@
       "$id": 2,
       "<8C7DD24D>": "<93EFE6FA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I have something I need to do."
+      "<DBAF43F0>": "I have something I must do."
     },
     {
       "$id": 3,
@@ -48,13 +48,13 @@
       "$id": 6,
       "<8C7DD24D>": "<879F79D7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Annihilation events occur frequently in this area."
+      "<DBAF43F0>": "Annihilation Events occur frequently in this area."
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<EE32333A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"Annihilation events\"... you mean those?"
+      "<DBAF43F0>": "\"Annihilation Events\"... you mean those things?"
     },
     {
       "$id": 8,
@@ -66,13 +66,13 @@
       "$id": 9,
       "<8C7DD24D>": "<079B7790>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's happening here, too."
+      "<DBAF43F0>": "It is happening here as well."
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<7556E7E5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If we're going to proceed, I'd rather take the safer route."
+      "<DBAF43F0>": "Since we must proceed, I would\nprefer to take the safer route."
     },
     {
       "$id": 11,
@@ -90,7 +90,7 @@
       "$id": 13,
       "<8C7DD24D>": "<D5D35D19>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...That's a great help."
+      "<DBAF43F0>": "...Thanks. That's a huge help."
     },
     {
       "$id": 14,

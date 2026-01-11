@@ -24,7 +24,7 @@
       "$id": 2,
       "<8C7DD24D>": "<FED6E80C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Why are you guys cooking out here, anyway?"
+      "<DBAF43F0>": "Why are you all cooking out here?"
     },
     {
       "$id": 3,
@@ -36,13 +36,13 @@
       "$id": 4,
       "<8C7DD24D>": "<8595EC12>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The cafeteria's out of commission, apparently."
+      "<DBAF43F0>": "The cafeteria's out of commission."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<D4619A91>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Because some people went and flipped everything upside down."
+      "<DBAF43F0>": "Because *some people* went and\nflipped everything upside down."
     },
     {
       "$id": 6,
@@ -66,13 +66,13 @@
       "$id": 9,
       "<8C7DD24D>": "<C071E47E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Th-That's why we..."
+      "<DBAF43F0>": "Th-That is why we..."
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<6E88B147>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yes, yes. I'm veeery well aware of what great heroes you all were."
+      "<DBAF43F0>": "Yes, yes. I am well aware of what great heroes you all were."
     },
     {
       "$id": 11,
@@ -114,7 +114,7 @@
       "$id": 17,
       "<8C7DD24D>": "<96061CD5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "There's no point taking it out on everyone, is there?"
+      "<DBAF43F0>": "There's no point taking it out on everyone."
     },
     {
       "$id": 18,
@@ -156,13 +156,13 @@
       "$id": 24,
       "<8C7DD24D>": "<0CDFF99B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If you do, then you need to get\nthat thought out of your head right now."
+      "<DBAF43F0>": "If you do, then you need to get that\nthought out of your head right now."
     },
     {
       "$id": 25,
       "<8C7DD24D>": "<25195800>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The fact that Joran appeared isn't the problem itself."
+      "<DBAF43F0>": "The fact that Joran appeared is not the problem itself."
     },
     {
       "$id": 26,
@@ -174,7 +174,7 @@
       "$id": 27,
       "<8C7DD24D>": "<1D092647>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Understanding the reason why he appeared is far more important."
+      "<DBAF43F0>": "Understanding the reason *why* he\nappeared is far more important."
     },
     {
       "$id": 28,
@@ -186,25 +186,25 @@
       "$id": 29,
       "<8C7DD24D>": "<F41AD065>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The reason we became Ouroboros...\nthe reason this world is the way it is..."
+      "<DBAF43F0>": "The reason we became Ouroboros... the\nreason this world is the way it is..."
     },
     {
       "$id": 30,
       "<8C7DD24D>": "<A728E33A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I believe it's all connected."
+      "<DBAF43F0>": "I believe it is all connected."
     },
     {
       "$id": 31,
       "<8C7DD24D>": "<462F36FA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's just your own convenient theory, isn't it?"
+      "<DBAF43F0>": "That's just your own theory, isn't it?"
     },
     {
       "$id": 32,
       "<8C7DD24D>": "<E42DB0DC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's better than being stuck in the past."
+      "<DBAF43F0>": "It is better than being stuck in the past."
     },
     {
       "$id": 33,
@@ -240,13 +240,13 @@
       "$id": 38,
       "<8C7DD24D>": "<341D0D0A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "There shouldn't have been any\nlife in them, and yet... the motes still rose."
+      "<DBAF43F0>": "There shouldn't have been any life,\nand yet... the motes still rose."
     },
     {
       "$id": 39,
       "<8C7DD24D>": "<4AA512D9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If that's the case, then it has to mean..."
+      "<DBAF43F0>": "If that is the case, then it has to mean..."
     },
     {
       "$id": 40,
@@ -270,13 +270,13 @@
       "$id": 43,
       "<8C7DD24D>": "<C50080C0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They feel for the dead, and speak of them."
+      "<DBAF43F0>": "They remember the dead, and speak of them."
     },
     {
       "$id": 44,
       "<8C7DD24D>": "<BB77A31C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's why I..."
+      "<DBAF43F0>": "That is why I..."
     },
     {
       "$id": 45,
@@ -312,7 +312,7 @@
       "$id": 50,
       "<8C7DD24D>": "<13FE65D2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Heh heh... Close, but not quite."
+      "<DBAF43F0>": "Heh... close, but not quite."
     },
     {
       "$id": 51,
@@ -336,13 +336,13 @@
       "$id": 54,
       "<8C7DD24D>": "<CCCB2E81>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Noah's not telling you to forget. He's telling you to move forward."
+      "<DBAF43F0>": "Noah's not telling you to forget.\nHe's telling you to move forward."
     },
     {
       "$id": 55,
       "<8C7DD24D>": "<49CBD040>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That guy... he always seems to have his back to us."
+      "<DBAF43F0>": "That guy... he always has his back to us, doesn't he?"
     },
     {
       "$id": 56,
@@ -390,7 +390,7 @@
       "$id": 63,
       "<8C7DD24D>": "<81BE28A5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's not like we can afford to disappear just yet."
+      "<DBAF43F0>": "Can't afford to disappear just yet."
     }
   ]
 }

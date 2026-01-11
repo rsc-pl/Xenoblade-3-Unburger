@@ -72,13 +72,13 @@
       "$id": 10,
       "<8C7DD24D>": "<3CEBCF25>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This body... it was entrusted to me by my other self, wasn't it?"
+      "<DBAF43F0>": "This body... it was entrusted to\nme by my other self, wasn't it?"
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<A2ED6D90>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So I was wondering if it's really okay for me\nto just cut her hair on a whim."
+      "<DBAF43F0>": "So I was wondering if it's really okay\nfor me to just cut her hair on a whim."
     },
     {
       "$id": 12,
@@ -126,7 +126,7 @@
       "$id": 19,
       "<8C7DD24D>": "<042C99F1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Seriously, I have no idea how she was okay with it being this long."
+      "<DBAF43F0>": "Seriously, I have no idea how she\nwas okay with it being this long."
     },
     {
       "$id": 20,
@@ -216,13 +216,13 @@
       "$id": 34,
       "<8C7DD24D>": "<70740542>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But in return, you're not allowed\nto complain about it later, you hear?"
+      "<DBAF43F0>": "But in return, you're not allowed to\ncomplain about it later, you hear?"
     },
     {
       "$id": 35,
       "<8C7DD24D>": "<977CF0B8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Okay.\nI won't. I promise."
+      "<DBAF43F0>": "Okay. I won't. I promise."
     }
   ]
 }

@@ -30,19 +30,19 @@
       "$id": 3,
       "<8C7DD24D>": "<1CD2DE29>",
       "<554EE944>": 170,
-      "<DBAF43F0>": "The weather in the Rhadamanthus Autonomous Zone is clear skies."
+      "<DBAF43F0>": "The weather in the Rhadamanthus\nAutonomous Zone is clear skies."
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<EADC08D0>",
       "<554EE944>": 170,
-      "<DBAF43F0>": "We're seeing a temperature of 24 degrees Celsius,\nwith 56 percent humidity."
+      "<DBAF43F0>": "We're seeing a temperature of 24 degrees\nCelsius, with 56 percent humidity."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<3323D25D>",
       "<554EE944>": 170,
-      "<DBAF43F0>": "Following yesterday's trend,\nit's shaping up to be another very pleasant day."
+      "<DBAF43F0>": "Following yesterday's trend, it's shaping\nup to be another very pleasant day."
     },
     {
       "$id": 6,
@@ -54,7 +54,7 @@
       "$id": 7,
       "<8C7DD24D>": "<E202F047>",
       "<554EE944>": 170,
-      "<DBAF43F0>": "and joining me with analysis from our political desk is Barry Crow Li."
+      "<DBAF43F0>": "and joining me with analysis from our\npolitical desk is Barry Crow Li."
     }
   ]
 }

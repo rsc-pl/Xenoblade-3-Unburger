@@ -42,13 +42,13 @@
       "$id": 5,
       "<8C7DD24D>": "<4249D92E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's not just soldiers. There's wreckage from Iron Giants everywhere."
+      "<DBAF43F0>": "Not just soldiers. There's wreckage\nfrom Iron Giants everywhere."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<9AB6C179>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "There might be something we can still use. Let's look for it!"
+      "<DBAF43F0>": "There might be something we can\nstill use. Let's look for it!"
     },
     {
       "$id": 7,
@@ -60,7 +60,7 @@
       "$id": 8,
       "<8C7DD24D>": "<A68A5336>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"Something we can use,\" he says...\nIsn't all this junk just rusted through?"
+      "<DBAF43F0>": "\"Something we can use,\" he says... Isn't\nall this junk just rusted through?"
     },
     {
       "$id": 9,
@@ -102,7 +102,7 @@
       "$id": 15,
       "<8C7DD24D>": "<62A7C1F7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"Affiliated Colony: Colony 18\""
+      "<DBAF43F0>": "\"Affiliated Colony: Colony 18.\" \"Class: Quick Shooter.\""
     },
     {
       "$id": 16,
@@ -114,19 +114,19 @@
       "$id": 17,
       "<8C7DD24D>": "<362D7D07>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Wh-Why is my name here...!?"
+      "<DBAF43F0>": "Wh-Why is my name on this...!?"
     },
     {
       "$id": 18,
       "<8C7DD24D>": "<81E6A394>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "[ML:undisp ]*gasps*"
     },
     {
       "$id": 19,
       "<8C7DD24D>": "<7BA9AF0C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...ni..."
+      "<DBAF43F0>": "...nie..."
     },
     {
       "$id": 20,
@@ -168,13 +168,13 @@
       "$id": 26,
       "<8C7DD24D>": "<6BC571FA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What's with you? You were just standing there frozen, I thought for sure you'd found something."
+      "<DBAF43F0>": "What's with you? You were just standing there\nfrozen, I thought for sure you'd found something."
     },
     {
       "$id": 27,
       "<8C7DD24D>": "<A5104DBC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hey, give me a hand moving this thing."
+      "<DBAF43F0>": "C'mon, give me a hand moving this thing."
     },
     {
       "$id": 28,

@@ -30,7 +30,7 @@
       "$id": 3,
       "<8C7DD24D>": "<215542E1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Another mission with a considerably high degree of difficulty."
+      "<DBAF43F0>": "Another mission with a considerably\nhigh degree of difficulty."
     },
     {
       "$id": 4,
@@ -72,7 +72,7 @@
       "$id": 10,
       "<8C7DD24D>": "<A9C5D07E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They are imprisoned in a detention\nfacility located in the lower part of the Castle."
+      "<DBAF43F0>": "They are imprisoned in a detention facility\nlocated in the lower part of the Castle."
     },
     {
       "$id": 11,
@@ -108,7 +108,7 @@
       "$id": 16,
       "<8C7DD24D>": "<3317A117>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...they carry out the execution of those they've captured at a place on the southern edge of the Castle called \"Hope's Hill.\""
+      "<DBAF43F0>": "...they carry out the execution of those they've captured at a\nplace on the southern edge of the Castle called \"Hope's Hill.\""
     },
     {
       "$id": 17,
@@ -156,13 +156,13 @@
       "$id": 24,
       "<8C7DD24D>": "<17503F83>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Before then, we must make contact with our captured comrades..."
+      "<DBAF43F0>": "Before then, we must make contact\nwith our captured comrades..."
     },
     {
       "$id": 25,
       "<8C7DD24D>": "<394FF080>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...and obtain the information regarding the Queens' location."
+      "<DBAF43F0>": "...and obtain the information\nregarding the Queens' location."
     },
     {
       "$id": 26,
@@ -246,7 +246,7 @@
       "$id": 39,
       "<8C7DD24D>": "<46D631DA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "With those, they won't be able to tell that you are Ouroboros."
+      "<DBAF43F0>": "With those, they won't be able\nto tell that you are Ouroboros."
     },
     {
       "$id": 40,
@@ -264,7 +264,7 @@
       "$id": 42,
       "<8C7DD24D>": "<DF247BBB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You are the ones who destroyed the Kevesi [System:Ruby rt=Annihilator ]Annihilation Weapon[/System:Ruby]."
+      "<DBAF43F0>": "You are the ones who destroyed\nthe Kevesi [System:Ruby rt=Annihilator ]Annihilation Weapon[/System:Ruby]."
     },
     {
       "$id": 43,
@@ -336,7 +336,7 @@
       "$id": 54,
       "<8C7DD24D>": "<4C496D4F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "However... we will hang on and fight for you until the very last moment."
+      "<DBAF43F0>": "However... we will hang on and fight\nfor you until the very last moment."
     },
     {
       "$id": 55,
@@ -360,7 +360,7 @@
       "$id": 58,
       "<8C7DD24D>": "<2D30C717>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "As for the means of transport and infiltration to the Castle, I have left it to a Nopon named Samon from the Engineering Bureau."
+      "<DBAF43F0>": "As for the means of transport and infiltration to the Castle, I\nhave left it to a Nopon named Samon from the Engineering Bureau."
     },
     {
       "$id": 59,

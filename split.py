@@ -8,21 +8,23 @@ import re
 #               CONFIGURATION
 # ==========================================
 CONFIG = {
-    "root_directory": "UnpackedBDAT", 
+    "root_directory": "UnpackedBDAT",
     "target_key": "<DBAF43F0>",
     "log_file": "text_balancing_log.txt",
     "error_file": "text_overflow_errors.txt",
 
-    # DEFINING RULES BY FOLDER PREFIX
+    # DEFINING RULES
     "profiles": {
         "cinematic": {
+            "name": "Cinematic (2-Line)",
             "prefixes": ["msg_ev"],
             "max_lines": 2,
             "split_threshold_for_2": 60,
-            "split_threshold_for_3": 9999, 
+            "split_threshold_for_3": 9999,
             "absolute_max_width": 75
         },
         "standard": {
+            "name": "Standard (3-Line)",
             "prefixes": ["msg_nq", "msg_ask", "msg_tq", "msg_tlk", "msg_sq"],
             "max_lines": 3,
             "split_threshold_for_2": 35,
@@ -56,31 +58,19 @@ def get_visual_length(text):
     Calculates character count ignoring Ruby tags.
     Handles the 'rt=... ]' space correctly.
     """
-    # 1. Remove the [System:Ruby...] wrappers, keep content
-    # matches: rt=ANYTHING including spaces, until closing ]
     clean_text = re.sub(r'\[System:Ruby rt=.*?\](.*?)\[/System:Ruby\]', r'\1', text)
-    
-    # 2. (Optional Polish) If you use Zero Width Spaces (\u200B), 
-    # we shouldn't count them in the length math.
-    clean_text = clean_text.replace('\u200B', '') 
-    
+    clean_text = clean_text.replace('\u200B', '')
     return len(clean_text)
 
 def tokenize_keeping_ruby_intact(text):
     """
     Splits text by spaces, but ensures spaces INSIDE ruby tags don't split the block.
     """
-    # 1. Protect spaces inside Ruby tags
     def protect_match(match):
         return match.group(0).replace(' ', '<<SPACE>>')
-    
-    # Regex now explicitly handles the space before the closing bracket if present
+
     protected_text = re.sub(r'\[System:Ruby.*?\](.*?)\[/System:Ruby\]', protect_match, text)
-    
-    # 2. Split normally
     raw_words = protected_text.split(' ')
-    
-    # 3. Restore spaces in the resulting tokens
     words = [w.replace('<<SPACE>>', ' ') for w in raw_words if w]
     return words
 
@@ -88,34 +78,34 @@ def force_split(words, num_lines):
     """Strictly splits 'words' into exactly 'num_lines' based on VISUAL length."""
     if num_lines <= 1:
         return [" ".join(words)]
-    
+
     total_visual_len = sum(get_visual_length(w) for w in words) + (len(words) - 1)
     target_visual_len = total_visual_len / num_lines
-    
+
     lines = []
     current_words = words[:]
-    
+
     for _ in range(num_lines - 1):
         best_split = 0
         best_diff = float('inf')
         current_visual_len = 0
-        
+
         for i, w in enumerate(current_words):
             w_vis_len = get_visual_length(w)
             len_with = current_visual_len + w_vis_len + (1 if current_visual_len > 0 else 0)
             diff = abs(len_with - target_visual_len)
-            
+
             if diff <= best_diff:
                 best_diff = diff
                 best_split = i + 1
                 current_visual_len = len_with
             else:
                 break
-        
+
         lines.append(" ".join(current_words[:best_split]))
         current_words = current_words[best_split:]
         if not current_words: break
-            
+
     if current_words:
         lines.append(" ".join(current_words))
     return lines
@@ -123,13 +113,9 @@ def force_split(words, num_lines):
 def process_text(text_content, profile):
     if not isinstance(text_content, str) or not text_content.strip():
         return text_content
-    
+
     clean_text = clean_and_flatten(text_content)
-    
-    # TOKENIZE (Ruby blocks stay as 1 item)
     words = tokenize_keeping_ruby_intact(clean_text)
-    
-    # ANALYZE (Count visual length only)
     total_len = sum(get_visual_length(w) for w in words) + (len(words) - 1)
 
     if total_len <= profile["split_threshold_for_2"]:
@@ -138,7 +124,7 @@ def process_text(text_content, profile):
         target_lines = 2
     else:
         target_lines = 3 if profile["max_lines"] >= 3 else 2
-        
+
     final_lines = force_split(words, target_lines)
     return "\n".join(final_lines)
 
@@ -154,27 +140,33 @@ def check_for_overflow(text_block, max_width):
 #           FILE PROCESSING
 # ==========================================
 
-def process_single_file(file_path, log, err_log, stats):
-    profile = get_profile_for_path(file_path)
-    if not profile: return 
+def process_single_file(file_path, log, err_log, stats, forced_profile=None):
+    # Determine which profile to use
+    if forced_profile:
+        profile = forced_profile
+    else:
+        profile = get_profile_for_path(file_path)
+
+    if not profile:
+        return
 
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-        
+
         modified = False
-        
+
         if "rows" in data:
             for row in data["rows"]:
                 target_key = CONFIG["target_key"]
-                
+
                 if target_key in row:
                     original_text = row[target_key]
                     if not original_text or original_text == "":
                         continue
 
                     new_text = process_text(original_text, profile)
-                    
+
                     is_overflow, max_len = check_for_overflow(new_text, profile["absolute_max_width"])
                     if is_overflow:
                         log_error(err_log, file_path, row.get("$id", "?"), new_text, max_len, profile["absolute_max_width"])
@@ -185,12 +177,12 @@ def process_single_file(file_path, log, err_log, stats):
                         log_change(log, file_path, row.get("$id", "?"), original_text, new_text)
                         modified = True
                         stats['changes'] += 1
-        
+
         if modified:
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
             stats['files_processed'] += 1
-            
+
     except Exception as e:
         print(f"Error processing {file_path}: {e}")
 
@@ -214,42 +206,92 @@ def log_error(errfile, filename, row_id, text, max_len, limit):
 # ==========================================
 
 def main():
-    parser = argparse.ArgumentParser(description="Balance text lines in JSON game files.")
-    parser.add_argument("-single", help="Process only this specific file path.", default=None)
+    parser = argparse.ArgumentParser(
+        description="""
+==============================================================================
+                       GAME TEXT AUTO-BALANCER TOOL
+==============================================================================
+This tool scans JSON files and reformats text fields <DBAF43F0> to be perfectly
+balanced across lines, respecting Japanese Ruby tags and UI limits.
+
+MODES:
+1. Batch Mode: Scans 'UnpackedBDAT' automatically.
+2. Single Mode: Targets one specific file (use -single).
+
+LOGIC PROFILES:
+- Standard (3-Line): Max 55 chars/line. Used for msg_nq, msg_ask, etc.
+- Cinematic (2-Line): Max 75 chars/line. Used for msg_ev.
+""",
+        formatter_class=argparse.RawTextHelpFormatter
+    )
+
+    parser.add_argument(
+        "-single",
+        metavar="FILE_PATH",
+        help="Process only this specific JSON file (skips folder scanning)."
+    )
+
+    parser.add_argument(
+        "-mode",
+        type=int,
+        choices=[2, 3],
+        help="""Force a specific logic mode (Overrides folder detection):
+  2 = Cinematic Mode (Max 2 lines, 75 char limit, splits at 45)
+  3 = Standard Mode (Max 3 lines, 55 char limit, splits at 35/80)
+Use this with -single to test files outside the usual folders."""
+    )
+
     args = parser.parse_args()
 
     stats = {'files_processed': 0, 'changes': 0, 'errors': 0}
-    
-    print("Initializing Text Balancer V8 (Ruby & Edge Case Final)...")
-    
+
+    # Determine if we are forcing a profile
+    forced_profile = None
+    if args.mode == 2:
+        forced_profile = CONFIG["profiles"]["cinematic"]
+        print(f"FORCED MODE: Using {forced_profile['name']} logic.")
+    elif args.mode == 3:
+        forced_profile = CONFIG["profiles"]["standard"]
+        print(f"FORCED MODE: Using {forced_profile['name']} logic.")
+
+    print("\nStarting Text Balancer...")
     all_prefixes = CONFIG["profiles"]["cinematic"]["prefixes"] + CONFIG["profiles"]["standard"]["prefixes"]
 
     with open(CONFIG["log_file"], "w", encoding="utf-8") as log, \
          open(CONFIG["error_file"], "w", encoding="utf-8") as err_log:
 
+        # CASE 1: Single File Mode
         if args.single:
-            print(f"Mode: Single File Target -> {args.single}")
+            print(f"Targeting Single File: {args.single}")
             if os.path.exists(args.single):
-                if get_profile_for_path(args.single):
-                    process_single_file(args.single, log, err_log, stats)
+                # Use forced profile if provided, otherwise detect
+                if forced_profile or get_profile_for_path(args.single):
+                    process_single_file(args.single, log, err_log, stats, forced_profile)
                 else:
-                    print(f"Skipping {args.single}: No matching profile found.")
+                    print(f"Skipping {args.single}: Path does not match known prefixes and no -mode specified.")
+                    print("Tip: Use -mode 2 or -mode 3 to force processing.")
             else:
-                print(f"Error: File not found.")
+                print(f"Error: File not found -> {args.single}")
 
+        # CASE 2: Batch Directory Mode
         else:
-            print(f"Mode: Batch Scan (Root: {CONFIG['root_directory']})")
+            print(f"Scanning Directory: {CONFIG['root_directory']}")
             for root, dirs, files in os.walk(CONFIG["root_directory"]):
                 if not any(os.path.basename(root).startswith(p) for p in all_prefixes):
                     continue
                 for file in files:
                     if file.endswith(".json"):
-                        process_single_file(os.path.join(root, file), log, err_log, stats)
+                        # Note: We pass forced_profile here too, just in case user wants to force
+                        # the ENTIRE batch to be 2 lines or 3 lines (rare but possible).
+                        process_single_file(os.path.join(root, file), log, err_log, stats, forced_profile)
 
-    print("\nProcessing Complete.")
-    print(f"Files Modified: {stats['files_processed']}")
-    print(f"Text Fields Updated: {stats['changes']}")
-    print(f"Overflow Errors: {stats['errors']}")
+    print("\n" + "="*40)
+    print(f"Processing Complete.")
+    print(f"Files Modified:    {stats['files_processed']}")
+    print(f"Text Rows Updated: {stats['changes']}")
+    print(f"Overflow Errors:   {stats['errors']}")
+    print(f"Logs saved to:     {CONFIG['log_file']}")
+    print("="*40 + "\n")
 
 if __name__ == "__main__":
     main()

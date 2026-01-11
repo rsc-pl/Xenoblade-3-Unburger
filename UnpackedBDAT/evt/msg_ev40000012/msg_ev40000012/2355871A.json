@@ -24,7 +24,7 @@
       "$id": 2,
       "<8C7DD24D>": "<8D05194A>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "That snowy mountain... it's like Captocorn Peak\nin the Aetia Region."
+      "<DBAF43F0>": "That snowy mountain... it's like\nCaptocorn Peak in the Aetia Region."
     },
     {
       "$id": 3,
@@ -36,19 +36,19 @@
       "$id": 4,
       "<8C7DD24D>": "<385EAA4B>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "That's not just Valak Mountain.\nIt's probably from Alrest...[ML:line ]"
+      "<DBAF43F0>": "That's not just Valak Mountain. It's\nprobably from Alrest...[ML:line ]"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<1ADEEC3C>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "Yeah, the fact that there are ruins from Luxuria\nprobably means the inside of Genbu itself has fused with it."
+      "<DBAF43F0>": "Yeah, the fact that there are ruins from Luxuria probably\nmeans the inside of Genbu itself has fused with it."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<262C5704>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "I would not want to get stranded\nin a place like that."
+      "<DBAF43F0>": "I would not want to get stranded in a place like that."
     }
   ]
 }

@@ -18,13 +18,13 @@
       "$id": 1,
       "<8C7DD24D>": "<51E768BF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](gasping for breath)"
+      "<DBAF43F0>": "[ML:undisp ]*pant, pant, pant*"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<905CAEFB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 3,
@@ -54,13 +54,13 @@
       "$id": 7,
       "<8C7DD24D>": "<EA828699>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's a Sirius Anemone."
+      "<DBAF43F0>": "It is a Sirius Anemone."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<A8EE7CC7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I extract it from a rare flower that blooms in the Invidia Mountains."
+      "<DBAF43F0>": "I extract it from a rare flower that\nblooms in the Invidia Mountains."
     },
     {
       "$id": 9,
@@ -84,13 +84,13 @@
       "$id": 12,
       "<8C7DD24D>": "<EA8B3E78>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It seems it's serving its purpose now."
+      "<DBAF43F0>": "It seems to be serving its purpose now."
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<732FB033>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm glad."
+      "<DBAF43F0>": "I am glad."
     },
     {
       "$id": 14,
@@ -108,13 +108,13 @@
       "$id": 16,
       "<8C7DD24D>": "<691B3411>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's because..."
+      "<DBAF43F0>": "It is because..."
     },
     {
       "$id": 17,
       "<8C7DD24D>": "<2C50887D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm the same as you."
+      "<DBAF43F0>": "I am the same."
     },
     {
       "$id": 18,
@@ -126,7 +126,7 @@
       "$id": 19,
       "<8C7DD24D>": "<1D23DBE8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "When I put my weapon away and look around at my friends' faces,\nI'm always filled with relief."
+      "<DBAF43F0>": "When I put my weapon away and look around at my\nfriends' faces, I am always filled with relief."
     },
     {
       "$id": 20,
@@ -168,7 +168,7 @@
       "$id": 26,
       "<8C7DD24D>": "<2F5C151F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Even as that [System:Ruby rt=moment]time[/System:Ruby] draws near...\ndo you really think you'd feel that way?"
+      "<DBAF43F0>": "Even as that [System:Ruby rt=moment]time[/System:Ruby] draws near... do you\nreally think you would feel that way?"
     },
     {
       "$id": 27,
@@ -180,7 +180,7 @@
       "$id": 28,
       "<8C7DD24D>": "<ACAE9E82>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I don't know."
+      "<DBAF43F0>": "I do not know."
     },
     {
       "$id": 29,
@@ -192,7 +192,7 @@
       "$id": 30,
       "<8C7DD24D>": "<D5FCA48F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Whether what you'd feel is satisfaction... or terror."
+      "<DBAF43F0>": "Whether what you would feel is satisfaction... or terror."
     },
     {
       "$id": 31,
@@ -204,13 +204,13 @@
       "$id": 32,
       "<8C7DD24D>": "<433B52B7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Me neither."
+      "<DBAF43F0>": "Nor would I."
     },
     {
       "$id": 33,
       "<8C7DD24D>": "<D35EB4B1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's exactly why..."
+      "<DBAF43F0>": "That is exactly why..."
     }
   ]
 }

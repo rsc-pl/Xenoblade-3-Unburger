@@ -120,7 +120,7 @@
       "$id": 18,
       "<8C7DD24D>": "<2EBD7AAA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Is there nothing left inside you? Of the feelings you had then?"
+      "<DBAF43F0>": "Is there nothing left inside you?\nOf the feelings you had then?"
     },
     {
       "$id": 19,
@@ -192,7 +192,7 @@
       "$id": 30,
       "<8C7DD24D>": "<54331DAA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If she has disappeared, then I just have to spin our story anew."
+      "<DBAF43F0>": "If she has disappeared, then I\njust have to spin our story anew."
     },
     {
       "$id": 31,
@@ -522,7 +522,7 @@
       "$id": 85,
       "<8C7DD24D>": "<B0D2A04D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The \"me\" that should exist in this world is one, and one alone."
+      "<DBAF43F0>": "The \"me\" that should exist in this\nworld is one, and one alone."
     }
   ]
 }

@@ -42,7 +42,7 @@
       "$id": 5,
       "<8C7DD24D>": "<4FE576A4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You're always like this."
+      "<DBAF43F0>": "You always do this."
     },
     {
       "$id": 6,
@@ -60,13 +60,13 @@
       "$id": 8,
       "<8C7DD24D>": "<12A3A6E8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They don't have one over on their side, do they? A Sender."
+      "<DBAF43F0>": "They don't have a Sender on their side, do they?"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<F5161731>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Well yeah, that's 'cause the [System:Ruby rt=we ]Kevesi army[/System:Ruby] went and did 'em in."
+      "<DBAF43F0>": "Well, yeah. That's 'cause the\n[System:Ruby rt=we ]Kevesi army[/System:Ruby] went and did 'em in."
     },
     {
       "$id": 10,
@@ -78,19 +78,19 @@
       "$id": 11,
       "<8C7DD24D>": "<C399E91B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's not written in the regulations."
+      "<DBAF43F0>": "It's not in the regulations."
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<54E0AEF7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You do it yourself, and then you send them off?"
+      "<DBAF43F0>": "You take 'em down, then you send 'em off?"
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<539BEC31>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's a contradiction, isn't it?"
+      "<DBAF43F0>": "Isn't that a contradiction?"
     },
     {
       "$id": 14,
@@ -114,7 +114,7 @@
       "$id": 17,
       "<8C7DD24D>": "<DDB97B16>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"Even for the enemy, the peace of life is necessary.\""
+      "<DBAF43F0>": "\"Even an enemy deserves peace in death.\""
     },
     {
       "$id": 18,
@@ -138,19 +138,19 @@
       "$id": 21,
       "<8C7DD24D>": "<6CD84BF8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Shut it. It's not like I was trying to imitate you or anything."
+      "<DBAF43F0>": "Shut it. It's not like I was trying to imitate you."
     },
     {
       "$id": 22,
       "<8C7DD24D>": "<E07BB30F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Right, enough of this gloomy talk.\nLet's head back and get in the bath."
+      "<DBAF43F0>": "Right, enough of this gloomy talk.\nLet's head back and take a bath."
     },
     {
       "$id": 23,
       "<8C7DD24D>": "<1904746D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This sweat and blood feels gross."
+      "<DBAF43F0>": "I feel gross, covered in sweat and blood."
     },
     {
       "$id": 24,
@@ -174,7 +174,7 @@
       "$id": 27,
       "<8C7DD24D>": "<1DDC4580>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Dammit... Because Noah does his sending off,\nwe always end up having to walk back!"
+      "<DBAF43F0>": "Dammit! It's 'cause you're always off\nsending people that we have to walk back!"
     }
   ]
 }

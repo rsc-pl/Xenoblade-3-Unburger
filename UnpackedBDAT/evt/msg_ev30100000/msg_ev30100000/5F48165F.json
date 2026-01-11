@@ -18,19 +18,19 @@
       "$id": 1,
       "<8C7DD24D>": "<BEDC126C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You sure this is the right place?\nThere's nothing here."
+      "<DBAF43F0>": "You sure this is the right place? There's nothing here."
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<6AF80ACC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It was just a rumor, after all.\nProbably a lie, wasn't it?"
+      "<DBAF43F0>": "It was just a rumor, after all. Probably a lie, wasn't it?"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<B6469549>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "No...[ML:line len=1 ]\nThis whole area is unnaturally quiet...[ML:line len=1 ]"
+      "<DBAF43F0>": "No...[ML:line len=1 ] This whole area is\nunnaturally quiet...[ML:line len=1 ]"
     },
     {
       "$id": 4,
@@ -150,7 +150,7 @@
       "$id": 23,
       "<8C7DD24D>": "<A26A6573>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Looks like it doesn't let prey that enters its territory escape..."
+      "<DBAF43F0>": "Looks like it doesn't let prey that\nenters its territory escape..."
     },
     {
       "$id": 24,

@@ -18,13 +18,13 @@
       "$id": 1,
       "<8C7DD24D>": "<7A286FC1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So what's this emergency assembly all about?"
+      "<DBAF43F0>": "What's this emergency assembly all about?"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<443420B2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's a royal decree from the Castle."
+      "<DBAF43F0>": "A royal decree from the Castle, apparently."
     },
     {
       "$id": 3,
@@ -36,13 +36,13 @@
       "$id": 4,
       "<8C7DD24D>": "<057BC922>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Seriously...? I just got to sleep a little while ago."
+      "<DBAF43F0>": "Seriously...? I only just got to sleep."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<CDB48B62>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's your fault for staying up late, mo."
+      "<DBAF43F0>": "It is your fault for staying up late, mo."
     },
     {
       "$id": 6,
@@ -72,7 +72,7 @@
       "$id": 10,
       "<8C7DD24D>": "<7EA457BB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Riku is a popular person,\nso he's flooded with offers from all sorts of people, mo."
+      "<DBAF43F0>": "Riku is very popular, so Riku gets flooded\nwith offers from all sorts of people, mo."
     },
     {
       "$id": 11,
@@ -84,7 +84,7 @@
       "$id": 12,
       "<8C7DD24D>": "<5E6C78FB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Well, if it bothers you,\nyou can just re-adjust the settings yourself, mo."
+      "<DBAF43F0>": "Well, if it bothers you so much, you can\njust readjust the settings yourself, mo."
     },
     {
       "$id": 13,
@@ -96,37 +96,37 @@
       "$id": 14,
       "<8C7DD24D>": "<0EB6D352>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I will now relay today's mission."
+      "<DBAF43F0>": "I will now relay the details of today's mission."
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<278300CB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The mission's objective is this,\ncurrently approaching the suppression area."
+      "<DBAF43F0>": "The mission's objective is this object,\ncurrently approaching our controlled territory."
     },
     {
       "$id": 16,
       "<8C7DD24D>": "<A9F93E76>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "From its observed mass, we surmise it is of a considerable size."
+      "<DBAF43F0>": "Based on its observed mass, we surmise\nit is of a considerable size."
     },
     {
       "$id": 17,
       "<8C7DD24D>": "<E41ADDDE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Based on its velocity,\nit is expected to reach the Alfeto Valley at 0100 hours."
+      "<DBAF43F0>": "Based on its velocity, it is expected\nto reach Alfeto Valley at 0100 hours."
     },
     {
       "$id": 18,
       "<8C7DD24D>": "<262A7D5A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "A significant amount of ether energy is being emitted from the target."
+      "<DBAF43F0>": "A significant amount of ether energy\nis being emitted from the target."
     },
     {
       "$id": 19,
       "<8C7DD24D>": "<916A6E7A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Your mission is to proceed to the valley by the designated time..."
+      "<DBAF43F0>": "Your mission is to proceed to the\nvalley by the designated time..."
     },
     {
       "$id": 20,
@@ -150,7 +150,7 @@
       "$id": 23,
       "<8C7DD24D>": "<2223371E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"Destruction\"... Does that mean it belongs to the Agnus army?"
+      "<DBAF43F0>": "\"Destroy\"... Does that imply it belongs to the Agnus army?"
     },
     {
       "$id": 24,
@@ -162,31 +162,31 @@
       "$id": 25,
       "<8C7DD24D>": "<0B6B9A0F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We have unconfirmed intelligence that they are also targeting this."
+      "<DBAF43F0>": "We have unconfirmed intelligence\nsuggesting they are also targeting this."
     },
     {
       "$id": 26,
       "<8C7DD24D>": "<F3C39972>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "In that case,\nit would be best to view it as belonging to a third party."
+      "<DBAF43F0>": "In that case, it would be best to\nassume it belongs to a third party."
     },
     {
       "$id": 27,
       "<8C7DD24D>": "<2A26A31C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Combat with Agnus forces in the area is also to be expected."
+      "<DBAF43F0>": "Combat with Agnus forces in the area is to be expected."
     },
     {
       "$id": 28,
       "<8C7DD24D>": "<D2A632F7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Details will be sent to your Iris after the operation begins."
+      "<DBAF43F0>": "Details will be sent to your Iris once the operation begins."
     },
     {
       "$id": 29,
       "<8C7DD24D>": "<CFF243D1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Carry out the mission with utmost vigilance."
+      "<DBAF43F0>": "Carry out the mission with the utmost vigilance."
     },
     {
       "$id": 30,

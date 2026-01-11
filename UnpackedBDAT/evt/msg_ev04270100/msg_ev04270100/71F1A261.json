@@ -54,7 +54,7 @@
       "$id": 7,
       "<8C7DD24D>": "<DD8BD4A2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Momo! Wake up, mo! Sleeping for twelve hours is too much, mo!"
+      "<DBAF43F0>": "Momo! Wake up, mo! Sleeping for\ntwelve hours is too much, mo!"
     },
     {
       "$id": 8,
@@ -96,7 +96,7 @@
       "$id": 14,
       "<8C7DD24D>": "<C89FAEB1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We were in the same colony for a long time,\nworking as Senders together."
+      "<DBAF43F0>": "We were in the same colony for a long\ntime, working as Senders together."
     },
     {
       "$id": 15,
@@ -126,7 +126,7 @@
       "$id": 19,
       "<8C7DD24D>": "<221452BC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But you see... our colony was conducting a certain experiment..."
+      "<DBAF43F0>": "But you see... our colony was\nconducting a certain experiment..."
     },
     {
       "$id": 20,
@@ -282,7 +282,7 @@
       "$id": 45,
       "<8C7DD24D>": "<E07DAAF3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That even though we've Interlinked,\nthere are still things I don't know about you."
+      "<DBAF43F0>": "That even though we've Interlinked, there\nare still things I don't know about you."
     },
     {
       "$id": 46,
@@ -306,7 +306,7 @@
       "$id": 49,
       "<8C7DD24D>": "<C47D3C44>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "And aren't there things that don't get through even if you do?"
+      "<DBAF43F0>": "And aren't there things that don't\nget through even if you do?"
     },
     {
       "$id": 50,

@@ -36,13 +36,13 @@
       "$id": 4,
       "<8C7DD24D>": "<E72DA26E>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "If possible, I'd like to do something about it\nbefore someone gets attacked."
+      "<DBAF43F0>": "If possible, I'd like to do something\nabout it before someone gets attacked."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<DE4ECEEF>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "[ML:line ]Actually, I feel like something similar\nhas happened there before..."
+      "<DBAF43F0>": "[ML:line ]Actually, I feel like something\nsimilar has happened there before..."
     },
     {
       "$id": 6,
@@ -54,7 +54,7 @@
       "$id": 7,
       "<8C7DD24D>": "<2AC27B94>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "Huh, sounds interesting.\nIf we see it, let's test our skills against it!"
+      "<DBAF43F0>": "Huh, sounds interesting. If we see it,\nlet's test our skills against it!"
     }
   ]
 }

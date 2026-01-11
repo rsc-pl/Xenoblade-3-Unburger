@@ -30,7 +30,7 @@
       "$id": 3,
       "<8C7DD24D>": "<13E9AEC4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Were you hit somewhere?"
+      "<DBAF43F0>": "Were you hit?"
     },
     {
       "$id": 4,
@@ -48,7 +48,7 @@
       "$id": 6,
       "<8C7DD24D>": "<7AD658AE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The enemy's behavior is different from before. A little strange."
+      "<DBAF43F0>": "The enemy's behavior is different\nfrom before. A little strange."
     },
     {
       "$id": 7,
@@ -60,25 +60,25 @@
       "$id": 8,
       "<8C7DD24D>": "<AB3D16DD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Even when a battle starts,\nthe other soldiers don't move in to follow up."
+      "<DBAF43F0>": "Even when a battle begins, the other\nsoldiers do not move to support."
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<7338CA3A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It feels like they're each acting separately."
+      "<DBAF43F0>": "It feels as if each is acting independently."
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<AE56AF30>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Isn't it just your imagination?"
+      "<DBAF43F0>": "Just your imagination, isn't it?"
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<40601FFB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I thought so too at first, but..."
+      "<DBAF43F0>": "I thought so as well at first, but..."
     },
     {
       "$id": 12,

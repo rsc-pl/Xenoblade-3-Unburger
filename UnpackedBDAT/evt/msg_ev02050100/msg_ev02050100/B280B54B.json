@@ -24,31 +24,31 @@
       "$id": 2,
       "<8C7DD24D>": "<44483AB8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Okay, there. Lower it down!"
+      "<DBAF43F0>": "Okay, right there. Lower it down!"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<F8691821>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Make sure the seal is tight."
+      "<DBAF43F0>": "Make sure that seal is tight."
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<7437C343>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The sand grains here are finer than [System:Ruby rt=Ruska ]wheat[/System:Ruby] flour."
+      "<DBAF43F0>": "The grains of sand here are finer than [System:Ruby rt=Ruska ]wheat[/System:Ruby] flour."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<C87E227A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Should I make it a triple seal?"
+      "<DBAF43F0>": "Should I triple-seal it?"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<475D25A0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yes, as long as it doesn't affect the drive."
+      "<DBAF43F0>": "Yes, as long as it doesn't affect the drive mechanism."
     },
     {
       "$id": 7,
@@ -66,13 +66,13 @@
       "$id": 9,
       "<8C7DD24D>": "<201F881B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Did you screw up the requisition?"
+      "<DBAF43F0>": "Did someone screw up the requisition?"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<2933EEAD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I don't know! If you have a complaint,\ntake it to the logistics department!"
+      "<DBAF43F0>": "How should I know! If you've got a\ncomplaint, take it to logistics!"
     },
     {
       "$id": 11,
@@ -84,19 +84,19 @@
       "$id": 12,
       "<8C7DD24D>": "<F9E3F5FF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You think [System:Ruby rt=the Castle ]the homeland[/System:Ruby] isn't looking down on us?"
+      "<DBAF43F0>": "You think [System:Ruby rt=the Castle ]the homeland[/System:Ruby] looks down on us?"
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<0E59E722>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It really pisses me off. We get better results than anywhere else."
+      "<DBAF43F0>": "It really pisses me off. We get\nbetter results than anyone else."
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<1AC1E1E8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Did you know?"
+      "<DBAF43F0>": "Hey, you know?"
     },
     {
       "$id": 15,
@@ -108,7 +108,7 @@
       "$id": 16,
       "<8C7DD24D>": "<167B9698>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh yeah? So what about Dirt rank?"
+      "<DBAF43F0>": "Oh yeah? And what about Dirt rank?"
     },
     {
       "$id": 17,
@@ -120,25 +120,25 @@
       "$id": 18,
       "<8C7DD24D>": "<AB5E8E13>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Haaah... I miss the days when we were Silver."
+      "<DBAF43F0>": "Haaah... I miss the days when we were Silver rank."
     },
     {
       "$id": 19,
       "<8C7DD24D>": "<B171C8B5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Back then, we didn't get field provisions.\nThe cooks would come right out to the front lines for us."
+      "<DBAF43F0>": "Back then, we didn't get field provisions. The\ncooks would come right out to the front lines."
     },
     {
       "$id": 20,
       "<8C7DD24D>": "<75182C3B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The meat was Armu sirloin, you know?"
+      "<DBAF43F0>": "The meat was Armu sirloin, you hear me?"
     },
     {
       "$id": 21,
       "<8C7DD24D>": "<4E9E1752>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Seriously!?"
+      "<DBAF43F0>": "You serious!?"
     },
     {
       "$id": 22,
@@ -150,31 +150,31 @@
       "$id": 23,
       "<8C7DD24D>": "<BD537E31>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What is it? Ah!"
+      "<DBAF43F0>": "What? Ah!"
     },
     {
       "$id": 24,
       "<8C7DD24D>": "<906F340B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It is because of my failings that I cause you all such hardship."
+      "<DBAF43F0>": "It is because of my failings that\nI cause you all such hardship."
     },
     {
       "$id": 25,
       "<8C7DD24D>": "<D88057D2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I am truly sorry."
+      "<DBAF43F0>": "My deepest apologies."
     },
     {
       "$id": 26,
       "<8C7DD24D>": "<8964DDAE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "N-No, not at all! Please forgive our rudeness, Commander Ethel!"
+      "<DBAF43F0>": "N-No, not at all! Please forgive\nour rudeness, Commander Ethel!"
     },
     {
       "$id": 27,
       "<8C7DD24D>": "<0A64D7A4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Please forget our foolish talk just now!\nWe, from the bottom of our hearts, believe the Commander is—"
+      "<DBAF43F0>": "Please forget our idle talk! We, from the bottom\nof our hearts, believe the Commander is—"
     },
     {
       "$id": 28,
@@ -198,7 +198,7 @@
       "$id": 31,
       "<8C7DD24D>": "<8E0B7143>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I would like to be able to eat it again."
+      "<DBAF43F0>": "I hope we can eat it again someday."
     },
     {
       "$id": 32,
@@ -216,13 +216,13 @@
       "$id": 34,
       "<8C7DD24D>": "<B9344E76>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I quite like the Volff, you know."
+      "<DBAF43F0>": "I quite like the Volff meat, myself."
     },
     {
       "$id": 35,
       "<8C7DD24D>": "<83B9DCB1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Heh. That's because you have a foolish tongue."
+      "<DBAF43F0>": "Heh. That's because you have no taste."
     },
     {
       "$id": 36,
@@ -234,13 +234,13 @@
       "$id": 37,
       "<8C7DD24D>": "<D20A3EA5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Shall we trade tongues, then?"
+      "<DBAF43F0>": "Care to trade tongues?"
     },
     {
       "$id": 38,
       "<8C7DD24D>": "<02A544FA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I think I'll pass."
+      "<DBAF43F0>": "I think I will pass."
     },
     {
       "$id": 39,
@@ -258,19 +258,19 @@
       "$id": 41,
       "<8C7DD24D>": "<9E8FE728>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They certainly cleared out quickly."
+      "<DBAF43F0>": "They certainly cleared out."
     },
     {
       "$id": 42,
       "<8C7DD24D>": "<C5F76D47>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The attending Consul, the rumors say he is a man of precise character."
+      "<DBAF43F0>": "The new Consul... rumor has it\nhe's a man of precise character."
     },
     {
       "$id": 43,
       "<8C7DD24D>": "<1929827D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I just hope he's not another stick-in-the-mud."
+      "<DBAF43F0>": "I just hope he isn't another stick-in-the-mud."
     },
     {
       "$id": 44,
@@ -282,7 +282,7 @@
       "$id": 45,
       "<8C7DD24D>": "<A1C699B2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yes. Five minutes until the scheduled time..."
+      "<DBAF43F0>": "Yes. Five minutes until the scheduled arrival..."
     },
     {
       "$id": 46,
@@ -294,7 +294,7 @@
       "$id": 47,
       "<8C7DD24D>": "<C789BB54>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"A man of precise character\"... it seems the rumors were true."
+      "<DBAF43F0>": "\"A man of precise character\"...\nit seems the rumors were true."
     }
   ]
 }

@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<97D55CE8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"Mission Start.\""
+      "<DBAF43F0>": "\"Operation Start.\""
     },
     {
       "$id": 2,
@@ -30,13 +30,13 @@
       "$id": 3,
       "<8C7DD24D>": "<26A1048B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's not Kevesi, nor is it Agnian."
+      "<DBAF43F0>": "It's not Kevesi, and it's not Agnian."
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<4500295A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What is that thing...?"
+      "<DBAF43F0>": "What the hell is that thing?"
     },
     {
       "$id": 5,
@@ -48,19 +48,19 @@
       "$id": 6,
       "<8C7DD24D>": "<4D65071A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So it's kicked off..."
+      "<DBAF43F0>": "So it begins..."
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<78B4EA52>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We will proceed to fulfill the objective."
+      "<DBAF43F0>": "We're heading for the objective."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<8B1BAD5A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Roger!"
+      "<DBAF43F0>": "Roger."
     }
   ]
 }

@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<EA4255A0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I feel like I was able to move as\nnimbly as you do when you fight, Mio."
+      "<DBAF43F0>": "I felt like I could move just as\nnimbly as you do when you fight, Mio."
     },
     {
       "$id": 2,
@@ -36,13 +36,13 @@
       "$id": 4,
       "<8C7DD24D>": "<78CE30DC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Fufu, with a little more practice, I might even get better than you."
+      "<DBAF43F0>": "Fufu, with a little more practice, I\nmight become even better than you."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<08E2510C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I didn't really feel it before, but...\nthis Ouroboros thing is incredible."
+      "<DBAF43F0>": "It hadn't really sunk in before, but...\nthis Ouroboros power is incredible."
     },
     {
       "$id": 6,
@@ -72,7 +72,7 @@
       "$id": 10,
       "<8C7DD24D>": "<BAD19813>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If we fight together and accumulate experience,\nwe will become able to handle the other members' classes..."
+      "<DBAF43F0>": "If we fight together and accumulate experience, we\nwill become able to use the other members' classes..."
     },
     {
       "$id": 11,
@@ -84,13 +84,13 @@
       "$id": 12,
       "<8C7DD24D>": "<DCE6A94F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "There is much I would like to verify, but..."
+      "<DBAF43F0>": "There is much I would like to verify, however..."
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<BCAAF643>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...it is dangerous to remain in the same place for too long."
+      "<DBAF43F0>": "...it is dangerous to remain in one place for too long."
     },
     {
       "$id": 14,
@@ -102,7 +102,7 @@
       "$id": 15,
       "<8C7DD24D>": "<F7DFE528>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Alright then, let's hurry up and aim for the south."
+      "<DBAF43F0>": "Alright then, let's get a move on and head south."
     }
   ]
 }

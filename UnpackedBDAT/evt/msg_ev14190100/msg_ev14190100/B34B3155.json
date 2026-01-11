@@ -150,7 +150,7 @@
       "$id": 23,
       "<8C7DD24D>": "<519CD6E8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "In this world, it's a name only Alpha and I can claim.[ML:line len=1 ]"
+      "<DBAF43F0>": "In this world, it's a name only Alpha\nand I can claim.[ML:line len=1 ]"
     }
   ]
 }

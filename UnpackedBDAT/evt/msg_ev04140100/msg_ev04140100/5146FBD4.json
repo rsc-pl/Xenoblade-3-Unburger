@@ -192,13 +192,13 @@
       "$id": 30,
       "<8C7DD24D>": "<5B2C2C64>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Did you not consider the possibility that Riku ate it, desu mo?"
+      "<DBAF43F0>": "[ML:undisp ]Did you not consider the\npossibility that Riku ate it, desu mo?"
     },
     {
       "$id": 31,
       "<8C7DD24D>": "<A7915261>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]No way it was Riku. This guy's a pretty small eater."
+      "<DBAF43F0>": "[ML:undisp ]No way it was Riku.\nThis guy's a pretty small eater."
     },
     {
       "$id": 32,
@@ -210,7 +210,7 @@
       "$id": 33,
       "<8C7DD24D>": "<C33B91D4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Indeed, mo. Riku has a policy of not consuming excess calories, mo."
+      "<DBAF43F0>": "[ML:undisp ]Indeed, mo. Riku has a policy\nof not consuming excess calories, mo."
     },
     {
       "$id": 34,
@@ -246,7 +246,7 @@
       "$id": 39,
       "<8C7DD24D>": "<A68DD751>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]I definitely heard you say that Manana is super-duper fat, mo!"
+      "<DBAF43F0>": "[ML:undisp ]I definitely heard you say\nthat Manana is super-duper fat, mo!"
     },
     {
       "$id": 40,
@@ -276,13 +276,13 @@
       "$id": 44,
       "<8C7DD24D>": "<3CD4BA1F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]My mood wouldn't improve even if I received\nten thousand Sweetie Sausages, desu mo!"
+      "<DBAF43F0>": "[ML:undisp ]My mood wouldn't improve even if I\nreceived ten thousand Sweetie Sausages, desu mo!"
     },
     {
       "$id": 45,
       "<8C7DD24D>": "<23B98932>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Ten thousand!? They'd spoil before you could finish them all!"
+      "<DBAF43F0>": "[ML:undisp ]Ten thousand!? They'd spoil\nbefore you could finish them all!"
     },
     {
       "$id": 46,
@@ -342,7 +342,7 @@
       "$id": 55,
       "<8C7DD24D>": "<7B1DCA81>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]The best-before date is 15 days, so it's a piece of cake, desu mo!"
+      "<DBAF43F0>": "[ML:undisp ]The best-before date is 15\ndays, so it's a piece of cake, desu mo!"
     },
     {
       "$id": 56,
@@ -390,7 +390,7 @@
       "$id": 63,
       "<8C7DD24D>": "<C97B4514>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Today of all days, I will absolutely not forgive you, mooo!"
+      "<DBAF43F0>": "[ML:undisp ]Today of all days, I will\nabsolutely not forgive you, mooo!"
     }
   ]
 }

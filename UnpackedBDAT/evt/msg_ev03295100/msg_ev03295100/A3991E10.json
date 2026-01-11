@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<B693C11C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "[ML:undisp ]*pant, pant, pant...*"
     },
     {
       "$id": 2,
@@ -96,7 +96,7 @@
       "$id": 14,
       "<8C7DD24D>": "<DEA241BE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Do you understand the feeling of nostalgia so strong,\nit makes you tremble?"
+      "<DBAF43F0>": "Do you understand the feeling of nostalgia\nso strong, it makes you tremble?"
     },
     {
       "$id": 15,
@@ -114,7 +114,7 @@
       "$id": 17,
       "<8C7DD24D>": "<B682F100>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'd forgotten..."
+      "<DBAF43F0>": "I had forgotten..."
     },
     {
       "$id": 18,
@@ -132,13 +132,13 @@
       "$id": 20,
       "<8C7DD24D>": "<4D9C560F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "When you only have a life of ten short years,\nthey're just words and nothing more."
+      "<DBAF43F0>": "when you only have a life of ten short years,\nthey are just words and nothing more."
     },
     {
       "$id": 21,
       "<8C7DD24D>": "<D15A2E91>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "There's no real feeling behind them."
+      "<DBAF43F0>": "There is no real feeling behind them."
     },
     {
       "$id": 22,
@@ -150,7 +150,7 @@
       "$id": 23,
       "<8C7DD24D>": "<9D184E4C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "N-No, it can't be..."
+      "<DBAF43F0>": "N-No, it cannot be..."
     },
     {
       "$id": 24,
@@ -180,7 +180,7 @@
       "$id": 28,
       "<8C7DD24D>": "<DE90A6F1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Right now, what I'm feeling is nothing short of moving."
+      "<DBAF43F0>": "Right now, what I am feeling is nothing short of moving."
     },
     {
       "$id": 29,
@@ -270,7 +270,7 @@
       "$id": 43,
       "<8C7DD24D>": "<363ABAA8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "As long as that memory isn't a mistake..."
+      "<DBAF43F0>": "As long as that memory is not a mistake..."
     },
     {
       "$id": 44,
@@ -294,7 +294,7 @@
       "$id": 47,
       "<8C7DD24D>": "<6490A855>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Are you... that Joran!?"
+      "<DBAF43F0>": "Are you... *that* Joran!?"
     },
     {
       "$id": 48,
@@ -306,7 +306,7 @@
       "$id": 49,
       "<8C7DD24D>": "<CA9AA3E9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"Alive\"?"
+      "<DBAF43F0>": "Alive?"
     },
     {
       "$id": 50,
@@ -324,7 +324,7 @@
       "$id": 52,
       "<8C7DD24D>": "<346595E1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "And that's precisely why I can be here now."
+      "<DBAF43F0>": "And that is precisely why I can be here now."
     },
     {
       "$id": 53,
@@ -372,19 +372,19 @@
       "$id": 60,
       "<8C7DD24D>": "<30D77641>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "and transfer them into mud dolls."
+      "<DBAF43F0>": "and transfer them into Mud Dolls."
     },
     {
       "$id": 61,
       "<8C7DD24D>": "<2E318C3C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Into mud dolls..."
+      "<DBAF43F0>": "Into Mud Dolls..."
     },
     {
       "$id": 62,
       "<8C7DD24D>": "<B57A9697>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"Transfer,\" you say?"
+      "<DBAF43F0>": "you can \"transfer\" them?"
     },
     {
       "$id": 63,
@@ -402,7 +402,7 @@
       "$id": 65,
       "<8C7DD24D>": "<17A395D9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "N-No... I'm still..."
+      "<DBAF43F0>": "N-No... I still..."
     },
     {
       "$id": 66,
@@ -444,7 +444,7 @@
       "$id": 72,
       "<8C7DD24D>": "<5A2E6834>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I don't want to die! I don't want to die in a place like this!"
+      "<DBAF43F0>": "I don't want to die! I don't want\nto die in a place like this!"
     },
     {
       "$id": 73,
@@ -462,13 +462,13 @@
       "$id": 75,
       "<8C7DD24D>": "<DC73BFB3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Their bodies may be mud, but their feelings are the real thing."
+      "<DBAF43F0>": "Their bodies may be mud, but their\nfeelings are the real thing."
     },
     {
       "$id": 76,
       "<8C7DD24D>": "<EA070287>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Though since they don't have hearts,\nthey tend to speak with brutal honesty."
+      "<DBAF43F0>": "Though since they have no hearts, they\ntend to speak with brutal honesty."
     },
     {
       "$id": 77,
@@ -510,7 +510,7 @@
       "$id": 83,
       "<8C7DD24D>": "<3A4706CF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I wonder what words would come pouring out from those cool,\ncomposed faces of yours?"
+      "<DBAF43F0>": "I wonder what words would come pouring out\nfrom those cool, composed faces of yours?"
     },
     {
       "$id": 84,
@@ -522,7 +522,7 @@
       "$id": 85,
       "<8C7DD24D>": "<F4FE961B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If only you hadn't become Ouroboros."
+      "<DBAF43F0>": "If only you had not become Ouroboros."
     },
     {
       "$id": 86,
@@ -552,7 +552,7 @@
       "$id": 90,
       "<8C7DD24D>": "<95F49BCF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You didn't know anything."
+      "<DBAF43F0>": "You knew nothing."
     },
     {
       "$id": 91,
@@ -582,7 +582,7 @@
       "$id": 95,
       "<8C7DD24D>": "<F7FA1B0B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Becoming Moebius was the best thing that ever happened to me!"
+      "<DBAF43F0>": "Becoming Moebius was the best\nthing that ever happened to me!"
     },
     {
       "$id": 96,

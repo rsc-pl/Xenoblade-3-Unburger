@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<7CBB4022>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Whoa... they've really brought out something amazing!"
+      "<DBAF43F0>": "Whoa... they really brought out the good stuff."
     },
     {
       "$id": 2,
@@ -30,7 +30,7 @@
       "$id": 3,
       "<8C7DD24D>": "<03CDE6A4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What's up?"
+      "<DBAF43F0>": "What's wrong?"
     },
     {
       "$id": 4,
@@ -42,7 +42,7 @@
       "$id": 5,
       "<8C7DD24D>": "<1AEC1C37>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Talking about Colony Ranks? Well, we had a huge victory yesterday."
+      "<DBAF43F0>": "Talking about Colony Ranks? Well, we\nhad that huge victory yesterday."
     },
     {
       "$id": 6,
@@ -60,7 +60,7 @@
       "$id": 8,
       "<8C7DD24D>": "<52F65EF7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "No matter how you look at it,\nthat's something they deploy to Silver class, mo."
+      "<DBAF43F0>": "No matter how you look at it, that's something\nthey deploy to Silver-class Colonies, mo."
     },
     {
       "$id": 9,
@@ -78,7 +78,7 @@
       "$id": 11,
       "<8C7DD24D>": "<8BDFE6D8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's a royal decree, right? A boost in our strength is a good thing!"
+      "<DBAF43F0>": "It's a royal decree, right? More\nfirepower's a good thing, right?"
     },
     {
       "$id": 12,
@@ -96,7 +96,7 @@
       "$id": 14,
       "<8C7DD24D>": "<EDA68CF9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Wedge formation to Point D! All squads, don't fall behind!"
+      "<DBAF43F0>": "Wedge formation to Point D! All squads, keep up!"
     }
   ]
 }

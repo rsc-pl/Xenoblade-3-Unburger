@@ -72,7 +72,7 @@
       "$id": 10,
       "<8C7DD24D>": "<717FAD58>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Be that as it may, with [System:Ruby rt=you ]Shulk[/System:Ruby] here, why were you attacked by Moebius?"
+      "<DBAF43F0>": "Be that as it may, with [System:Ruby rt=you ]Shulk[/System:Ruby] here,\nwhy were you attacked by Moebius?"
     },
     {
       "$id": 11,
@@ -90,7 +90,7 @@
       "$id": 13,
       "<8C7DD24D>": "<A67DFCCB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Even though we were protecting her, she told the enemy our location."
+      "<DBAF43F0>": "Even though we were protecting her,\nshe told the enemy our location."
     },
     {
       "$id": 14,
@@ -288,7 +288,7 @@
       "$id": 46,
       "<8C7DD24D>": "<572E47BC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I get that you guys aren't our enemies given the situation, but..."
+      "<DBAF43F0>": "I get that you guys aren't our\nenemies given the situation, but..."
     },
     {
       "$id": 47,
@@ -372,7 +372,7 @@
       "$id": 60,
       "<8C7DD24D>": "<E57DD510>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If it is alright with you, it would be reassuring\nif you would accompany us."
+      "<DBAF43F0>": "If it is alright with you, it would be\nreassuring if you would accompany us."
     },
     {
       "$id": 61,

@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<4C4A6D36>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "What is this place?\nIt looks much older than Colony 9..."
+      "<DBAF43F0>": "What is this place? It looks much older than Colony 9..."
     },
     {
       "$id": 2,
@@ -30,7 +30,7 @@
       "$id": 3,
       "<8C7DD24D>": "<C6E13D8D>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "Hmph...? Buildings made of stone,\nhow primitive."
+      "<DBAF43F0>": "Hmph...? Buildings made of stone, how primitive."
     },
     {
       "$id": 4,
@@ -42,13 +42,13 @@
       "$id": 5,
       "<8C7DD24D>": "<EF24D6B7>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "Well, compared to the last time I saw it,\nonly a part of it remains, but..."
+      "<DBAF43F0>": "Well, compared to the last time I saw\nit, only a part of it remains, but..."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<AF26B766>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "Still, you can feel... what's it called...\nthe romance of history!"
+      "<DBAF43F0>": "Still, you can feel... what's it\ncalled... the romance of history!"
     },
     {
       "$id": 7,
@@ -60,7 +60,7 @@
       "$id": 8,
       "<8C7DD24D>": "<7E4C12A3>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "...Right, not interested, huh?\nYeah, I guess not..."
+      "<DBAF43F0>": "...Right, not interested, huh? Yeah, I guess not..."
     }
   ]
 }

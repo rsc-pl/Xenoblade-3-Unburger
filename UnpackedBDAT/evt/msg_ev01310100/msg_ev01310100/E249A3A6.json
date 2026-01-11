@@ -36,13 +36,13 @@
       "$id": 4,
       "<8C7DD24D>": "<D678E8B3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "How long do you intend to stay like this?"
+      "<DBAF43F0>": "How long are you gonna stand around like this?"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<933C0D8A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "And with them, our enemies, no less."
+      "<DBAF43F0>": "Especially with *them*, the enemy."
     },
     {
       "$id": 6,
@@ -54,7 +54,7 @@
       "$id": 7,
       "<8C7DD24D>": "<94B895B6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This doesn't feel good."
+      "<DBAF43F0>": "This feels all kinds of wrong."
     },
     {
       "$id": 8,
@@ -72,13 +72,13 @@
       "$id": 10,
       "<8C7DD24D>": "<FF23700D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Taion, that tone of voice..."
+      "<DBAF43F0>": "Taion, that tone..."
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<013C7CBA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...rein it in a little."
+      "<DBAF43F0>": "...try to tone it down a bit."
     },
     {
       "$id": 12,
@@ -108,7 +108,7 @@
       "$id": 16,
       "<8C7DD24D>": "<D703FEEB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Does everyone want to live?"
+      "<DBAF43F0>": "Does everyone here want to live?"
     },
     {
       "$id": 17,
@@ -126,7 +126,7 @@
       "$id": 19,
       "<8C7DD24D>": "<A4799EFE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's a given, isn't it?"
+      "<DBAF43F0>": "Well, that's a given, isn't it?"
     },
     {
       "$id": 20,
@@ -144,31 +144,31 @@
       "$id": 22,
       "<8C7DD24D>": "<F8DEE05A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You... what are you suddenly saying...?"
+      "<DBAF43F0>": "You... what are you talking about all of a sudden?"
     },
     {
       "$id": 23,
       "<8C7DD24D>": "<E0D3F0C5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That story about the world being our enemy is probably true."
+      "<DBAF43F0>": "The story about the world being\nour enemy... I think it's true."
     },
     {
       "$id": 24,
       "<8C7DD24D>": "<0E03B545>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We can't go back to the Colony anymore."
+      "<DBAF43F0>": "We can't go back to our Colonies anymore."
     },
     {
       "$id": 25,
       "<8C7DD24D>": "<2CB22F22>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Those eyes... the red eyes of the soldiers."
+      "<DBAF43F0>": "Those eyes... the soldiers' red eyes."
     },
     {
       "$id": 26,
       "<8C7DD24D>": "<B0E35239>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They were the same as his."
+      "<DBAF43F0>": "They were just like his."
     },
     {
       "$id": 27,
@@ -180,19 +180,19 @@
       "$id": 28,
       "<8C7DD24D>": "<FFCFD448>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This is just a guess, but..."
+      "<DBAF43F0>": "This is just a hypothesis, but..."
     },
     {
       "$id": 29,
       "<8C7DD24D>": "<DFFEF5B9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...what if the soldiers are seeing us as enemies?"
+      "<DBAF43F0>": "...what if the soldiers perceive us as the enemy?"
     },
     {
       "$id": 30,
       "<8C7DD24D>": "<F72F91D9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Because of the red eyes?"
+      "<DBAF43F0>": "Because of their red eyes?"
     },
     {
       "$id": 31,
@@ -204,13 +204,13 @@
       "$id": 32,
       "<8C7DD24D>": "<D47F7C13>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But why would the Colony's soldiers...?"
+      "<DBAF43F0>": "But why would our own Colony's soldiers...?"
     },
     {
       "$id": 33,
       "<8C7DD24D>": "<D202D519>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Are you saying he did it?"
+      "<DBAF43F0>": "Are you saying *he* did it?"
     },
     {
       "$id": 34,
@@ -222,13 +222,13 @@
       "$id": 35,
       "<8C7DD24D>": "<8EF377E0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I do not know the method, but if we assume so, it all fits together."
+      "<DBAF43F0>": "I do not know the method, but\nthe theory explains everything."
     },
     {
       "$id": 36,
       "<8C7DD24D>": "<D2C86401>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If that's the truth, then all the more reason."
+      "<DBAF43F0>": "If that's true, then we have all the more reason."
     },
     {
       "$id": 37,
@@ -240,7 +240,7 @@
       "$id": 38,
       "<8C7DD24D>": "<E4E47532>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...our chances of survival will increase\nif we cooperate with each other."
+      "<DBAF43F0>": "...our chances of survival will increase if we cooperate."
     },
     {
       "$id": 39,
@@ -252,19 +252,19 @@
       "$id": 40,
       "<8C7DD24D>": "<98087749>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I certainly can't deny that..."
+      "<DBAF43F0>": "I certainly cannot deny that..."
     },
     {
       "$id": 41,
       "<8C7DD24D>": "<047B3BC4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If we're going to be on the run anyway,\nisn't it better to have some kind of objective?"
+      "<DBAF43F0>": "If we have to be on the run, isn't it better to have a goal?"
     },
     {
       "$id": 42,
       "<8C7DD24D>": "<114B05E9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Different people, with the same goal..."
+      "<DBAF43F0>": "Different people, sharing the same purpose..."
     },
     {
       "$id": 43,
@@ -276,13 +276,13 @@
       "$id": 44,
       "<8C7DD24D>": "<D9E75456>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The one about being able to live longer?"
+      "<DBAF43F0>": "The part about living longer?"
     },
     {
       "$id": 45,
       "<8C7DD24D>": "<87768FA7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What are you going to do about the Coming-of-Age Ceremony?"
+      "<DBAF43F0>": "What're you gonna do about your Coming-of-Age Ceremony?"
     },
     {
       "$id": 46,
@@ -300,7 +300,7 @@
       "$id": 48,
       "<8C7DD24D>": "<94774C1B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You know it's impossible, don't you? You've had your suspicions."
+      "<DBAF43F0>": "Deep down, you already know it's impossible, don't you?"
     },
     {
       "$id": 49,
@@ -312,7 +312,7 @@
       "$id": 50,
       "<8C7DD24D>": "<42FCF4B0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If you say you want to go through\nwith it no matter what, I won't stop you."
+      "<DBAF43F0>": "If you still want to go through with\nit no matter what, I won't stop you."
     },
     {
       "$id": 51,
@@ -336,7 +336,7 @@
       "$id": 54,
       "<8C7DD24D>": "<3F3EE3C7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "To begin with..."
+      "<DBAF43F0>": "But to begin with..."
     },
     {
       "$id": 55,
@@ -348,19 +348,19 @@
       "$id": 56,
       "<8C7DD24D>": "<9B23A041>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You've seen the Coming-of-Age Ceremony before, right?"
+      "<DBAF43F0>": "We've all seen the Coming-of-Age Ceremony."
     },
     {
       "$id": 57,
       "<8C7DD24D>": "<1D5093FA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Even if we receive it, what's left?"
+      "<DBAF43F0>": "Even if we get to have one, what's left in the end?"
     },
     {
       "$id": 58,
       "<8C7DD24D>": "<A07145B1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They were being praised, weren't they? By so many people."
+      "<DBAF43F0>": "They were being celebrated, weren't\nthey? By crowds of people."
     },
     {
       "$id": 59,
@@ -372,7 +372,7 @@
       "$id": 60,
       "<8C7DD24D>": "<A0B44CBB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "To me, it looked like they were standing on a pile of husks."
+      "<DBAF43F0>": "To me, it looked like they were\nstanding on a pile of empty husks."
     },
     {
       "$id": 61,
@@ -384,13 +384,13 @@
       "$id": 62,
       "<8C7DD24D>": "<5AA24B24>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It looked like they were kneeling upon life itself."
+      "<DBAF43F0>": "It looked like they were kneeling on life itself."
     },
     {
       "$id": 63,
       "<8C7DD24D>": "<EB020368>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Is that really what we should be leaving behind?"
+      "<DBAF43F0>": "Is that really the legacy we should be leaving behind?"
     },
     {
       "$id": 64,
@@ -402,19 +402,19 @@
       "$id": 65,
       "<8C7DD24D>": "<9CC3017F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Then what do you want me to do!?"
+      "<DBAF43F0>": "Then what are we supposed to do!?"
     },
     {
       "$id": 66,
       "<8C7DD24D>": "<4EAFB2FC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "There's no easy answer."
+      "<DBAF43F0>": "There isn't an easy answer."
     },
     {
       "$id": 67,
       "<8C7DD24D>": "<FCF89E4D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I understand that much."
+      "<DBAF43F0>": "I know that much."
     },
     {
       "$id": 68,
@@ -432,7 +432,7 @@
       "$id": 70,
       "<8C7DD24D>": "<7BB7D4B7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The reason that man entrusted this power to us... the meaning behind his words, \"true enemy\"..."
+      "<DBAF43F0>": "The reason that man entrusted us with this power...\nthe true meaning of his words, our \"real enemy\"..."
     },
     {
       "$id": 71,
@@ -456,25 +456,25 @@
       "$id": 74,
       "<8C7DD24D>": "<C72588B3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The great sword... that's the massive one in the far south, right?"
+      "<DBAF43F0>": "The great sword... that's the massive\none in the far south, right?"
     },
     {
       "$id": 75,
       "<8C7DD24D>": "<C6E6C6B7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"Defeat the true enemy...\""
+      "<DBAF43F0>": "\"Defeat your true enemy...\""
     },
     {
       "$id": 76,
       "<8C7DD24D>": "<859EEDB0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"...and take back order and life.\""
+      "<DBAF43F0>": "\"...and take back the world's order and Life itself.\""
     },
     {
       "$id": 77,
       "<8C7DD24D>": "<BBDA0CFE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I think... I'll get on board with that."
+      "<DBAF43F0>": "I think... I'll go along with that."
     },
     {
       "$id": 78,
@@ -486,25 +486,25 @@
       "$id": 79,
       "<8C7DD24D>": "<0D5F8540>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I want to believe in that man's words."
+      "<DBAF43F0>": "I want to believe in that man's words, too."
     },
     {
       "$id": 80,
       "<8C7DD24D>": "<BF0ADD86>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Besides, after experiencing all of that... can we really fight them now?"
+      "<DBAF43F0>": "Besides, after everything we've been\nthrough... can we really fight them now?"
     },
     {
       "$id": 81,
       "<8C7DD24D>": "<3DD28758>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They're the enemy!"
+      "<DBAF43F0>": "They are the enemy!"
     },
     {
       "$id": 82,
       "<8C7DD24D>": "<9961C140>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Even if they were the enemy..."
+      "<DBAF43F0>": "Even if they were..."
     },
     {
       "$id": 83,
@@ -522,7 +522,7 @@
       "$id": 85,
       "<8C7DD24D>": "<3609CEBA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Wh-What's with that look?"
+      "<DBAF43F0>": "Wh-What is that look for?"
     },
     {
       "$id": 86,
@@ -534,19 +534,19 @@
       "$id": 87,
       "<8C7DD24D>": "<545C4056>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So, what do you say to their proposal?"
+      "<DBAF43F0>": "Well? You heard what their side said."
     },
     {
       "$id": 88,
       "<8C7DD24D>": "<B5B9E2C3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's not like we have the right to refuse, do we?"
+      "<DBAF43F0>": "Not like we've got a choice, is there?"
     },
     {
       "$id": 89,
       "<8C7DD24D>": "<37A06EB9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Guess there's no helping it."
+      "<DBAF43F0>": "Can't be helped, I guess."
     },
     {
       "$id": 90,
@@ -576,19 +576,19 @@
       "$id": 94,
       "<8C7DD24D>": "<C54CA1F0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "These three, Lanz, Eunie, and Riku, have been with me since our training days."
+      "<DBAF43F0>": "These three—Lanz, Eunie, and Riku—have\nbeen with me since our training days."
     },
     {
       "$id": 95,
       "<8C7DD24D>": "<65D1EF56>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "As for hobbies... I suppose it's this."
+      "<DBAF43F0>": "As for hobbies... I suppose it's this flute."
     },
     {
       "$id": 96,
       "<8C7DD24D>": "<5BA199C5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I hope to one day play my own melody, not just the one I was taught in training."
+      "<DBAF43F0>": "One day, I hope to play my own melody, not\njust the one I was taught in training."
     },
     {
       "$id": 97,
@@ -600,19 +600,19 @@
       "$id": 98,
       "<8C7DD24D>": "<9697AA45>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What was that? A sudden self-introduction is just weird."
+      "<DBAF43F0>": "What was that? Busting out a\nself-introduction is just weird."
     },
     {
       "$id": 99,
       "<8C7DD24D>": "<149EFF6C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It'll be necessary from here on out."
+      "<DBAF43F0>": "It's something we'll need from here on out."
     },
     {
       "$id": 100,
       "<8C7DD24D>": "<AA8CE23E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Necessary...? You..."
+      "<DBAF43F0>": "Need...? You..."
     },
     {
       "$id": 101,
@@ -624,7 +624,7 @@
       "$id": 102,
       "<8C7DD24D>": "<F1743C2F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm a Sender belonging to Colony Gamma's military band."
+      "<DBAF43F0>": "I'm a Sender with Colony Gamma's military band."
     },
     {
       "$id": 103,
@@ -636,13 +636,13 @@
       "$id": 104,
       "<8C7DD24D>": "<302E38F7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm proud of my agility. I can run 100 metri in the 7-second range."
+      "<DBAF43F0>": "I'm rather proud of my agility. I can run\n100 metri in the seven-second range."
     },
     {
       "$id": 105,
       "<8C7DD24D>": "<3EA485A0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's fast!"
+      "<DBAF43F0>": "That's fast."
     },
     {
       "$id": 106,
@@ -654,25 +654,25 @@
       "$id": 107,
       "<8C7DD24D>": "<98A40D50>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I like to write down what happens each day. I've never missed one."
+      "<DBAF43F0>": "I like to write down the events of\neach day. I've never missed one."
     },
     {
       "$id": 108,
       "<8C7DD24D>": "<C022DE65>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm Eunie."
+      "<DBAF43F0>": "The name's Eunie."
     },
     {
       "$id": 109,
       "<8C7DD24D>": "<550F8DFD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I act as escort for [System:Ruby rt=the Sender ]Noah[/System:Ruby] in Colony 9's Special Ops platoon."
+      "<DBAF43F0>": "I'm the escort for [System:Ruby rt=the Sender ]Noah[/System:Ruby] in Colony 9's Special Ops platoon."
     },
     {
       "$id": 110,
       "<8C7DD24D>": "<2B312010>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I've been stuck with these guys since we were born."
+      "<DBAF43F0>": "I've been stuck with these lot since the day we were born."
     },
     {
       "$id": 111,
@@ -684,7 +684,7 @@
       "$id": 112,
       "<8C7DD24D>": "<EC84D539>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's an excellent skill that can heal all my allies."
+      "<DBAF43F0>": "A real lifesaver that can heal all my allies at once."
     },
     {
       "$id": 113,
@@ -696,7 +696,7 @@
       "$id": 114,
       "<8C7DD24D>": "<406B11AF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...collecting Fourtune Clovers, I guess."
+      "<DBAF43F0>": "...collecting Fourtune Clovers, I suppose."
     },
     {
       "$id": 115,
@@ -708,7 +708,7 @@
       "$id": 116,
       "<8C7DD24D>": "<F2CC3D8F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Since being assigned to Gamma, I've always been Mio-chan's roommate."
+      "<DBAF43F0>": "Since being assigned to Gamma, Mio-chan\nand I have always been roommates."
     },
     {
       "$id": 117,
@@ -720,31 +720,31 @@
       "$id": 118,
       "<8C7DD24D>": "<471054FA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...my crazy strength, I guess."
+      "<DBAF43F0>": "...my brute strength, I guess."
     },
     {
       "$id": 119,
       "<8C7DD24D>": "<3B0BD0E3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I might not look it, but I can lift some pretty heavy things!"
+      "<DBAF43F0>": "I might not look it, but I can lift some really heavy stuff!"
     },
     {
       "$id": 120,
       "<8C7DD24D>": "<25EB0B0B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "My hobby is..."
+      "<DBAF43F0>": "And my hobby is..."
     },
     {
       "$id": 121,
       "<8C7DD24D>": "<B8E297BF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...muscle training."
+      "<DBAF43F0>": "...muscle training!"
     },
     {
       "$id": 122,
       "<8C7DD24D>": "<A09EF0B7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Huh. A hobby of muscle training... same as Lanz, then."
+      "<DBAF43F0>": "Huh. Muscle training, eh? Same as Lanz."
     },
     {
       "$id": 123,
@@ -762,7 +762,7 @@
       "$id": 125,
       "<8C7DD24D>": "<67748DE3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I belong to Colony Gamma's Topography Bureau, Strategy Division."
+      "<DBAF43F0>": "I belong to Colony Gamma's Topography\nBureau, Strategy Division."
     },
     {
       "$id": 126,
@@ -774,25 +774,25 @@
       "$id": 127,
       "<8C7DD24D>": "<40429C6B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Specialty... specialty..."
+      "<DBAF43F0>": "A specialty... A specialty..."
     },
     {
       "$id": 128,
       "<8C7DD24D>": "<D8D541E1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Do I have such a thing?"
+      "<DBAF43F0>": "Do I even possess such a thing?"
     },
     {
       "$id": 129,
       "<8C7DD24D>": "<B06A69A9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Speaking of such specialties... is pointless."
+      "<DBAF43F0>": "To speak of one's specialties is... pointless."
     },
     {
       "$id": 130,
       "<8C7DD24D>": "<93683240>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I also have no... hobbies."
+      "<DBAF43F0>": "I also have... no hobbies."
     },
     {
       "$id": 131,
@@ -804,13 +804,13 @@
       "$id": 132,
       "<8C7DD24D>": "<361C9D77>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Riku, too."
+      "<DBAF43F0>": "Riku here."
     },
     {
       "$id": 133,
       "<8C7DD24D>": "<D62D6DDD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "In Colony 9, I was in charge of maintenance and crafting, mo."
+      "<DBAF43F0>": "In Colony 9, I was in charge of\nmaintenance and crafting, mo."
     },
     {
       "$id": 134,
@@ -822,7 +822,7 @@
       "$id": 135,
       "<8C7DD24D>": "<344DA93C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Feel free to work them hard, mo."
+      "<DBAF43F0>": "Feel free to work them to the bone, mo."
     },
     {
       "$id": 136,
@@ -834,25 +834,25 @@
       "$id": 137,
       "<8C7DD24D>": "<7DC681AA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Manana-mo!"
+      "<DBAF43F0>": "Manana, desu mo!"
     },
     {
       "$id": 138,
       "<8C7DD24D>": "<2E6CBA0C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "In Mio-san's Colony, I was in charge of cooking-mo!"
+      "<DBAF43F0>": "In Mio-san's Colony, I was in charge of cooking, desu mo!"
     },
     {
       "$id": 139,
       "<8C7DD24D>": "<07A8D60C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Stews, roasts, fried foods... leave it all to me-mo!"
+      "<DBAF43F0>": "Stews, roasts, fried foods... I can do it all, desu mo!"
     },
     {
       "$id": 140,
       "<8C7DD24D>": "<1AB9AEAC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I can even make a delicious meal out of a Gonzalez's eyeball-mo!"
+      "<DBAF43F0>": "I can even whip up a delicious meal\nfrom a Gonzalez's eyeball, desu mo!"
     },
     {
       "$id": 141,
@@ -864,13 +864,13 @@
       "$id": 142,
       "<8C7DD24D>": "<E0933FEA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So assigning Nopon to a Sender's platoon is the same on both sides, huh."
+      "<DBAF43F0>": "So, assigning Nopon to a Sender's platoon\nis something both our sides do, huh."
     },
     {
       "$id": 143,
       "<8C7DD24D>": "<42135CF2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yeah. An unexpected commonality."
+      "<DBAF43F0>": "Yeah. An unexpected common ground."
     },
     {
       "$id": 144,
@@ -894,7 +894,7 @@
       "$id": 147,
       "<8C7DD24D>": "<E436859C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm from the same Colony as Noah."
+      "<DBAF43F0>": "From the same Colony as Noah."
     },
     {
       "$id": 148,
@@ -906,19 +906,19 @@
       "$id": 149,
       "<8C7DD24D>": "<E2622506>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "My specialty..."
+      "<DBAF43F0>": "As for my specialty..."
     },
     {
       "$id": 150,
       "<8C7DD24D>": "<1EC91FC0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...figure it out for yourself!"
+      "<DBAF43F0>": "...use your imagination!"
     },
     {
       "$id": 151,
       "<8C7DD24D>": "<4C429E46>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Whew..."
+      "<DBAF43F0>": "[ML:undisp ]Hah..."
     },
     {
       "$id": 152,
@@ -936,13 +936,13 @@
       "$id": 154,
       "<8C7DD24D>": "<319714A4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We accept it, and think about what to do."
+      "<DBAF43F0>": "We accept it, then we decide what to do."
     },
     {
       "$id": 155,
       "<8C7DD24D>": "<CB7E5F68>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So you're not even going to think about whether to accept it."
+      "<DBAF43F0>": "So you don't even consider *not* accepting it."
     },
     {
       "$id": 156,
@@ -954,43 +954,43 @@
       "$id": 157,
       "<8C7DD24D>": "<2528E960>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm in."
+      "<DBAF43F0>": "I'm on board."
     },
     {
       "$id": 158,
       "<8C7DD24D>": "<884CA1A5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You sure?"
+      "<DBAF43F0>": "Are you sure?"
     },
     {
       "$id": 159,
       "<8C7DD24D>": "<36ADE80E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Can't be helped, now that it's come to this."
+      "<DBAF43F0>": "Don't have a choice, do we? Not now."
     },
     {
       "$id": 160,
       "<8C7DD24D>": "<957AC438>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So, what first?"
+      "<DBAF43F0>": "So, what's our first move?"
     },
     {
       "$id": 161,
       "<8C7DD24D>": "<16B1C98A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We've put some distance between us, but we're still within the Colony's search radius."
+      "<DBAF43F0>": "We've put some distance between us, but we're\nstill within the Colony's search radius."
     },
     {
       "$id": 162,
       "<8C7DD24D>": "<FC67F584>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Fortunately, no Colonies are deployed south of here."
+      "<DBAF43F0>": "Fortunately, no Colonies are deployed to the south of here."
     },
     {
       "$id": 163,
       "<8C7DD24D>": "<9A191E8A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What about on your side?"
+      "<DBAF43F0>": "And on your side?"
     },
     {
       "$id": 164,
@@ -1002,7 +1002,7 @@
       "$id": 165,
       "<8C7DD24D>": "<8AD38926>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So, south first?"
+      "<DBAF43F0>": "So, we head south first?"
     },
     {
       "$id": 166,
@@ -1020,13 +1020,13 @@
       "$id": 168,
       "<8C7DD24D>": "<539DEAA9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Huh? Oh, my clothes. They got dirty in the fight."
+      "<DBAF43F0>": "Huh? Oh, my clothes. Got pretty dirty in that fight."
     },
     {
       "$id": 169,
       "<8C7DD24D>": "<06B61250>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Just wondering if there was anything I could change into."
+      "<DBAF43F0>": "Just seeing if there's anything else to change into."
     },
     {
       "$id": 170,
@@ -1038,19 +1038,19 @@
       "$id": 171,
       "<8C7DD24D>": "<47949F2B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This looks pretty good."
+      "<DBAF43F0>": "This one looks pretty good."
     },
     {
       "$id": 172,
       "<8C7DD24D>": "<A94AF6D1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'd like to change, too."
+      "<DBAF43F0>": "I want to change, too."
     },
     {
       "$id": 173,
       "<8C7DD24D>": "<C0B54E7D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Can't stay like this..."
+      "<DBAF43F0>": "Can't really stay like this..."
     },
     {
       "$id": 174,
@@ -1062,7 +1062,7 @@
       "$id": 175,
       "<8C7DD24D>": "<F0BA98CC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Thinking about the future, if there's anything useful, let's take it."
+      "<DBAF43F0>": "We should think about the future. If there's\nanything useful, let's take it with us."
     }
   ]
 }

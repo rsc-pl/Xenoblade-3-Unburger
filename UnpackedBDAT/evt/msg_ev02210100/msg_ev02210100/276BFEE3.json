@@ -18,13 +18,13 @@
       "$id": 1,
       "<8C7DD24D>": "<6684056E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Did we get her?"
+      "<DBAF43F0>": "Did we get him?"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<FA7C8823>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Wait, something's strange."
+      "<DBAF43F0>": "Wait, something's not right."
     },
     {
       "$id": 3,
@@ -42,7 +42,7 @@
       "$id": 5,
       "<8C7DD24D>": "<7458B029>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The same as with Noah and Mio-chan?"
+      "<DBAF43F0>": "Is it the same as with Noah and Mio-chan?"
     },
     {
       "$id": 6,
@@ -90,13 +90,13 @@
       "$id": 13,
       "<8C7DD24D>": "<4817AB16>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's the same as that guy!?"
+      "<DBAF43F0>": "It's the same as that thing!?"
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<A370B7AB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That Iris... So this is the one who was controlling the soldiers!"
+      "<DBAF43F0>": "That Iris... So this is the one\nwho was controlling the soldiers!"
     },
     {
       "$id": 15,
@@ -108,7 +108,7 @@
       "$id": 16,
       "<8C7DD24D>": "<57C15A36>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But it's taken damage! We can do this!"
+      "<DBAF43F0>": "But it's taken damage! We can win this!"
     },
     {
       "$id": 17,
@@ -126,7 +126,7 @@
       "$id": 19,
       "<8C7DD24D>": "<7C19A20C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The damage... it's healing..."
+      "<DBAF43F0>": "The damage... it's regenerating..."
     },
     {
       "$id": 20,
@@ -174,7 +174,7 @@
       "$id": 27,
       "<8C7DD24D>": "<0BD4C68E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Don't tell me... from the Flame Clocks!?"
+      "<DBAF43F0>": "Don't tell me... from their Flame Clocks!?"
     },
     {
       "$id": 28,
@@ -192,13 +192,13 @@
       "$id": 30,
       "<8C7DD24D>": "<20003D7C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "My dear..."
+      "<DBAF43F0>": "My dears..."
     },
     {
       "$id": 31,
       "<8C7DD24D>": "<0B37C2A3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...you have such good intuition..."
+      "<DBAF43F0>": "...you have such fine intuition..."
     },
     {
       "$id": 32,
@@ -216,7 +216,7 @@
       "$id": 34,
       "<8C7DD24D>": "<2008CC9E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...are mine to command, as Moebius."
+      "<DBAF43F0>": "...are mine to command, as I am Moebius."
     },
     {
       "$id": 35,
@@ -228,7 +228,7 @@
       "$id": 36,
       "<8C7DD24D>": "<7F4E6D0F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...as long as there is life there..."
+      "<DBAF43F0>": "...as long as there is life in them..."
     },
     {
       "$id": 37,
@@ -246,7 +246,7 @@
       "$id": 39,
       "<8C7DD24D>": "<C7C1E4C1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Come on!"
+      "<DBAF43F0>": "Come on, try!"
     },
     {
       "$id": 40,
@@ -264,13 +264,13 @@
       "$id": 42,
       "<8C7DD24D>": "<5CE1400C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Are you crazy!?"
+      "<DBAF43F0>": "Are you stupid!?"
     },
     {
       "$id": 43,
       "<8C7DD24D>": "<D56FC4C5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If we don't attack, we'll be the ones who get killed!"
+      "<DBAF43F0>": "If we don't fight back, we're the ones who'll be killed!"
     },
     {
       "$id": 44,
@@ -282,7 +282,7 @@
       "$id": 45,
       "<8C7DD24D>": "<DF1EB691>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Be rational, Noah! They are no longer comrades, they are her fuel!"
+      "<DBAF43F0>": "Be rational, Noah! They are no longer\nyour comrades! They are her fuel!"
     },
     {
       "$id": 46,
@@ -330,7 +330,7 @@
       "$id": 53,
       "<8C7DD24D>": "<B5CA9E5B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The more damage we do, the more of our comrades' lives are..."
+      "<DBAF43F0>": "The more damage we inflict, the\nmore of our comrades' lives..."
     },
     {
       "$id": 54,
@@ -342,7 +342,7 @@
       "$id": 55,
       "<8C7DD24D>": "<2C53D195>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Maybe... but..."
+      "<DBAF43F0>": "Perhaps... but..."
     },
     {
       "$id": 56,
@@ -384,31 +384,31 @@
       "$id": 62,
       "<8C7DD24D>": "<25748A01>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You don't mean...!?"
+      "<DBAF43F0>": "Don't tell me...!?"
     },
     {
       "$id": 63,
       "<8C7DD24D>": "<7F1C09C0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But, if we end up taking everyone's lives..."
+      "<DBAF43F0>": "But, if we end up taking all of their lives..."
     },
     {
       "$id": 64,
       "<8C7DD24D>": "<53535F8B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If we stay like this, we'll all be killed anyway."
+      "<DBAF43F0>": "If we stay here like this, we'll all be killed anyway."
     },
     {
       "$id": 65,
       "<8C7DD24D>": "<8979D3DF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "A choice between two evils, is it?"
+      "<DBAF43F0>": "A choice between two evils, then."
     },
     {
       "$id": 66,
       "<8C7DD24D>": "<F374B361>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The lives that are here now...\nI won't let you shoulder that burden alone."
+      "<DBAF43F0>": "The lives at stake right now... I will\nnot let you bear that burden alone."
     },
     {
       "$id": 67,
@@ -420,13 +420,13 @@
       "$id": 68,
       "<8C7DD24D>": "<C84D6F64>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Now then, shall we move on to the finale?"
+      "<DBAF43F0>": "Now then, shall we move on to the grand finale?"
     },
     {
       "$id": 69,
       "<8C7DD24D>": "<29D8F9D4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Okay... let's try it."
+      "<DBAF43F0>": "Okay... let's do it."
     },
     {
       "$id": 70,
@@ -438,43 +438,43 @@
       "$id": 71,
       "<8C7DD24D>": "<CF3CBD46>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What is it?"
+      "<DBAF43F0>": "What?"
     },
     {
       "$id": 72,
       "<8C7DD24D>": "<8861BC13>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Draw her attention!"
+      "<DBAF43F0>": "Get his attention!"
     },
     {
       "$id": 73,
       "<8C7DD24D>": "<E4997054>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "And after I draw it?"
+      "<DBAF43F0>": "And after I do?"
     },
     {
       "$id": 74,
       "<8C7DD24D>": "<A9C3BA2E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We'll get in close and destroy the Flame Clock."
+      "<DBAF43F0>": "We get in close and destroy the Flame Clock."
     },
     {
       "$id": 75,
       "<8C7DD24D>": "<DFC53D4C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "H-Hey! If we do that...!"
+      "<DBAF43F0>": "H-Hey! If you do that...!"
     },
     {
       "$id": 76,
       "<8C7DD24D>": "<5F49A701>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This is the only way. I've decided."
+      "<DBAF43F0>": "This is the only way. I've made my choice."
     },
     {
       "$id": 77,
       "<8C7DD24D>": "<73E3C45E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'll shoulder it all."
+      "<DBAF43F0>": "I will shoulder the burden."
     },
     {
       "$id": 78,
@@ -486,7 +486,7 @@
       "$id": 79,
       "<8C7DD24D>": "<485748D5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Don't be an idiot!\nThere's no way we're letting you two shoulder it alone!"
+      "<DBAF43F0>": "Don't be an idiot! There's no way we're\nletting you two shoulder it alone!"
     },
     {
       "$id": 80,
@@ -498,7 +498,7 @@
       "$id": 81,
       "<8C7DD24D>": "<561F1690>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I get it, so just go!"
+      "<DBAF43F0>": "I get it, now go!"
     },
     {
       "$id": 82,
@@ -516,7 +516,7 @@
       "$id": 84,
       "<8C7DD24D>": "<1C1EB21F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Taion, Sena, I'm counting on you, too."
+      "<DBAF43F0>": "Taion, Sena, I'm counting on you two as well."
     },
     {
       "$id": 85,
@@ -528,7 +528,7 @@
       "$id": 86,
       "<8C7DD24D>": "<E8874D51>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](A soft chuckle ad-lib)"
+      "<DBAF43F0>": "[ML:undisp ](Soft chuckle ad-lib)"
     },
     {
       "$id": 87,
@@ -540,7 +540,7 @@
       "$id": 88,
       "<8C7DD24D>": "<041DB805>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We'll wait for your signal."
+      "<DBAF43F0>": "We will await your signal."
     },
     {
       "$id": 89,
@@ -552,7 +552,7 @@
       "$id": 90,
       "<8C7DD24D>": "<1556FD6C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We go on the count of three."
+      "<DBAF43F0>": "We go on three."
     },
     {
       "$id": 91,
@@ -570,25 +570,25 @@
       "$id": 93,
       "<8C7DD24D>": "<C78ACB79>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Well, of course you'd think of that."
+      "<DBAF43F0>": "Well, of course you would think of that."
     },
     {
       "$id": 94,
       "<8C7DD24D>": "<8962ECD6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But..."
+      "<DBAF43F0>": "However..."
     },
     {
       "$id": 95,
       "<8C7DD24D>": "<0DAAD541>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...even if I can't see well,\nif I fire enough shots, one is bound to hit."
+      "<DBAF43F0>": "...even if my vision is impaired, if I\nfire enough shots, one is bound to hit."
     },
     {
       "$id": 96,
       "<8C7DD24D>": "<C74C39F7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"If I fire enough shots\"..."
+      "<DBAF43F0>": "\"Fire enough shots\"..."
     },
     {
       "$id": 97,
@@ -630,73 +630,73 @@
       "$id": 103,
       "<8C7DD24D>": "<17286172>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Are you sure? With someone like me...)"
+      "<DBAF43F0>": "(Are you sure? With someone like me...)"
     },
     {
       "$id": 104,
       "<8C7DD24D>": "<BC19E67B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](I'm... just trai—)"
+      "<DBAF43F0>": "(I'm... just trai—)"
     },
     {
       "$id": 105,
       "<8C7DD24D>": "<06818E37>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Hey, Sena...)"
+      "<DBAF43F0>": "(Hey, Sena...)"
     },
     {
       "$id": 106,
       "<8C7DD24D>": "<5526ADA1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Let's stop this...)"
+      "<DBAF43F0>": "(Let's stop this...)"
     },
     {
       "$id": 107,
       "<8C7DD24D>": "<9A29C209>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "(I-I'm sorry...)"
     },
     {
       "$id": 108,
       "<8C7DD24D>": "<DD0D8932>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Look out!)"
+      "<DBAF43F0>": "(Look out!)"
     },
     {
       "$id": 109,
       "<8C7DD24D>": "<D01E90A2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](You idiot...)"
+      "<DBAF43F0>": "(You idiot...)"
     },
     {
       "$id": 110,
       "<8C7DD24D>": "<8A4E9AC3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "(Why...)"
     },
     {
       "$id": 111,
       "<8C7DD24D>": "<762560CB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](You're the one they're after!)"
+      "<DBAF43F0>": "(You're the one they're after!)"
     },
     {
       "$id": 112,
       "<8C7DD24D>": "<CF4DBB7E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Don't worry about us!)"
+      "<DBAF43F0>": "(Don't worry about us!)"
     },
     {
       "$id": 113,
       "<8C7DD24D>": "<63118E6C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "Let's go!"
     },
     {
       "$id": 114,
       "<8C7DD24D>": "<E299BD1F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Lanz! That form... Don't tell me..."
+      "<DBAF43F0>": "Lanz! That form... Can it be?"
     },
     {
       "$id": 115,
@@ -708,7 +708,7 @@
       "$id": 116,
       "<8C7DD24D>": "<2CCB42E4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Sena as well? In that case..."
+      "<DBAF43F0>": "Sena as well? Then..."
     },
     {
       "$id": 117,
@@ -750,7 +750,7 @@
       "$id": 123,
       "<8C7DD24D>": "<D6A098DD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Lanz, we can't hold on!"
+      "<DBAF43F0>": "Lanz, we can't hold on much longer!"
     },
     {
       "$id": 124,
@@ -774,7 +774,7 @@
       "$id": 127,
       "<8C7DD24D>": "<52476EAA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Now for the final shot."
+      "<DBAF43F0>": "Now, for the final shot."
     },
     {
       "$id": 128,
@@ -816,55 +816,55 @@
       "$id": 134,
       "<8C7DD24D>": "<6A25CCF2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Until that day you reach your Coming-of-Age...)"
+      "<DBAF43F0>": "(Until that day you reach your Coming-of-Age...)"
     },
     {
       "$id": 135,
       "<8C7DD24D>": "<01C10C86>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](...please, survive.)"
+      "<DBAF43F0>": "(...please, survive.)"
     },
     {
       "$id": 136,
       "<8C7DD24D>": "<90EEA1F3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Don't say such foolish things. It's a pointless death.)"
+      "<DBAF43F0>": "(Don't say such foolish things. It is a pointless death.)"
     },
     {
       "$id": 137,
       "<8C7DD24D>": "<23F854C9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](\"Someday, I want to return\" to the place in this photo.)"
+      "<DBAF43F0>": "(\"Someday, I want to return\" to the place in this photo.)"
     },
     {
       "$id": 138,
       "<8C7DD24D>": "<BA19282F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Joran made the right call.)"
+      "<DBAF43F0>": "(Joran made the right call.)"
     },
     {
       "$id": 139,
       "<8C7DD24D>": "<76823C8E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](If we get through here, we'll be outside!)"
+      "<DBAF43F0>": "(If we get through here, we'll be outside!)"
     },
     {
       "$id": 140,
       "<8C7DD24D>": "<CCB21A2C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](You must...)"
+      "<DBAF43F0>": "(You must...)"
     },
     {
       "$id": 141,
       "<8C7DD24D>": "<29830BFA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](...return to the Colony, alive!)"
+      "<DBAF43F0>": "(...return to the Colony, alive!)"
     },
     {
       "$id": 142,
       "<8C7DD24D>": "<99699F35>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](Nami-san! Nami-san!)"
+      "<DBAF43F0>": "(Nami-san! Nami-san!)"
     },
     {
       "$id": 143,
@@ -876,7 +876,7 @@
       "$id": 144,
       "<8C7DD24D>": "<D5F899BF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...are gone in an instant."
+      "<DBAF43F0>": "...they're gone in an instant."
     },
     {
       "$id": 145,
@@ -894,7 +894,7 @@
       "$id": 147,
       "<8C7DD24D>": "<24B1051B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Now's not the time to be impressed!"
+      "<DBAF43F0>": "Now is not the time to be impressed!"
     },
     {
       "$id": 148,
@@ -924,7 +924,7 @@
       "$id": 152,
       "<8C7DD24D>": "<0CF11878>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "No way... I can't see anything!"
+      "<DBAF43F0>": "Impossible... I can't see a thing!"
     },
     {
       "$id": 153,
@@ -948,7 +948,7 @@
       "$id": 156,
       "<8C7DD24D>": "<F7A1914A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I can't see... I can't see!"
+      "<DBAF43F0>": "I can't see... I can't see them!"
     },
     {
       "$id": 157,
@@ -996,13 +996,13 @@
       "$id": 164,
       "<8C7DD24D>": "<91F5785B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I need to heal—"
+      "<DBAF43F0>": "I must heal—"
     },
     {
       "$id": 165,
       "<8C7DD24D>": "<7BFFBD10>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Like I'd let you!"
+      "<DBAF43F0>": "I think not!"
     },
     {
       "$id": 166,
@@ -1056,7 +1056,7 @@
       "$id": 174,
       "<8C7DD24D>": "<4BA8F53D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "No way..."
+      "<DBAF43F0>": "It can't be..."
     },
     {
       "$id": 175,
@@ -1074,19 +1074,19 @@
       "$id": 177,
       "<8C7DD24D>": "<C646F891>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "A Flame Clock is human life..."
+      "<DBAF43F0>": "A Flame Clock is the culmination of human life..."
     },
     {
       "$id": 178,
       "<8C7DD24D>": "<C91B3036>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...you could say it's a coalescence of the will to live."
+      "<DBAF43F0>": "...one could call it a coalescence of the will to live."
     },
     {
       "$id": 179,
       "<8C7DD24D>": "<A09F61C3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You didn't think it would break so easily, did you?"
+      "<DBAF43F0>": "You did not truly think it would break so easily, did you?"
     },
     {
       "$id": 180,
@@ -1098,13 +1098,13 @@
       "$id": 181,
       "<8C7DD24D>": "<78A30414>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Well, I suppose it was a wasted effort on your part."
+      "<DBAF43F0>": "Well, I suppose it was a wasted effort."
     },
     {
       "$id": 182,
       "<8C7DD24D>": "<73DDFF38>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But I should thank you."
+      "<DBAF43F0>": "In any case, I should thank you."
     },
     {
       "$id": 183,
@@ -1116,7 +1116,7 @@
       "$id": 184,
       "<8C7DD24D>": "<19401703>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Now I can see you so much better."
+      "<DBAF43F0>": "Now I can see you so much more clearly."
     },
     {
       "$id": 185,
@@ -1140,13 +1140,13 @@
       "$id": 188,
       "<8C7DD24D>": "<DFDEA554>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Lightning... s-scary-mo!"
+      "<DBAF43F0>": "Lightning... s-scary, desu mo!"
     },
     {
       "$id": 189,
       "<8C7DD24D>": "<9D378E1F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I-It's okay, mo!"
+      "<DBAF43F0>": "I-It is alright, mo!"
     },
     {
       "$id": 190,
@@ -1158,13 +1158,13 @@
       "$id": 191,
       "<8C7DD24D>": "<E8E8F8D4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"Even a Iron Giant's armor would\nbe like a piece of paper to it, mo...\""
+      "<DBAF43F0>": "\"Even an Iron Giant's armor would be\nlike a piece of paper to it, mo...\""
     },
     {
       "$id": 192,
       "<8C7DD24D>": "<2AB8BCAC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"Even a Iron Giant's armor is like paper...\""
+      "<DBAF43F0>": "\"Even an Iron Giant's armor is like paper...\""
     },
     {
       "$id": 193,
@@ -1188,7 +1188,7 @@
       "$id": 196,
       "<8C7DD24D>": "<B8503B8D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What are you going to do!?"
+      "<DBAF43F0>": "What are you planning!?"
     },
     {
       "$id": 197,
@@ -1206,7 +1206,7 @@
       "$id": 199,
       "<8C7DD24D>": "<0EC37B66>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...Alright. I'll leave it to you!"
+      "<DBAF43F0>": "...Alright. I'm trusting you!"
     },
     {
       "$id": 200,
@@ -1218,7 +1218,7 @@
       "$id": 201,
       "<8C7DD24D>": "<F1DF981B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Noah, what are you!?"
+      "<DBAF43F0>": "Noah, what are you doing!?"
     },
     {
       "$id": 202,
@@ -1230,7 +1230,7 @@
       "$id": 203,
       "<8C7DD24D>": "<FBA2ECE5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...was undone!?"
+      "<DBAF43F0>": "...they undid it!?"
     },
     {
       "$id": 204,
@@ -1242,13 +1242,13 @@
       "$id": 205,
       "<8C7DD24D>": "<16A74BD6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I-Impossible..."
+      "<DBAF43F0>": "Im-Impossible..."
     },
     {
       "$id": 206,
       "<8C7DD24D>": "<53FE66E7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "For a Flame Clock to be broken..."
+      "<DBAF43F0>": "For a Flame Clock to be shattered..."
     },
     {
       "$id": 207,
@@ -1302,7 +1302,7 @@
       "$id": 215,
       "<8C7DD24D>": "<21478219>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They're okay."
+      "<DBAF43F0>": "They're fine."
     },
     {
       "$id": 216,
@@ -1332,7 +1332,7 @@
       "$id": 220,
       "<8C7DD24D>": "<B274831A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Playing with our lives... I'll never forgive you."
+      "<DBAF43F0>": "Playing with our lives like that... I'll never forgive you."
     }
   ]
 }

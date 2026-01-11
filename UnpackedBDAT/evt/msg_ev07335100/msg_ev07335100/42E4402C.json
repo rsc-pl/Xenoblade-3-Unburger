@@ -42,7 +42,7 @@
       "$id": 5,
       "<8C7DD24D>": "<6E63CD5D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "S-Sorry! The engine's an old model, so it's having trouble starting..."
+      "<DBAF43F0>": "S-Sorry! The engine's an old model,\nso it's having trouble starting..."
     },
     {
       "$id": 6,
@@ -54,7 +54,7 @@
       "$id": 7,
       "<8C7DD24D>": "<02D91AF3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "A machine like this'll work out somehow\nif you just put some fighting spirit into it!"
+      "<DBAF43F0>": "A machine like this'll work out somehow if\nyou just put some fighting spirit into it!"
     },
     {
       "$id": 8,

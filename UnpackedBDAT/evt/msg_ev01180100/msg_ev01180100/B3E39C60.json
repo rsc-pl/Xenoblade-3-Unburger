@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<8C471E04>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Are we sure this is the area?"
+      "<DBAF43F0>": "Are you sure this is the area?"
     },
     {
       "$id": 2,
@@ -36,37 +36,37 @@
       "$id": 4,
       "<8C7DD24D>": "<EAE69F43>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's the Agnus army."
+      "<DBAF43F0>": "The Agnus army."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<12908E91>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Seriously!?"
+      "<DBAF43F0>": "Seriously?!"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<A1393531>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "There's still some distance. They haven't spotted us."
+      "<DBAF43F0>": "They're still a ways off. They haven't spotted us."
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<3FC64BAE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Should we take them?"
+      "<DBAF43F0>": "Should we engage?"
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<94841BF1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We haven't been given permission to engage."
+      "<DBAF43F0>": "We haven't been cleared to engage."
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<47F1D169>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Besides, our duty is the destruction of the target."
+      "<DBAF43F0>": "Besides, our mission is to destroy the target."
     },
     {
       "$id": 10,
@@ -90,13 +90,13 @@
       "$id": 13,
       "<8C7DD24D>": "<0F604101>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Enemy forces detected at the two o'clock position.\nInform the main force."
+      "<DBAF43F0>": "Enemy forces detected at two o'clock. Inform the main force."
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<DB775D23>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm worried about Mwamba and the others\nwho went ahead. We will press on."
+      "<DBAF43F0>": "I'm worried about Mwamba and the others\nwho went ahead. We're pressing on."
     },
     {
       "$id": 15,

@@ -192,7 +192,7 @@
       "$id": 30,
       "<8C7DD24D>": "<A0CD0F76>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The region surrounding the fortress is saturated with black fog."
+      "<DBAF43F0>": "The region surrounding the fortress\nis saturated with black fog."
     },
     {
       "$id": 31,
@@ -330,7 +330,7 @@
       "$id": 53,
       "<8C7DD24D>": "<469DE8C0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Just because we no longer have to worry\nabout Mio's life doesn't mean we can afford to take our time."
+      "<DBAF43F0>": "Just because we no longer have to worry about Mio's\nlife doesn't mean we can afford to take our time."
     },
     {
       "$id": 54,
@@ -468,7 +468,7 @@
       "$id": 76,
       "<8C7DD24D>": "<3BAB214A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's fine if you want to prioritize the fortress.\nThis is my own personal issue."
+      "<DBAF43F0>": "It's fine if you want to prioritize the\nfortress. This is my own personal issue."
     },
     {
       "$id": 77,
@@ -486,7 +486,7 @@
       "$id": 79,
       "<8C7DD24D>": "<FC0E602F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If this is something you feel you absolutely have to do, Mio,"
+      "<DBAF43F0>": "If this is something you feel\nyou absolutely have to do, Mio,"
     }
   ]
 }

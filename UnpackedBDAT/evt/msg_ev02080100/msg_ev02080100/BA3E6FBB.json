@@ -42,31 +42,31 @@
       "$id": 5,
       "<8C7DD24D>": "<5ACA77ED>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Broadly speaking, west and east."
+      "<DBAF43F0>": "Broadly speaking, there is a western and an eastern route."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<509C53DC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I propose the western route."
+      "<DBAF43F0>": "I propose we take the western route."
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<4A709348>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The reason?"
+      "<DBAF43F0>": "And your reason?"
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<9D0FC06E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The west side is Agnian-controlled territory."
+      "<DBAF43F0>": "The west side is territory controlled by Agnian Colonies."
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<6CA887E4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Several units are deployed there,\nso it may be somewhat dangerous, but..."
+      "<DBAF43F0>": "Several units are deployed there, so\nit may be somewhat dangerous, but..."
     },
     {
       "$id": 10,
@@ -84,13 +84,13 @@
       "$id": 12,
       "<8C7DD24D>": "<63D75E21>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The east side is currently not under the control of any Colony."
+      "<DBAF43F0>": "The east side is not currently\nunder the control of any Colony."
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<C227E2F3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "However, it will take considerably more time than the western route."
+      "<DBAF43F0>": "However, it will take considerably\nmore time than the western route."
     },
     {
       "$id": 14,
@@ -102,7 +102,7 @@
       "$id": 15,
       "<8C7DD24D>": "<6CA259D1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hold on. You want us to choose the dangerous path on purpose?"
+      "<DBAF43F0>": "Hold on. You want to deliberately choose the dangerous path?"
     },
     {
       "$id": 16,
@@ -114,7 +114,7 @@
       "$id": 17,
       "<8C7DD24D>": "<0AE13789>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The scale of the deployment is not that large."
+      "<DBAF43F0>": "The scale of their deployment is not that large."
     },
     {
       "$id": 18,
@@ -144,7 +144,7 @@
       "$id": 22,
       "<8C7DD24D>": "<FFBE5566>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Efficient..."
+      "<DBAF43F0>": "\"Efficient\"..."
     },
     {
       "$id": 23,
@@ -156,7 +156,7 @@
       "$id": 24,
       "<8C7DD24D>": "<7E07EC12>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I think not taking time is better than taking time... you know?"
+      "<DBAF43F0>": "I think taking less time is better\nthan taking more time... right?"
     },
     {
       "$id": 25,
@@ -168,7 +168,7 @@
       "$id": 26,
       "<8C7DD24D>": "<3D36F478>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Could it be that you two... are being unnecessarily considerate?"
+      "<DBAF43F0>": "You two wouldn't happen to be...\nunnecessarily considerate, would you?"
     },
     {
       "$id": 27,
@@ -186,13 +186,13 @@
       "$id": 29,
       "<8C7DD24D>": "<B1DD17A0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's strange. To not choose the safer path."
+      "<DBAF43F0>": "It's weird not to pick the safer option."
     },
     {
       "$id": 30,
       "<8C7DD24D>": "<BB87F260>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's because of the time—"
+      "<DBAF43F0>": "That is because of the time—"
     },
     {
       "$id": 31,
@@ -210,19 +210,19 @@
       "$id": 33,
       "<8C7DD24D>": "<3239BE04>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "A wasteland spreads to the east... the h-heat is unbearable!"
+      "<DBAF43F0>": "A wasteland stretches to the\neast... the h-heat is unbearable!"
     },
     {
       "$id": 34,
       "<8C7DD24D>": "<D46BB95E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Y-Yeah, that's no good! For Mio-chan!"
+      "<DBAF43F0>": "Y-Yeah, that's no good! Not for Mio-chan!"
     },
     {
       "$id": 35,
       "<8C7DD24D>": "<57F7E347>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Don't worry about me. Everyone's safety is more important, isn't it?"
+      "<DBAF43F0>": "Don't worry about me. Everyone's\nsafety is more important, right?"
     },
     {
       "$id": 36,
@@ -240,13 +240,13 @@
       "$id": 38,
       "<8C7DD24D>": "<6D3A4349>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I think... I'd also prefer to take the safer route."
+      "<DBAF43F0>": "...I think I'd also prefer the safer route."
     },
     {
       "$id": 39,
       "<8C7DD24D>": "<25E66F89>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "As for the heat, we can manage if we just endure it."
+      "<DBAF43F0>": "As for the heat, we'll manage if we just tough it out."
     },
     {
       "$id": 40,
@@ -276,7 +276,7 @@
       "$id": 44,
       "<8C7DD24D>": "<F00CF12C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "F-Fine. If you insist on it."
+      "<DBAF43F0>": "F-Fine. If you insist."
     },
     {
       "$id": 45,
@@ -288,7 +288,7 @@
       "$id": 46,
       "<8C7DD24D>": "<5CC68E94>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Now, let's cheer up and get moving!"
+      "<DBAF43F0>": "Alright, cheer up everyone, and let's get moving!"
     }
   ]
 }

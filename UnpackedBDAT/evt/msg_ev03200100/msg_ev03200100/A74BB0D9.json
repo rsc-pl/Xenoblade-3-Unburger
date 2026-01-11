@@ -48,19 +48,19 @@
       "$id": 6,
       "<8C7DD24D>": "<7679AC59>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Was there a person inside? Was it unmanned?"
+      "<DBAF43F0>": "Anyone inside? Or was it unmanned?"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<6856F22B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yeah. It's an autonomous reconnaissance model supplied by the Castle."
+      "<DBAF43F0>": "Yeah. It's an autonomous reconnaissance\nmodel supplied by the Castle."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<F81DAA7A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It doesn't require a human pilot."
+      "<DBAF43F0>": "It does not require a human pilot."
     },
     {
       "$id": 9,
@@ -90,13 +90,13 @@
       "$id": 13,
       "<8C7DD24D>": "<A4FDE229>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Even though it was unmanned,\nit must have transmitted its combat data back to the Colony."
+      "<DBAF43F0>": "Even though it was unmanned, it must have\ntransmitted its combat data back to the Colony."
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<467CAE15>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "There's a good chance they know it was us who fought it."
+      "<DBAF43F0>": "There is a high probability that\nthey know it was we who fought it."
     },
     {
       "$id": 15,
@@ -138,7 +138,7 @@
       "$id": 21,
       "<8C7DD24D>": "<DED666DD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 22,

@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<E91F7A2C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "More than a decade has passed since Origin fell into Alpha's hands."
+      "<DBAF43F0>": "More than a decade has passed since\nOrigin fell into Alpha's hands."
     },
     {
       "$id": 2,
@@ -60,7 +60,7 @@
       "$id": 8,
       "<8C7DD24D>": "<A61792EC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "By what means did it fall into that man's hands...?[ML:line len=1]"
+      "<DBAF43F0>": "By what means did it fall into that\nman's hands...?[ML:line len=1]"
     },
     {
       "$id": 9,
@@ -72,7 +72,7 @@
       "$id": 10,
       "<8C7DD24D>": "<E86E28AE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It seems this place... [System:Ruby rt=Origin ]here[/System:Ruby]... is filled with the will\nof those who are as gods."
+      "<DBAF43F0>": "It seems this place... [System:Ruby rt=Origin ]here[/System:Ruby]... is filled\nwith the will of those who are as gods."
     }
   ]
 }

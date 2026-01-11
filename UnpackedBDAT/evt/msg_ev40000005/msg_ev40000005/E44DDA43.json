@@ -24,7 +24,7 @@
       "$id": 2,
       "<8C7DD24D>": "<63C402C6>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "This is what's called a \"coffin.\"\nInside, a corpse is... no, a husk is laid to rest."
+      "<DBAF43F0>": "This is what's called a \"coffin.\" Inside, a\ncorpse is... no, a husk is laid to rest."
     },
     {
       "$id": 3,
@@ -36,7 +36,7 @@
       "$id": 4,
       "<8C7DD24D>": "<1EA8AF9B>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "Seriously...?\nIsn't it a bit too big for that?"
+      "<DBAF43F0>": "Seriously...? Isn't it a bit too big for that?"
     },
     {
       "$id": 5,

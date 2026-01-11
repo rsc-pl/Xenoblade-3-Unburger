@@ -18,19 +18,19 @@
       "$id": 1,
       "<8C7DD24D>": "<A14985E1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hey, these are all clothing containers."
+      "<DBAF43F0>": "Hey, these containers are all full of clothes."
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<968145E2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This one has food ingredients-mo!"
+      "<DBAF43F0>": "This one is full of food, desu mo!"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<DE43A21C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "My skills are tingling-mo!"
+      "<DBAF43F0>": "My arms are itching to cook, desu mo!"
     },
     {
       "$id": 4,
@@ -42,13 +42,13 @@
       "$id": 5,
       "<8C7DD24D>": "<4B33890A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It seems to work differently than ours, though."
+      "<DBAF43F0>": "Looks like the mechanisms are different from ours, though."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<B71DD6F5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Well, we'll manage somehow."
+      "<DBAF43F0>": "Ah, we'll figure it out."
     },
     {
       "$id": 7,
@@ -60,37 +60,37 @@
       "$id": 8,
       "<8C7DD24D>": "<FCAE5B08>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What's wrong? Can't find clothes that fit?"
+      "<DBAF43F0>": "What's wrong? Can't find anything that fits?"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<07C8EA5E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This... isn't the fabric rather thin? It feels a little... unreliable."
+      "<DBAF43F0>": "This... the fabric is rather thin, isn't\nit? It feels a bit... unreliable."
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<8BB7101F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Don't be so picky."
+      "<DBAF43F0>": "No being picky."
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<AA2F1EE0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You should be grateful we have anything at all."
+      "<DBAF43F0>": "We should just be glad we have anything at all."
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<C98485E8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Or... are you going to go on dressed like that, Taion?"
+      "<DBAF43F0>": "Or would you rather stay in those clothes, Taion?"
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<D7C2939B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "N-No, I'll wear it! Needs must, as they say."
+      "<DBAF43F0>": "N-No, I'll wear it. Beggars can't be choosers."
     },
     {
       "$id": 14,
@@ -102,19 +102,19 @@
       "$id": 15,
       "<8C7DD24D>": "<F68C6CED>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I think I'll go with this one. The color is nice."
+      "<DBAF43F0>": "I think I'll go with this one. I like the color."
     },
     {
       "$id": 16,
       "<8C7DD24D>": "<791F6E20>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They're not all brand new, are they?"
+      "<DBAF43F0>": "Looks like not everything is brand new."
     },
     {
       "$id": 17,
       "<8C7DD24D>": "<5B636357>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They're well-worn, but the fabric isn't damaged. They seem fine."
+      "<DBAF43F0>": "They're well-worn, but the fabric\nisn't damaged. They seem okay."
     },
     {
       "$id": 18,
@@ -126,25 +126,25 @@
       "$id": 19,
       "<8C7DD24D>": "<9CF19483>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's for sure."
+      "<DBAF43F0>": "You can say that again."
     },
     {
       "$id": 20,
       "<8C7DD24D>": "<9B8B9E7E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Some of them are like... \"how do you even wear this?\""
+      "<DBAF43F0>": "Some of 'em are like... \"how do you even put this on?\""
     },
     {
       "$id": 21,
       "<8C7DD24D>": "<E1E76A0B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This is pretty easy to move in!"
+      "<DBAF43F0>": "This one's pretty easy to move in."
     },
     {
       "$id": 22,
       "<8C7DD24D>": "<DCA86AE6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Really? Is there another one of those?"
+      "<DBAF43F0>": "Really? Is there another one like it?"
     },
     {
       "$id": 23,
@@ -156,7 +156,7 @@
       "$id": 24,
       "<8C7DD24D>": "<9B01F28E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh, I see..."
+      "<DBAF43F0>": "Oh, right..."
     },
     {
       "$id": 25,
@@ -168,7 +168,7 @@
       "$id": 26,
       "<8C7DD24D>": "<4C5290F7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What's up? You're not changing?"
+      "<DBAF43F0>": "What's up? Not changing?"
     },
     {
       "$id": 27,
@@ -186,7 +186,7 @@
       "$id": 29,
       "<8C7DD24D>": "<DFFF0A55>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Should I... c-change my boots, too?"
+      "<DBAF43F0>": "Should I... maybe ch-change my boots, too?"
     },
     {
       "$id": 30,
@@ -198,7 +198,7 @@
       "$id": 31,
       "<8C7DD24D>": "<DFD1C87D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "W-Wait, I'll..."
+      "<DBAF43F0>": "W-Wait for me..."
     },
     {
       "$id": 32,
@@ -210,13 +210,13 @@
       "$id": 33,
       "<8C7DD24D>": "<0FF1016F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What's with those guys? They could have just changed here."
+      "<DBAF43F0>": "What's with those guys? They could've just changed here."
     },
     {
       "$id": 34,
       "<8C7DD24D>": "<75E07020>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Going all the way over there..."
+      "<DBAF43F0>": "Going all the way over there for it..."
     },
     {
       "$id": 35,

@@ -18,25 +18,25 @@
       "$id": 1,
       "<8C7DD24D>": "<CFB7653C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Shouldn't we just force our way through in one go?"
+      "<DBAF43F0>": "Shouldn't we just force our way through?"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<779C2410>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "No way. We should avoid any place where Moebius can easily ambush us."
+      "<DBAF43F0>": "No way. We should avoid any place\nwhere Moebius can easily ambush us."
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<02630EAF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If I'm not mistaken..."
+      "<DBAF43F0>": "If I am not mistaken..."
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<0FD940D0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This entire area is controlled by\nthe Colony I was formerly assigned to."
+      "<DBAF43F0>": "this entire area is controlled by the\nColony to which I was formerly assigned."
     },
     {
       "$id": 5,
@@ -54,13 +54,13 @@
       "$id": 7,
       "<8C7DD24D>": "<19F27F05>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yes. It was from Colony Lambda. There's no doubt."
+      "<DBAF43F0>": "Yes. It was from Colony Lambda. There is no doubt."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<08C58E3C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Wait, does that mean we're in a pretty dangerous situation?"
+      "<DBAF43F0>": "Wait, are we in a pretty bad spot then?"
     },
     {
       "$id": 9,
@@ -84,7 +84,7 @@
       "$id": 12,
       "<8C7DD24D>": "<5A0ABA5C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Do you have a good plan, then?"
+      "<DBAF43F0>": "Do you have a plan?"
     },
     {
       "$id": 13,
@@ -102,7 +102,7 @@
       "$id": 15,
       "<8C7DD24D>": "<6797455F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If I recall, there should be a mine\nshaft of a considerable size around here..."
+      "<DBAF43F0>": "If I recall, there should be a mine shaft\nof a considerable size around here..."
     },
     {
       "$id": 16,
@@ -114,7 +114,7 @@
       "$id": 17,
       "<8C7DD24D>": "<FE7B2BB4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "but if we're underground,\nat least we won't get attacked by any large-scale Iron Giants."
+      "<DBAF43F0>": "but if we're underground, at least we\nwon't get jumped by any big Iron Giants."
     },
     {
       "$id": 18,
@@ -126,7 +126,7 @@
       "$id": 19,
       "<8C7DD24D>": "<C194F5C4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It seems like we could find some treasure, mo."
+      "<DBAF43F0>": "Sounds like there could be treasure, mo."
     },
     {
       "$id": 20,
@@ -138,7 +138,7 @@
       "$id": 21,
       "<8C7DD24D>": "<C0D539F3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That seems like our best bet."
+      "<DBAF43F0>": "That seems like our best option."
     },
     {
       "$id": 22,
@@ -150,19 +150,19 @@
       "$id": 23,
       "<8C7DD24D>": "<4FC69393>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It hasn't been used in a long time,\nso naturally there's a risk of the tunnels collapsing."
+      "<DBAF43F0>": "It has not been used in a long time, so naturally\nthere is a risk of the tunnels collapsing."
     },
     {
       "$id": 24,
       "<8C7DD24D>": "<F513D3A7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "There is also the risk that our\nescape routes would be limited in an emergency..."
+      "<DBAF43F0>": "There is also the risk that our escape\nroutes would be limited in an emergency..."
     },
     {
       "$id": 25,
       "<8C7DD24D>": "<6F355474>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Whoa, whoa, whoa. You're the one who suggested it, aren't you?"
+      "<DBAF43F0>": "Whoa, whoa, hold on. You're the\none who suggested it, aren't ya?"
     },
     {
       "$id": 26,
@@ -174,13 +174,13 @@
       "$id": 27,
       "<8C7DD24D>": "<D72A26C0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Or do you want to just keep living in a tent out here forever?"
+      "<DBAF43F0>": "Or do you wanna just keep living in a tent out here forever?"
     },
     {
       "$id": 28,
       "<8C7DD24D>": "<9785FC57>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "W-Well, that's..."
+      "<DBAF43F0>": "W-Well, that is..."
     },
     {
       "$id": 29,
@@ -198,19 +198,19 @@
       "$id": 31,
       "<8C7DD24D>": "<333C4A98>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So for now, let's just choose\nthe option that seems even a little bit easier."
+      "<DBAF43F0>": "So for now, let's just choose the option\nthat seems even a little bit easier."
     },
     {
       "$id": 32,
       "<8C7DD24D>": "<79F95768>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Let's not focus on the worst-case scenario."
+      "<DBAF43F0>": "Let's not dwell on the worst-case scenario."
     },
     {
       "$id": 33,
       "<8C7DD24D>": "<3398C332>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If we think positively, a path will naturally open up for us."
+      "<DBAF43F0>": "If we think positively, a path will naturally open for us."
     },
     {
       "$id": 34,
@@ -222,13 +222,13 @@
       "$id": 35,
       "<8C7DD24D>": "<36F8E913>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Looks like someone's trying to act like the elder of the group, huh?"
+      "<DBAF43F0>": "Looks like someone's trying to\nact like the elder of the group."
     },
     {
       "$id": 36,
       "<8C7DD24D>": "<93ED5A31>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "How admirable of her."
+      "<DBAF43F0>": "How admirable."
     },
     {
       "$id": 37,
