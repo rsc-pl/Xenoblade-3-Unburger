@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems the ship was able to depart."
+      "<DBAF43F0>": "It seems the ship\nwas able to depart."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you.\nI've received a report as well."
+      "<DBAF43F0>": "Thank you. I've received\na report as well."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seeing those supplies should calm\nAgyou and Ungyou down for the time being."
+      "<DBAF43F0>": "Seeing those supplies should calm Agyou\nand Ungyou down for the time being."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's true.\nNow, about the problems at Agnus Castle..."
+      "<DBAF43F0>": "That's true. Now, about the\nproblems at Agnus Castle..."
     },
     {
       "$id": 5,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What?! O-Okay...\nI'll send soldiers immediately. Over."
+      "<DBAF43F0>": "What?! O-Okay... I'll send\nsoldiers immediately. Over."
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It was a communication from a soldier at the port.\nThey've lost contact with the ship..."
+      "<DBAF43F0>": "It was a communication from a\nsoldier at the port. They've\nlost contact with the ship..."
     },
     {
       "$id": 10,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Understood.\nI'll be counting on you."
+      "<DBAF43F0>": "...Understood. I'll\nbe counting on you."
     },
     {
       "$id": 14,

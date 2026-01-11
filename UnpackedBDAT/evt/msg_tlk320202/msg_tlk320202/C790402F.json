@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is the resource extraction going smoothly?"
+      "<DBAF43F0>": "Is the resource extraction\ngoing smoothly?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's see... we can't get large quantities\nlike Lambda does, but..."
+      "<DBAF43F0>": "Let's see... we can't get large\nquantities like Lambda does, but..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've started to be able to extract a little at a time."
+      "<DBAF43F0>": "We've started to be able to\nextract a little at a time."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Isn't that great?\nKeep up the good work."
+      "<DBAF43F0>": "Isn't that great? Keep\nup the good work."
     }
   ]
 }

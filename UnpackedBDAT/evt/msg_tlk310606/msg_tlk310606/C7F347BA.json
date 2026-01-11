@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Since we have resources,\nit might be a good idea to share them\nwith colonies in need."
+      "<DBAF43F0>": "Since we have resources, it\nmight be a good idea to share\nthem with colonies in need."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can't just stay in our shell.\nWe need to look outside more... right?"
+      "<DBAF43F0>": "We can't just stay in our shell. We\nneed to look outside more... right?"
     }
   ]
 }

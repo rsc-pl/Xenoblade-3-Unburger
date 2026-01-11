@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems there are rusted\nIron Giants in places other\nthan Millick Meadows, too."
+      "<DBAF43F0>": "It seems there are rusted Iron Giants in\nplaces other than Millick Meadows, too."
     },
     {
       "$id": 2,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Iron Giants vary depending on their\nFlame Clock rank. If there's a poor strategic\nmatchup, they can suffer a crushing defeat."
+      "<DBAF43F0>": "Iron Giants vary depending on their Flame\nClock rank. If there's a poor strategic\nmatchup, they can suffer a crushing defeat."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are also costs to retrieving and transporting\nan Iron Giant. Depending on the extent of the damage,\nleaving it on the battlefield is sometimes unavoidable."
+      "<DBAF43F0>": "There are also costs to retrieving and transporting an\nIron Giant. Depending on the extent of the damage,\nleaving it on the battlefield is sometimes unavoidable."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And now they're just monster lairs...\nSomething about that just\nfeels frustrating..."
+      "<DBAF43F0>": "And now they're just monster\nlairs... Something about that\njust feels frustrating..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Even though they've been abandoned,\nthere are likely some supplies left,\nand they should be useful on our journey."
+      "<DBAF43F0>": "Even though they've been abandoned, there\nare likely some supplies left, and they\nshould be useful on our journey."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes. When we find one, let's try to stop by."
+      "<DBAF43F0>": "Yes. When we find one,\nlet's try to stop by."
     }
   ]
 }

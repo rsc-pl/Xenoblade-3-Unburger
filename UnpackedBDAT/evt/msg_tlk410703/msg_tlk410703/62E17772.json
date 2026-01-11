@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My shoulders get stiff from cooking all the time,\nso I have to get out on the battlefield every now and then to loosen up!"
+      "<DBAF43F0>": "My shoulders get stiff from cooking all\nthe time, so I have to get out on the\nbattlefield every now and then to loosen up!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is the first time I've seen a cook fight..."
+      "<DBAF43F0>": "This is the first time\nI've seen a cook fight..."
     }
   ]
 }

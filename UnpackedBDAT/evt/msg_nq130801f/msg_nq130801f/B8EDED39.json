@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To be unable to analyze...\nthis thing is... mumble mumble..."
+      "<DBAF43F0>": "To be unable to analyze... this\nthing is... mumble mumble..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sh-she's sleeping...!"
+      "<DBAF43F0>": "Sh-she is sleeping...!"
     },
     {
       "$id": 4,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She hit a pressure point that is effective against ailments.\nIt is effective for relieving fatigue, but..."
+      "<DBAF43F0>": "She hit a pressure point that is\neffective against ailments. It is\neffective for relieving fatigue, but..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That looked like it really hurt...\nShe didn't hold back..."
+      "<DBAF43F0>": "That looked like it really\nhurt... She did not hold back..."
     },
     {
       "$id": 12,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No choice...\nGuess we have to wake her up."
+      "<DBAF43F0>": "No choice... Guess we\nhave to wake her up."
     },
     {
       "$id": 14,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...What!?\nThat tickles!?"
+      "<DBAF43F0>": "...What!? That tickles!?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry, but we've got some business with you..."
+      "<DBAF43F0>": "Sorry, but we have got\nsome business with you..."
     },
     {
       "$id": 18,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I had no idea they could be\nused in that way..."
+      "<DBAF43F0>": "I had no idea they could\nbe used in that way..."
     },
     {
       "$id": 20,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...! I remember now!\nI was planning to take a nap until it was time..."
+      "<DBAF43F0>": "...! I remember now! I was planning\nto take a nap until it was time..."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's right, the awards...!?\nWhat time is it!?"
+      "<DBAF43F0>": "That is right, the awards...!?\nWhat time is it!?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No need to rush.\nWe've got the thing for you right here..."
+      "<DBAF43F0>": "No need to rush. We have got the\nthing for you right here..."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "You hand over the \"Harvest Day Tiara.\""
+      "<DBAF43F0>": "You hand over the\n\"Harvest Day Tiara.\""
     },
     {
       "$id": 25,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I did it!\nWith this, I can request\nhigh-grade shampoo!"
+      "<DBAF43F0>": "I did it! With this, I can\nrequest high-grade shampoo!"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Kotori said to give you her regards.\nDon't give her too much trouble."
+      "<DBAF43F0>": "Kotori said to give you her regards.\nDo not give her too much trouble."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's great, congratulations!"
+      "<DBAF43F0>": "That is great, congratulations!"
     },
     {
       "$id": 29,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Try not to oversleep next time.\nIf this were the battlefield, you'd be dead."
+      "<DBAF43F0>": "Try not to oversleep next time. If this\nwere the battlefield, you would be dead."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ugh, I'm sorry..."
+      "<DBAF43F0>": "Ugh, I am sorry..."
     },
     {
       "$id": 32,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm expecting great things from you in the future, Misaka."
+      "<DBAF43F0>": "I am expecting great things from\nyou in the future, Misaka."
     },
     {
       "$id": 34,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then, there are procedures to attend to...\nPardon me!"
+      "<DBAF43F0>": "Well then, there are procedures\nto attend to... Pardon me!"
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good shampoo is a rare commodity,\nand Harvest Day is about the only time\nyou can get it..."
+      "<DBAF43F0>": "Good shampoo is a rare commodity,\nand Harvest Day is about the\nonly time you can get it..."
     },
     {
       "$id": 37,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not at all. It was an interesting experience."
+      "<DBAF43F0>": "Not at all. It was an\ninteresting experience."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Since when have you had this evaluation system?"
+      "<DBAF43F0>": "Since when have you had\nthis evaluation system?"
     },
     {
       "$id": 40,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That girl isn't suited for combat, but\nshe's skilled at this kind of work."
+      "<DBAF43F0>": "That girl is not suited for combat, but\nshe is skilled at this kind of work."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you want to know more,\nyou should ask her yourself."
+      "<DBAF43F0>": "If you want to know more, you\nshould ask her yourself."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're right...\nI want to report on Misaka's situation too."
+      "<DBAF43F0>": "You are right... I want to report\non Misaka's situation too."
     },
     {
       "$id": 45,

@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All of this is supplies...? Are you serious?"
+      "<DBAF43F0>": "All of this is supplies...?\nAre you serious?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I am.\nAnd this is less than we used to have."
+      "<DBAF43F0>": "I am. And this is less\nthan we used to have."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Allow me to introduce you again. This is Mikage.\nI've entrusted the management of supplies to her."
+      "<DBAF43F0>": "Allow me to introduce you again.\nThis is Mikage. I have entrusted\nthe management of supplies to her."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mikage, as we've already discussed..."
+      "<DBAF43F0>": "Mikage, as we have\nalready discussed..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "From now on, I'll be entrusting supplies to them as well,\nso please be aware."
+      "<DBAF43F0>": "From now on, I will be entrusting supplies\nto them as well, so please be aware."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't mind.\nThis is a necessary cost, and..."
+      "<DBAF43F0>": "I do not mind. This is a\nnecessary cost, and..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's better to have\nmore eyes watching."
+      "<DBAF43F0>": "It is better to have\nmore eyes watching."
     },
     {
       "$id": 10,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Under the control of the Flame Clock,\nfriend and foe were clearly distinguishable."
+      "<DBAF43F0>": "Under the control of the Flame\nClock, friend and foe were\nclearly distinguishable."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The one from whom you could earn life's fire was the enemy...\nIt was very simple."
+      "<DBAF43F0>": "The one from whom you could\nearn life's fire was the\nenemy... It was very simple."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But from now on, that standard is gone."
+      "<DBAF43F0>": "But from now on, that\nstandard is gone."
     },
     {
       "$id": 15,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I see. Forcing us to fight is\nonly one aspect of the Flame Clock..."
+      "<DBAF43F0>": "...I see. Forcing us to fight is only\none aspect of the Flame Clock..."
     },
     {
       "$id": 18,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's about right."
+      "<DBAF43F0>": "That is about right."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "From now on, it will be easier for \"traitors\" to appear.\nIt's dangerous to give power to just one person."
+      "<DBAF43F0>": "From now on, it will be easier for\n\"traitors\" to appear. It is dangerous\nto give power to just one person."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You don't trust them?\nYour own comrades..."
+      "<DBAF43F0>": "You do not trust them?\nYour own comrades..."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, I do trust them.\nMy people are all excellent."
+      "<DBAF43F0>": "Oh, I do trust them. My\npeople are all excellent."
     },
     {
       "$id": 23,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Would you order a soldier who can't handle a Levnis\nto pilot one?"
+      "<DBAF43F0>": "Would you order a soldier who cannot\nhandle a Levnis to pilot one?"
     },
     {
       "$id": 26,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's important in strategy is individual skill.\nThat's all you need to believe in."
+      "<DBAF43F0>": "What is important in strategy\nis individual skill. That is\nall you need to believe in."
     },
     {
       "$id": 28,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A very troublesome person, aren't you?"
+      "<DBAF43F0>": "A very troublesome\nperson, are you not?"
     },
     {
       "$id": 31,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However, I see it as a wise decision."
+      "<DBAF43F0>": "However, I see it as\na wise decision."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No one knows what the future holds for the world..."
+      "<DBAF43F0>": "No one knows what the future\nholds for the world..."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whether I'm being watched or not,\nI will simply remain by Niina-sama's side."
+      "<DBAF43F0>": "Whether I am being watched or not, I will\nsimply remain by Niina-sama's side."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You care about her deeply,\ndon't you, Niina?"
+      "<DBAF43F0>": "...You care about her\ndeeply, don't you, Niina?"
     },
     {
       "$id": 36,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However...\nI'm in my tenth term, so my remaining time is short."
+      "<DBAF43F0>": "However... I am in my tenth term,\nso my remaining time is short."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "More than anything, Niina-sama\nneeds allies..."
+      "<DBAF43F0>": "More than anything,\nNiina-sama needs allies..."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I would very much like for you all\nto become good friends with Niina-sama."
+      "<DBAF43F0>": "I would very much like for you all to\nbecome good friends with Niina-sama."
     },
     {
       "$id": 40,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This has gone on long enough.\nWe will be transporting supplies to\nColony 4 now, but..."
+      "<DBAF43F0>": "This has gone on long enough.\nWe will be transporting supplies\nto Colony 4 now, but..."
     },
     {
       "$id": 44,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Supply distribution authority granted."
+      "<DBAF43F0>": "Supply distribution\nauthority granted."
     },
     {
       "$id": 46,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It might be easier to understand if I say\nwe've unlocked a new function of the Collectopaedia Cards."
+      "<DBAF43F0>": "It might be easier to understand if\nI say we have unlocked a new function\nof the Collectopaedia Cards."
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There was still something like that..."
+      "<DBAF43F0>": "There was still\nsomething like that..."
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm glad to see you're surprised."
+      "<DBAF43F0>": "I am glad to see you are surprised."
     },
     {
       "$id": 51,
@@ -538,7 +538,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm not surprised.\nI'm astounded."
+      "<DBAF43F0>": "I am not surprised. I am astounded."
     },
     {
       "$id": 52,
@@ -548,7 +548,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's simple to use.\nDesignate the commander of the colony you want to send to..."
+      "<DBAF43F0>": "It is simple to use. Designate\nthe commander of the colony\nyou want to send to..."
     },
     {
       "$id": 53,
@@ -558,7 +558,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then just select the supplies, and you're done."
+      "<DBAF43F0>": "Then just select the\nsupplies, and you are done."
     },
     {
       "$id": 54,
@@ -588,7 +588,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We have already spoken with Bolearis,\nthe current representative. If you would designate\nhim this time..."
+      "<DBAF43F0>": "We have already spoken with Bolearis,\nthe current representative. If you\nwould designate him this time..."
     },
     {
       "$id": 57,
@@ -598,7 +598,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then... \"practice is better than theory.\"\nPlease try it out right away."
+      "<DBAF43F0>": "Well then... \"practice is better than\ntheory.\" Please try it out right away."
     }
   ]
 }

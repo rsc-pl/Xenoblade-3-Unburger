@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Lately, when I ask the wrinkly people for directions,\nthey all give me very kind and detailed instructions."
+      "<DBAF43F0>": "Lately, when I ask the wrinkly people\nfor directions, they all give me very\nkind and detailed instructions."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It sounds like you're fitting into the City."
+      "<DBAF43F0>": "It sounds like you're\nfitting into the City."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But you're still effectively lost, aren't you?"
+      "<DBAF43F0>": "But you're still effectively\nlost, aren't you?"
     }
   ]
 }

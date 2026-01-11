@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm busy with various things,\nso I tried hiring a new worker, but..."
+      "<DBAF43F0>": "I'm busy with various things, so I\ntried hiring a new worker, but..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "there's more to teach than I thought.\nWell, it's their first time learning about\nthe City and the shop, so it can't be helped."
+      "<DBAF43F0>": "there's more to teach than I thought. Well,\nit's their first time learning about the\nCity and the shop, so it can't be helped."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems like it'll be a rewarding training experience..."
+      "<DBAF43F0>": "It seems like it'll be a\nrewarding training experience..."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Rou ordered Haruomi to stand by, but...\nI cannot seem to calm down.\n...This is the first time I have felt this way."
+      "<DBAF43F0>": "Rou ordered Haruomi to stand by, but...\nI cannot seem to calm down. ...This is\nthe first time I have felt this way."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Should we not deploy immediately\nin preparation for the final battle with Moebius?"
+      "<DBAF43F0>": "Should we not deploy immediately\nin preparation for the final\nbattle with Moebius?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That time will come.\nIt may be frustrating, but standing by is part of the mission."
+      "<DBAF43F0>": "That time will come. It may\nbe frustrating, but standing\nby is part of the mission."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Understood.\nBut in case of an emergency,\nI ask that you let Haruomi cooperate as well."
+      "<DBAF43F0>": "...Understood. But in case of\nan emergency, I ask that you\nlet Haruomi cooperate as well."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Haruomi also wants to do something\nfor this world...\n...like you all."
+      "<DBAF43F0>": "Haruomi also wants to do something\nfor this world... ...like you all."
     }
   ]
 }

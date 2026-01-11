@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was watching. You guys are amazing."
+      "<DBAF43F0>": "I was watching. You\nguys are amazing."
     },
     {
       "$id": 3,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For all your big talk, you're not\nthat impressive, Captain."
+      "<DBAF43F0>": "For all your big talk, you're\nnot that impressive, Captain."
     },
     {
       "$id": 6,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You guys better not chicken out and run away!\nCome to Daedal Isle!"
+      "<DBAF43F0>": "You guys better not chicken out and\nrun away! Come to Daedal Isle!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Why would we, the winners,\nrun away...?"
+      "<DBAF43F0>": "Why would we, the\nwinners, run away...?"
     }
   ]
 }

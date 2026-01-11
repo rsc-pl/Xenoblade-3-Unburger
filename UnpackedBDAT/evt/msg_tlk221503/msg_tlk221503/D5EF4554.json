@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I guess our colony is lucky.\nWe fought a Silver colony before\nand won, you know."
+      "<DBAF43F0>": "I guess our colony is lucky. We fought a\nSilver colony before and won, you know."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It was Colony Iota, but\nat the time they were still Copper or Iron rank[ML:line ]..."
+      "<DBAF43F0>": "It was Colony Iota, but at the\ntime they were still Copper\nor Iron rank[ML:line ]..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we had fought a little later,\nwe would have had to face higher-rank Levnises.\nWe might have lost."
+      "<DBAF43F0>": "If we had fought a little later,\nwe would have had to face higher-rank\nLevnises. We might have lost."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, our commander probably\ndoesn't remember any of it, though."
+      "<DBAF43F0>": "Well, our commander probably doesn't\nremember any of it, though."
     }
   ]
 }

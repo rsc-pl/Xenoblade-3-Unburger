@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The boss is a natural-born Defender.\nWell, you can tell by looking at that huge shield."
+      "<DBAF43F0>": "The boss is a natural-born\nDefender. Well, you can tell\nby looking at that huge shield."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The amazing thing is that she can protect\nnot only herself, but her comrades as well."
+      "<DBAF43F0>": "The amazing thing is that she\ncan protect not only herself,\nbut her comrades as well."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But don't let the boss stay in the line of fire for too long.\nWe can't have her getting seriously injured and collapsing."
+      "<DBAF43F0>": "But don't let the boss stay in the line\nof fire for too long. We can't have her\ngetting seriously injured and collapsing."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Rely on the boss when you need to,\nbut help her out when she's in danger.\nDon't forget the spirit of mutual aid."
+      "<DBAF43F0>": "Rely on the boss when you need to, but\nhelp her out when she's in danger. Don't\nforget the spirit of mutual aid."
     }
   ]
 }

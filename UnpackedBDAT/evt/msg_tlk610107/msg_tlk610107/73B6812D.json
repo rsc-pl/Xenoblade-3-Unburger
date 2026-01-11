@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"The City has many books\nand no shortage of opportunities to learn...\""
+      "<DBAF43F0>": "\"The City has many books and no\nshortage of opportunities to learn...\""
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"...so why do you do nothing but play?\"\n...That's what he said. It really stings..."
+      "<DBAF43F0>": "\"...so why do you do nothing\nbut play?\" ...That's what he\nsaid. It really stings..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, what can I say...\nFrom now on, stop playing around and do your best..."
+      "<DBAF43F0>": "Well, what can I say... From now on,\nstop playing around and do your best..."
     }
   ]
 }

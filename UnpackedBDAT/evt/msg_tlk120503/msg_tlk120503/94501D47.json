@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is...!\nThis is getting interesting!"
+      "<DBAF43F0>": "This is...! This is\ngetting interesting!"
     },
     {
       "$id": 2,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is unprecedented!\nI wonder what's going on! What are they\nso concerned about!"
+      "<DBAF43F0>": "This is unprecedented! I\nwonder what's going on! What\nare they so concerned about!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I-I see!\nI don't really get it, but good for you!"
+      "<DBAF43F0>": "I-I see! I don't really\nget it, but good for you!"
     }
   ]
 }

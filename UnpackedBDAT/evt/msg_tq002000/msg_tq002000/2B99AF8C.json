@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hey, are we really sure this is the right way?"
+      "<DBAF43F0>": "Hey, are we really sure\nthis is the right way?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hmm...\nThere seems to be a path, but..."
+      "<DBAF43F0>": "Hmm... There seems to\nbe a path, but..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Getting through here looks like it'll be a real pain."
+      "<DBAF43F0>": "Getting through here looks\nlike it'll be a real pain."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Perhaps, but we don't have time to be loitering here."
+      "<DBAF43F0>": "Perhaps, but we don't have\ntime to be loitering here."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's not like there are any other paths, right?\nCome on, let's get going."
+      "<DBAF43F0>": "It's not like there are any other paths,\nright? Come on, let's get going."
     }
   ]
 }

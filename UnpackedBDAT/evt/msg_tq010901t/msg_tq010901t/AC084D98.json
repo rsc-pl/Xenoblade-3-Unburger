@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Excuse me, I'd like to ask you something."
+      "<DBAF43F0>": "Excuse me, I'd like to\nask you something."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're looking for something called an onsen..."
+      "<DBAF43F0>": "We're looking for something\ncalled an onsen..."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've never seen a natural one myself.\nUnfortunately."
+      "<DBAF43F0>": "I've never seen a natural\none myself. Unfortunately."
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What, you don't even know that...\nNo, I suppose... it's only natural for young folk\nto have never even heard of it."
+      "<DBAF43F0>": "What, you don't even know that... No, I\nsuppose... it's only natural for young\nfolk to have never even heard of it."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you ask an old person like me,\nthere's probably someone who knows more about it."
+      "<DBAF43F0>": "If you ask an old person like\nme, there's probably someone\nwho knows more about it."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There were people who looked for it in the past, but...\nit's a hidden spring that was never found."
+      "<DBAF43F0>": "There were people who looked for\nit in the past, but... it's a hidden\nspring that was never found."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, I've heard it's in a forest, or at the bottom of a cliff,\nor deep in some cave, but no one could ever find it."
+      "<DBAF43F0>": "Yes, I've heard it's in a forest, or at\nthe bottom of a cliff, or deep in some\ncave, but no one could ever find it."
     },
     {
       "$id": 12,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait, maybe that old man\nhas been there... no, is he dead?"
+      "<DBAF43F0>": "Wait, maybe that old man has\nbeen there... no, is he dead?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He might be dead.\nI haven't seen him recently."
+      "<DBAF43F0>": "He might be dead. I haven't\nseen him recently."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see... I'm sorry. That was helpful."
+      "<DBAF43F0>": "I see... I'm sorry.\nThat was helpful."
     },
     {
       "$id": 16,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, it was more than enough.\nLet's go."
+      "<DBAF43F0>": "No, it was more than\nenough. Let's go."
     }
   ]
 }

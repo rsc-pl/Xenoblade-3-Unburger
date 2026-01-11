@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oho, you lads are a hot-blooded bunch."
+      "<DBAF43F0>": "Oho, you lads are a\nhot-blooded bunch."
     },
     {
       "$id": 6,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "You guys look like you haven't eaten."
+      "<DBAF43F0>": "You guys look like\nyou haven't eaten."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "The hell we do! What's with this guy?"
+      "<DBAF43F0>": "The hell we do! What's\nwith this guy?"
     },
     {
       "$id": 11,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "We can't... just ignore him, can we?"
+      "<DBAF43F0>": "We can't... just\nignore him, can we?"
     }
   ]
 }

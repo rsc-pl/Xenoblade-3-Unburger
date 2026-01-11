@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You were aiming for Swordmarch, correct?"
+      "<DBAF43F0>": "You were aiming for\nSwordmarch, correct?"
     },
     {
       "$id": 2,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It will be an arduous journey.\nPlease be careful."
+      "<DBAF43F0>": "It will be an arduous\njourney. Please be careful."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course, if the need arises,\nI will lend you my strength as well."
+      "<DBAF43F0>": "Of course, if the need arises, I\nwill lend you my strength as well."
     }
   ]
 }

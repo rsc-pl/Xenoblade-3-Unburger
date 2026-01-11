@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This will never...\nwork out..."
+      "<DBAF43F0>": "This will never... work out..."
     },
     {
       "$id": 2,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Sorry about the trouble Fox caused."
+      "<DBAF43F0>": "...Sorry about the\ntrouble Fox caused."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He really didn't mean any harm,\nI think he just couldn't leave the fields alone.\n...He's a good guy."
+      "<DBAF43F0>": "He really didn't mean any harm, I\nthink he just couldn't leave the\nfields alone. ...He's a good guy."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...As for the fields,\nyou can handle them from now on."
+      "<DBAF43F0>": "...As for the fields, you can\nhandle them from now on."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Everything else...\nwe'll manage on our end."
+      "<DBAF43F0>": "Everything else... we'll\nmanage on our end."
     },
     {
       "$id": 8,

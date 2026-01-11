@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "At this caravan,\nI sell all sorts of ingredients from\nthe east and the west, desu mo."
+      "<DBAF43F0>": "At this caravan, I sell all\nsorts of ingredients from the\neast and the west, desu mo."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I am constantly getting new ingredients in stock,\nso please come by and take a look\nfrom time to time, desu mo."
+      "<DBAF43F0>": "I am constantly getting new ingredients\nin stock, so please come by and take a\nlook from time to time, desu mo."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Today, too, I have a fine selection\nof fresh and lively ingredients, desu mo."
+      "<DBAF43F0>": "Today, too, I have a fine selection of\nfresh and lively ingredients, desu mo."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have new ingredients in stock, desu mo.\nPlease take a look, desu mo."
+      "<DBAF43F0>": "I have new ingredients in stock, desu\nmo. Please take a look, desu mo."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The latest shipment has filled up my inventory,\nso I will be trading with this lineup\nfor a while, desu mo."
+      "<DBAF43F0>": "The latest shipment has filled up my\ninventory, so I will be trading with\nthis lineup for a while, desu mo."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I look forward to\nyour next visit, desu mo."
+      "<DBAF43F0>": "I look forward to your\nnext visit, desu mo."
     }
   ]
 }

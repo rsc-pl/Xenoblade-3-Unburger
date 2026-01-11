@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is the transport to Mulus Depot in the Cadensia Region.\nPassengers, please board here."
+      "<DBAF43F0>": "This is the transport to Mulus\nDepot in the Cadensia Region.\nPassengers, please board here."
     },
     {
       "$id": 2,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We will now depart for the Ascension Grounds at Agnus Castle.\nAll passengers, please inform us."
+      "<DBAF43F0>": "We will now depart for the Ascension\nGrounds at Agnus Castle. All\npassengers, please inform us."
     }
   ]
 }

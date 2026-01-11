@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The commander isn't just a mechanic, you know.\nHe's also a skilled Healer."
+      "<DBAF43F0>": "The commander isn't just a mechanic,\nyou know. He's also a skilled Healer."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He has an Art that heals a lot, right?\nAnd one that heals with a bit of a delay?"
+      "<DBAF43F0>": "He has an Art that heals a lot, right? And\none that heals with a bit of a delay?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And even an Art that strengthens healing power[ML:line ]...\nWith the commander around, you should be able to fight forever."
+      "<DBAF43F0>": "And even an Art that strengthens healing\npower[ML:line ]... With the commander around,\nyou should be able to fight forever."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "[ML:line ]If Rudi gets targeted, it's over.\nWe have to be careful."
+      "<DBAF43F0>": "[ML:line ]If Rudi gets targeted,\nit's over. We have to be careful."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's true.\nProtect the commander, okay?"
+      "<DBAF43F0>": "That's true. Protect\nthe commander, okay?"
     }
   ]
 }

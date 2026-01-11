@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...These aren't monsters you see in the forest.\nWhy are they in a place like this..."
+      "<DBAF43F0>": "...These aren't monsters you\nsee in the forest. Why are\nthey in a place like this..."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No use thinking about it!\nLet's just blow them all away!"
+      "<DBAF43F0>": "No use thinking about it! Let's\njust blow them all away!"
     }
   ]
 }

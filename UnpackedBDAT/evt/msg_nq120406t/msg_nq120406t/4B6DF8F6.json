@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Alright, we should be able to use this part."
+      "<DBAF43F0>": "Alright, we should be\nable to use this part."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh! This part should be\nusable for Mechafriend, right?"
+      "<DBAF43F0>": "Oh! This part should be usable\nfor Mechafriend, right?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They can attach this to Mechafriend, can't they?"
+      "<DBAF43F0>": "They can attach this to\nMechafriend, can't they?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Doesn't this part look good?"
+      "<DBAF43F0>": "Does this part not look good?"
     },
     {
       "$id": 5,

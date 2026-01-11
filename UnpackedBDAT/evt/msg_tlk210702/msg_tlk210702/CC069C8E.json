@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Squad Leader Kukucha is a bit clumsy,\nbut her cooking skills are top-tier in Keves...\nYou could even say she's \"Silver\" class."
+      "<DBAF43F0>": "Squad Leader Kukucha is a bit clumsy, but\nher cooking skills are top-tier in Keves...\nYou could even say she's \"Silver\" class."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No matter how poor the ingredients,\nshe can turn them into a reasonably tasty dish.\nShe's a really amazing Nopon."
+      "<DBAF43F0>": "No matter how poor the ingredients, she\ncan turn them into a reasonably tasty\ndish. She's a really amazing Nopon."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If she wasn't in Colony 4's kitchen,\nwe'd probably be eating flavorless, rubbery\nfield rations every day by now..."
+      "<DBAF43F0>": "If she wasn't in Colony 4's kitchen,\nwe'd probably be eating flavorless,\nrubbery field rations every day by now..."
     }
   ]
 }

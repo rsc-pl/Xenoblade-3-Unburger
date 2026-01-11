@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, Mio-senpai! Do you need something?"
+      "<DBAF43F0>": "Ah, Mio-senpai! Do\nyou need something?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmmm... Not really~\nIt was training as usual..."
+      "<DBAF43F0>": "Hmmm... Not really~ It\nwas training as usual..."
     },
     {
       "$id": 4,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...A monster? What are you talking about?"
+      "<DBAF43F0>": "...A monster? What are\nyou talking about?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's a rumor that a monster appeared\nduring the operation where you all disappeared~"
+      "<DBAF43F0>": "There's a rumor that a monster\nappeared during the operation\nwhere you all disappeared~"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There was a communication from the front lines,\nbut it got cut off right away..."
+      "<DBAF43F0>": "There was a communication from the front\nlines, but it got cut off right away..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And since you all disappeared after that...\neveryone thought you might have been\nkilled by that monster..."
+      "<DBAF43F0>": "And since you all disappeared after\nthat... everyone thought you might\nhave been killed by that monster..."
     },
     {
       "$id": 11,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Y-yes.\nAt least, we didn't see one."
+      "<DBAF43F0>": "...Y-yes. At least,\nwe didn't see one."
     },
     {
       "$id": 15,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Come to think of it, Commander Shidou's\ntraining is more monstrous than any monster..."
+      "<DBAF43F0>": "...Come to think of it, Commander\nShidou's training is more\nmonstrous than any monster..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, it's nothing!\nIt's nothing at all!!"
+      "<DBAF43F0>": "Ah, it's nothing! It's\nnothing at all!!"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "You handed over all the necessary ingredients."
+      "<DBAF43F0>": "You handed over all the\nnecessary ingredients."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you!\nThanks to you, it looks like we'll make it in time."
+      "<DBAF43F0>": "Thank you! Thanks to you, it looks\nlike we'll make it in time."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood.\nGood luck, new adult."
+      "<DBAF43F0>": "Understood. Good luck, new adult."
     }
   ]
 }

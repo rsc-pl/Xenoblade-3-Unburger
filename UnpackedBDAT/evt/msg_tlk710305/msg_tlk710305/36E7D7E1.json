@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I hear it sometimes,\nbut what is this 'Senate'...?"
+      "<DBAF43F0>": "I hear it sometimes, but\nwhat is this 'Senate'...?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's an assembly composed of the Six Houses.\nWell, there are various ties and conflicts,\nbut they're all very knowledgeable and experienced."
+      "<DBAF43F0>": "It's an assembly composed of the Six Houses.\nWell, there are various ties and conflicts, but\nthey're all very knowledgeable and experienced."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And the one in charge of that is the 'Elder.'\nIt's one of the hea~~vy burdens\nthe boss has shouldered."
+      "<DBAF43F0>": "And the one in charge of that is the\n'Elder.' It's one of the hea~~vy\nburdens the boss has shouldered."
     }
   ]
 }

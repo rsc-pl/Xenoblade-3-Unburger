@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, it's you all...!\nWhat a surprise, to meet you here."
+      "<DBAF43F0>": "Oh, it's you all...! What a\nsurprise, to meet you here."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This gate's been closed for ages, right?\nWere you the one who opened it?"
+      "<DBAF43F0>": "This gate's been closed for ages,\nright? Were you the one who opened it?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, I was.\nUntil now, I was forbidden from opening it\nby an order from the Castle."
+      "<DBAF43F0>": "Yes, I was. Until now, I was\nforbidden from opening it by\nan order from the Castle."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Under the pretext of quarantining Colony 11,\nwhich was contaminated by Ouroboros.\n...I was so foolish."
+      "<DBAF43F0>": "Under the pretext of quarantining\nColony 11, which was contaminated\nby Ouroboros. ...I was so foolish."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It can't be helped.\nGiven the circumstances, don't worry about it."
+      "<DBAF43F0>": "It can't be helped. Given the\ncircumstances, don't worry about it."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd like to talk more with you, but\nI have an urgent matter to attend to...\nI must return immediately."
+      "<DBAF43F0>": "I'd like to talk more with you, but\nI have an urgent matter to attend\nto... I must return immediately."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you happen to see Senior Soldier Tsoren,\ncould you ask him to come see me?"
+      "<DBAF43F0>": "If you happen to see Senior Soldier\nTsoren, could you ask him to come see me?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tsoren?\nWell, I guess I can..."
+      "<DBAF43F0>": "Tsoren? Well, I guess I can..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you!\nThen I'll be counting on you!"
+      "<DBAF43F0>": "Thank you! Then I'll\nbe counting on you!"
     }
   ]
 }

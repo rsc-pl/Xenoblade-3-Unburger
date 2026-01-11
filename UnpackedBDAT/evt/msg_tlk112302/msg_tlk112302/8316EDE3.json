@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like you're packing your things.\nAre you leaving this place?"
+      "<DBAF43F0>": "Looks like you're packing your\nthings. Are you leaving this place?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was told to move to Colony 9.\nApparently, they sent a request to take me in."
+      "<DBAF43F0>": "I was told to move to Colony 9. Apparently,\nthey sent a request to take me in."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's not like it was comfortable here anyway.\nIt's all the same no matter where I go."
+      "<DBAF43F0>": "It's not like it was comfortable\nhere anyway. It's all the same\nno matter where I go."
     }
   ]
 }

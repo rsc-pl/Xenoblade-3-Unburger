@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There were several soldiers in the prison camp\nwhose faces I recognized."
+      "<DBAF43F0>": "There were several soldiers in the\nprison camp whose faces I recognized."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I didn't even know if they were alive or dead,\nso I was relieved to see them alive."
+      "<DBAF43F0>": "I didn't even know if they\nwere alive or dead, so I was\nrelieved to see them alive."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The mission is to rescue Ghondor,\nbut if possible, I'd like to send\neveryone else back to the City, too..."
+      "<DBAF43F0>": "The mission is to rescue Ghondor, but\nif possible, I'd like to send everyone\nelse back to the City, too..."
     }
   ]
 }

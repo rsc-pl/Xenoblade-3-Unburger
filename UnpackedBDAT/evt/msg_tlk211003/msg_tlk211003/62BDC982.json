@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Losing Ethel is regrettable,\nbut as long as she wished to settle things with Kamunabi,\nit was an unavoidable conclusion."
+      "<DBAF43F0>": "Losing Ethel is regrettable, but as long\nas she wished to settle things with Kamunabi,\nit was an unavoidable conclusion."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However, just as Ethel\nwas prepared for that conclusion,\nthere is something we, too, must be prepared for."
+      "<DBAF43F0>": "However, just as Ethel was prepared\nfor that conclusion, there is something\nwe, too, must be prepared for."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That even after the Commander is gone,\nwe will never stop the colony's progress\nfrom now on[ML:line ]!"
+      "<DBAF43F0>": "That even after the Commander is\ngone, we will never stop the colony's\nprogress from now on[ML:line ]!"
     }
   ]
 }

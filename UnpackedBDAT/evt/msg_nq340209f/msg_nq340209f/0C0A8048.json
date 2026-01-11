@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've finished gathering the food and handed it over."
+      "<DBAF43F0>": "We've finished gathering the\nfood and handed it over."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you very much.\nI'm glad I could rely on you all."
+      "<DBAF43F0>": "Thank you very much. I'm glad\nI could rely on you all."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As expected of Noah and the others!\nIt helps that things move so quickly!"
+      "<DBAF43F0>": "As expected of Noah and the others! It\nhelps that things move so quickly!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Even in a situation like this,\nwe must move forward."
+      "<DBAF43F0>": "Even in a situation like\nthis, we must move forward."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I believe that if we all work together,\nwe can achieve it."
+      "<DBAF43F0>": "I believe that if we all work\ntogether, we can achieve it."
     },
     {
       "$id": 6,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But for now, I'll believe you.\nBelieve those words."
+      "<DBAF43F0>": "But for now, I'll believe\nyou. Believe those words."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes. I will do my best not to betray\nthat feeling."
+      "<DBAF43F0>": "Yes. I will do my best not\nto betray that feeling."
     }
   ]
 }

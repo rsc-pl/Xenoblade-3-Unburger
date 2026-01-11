@@ -38,7 +38,7 @@
       "<2B51649C>": 50348161,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You said it was harvest time.\nIs it a lot of work?"
+      "<DBAF43F0>": "You said it was harvest\ntime. Is it a lot of work?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It is.\nColony Tau provides most of its own food\nfrom within the colony."
+      "<DBAF43F0>": "It is. Colony Tau provides most of\nits own food from within the colony."
     },
     {
       "$id": 3,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's simply a harvest.\nMany crops are reaped during this season."
+      "<DBAF43F0>": "It's simply a harvest. Many crops\nare reaped during this season."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However...... this time, we're short on people,\nso there's talk that it won't be easy."
+      "<DBAF43F0>": "However...... this time, we're\nshort on people, so there's\ntalk that it won't be easy."
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 50348161,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If it's just harvesting,\nI think even I can do it!"
+      "<DBAF43F0>": "If it's just harvesting, I\nthink even I can do it!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you sure?\nIt might be a bother to your journey......"
+      "<DBAF43F0>": "Are you sure? It might be a\nbother to your journey......"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 50348161,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't hold back.\nIn situations like this,\na simple 'thank you' is enough!"
+      "<DBAF43F0>": "Don't hold back. In situations like\nthis, a simple 'thank you' is enough!"
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then, um......\nThank you, everyone.\nI'll be in your care."
+      "<DBAF43F0>": "Then, um...... Thank you,\neveryone. I'll be in your care."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Alright, then let's get started right away!"
+      "<DBAF43F0>": "Alright, then let's get\nstarted right away!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's right by the entrance to Colony Tau.\nLet's go."
+      "<DBAF43F0>": "It's right by the entrance\nto Colony Tau. Let's go."
     }
   ]
 }

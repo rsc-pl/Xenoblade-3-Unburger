@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I helped Hotsuma out.\nIs he a capable person in the engineering corps?"
+      "<DBAF43F0>": "I helped Hotsuma out. Is he a capable\nperson in the engineering corps?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes... I think Hotsuma is excellent.\nHe might become the next engineering corps captain after me."
+      "<DBAF43F0>": "Yes... I think Hotsuma is excellent.\nHe might become the next engineering\ncorps captain after me."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He has a strong sense of duty to the colony,\nand above all, he's diligent."
+      "<DBAF43F0>": "He has a strong sense of duty to the\ncolony, and above all, he's diligent."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Indeed... He would make a good captain."
+      "<DBAF43F0>": "Indeed... He would\nmake a good captain."
     }
   ]
 }

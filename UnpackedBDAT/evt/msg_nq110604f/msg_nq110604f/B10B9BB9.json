@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well done, mo!\nFinally, the inventory is restored, mo!"
+      "<DBAF43F0>": "Well done, mo! Finally, the\ninventory is restored, mo!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mikoko-chan?\nAre the ingredients ready yet, mo?"
+      "<DBAF43F0>": "Mikoko-chan? Are the\ningredients ready yet, mo?"
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Everyone is hungry, mo!\nTheir stomachs are growling and they're getting cranky, mo!"
+      "<DBAF43F0>": "Everyone is hungry, mo! Their\nstomachs are growling and\nthey're getting cranky, mo!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I heard that already, mo!\nTake this and get out of here, mo!"
+      "<DBAF43F0>": "I heard that already, mo! Take\nthis and get out of here, mo!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, thank you, mo!\nNow I can cook a lot, mo!"
+      "<DBAF43F0>": "Oh, thank you, mo! Now\nI can cook a lot, mo!"
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As a thank you, I'll give you a huge serving\nof your favorite meat, Mikoko-chan, mo!"
+      "<DBAF43F0>": "As a thank you, I'll give you\na huge serving of your favorite\nmeat, Mikoko-chan, mo!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we run out again, I'll come right away, mo!\nI'll procure it with top priority, mo!!"
+      "<DBAF43F0>": "If we run out again, I'll come\nright away, mo! I'll procure\nit with top priority, mo!!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you, mo!\nI love you, Mikoko-chan, mo!"
+      "<DBAF43F0>": "Thank you, mo! I love\nyou, Mikoko-chan, mo!"
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like they're both okay now.\nLet's go report to Solon."
+      "<DBAF43F0>": "Looks like they're both okay\nnow. Let's go report to Solon."
     }
   ]
 }

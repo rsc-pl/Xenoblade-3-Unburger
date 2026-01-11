@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It wasn't half bad.\nMake it again."
+      "<DBAF43F0>": "It wasn't half bad. Make it again."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But can you make it a little sweeter next time?\nThat's more to No. 9's taste."
+      "<DBAF43F0>": "But can you make it a little sweeter next\ntime? That's more to No. 9's taste."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You want me to put sugar on it instead of salt...?"
+      "<DBAF43F0>": "You want me to put sugar\non it instead of salt...?"
     }
   ]
 }

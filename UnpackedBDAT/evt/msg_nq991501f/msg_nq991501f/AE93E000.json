@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You there!\nAre you the unit dispatched by the Captain of the Guard?"
+      "<DBAF43F0>": "You there! Are you the unit dispatched\nby the Captain of the Guard?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For you to ask that means\nyou're[ML:line ]"
+      "<DBAF43F0>": "For you to ask that\nmeans you're[ML:line ]"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To challenge us alone is admirable.\nBut as a squad leader, it is the height of folly."
+      "<DBAF43F0>": "To challenge us alone is\nadmirable. But as a squad\nleader, it is the height of folly."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "W-wait!\nWe have no intention of fighting!"
+      "<DBAF43F0>": "W-wait! We have no\nintention of fighting!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "At this point,\nwhat fool would believe such nonsense?"
+      "<DBAF43F0>": "At this point, what fool\nwould believe such nonsense?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...It's true that we can't fight.\nEveryone is so exhausted, they can barely move."
+      "<DBAF43F0>": "...It's true that we can't\nfight. Everyone is so exhausted,\nthey can barely move."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It was an impossible task from the start...\nTo occupy the Castle without supplies,\nit was obvious we'd be slowly worn down."
+      "<DBAF43F0>": "It was an impossible task from the start...\nTo occupy the Castle without supplies, it\nwas obvious we'd be slowly worn down."
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes... but before that,\ncould you give my subordinates some food?"
+      "<DBAF43F0>": "Yes... but before that, could you\ngive my subordinates some food?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It is the height of shame to ask this\nafter proclaiming a grand cause... but\nI cannot sacrifice the lives of my subordinates."
+      "<DBAF43F0>": "It is the height of shame to ask this after\nproclaiming a grand cause... but I cannot\nsacrifice the lives of my subordinates."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're capable of such sound judgment,\nyou shouldn't have tried to occupy the Castle\nin the first place."
+      "<DBAF43F0>": "If you're capable of such sound\njudgment, you shouldn't have tried to\noccupy the Castle in the first place."
     },
     {
       "$id": 12,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In any case, food first.\nWe don't have enough on hand,\nso we'll have to go back and procure some..."
+      "<DBAF43F0>": "In any case, food first. We don't\nhave enough on hand, so we'll have\nto go back and procure some..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Alright, leave it to me.\nI have a few connections."
+      "<DBAF43F0>": "Alright, leave it to me. I\nhave a few connections."
     },
     {
       "$id": 15,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Have you forgotten my profession?\nWell, just watch!"
+      "<DBAF43F0>": "Have you forgotten my\nprofession? Well, just watch!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "First, let me go to the fortress cafeteria.\nI can get everything I need from the kitchen there."
+      "<DBAF43F0>": "First, let me go to the fortress\ncafeteria. I can get everything\nI need from the kitchen there."
     }
   ]
 }

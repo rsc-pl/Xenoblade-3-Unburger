@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "if you are not injured or sick,\nplease refrain from entering the medical facility."
+      "<DBAF43F0>": "if you are not injured or\nsick, please refrain from\nentering the medical facility."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Your presence causes a commotion.\nFor the sake of those who need to rest quietly,\nI ask for your consideration."
+      "<DBAF43F0>": "Your presence causes a commotion. For\nthe sake of those who need to rest\nquietly, I ask for your consideration."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, and there are also elderly people with serious illnesses.\nSadly, many lives are\ncoming to an end."
+      "<DBAF43F0>": "Yes, and there are also elderly\npeople with serious illnesses. Sadly,\nmany lives are coming to an end."
     }
   ]
 }

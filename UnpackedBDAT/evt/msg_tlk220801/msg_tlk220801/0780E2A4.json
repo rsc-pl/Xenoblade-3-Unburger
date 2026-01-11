@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you eating properly?\nIf you don't fill your stomach,\nyou might not be able to perform when it counts."
+      "<DBAF43F0>": "Are you eating properly? If you don't\nfill your stomach, you might not be\nable to perform when it counts."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're going to proceed to Rae-Bel Tableland,\nyou should eat well."
+      "<DBAF43F0>": "If you're going to proceed to Rae-Bel\nTableland, you should eat well."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can eat at our colony,\nor have your friends make you something."
+      "<DBAF43F0>": "You can eat at our colony, or have\nyour friends make you something."
     }
   ]
 }

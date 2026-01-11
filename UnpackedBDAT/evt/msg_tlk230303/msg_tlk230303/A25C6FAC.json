@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Collectopaedia Cards have a function\nthat can identify the current location of the requester."
+      "<DBAF43F0>": "The Collectopaedia Cards have a\nfunction that can identify the\ncurrent location of the requester."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sif's quick thinking in turning that to her advantage\nwas brilliant... but there is one other\nperson I'm not pleased with..."
+      "<DBAF43F0>": "Sif's quick thinking in turning that to her\nadvantage was brilliant... but there is one\nother person I'm not pleased with..."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...It's Fugen.\nTo avoid being located,\nhe intentionally avoids accessing it."
+      "<DBAF43F0>": "...It's Fugen. To avoid being located,\nhe intentionally avoids accessing it."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wonder where he is and what he's doing...\nAnd why hasn't he contacted us even once...\nIt's frustrating..."
+      "<DBAF43F0>": "I wonder where he is and what he's\ndoing... And why hasn't he contacted\nus even once... It's frustrating..."
     }
   ]
 }

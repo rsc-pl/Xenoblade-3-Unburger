@@ -38,7 +38,7 @@
       "<2B51649C>": 41959555,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The commander of Colony 30\nis supposed to be Rudi, right?"
+      "<DBAF43F0>": "The commander of Colony 30 is\nsupposed to be Rudi, right?"
     },
     {
       "$id": 2,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yuzet is my second-in-command.\nHe does a whole lot of work for me!"
+      "<DBAF43F0>": "Yuzet is my second-in-command. He\ndoes a whole lot of work for me!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 41959555,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Rudi, what do you usually do\nin the colony?"
+      "<DBAF43F0>": "Rudi, what do you usually\ndo in the colony?"
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 41959557,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...So, what you're saying is,\nthat guy does all the work\nof a commander?"
+      "<DBAF43F0>": "...So, what you're saying is, that guy\ndoes all the work of a commander?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16793734,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yep!\nHe's a huge help."
+      "<DBAF43F0>": "Yep! He's a huge help."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, Rudi, are you really okay with that?"
+      "<DBAF43F0>": "Hey, Rudi, are you\nreally okay with that?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're supposed to be \"protecting everyone in the truest sense,\" right?"
+      "<DBAF43F0>": "You're supposed to be \"protecting\neveryone in the truest sense,\" right?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To do that, don't you think you need\nto pay more attention to\nall sorts of other things?"
+      "<DBAF43F0>": "To do that, don't you think you\nneed to pay more attention to\nall sorts of other things?"
     },
     {
       "$id": 13,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're right.\nLanz is absolutely right!"
+      "<DBAF43F0>": "You're right. Lanz is\nabsolutely right!"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So?\nWhat are you going to do?"
+      "<DBAF43F0>": "So? What are you going to do?"
     },
     {
       "$id": 16,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When it comes to the colony, Yuzet knows best!"
+      "<DBAF43F0>": "When it comes to the\ncolony, Yuzet knows best!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll go ask Yuzet!"
+      "<DBAF43F0>": "I will go ask Yuzet!"
     }
   ]
 }

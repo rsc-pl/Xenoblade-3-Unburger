@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks to the commander's efforts, a large number of\nautonomous Levnises were deployed here."
+      "<DBAF43F0>": "Thanks to the commander's efforts,\na large number of autonomous\nLevnises were deployed here."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They were the cornerstone of our defense, but[ML:line ]...\ntheir numbers are no longer great."
+      "<DBAF43F0>": "They were the cornerstone of our\ndefense, but[ML:line ]... their\nnumbers are no longer great."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In this situation, it's unlikely that new ones will be\nsent from \"over there\"..."
+      "<DBAF43F0>": "In this situation, it's unlikely that new\nones will be sent from \"over there\"..."
     }
   ]
 }

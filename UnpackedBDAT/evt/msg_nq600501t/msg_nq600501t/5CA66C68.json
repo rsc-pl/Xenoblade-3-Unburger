@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A stone... from around here, I guess."
+      "<DBAF43F0>": "A stone... from around\nhere, I guess."
     },
     {
       "$id": 4,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is this a good spot\nto collect a stone from?"
+      "<DBAF43F0>": "Is this a good spot to\ncollect a stone from?"
     }
   ]
 }

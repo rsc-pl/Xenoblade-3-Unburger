@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm looking for a strange hammer\nwith a Nopon-like design.\nI heard it was sent here."
+      "<DBAF43F0>": "We're looking for a strange hammer with a\nNopon-like design. We heard it was sent here."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah...!\nThat awkward-looking, weird hammer."
+      "<DBAF43F0>": "Ah...! You mean that awkward-looking,\nweird hammer."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...That's probably it.\nIt belongs to Riku, so can we have it back?"
+      "<DBAF43F0>": "...That's probably it.\nIt belongs to Riku, so could we have it back?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "About that... a little while ago,\nsomeone said they were borrowing it for a bit\nand took it from here..."
+      "<DBAF43F0>": "About that... A little while ago, someone said\nthey were borrowing it for a bit and took it from here..."
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's see... I was in the middle of work,\nso I didn't get a good look at their face, but..."
+      "<DBAF43F0>": "Let's see... I was working at the time, so I didn't get a good look\nat their face, but..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I believe they said they were going to use it in the central plaza.\nI don't know the specific purpose, though..."
+      "<DBAF43F0>": "I believe they said they were going to use it\nin the central plaza. I don't know the specific purpose though..."
     },
     {
       "$id": 9,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now, where should we start looking..."
+      "<DBAF43F0>": "Well now, where should we start looking..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There can't be many places\nin the central plaza\nwhere one would use a hammer."
+      "<DBAF43F0>": "There probably aren't many places\nin the central plaza where one\nwould use a hammer."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's true.\nIf we look around on foot,\nwe might find it surprisingly quickly."
+      "<DBAF43F0>": "You're right. If we use our feet,\nwe might find it surprisingly quickly."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see... It's a pain,\nbut that seems like the fastest way."
+      "<DBAF43F0>": "I see... It's a pain, but\nthat seems like the fastest way."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's start by walking through the whole plaza."
+      "<DBAF43F0>": "Let's start by walking all around the plaza."
     }
   ]
 }

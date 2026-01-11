@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you for helping with the harvest.\nIt was a huge help."
+      "<DBAF43F0>": "Thank you for helping with the\nharvest. It was a huge help."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It was nothing.\nIn return, you can feed us."
+      "<DBAF43F0>": "It was nothing. In\nreturn, you can feed us."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hehe, you're right.\nI'll treat you to our vegetables."
+      "<DBAF43F0>": "Hehe, you're right. I'll\ntreat you to our vegetables."
     }
   ]
 }

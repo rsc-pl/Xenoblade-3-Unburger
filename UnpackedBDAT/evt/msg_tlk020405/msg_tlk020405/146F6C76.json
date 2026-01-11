@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It was a good holiday, thanks to you all."
+      "<DBAF43F0>": "It was a good holiday,\nthanks to you all."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I did, but as soon as I returned,\nI had to deal with a pile of backlogged work."
+      "<DBAF43F0>": "I did, but as soon as I returned, I had\nto deal with a pile of backlogged work."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "One day, I hope to go to the hot spring\nwith everyone from Lambda."
+      "<DBAF43F0>": "One day, I hope to go to the hot\nspring with everyone from Lambda."
     }
   ]
 }

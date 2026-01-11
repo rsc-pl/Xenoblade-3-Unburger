@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It wasn't really helping[ML:line ]...\nwe were just dragged along."
+      "<DBAF43F0>": "It wasn't really helping[ML:line\n]... we were just dragged along."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm grateful.\nThe autonomous Levnis is the cornerstone of our defense."
+      "<DBAF43F0>": "I'm grateful. The autonomous Levnis\nis the cornerstone of our defense."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are some places we can't defend on our own,\nbut with that, we can manage."
+      "<DBAF43F0>": "There are some places we can't defend on\nour own, but with that, we can manage."
     }
   ]
 }

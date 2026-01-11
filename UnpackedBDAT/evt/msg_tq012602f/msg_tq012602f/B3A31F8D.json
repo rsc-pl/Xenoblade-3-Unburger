@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The fact that she had the information means\nshe probably received it from Monica.\nIn that case, there should be no mistake."
+      "<DBAF43F0>": "The fact that she had the information means\nshe probably received it from Monica. In\nthat case, there should be no mistake."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you sure about that?\nWe haven't found anything so far."
+      "<DBAF43F0>": "Are you sure about that? We\nhaven't found anything so far."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Indeed... It doesn't seem to be\naround here either."
+      "<DBAF43F0>": "Indeed... It doesn't seem\nto be around here either."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we've searched this much and found nothing,\nwouldn't it be better to give up and go back?"
+      "<DBAF43F0>": "If we've searched this much and\nfound nothing, wouldn't it be\nbetter to give up and go back?"
     },
     {
       "$id": 6,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems that information was correct."
+      "<DBAF43F0>": "It seems that information\nwas correct."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...We'll have you keep us company for a while,\nGray!!"
+      "<DBAF43F0>": "...We'll have you keep us\ncompany for a while, Gray!!"
     }
   ]
 }

@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "From there, you should be able to use the rope slide\nto proceed further."
+      "<DBAF43F0>": "From there, you should be able to use\nthe rope slide to proceed further."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But don't get close to the lower levels.\nThe monsters there are tough[ML:line ]..."
+      "<DBAF43F0>": "But don't get close to the\nlower levels. The monsters\nthere are tough[ML:line ]..."
     }
   ]
 }

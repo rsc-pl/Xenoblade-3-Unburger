@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait, don't move!\nThere might be valuable materials dropped!"
+      "<DBAF43F0>": "Wait, don't move! There might\nbe valuable materials dropped!"
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How do you feel?\nIs it still unsettling?"
+      "<DBAF43F0>": "How do you feel? Is\nit still unsettling?"
     },
     {
       "$id": 6,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm okay.\nMy view has certainly changed, but..."
+      "<DBAF43F0>": "I'm okay. My view has\ncertainly changed, but..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I told you I wouldn't hesitate, right?"
+      "<DBAF43F0>": "I told you I wouldn't\nhesitate, right?"
     },
     {
       "$id": 10,

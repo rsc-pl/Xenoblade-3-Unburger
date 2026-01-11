@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They sell books here. Try reading one.\nAs long as you don't take it without permission, you won't get in trouble."
+      "<DBAF43F0>": "They sell books here. Try reading one.\nAs long as you don't take it without\npermission, you won't get in trouble."
     },
     {
       "$id": 5,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Was there something interesting written?"
+      "<DBAF43F0>": "Was there something\ninteresting written?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This... stimulates my intellectual curiosity..."
+      "<DBAF43F0>": "This... stimulates my\nintellectual curiosity..."
     },
     {
       "$id": 9,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The more I read, the more I come to understand\nthe things I found mysterious."
+      "<DBAF43F0>": "The more I read, the more I come to\nunderstand the things I found mysterious."
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's with you? You've gone strange."
+      "<DBAF43F0>": "What's with you?\nYou've gone strange."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Or rather, is this his true nature...?"
+      "<DBAF43F0>": "Or rather, is this\nhis true nature...?"
     },
     {
       "$id": 14,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We must indeed join hands\nand move forward."
+      "<DBAF43F0>": "We must indeed join\nhands and move forward."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's true that seeing an unknown culture\nhas been a stimulus..."
+      "<DBAF43F0>": "It's true that seeing an unknown\nculture has been a stimulus..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Agnus and Keves...\nTranscending such boundaries..."
+      "<DBAF43F0>": "Agnus and Keves... Transcending\nsuch boundaries..."
     },
     {
       "$id": 19,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now that you know about this place, running away is not an option.\nRemember that."
+      "<DBAF43F0>": "Now that you know about this\nplace, running away is not\nan option. Remember that."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, of course.\nFor we will walk towards the future,\nwithout fleeing or hiding..."
+      "<DBAF43F0>": "Yes, of course. For we will\nwalk towards the future,\nwithout fleeing or hiding..."
     }
   ]
 }

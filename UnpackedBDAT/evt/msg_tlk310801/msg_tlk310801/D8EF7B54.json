@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Many plans will probably be thwarted..."
+      "<DBAF43F0>": "Many plans will probably\nbe thwarted..."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, no, I think what you did\nwas not wrong."
+      "<DBAF43F0>": "No, no, I think what\nyou did was not wrong."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But[ML:line ]...\nwhat should be done[ML:line ]..."
+      "<DBAF43F0>": "But[ML:line ]... what should\nbe done[ML:line ]..."
     }
   ]
 }

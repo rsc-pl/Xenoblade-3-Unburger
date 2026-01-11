@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "[ML:line ]Yeah.\nIt feels stronger than usual."
+      "<DBAF43F0>": "...Yeah.\nIt feels stronger than before."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heh, not bad gear, eh?"
+      "<DBAF43F0>": "Huh. Pretty good piece of gear."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Commissary handles other useful things, too.\nYou should stop by regularly."
+      "<DBAF43F0>": "The Quartermaster deals in all sorts of useful things.\nYou should stop by regularly."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anything to get an extra edge in the fight\nagainst Agnus, right? If we show consistent\nresults, the colony might be promoted too."
+      "<DBAF43F0>": "The stronger we soldiers get, the better our odds will be against Agnus.\nIf we keep winning, the Colony's rank will go up too."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If that happens, the items they carry here\nshould get better and better, too."
+      "<DBAF43F0>": "When that happens, the items they handle here\nshould get better and better."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll do that. Thanks, Mwamba."
+      "<DBAF43F0>": "We'll do that. Thanks, Mwamba."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All right! That's preparations complete!\nLet's get to the assembly point, double time."
+      "<DBAF43F0>": "Alright! That's us geared up.\nLet's get to the assembly point, double time."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah."
+      "<DBAF43F0>": "Right."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "[ML:line ]Huh?\nOh, I see... What a pain."
+      "<DBAF43F0>": "...Oh?\nI see. That's a problem..."
     },
     {
       "$id": 10,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like they're in some kind of trouble, meh?"
+      "<DBAF43F0>": "He looks like something's troubling him, mo?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Damn it.\nYou're too much of a soft touch, even at a time like this."
+      "<DBAF43F0>": "...Damn it.\nOf all the times to be a bleeding heart."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Fine, come on. Let's go hear them out."
+      "<DBAF43F0>": "C'mon, let's go hear him out."
     }
   ]
 }

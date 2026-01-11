@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ether Masts are designed to scan a wide\narea around them and gather data."
+      "<DBAF43F0>": "Ether Towers are devices that conduct\na wide-area search of the surroundings\nto gather information."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Activating one has a number of benefits.\nThey might even point you towards nearby\nresources."
+      "<DBAF43F0>": "If you activate one, you can also\nfind resources within its range."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's very convenient for us, indeed.\nWe'll be sure to use one at the next\nopportunity."
+      "<DBAF43F0>": "That's a useful thing. We'll make\nuse of them when we find them."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shulk really is a master of his craft,\nmaking those incredible devices..."
+      "<DBAF43F0>": "Shulk-san is truly amazing. To think\nhe could create something like that."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The things've really helped us sweep through\nthe area and fortify our positions, as you see."
+      "<DBAF43F0>": "Thanks to him, our survey of the area\nhas progressed rapidly, allowing us\nto solidify our foothold like this."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That so? Guess he ain't\na leader for nothing."
+      "<DBAF43F0>": "Heh~ Guess that's what you'd\nexpect from the leader."
     }
   ]
 }

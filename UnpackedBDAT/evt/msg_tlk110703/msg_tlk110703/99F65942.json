@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can understand Zeon's thinking, but...\ndo you think we can survive\nwithout support from the Castle?"
+      "<DBAF43F0>": "I can understand Zeon's thinking,\nbut... do you think we can survive\nwithout support from the Castle?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've fought the Agnian army so much until now,\nand we barely have any Levnises or food..."
+      "<DBAF43F0>": "We've fought the Agnian army so\nmuch until now, and we barely\nhave any Levnises or food..."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I hate to say it,\nbut I think this is too much for Zeon to handle..."
+      "<DBAF43F0>": "I hate to say it, but I think this\nis too much for Zeon to handle..."
     }
   ]
 }

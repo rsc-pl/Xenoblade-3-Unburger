@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You were safe! Thank you for saving me!\nI'm so glad you're alive!"
+      "<DBAF43F0>": "You were safe! Thank you for saving\nme! I'm so glad you're alive!"
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, I'm sorry! I'll calm down! *inhale* *exhale*..."
+      "<DBAF43F0>": "Ah, I'm sorry! I'll calm\ndown! *inhale* *exhale*..."
     },
     {
       "$id": 8,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Did you get separated from your unit again?"
+      "<DBAF43F0>": "...Did you get separated\nfrom your unit again?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sorry! I'm sorry!\nI'm sorry for having no sense of directiooon!"
+      "<DBAF43F0>": "I'm sorry! I'm sorry! I'm sorry for\nhaving no sense of directiooon!"
     },
     {
       "$id": 12,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is that so! As expected of Mio-senpai!"
+      "<DBAF43F0>": "Is that so! As expected\nof Mio-senpai!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Why is only Mio \"as expected\"?\nI don't get it..."
+      "<DBAF43F0>": "Why is only Mio \"as\nexpected\"? I don't get it..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now, now.\nKyrie-chan is just like this."
+      "<DBAF43F0>": "Now, now. Kyrie-chan\nis just like this."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mio-senpai, let's hurry back to the colony!\nI'm sure the commander will be happy too!"
+      "<DBAF43F0>": "Mio-senpai, let's hurry back\nto the colony! I'm sure the\ncommander will be happy too!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, yeah...\nBefore that, can I ask something?"
+      "<DBAF43F0>": "Ah, yeah... Before that,\ncan I ask something?"
     },
     {
       "$id": 22,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This might be a strange question, but...\nUm... how do we look to you?"
+      "<DBAF43F0>": "This might be a strange question,\nbut... Um... how do we look to you?"
     },
     {
       "$id": 24,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How... you look?\nHmm, let's see~..."
+      "<DBAF43F0>": "How... you look? Hmm, let's see~..."
     },
     {
       "$id": 26,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's no good, Senpai!\nChanging your clothes without permission is a violation of military regulations!"
+      "<DBAF43F0>": "That's no good, Senpai! Changing your\nclothes without permission is a\nviolation of military regulations!"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, but that outfit is lovely!\nYou look even cooler, Senpai!\nOf course, your Sender outfit was also..."
+      "<DBAF43F0>": "Ah, but that outfit is lovely! You\nlook even cooler, Senpai! Of course,\nyour Sender outfit was also..."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, thank you, Kyrie. That's enough."
+      "<DBAF43F0>": "Yes, thank you, Kyrie.\nThat's enough."
     },
     {
       "$id": 32,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm going to talk with everyone for a bit,\nso could you wait?"
+      "<DBAF43F0>": "I'm going to talk with everyone\nfor a bit, so could you wait?"
     },
     {
       "$id": 34,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...She seems to be sane.\nHer eyes aren't glowing red either."
+      "<DBAF43F0>": "...She seems to be sane. Her\neyes aren't glowing red either."
     },
     {
       "$id": 36,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In that case, does that mean not everyone\nsees us as enemies...?"
+      "<DBAF43F0>": "In that case, does that mean not\neveryone sees us as enemies...?"
     },
     {
       "$id": 38,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If possible, I'd like to take Kyrie\nto the colony... Is that not possible?"
+      "<DBAF43F0>": "If possible, I'd like to take Kyrie to\nthe colony... Is that not possible?"
     },
     {
       "$id": 41,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't mind, but\nis it okay for us from Keves to go with you?"
+      "<DBAF43F0>": "I don't mind, but is it okay for\nus from Keves to go with you?"
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Perhaps the commander of Colony Gamma\nmight be willing to listen to our circumstances."
+      "<DBAF43F0>": "...Perhaps the commander of\nColony Gamma might be willing\nto listen to our circumstances."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "At the very least, he shouldn't be the type\nto capture us right away."
+      "<DBAF43F0>": "At the very least, he shouldn't be\nthe type to capture us right away."
     },
     {
       "$id": 45,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "More than the Consul, without a doubt.\nI can guarantee that much."
+      "<DBAF43F0>": "More than the Consul, without a\ndoubt. I can guarantee that much."
     },
     {
       "$id": 47,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If something happens,\nI will protect everyone... I promise."
+      "<DBAF43F0>": "If something happens, I will\nprotect everyone... I promise."
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks for waiting.\nShall we go then, Kyrie?"
+      "<DBAF43F0>": "Thanks for waiting. Shall\nwe go then, Kyrie?"
     },
     {
       "$id": 51,

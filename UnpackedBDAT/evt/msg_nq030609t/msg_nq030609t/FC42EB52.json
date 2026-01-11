@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Number 10 is already hiding in the City.\nI need you to hand over the painting there."
+      "<DBAF43F0>": "Number 10 is already hiding\nin the City. I need you to\nhand over the painting there."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If it can be restored,\nwe should be able to see what's depicted..."
+      "<DBAF43F0>": "If it can be restored, we should\nbe able to see what's depicted..."
     }
   ]
 }

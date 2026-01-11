@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, I'm really tired this time...\nSo, I'm going to disappear for a while."
+      "<DBAF43F0>": "Ah, I'm really tired this time... So,\nI'm going to disappear for a while."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're planning to slack off, aren't you?\nI should report this to Zuoren."
+      "<DBAF43F0>": "You're planning to slack off, aren't\nyou? I should report this to Zuoren."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Go right ahead.\nIt's well known that even the master\ncan't keep up with my swift feet."
+      "<DBAF43F0>": "Go right ahead. It's well known\nthat even the master can't keep\nup with my swift feet."
     }
   ]
 }

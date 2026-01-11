@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By the way, about that Iron Trooper...\nIs it really impossible to move it anymore?"
+      "<DBAF43F0>": "By the way, about that Iron\nTrooper... Is it really\nimpossible to move it anymore?"
     },
     {
       "$id": 2,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By switching to an alternative power source\nutilizing an Ether Cylinder, operation itself\nis possible."
+      "<DBAF43F0>": "By switching to an alternative power\nsource utilizing an Ether Cylinder,\noperation itself is possible."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The output is inferior to the conventional Flame Clock,\nand it lacks the limiter release function, but it will not\naffect combat."
+      "<DBAF43F0>": "The output is inferior to the conventional\nFlame Clock, and it lacks the limiter release\nfunction, but it will not affect combat."
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's reassuring.\nIn that case, will you continue\nto fight alongside us?"
+      "<DBAF43F0>": "That's reassuring. In that case, will\nyou continue to fight alongside us?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood.\nIron Trooper Unit 7 will join the battle line."
+      "<DBAF43F0>": "Understood. Iron Trooper Unit\n7 will join the battle line."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a pleasure to have you with us again, Nagiri!"
+      "<DBAF43F0>": "It's a pleasure to have you\nwith us again, Nagiri!"
     }
   ]
 }

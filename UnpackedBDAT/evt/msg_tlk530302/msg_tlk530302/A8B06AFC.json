@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You broke the Castle's Flame Clock, mo?"
+      "<DBAF43F0>": "You broke the Castle's\nFlame Clock, mo?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've lived a long time, but\nthis is the first time anything like this has happened, mo."
+      "<DBAF43F0>": "We've lived a long time, but\nthis is the first time anything\nlike this has happened, mo."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have a feeling you all will change something, mo.\nI'm expecting great things, mo."
+      "<DBAF43F0>": "I have a feeling you all will\nchange something, mo. I'm\nexpecting great things, mo."
     }
   ]
 }

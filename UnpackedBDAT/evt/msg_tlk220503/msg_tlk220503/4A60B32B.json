@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Our pilots, including Michel,\nare a bunch of roughnecks,\nand it's a pain."
+      "<DBAF43F0>": "Our pilots, including Michel, are a\nbunch of roughnecks, and it's a pain."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you don't take care of your Levnis,\nthe commander will be sad, you know... honestly..."
+      "<DBAF43F0>": "If you don't take care of your\nLevnis, the commander will be\nsad, you know... honestly..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If they keep fighting in ways that\ndamage their Levnises so much,\nthey're not going to come out unscathed either."
+      "<DBAF43F0>": "If they keep fighting in ways that damage\ntheir Levnises so much, they're not\ngoing to come out unscathed either."
     }
   ]
 }

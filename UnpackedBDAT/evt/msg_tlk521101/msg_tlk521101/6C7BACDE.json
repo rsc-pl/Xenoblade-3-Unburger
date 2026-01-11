@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wh-what? Is there something on my clothes?"
+      "<DBAF43F0>": "Wh-what? Is there\nsomething on my clothes?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah~ no, no, sorry!\nIt's just, our colony\ndoesn't have a Sender..."
+      "<DBAF43F0>": "Ah~ no, no, sorry! It's just, our\ncolony doesn't have a Sender..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Come to think of it... when we first came,\nthe bodies were left on the battlefield..."
+      "<DBAF43F0>": "Come to think of it... when\nwe first came, the bodies were\nleft on the battlefield..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, it was tough at first... but\nwe encouraged each other, and thanks to that, we're all close!\nIt's all about how you look at things!"
+      "<DBAF43F0>": "Yeah, it was tough at first... but we encouraged\neach other, and thanks to that, we're all close!\nIt's all about how you look at things!"
     }
   ]
 }

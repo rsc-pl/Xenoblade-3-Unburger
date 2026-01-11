@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is...... amazing.\nIt's been smoked thoroughly."
+      "<DBAF43F0>": "This is...... amazing. It's\nbeen smoked thoroughly."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is Nopon technology, mo.\nAre you impressed, mo?"
+      "<DBAF43F0>": "This is Nopon technology,\nmo. Are you impressed, mo?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes...... It's frustrating, but\nI admit that you all are amazing."
+      "<DBAF43F0>": "Yes...... It's frustrating, but I\nadmit that you all are amazing."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I could never have made something like this."
+      "<DBAF43F0>": "I could never have made\nsomething like this."
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's right, mo.\nThe more we're praised,\nthe better we become, mo."
+      "<DBAF43F0>": "That's right, mo. The more we're\npraised, the better we become, mo."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Leave anything machine-related to us, desu mo."
+      "<DBAF43F0>": "Leave anything machine-related\nto us, desu mo."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can make as many of these as you want, mo!"
+      "<DBAF43F0>": "We can make as many of\nthese as you want, mo!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Really?\nThat would be great for the colony's development......"
+      "<DBAF43F0>": "Really? That would be great for\nthe colony's development......"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you impressed, mo? In that case,\nprepare snacks for us in addition to three meals, mo."
+      "<DBAF43F0>": "Are you impressed, mo? In that\ncase, prepare snacks for us in\naddition to three meals, mo."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I understand......\nWell, I can manage that much."
+      "<DBAF43F0>": "I understand...... Well,\nI can manage that much."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In exchange,\nteach me about machines.\nI want to learn too."
+      "<DBAF43F0>": "In exchange, teach me about\nmachines. I want to learn too."
     },
     {
       "$id": 16,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm glad to see you've come to an agreement."
+      "<DBAF43F0>": "I'm glad to see you've\ncome to an agreement."
     },
     {
       "$id": 18,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Why are these guys stacked on top of each other?"
+      "<DBAF43F0>": "Why are these guys stacked\non top of each other?"
     }
   ]
 }

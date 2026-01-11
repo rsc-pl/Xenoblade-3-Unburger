@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Have you come across any damaged\nladders or broken-down elevators outside\nof the colony?"
+      "<DBAF43F0>": "Outside the colonies, you can\nsometimes find broken ladders\nor elevators left behind..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can repair them right there on the spot\nif you need to. You should give it a go!"
+      "<DBAF43F0>": "If you repair them on the spot,\nyou might be able to use them\nagain, so you should give it a try."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, uh, as it happens...Nikol's\nbeen doing that for us already."
+      "<DBAF43F0>": "Ah, right. Nikol's already\nfixed some for us."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yup. I'm a dab hand at fixing elevators!"
+      "<DBAF43F0>": "Yes, elevators."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Of course you wouldn't need\nmy advice. Well, never mind, then.\nSorry to waste your time..."
+      "<DBAF43F0>": "...I see. I guess you didn't\nneed my advice. My apologies..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "U-uhh... I'm...sorry?\nI-I didn't mean it like that..."
+      "<DBAF43F0>": "Uh, um... I'm sorry about that..."
     }
   ]
 }

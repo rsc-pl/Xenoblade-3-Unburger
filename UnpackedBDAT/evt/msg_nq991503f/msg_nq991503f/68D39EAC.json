@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Here you go, the dish you ordered.\nI call it \"Golden Fortifying Soup\"!"
+      "<DBAF43F0>": "Here you go, the dish you ordered. I\ncall it \"Golden Fortifying Soup\"!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Th-this is...!\nIt looks like a simple soup,\nbut the smell alone gives me strength...!"
+      "<DBAF43F0>": "Th-this is...! It looks like\na simple soup, but the smell\nalone gives me strength...!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a special soup with medicinal herbs and spices.\nAll the ingredients have been dissolved into it."
+      "<DBAF43F0>": "It's a special soup with medicinal\nherbs and spices. All the ingredients\nhave been dissolved into it."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When you go without eating or drinking for a while,\nyour stomach can't accept solid food.\nSo first, build up your strength with this."
+      "<DBAF43F0>": "When you go without eating or drinking for a\nwhile, your stomach can't accept solid food.\nSo first, build up your strength with this."
     },
     {
       "$id": 5,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If the Queen and the war with Agnus are all lies,\nwhat are we supposed to believe in and live for?"
+      "<DBAF43F0>": "If the Queen and the war with Agnus\nare all lies, what are we supposed\nto believe in and live for?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah... I'm not the sharpest tool in the shed.\nI don't really get all that complicated stuff."
+      "<DBAF43F0>": "Ah... I'm not the sharpest tool\nin the shed. I don't really get\nall that complicated stuff."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But, well...\nIf even someone like me could say something[ML:line ]"
+      "<DBAF43F0>": "But, well... If even someone like\nme could say something[ML:line ]"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How about first eating some good food\nto lift your spirits?"
+      "<DBAF43F0>": "How about first eating some good\nfood to lift your spirits?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That way, your stomach will be full,\nyour mood will improve,\nand you'll probably come up with a good idea."
+      "<DBAF43F0>": "That way, your stomach will be full,\nyour mood will improve, and you'll\nprobably come up with a good idea."
     },
     {
       "$id": 12,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heh... But it's all in how you say it.\nPerhaps we were indeed looking at the situation\ntoo negatively."
+      "<DBAF43F0>": "Heh... But it's all in how you say\nit. Perhaps we were indeed looking\nat the situation too negatively."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "After I let my subordinates drink your soup,\nI will go to the Captain of the Guard."
+      "<DBAF43F0>": "After I let my subordinates\ndrink your soup, I will go to\nthe Captain of the Guard."
     },
     {
       "$id": 15,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sounds good, doesn't it?\nI think the Captain of the Guard wants that too."
+      "<DBAF43F0>": "Sounds good, doesn't it? I think the\nCaptain of the Guard wants that too."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And... once things have settled down,\nI would very much like to try that\ngood food you mentioned."
+      "<DBAF43F0>": "And... once things have settled\ndown, I would very much like to\ntry that good food you mentioned."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You bet, leave it to me then!\nI'll feed you until you're stuffed!"
+      "<DBAF43F0>": "You bet, leave it to me then! I'll\nfeed you until you're stuffed!"
     },
     {
       "$id": 19,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That is his way of fighting.\nAnd he was \"victorious\"... That is all."
+      "<DBAF43F0>": "That is his way of fighting. And he\nwas \"victorious\"... That is all."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In any case,\nI'm glad it was resolved peacefully..."
+      "<DBAF43F0>": "In any case, I'm glad it\nwas resolved peacefully..."
     }
   ]
 }

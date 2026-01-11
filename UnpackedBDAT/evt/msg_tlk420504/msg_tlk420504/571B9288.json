@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Augusto is an idiot[ML:line ]...\n...and so am I for not realizing\nthe problem he was facing[ML:line ]..."
+      "<DBAF43F0>": "Augusto is an idiot[ML:line ]...\n...and so am I for not realizing the\nproblem he was facing[ML:line ]..."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heath, you don't need to feel responsible."
+      "<DBAF43F0>": "Heath, you don't need\nto feel responsible."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maybe not, but I realized that I can't\njust focus on the Guard."
+      "<DBAF43F0>": "Maybe not, but I realized that I\ncan't just focus on the Guard."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "At least look at your comrades and friends[ML:line ]...\nIf that accumulates and creates a chain,\nAionios will become a better place."
+      "<DBAF43F0>": "At least look at your comrades and friends[ML:line\n]... If that accumulates and creates a chain,\nAionios will become a better place."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You guys have incredible power, don't you?"
+      "<DBAF43F0>": "You guys have incredible\npower, don't you?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But don't use it during prison work.\nThe guards will find out."
+      "<DBAF43F0>": "But don't use it during prison\nwork. The guards will find out."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We know.\nInterlinking is forbidden, right?"
+      "<DBAF43F0>": "We know. Interlinking\nis forbidden, right?"
     }
   ]
 }

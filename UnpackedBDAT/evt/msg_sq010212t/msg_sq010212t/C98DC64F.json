@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This doesn't seem to be Riku's hammer."
+      "<DBAF43F0>": "This doesn't look like Riku's hammer."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This appears to be something else."
+      "<DBAF43F0>": "This doesn't seem to be it."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This doesn't seem to be it."
+      "<DBAF43F0>": "This doesn't look like it."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is... not it."
+      "<DBAF43F0>": "This is... no, it's not it."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is...\nnot Riku's hammer."
+      "<DBAF43F0>": "This is... not Riku's hammer."
     }
   ]
 }

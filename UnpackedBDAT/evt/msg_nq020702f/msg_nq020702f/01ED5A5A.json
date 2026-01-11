@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, did you have a stomachache?\nYou look perfectly healthy, though."
+      "<DBAF43F0>": "Oh, did you have a stomachache? You\nlook perfectly healthy, though."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Today, I have something I'd like to\ndiscuss with you, Olesha."
+      "<DBAF43F0>": "Today, I have something I'd like\nto discuss with you, Olesha."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a pleasure to meet you.\nMy name is Shidou."
+      "<DBAF43F0>": "It's a pleasure to meet\nyou. My name is Shidou."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shidou, you say...? Then you must be\nfrom Colony Gamma?"
+      "<DBAF43F0>": "Shidou, you say...? Then you\nmust be from Colony Gamma?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It is rude of me to ask, but\nknowing you are an acquaintance of Mio and the others,\nI have a request."
+      "<DBAF43F0>": "It is rude of me to ask, but knowing\nyou are an acquaintance of Mio and\nthe others, I have a request."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I understand the situation.\nYou are a very enthusiastic Commander\nwhen it comes to instruction, aren't you?"
+      "<DBAF43F0>": "...I understand the situation. You are\na very enthusiastic Commander when it\ncomes to instruction, aren't you?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What do you say?\nWould you be willing to share your excellent skills\nand experience with us?"
+      "<DBAF43F0>": "What do you say? Would you be\nwilling to share your excellent\nskills and experience with us?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I sympathize with your philosophy,\nand even if the other party is an Agnian colony,\nI have no intention of withholding my cooperation."
+      "<DBAF43F0>": "...I sympathize with your philosophy, and even\nif the other party is an Agnian colony, I have\nno intention of withholding my cooperation."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But, leaving here is another matter.\nAs the head of the medical team,\nI must manage the site."
+      "<DBAF43F0>": "But, leaving here is another\nmatter. As the head of the medical\nteam, I must manage the site."
     },
     {
       "$id": 12,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He is still inexperienced,\nbut he has the knowledge of a military doctor.\n...What do you think?"
+      "<DBAF43F0>": "He is still inexperienced, but he\nhas the knowledge of a military\ndoctor. ...What do you think?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, if it is your recommendation,\nthere is no need for concern. Please, I insist."
+      "<DBAF43F0>": "Yes, if it is your recommendation,\nthere is no need for concern.\nPlease, I insist."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks, Olesha.\nYou've been a great help!"
+      "<DBAF43F0>": "Thanks, Olesha. You've\nbeen a great help!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's fine.\nI owe you one as well."
+      "<DBAF43F0>": "It's fine. I owe you one as well."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I will speak to Maybach.\nLet's go to his place together."
+      "<DBAF43F0>": "I will speak to Maybach. Let's\ngo to his place together."
     }
   ]
 }

@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, you're preparing for the Agnian army's attack, right?"
+      "<DBAF43F0>": "Yes, you're preparing for the\nAgnian army's attack, right?"
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They should be arriving near the waterfall entrance.\nWill you lend us a hand too?"
+      "<DBAF43F0>": "They should be arriving near\nthe waterfall entrance. Will\nyou lend us a hand too?"
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then let's move to the waterfall entrance and intercept them."
+      "<DBAF43F0>": "Then let's move to the waterfall\nentrance and intercept them."
     }
   ]
 }

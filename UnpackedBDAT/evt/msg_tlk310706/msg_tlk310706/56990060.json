@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By combining the strength of everyone in Colony Lambda,\nwe were able to turn the overturned Iron Giant\nback to its original position."
+      "<DBAF43F0>": "By combining the strength of everyone in Colony\nLambda, we were able to turn the overturned\nIron Giant back to its original position."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However[ML:line len=2 ]...\nit's still not in a condition where we can go inside."
+      "<DBAF43F0>": "However[ML:line len=2 ]... it's still not\nin a condition where we can go inside."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Carrying out a large task\nwithout support from the home country\nis quite a chore."
+      "<DBAF43F0>": "Carrying out a large task\nwithout support from the home\ncountry is quite a chore."
     }
   ]
 }

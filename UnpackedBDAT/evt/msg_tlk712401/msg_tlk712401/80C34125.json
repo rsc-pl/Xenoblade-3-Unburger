@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm from the House of Ortiz,\nand Monica is from the House of Vandham, and so on."
+      "<DBAF43F0>": "I'm from the House of Ortiz, and Monica\nis from the House of Vandham, and so on."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And the eyepatch has the crest\nof each house on it,\nso we don't forget the achievements and aspirations of our founders."
+      "<DBAF43F0>": "And the eyepatch has the crest of each\nhouse on it, so we don't forget the\nachievements and aspirations of our founders."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However...\nyours is a \"guest\" one, so it's plain."
+      "<DBAF43F0>": "However... yours is a\n\"guest\" one, so it's plain."
     }
   ]
 }

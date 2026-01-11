@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll go talk to the higher-ups right away."
+      "<DBAF43F0>": "I will go talk to the\nhigher-ups right away."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems the negotiations went well."
+      "<DBAF43F0>": "It seems the\nnegotiations went well."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good work!\nShall we go home together?"
+      "<DBAF43F0>": "Good work! Shall we\ngo home together?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, mo!!\nPulipuli does not want to go home\nuntil Pulipuli can see Niina-chan, mo!!"
+      "<DBAF43F0>": "No, mo!! Pulipuli does not\nwant to go home until Pulipuli\ncan see Niina-chan, mo!!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "C'mon, let's go!"
+      "<DBAF43F0>": "Come on, let's go!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Waaaaah,\nNiina-chaaaan!!"
+      "<DBAF43F0>": "Waaaaah, Niina-chaaaan!!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll check, just in case.\nBut don't get your hopes up."
+      "<DBAF43F0>": "I will check, just in case.\nBut do not get your hopes up."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems the negotiations didn't go well."
+      "<DBAF43F0>": "It seems the negotiations\ndid not go well."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good work, Pulipuli.\nShall we go home together?"
+      "<DBAF43F0>": "Good work, Pulipuli. Shall\nwe go home together?"
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Pulipuli has not...\nseen Niina-chan yet, mo!!"
+      "<DBAF43F0>": "Pulipuli has not... seen\nNiina-chan yet, mo!!"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're looking for Stavepetals,\nthere was a water source near the entrance of the forest, right?"
+      "<DBAF43F0>": "If you're looking for Stavepetals,\nthere was a water source near the\nentrance of the forest, right?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you,\nsee you later."
+      "<DBAF43F0>": "Thank you, see you later."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're looking for Titanic Bee Hives,\nthe girl in the Levnis was also looking for them."
+      "<DBAF43F0>": "If you're looking for Titanic\nBee Hives, the girl in the Levnis\nwas also looking for them."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eilis was...\nAlright, thank you."
+      "<DBAF43F0>": "Eilis was... Alright, thank you."
     }
   ]
 }

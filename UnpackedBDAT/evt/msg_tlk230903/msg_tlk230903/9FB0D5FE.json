@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Mee...\nWhat's wrong? Are you not feeling well...?"
+      "<DBAF43F0>": "...Mee... What's wrong? Are\nyou not feeling well...?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Cloudkeep... It's been there all this time,\nso why couldn't we see it..."
+      "<DBAF43F0>": "The Cloudkeep... It's been there all\nthis time, so why couldn't we see it..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems there's no choice but\nfor me, Suzukuro, to go investigate[ML:line ]!"
+      "<DBAF43F0>": "It seems there's no choice but for me,\nSuzukuro, to go investigate[ML:line ]!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't even think about it!\nYou'll definitely mess something up,\nI've got a really bad feeling about this!"
+      "<DBAF43F0>": "Don't even think about it! You'll\ndefinitely mess something up, I've\ngot a really bad feeling about this!"
     }
   ]
 }

@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I saw her leaving through the north gate..."
+      "<DBAF43F0>": "I saw her leaving through\nthe north gate..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But I don't know the details."
+      "<DBAF43F0>": "But I do not know the details."
     }
   ]
 }

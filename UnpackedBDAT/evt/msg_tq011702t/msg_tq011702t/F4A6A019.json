@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Going to Colony Tau?\nThere's someone there who knows a lot about vegetables?"
+      "<DBAF43F0>": "...Going to Colony Tau? There's someone\nthere who knows a lot about vegetables?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, we might be able to consult them\nabout the fields..."
+      "<DBAF43F0>": "Yes, we might be able to consult\nthem about the fields..."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll leave things to Fox and the others\nwhile I'm gone, so could you go on ahead?"
+      "<DBAF43F0>": "I'll leave things to Fox and\nthe others while I'm gone,\nso could you go on ahead?"
     },
     {
       "$id": 5,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we can bring back good news, I think\neveryone will be relieved..."
+      "<DBAF43F0>": "If we can bring back good news, I\nthink everyone will be relieved..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood.\nThen let us meet there."
+      "<DBAF43F0>": "Understood. Then let us meet there."
     },
     {
       "$id": 9,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Take as many as you like.\nJust don't eat it by mistake, okay?"
+      "<DBAF43F0>": "Take as many as you like. Just\ndon't eat it by mistake, okay?"
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Once that's done,\nI'll head to Colony Tau as well!"
+      "<DBAF43F0>": "Once that's done, I'll head\nto Colony Tau as well!"
     }
   ]
 }

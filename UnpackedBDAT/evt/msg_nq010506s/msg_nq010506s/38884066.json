@@ -48,7 +48,7 @@
       "<2B51649C>": 8421505,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mo mo!\nThe research is perfect, desu mo."
+      "<DBAF43F0>": "Mo mo! The research\nis perfect, desu mo."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems the people of Colony 4\njust want to eat until they are full, desu mo."
+      "<DBAF43F0>": "It seems the people of Colony 4 just want\nto eat until they are full, desu mo."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Given the terrain, they seem to have a hard time\nprocuring food."
+      "<DBAF43F0>": "Given the terrain, they seem to\nhave a hard time procuring food."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But if they just want to get full,\nis there a need to be particular about the cooking?"
+      "<DBAF43F0>": "But if they just want to get\nfull, is there a need to be\nparticular about the cooking?"
     },
     {
       "$id": 6,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That is why we need a dish with a flavor\nthat they will not get tired of,\neven if they eat a lot, desu mo."
+      "<DBAF43F0>": "That is why we need a dish with a\nflavor that they will not get tired\nof, even if they eat a lot, desu mo."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 25182337,
       "<C1A03E98>": 1073,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see...\nThat's a brilliant point of view."
+      "<DBAF43F0>": "I see... That's a\nbrilliant point of view."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 25182338,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What specifically should we do?\nIs there anything I can do to help..."
+      "<DBAF43F0>": "What specifically should we do? Is\nthere anything I can do to help..."
     },
     {
       "$id": 11,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But, I have an image of it, desu mo."
+      "<DBAF43F0>": "But, I have an image\nof it, desu mo."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can present it to the people of Colony 4\nright now, desu mo.\nI am full of confidence, desu mo!"
+      "<DBAF43F0>": "I can present it to the people of\nColony 4 right now, desu mo. I am\nfull of confidence, desu mo!"
     },
     {
       "$id": 16,
@@ -198,7 +198,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then, let's have a presentation!"
+      "<DBAF43F0>": "Well then, let's have\na presentation!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 25182337,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Manana, besides the Spongy Spuds,\nare there any other ingredients you need?"
+      "<DBAF43F0>": "Manana, besides the Spongy Spuds, are\nthere any other ingredients you need?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Six Spongy Spuds,\ntwo aged Armu sirloins,\ntwo Deodorugulas..."
+      "<DBAF43F0>": "Six Spongy Spuds, two aged Armu\nsirloins, two Deodorugulas..."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And then,\nI want three Drumstick Leeks, desu mo!"
+      "<DBAF43F0>": "And then, I want three\nDrumstick Leeks, desu mo!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 25182337,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood. We'll prepare them right away."
+      "<DBAF43F0>": "Understood. We'll prepare\nthem right away."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 44056706,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're actually pretty\nexcited about this, aren't you?"
+      "<DBAF43F0>": "You're actually pretty excited\nabout this, aren't you?"
     },
     {
       "$id": 23,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "After checking on the field,\nlet's talk to Solon about the food."
+      "<DBAF43F0>": "After checking on the field, let's\ntalk to Solon about the food."
     }
   ]
 }

@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My apologies, Captain Izel.\nIt's because these people were dawdling."
+      "<DBAF43F0>": "My apologies, Captain Izel. It's\nbecause these people were dawdling."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you alone?\nWhat are you doing out here..."
+      "<DBAF43F0>": "Are you alone? What are\nyou doing out here..."
     },
     {
       "$id": 5,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Captain Izel, these are the people\nwho apparently want to take over your unit."
+      "<DBAF43F0>": "Captain Izel, these are the people who\napparently want to take over your unit."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You, be quiet for a second!\nYou're just going to complicate things!"
+      "<DBAF43F0>": "You, be quiet for a second! You're\njust going to complicate things!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Be quiet.\nYou'll startle the prey."
+      "<DBAF43F0>": "Be quiet. You'll startle the prey."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I know, Captain Izel!\nWhy not have these ignoramuses\nhelp you with the hunt?"
+      "<DBAF43F0>": "I know, Captain Izel! Why not have these\nignoramuses help you with the hunt?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Hey! Why do we have to go that far..."
+      "<DBAF43F0>": "...Hey! Why do we have\nto go that far..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Fine.\nI permit you to accompany me."
+      "<DBAF43F0>": "...Fine. I permit you\nto accompany me."
     },
     {
       "$id": 14,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The prey is near.\nI'm tracking it. Follow me."
+      "<DBAF43F0>": "The prey is near. I'm\ntracking it. Follow me."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh my, it seems things\nhave gotten a bit complicated."
+      "<DBAF43F0>": "Oh my, it seems things have\ngotten a bit complicated."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You're gonna get it later, you hear me?"
+      "<DBAF43F0>": "...You're gonna get it\nlater, you hear me?"
     }
   ]
 }

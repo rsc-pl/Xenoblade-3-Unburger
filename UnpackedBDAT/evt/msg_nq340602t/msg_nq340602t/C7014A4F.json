@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've heard the story.\nShiki and the others should be arriving shortly."
+      "<DBAF43F0>": "I've heard the story. Shiki and the\nothers should be arriving shortly."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a bit sudden, but what will you do?\nWill you get on?"
+      "<DBAF43F0>": "It's a bit sudden, but what\nwill you do? Will you get on?"
     },
     {
       "$id": 3,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Cannot be used while the City is under attack.\nPlease complete Sena's Side Story.\n※Skip travel to the City is still possible."
+      "<DBAF43F0>": "Cannot be used while the City is under\nattack. Please complete Sena's Side Story.\n※Skip travel to the City is still possible."
     }
   ]
 }

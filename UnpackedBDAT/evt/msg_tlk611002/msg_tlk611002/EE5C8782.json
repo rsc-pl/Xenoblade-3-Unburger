@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see, I agree.\nWith information, we can advance the battle favorably."
+      "<DBAF43F0>": "I see, I agree. With information, we\ncan advance the battle favorably."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You get it.\nThat's what I mean."
+      "<DBAF43F0>": "You get it. That's what I mean."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I need to go back to the intelligence department\nand get some fresh information."
+      "<DBAF43F0>": "I need to go back to the intelligence\ndepartment and get some fresh information."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have no idea what Nomori will say,\nbut, haha!"
+      "<DBAF43F0>": "I have no idea what Nomori\nwill say, but, haha!"
     }
   ]
 }

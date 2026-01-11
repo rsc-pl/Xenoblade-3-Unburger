@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you want to survive in this Morukna Wildwood,\nknowledge of mushrooms is essential."
+      "<DBAF43F0>": "If you want to survive in this\nMorukna Wildwood, knowledge\nof mushrooms is essential."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, that's right.\nYou shouldn't underestimate mushrooms."
+      "<DBAF43F0>": "Yes, that's right. You shouldn't\nunderestimate mushrooms."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you accidentally eat one in the forest,\nthe next time you wake up,\nyou might be inside a monster's stomach."
+      "<DBAF43F0>": "If you accidentally eat one in the\nforest, the next time you wake up, you\nmight be inside a monster's stomach."
     }
   ]
 }

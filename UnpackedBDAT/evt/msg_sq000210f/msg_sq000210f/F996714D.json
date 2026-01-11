@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is a simple fabricator,\nwhich was equipped on older generation Iron Giants."
+      "<DBAF43F0>": "It's a simple fabricator, like the ones equipped\non older generation Iron Giants."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For a price, we should be able to make\nthings that were produced by this Iron Giant."
+      "<DBAF43F0>": "If you pay the cost, you should be able to make\nwhatever was produced on this Iron Giant."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, let's give it a try!"
+      "<DBAF43F0>": "C'mon, let's try it out!"
     }
   ]
 }

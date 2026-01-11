@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's another request on the\nrequest board."
+      "<DBAF43F0>": "There's another request\non the request board."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"While investigating Zalmor's Thawtunnels,\nI came across a troublesome swarm of Ignas.\nI'd like them exterminated before any damage is done.\""
+      "<DBAF43F0>": "\"While investigating Zalmor's Thawtunnels, I came\nacross a troublesome swarm of Ignas. I'd like\nthem exterminated before any damage is done.\""
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"I dropped my precious goggles at the\nOld Legre-Bhaja Battlefront...\nIf you find them, please retrieve them.\""
+      "<DBAF43F0>": "\"I dropped my precious goggles at the\nOld Legre-Bhaja Battlefront... If you\nfind them, please retrieve them.\""
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"A Vvarga! That rare monster\nwas discovered at Diablada Cliffs!\nI'd love to study its ecology. Someone, please exterminate it!\""
+      "<DBAF43F0>": "\"A Vvarga! That rare monster was discovered\nat Diablada Cliffs! I'd love to study its\necology. Someone, please exterminate it!\""
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This time's requests seem troublesome."
+      "<DBAF43F0>": "This time's requests\nseem troublesome."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It would probably be best if we did them."
+      "<DBAF43F0>": "It would probably be\nbest if we did them."
     }
   ]
 }

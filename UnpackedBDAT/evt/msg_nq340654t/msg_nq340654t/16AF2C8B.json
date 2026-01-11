@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's been a while since I've been in the City.\nI wonder how they're doing..."
+      "<DBAF43F0>": "It's been a while since I've been in the\nCity. I wonder how they're doing..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If only Dana were alive, she could have returned, too..."
+      "<DBAF43F0>": "If only Dana were alive, she\ncould have returned, too..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What are you doing looking so dejected!\nStand up straight!"
+      "<DBAF43F0>": "What are you doing looking so\ndejected! Stand up straight!"
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She wouldn't want to see your depressed faces."
+      "<DBAF43F0>": "She wouldn't want to see\nyour depressed faces."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sorry for the trouble.\nI'll be counting on you from now on."
+      "<DBAF43F0>": "I'm sorry for the trouble. I'll\nbe counting on you from now on."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's been a while since I've been in the City,\nso I'm going to go see my comrades here."
+      "<DBAF43F0>": "It's been a while since I've\nbeen in the City, so I'm going\nto go see my comrades here."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are people you can only meet\non occasions like this."
+      "<DBAF43F0>": "There are people you can only\nmeet on occasions like this."
     }
   ]
 }

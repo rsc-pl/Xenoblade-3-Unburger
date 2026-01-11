@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's an elevator, but you're not using it?"
+      "<DBAF43F0>": "There's an elevator, but\nyou're not using it?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Apparently, it was sealed off more than 20 years ago\nbecause Tirkins invaded."
+      "<DBAF43F0>": "Apparently, it was sealed off more than\n20 years ago because Tirkins invaded."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can't activate it without going to the lower levels,\nso it's been left as is."
+      "<DBAF43F0>": "You can't activate it without\ngoing to the lower levels,\nso it's been left as is."
     }
   ]
 }

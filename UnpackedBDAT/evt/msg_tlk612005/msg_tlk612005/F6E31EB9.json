@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems Azalea has made a friend.\nEvery time she comes home,\nshe tells me about her day..."
+      "<DBAF43F0>": "It seems Azalea has made a friend.\nEvery time she comes home, she\ntells me about her day..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Being able to live in a house with my family...\nEvery day is truly happy."
+      "<DBAF43F0>": "Being able to live in a house with my\nfamily... Every day is truly happy."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To protect this daily life,\nI have to do my best as a father."
+      "<DBAF43F0>": "To protect this daily life, I\nhave to do my best as a father."
     }
   ]
 }

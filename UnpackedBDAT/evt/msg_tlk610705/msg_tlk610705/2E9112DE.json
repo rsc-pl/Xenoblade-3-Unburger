@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, you guys.\nDo you have any novels?"
+      "<DBAF43F0>": "Hey, you guys. Do you\nhave any novels?"
     },
     {
       "$id": 2,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's so interesting I can't focus on my work.\n...This is dangerous. It corrupts people."
+      "<DBAF43F0>": "It's so interesting I can't\nfocus on my work. ...This is\ndangerous. It corrupts people."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Weren't you kind of corrupt\nto begin with...?"
+      "<DBAF43F0>": "Weren't you kind of\ncorrupt to begin with...?"
     }
   ]
 }

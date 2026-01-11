@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have procured medical supplies.\nPlease deliver these to the medical team for me."
+      "<DBAF43F0>": "I have procured medical\nsupplies. Please deliver these\nto the medical team for me."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y-Yes, understood...\nNo no no! That's not the point!"
+      "<DBAF43F0>": "Y-Yes, understood... No no\nno! That's not the point!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I apologize for making you worry.\nBut this was for everyone's sake. Please understand."
+      "<DBAF43F0>": "I apologize for making you\nworry. But this was for everyone's\nsake. Please understand."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I understand how you feel, but...\nHaaah... For now, I'm just glad you are safe."
+      "<DBAF43F0>": "I understand how you feel, but... Haaah...\nFor now, I'm just glad you are safe."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You have saved me twice now.\nAllow me to thank you once again."
+      "<DBAF43F0>": "You have saved me twice now. Allow\nme to thank you once again."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nah, it was something we decided to do.\nDon't worry about it."
+      "<DBAF43F0>": "Nah, it was something we decided\nto do. Don't worry about it."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmph. To repay your efforts,\nI must now devote myself to treating the wounded."
+      "<DBAF43F0>": "Hmph. To repay your efforts, I must now\ndevote myself to treating the wounded."
     },
     {
       "$id": 10,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"An action you believe to be right\ndoes not always lead to the right outcome.\""
+      "<DBAF43F0>": "\"An action you believe to be right does\nnot always lead to the right outcome.\""
     },
     {
       "$id": 15,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But, back then...\nYou saved us, Ethel.\n...You risked your life to help us."
+      "<DBAF43F0>": "But, back then... You saved us, Ethel.\n...You risked your life to help us."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks to your actions,\nwe are alive like this, right now."
+      "<DBAF43F0>": "Thanks to your actions, we are\nalive like this, right now."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "[ML:line ]I can declare with confidence that it was a \"right outcome.\"\nOf that much, I am certain."
+      "<DBAF43F0>": "[ML:line ]I can declare with\nconfidence that it was a \"right\noutcome.\" Of that much, I am certain."
     },
     {
       "$id": 21,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"Silver Ethel\"... [ML:line ]\nFor your courageous action, we offer our respect and gratitude."
+      "<DBAF43F0>": "\"Silver Ethel\"... [ML:line ] For\nyour courageous action, we offer\nour respect and gratitude."
     },
     {
       "$id": 26,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The three of you have changed so much, you're almost unrecognizable."
+      "<DBAF43F0>": "The three of you have changed so\nmuch, you're almost unrecognizable."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then I, too, shall continue to be someone\nwho does not bring shame upon that name."
+      "<DBAF43F0>": "Then I, too, shall continue\nto be someone who does not\nbring shame upon that name."
     },
     {
       "$id": 29,

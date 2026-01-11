@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I am working in the City now, but\nplease call me when you have a need for me."
+      "<DBAF43F0>": "I am working in the City now, but please\ncall me when you have a need for me."
     },
     {
       "$id": 3,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Having signed an exclusive contract, assisting you\ntakes precedence over all else.\nHehehe..."
+      "<DBAF43F0>": "Having signed an exclusive\ncontract, assisting you takes\nprecedence over all else. Hehehe..."
     }
   ]
 }

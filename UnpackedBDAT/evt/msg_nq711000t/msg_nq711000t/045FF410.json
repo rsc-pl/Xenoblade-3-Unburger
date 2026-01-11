@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, Rex,\ncouldn't you make us something new to eat?"
+      "<DBAF43F0>": "Hey, Rex, couldn't you make\nus something new to eat?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How about Tender Boiled Mock-Shrimp?"
+      "<DBAF43F0>": "How about Tender\nBoiled Mock-Shrimp?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ooh, sounds delicious.\n...You've already thought of a menu?"
+      "<DBAF43F0>": "Ooh, sounds delicious. ...You've\nalready thought of a menu?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're really fired up...\nHave you awakened to cooking?"
+      "<DBAF43F0>": "You're really fired up... Have\nyou awakened to cooking?"
     },
     {
       "$id": 6,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyway, let's gather the ingredients.\nThis is what we need."
+      "<DBAF43F0>": "Anyway, let's gather the\ningredients. This is what we need."
     }
   ]
 }

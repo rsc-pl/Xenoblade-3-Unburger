@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh? Have you all\ncome to see this thing too?"
+      "<DBAF43F0>": "Oh? Have you all come\nto see this thing too?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hm? Didn't you come to see this sensor\nthat I developed?"
+      "<DBAF43F0>": "Hm? Didn't you come to see\nthis sensor that I developed?"
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is a detection sensor\nthat reacts to the presence of enemies."
+      "<DBAF43F0>": "This is a detection sensor that\nreacts to the presence of enemies."
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see.\nSo it allows you to detect enemies\nwithout incurring personnel costs."
+      "<DBAF43F0>": "I see. So it allows you to detect enemies\nwithout incurring personnel costs."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was just about to install these\nin various places.\nSince you're here, why don't you help me out?"
+      "<DBAF43F0>": "I was just about to install these\nin various places. Since you're\nhere, why don't you help me out?"
     },
     {
       "$id": 9,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Um...... Is it okay for us to touch it?\nIt won't think we're enemies?"
+      "<DBAF43F0>": "Um...... Is it okay for us to touch\nit? It won't think we're enemies?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This thing is designed to be able\nto tell the difference.\nSo don't worry."
+      "<DBAF43F0>": "This thing is designed to be able to\ntell the difference. So don't worry."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh, so it's like the autonomous Levnis\nthat Kotora was handling."
+      "<DBAF43F0>": "Huh, so it's like the autonomous\nLevnis that Kotora was handling."
     },
     {
       "$id": 13,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's a great help.\nThe first installation site is the Old Cliffside Way.\nLet's go."
+      "<DBAF43F0>": "That's a great help. The first\ninstallation site is the Old\nCliffside Way. Let's go."
     }
   ]
 }

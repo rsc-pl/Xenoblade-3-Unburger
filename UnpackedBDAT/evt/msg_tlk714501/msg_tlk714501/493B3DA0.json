@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My grandpa and grandma often\nread books to me."
+      "<DBAF43F0>": "My grandpa and grandma\noften read books to me."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Grandpa, grandma... you mean\nthe wrinkly ones?"
+      "<DBAF43F0>": "Grandpa, grandma... you\nmean the wrinkly ones?"
     },
     {
       "$id": 3,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have no idea what you're talking about anymore..."
+      "<DBAF43F0>": "I have no idea what you're\ntalking about anymore..."
     }
   ]
 }

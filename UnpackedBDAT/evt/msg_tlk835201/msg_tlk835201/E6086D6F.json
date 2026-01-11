@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, it's you, is it?\nThanks so much for the other day."
+      "<DBAF43F0>": "Ah, it's you... Thank you for\nyour help the other day."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wish I could give you a proper reward,\nbut I'm afraid my belongings all went up\nin smoke. Take this, at least."
+      "<DBAF43F0>": "I'd like to thank you properly,\nbut I've lost all my possessions.\nPlease, at least take this."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A recipe? More than\nenough, mate. Cheers!"
+      "<DBAF43F0>": "A recipe? I'll gladly\nmake use of it."
     }
   ]
 }

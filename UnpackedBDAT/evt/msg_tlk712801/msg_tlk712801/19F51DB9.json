@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're infiltrating the prison camp, I hear.\nGood luck."
+      "<DBAF43F0>": "You're infiltrating the prison\ncamp, I hear. Good luck."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh?\nHow do you know that..."
+      "<DBAF43F0>": "Huh? How do you know that..."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd better not say anything careless..."
+      "<DBAF43F0>": "I'd better not say\nanything careless..."
     }
   ]
 }

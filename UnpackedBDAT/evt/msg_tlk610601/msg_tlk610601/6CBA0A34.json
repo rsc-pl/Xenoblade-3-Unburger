@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was looking forward to your execution,\nbut you've gone and done something unnecessary."
+      "<DBAF43F0>": "I was looking forward to your\nexecution, but you've gone and\ndone something unnecessary."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hah, just kidding.\nMy head's a mess, forgive me."
+      "<DBAF43F0>": "Hah, just kidding. My\nhead's a mess, forgive me."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll clear my head while I\nclean up the plaza."
+      "<DBAF43F0>": "I'll clear my head while\nI clean up the plaza."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How is it, Riku?\nCan you fix it?"
+      "<DBAF43F0>": "How is it, Riku? Can you fix it?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...From the looks of it, if Riku repairs the exterior,\nit should be fine, mo. Riku will get it done quickly, mo."
+      "<DBAF43F0>": "...From the looks of it, if Riku repairs\nthe exterior, it should be fine, mo.\nRiku will get it done quickly, mo."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And how does it look to you?\nCan you still use it?"
+      "<DBAF43F0>": "And how does it look to\nyou? Can you still use it?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Power line normal. All sensors functional.\n...Iron Trooper Unit 7, operating normally."
+      "<DBAF43F0>": "Power line normal. All sensors\nfunctional. ...Iron Trooper\nUnit 7, operating normally."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seems to be okay.\nThen, can we leave the guiding to you?"
+      "<DBAF43F0>": "Seems to be okay. Then, can\nwe leave the guiding to you?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood.\nSecuring the route."
+      "<DBAF43F0>": "Understood. Securing the route."
     },
     {
       "$id": 8,

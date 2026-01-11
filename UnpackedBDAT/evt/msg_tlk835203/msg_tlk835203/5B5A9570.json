@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is it true? Moebius really turned up?\nI thought this region was safe...!"
+      "<DBAF43F0>": "Is it true that Moebius appeared?\nWasn't this place supposed to be safe?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is going to be the City\nall over again, isn't it?!"
+      "<DBAF43F0>": "Is this place going to end up like\nthe City? What's going on...!?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Calm down, breathe!\nWe don't know that for sure, OK?"
+      "<DBAF43F0>": "Calm down. It's not decided\nyet that[ML:line len=1 ]"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Why...? All we want to do is live in peace.\nWhy must we suffer so...?"
+      "<DBAF43F0>": "Why... All we want is to live in\npeace... Why must we suffer so much..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Leave him be, Matthew."
+      "<DBAF43F0>": "...Matthew. Let him be for now."
     }
   ]
 }

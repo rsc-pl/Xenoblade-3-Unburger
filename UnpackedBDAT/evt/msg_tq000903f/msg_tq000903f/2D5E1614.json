@@ -48,7 +48,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, Commander! We're safe!\nEveryone is alive!"
+      "<DBAF43F0>": "Ah, Commander! We're\nsafe! Everyone is alive!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems only a few were working deep inside...\nBut I am glad they are safe."
+      "<DBAF43F0>": "It seems only a few were working deep\ninside... But I am glad they are safe."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did the lurking monsters destroy\nthe weakened rock wall and\ncome out...?"
+      "<DBAF43F0>": "Did the lurking monsters destroy the\nweakened rock wall and come out...?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The excavation must have connected to a place with\nhigher ether concentration, causing the monsters\nthere to start moving."
+      "<DBAF43F0>": "The excavation must have connected to a\nplace with higher ether concentration,\ncausing the monsters there to start moving."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I am pleased to find the ether,\nbut for now we must hurry with the rescue."
+      "<DBAF43F0>": "I am pleased to find the ether, but for\nnow we must hurry with the rescue."
     },
     {
       "$id": 8,

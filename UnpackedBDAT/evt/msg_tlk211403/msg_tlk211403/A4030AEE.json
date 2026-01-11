@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmmm, this is sad!\nHe was the best test subject!\nHis body was just so sturdy!"
+      "<DBAF43F0>": "Hmmm, this is sad! He was the best test\nsubject! His body was just so sturdy!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're a pretty terrible person, you know."
+      "<DBAF43F0>": "You're a pretty terrible\nperson, you know."
     }
   ]
 }

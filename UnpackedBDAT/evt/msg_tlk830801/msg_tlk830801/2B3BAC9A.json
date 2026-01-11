@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's risky wandering into enemy territory or\nmonster hunting grounds, where you might\nget mobbed."
+      "<DBAF43F0>": "If you enter an enemy's camp or\na monster's territory, you risk\nbeing attacked by a group."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Consider your alternatives in those cases.\nYou could circumnavigate the area, or you\ncould even fall back."
+      "<DBAF43F0>": "In such cases, it's wise to either\ndetour or choose to retreat."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Very true. I hope you're\ntaking notes here, Matthew."
+      "<DBAF43F0>": "That's right. Don't you\ngo charging in, Matthew."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, yeah, no charging in.\nI'll keep it in mind.\n...Bah, you're as bad as A..."
+      "<DBAF43F0>": "Yeah, yeah. I'll do my best."
     }
   ]
 }

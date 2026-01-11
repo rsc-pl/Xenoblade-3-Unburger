@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...! Shiro-san told me to expect you!"
+      "<DBAF43F0>": "...! Shiro-san told\nme to expect you!"
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I've transferred the data to you.\nIf you have any questions, please let me know."
+      "<DBAF43F0>": "...I've transferred the data\nto you. If you have any\nquestions, please let me know."
     },
     {
       "$id": 7,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It was my dream... a life where I could\nlive and laugh with Shiro-san and everyone..."
+      "<DBAF43F0>": "It was my dream... a life where\nI could live and laugh with\nShiro-san and everyone..."
     }
   ]
 }

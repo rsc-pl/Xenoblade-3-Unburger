@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, absolutely do not eat this potato."
+      "<DBAF43F0>": "Hey, absolutely do\nnot eat this potato."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't say it like\nI'm hogging it all to myself!"
+      "<DBAF43F0>": "Don't say it like I'm\nhogging it all to myself!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Recently, the number of people getting sick from eating things\nnot in the manual has been increasing..."
+      "<DBAF43F0>": "Recently, the number of people getting\nsick from eating things not in the\nmanual has been increasing..."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Probably.\nI've named it the Puke-Potato."
+      "<DBAF43F0>": "Probably. I've named\nit the Puke-Potato."
     },
     {
       "$id": 7,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are other things too.\nWell, try listening to what everyone has to say."
+      "<DBAF43F0>": "There are other things too. Well, try\nlistening to what everyone has to say."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry it's not good news.\nIf only the fields were doing well..."
+      "<DBAF43F0>": "Sorry it's not good news. If only\nthe fields were doing well..."
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are other things I'm concerned about, but...\nWell, try listening to what everyone has to say."
+      "<DBAF43F0>": "There are other things I'm concerned\nabout, but... Well, try listening\nto what everyone has to say."
     }
   ]
 }

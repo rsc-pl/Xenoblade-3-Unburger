@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's try digging here first."
+      "<DBAF43F0>": "Let's start by digging here."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This looks like it'll be tough..."
+      "<DBAF43F0>": "This looks like it's going to be tough..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There was nothing."
+      "<DBAF43F0>": "There was nothing here."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meh-meh-meh..."
+      "<DBAF43F0>": "Mo mo mo..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Manana knows from her Nopon senses, desu-mo!"
+      "<DBAF43F0>": "Manana knows with Nopon intuition, desu mo."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Manana feels it's nearby, desu-mo."
+      "<DBAF43F0>": "Manana feels it is nearby, desu mo."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nopon senses...?"
+      "<DBAF43F0>": "Nopon intuition...?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It is certain that it is nearby, meh."
+      "<DBAF43F0>": "It is certain that it is nearby, mo."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're right.\nLet's trust Manana's intuition\nand try digging in another spot."
+      "<DBAF43F0>": "You're right.\nLet's trust Manana's intuition\nand try digging somewhere else."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But, but...\nManana feels it's nearby, desu-mo."
+      "<DBAF43F0>": "But, but,\nManana feels it is nearby, desu mo."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We know it's nearby.\nHowever, Manana... it would be helpful if you could be\na little more specific."
+      "<DBAF43F0>": "We know it's nearby.\nBut Manana... it would be helpful if you could be\na bit more specific."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There was nothing."
+      "<DBAF43F0>": "There was nothing here."
     }
   ]
 }

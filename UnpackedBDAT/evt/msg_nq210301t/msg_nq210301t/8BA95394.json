@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, that's right.\nCaptain Roshou ordered them restarted,\nso we in the engineering corps were just working on it."
+      "<DBAF43F0>": "Yes, that's right. Captain Roshou ordered\nthem restarted, so we in the engineering\ncorps were just working on it."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He's a captain, but he's pretty lax,\nso it seems he's having a hard time with pressure\nfrom the other squads."
+      "<DBAF43F0>": "He's a captain, but he's pretty lax,\nso it seems he's having a hard time\nwith pressure from the other squads."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyway, we just finished\nsome adjustments a little while ago."
+      "<DBAF43F0>": "Anyway, we just finished some\nadjustments a little while ago."
     },
     {
       "$id": 6,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've excluded ourselves from their target list,\nso it shouldn't be like last time...... probably."
+      "<DBAF43F0>": "We've excluded ourselves from their\ntarget list, so it shouldn't be\nlike last time...... probably."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, come on now......\nI'd rather not get attacked again."
+      "<DBAF43F0>": "Hey, come on now...... I'd\nrather not get attacked again."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, in that case, come with me for a bit."
+      "<DBAF43F0>": "Oh, in that case, come\nwith me for a bit."
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're going to do a behavior test,\nso I'd like you to help out since you're here."
+      "<DBAF43F0>": "We're going to do a behavior\ntest, so I'd like you to help\nout since you're here."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm willing to help, as long as it's reasonable."
+      "<DBAF43F0>": "I'm willing to help, as\nlong as it's reasonable."
     },
     {
       "$id": 14,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A sharp deduction.\nLet's meet at the Invidian Tunnels.\nFollow me."
+      "<DBAF43F0>": "A sharp deduction. Let's meet at\nthe Invidian Tunnels. Follow me."
     }
   ]
 }

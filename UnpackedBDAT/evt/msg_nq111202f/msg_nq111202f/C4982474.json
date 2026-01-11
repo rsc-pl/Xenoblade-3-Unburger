@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Hm? The sound of flapping wings..."
+      "<DBAF43F0>": "...Hm? The sound of\nflapping wings..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meh-meh! Something's coming, ssu mo!!"
+      "<DBAF43F0>": "Meh-meh! Something's\ncoming, ssu mo!!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoaaaa! Give me a break!\nBugs are the one thing I can't handle! Seriously!!"
+      "<DBAF43F0>": "Whoaaaa! Give me a break! Bugs are the\none thing I can't handle! Seriously!!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The \"ingredient\" we were waiting for has arrived, desu mo!\nEveryone! Defeat that Plambus, desu mo!"
+      "<DBAF43F0>": "The \"ingredient\" we were waiting\nfor has arrived, desu mo! Everyone!\nDefeat that Plambus, desu mo!"
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whatever it is, if it's attacking us,\nwe have to take it down!"
+      "<DBAF43F0>": "Whatever it is, if it's attacking\nus, we have to take it down!"
     }
   ]
 }

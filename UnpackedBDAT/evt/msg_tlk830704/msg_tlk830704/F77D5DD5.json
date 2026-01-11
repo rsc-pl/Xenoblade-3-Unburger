@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So you're finally leaving for Origin...\nTo rescue Na'el."
+      "<DBAF43F0>": "So, it is finally time... to go\nto Origin. To Na'el, Matthew."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, Jethro? If anything happens\nto us, I want you to take good care\nof the City folk."
+      "<DBAF43F0>": "Hey, Jethro. If the worst happens, you'll\ntake care of the City[ML:line len=1 ]"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmph. I can't agree to such terms."
+      "<DBAF43F0>": "Hmph, that I cannot agree to."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Heh. Harsh."
+      "<DBAF43F0>": "...Haha, you're a tough one."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Only because I believe in your safe return.\nIt won't come to that."
+      "<DBAF43F0>": "I have faith in your return.\nIt will not come to that."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When Na'el comes home, let's show\nher the birth of a new City, shall we?"
+      "<DBAF43F0>": "When Na'el returns, let us show\nher the birth of a new City."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Hell yeah."
+      "<DBAF43F0>": "...Yeah!"
     }
   ]
 }

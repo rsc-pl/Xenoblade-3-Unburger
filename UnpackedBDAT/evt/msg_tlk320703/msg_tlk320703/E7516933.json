@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sometimes I can hear the sounds of battle\nfrom the mountain path side."
+      "<DBAF43F0>": "Sometimes I can hear the sounds of\nbattle from the mountain path side."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't think it will come this far, but[ML:line ]..."
+      "<DBAF43F0>": "I don't think it will come\nthis far, but[ML:line ]..."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We don't have many people, so we won't fight head-on.\nWe have our own way of doing things."
+      "<DBAF43F0>": "We don't have many people, so\nwe won't fight head-on. We have\nour own way of doing things."
     }
   ]
 }

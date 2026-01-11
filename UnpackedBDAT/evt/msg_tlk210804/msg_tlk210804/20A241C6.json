@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maybach is a fine assistant,\nbut he has a tendency to stick to the manual..."
+      "<DBAF43F0>": "Maybach is a fine assistant, but he has\na tendency to stick to the manual..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd like him to be able to respond\nmore flexibly and adapt to situations, but...\nI wonder what I should do."
+      "<DBAF43F0>": "I'd like him to be able to respond\nmore flexibly and adapt to situations,\nbut... I wonder what I should do."
     }
   ]
 }

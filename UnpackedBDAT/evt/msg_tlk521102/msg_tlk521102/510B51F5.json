@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You mix minced fish into the pie dough and bake it.\nThe key is the special teriyaki sauce,\nfinished to be sweet and salty!"
+      "<DBAF43F0>": "You mix minced fish into the pie dough and\nbake it. The key is the special teriyaki\nsauce, finished to be sweet and salty!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, if you feel like eating some,\ncall me over at the canteen!\nI'll make it anytime if you give me G!!"
+      "<DBAF43F0>": "Ah, if you feel like eating some,\ncall me over at the canteen! I'll\nmake it anytime if you give me G!!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd really like to treat you,\nbut Nico is working hard to make ends meet,\nso please cooperate with a fair exchange."
+      "<DBAF43F0>": "I'd really like to treat you, but Nico\nis working hard to make ends meet, so\nplease cooperate with a fair exchange."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Come by the canteen again anytime.\nAnyone with an empty stomach is welcome."
+      "<DBAF43F0>": "Come by the canteen again anytime. Anyone\nwith an empty stomach is welcome."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you.\nYour cooking was very delicious, too."
+      "<DBAF43F0>": "Thank you. Your cooking\nwas very delicious, too."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hahaha, don't mention it.\nIf we had more food stored up,\nI could even give you some on the house."
+      "<DBAF43F0>": "Hahaha, don't mention it. If we\nhad more food stored up, I could\neven give you some on the house."
     }
   ]
 }

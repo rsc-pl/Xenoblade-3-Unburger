@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Agnus Castle has finally been\nliberated!"
+      "<DBAF43F0>": "Agnus Castle has finally\nbeen liberated!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The old is coming to an end,\nand the new is beginning to sprout[ML:line ]...\nThat's how it feels."
+      "<DBAF43F0>": "The old is coming to an end, and\nthe new is beginning to sprout[ML:line\n]... That's how it feels."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The new era that Niina-sama wished for\nis just around the corner...!"
+      "<DBAF43F0>": "The new era that Niina-sama wished\nfor is just around the corner...!"
     }
   ]
 }

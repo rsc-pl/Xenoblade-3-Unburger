@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did you bring the machine parts, mo?"
+      "<DBAF43F0>": "Did you bring the\nmachine parts, mo?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's still not enough, mo.\nWe need you to bring lots more, mo."
+      "<DBAF43F0>": "It's still not enough, mo. We\nneed you to bring lots more, mo."
     }
   ]
 }

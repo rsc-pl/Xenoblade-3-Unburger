@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks to you all,\nthe canteen is now usable."
+      "<DBAF43F0>": "Thanks to you all, the\ncanteen is now usable."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Fortunately, we have food,\nand the environment around here isn't bad."
+      "<DBAF43F0>": "Fortunately, we have food, and the\nenvironment around here isn't bad."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good food boosts the colony's morale.\nYou should eat some too."
+      "<DBAF43F0>": "Good food boosts the colony's\nmorale. You should eat some too."
     }
   ]
 }

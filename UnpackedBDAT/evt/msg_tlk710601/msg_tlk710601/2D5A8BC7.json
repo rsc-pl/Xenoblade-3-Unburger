@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You guys fight with all kinds of weapons, right?\nHow did you decide on your specialty weapon?"
+      "<DBAF43F0>": "You guys fight with all kinds of\nweapons, right? How did you decide\non your specialty weapon?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shino, what do you want to do\nwith that information?"
+      "<DBAF43F0>": "Shino, what do you want to\ndo with that information?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I want to use it as a reference!\nI can \"summon\" any weapon now, but\nif I'm just average with all of them, I can't win, right?"
+      "<DBAF43F0>": "I want to use it as a reference! I can\n\"summon\" any weapon now, but if I'm just\naverage with all of them, I can't win, right?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll choose one weapon, hone my skills,\nand someday, like my dad,\nI'll become an Ouroboros candidate!"
+      "<DBAF43F0>": "I'll choose one weapon, hone my\nskills, and someday, like my dad,\nI'll become an Ouroboros candidate!"
     }
   ]
 }

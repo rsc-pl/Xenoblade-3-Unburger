@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's wrong...\nWhat are you doing here?"
+      "<DBAF43F0>": "What's wrong... What\nare you doing here?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This won't do, guest.\nYou have to defeat the monster... Did\nI explain this to you?"
+      "<DBAF43F0>": "This won't do, guest. You\nhave to defeat the monster...\nDid I explain this to you?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You did not! You weren't here,\nso we heard it from someone else!"
+      "<DBAF43F0>": "You did not! You weren't here, so\nwe heard it from someone else!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then that's even worse!\nIf you waste time here, you'll lose!"
+      "<DBAF43F0>": "Then that's even worse! If you\nwaste time here, you'll lose!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We ended up here because\nwe were following the tracks!"
+      "<DBAF43F0>": "We ended up here because we\nwere following the tracks!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh! There are more tracks over here!"
+      "<DBAF43F0>": "Oh! There are more\ntracks over here!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Guess we have no choice but to follow this one."
+      "<DBAF43F0>": "Guess we have no choice\nbut to follow this one."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good luck, guest.\nIf you dally, the Captain will\novertake you."
+      "<DBAF43F0>": "Good luck, guest. If you dally,\nthe Captain will overtake you."
     }
   ]
 }

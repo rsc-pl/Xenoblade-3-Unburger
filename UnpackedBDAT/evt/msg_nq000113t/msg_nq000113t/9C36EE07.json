@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What is it, mo? I am not an exhibit, mo."
+      "<DBAF43F0>": "What is it, mo? I am\nnot an exhibit, mo."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hah... I wonder what he dislikes so much that he'd send people to do his work, mo.\nHere, take this and disappear quickly, mo."
+      "<DBAF43F0>": "Hah... I wonder what he dislikes so much\nthat he'd send people to do his work, mo.\nHere, take this and disappear quickly, mo."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, at least it was not Napapa, mo.\nThat one is a troublesome fellow who thinks he is clever, mo."
+      "<DBAF43F0>": "Well, at least it was not Napapa,\nmo. That one is a troublesome fellow\nwho thinks he is clever, mo."
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It is nothing, mo.\nIf you are not a customer,\nI would like you to leave quickly, mo."
+      "<DBAF43F0>": "It is nothing, mo. If you are\nnot a customer, I would like\nyou to leave quickly, mo."
     }
   ]
 }

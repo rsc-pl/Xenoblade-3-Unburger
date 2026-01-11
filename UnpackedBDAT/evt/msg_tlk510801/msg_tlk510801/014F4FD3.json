@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are all sorts of people living in the City."
+      "<DBAF43F0>": "There are all sorts of\npeople living in the City."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colony 15 was full of roughnecks, so it was\neasy to understand, but here it's really complicated."
+      "<DBAF43F0>": "Colony 15 was full of roughnecks,\nso it was easy to understand, but\nhere it's really complicated."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's tough, but I have to\nlive up to the Captain's expectations."
+      "<DBAF43F0>": "It's tough, but I have to live up\nto the Captain's expectations."
     }
   ]
 }

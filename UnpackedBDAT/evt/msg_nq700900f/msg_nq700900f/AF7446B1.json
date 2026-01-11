@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm Matthew.\nI'm from the City.\nWhat are you doing here?"
+      "<DBAF43F0>": "I'm Matthew. I'm from the City.\nWhat are you doing here?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I-I'm Axel.\nI'm looking for my dad and mom,\nand also my little sister, Finley."
+      "<DBAF43F0>": "I-I'm Axel. I'm looking for my dad and\nmom, and also my little sister, Finley."
     },
     {
       "$id": 4,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I know how you feel.\nBut can't you rely on the adults for now?"
+      "<DBAF43F0>": "...I know how you feel. But can't\nyou rely on the adults for now?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If something happened to you,\nyour parents and sister would be sad... right?"
+      "<DBAF43F0>": "If something happened to you, your parents\nand sister would be sad... right?"
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't worry.\nI promise I'll find your family,\nno matter what."
+      "<DBAF43F0>": "Don't worry. I promise I'll find\nyour family, no matter what."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're Axel?\nI heard about you from Finley."
+      "<DBAF43F0>": "You're Axel? I heard\nabout you from Finley."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...!\nYou found Finley!?"
+      "<DBAF43F0>": "...! You found Finley!?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She's with us now.\nShe was worried about you the whole time."
+      "<DBAF43F0>": "She's with us now. She was worried\nabout you the whole time."
     },
     {
       "$id": 13,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Axel is now under the protection of Colony 9."
+      "<DBAF43F0>": "Axel is now under the\nprotection of Colony 9."
     }
   ]
 }

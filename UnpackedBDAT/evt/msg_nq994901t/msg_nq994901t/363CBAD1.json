@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're short on supplies to load...\nWhere did they go?"
+      "<DBAF43F0>": "We're short on supplies to\nload... Where did they go?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Actually, I had Ungyou-dono help me,\nand we managed to collect all but seven."
+      "<DBAF43F0>": "Actually, I had Ungyou-dono help me, and\nwe managed to collect all but seven."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sorry to ask,\nbut I'd like you to lend a hand as well."
+      "<DBAF43F0>": "I'm sorry to ask, but I'd like\nyou to lend a hand as well."
     },
     {
       "$id": 5,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You only found some of them?\nI have a bad feeling about this..."
+      "<DBAF43F0>": "You only found some of them? I\nhave a bad feeling about this..."
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks for retrieving them, you've been a great help."
+      "<DBAF43F0>": "Thanks for retrieving them,\nyou've been a great help."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But to think there was someone who stole the supplies...\nWe'll have to be more careful from now on..."
+      "<DBAF43F0>": "But to think there was someone who\nstole the supplies... We'll have to\nbe more careful from now on..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now Akitsu won't get mad at me.\nShe's strict, but she's a serious and good kid,\nso I don't want to disappoint her."
+      "<DBAF43F0>": "Now Akitsu won't get mad at me. She's\nstrict, but she's a serious and good\nkid, so I don't want to disappoint her."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks for retrieving them.\nI'll tell my subordinates to manage\nthe supplies more carefully."
+      "<DBAF43F0>": "Thanks for retrieving them. I'll\ntell my subordinates to manage\nthe supplies more carefully."
     }
   ]
 }

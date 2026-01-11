@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "According to the tactics squad's investigation of the area,\nthe wreckage of such Iron Giants was found\nin the Dannagh Desert and Ribbi Flats, but[ML:line ]..."
+      "<DBAF43F0>": "According to the tactics squad's investigation of the\narea, the wreckage of such Iron Giants was found in\nthe Dannagh Desert and Ribbi Flats, but[ML:line ]..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Because the plant is built into the core of the Iron Giant,\nit seems impossible to remove and recover just the plant...\nIt's very unfortunate."
+      "<DBAF43F0>": "Because the plant is built into the core of the\nIron Giant, it seems impossible to remove and\nrecover just the plant... It's very unfortunate."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There shouldn't be a problem with operating\nthe plant on-site and using it, though..."
+      "<DBAF43F0>": "There shouldn't be a problem\nwith operating the plant on-site\nand using it, though..."
     }
   ]
 }

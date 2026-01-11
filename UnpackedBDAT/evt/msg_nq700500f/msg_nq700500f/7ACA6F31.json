@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't worry.\nWe're not your enemies."
+      "<DBAF43F0>": "Don't worry. We're\nnot your enemies."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're looking for survivors from the City.\nWe've come to protect you."
+      "<DBAF43F0>": "We're looking for survivors from the\nCity. We've come to protect you."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh... thank goodness...\nI'm saved."
+      "<DBAF43F0>": "Oh... thank goodness... I'm saved."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My name is Amryn.\nI am deeply grateful to you all..."
+      "<DBAF43F0>": "My name is Amryn. I am deeply\ngrateful to you all..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It must have been tough getting here.\nWe'll let you rest soon."
+      "<DBAF43F0>": "It must have been tough getting\nhere. We'll let you rest soon."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes...\nThank you so much."
+      "<DBAF43F0>": "Yes... Thank you so much."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Amryn is now under the protection of Colony 9."
+      "<DBAF43F0>": "Amryn is now under the\nprotection of Colony 9."
     }
   ]
 }

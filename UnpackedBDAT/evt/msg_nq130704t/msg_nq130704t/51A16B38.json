@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes. He asked me to pass on a message,\nthat he wishes to thank you properly for that."
+      "<DBAF43F0>": "Yes. He asked me to pass on a\nmessage, that he wishes to\nthank you properly for that."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I didn't do anything.\nIt was your actions that deserve credit."
+      "<DBAF43F0>": "I did not do anything. It was your\nactions that deserve credit."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Or rather...\nTo think it could be \"used in that way\"..."
+      "<DBAF43F0>": "Or rather... To think it could\nbe \"used in that way\"..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That person is quite quick-witted.\nIf he were an idiot, he would have died."
+      "<DBAF43F0>": "That person is quite quick-witted. If\nhe were an idiot, he would have died."
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm complimenting him."
+      "<DBAF43F0>": "I am complimenting him."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Thanks to this, I now have something I want to verify.\nThank you for the report."
+      "<DBAF43F0>": "...Thanks to this, I now have\nsomething I want to verify.\nThank you for the report."
     }
   ]
 }

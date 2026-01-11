@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, according to this machine,\nthe resources seem to be in the lower level."
+      "<DBAF43F0>": "Yes, according to this machine, the\nresources seem to be in the lower level."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, but...\nthe lower level is a dangerous place."
+      "<DBAF43F0>": "Yes, but... the lower level\nis a dangerous place."
     },
     {
       "$id": 5,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In that case, we don't need to worry so much\nabout the monsters in the lower level."
+      "<DBAF43F0>": "In that case, we don't need\nto worry so much about the\nmonsters in the lower level."
     },
     {
       "$id": 9,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's truly a joyous thing\nto receive their help like this."
+      "<DBAF43F0>": "It's truly a joyous thing to\nreceive their help like this."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then, I'll go to Lambda right away\nand tell them about this... but before that."
+      "<DBAF43F0>": "Well then, I'll go to Lambda\nright away and tell them about\nthis... but before that."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have to go and tell that Nasori\nthat we found resources.\nThanks, you all!"
+      "<DBAF43F0>": "I have to go and tell that Nasori that\nwe found resources. Thanks, you all!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is that a good idea? It looks like they're going to argue again."
+      "<DBAF43F0>": "Is that a good idea? It looks like\nthey're going to argue again."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There should be no problem.\nEven though they seem to be at odds,\nthey are precious comrades."
+      "<DBAF43F0>": "There should be no problem. Even\nthough they seem to be at odds,\nthey are precious comrades."
     },
     {
       "$id": 15,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Their feelings for Colony Tau are the same,\nso I'm sure things will move in an even better\ndirection from now on."
+      "<DBAF43F0>": "Their feelings for Colony Tau are the\nsame, so I'm sure things will move in\nan even better direction from now on."
     }
   ]
 }

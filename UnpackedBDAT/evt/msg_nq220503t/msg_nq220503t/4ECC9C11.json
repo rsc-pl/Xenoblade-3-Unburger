@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Excuse me, we are looking for a soldier named Saibara.\nDo you know anything about her?"
+      "<DBAF43F0>": "Excuse me, we are looking for\na soldier named Saibara. Do\nyou know anything about her?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's this all of a sudden? Saibara?"
+      "<DBAF43F0>": "What's this all of\na sudden? Saibara?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She's supposed to have come to Colony 4,\nbut we can't get in touch with her."
+      "<DBAF43F0>": "She's supposed to have come to Colony\n4, but we can't get in touch with her."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She's an Agnian soldier, right?\nI know she came here a little while ago."
+      "<DBAF43F0>": "She's an Agnian soldier, right? I know\nshe came here a little while ago."
     },
     {
       "$id": 5,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Come to think of it...... that girl\nasked me a similar question."
+      "<DBAF43F0>": "Come to think of it...... that\ngirl asked me a similar question."
     },
     {
       "$id": 8,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did you have any idea who Saibara was looking for?"
+      "<DBAF43F0>": "Did you have any idea who\nSaibara was looking for?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I do, in a sense...\nbut I told her I couldn't\ntalk about it."
+      "<DBAF43F0>": "I do, in a sense... but I told\nher I couldn't talk about it."
     },
     {
       "$id": 12,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's right. So there's nothing more\nI can tell you either."
+      "<DBAF43F0>": "That's right. So there's nothing\nmore I can tell you either."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood.\nThank you."
+      "<DBAF43F0>": "Understood. Thank you."
     }
   ]
 }

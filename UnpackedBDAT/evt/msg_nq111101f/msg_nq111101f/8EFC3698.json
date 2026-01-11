@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems to have malfunctioned during the drop, mo.\nThat's the error sound, mo."
+      "<DBAF43F0>": "It seems to have malfunctioned during the\ndrop, mo. That's the error sound, mo."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's still loud, so\nlet's at least stop the noise."
+      "<DBAF43F0>": "It's still loud, so let's\nat least stop the noise."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, just a sec.\nIf I do this here..."
+      "<DBAF43F0>": "Yeah, just a sec. If\nI do this here..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, can't we get the contents\nof this container?"
+      "<DBAF43F0>": "Hey, can't we get the\ncontents of this container?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmmm...\nFrom the looks of it, it's not a major malfunction,\nso I should be able to fix it with a little tinkering, ssu mo."
+      "<DBAF43F0>": "Hmmm... From the looks of it, it's not a\nmajor malfunction, so I should be able to\nfix it with a little tinkering, ssu mo."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, if we just had the parts,\nwe could probably manage... ...if we just had the parts."
+      "<DBAF43F0>": "Yeah, if we just had the parts,\nwe could probably manage...\n...if we just had the parts."
     },
     {
       "$id": 10,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The part is called a Serenity Jet.\nYou should be able to find it around the Old Kana Battlefield...\n...probably."
+      "<DBAF43F0>": "The part is called a Serenity Jet. You\nshould be able to find it around the\nOld Kana Battlefield... ...probably."
     }
   ]
 }

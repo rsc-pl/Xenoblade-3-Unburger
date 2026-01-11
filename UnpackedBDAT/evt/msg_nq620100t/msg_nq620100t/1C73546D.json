@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is this...\na bulletin board?"
+      "<DBAF43F0>": "Is this... a bulletin board?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes.\nIt's called a request board here."
+      "<DBAF43F0>": "Yes. It's called a\nrequest board here."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Requests from the people living in Colony 9\nare posted on it."
+      "<DBAF43F0>": "Requests from the people living\nin Colony 9 are posted on it."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see.\nLet's take a look..."
+      "<DBAF43F0>": "I see. Let's take a look..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"I lost my wedding ring in Colony 9.\nIf my wife finds out I lost it...\nPlease, someone find it.\""
+      "<DBAF43F0>": "\"I lost my wedding ring in Colony\n9. If my wife finds out I lost\nit... Please, someone find it.\""
     },
     {
       "$id": 6,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"A school of Krodlax has been spotted\nnear the Tower Square of Colony 9!\nPlease exterminate them and secure the food supply!\""
+      "<DBAF43F0>": "\"A school of Krodlax has been spotted near\nthe Tower Square of Colony 9! Please\nexterminate them and secure the food supply!\""
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"It seems a rare Shoox\nhas taken up residence in the lake cave!\nI'd love to study its ecology. Someone, please exterminate it!\""
+      "<DBAF43F0>": "\"It seems a rare Shoox has taken up residence\nin the lake cave! I'd love to study its\necology. Someone, please exterminate it!\""
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So this is how they solve problems\nthat are too difficult for one person,\nby requesting cooperation."
+      "<DBAF43F0>": "So this is how they solve problems\nthat are too difficult for one\nperson, by requesting cooperation."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's right.\nWe help out sometimes too.\nYou should try it when you have time."
+      "<DBAF43F0>": "That's right. We help out sometimes too.\nYou should try it when you have time."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah...\nI'll give it a try. We have to cooperate."
+      "<DBAF43F0>": "Yeah... I'll give it a try.\nWe have to cooperate."
     }
   ]
 }

@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The commander is an excellent Healer, even among Agnians.\nAnd he's also good at attacking."
+      "<DBAF43F0>": "The commander is an excellent\nHealer, even among Agnians. And\nhe's also good at attacking."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When there are no allies to heal, he goes on the offensive,\nand if things get dangerous, he saves us\nwith his Talent Art."
+      "<DBAF43F0>": "When there are no allies to heal, he goes\non the offensive, and if things get\ndangerous, he saves us with his Talent Art."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He's usually in command, so\nI haven't fought alongside him much[ML:line ]...\nbut it's a sight to behold."
+      "<DBAF43F0>": "He's usually in command, so I haven't\nfought alongside him much[ML:line\n]... but it's a sight to behold."
     }
   ]
 }

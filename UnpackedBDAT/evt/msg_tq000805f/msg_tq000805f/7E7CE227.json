@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? That stone over there, isn't it glowing?"
+      "<DBAF43F0>": "Huh? That stone over\nthere, isn't it glowing?"
     },
     {
       "$id": 2,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This one...\nI can't tell the difference..."
+      "<DBAF43F0>": "This one... I can't\ntell the difference..."
     },
     {
       "$id": 5,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Leave it to Riku, mo!\nFirst, we will search this area, mo!"
+      "<DBAF43F0>": "Leave it to Riku, mo! First,\nwe will search this area, mo!"
     }
   ]
 }

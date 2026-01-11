@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's wrong!?\nHey! Answer me!"
+      "<DBAF43F0>": "What's wrong!? Hey! Answer me!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...His pulse is slow.\nAt this rate, it's quite dangerous."
+      "<DBAF43F0>": "...His pulse is slow. At this\nrate, it's quite dangerous."
     },
     {
       "$id": 4,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Dammit! No time to hesitate!\nWe have to get Hamahama to Colony 4,\nand fast!"
+      "<DBAF43F0>": "...Dammit! No time to hesitate! We have\nto get Hamahama to Colony 4, and fast!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Captain Olesha will know what to do!\nShe's our only hope!"
+      "<DBAF43F0>": "Captain Olesha will know what\nto do! She's our only hope!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then we'll go with you.\nIt's a long way from here to Colony 4."
+      "<DBAF43F0>": "Then we'll go with you. It's a\nlong way from here to Colony 4."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, if it's just you two,\nyou might get into trouble again."
+      "<DBAF43F0>": "Yeah, if it's just you two, you\nmight get into trouble again."
     },
     {
       "$id": 13,

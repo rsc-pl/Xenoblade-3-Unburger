@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That was a close call.\nAre you hurt?"
+      "<DBAF43F0>": "That was a close\ncall. Are you hurt?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmph, meddling...\nI could have handled that myself."
+      "<DBAF43F0>": "Hmph, meddling... I could\nhave handled that myself."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What a greeting...\nIs that how you treat someone from your hometown?"
+      "<DBAF43F0>": "What a greeting... Is that how you\ntreat someone from your hometown?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh...\nSo you're from the City too."
+      "<DBAF43F0>": "Oh... So you're from the City too."
     },
     {
       "$id": 5,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Everything is for the sake of saving the City.\nI will use whatever I can."
+      "<DBAF43F0>": "Everything is for the sake of saving\nthe City. I will use whatever I can."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Cummings is now under the protection of Colony 9."
+      "<DBAF43F0>": "Cummings is now under the\nprotection of Colony 9."
     }
   ]
 }

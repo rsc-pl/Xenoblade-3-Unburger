@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My big brother says if any baddies show up,\nyou'll smack them really hard on the bottom!"
+      "<DBAF43F0>": "My big brother told me! If\nbad people come, big brother\nMatthew will beat them up!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, that's right! Them bad guys\nneed to be taught a lesson!"
+      "<DBAF43F0>": "Yeah, leave it to me.\nI'll send them packing."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He also said Rex and Shulk are\nsome super strong old geezers!"
+      "<DBAF43F0>": "Also, he said that Uncle Shulk\nand Uncle Rex are super strong!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey now, I know I'm getting on,\nbut that's a bit much..."
+      "<DBAF43F0>": "U-uncle..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are we really at that ripe old age?"
+      "<DBAF43F0>": "Uncle... huh."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Face it, you two. The march\nof time cannot be cheated."
+      "<DBAF43F0>": "...You two need to accept reality."
     }
   ]
 }

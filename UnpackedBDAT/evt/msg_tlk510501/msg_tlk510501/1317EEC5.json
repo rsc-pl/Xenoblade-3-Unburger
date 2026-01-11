@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What is it? You don't feel comfortable here?"
+      "<DBAF43F0>": "What is it? You don't\nfeel comfortable here?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've only just arrived in the City.\nIt'll take some time."
+      "<DBAF43F0>": "You've only just arrived in the\nCity. It'll take some time."
     },
     {
       "$id": 4,

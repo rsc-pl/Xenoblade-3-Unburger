@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What a terrible thing to happen, mo..."
+      "<DBAF43F0>": "What a terrible thing\nto happen, mo..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The terrain has changed so much due to\nOrigin's attack, so the map has to be\nredrawn from scratch, mo..."
+      "<DBAF43F0>": "The terrain has changed so much due\nto Origin's attack, so the map has\nto be redrawn from scratch, mo..."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But I'm fired up now, mo!\nI'm definitely going to complete it, mo!"
+      "<DBAF43F0>": "But I'm fired up now, mo! I'm\ndefinitely going to complete it, mo!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That said, it seems it'll be a while yet\nbefore I can show the map to Tartar, mo."
+      "<DBAF43F0>": "That said, it seems it'll be\na while yet before I can show\nthe map to Tartar, mo."
     }
   ]
 }

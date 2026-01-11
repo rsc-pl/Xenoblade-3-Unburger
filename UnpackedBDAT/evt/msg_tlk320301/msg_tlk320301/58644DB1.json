@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Although it's deserted now,\nthis is one of Agnus's key locations."
+      "<DBAF43F0>": "Although it's deserted now, this\nis one of Agnus's key locations."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A place to ambush Keves Castle\nor its colonies when they attack[ML:line ]..."
+      "<DBAF43F0>": "A place to ambush Keves Castle or its\ncolonies when they attack[ML:line ]..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A delaying action, I see.\nIn this great forest, it's a logical strategy."
+      "<DBAF43F0>": "A delaying action, I see. In this great\nforest, it's a logical strategy."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However... that's a story from the past.\nSuch a conflict hasn't occurred for some time."
+      "<DBAF43F0>": "However... that's a story from\nthe past. Such a conflict hasn't\noccurred for some time."
     }
   ]
 }

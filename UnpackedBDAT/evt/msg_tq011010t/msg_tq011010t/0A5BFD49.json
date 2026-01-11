@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The cooking contest is about to begin.\nAre you ready?"
+      "<DBAF43F0>": "The cooking contest is about\nto begin. Are you ready?"
     },
     {
       "$id": 2,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, is that so?\nWell, we can wait a little longer then."
+      "<DBAF43F0>": "Oh, is that so? Well, we can\nwait a little longer then."
     }
   ]
 }

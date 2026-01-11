@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The commander told us what we need to do next.\nWe have to do what must be done!"
+      "<DBAF43F0>": "The commander told us what we need to do\nnext. We have to do what must be done!"
     },
     {
       "$id": 3,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For Colony Lambda,\nthere is no greater strength."
+      "<DBAF43F0>": "For Colony Lambda, there\nis no greater strength."
     }
   ]
 }

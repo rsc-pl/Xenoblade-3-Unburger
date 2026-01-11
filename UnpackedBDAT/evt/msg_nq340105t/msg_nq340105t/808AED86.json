@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're about to depart, are you ready?"
+      "<DBAF43F0>": "We're about to depart,\nare you ready?"
     },
     {
       "$id": 2,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Cannot be used while the City is under attack.\nPlease complete Sena's Side Story.\n※Skip travel to the City is still possible."
+      "<DBAF43F0>": "Cannot be used while the City is under\nattack. Please complete Sena's Side Story.\n※Skip travel to the City is still possible."
     }
   ]
 }

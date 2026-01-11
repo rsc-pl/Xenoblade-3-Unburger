@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you for helping collect the stones, mo."
+      "<DBAF43F0>": "Thank you for helping\ncollect the stones, mo."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This time, we maintained the status quo, but\nthat too is the fruit of your efforts, mo."
+      "<DBAF43F0>": "This time, we maintained the\nstatus quo, but that too is the\nfruit of your efforts, mo."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If left alone,\nit is normal for things to get worse, mo."
+      "<DBAF43F0>": "If left alone, it is normal\nfor things to get worse, mo."
     }
   ]
 }

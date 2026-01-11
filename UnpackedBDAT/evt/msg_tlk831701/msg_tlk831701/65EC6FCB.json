@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "(Sigh)..."
+      "<DBAF43F0>": "Hah..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's wrong, gloomyguts?"
+      "<DBAF43F0>": "What's wrong? You seem down."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I went outside of the colony, only to get \nchased around by monsters. Thought I was\ncamouflaged quite well, too..."
+      "<DBAF43F0>": "...I went outside the colony, and a\nmonster found me and chased me around...\n...even though I was properly hidden."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Some enemies detect their prey through\nmeans other than just by sight. I presume\nthat's where your plan fell apart."
+      "<DBAF43F0>": "Some enemies can sense you not\njust by sight, but by your\npresence. That was probably it."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Guh... I didn't know.\nCareless of me..."
+      "<DBAF43F0>": "Ugh... I see. I was careless..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, you came out unscathed this time,\nbut take care from now on, arright?"
+      "<DBAF43F0>": "You got away safely this time, but\nbe careful from now on, alright?"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Camilla,\nplease use these supplies for Colony 9."
+      "<DBAF43F0>": "Camilla, please use these\nsupplies for Colony 9."
     },
     {
       "$id": 2,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We just had a small disagreement with Eastman."
+      "<DBAF43F0>": "We just had a small\ndisagreement with Eastman."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, that person...\nI don't think he's a bad person, though."
+      "<DBAF43F0>": "Ah, that person... I don't think\nhe's a bad person, though."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Um...\nAnyway, thank you very much!"
+      "<DBAF43F0>": "Um... Anyway, thank you very much!"
     }
   ]
 }

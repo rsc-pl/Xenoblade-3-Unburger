@@ -58,7 +58,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are no particularly eye-catching supplies...\nIt seems to be in line with the fake rank."
+      "<DBAF43F0>": "There are no particularly\neye-catching supplies... It seems\nto be in line with the fake rank."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By the way,\nare you in charge of managing the supplies?"
+      "<DBAF43F0>": "By the way, are you in charge\nof managing the supplies?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, it's probably the Consul~\nNico just looks at the inventory."
+      "<DBAF43F0>": "No, it's probably the Consul~ Nico\njust looks at the inventory."
     },
     {
       "$id": 6,

@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're trying to prevent that from happening."
+      "<DBAF43F0>": "We're trying to prevent\nthat from happening."
     },
     {
       "$id": 3,
@@ -78,7 +78,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll believe your words\nand cheer you on loudly from here, mo!!"
+      "<DBAF43F0>": "I'll believe your words and cheer\nyou on loudly from here, mo!!"
     }
   ]
 }

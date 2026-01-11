@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...If you have spare High Ether,\nI will buy it, mo."
+      "<DBAF43F0>": "...If you have spare High\nEther, I will buy it, mo."
     },
     {
       "$id": 2,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Purchase confirmed, mo.\nIf you have more to spare, I will buy it, mo."
+      "<DBAF43F0>": "...Purchase confirmed, mo. If you have\nmore to spare, I will buy it, mo."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You do not have that many, mo.\nCount them properly, mo."
+      "<DBAF43F0>": "...You do not have that many,\nmo. Count them properly, mo."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...If you have more to spare, let me know, mo."
+      "<DBAF43F0>": "...If you have more to\nspare, let me know, mo."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We have [ML:flagParam bdatNum=7 ] on hand..."
+      "<DBAF43F0>": "We have [ML:flagParam\nbdatNum=7 ] on hand..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Or did you want to modify the cylinder, mo?"
+      "<DBAF43F0>": "...Or did you want to\nmodify the cylinder, mo?"
     },
     {
       "$id": 13,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Show me the HD Ether Cylinder+, mo."
+      "<DBAF43F0>": "...Show me the HD\nEther Cylinder+, mo."
     },
     {
       "$id": 17,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...HD Ether Cylinder+\nVer. 3.0, mo."
+      "<DBAF43F0>": "...HD Ether Cylinder+ Ver. 3.0, mo."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...HD Ether Cylinder+\nVer. 4.0, mo."
+      "<DBAF43F0>": "...HD Ether Cylinder+ Ver. 4.0, mo."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...HD Ether Cylinder+\nVer. 5.0, mo."
+      "<DBAF43F0>": "...HD Ether Cylinder+ Ver. 5.0, mo."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...The work is perfect, mo.\nIt cannot be modified any further, mo."
+      "<DBAF43F0>": "...The work is perfect, mo. It\ncannot be modified any further, mo."
     },
     {
       "$id": 22,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...The required materials are\nmechanical parts found in the Pentelas\nand Keves Castle regions..."
+      "<DBAF43F0>": "...The required materials are\nmechanical parts found in the\nPentelas and Keves Castle regions..."
     },
     {
       "$id": 24,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...The required materials are\nmechanical parts obtained from defeating\nLevnisters, mo."
+      "<DBAF43F0>": "...The required materials are\nmechanical parts obtained from\ndefeating Levnisters, mo."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "The HD Ether Cylinder+ has been upgraded.\nThe amount of High Ether you can collect has increased."
+      "<DBAF43F0>": "The HD Ether Cylinder+ has been\nupgraded. The amount of High Ether\nyou can collect has increased."
     }
   ]
 }

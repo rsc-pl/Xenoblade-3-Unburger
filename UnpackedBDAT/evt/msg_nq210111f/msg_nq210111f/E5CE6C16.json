@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, it's you.\nI've heard the situation."
+      "<DBAF43F0>": "Ah, it's you. I've\nheard the situation."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course.\nMy apologies for the trouble."
+      "<DBAF43F0>": "Of course. My apologies\nfor the trouble."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What a pain this all is.\nIt takes way too long\nto get anything done."
+      "<DBAF43F0>": "What a pain this all is. It takes\nway too long to get anything done."
     },
     {
       "$id": 5,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The request has now been fully approved.\nPlease let Sifuu know."
+      "<DBAF43F0>": "The request has now been fully\napproved. Please let Sifuu know."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you.\nWe'll head back at once."
+      "<DBAF43F0>": "Thank you. We'll head back at once."
     }
   ]
 }

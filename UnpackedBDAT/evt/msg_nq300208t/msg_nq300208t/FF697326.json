@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This plank looks like it's one of them."
+      "<DBAF43F0>": "This plank looks like\nit's one of them."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's the same writing……\nWe have to take this one too."
+      "<DBAF43F0>": "It's the same writing…… We\nhave to take this one too."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's something written on this plank……"
+      "<DBAF43F0>": "There's something\nwritten on this plank……"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Look, there are letters written on this!"
+      "<DBAF43F0>": "Look, there are letters\nwritten on this!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "……There is writing on it.\nThis must be one of the wood pieces."
+      "<DBAF43F0>": "……There is writing on it. This\nmust be one of the wood pieces."
     }
   ]
 }

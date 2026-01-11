@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well now, I would like to offer you my thanks."
+      "<DBAF43F0>": "Well now, I would like\nto offer you my thanks."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We didn't lend a hand\nexpecting something in return."
+      "<DBAF43F0>": "We didn't lend a hand expecting\nsomething in return."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, that's right.\nWe're not expecting anything like that."
+      "<DBAF43F0>": "Yeah, that's right. We're not\nexpecting anything like that."
     },
     {
       "$id": 4,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have just received a report that\nthey do not know why they will not move."
+      "<DBAF43F0>": "I have just received a report that they\ndo not know why they will not move."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Having seen that collapse,\nI want to be more prepared than ever."
+      "<DBAF43F0>": "Having seen that collapse, I want\nto be more prepared than ever."
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we cannot even bring them back here,\nwe cannot use them."
+      "<DBAF43F0>": "If we cannot even bring them\nback here, we cannot use them."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I do not intend to rely on you\nfor every little thing."
+      "<DBAF43F0>": "I do not intend to rely on\nyou for every little thing."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You have already helped us with the collapse,\nfor which I cannot thank you enough."
+      "<DBAF43F0>": "You have already helped us\nwith the collapse, for which\nI cannot thank you enough."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Excuse me, Commander.\nA report on the matter of the autonomous Levnises..."
+      "<DBAF43F0>": "Excuse me, Commander. A report on the\nmatter of the autonomous Levnises..."
     },
     {
       "$id": 14,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They would like you to take a look, sir.\nThey want you to judge whether they can be used."
+      "<DBAF43F0>": "They would like you to take a\nlook, sir. They want you to\njudge whether they can be used."
     },
     {
       "$id": 18,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And so it is.\nI apologize for having you come, but\nI must go."
+      "<DBAF43F0>": "And so it is. I apologize for\nhaving you come, but I must go."
     },
     {
       "$id": 20,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, why not?\nWe're already in this deep, as they say."
+      "<DBAF43F0>": "Well, why not? We're already\nin this deep, as they say."
     },
     {
       "$id": 23,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood.\nPlease follow me."
+      "<DBAF43F0>": "Understood. Please follow me."
     }
   ]
 }

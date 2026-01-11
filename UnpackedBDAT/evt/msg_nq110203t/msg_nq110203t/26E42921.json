@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, you're here.\nYou want to know about the monster, right?"
+      "<DBAF43F0>": "Hey, you're here. You want to\nknow about the monster, right?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The opponent is the boss of the Arachnos.\nAnd to make things worse, it's accompanied by its underlings."
+      "<DBAF43F0>": "The opponent is the boss of the\nArachnos. And to make things worse,\nit's accompanied by its underlings."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you want to take it down for sure,\nyou should wait in ambush near Raptor Perch."
+      "<DBAF43F0>": "If you want to take it down\nfor sure, you should wait in\nambush near Raptor Perch."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see.\nWhere is this Raptor Perch?"
+      "<DBAF43F0>": "I see. Where is this Raptor Perch?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's in the Dannagh Desert, east of here...\naround the center."
+      "<DBAF43F0>": "It's in the Dannagh Desert, east\nof here... around the center."
     },
     {
       "$id": 7,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm not saying this out of obligation, but\nI'm entrusting everyone's feelings to you!"
+      "<DBAF43F0>": "I'm not saying this out of\nobligation, but I'm entrusting\neveryone's feelings to you!"
     }
   ]
 }

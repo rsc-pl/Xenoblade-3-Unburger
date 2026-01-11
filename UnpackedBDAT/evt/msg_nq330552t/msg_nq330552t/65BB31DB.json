@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How did it go?\nDid you beat the enemy?!"
+      "<DBAF43F0>": "How did it go? Did\nyou beat the enemy?!"
     },
     {
       "$id": 2,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If there's a giant clam, it's probably\non Needle Reef Beach or around\nKrezen Beach."
+      "<DBAF43F0>": "If there's a giant clam, it's\nprobably on Needle Reef Beach\nor around Krezen Beach."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a really big clam, so\nI think you'll know it when you see it!"
+      "<DBAF43F0>": "It's a really big clam, so I think\nyou'll know it when you see it!"
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "While we were waiting, I somehow ended up\ngetting along with the Captain."
+      "<DBAF43F0>": "While we were waiting, I somehow ended\nup getting along with the Captain."
     }
   ]
 }

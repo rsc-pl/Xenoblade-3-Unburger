@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're fine here.\nNo. 10 and No. 8 are on a mission,\nbut they'll be back soon."
+      "<DBAF43F0>": "We're fine here. No. 10 and No. 8 are on\na mission, but they'll be back soon."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I will correct my statement.\nAre there any abnormalities in \"No. 4's condition\"?"
+      "<DBAF43F0>": "I will correct my statement. Are there any\nabnormalities in \"No. 4's condition\"?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A-Ah...\nI'm fine. No. 4 can still fight."
+      "<DBAF43F0>": "A-Ah... I'm fine. No.\n4 can still fight."
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 7 is not at fault.\nIf anyone is to blame, it's the combat-ineffective No. 4."
+      "<DBAF43F0>": "No. 7 is not at fault. If anyone is to\nblame, it's the combat-ineffective No. 4."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If I don't use the Iron Trooper's \"limiter,\"\nNo. 4 can't fight properly—"
+      "<DBAF43F0>": "If I don't use the Iron Trooper's\n\"limiter,\" No. 4 can't fight properly—"
     }
   ]
 }

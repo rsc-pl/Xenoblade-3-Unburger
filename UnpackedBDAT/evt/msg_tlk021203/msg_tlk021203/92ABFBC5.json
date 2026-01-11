@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The food problem is on its way to being solved,\nand the colony's situation is improving."
+      "<DBAF43F0>": "The food problem is on its way\nto being solved, and the colony's\nsituation is improving."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's all thanks to everyone lending a hand.\nI'm truly grateful..."
+      "<DBAF43F0>": "It's all thanks to everyone lending\na hand. I'm truly grateful..."
     },
     {
       "$id": 3,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I get it... but,\ncouldn't you have said that a little nicer?!"
+      "<DBAF43F0>": "I get it... but, couldn't you\nhave said that a little nicer?!"
     }
   ]
 }

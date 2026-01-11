@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Amagi's injury has completely healed."
+      "<DBAF43F0>": "Amagi's injury has\ncompletely healed."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It would be good if he didn't push himself."
+      "<DBAF43F0>": "It would be good if he\ndidn't push himself."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think he'll be fine for a while...\nWe've also defeated the monsters the Consul released."
+      "<DBAF43F0>": "I think he'll be fine for a\nwhile... We've also defeated the\nmonsters the Consul released."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But he's the type to act\neven at the expense of himself..."
+      "<DBAF43F0>": "But he's the type to act even\nat the expense of himself..."
     }
   ]
 }

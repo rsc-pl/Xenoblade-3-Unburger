@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry about what happened with Torton."
+      "<DBAF43F0>": "Sorry about what\nhappened with Torton."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've also been thinking we'd like to\nrepay the City's kindness."
+      "<DBAF43F0>": "We've also been thinking we'd like\nto repay the City's kindness."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But, it's not going well...\nThere are still people who don't think kindly of us..."
+      "<DBAF43F0>": "But, it's not going well...\nThere are still people who\ndon't think kindly of us..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They didn't accept us right away either.\nSo I don't think there's any need to rush, is there?"
+      "<DBAF43F0>": "They didn't accept us right away\neither. So I don't think there's\nany need to rush, is there?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're right...\nI'll try to think about what we can do for sure."
+      "<DBAF43F0>": "You're right... I'll try to think\nabout what we can do for sure."
     }
   ]
 }

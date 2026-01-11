@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No... I'm sure it'll be fine.\nHer Majesty the Queen is a great and generous person..."
+      "<DBAF43F0>": "No... I'm sure it'll be fine.\nHer Majesty the Queen is a\ngreat and generous person..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Aren't you overthinking it?\nIf we leave it to Ethel, there'll be no problem."
+      "<DBAF43F0>": "Aren't you overthinking it? If we leave\nit to Ethel, there'll be no problem."
     }
   ]
 }

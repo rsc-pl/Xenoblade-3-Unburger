@@ -48,7 +48,7 @@
       "<2B51649C>": 8405121,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Why?\nThey're so cute, though..."
+      "<DBAF43F0>": "Why? They're so cute, though..."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 553664641,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ugh... Well, those are scary, but..."
+      "<DBAF43F0>": "Ugh... Well, those\nare scary, but..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There was a time when a swarm\nof those Bunnits pushed in on\nthe Colony all the way from the Yzana Plains."
+      "<DBAF43F0>": "There was a time when a swarm of those\nBunnits pushed in on the Colony all\nthe way from the Yzana Plains."
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Didn't the whole thing start because Fox\nor someone messed with\nthe leader of the pack?"
+      "<DBAF43F0>": "Didn't the whole thing start\nbecause Fox or someone messed\nwith the leader of the pack?"
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Bunnits have a tendency to act in groups.\nFurthermore, the weapon-wielding types\nare aggressive."
+      "<DBAF43F0>": "Bunnits have a tendency to act in\ngroups. Furthermore, the weapon-wielding\ntypes are aggressive."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "More than a hundred of 'em attacked us, you\nknow?I even tried eating one and the mea\nwas disgusting. It was a complete disaster..."
+      "<DBAF43F0>": "More than a hundred of 'em attacked us, you\nknow?I even tried eating one and the mea was\ndisgusting. It was a complete disaster..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When fighting Bunnits,\nit would be best to be\nmindful of their numbers..."
+      "<DBAF43F0>": "When fighting Bunnits, it would be best\nto be mindful of their numbers..."
     }
   ]
 }

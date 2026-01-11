@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The atmosphere in the Castle has changed.\nThat's what I feel."
+      "<DBAF43F0>": "The atmosphere in the Castle has\nchanged. That's what I feel."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Everyone is starting to look forward, little by little.\nAccepting reality."
+      "<DBAF43F0>": "Everyone is starting to look forward,\nlittle by little. Accepting reality."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wonder.\nI still don't know for sure."
+      "<DBAF43F0>": "I wonder. I still\ndon't know for sure."
     }
   ]
 }

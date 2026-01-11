@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Because of his impatience,\nwe all ended up in a terrible situation."
+      "<DBAF43F0>": "Because of his impatience, we all\nended up in a terrible situation."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He should just cool his head in a cell[ML:line ]..."
+      "<DBAF43F0>": "He should just cool his head\nin a cell[ML:line ]..."
     }
   ]
 }

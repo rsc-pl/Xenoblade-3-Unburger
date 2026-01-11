@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Alright, desu mo!\nWe've successfully procured the bodily fluids, desu mo."
+      "<DBAF43F0>": "...Alright, desu mo! We've successfully\nprocured the bodily fluids, desu mo."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This Plambus only eats flower nectar, desu mo.\nThat's why its bodily fluids are so sweet and rich, desu mo."
+      "<DBAF43F0>": "This Plambus only eats flower nectar,\ndesu mo. That's why its bodily fluids\nare so sweet and rich, desu mo."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I-Is that so!\nBut still, bug fluids are a bit much...\nI mean, it's a bug..."
+      "<DBAF43F0>": "I-Is that so! But still, bug fluids are\na bit much... I mean, it's a bug..."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then,\nlet's head back to the campsite."
+      "<DBAF43F0>": "Well then, let's head\nback to the campsite."
     }
   ]
 }

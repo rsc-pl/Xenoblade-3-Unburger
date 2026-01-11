@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is amazing.\nIt's like a mountain of treasure."
+      "<DBAF43F0>": "This is amazing. It's like\na mountain of treasure."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A mountain of treasure, huh...\nThen I suppose those creatures are the guardians protecting it?"
+      "<DBAF43F0>": "A mountain of treasure, huh...\nThen I suppose those creatures\nare the guardians protecting it?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I-I'm sorry.\nI had no idea it had become\na monster's den..."
+      "<DBAF43F0>": "I-I'm sorry. I had no idea it\nhad become a monster's den..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You two stay back.\nWe'll take care of them!"
+      "<DBAF43F0>": "You two stay back. We'll\ntake care of them!"
     }
   ]
 }

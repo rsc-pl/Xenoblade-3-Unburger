@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A book~?\nStuff like that isn't interesting at all."
+      "<DBAF43F0>": "A book~? Stuff like that\nisn't interesting at all."
     },
     {
       "$id": 4,
@@ -88,7 +88,7 @@
       "<2B51649C>": 10502274,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, I don't know the details myself.\nAre you interested, Mio?"
+      "<DBAF43F0>": "Well, I don't know the details\nmyself. Are you interested, Mio?"
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 10502274,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then why not try reading one?\nA \"novel.\""
+      "<DBAF43F0>": "Then why not try reading\none? A \"novel.\""
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 12599425,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're right.\nI'll try buying one in the City next time."
+      "<DBAF43F0>": "You're right. I'll try buying\none in the City next time."
     }
   ]
 }

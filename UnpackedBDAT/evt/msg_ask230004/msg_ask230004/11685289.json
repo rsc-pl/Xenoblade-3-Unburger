@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I agree. It's super useful, that thing."
+      "<DBAF43F0>": "I agree. It's super\nuseful, that thing."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't just start praising\nme out of nowhere... It's unsettling."
+      "<DBAF43F0>": "Don't just start praising me out\nof nowhere... It's unsettling."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you use a lot of your Mondo,\ncouldn't they carry anything,\neven heavy objects?"
+      "<DBAF43F0>": "If you use a lot of your\nMondo, couldn't they carry\nanything, even heavy objects?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And since they're so small,\nyou could use them for recon\nwithout the enemy ever noticing."
+      "<DBAF43F0>": "And since they're so small, you\ncould use them for recon without\nthe enemy ever noticing."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The possibilities are endless!~\nWith Mondo, I'm sure you can do anything!"
+      "<DBAF43F0>": "The possibilities are endless!~ With\nMondo, I'm sure you can do anything!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's going a bit too far.\nThere's a limit to the number of Mondo\nI can control, and to their range."
+      "<DBAF43F0>": "That's going a bit too far. There's\na limit to the number of Mondo I\ncan control, and to their range."
     },
     {
       "$id": 8,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1080,
       "<554EE944>": 126,
-      "<DBAF43F0>": "W-Well, it's not that I can't do it!\nIf I get serious, nothing is impossible\nfor my Mondo!"
+      "<DBAF43F0>": "W-Well, it's not that I can't\ndo it! If I get serious, nothing\nis impossible for my Mondo!"
     },
     {
       "$id": 13,
@@ -208,7 +208,7 @@
       "<2B51649C>": 283132033,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Taion, there's no backing out now..."
+      "<DBAF43F0>": "Taion, there's no\nbacking out now..."
     }
   ]
 }

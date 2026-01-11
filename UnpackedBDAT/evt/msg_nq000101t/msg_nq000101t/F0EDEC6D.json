@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'd like to ask you something for a moment."
+      "<DBAF43F0>": "We'd like to ask you\nsomething for a moment."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've come to collect a stone\non behalf of a Nopon named Shillshill."
+      "<DBAF43F0>": "We've come to collect a stone on\nbehalf of a Nopon named Shillshill."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahh, yes, yes, I see, desu mo.\nSo it is that time again, desu mo."
+      "<DBAF43F0>": "Ahh, yes, yes, I see, desu mo. So\nit is that time again, desu mo."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A red one...\nThank you. That's a great help."
+      "<DBAF43F0>": "A red one... Thank you.\nThat's a great help."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not at all, desu mo.\nI believe this level of social interaction\nis just right, desu mo."
+      "<DBAF43F0>": "Not at all, desu mo. I believe\nthis level of social interaction\nis just right, desu mo."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wonder how a cheerful Nopon like Ukauka\nwould respond to this, desu mo."
+      "<DBAF43F0>": "I wonder how a cheerful Nopon like\nUkauka would respond to this, desu mo."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then, Mamimaa will be taking her leave, desu mo."
+      "<DBAF43F0>": "Well then, Mamimaa will be\ntaking her leave, desu mo."
     }
   ]
 }

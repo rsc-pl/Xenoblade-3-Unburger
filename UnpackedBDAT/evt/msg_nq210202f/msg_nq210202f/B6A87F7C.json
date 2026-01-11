@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You all...... What are you doing here?"
+      "<DBAF43F0>": "You all...... What\nare you doing here?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's our line.\nI hear you just took off without warning."
+      "<DBAF43F0>": "That's our line. I hear you\njust took off without warning."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Moraine was worried and followed you this far."
+      "<DBAF43F0>": "Moraine was worried and\nfollowed you this far."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Moraine?! ......I see.\nI should have told her not to come."
+      "<DBAF43F0>": "Moraine?! ......I see. I should\nhave told her not to come."
     },
     {
       "$id": 6,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, but...\nyou didn't have to go without\nsaying a word to anyone, did you?"
+      "<DBAF43F0>": "Yeah, but... you didn't have to go without\nsaying a word to anyone, did you?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Even if I told someone,\nthey wouldn't have given me permission, would they?"
+      "<DBAF43F0>": "Even if I told someone, they wouldn't\nhave given me permission, would they?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's why I decided to\naim for the Castle, even on my own."
+      "<DBAF43F0>": "That's why I decided to aim for\nthe Castle, even on my own."
     },
     {
       "$id": 12,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I thought if I was going to die in a situation like this,\nat least I'd be alone...... but I feel bad\nfor what I've done to Moraine."
+      "<DBAF43F0>": "I thought if I was going to die in a situation\nlike this, at least I'd be alone...... but I\nfeel bad for what I've done to Moraine."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's not too late if you go back now.\nAt least to talk......"
+      "<DBAF43F0>": "It's not too late if you go back\nnow. At least to talk......"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes... you're right.\nBesides, I don't think I can\ngo any further on my own."
+      "<DBAF43F0>": "Yes... you're right. Besides, I don't\nthink I can go any further on my own."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "......I have to apologize to Moraine."
+      "<DBAF43F0>": "......I have to\napologize to Moraine."
     }
   ]
 }

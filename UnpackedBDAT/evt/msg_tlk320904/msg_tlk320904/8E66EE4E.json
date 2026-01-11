@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah... you got the elevator\nworking again."
+      "<DBAF43F0>": "Ah... you got the\nelevator working again."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're very skilled.\nTo be able to get all the way down there."
+      "<DBAF43F0>": "You're very skilled. To be able\nto get all the way down there."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well... I doubt anyone\nfrom here will use it, though..."
+      "<DBAF43F0>": "Well... I doubt anyone from\nhere will use it, though..."
     }
   ]
 }

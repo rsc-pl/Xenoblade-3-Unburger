@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's this paper?\n……Sheet music?"
+      "<DBAF43F0>": "What's this paper? ……Sheet music?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What a strange piece of paper.\nIs it a doodle?"
+      "<DBAF43F0>": "What a strange piece of\npaper. Is it a doodle?"
     },
     {
       "$id": 4,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This…… I think it's called 'gakufu'?"
+      "<DBAF43F0>": "This…… I think it's\ncalled 'gakufu'?"
     }
   ]
 }

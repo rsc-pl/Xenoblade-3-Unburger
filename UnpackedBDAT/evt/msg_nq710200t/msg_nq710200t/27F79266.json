@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They said we could use the kitchen as we liked, but..."
+      "<DBAF43F0>": "They said we could use the\nkitchen as we liked, but..."
     },
     {
       "$id": 2,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, I used to.\nLately, I haven't really felt like\ncooking on my own initiative..."
+      "<DBAF43F0>": "Well, I used to. Lately, I\nhaven't really felt like\ncooking on my own initiative..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see.\nSo, what are you going to make?"
+      "<DBAF43F0>": "I see. So, what are\nyou going to make?"
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I could probably make a Live Fish Colony Pazza\nwith the ingredients around here..."
+      "<DBAF43F0>": "I could probably make a Live\nFish Colony Pazza with the\ningredients around here..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you have time, gather the ingredients for me.\nI'll try to make it from memory."
+      "<DBAF43F0>": "If you have time, gather the\ningredients for me. I'll try\nto make it from memory."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If it turns out well,\nwe might be able to add it to our camping repertoire."
+      "<DBAF43F0>": "If it turns out well, we might be able\nto add it to our camping repertoire."
     }
   ]
 }

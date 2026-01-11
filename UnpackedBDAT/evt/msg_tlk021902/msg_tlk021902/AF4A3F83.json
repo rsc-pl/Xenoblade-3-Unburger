@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "With a facility of this scale,\nit is possible to fully maintain the Iron Giants."
+      "<DBAF43F0>": "With a facility of this scale, it is\npossible to fully maintain the Iron Giants."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Iron Giant Unit 7 is in perfect condition.\nWhen it is needed for combat, please issue the order to deploy."
+      "<DBAF43F0>": "Iron Giant Unit 7 is in perfect\ncondition. When it is needed for\ncombat, please issue the order to deploy."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...If possible, Nagiri would also like to\ncontribute to Ouroboros's efforts."
+      "<DBAF43F0>": "...If possible, Nagiri would also like\nto contribute to Ouroboros's efforts."
     }
   ]
 }

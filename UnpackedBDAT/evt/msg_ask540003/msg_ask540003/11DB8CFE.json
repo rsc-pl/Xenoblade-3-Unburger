@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What kind of dishes can you use it in?"
+      "<DBAF43F0>": "What kind of dishes\ncan you use it in?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "First, you make it into a dough, desu mo."
+      "<DBAF43F0>": "First, you make it into\na dough, desu mo."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You start by taking dried Folta\nand grinding it into a powder, mo."
+      "<DBAF43F0>": "You start by taking dried Folta and\ngrinding it into a powder, mo."
     },
     {
       "$id": 6,
@@ -128,7 +128,7 @@
       "<2B51649C>": 32897,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Since we have the chance,\nlet's try making it together sometime, mo."
+      "<DBAF43F0>": "Since we have the chance, let's try\nmaking it together sometime, mo."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If the powerful Sena-san does the kneading,\nI'm sure it'll turn into a fine dough, mo!"
+      "<DBAF43F0>": "If the powerful Sena-san does\nthe kneading, I'm sure it'll\nturn into a fine dough, mo!"
     },
     {
       "$id": 12,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you do that, it won't be dough,\nit'll be Omochi, mo."
+      "<DBAF43F0>": "If you do that, it won't be\ndough, it'll be Omochi, mo."
     }
   ]
 }

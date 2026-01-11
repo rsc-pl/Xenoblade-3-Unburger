@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm? There are blue, red, and yellow ones."
+      "<DBAF43F0>": "Hmm? There are blue,\nred, and yellow ones."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did that Nopon not say\nthat any color would be fine?"
+      "<DBAF43F0>": "Did that Nopon not say that\nany color would be fine?"
     },
     {
       "$id": 3,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The yellow one should be fine, right?"
+      "<DBAF43F0>": "The yellow one should\nbe fine, right?"
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I cannot decide, so let's\njust collect all of them for now."
+      "<DBAF43F0>": "I cannot decide, so let's just\ncollect all of them for now."
     },
     {
       "$id": 12,

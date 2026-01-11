@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You look serious. Something on your mind?"
+      "<DBAF43F0>": "You look serious.\nSomething on your mind?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was just thinking about how to unite\nthe colony with some of the soldiers who\nstill haven't been able to accept you all."
+      "<DBAF43F0>": "I was just thinking about how to unite the\ncolony with some of the soldiers who still\nhaven't been able to accept you all."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They're just on edge because of the supply shortage,\nand taking it out on someone...\nI'm sure that's all it is, but..."
+      "<DBAF43F0>": "They're just on edge because of the supply\nshortage, and taking it out on someone...\nI'm sure that's all it is, but..."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's a tough one...\nWell, if there's anything we can do to help,\njust let us know."
+      "<DBAF43F0>": "That's a tough one... Well,\nif there's anything we can do\nto help, just let us know."
     }
   ]
 }

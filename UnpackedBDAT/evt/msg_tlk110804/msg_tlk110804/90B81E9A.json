@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The time Kite spends worrying has decreased."
+      "<DBAF43F0>": "The time Kite spends\nworrying has decreased."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is that so?\nHe must be getting along well with Zeon."
+      "<DBAF43F0>": "Is that so? He must be getting\nalong well with Zeon."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Trish said the same thing.\nKite gets worried about a lot."
+      "<DBAF43F0>": "Trish said the same thing. Kite\ngets worried about a lot."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Kite just takes his time with things."
+      "<DBAF43F0>": "Kite just takes his\ntime with things."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm... Doesn't look like it'll move."
+      "<DBAF43F0>": "Hmm... Doesn't look\nlike it'll move."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It needs to be powered on, mo.\nHowever... without an ether cylinder,\nthe power won't start, mo."
+      "<DBAF43F0>": "It needs to be powered on, mo.\nHowever... without an ether\ncylinder, the power won't start, mo."
     },
     {
       "$id": 3,

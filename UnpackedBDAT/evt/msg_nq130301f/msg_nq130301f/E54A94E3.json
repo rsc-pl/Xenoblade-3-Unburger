@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hm...? What's this?"
+      "<DBAF43F0>": "Hm...? What is this?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Cover your mouth and nose!\nThis is..."
+      "<DBAF43F0>": "Cover your mouth and\nnose! This is..."
     },
     {
       "$id": 4,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Experiment, adventure, great discovery~!"
+      "<DBAF43F0>": "Experiment, adventure,\ngreat discovery~!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's everyone's pal,\nSuzukuro-chan."
+      "<DBAF43F0>": "It is everyone's\npal, Suzukuro-chan."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Suzukuro...?\nThe researcher from Colony Iota?"
+      "<DBAF43F0>": "Suzukuro...? The researcher\nfrom Colony Iota?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You know of me?\nI'm so happy, meep meep."
+      "<DBAF43F0>": "You know of me? I am\nso happy, meep meep."
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I haven't done anything yet."
+      "<DBAF43F0>": "I have not done anything yet."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Liar!\nBringing us to a place like this..."
+      "<DBAF43F0>": "Liar! Bringing us to\na place like this..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meep meep, I'm not lying."
+      "<DBAF43F0>": "Meep meep, I am not lying."
     },
     {
       "$id": 15,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is ridiculous. Let's just go home..."
+      "<DBAF43F0>": "This is ridiculous.\nLet's just go home..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Please don't hang up! Meep meep!"
+      "<DBAF43F0>": "Please do not hang up! Meep meep!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is it alright if you can't send\nsupplies to your friends!?"
+      "<DBAF43F0>": "Is it alright if you cannot send\nsupplies to your friends!?"
     },
     {
       "$id": 19,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Supply distribution authority has been frozen."
+      "<DBAF43F0>": "Supply distribution\nauthority has been frozen."
     },
     {
       "$id": 22,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm not kidding.\nI've just taken custody of your authority..."
+      "<DBAF43F0>": "I am not kidding. I have just taken\ncustody of your authority..."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you come to the Nabam Hills,\nI'll be sure to return it to you..."
+      "<DBAF43F0>": "If you come to the Nabam Hills, I\nwill be sure to return it to you..."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I want you to come see Suz.\nI'll be waiting, meep meep."
+      "<DBAF43F0>": "I want you to come see Suz. I\nwill be waiting, meep meep."
     }
   ]
 }

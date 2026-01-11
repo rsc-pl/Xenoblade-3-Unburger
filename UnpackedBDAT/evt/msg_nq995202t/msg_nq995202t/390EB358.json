@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I want to hear about a person named Shuuri."
+      "<DBAF43F0>": "I want to hear about a\nperson named Shuuri."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's this all of a sudden?\nAnd Shuuri is that one[ML:line ]"
+      "<DBAF43F0>": "What's this all of a sudden? And\nShuuri is that one[ML:line ]"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, it's fine.\nYou must have your reasons."
+      "<DBAF43F0>": "Well, it's fine. You\nmust have your reasons."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shuuri was in this retrieval squad before.\nShe had a high aptitude as a soldier\nand was reputed to be sharp."
+      "<DBAF43F0>": "Shuuri was in this retrieval squad\nbefore. She had a high aptitude as a\nsoldier and was reputed to be sharp."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But one time, she went to retrieve\nan airdropped supply container\nand caused an incident there..."
+      "<DBAF43F0>": "But one time, she went to retrieve\nan airdropped supply container and\ncaused an incident there..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You may have heard, but\nshe blew up that container\nby herself."
+      "<DBAF43F0>": "You may have heard, but she blew\nup that container by herself."
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Because of that, the Consul at the time\nclaimed she was plotting a rebellion\nand threw her in jail."
+      "<DBAF43F0>": "Because of that, the Consul at the\ntime claimed she was plotting a\nrebellion and threw her in jail."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She blew up the retrieved supply container.\nI wonder what she was thinking to do such a thing."
+      "<DBAF43F0>": "She blew up the retrieved supply\ncontainer. I wonder what she was\nthinking to do such a thing."
     }
   ]
 }

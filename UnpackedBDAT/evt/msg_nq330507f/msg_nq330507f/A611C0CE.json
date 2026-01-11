@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's something big\nburied here!"
+      "<DBAF43F0>": "There's something big buried here!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I hope it's the right thing this time..."
+      "<DBAF43F0>": "I hope it's the right\nthing this time..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can only believe.\nLet's dig!"
+      "<DBAF43F0>": "We can only believe. Let's dig!"
     },
     {
       "$id": 4,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm glad, but...\ncarrying it is going to be a pain..."
+      "<DBAF43F0>": "I'm glad, but... carrying it\nis going to be a pain..."
     },
     {
       "$id": 8,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're right...\nLet's return to Colony Mu."
+      "<DBAF43F0>": "You're right... Let's\nreturn to Colony Mu."
     }
   ]
 }

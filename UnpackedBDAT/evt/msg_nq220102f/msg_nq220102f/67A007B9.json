@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now we should be able to perform the sending."
+      "<DBAF43F0>": "Now we should be able to\nperform the sending."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There were many monsters in this area,\nand it was difficult to defeat them,\nso you've been a great help."
+      "<DBAF43F0>": "There were many monsters in this\narea, and it was difficult to defeat\nthem, so you've been a great help."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see... When we came here before..."
+      "<DBAF43F0>": "I see... When we\ncame here before..."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is that so?\nI didn't know you had done that...\nThank you."
+      "<DBAF43F0>": "Is that so? I didn't know you\nhad done that... Thank you."
     }
   ]
 }

@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "M'lady! Please don't wander off without saying anything."
+      "<DBAF43F0>": "M'lady! Please don't wander\noff without saying anything."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "M'lady finds dealing with Shiki troublesome.\nShe doesn't have to push it all onto me..."
+      "<DBAF43F0>": "M'lady finds dealing with Shiki\ntroublesome. She doesn't have\nto push it all onto me..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a great help that you all assisted."
+      "<DBAF43F0>": "It's a great help that\nyou all assisted."
     }
   ]
 }

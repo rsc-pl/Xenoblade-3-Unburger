@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm? Well, it's a sandy beach,\nso it's normal for there to be footprints, right?"
+      "<DBAF43F0>": "Hmm? Well, it's a sandy beach, so it's\nnormal for there to be footprints, right?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, these aren't human footprints.\nThey're probably..."
+      "<DBAF43F0>": "No, these aren't human\nfootprints. They're probably..."
     },
     {
       "$id": 4,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, a Gulkin's feet are webbed,\nbut these footprints are different."
+      "<DBAF43F0>": "No, a Gulkin's feet are webbed, but\nthese footprints are different."
     },
     {
       "$id": 10,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, I think so too.\nThis area is Merigna territory,\nso it's a strong possibility."
+      "<DBAF43F0>": "Yes, I think so too. This\narea is Merigna territory,\nso it's a strong possibility."
     },
     {
       "$id": 14,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Think about it.\nThe luggage is gone, and there are unfamiliar footprints at the scene.\nThat means..."
+      "<DBAF43F0>": "Think about it. The luggage is gone,\nand there are unfamiliar footprints\nat the scene. That means..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...! I get it, ssu mo!\nThe owners of these footprints\nstole our luggage, ssu mo!"
+      "<DBAF43F0>": "...! I get it, ssu mo! The owners of these\nfootprints stole our luggage, ssu mo!"
     },
     {
       "$id": 17,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, let's follow the footprints and find out."
+      "<DBAF43F0>": "Yeah, let's follow the\nfootprints and find out."
     }
   ]
 }

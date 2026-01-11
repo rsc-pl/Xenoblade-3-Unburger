@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gahahaha!\nI've finally met someone from the City!"
+      "<DBAF43F0>": "Gahahaha! I've finally met\nsomeone from the City!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, I heard there's a place around here\nwhere survivors gather.\nYou wouldn't happen to know, would you?"
+      "<DBAF43F0>": "Hey, I heard there's a place around\nhere where survivors gather. You\nwouldn't happen to know, would you?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, it's a place called Colony 9.\nI'll show you the way."
+      "<DBAF43F0>": "Yeah, it's a place called Colony\n9. I'll show you the way."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm Ruben, a metalworker.\nI'm always open to job requests!"
+      "<DBAF43F0>": "I'm Ruben, a metalworker. I'm\nalways open to job requests!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Ruben is now under the protection of Colony 9."
+      "<DBAF43F0>": "Ruben is now under the\nprotection of Colony 9."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Normal operation confirmed... right."
+      "<DBAF43F0>": "Normal operation\nconfirmed... right."
     },
     {
       "$id": 2,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It took a little while,\nbut we'll return to the colony as is."
+      "<DBAF43F0>": "It took a little while, but we\nwill return to the colony as is."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't worry!\nI have an idea for an alternate route."
+      "<DBAF43F0>": "Do not worry! I have an idea\nfor an alternate route."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm thinking of following a route that the\nadvance collection unit has already confirmed as safe."
+      "<DBAF43F0>": "I am thinking of following a route\nthat the advance collection unit\nhas already confirmed as safe."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're so calm..."
+      "<DBAF43F0>": "You are so calm..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Does this kind of thing happen often?"
+      "<DBAF43F0>": "Does this kind of\nthing happen often?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is the first time I've encountered a \"migration.\"\nBut trouble can happen at any time..."
+      "<DBAF43F0>": "This is the first time I have\nencountered a \"migration.\" But\ntrouble can happen at any time..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can't be surprised every single time."
+      "<DBAF43F0>": "You cannot be surprised\nevery single time."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It is precisely because the battlefield doesn't go as planned\nthat one must command with composure..."
+      "<DBAF43F0>": "It is precisely because the battlefield\ndoes not go as planned that one must\ncommand with composure..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We have always watched Captain Mikage's\nexample from behind."
+      "<DBAF43F0>": "We have always watched Captain\nMikage's example from behind."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's why I feel that this time,\nit's our turn to take on that role."
+      "<DBAF43F0>": "That is why I feel that this time, it\nis our turn to take on that role."
     },
     {
       "$id": 15,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In the not-so-distant future, Mikage's unit\nwill come under Kozakura's command..."
+      "<DBAF43F0>": "In the not-so-distant future,\nMikage's unit will come under\nKozakura's command..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hehe... I'm still under\nprobation, though..."
+      "<DBAF43F0>": "Hehe... I am still under\nprobation, though..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll build up my実績 and prove that\nI'm worthy of a full promotion!"
+      "<DBAF43F0>": "I will build up my track record and prove\nthat I am worthy of a full promotion!"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's why for this mission, I took on\nthe food supplies that are more likely to attract enemies."
+      "<DBAF43F0>": "That is why for this mission, I\ntook on the food supplies that are\nmore likely to attract enemies."
     },
     {
       "$id": 20,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's why for this mission, I took on\nthe food supplies that are more likely to attract enemies."
+      "<DBAF43F0>": "That is why for this mission, I\ntook on the food supplies that are\nmore likely to attract enemies."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Though it also seems likely she just\ndidn't want to be outdone by Tobimaru."
+      "<DBAF43F0>": "Though it also seems likely she just did\nnot want to be outdone by Tobimaru."
     },
     {
       "$id": 23,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Kozakura's serious feelings,\nI'm sure they're getting through to Mikage."
+      "<DBAF43F0>": "...Kozakura's serious feelings, I am sure\nthey are getting through to Mikage."
     },
     {
       "$id": 25,

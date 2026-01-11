@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I am a member of the House Ortiz of the Six Houses.\nI have a responsibility to protect everyone in the City."
+      "<DBAF43F0>": "I am a member of the House Ortiz of\nthe Six Houses. I have a responsibility\nto protect everyone in the City."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But, just for a moment...\nI thought I didn't want to protect the people\nwho speak ill of everyone from Colony 15..."
+      "<DBAF43F0>": "But, just for a moment... I thought I\ndidn't want to protect the people who\nspeak ill of everyone from Colony 15..."
     },
     {
       "$id": 3,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're all human, right?\nAm I... am I wrong about something?"
+      "<DBAF43F0>": "We're all human, right? Am I...\nam I wrong about something?"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In a place like this... Was it hidden\nso it wouldn't get damaged?"
+      "<DBAF43F0>": "In a place like this... Was it\nhidden so it wouldn't get damaged?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I will be sure to bring your belongings\nback to the City."
+      "<DBAF43F0>": "...I will be sure to bring your\nbelongings back to the City."
     },
     {
       "$id": 3,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll make sure to deliver this to the people\nwaiting in the City."
+      "<DBAF43F0>": "I'll make sure to deliver this to\nthe people waiting in the City."
     },
     {
       "$id": 9,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I will be sure to deliver these belongings."
+      "<DBAF43F0>": "I will be sure to deliver\nthese belongings."
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll be sure to deliver this to the City..."
+      "<DBAF43F0>": "I'll be sure to deliver\nthis to the City..."
     }
   ]
 }

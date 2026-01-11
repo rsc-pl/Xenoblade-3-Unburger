@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The consultation meetings seem busy..."
+      "<DBAF43F0>": "The consultation\nmeetings seem busy..."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That girl has changed, you know.\nFor better or worse, I was worried about how\neasily she's influenced by others, but..."
+      "<DBAF43F0>": "That girl has changed, you know. For better\nor worse, I was worried about how easily\nshe's influenced by others, but..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems she's overcome that at some point.\nHeh... I can't let myself fall behind."
+      "<DBAF43F0>": "It seems she's overcome that\nat some point. Heh... I can't\nlet myself fall behind."
     }
   ]
 }

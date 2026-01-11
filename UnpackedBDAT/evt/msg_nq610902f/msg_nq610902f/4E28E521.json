@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "A question will be given by Panacea.\nChoose the correct answer from the options."
+      "<DBAF43F0>": "A question will be given by Panacea. Choose\nthe correct answer from the options."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What element is affected by the Dexterity stat?"
+      "<DBAF43F0>": "What element is affected\nby the Dexterity stat?"
     },
     {
       "$id": 4,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Which is the correct condition for a Union Combo to occur?"
+      "<DBAF43F0>": "Which is the correct condition\nfor a Union Combo to occur?"
     },
     {
       "$id": 10,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Using a Special when the enemy's HP is below half"
+      "<DBAF43F0>": "Using a Special when the\nenemy's HP is below half"
     },
     {
       "$id": 13,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "If you attack twice with a 50% critical rate?"
+      "<DBAF43F0>": "If you attack twice with\na 50% critical rate?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "50% chance of at least one critical hit"
+      "<DBAF43F0>": "50% chance of at least\none critical hit"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "75% chance of at least one critical hit"
+      "<DBAF43F0>": "75% chance of at least\none critical hit"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "90% chance of at least one critical hit"
+      "<DBAF43F0>": "90% chance of at least\none critical hit"
     },
     {
       "$id": 19,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Which of the following is not an enemy type?"
+      "<DBAF43F0>": "Which of the following\nis not an enemy type?"
     },
     {
       "$id": 22,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What action can interrupt an enemy's initiative Art?"
+      "<DBAF43F0>": "What action can interrupt\nan enemy's initiative Art?"
     },
     {
       "$id": 28,

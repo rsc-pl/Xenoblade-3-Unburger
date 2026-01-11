@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We are short on Ether Cylinders for the Agnus ship.\nLately, our equipment has been diminishing strangely quickly..."
+      "<DBAF43F0>": "We are short on Ether Cylinders for the\nAgnus ship. Lately, our equipment has\nbeen diminishing strangely quickly..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Could you procure about 10 of them for me?"
+      "<DBAF43F0>": "Could you procure about\n10 of them for me?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Could you procure about 10 Ether Cylinders\nfor me?"
+      "<DBAF43F0>": "Could you procure about 10\nEther Cylinders for me?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you very much.\nNow we have enough for the ship."
+      "<DBAF43F0>": "Thank you very much. Now we\nhave enough for the ship."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If there are any other requests,\nplease head to them."
+      "<DBAF43F0>": "If there are any other\nrequests, please head to them."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If everything is finished,\ncould you deliver the Ether Cylinders\nto Daina-dono?"
+      "<DBAF43F0>": "If everything is finished, could you\ndeliver the Ether Cylinders to Daina-dono?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Still, this decrease in equipment...\nIs Ragzy's group involved after all?\nI must report to Nomori."
+      "<DBAF43F0>": "Still, this decrease in equipment...\nIs Ragzy's group involved after\nall? I must report to Nomori."
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nomori in particular is a reliable and fast worker,\nso I want to share the information with him quickly.\nWell then."
+      "<DBAF43F0>": "Nomori in particular is a reliable and\nfast worker, so I want to share the\ninformation with him quickly. Well then."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The equipment is decreasing quickly,\nso I will share the information with Nomori\nbefore it becomes a problem."
+      "<DBAF43F0>": "The equipment is decreasing quickly,\nso I will share the information with\nNomori before it becomes a problem."
     }
   ]
 }

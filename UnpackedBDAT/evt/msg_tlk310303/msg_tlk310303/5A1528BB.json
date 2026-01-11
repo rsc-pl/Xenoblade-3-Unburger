@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did you see the Levnis that came from Colony 30?"
+      "<DBAF43F0>": "Did you see the Levnis\nthat came from Colony 30?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, of course.\nIs it helpful?"
+      "<DBAF43F0>": "Yes, of course. Is it helpful?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes. Colony Lambda is short on\nLevnises right now, so..."
+      "<DBAF43F0>": "Yes. Colony Lambda is short\non Levnises right now, so..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks to Colony 30,\nwe're getting a lot of help."
+      "<DBAF43F0>": "Thanks to Colony 30, we're\ngetting a lot of help."
     }
   ]
 }

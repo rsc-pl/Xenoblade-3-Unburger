@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, you from before.\nWhat can I do for you today?"
+      "<DBAF43F0>": "Ah, you from before. What\ncan I do for you today?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do you have any mythrice?\nWe'd like a lot, if possible..."
+      "<DBAF43F0>": "Do you have any mythrice? We'd\nlike a lot, if possible..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I'm very sorry.\nWe're currently out of stock..."
+      "<DBAF43F0>": "...I'm very sorry. We're\ncurrently out of stock..."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When we came before,\nyou should have had a considerable stockpile."
+      "<DBAF43F0>": "When we came before, you should\nhave had a considerable stockpile."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Actually, it's not just the mythrice."
+      "<DBAF43F0>": "...Actually, it's not\njust the mythrice."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Recently, there have been frequent incidents\nof our transport convoys being attacked..."
+      "<DBAF43F0>": "Recently, there have been\nfrequent incidents of our\ntransport convoys being attacked..."
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, that sounds like\nquite a dangerous situation."
+      "<DBAF43F0>": "Well, that sounds like quite\na dangerous situation."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What were the guards doing?\nThey should have been there with the convoy."
+      "<DBAF43F0>": "What were the guards doing? They should\nhave been there with the convoy."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, of course...\nThat's what should have happened..."
+      "<DBAF43F0>": "Yes, of course... That's what\nshould have happened..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For the detailed situation,\nyou'll have to ask the chief of logistics..."
+      "<DBAF43F0>": "For the detailed situation, you'll\nhave to ask the chief of logistics..."
     }
   ]
 }

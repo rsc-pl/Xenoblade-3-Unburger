@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Momo!?\nA human in a place like this, mo!?\nTagane is surprised, mo!"
+      "<DBAF43F0>": "Momo!? A human in a place like this,\nmo!? Tagane is surprised, mo!"
     },
     {
       "$id": 2,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tagane is building\na \"dungeon\", mo!"
+      "<DBAF43F0>": "Tagane is building a \"dungeon\", mo!"
     },
     {
       "$id": 5,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Dungeons are the best part of adventuring, mo!\nThe thrill of exploration is irresistible, mo!"
+      "<DBAF43F0>": "Dungeons are the best part of\nadventuring, mo! The thrill of\nexploration is irresistible, mo!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tagane wants everyone to experience\nthe excitement and thrills of a dungeon\nthat Tagane has built, mo!"
+      "<DBAF43F0>": "Tagane wants everyone to experience\nthe excitement and thrills of a\ndungeon that Tagane has built, mo!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uh, okay...\nI don't really get it,\nbut you're very enthusiastic."
+      "<DBAF43F0>": "Uh, okay... I don't really get it,\nbut you're very enthusiastic."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But there are so many potential dungeon sites\nthat Tagane is having trouble deciding, mo!"
+      "<DBAF43F0>": "But there are so many potential\ndungeon sites that Tagane is\nhaving trouble deciding, mo!"
     },
     {
       "$id": 12,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I want you to go to a place\nthat Tagane has scouted out nearby\nand collect some stones for me, mo!"
+      "<DBAF43F0>": "I want you to go to a place that\nTagane has scouted out nearby and\ncollect some stones for me, mo!"
     },
     {
       "$id": 15,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If the dungeon's foundation were to collapse,\nit would be impossible to clear it, mo!"
+      "<DBAF43F0>": "If the dungeon's foundation\nwere to collapse, it would be\nimpossible to clear it, mo!"
     },
     {
       "$id": 18,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Please, mo!\nAs a reward, when the dungeon is complete,\nI'll let you be the very first to challenge it, mo!"
+      "<DBAF43F0>": "Please, mo! As a reward, when the\ndungeon is complete, I'll let you be\nthe very first to challenge it, mo!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hah... All right, I get it.\nI just need to pick up some stones, right?"
+      "<DBAF43F0>": "Hah... All right, I get it. I just\nneed to pick up some stones, right?"
     },
     {
       "$id": 22,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've prepared the gathering tools over here, mo!\nSo then, I'm counting on you, mo!"
+      "<DBAF43F0>": "I've prepared the gathering\ntools over here, mo! So then,\nI'm counting on you, mo!"
     }
   ]
 }

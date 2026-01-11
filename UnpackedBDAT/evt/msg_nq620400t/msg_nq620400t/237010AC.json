@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's a request on the\nrequest board."
+      "<DBAF43F0>": "There's a request on\nthe request board."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"There have been reports of an unusual\nKapiba at Raguel Lake!\nI'd love to study its ecology. Someone, please exterminate it!\""
+      "<DBAF43F0>": "\"There have been reports of an unusual Kapiba\nat Raguel Lake! I'd love to study its ecology.\nSomeone, please exterminate it!\""
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"Could you exterminate a few Quadwings\nthat inhabit the Vermilion Woods?\nI need their feathers to compound some medicine.\""
+      "<DBAF43F0>": "\"Could you exterminate a few Quadwings that\ninhabit the Vermilion Woods? I need their\nfeathers to compound some medicine.\""
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Since it's a bit far from Colony 9,\nit might be difficult for everyone.\nIt's dangerous."
+      "<DBAF43F0>": "Since it's a bit far from Colony\n9, it might be difficult for\neveryone. It's dangerous."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right...\nIf we have time, we'll take care of it."
+      "<DBAF43F0>": "Right... If we have time,\nwe'll take care of it."
     }
   ]
 }

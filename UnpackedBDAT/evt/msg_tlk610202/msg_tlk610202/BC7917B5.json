@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd like to eat some food from the City..."
+      "<DBAF43F0>": "I'd like to eat some\nfood from the City..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Oh, don't get me wrong.\nI have no regrets about following the young miss."
+      "<DBAF43F0>": "...Oh, don't get me wrong. I have no\nregrets about following the young miss."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's just that sometimes... I remember the food\nfrom over there and feel nostalgic."
+      "<DBAF43F0>": "It's just that sometimes...\nI remember the food from over\nthere and feel nostalgic."
     }
   ]
 }

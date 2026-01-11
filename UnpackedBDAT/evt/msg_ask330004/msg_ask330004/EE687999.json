@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Someone from the caravan told\nus it's been going on for\nover a thousand years."
+      "<DBAF43F0>": "Someone from the caravan told us it's\nbeen going on for over a thousand years."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Fighting for that long...\nit's almost like Keves and Agnus, isn't it?"
+      "<DBAF43F0>": "Fighting for that long... it's almost\nlike Keves and Agnus, isn't it?"
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16793729,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're being unusually sentimental, Lanz.\nFeeling a sense of kinship?"
+      "<DBAF43F0>": "You're being unusually sentimental,\nLanz. Feeling a sense of kinship?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 14696577,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No way! I'm allowed to have a serious\nconversation every now and then,\nyou know!"
+      "<DBAF43F0>": "No way! I'm allowed to have a serious\nconversation every now and then, you know!"
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In that sense, there is no great difference\nbetween us and them.\nLanz's impression is not entirely wrong."
+      "<DBAF43F0>": "In that sense, there is no great\ndifference between us and them. Lanz's\nimpression is not entirely wrong."
     },
     {
       "$id": 9,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I cannot say for certain,\nbut we ourselves have proven\nthe possibility exists."
+      "<DBAF43F0>": "I cannot say for certain, but we ourselves\nhave proven the possibility exists."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16793729,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eventually, they should find their own\ncommon ground and reach a reconciliation. \n...Wouldn't you agree, Lanz?"
+      "<DBAF43F0>": "Eventually, they should find their own\ncommon ground and reach a reconciliation.\n...Wouldn't you agree, Lanz?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 14696577,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I never thought the day would come\nwhen you'd be the one encouraging me, Taion."
+      "<DBAF43F0>": "...I never thought the day\nwould come when you'd be the\none encouraging me, Taion."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1200,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I am glad to hear it.\nSerious conversations do not suit you."
+      "<DBAF43F0>": "I am glad to hear it. Serious\nconversations do not suit you."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He's not very straightforward, is he..."
+      "<DBAF43F0>": "He's not very\nstraightforward, is he..."
     }
   ]
 }

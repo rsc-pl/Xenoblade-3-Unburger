@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll finish this mission in three minutes."
+      "<DBAF43F0>": "I'll finish this mission\nin three minutes."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Defeat them quickly.\nThose who can't will just die."
+      "<DBAF43F0>": "Defeat them quickly. Those\nwho can't will just die."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No doubt about that.\nOur mission is to guard Noah, so\nwe'll leave filling the Flame Clock to you."
+      "<DBAF43F0>": "No doubt about that. Our mission\nis to guard Noah, so we'll leave\nfilling the Flame Clock to you."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We have to earn enough for the quartermaster and\nsalvage corps guys, too. The faster we win,\nthe more we can fight, right?"
+      "<DBAF43F0>": "We have to earn enough for the quartermaster\nand salvage corps guys, too. The faster we\nwin, the more we can fight, right?"
     }
   ]
 }

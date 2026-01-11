@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mee... but Suz is in the middle of\nresearch that she can't step away from..."
+      "<DBAF43F0>": "Mee... but Suz is in the middle of research\nthat she cannot step away from..."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Suz's special portable rations!\nThey're called..."
+      "<DBAF43F0>": "Suz's special portable\nrations! They are called..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Rudi, we're leaving!"
+      "<DBAF43F0>": "Rudi, we are leaving!"
     }
   ]
 }

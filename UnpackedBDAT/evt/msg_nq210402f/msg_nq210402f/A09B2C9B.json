@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It is.\nLet's leave the rest to the people of Colony Lambda."
+      "<DBAF43F0>": "It is. Let's leave the rest to\nthe people of Colony Lambda."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As I thought.\nWe've caught the soldiers planning to retrieve the supplies."
+      "<DBAF43F0>": "As I thought. We've caught the soldiers\nplanning to retrieve the supplies."
     },
     {
       "$id": 4,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Too bad for you.\nWe'll defeat you and take the supplies for ourselves!"
+      "<DBAF43F0>": "Too bad for you. We'll defeat you and\ntake the supplies for ourselves!"
     },
     {
       "$id": 7,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Even if we want to... we can't\nif we're surrounded."
+      "<DBAF43F0>": "Even if we want to... we\ncan't if we're surrounded."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is no time to be fighting!\nWe should take care of the monsters first!"
+      "<DBAF43F0>": "This is no time to be fighting! We\nshould take care of the monsters first!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're trying to trick us into attacking from behind!\nWe won't fall for that!\nWe'll take you down along with the monsters!"
+      "<DBAF43F0>": "You're trying to trick us into attacking\nfrom behind! We won't fall for that! We'll\ntake you down along with the monsters!"
     }
   ]
 }

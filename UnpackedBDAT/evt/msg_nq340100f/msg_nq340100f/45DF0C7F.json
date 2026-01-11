@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, there's something I'd like to discuss.\nI was looking for you."
+      "<DBAF43F0>": "Yes, there's something I'd like to\ndiscuss. I was looking for you."
     },
     {
       "$id": 4,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This guy... ah, this Shiki fellow\nsaid he had something he wanted to talk about."
+      "<DBAF43F0>": "This guy... ah, this Shiki fellow said he\nhad something he wanted to talk about."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So what is it?\nIt had better be something worthwhile."
+      "<DBAF43F0>": "So what is it? It had better\nbe something worthwhile."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes. I'm arranging for the people from\nthe prison to be able to return\nto the City."
+      "<DBAF43F0>": "Yes. I'm arranging for the\npeople from the prison to be\nable to return to the City."
     },
     {
       "$id": 9,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Isn't that a good thing?\nThey can go back to the City, right?"
+      "<DBAF43F0>": "Isn't that a good thing? They\ncan go back to the City, right?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However... there are quite a few of them,\nso we can't get there from here by Levnis."
+      "<DBAF43F0>": "However... there are quite a\nfew of them, so we can't get\nthere from here by Levnis."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Therefore, we'll send a ship\nto Farview Cape."
+      "<DBAF43F0>": "Therefore, we'll send a\nship to Farview Cape."
     },
     {
       "$id": 14,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes. The ship will be provided by the Logistics Bureau's\nsupply department. I've already spoken to them,\nso please go there for the details."
+      "<DBAF43F0>": "Yes. The ship will be provided by the Logistics\nBureau's supply department. I've already spoken\nto them, so please go there for the details."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Akitsu from the supply department is reliable,\nso she should be able to tell you what needs to be done."
+      "<DBAF43F0>": "Akitsu from the supply department\nis reliable, so she should be able\nto tell you what needs to be done."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Well, it doesn't sound like a bad deal,\nbut if you try anything funny, I'll knock you out."
+      "<DBAF43F0>": "...Well, it doesn't sound like a\nbad deal, but if you try anything\nfunny, I'll knock you out."
     },
     {
       "$id": 18,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, that's understandable.\n...But if you think in terms of pros and cons,\nit's not a bad deal."
+      "<DBAF43F0>": "Yes, that's understandable. ...But\nif you think in terms of pros and\ncons, it's not a bad deal."
     },
     {
       "$id": 21,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry,\ncould you guys go for me?"
+      "<DBAF43F0>": "Sorry, could you guys go for me?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can't be helped...\nAlright, I'll go with you."
+      "<DBAF43F0>": "Can't be helped... Alright,\nI'll go with you."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "With you all here,\nit seems this will be over quickly.\nWell then, I'll leave it to you."
+      "<DBAF43F0>": "With you all here, it seems\nthis will be over quickly. Well\nthen, I'll leave it to you."
     }
   ]
 }

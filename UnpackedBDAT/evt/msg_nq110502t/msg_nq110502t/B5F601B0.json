@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah... Good.\nIt seems you can move now.\nHow are you feeling?"
+      "<DBAF43F0>": "Ah... Good. It seems you can\nmove now. How are you feeling?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Actually, it's about that.\nPlease listen calmly."
+      "<DBAF43F0>": "...Actually, it's about\nthat. Please listen calmly."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The food you ate...\nwas laced with poison."
+      "<DBAF43F0>": "The food you ate... was\nlaced with poison."
     },
     {
       "$id": 5,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Poison... Don't tell me that guy\nspiked our food?"
+      "<DBAF43F0>": "Poison... Don't tell me\nthat guy spiked our food?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...As for Laszlo,\nhe is currently being questioned by Bolearis\nin the command room."
+      "<DBAF43F0>": "...As for Laszlo, he is\ncurrently being questioned by\nBolearis in the command room."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We should go too!\nThis is just too much, no matter what!"
+      "<DBAF43F0>": "We should go too! This is just\ntoo much, no matter what!"
     },
     {
       "$id": 10,

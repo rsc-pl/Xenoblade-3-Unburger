@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gathering food is a pain,\nand I hate giving away food that I could eat."
+      "<DBAF43F0>": "Gathering food is a pain, and I hate\ngiving away food that I could eat."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "......Well, that's enough complaining from me.\nThis is what I've gathered.\nPlease take it."
+      "<DBAF43F0>": "......Well, that's enough\ncomplaining from me. This is\nwhat I've gathered. Please take it."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It would be better to eat it ourselves...\nAh, I'm hungry......"
+      "<DBAF43F0>": "It would be better to eat it\nourselves... Ah, I'm hungry......"
     }
   ]
 }

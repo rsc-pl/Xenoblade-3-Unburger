@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's the same as the fog we saw that time."
+      "<DBAF43F0>": "It's the same as the\nfog we saw that time."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It doesn't seem like there's anything\nwrong with the fog itself."
+      "<DBAF43F0>": "It doesn't seem like there's\nanything wrong with the fog itself."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "……No use.\nI can't sense any presence at all."
+      "<DBAF43F0>": "……No use. I can't sense\nany presence at all."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's wait for the fog to clear,\nand then go investigate somewhere else."
+      "<DBAF43F0>": "Let's wait for the fog to clear, and\nthen go investigate somewhere else."
     }
   ]
 }

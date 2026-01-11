@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We are preparing to transport goods,\nsuch as food, to the City."
+      "<DBAF43F0>": "We are preparing to transport\ngoods, such as food, to the City."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Didn't we do that the other day?\nAre you out of food already?"
+      "<DBAF43F0>": "...Didn't we do that the other\nday? Are you out of food already?"
     },
     {
       "$id": 6,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I thought as much.\nThose idiots think as long as they have food,\neverything will be fine."
+      "<DBAF43F0>": "I thought as much. Those idiots\nthink as long as they have food,\neverything will be fine."
     },
     {
       "$id": 9,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We don't have much to spare either,\nbut since we sent people to the City,\nwe can't neglect them."
+      "<DBAF43F0>": "We don't have much to spare either,\nbut since we sent people to the\nCity, we can't neglect them."
     },
     {
       "$id": 12,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've arranged for a ship, but\nI've been informed that a problem has arisen."
+      "<DBAF43F0>": "I've arranged for a ship, but I've been\ninformed that a problem has arisen."
     },
     {
       "$id": 15,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Specifically, a group opposed to the transport of goods\nhas armed themselves and is heading for the ship."
+      "<DBAF43F0>": "Specifically, a group opposed to the\ntransport of goods has armed themselves\nand is heading for the ship."
     },
     {
       "$id": 17,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The repeated use of the ship has led to a\nshortage of ether cylinders..."
+      "<DBAF43F0>": "The repeated use of the ship has led\nto a shortage of ether cylinders..."
     },
     {
       "$id": 19,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No wonder you need so much manpower."
+      "<DBAF43F0>": "No wonder you need\nso much manpower."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If that's the case, we'll lend a hand.\nWe just need to do what you just told us, right?"
+      "<DBAF43F0>": "If that's the case, we'll lend\na hand. We just need to do what\nyou just told us, right?"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you very much.\nSome of our soldiers are not used to this kind of thing,\nso having you all here is very reassuring."
+      "<DBAF43F0>": "Thank you very much. Some of our soldiers\nare not used to this kind of thing, so\nhaving you all here is very reassuring."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then, let's go take care of it."
+      "<DBAF43F0>": "Well then, let's go\ntake care of it."
     }
   ]
 }

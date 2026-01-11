@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're awfully worried about us.\nDo you know something?"
+      "<DBAF43F0>": "You're awfully worried about\nus. Do you know something?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No...\nBut a Consul went out of his way\nto come to Colony 9."
+      "<DBAF43F0>": "No... But a Consul went out of\nhis way to come to Colony 9."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You be careful, too.\nDon't get overconfident just 'cause you're skilled."
+      "<DBAF43F0>": "...You be careful, too. Don't get\noverconfident just 'cause you're skilled."
     }
   ]
 }

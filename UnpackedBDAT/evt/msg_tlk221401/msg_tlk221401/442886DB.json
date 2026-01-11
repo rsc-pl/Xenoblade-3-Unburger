@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Our colony has a high number and quality of Levnises,\nbut because of that, it's hard to train soldiers."
+      "<DBAF43F0>": "Our colony has a high number and\nquality of Levnises, but because of\nthat, it's hard to train soldiers."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No matter how much we fought, there were many times\nwe couldn't collect the flames of life[ML:line ]..."
+      "<DBAF43F0>": "No matter how much we fought, there\nwere many times we couldn't collect\nthe flames of life[ML:line ]..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But thanks to you,\nwe don't have to worry about our remaining lifespan anymore.\nThanks!"
+      "<DBAF43F0>": "But thanks to you, we don't\nhave to worry about our remaining\nlifespan anymore. Thanks!"
     }
   ]
 }

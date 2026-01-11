@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a laughing matter now, but[ML:line ]\nI was initially opposed to the strategy\nof providing supplies."
+      "<DBAF43F0>": "It's a laughing matter now, but[ML:line\n] I was initially opposed to the\nstrategy of providing supplies."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And now I've been entrusted with managing this place.\n...I was probably being tested,\nbut the results are as you can see."
+      "<DBAF43F0>": "And now I've been entrusted with managing\nthis place. ...I was probably being tested,\nbut the results are as you can see."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Niina-sama has the ability to see ahead.\nTo have been with her to this day...\nI am proud."
+      "<DBAF43F0>": "Niina-sama has the ability to\nsee ahead. To have been with\nher to this day... I am proud."
     }
   ]
 }

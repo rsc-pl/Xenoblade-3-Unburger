@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You there, what unit are you from?\nState your affiliation... You have three seconds."
+      "<DBAF43F0>": "You there, what unit are you\nfrom? State your affiliation...\nYou have three seconds."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hyaha! Looks like we hit the jackpot!\nThis is our lucky day!!"
+      "<DBAF43F0>": "Hyaha! Looks like we hit the\njackpot! This is our lucky day!!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He doesn't have many soldiers with him.\nNow's the time to strike!"
+      "<DBAF43F0>": "He doesn't have many soldiers with\nhim. Now's the time to strike!"
     }
   ]
 }

@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I know that Colony Lambda has a lot of problems right now,\nand it's much tougher than before."
+      "<DBAF43F0>": "I know that Colony Lambda has a\nlot of problems right now, and\nit's much tougher than before."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The supply team also has to do its best\nto support them in terms of food and hygiene."
+      "<DBAF43F0>": "The supply team also has to\ndo its best to support them\nin terms of food and hygiene."
     }
   ]
 }

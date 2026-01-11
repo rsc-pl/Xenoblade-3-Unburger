@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The device Hotsuma set up,\nis it functioning?"
+      "<DBAF43F0>": "The device Hotsuma set\nup, is it functioning?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems so.\nHowever, the installation location is poor."
+      "<DBAF43F0>": "It seems so. However, the\ninstallation location is poor."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can get to the upper layer of the great waterfall\nfrom the Morukna Wildwood."
+      "<DBAF43F0>": "You can get to the upper layer of the great\nwaterfall from the Morukna Wildwood."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think that's where it should be set up..."
+      "<DBAF43F0>": "I think that's where it\nshould be set up..."
     }
   ]
 }

@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, no, it has nothing to do with the infiltration plan!\nI'm sure... probably...!!"
+      "<DBAF43F0>": "No, no, it has nothing to do\nwith the infiltration plan!\nI'm sure... probably...!!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry, forget what I just said.\nIf I say anything unnecessary,\nthe boss will probably get mad..."
+      "<DBAF43F0>": "Sorry, forget what I just said.\nIf I say anything unnecessary, the\nboss will probably get mad..."
     }
   ]
 }

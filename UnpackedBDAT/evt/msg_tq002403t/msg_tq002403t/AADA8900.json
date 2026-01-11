@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, it's you.\nWhat's all the hurry?"
+      "<DBAF43F0>": "Oh, it's you. What's all the hurry?"
     },
     {
       "$id": 3,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, it's a transient thing.\nIf she rests, she'll wake up soon enough."
+      "<DBAF43F0>": "Yes, it's a transient thing. If she\nrests, she'll wake up soon enough."
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just in case, I'll take her in for observation—"
+      "<DBAF43F0>": "Just in case, I'll take\nher in for observation—"
     },
     {
       "$id": 9,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "N-No, it's not that!\nThat girl is, well... um..."
+      "<DBAF43F0>": "N-No, it's not that! That\ngirl is, well... um..."
     },
     {
       "$id": 12,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's an empty house in a corner of the City.\nI'll arrange for you to be able to use it."
+      "<DBAF43F0>": "There's an empty house in a\ncorner of the City. I'll arrange\nfor you to be able to use it."
     },
     {
       "$id": 14,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll have the patient transported there.\nI'll leave the rest to you."
+      "<DBAF43F0>": "I'll have the patient transported\nthere. I'll leave the rest to you."
     },
     {
       "$id": 16,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If anything happens, come back again.\nNow then, take care."
+      "<DBAF43F0>": "If anything happens, come back\nagain. Now then, take care."
     }
   ]
 }

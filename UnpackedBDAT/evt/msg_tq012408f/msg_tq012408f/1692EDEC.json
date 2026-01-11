@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is... a door?\nWhy is something like this here..."
+      "<DBAF43F0>": "This is... a door? Why is\nsomething like this here..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Hmm, it doesn't seem to open.\nWhat should we do?"
+      "<DBAF43F0>": "...Hmm, it doesn't seem to\nopen. What should we do?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Alright, my turn!\nI'll smash this shabby door in one hit—"
+      "<DBAF43F0>": "Alright, my turn! I'll smash\nthis shabby door in one hit—"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Accessing security lock... Inputting forced\nrelease code... Clear."
+      "<DBAF43F0>": "Accessing security lock... Inputting\nforced release code... Clear."
     },
     {
       "$id": 5,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By the way, this Number Two we're about to meet,\nwhat kind of person are they?"
+      "<DBAF43F0>": "By the way, this Number Two we're about\nto meet, what kind of person are they?"
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In terms of pure combat ability, she surpasses me."
+      "<DBAF43F0>": "In terms of pure combat\nability, she surpasses me."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It would be troublesome if she attacked us\nbefore we could explain the situation."
+      "<DBAF43F0>": "It would be troublesome if\nshe attacked us before we\ncould explain the situation."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That will not be a problem. Number Two will\nrespond to my words immediately."
+      "<DBAF43F0>": "That will not be a problem. Number Two\nwill respond to my words immediately."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You really trust her, don't you, Number Two?"
+      "<DBAF43F0>": "You really trust her,\ndon't you, Number Two?"
     },
     {
       "$id": 13,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see.\nWell then, shall we get this emotional reunion started?"
+      "<DBAF43F0>": "I see. Well then, shall we get\nthis emotional reunion started?"
     }
   ]
 }
