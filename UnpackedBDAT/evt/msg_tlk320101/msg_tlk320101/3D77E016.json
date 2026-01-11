@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yuzuriha's even more skilled with\na bow than me, you know..."
+      "<DBAF43F0>": "Yuzuriha's skill with the bow\nis superior to my own[ML:line ]..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I doubt you'll have to worry about it, but\nour commander's never left Tau before.\nMake sure you protect them in battle."
+      "<DBAF43F0>": "I don't think there's much to worry about,\nbut this is the first time she's fought away from Tau.\nPlease be careful with her in battle."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Get Yuzuriha to target the enemy's rear.\nAnd make sure our eminent archer\ndoesn't end up in the line of fire."
+      "<DBAF43F0>": "It's important to get behind the enemy.\nAnd to avoid being targeted by them."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Taking down your prey unawares...\nThat's the hunter's way."
+      "<DBAF43F0>": "Attacking without being noticed\nis a basic of hunting, after all."
     }
   ]
 }

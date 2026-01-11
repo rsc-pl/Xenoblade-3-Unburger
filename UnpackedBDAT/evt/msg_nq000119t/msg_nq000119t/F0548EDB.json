@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've come on behalf of Shillshill.\nDid she give you a stone? We're\nhere to take it back to her."
+      "<DBAF43F0>": "We've come on behalf of Shillshill to collect a stone.\nIf you have one, could you give it to us?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Stone? Oh..."
+      "<DBAF43F0>": "A stone...? Ah..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Stone is lost!"
+      "<DBAF43F0>": "I lost it, mo..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, what?!"
+      "<DBAF43F0>": "What?!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Momama was sleeping in tall tree, and\nit fall down, never again to be seen!"
+      "<DBAF43F0>": "I was sleeping in a tall tree,\nand it fell out and was lost, mo..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Friends can tell this to Shillshill!"
+      "<DBAF43F0>": "So I want you to tell Shillshill\nthat for me, mo..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can, but is it OK\nto go without taking\na stone back?"
+      "<DBAF43F0>": "That's fine, but...\nDon't you need to get it back?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It annoying hassle, so is OK. Shillshill is\nmajorly serious Nopon, so probably she\nget angry. Oh well!"
+      "<DBAF43F0>": "It is a hassle, so it is fine, mo...\nShillshill is a serious Nopon,\nso he might get angry, but it cannot be helped, mo..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "R-right. We'll just go tell her then..."
+      "<DBAF43F0>": "I-if that's alright with you...\nThen we'll tell him that..."
     }
   ]
 }

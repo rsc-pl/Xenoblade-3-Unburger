@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Hey, what's up? Aren't you busy\ncollecting points?"
+      "<DBAF43F0>": "[ML:line ]What's wrong?\nNot gathering points?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 2113665,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Even if I were, what's the use..."
+      "<DBAF43F0>": "I thought I'd just get in the way if I tried..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 2113665,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm no good at anything.\nI can't fight like Aya."
+      "<DBAF43F0>": "I'm bad at everything.\nI can't fight like Aya-chan[ML:line ]"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 2113665,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can't cook like Renge,\nI'm not even clever like\nTallow is..."
+      "<DBAF43F0>": "I can't cook like Ren-chan,\nand I'm not as skillful as Tallow-chan..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 2113665,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I know what a tough time everyone else\nis having... But when they're in trouble,\nI can never be of any use to them."
+      "<DBAF43F0>": "I know everyone's having a hard time,\nbut when it really matters, I'm never any help."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 2113793,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's why I'd rather sit this out, and\ntry not to be a hindrance to everyone."
+      "<DBAF43F0>": "So this time, I thought I'd try\nto stay out of the way..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Is Himacchi a hindrance to everyone...?"
+      "<DBAF43F0>": "Does Himari get in everyone's way...?"
     },
     {
       "$id": 9,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If anything, I'm a hindrance."
+      "<DBAF43F0>": "If that were the case,\nthen I must be in the way too."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm not strong, I'm not clever, I'm not even\nthat tall..."
+      "<DBAF43F0>": "I'm not strong, I'm not skillful,\nand I'm short, too[ML:line ]"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 56639617,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Please! How are you a hindrance?!"
+      "<DBAF43F0>": "Why!? You're not in the way!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 56639617,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seeing you always doing everything you\ncan pushes me to do the same, you know?"
+      "<DBAF43F0>": "Shiro-chan is always trying so hard,\nit makes me want to try my best too[ML:line ]!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I could say the same thing of you."
+      "<DBAF43F0>": "I feel the same."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seeing you want to help everyone out\ngives me the power to do the same, Himacchi."
+      "<DBAF43F0>": "Himarin trying her best to help everyone\ngives me strength, too."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 56639617,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's nice of you to say, Shiro-chan..."
+      "<DBAF43F0>": "Shiro-chan..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd like to collect some Point Stickers\nwith you. I hope that isn't too much\nbother?"
+      "<DBAF43F0>": "I want to gather seals with you.\nWould that be okay?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 56639617,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...No, it isn't."
+      "<DBAF43F0>": "...No, it's not not-okay."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "No, it's what makes *her* great."
+      "<DBAF43F0>": "That's amazing."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I know... All you see of everyone is what\nyou think is great about them, Himacchi."
+      "<DBAF43F0>": "I see... So Himarin can see\nthe \"amazing\" in everyone."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 2113665,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, that's because they are great."
+      "<DBAF43F0>": "Because... it's the truth."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't know about that. *You* may\nthink Tallow is smart, but he sure\ndoesn't think that way about himself."
+      "<DBAF43F0>": "You think so? I doubt even Tallow\nthinks he's skillful, you know?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What you may think you're bad\nat, everyone else will think you're\ngreat at."
+      "<DBAF43F0>": "The things Himarin is \"bad at\"\nlet her see the \"amazing\" in everyone."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And frankly, isn't that just great?"
+      "<DBAF43F0>": "Doesn't that count as \"amazing\"?"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 56639617,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I...I guess so."
+      "<DBAF43F0>": "Is... that so?"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "See? So, please. I just want you to\nhave more confidence in yourself."
+      "<DBAF43F0>": "Yeah, so[ML:line ]\nI want you to have more confidence."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I mean... I wouldn't know what\nI'd do without you around, Himacchi."
+      "<DBAF43F0>": "I mean... I wouldn't like it\nif Himarin wasn't here..."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 56639617,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, Shiro-chan..."
+      "<DBAF43F0>": "Shiro-chan..."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, then. I guess I'll get busy\nwith the sticker hunting!"
+      "<DBAF43F0>": "[ML:line ]I understand.\nI'll try my best to gather seals, too!"
     },
     {
       "$id": 30,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's go enjoy ourselves, OK? Together!"
+      "<DBAF43F0>": "Let's have fun... together!"
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah!"
+      "<DBAF43F0>": "[ML:line ]Yeah!"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then I'll go tell Tallow."
+      "<DBAF43F0>": "Also, I'll tell Tallow-chan[ML:line ]"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll let him know about the two important\nthings that Shiro-chan taught me."
+      "<DBAF43F0>": "that Shiro-chan taught me\ntwo important things."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What are those?"
+      "<DBAF43F0>": "Two?"
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You taught me that I didn't really know\nmyself, and that I really like you, Shiro-chan."
+      "<DBAF43F0>": "The me that I didn't know,\nand the feeling that I love Shiro-chan."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's make sure we get ourselves\nloads of stickers, you hear!"
+      "<DBAF43F0>": "So, I hope you get lots and lots\nof seals!"
     }
   ]
 }

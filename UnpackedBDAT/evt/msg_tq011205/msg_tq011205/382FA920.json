@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "We're so sorry!"
+      "<DBAF43F0>": "We are very sorry."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Disobeying orders, stealing a transport..."
+      "<DBAF43F0>": "Disobeying orders, commandeering a transporter..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "In the end you're all safe, so I suppose\nthere's that to be thankful for."
+      "<DBAF43F0>": "In the end, it's a good thing you all\nmade it out safely, but..."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "But what in the hell were you thinking?"
+      "<DBAF43F0>": "...Why did you do something like this?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "It was for the City..."
+      "<DBAF43F0>": "For the sake of the City."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "We thought we could seize the loot,\nmaybe use it to beef up our defense."
+      "<DBAF43F0>": "If we brought back salvaged goods,\nit would lead to an increase in our military strength."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Even if we can't be Ouroboros,\nwe can still fight!"
+      "<DBAF43F0>": "Even if we can't fight as Ouroboros,\nthere are things we can do!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Monica, our duty...is to protect\nthe City from our enemies!"
+      "<DBAF43F0>": "Monica-san, please let us\nfight more for the sake of the City."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "And, I mean..."
+      "<DBAF43F0>": "Or is it..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "We got the feeling...that we didn't really matter to you.\nLike we weren't real candidates."
+      "<DBAF43F0>": "that you no longer see us\nas Ouroboros candidates?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "The way you all just fought..."
+      "<DBAF43F0>": "Your performance just now..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "It easily surpassed even our top veterans."
+      "<DBAF43F0>": "surpassed that of veteran soldiers."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "But not even the great Guernica Vandham"
+      "<DBAF43F0>": "But the ones we are fighting are..."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "could stand up to the horrors we're facing."
+      "<DBAF43F0>": "the kind of beings that even\nthe hero Guernica Vandham..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "They'll chew you up and spit you out."
+      "<DBAF43F0>": "lost his life to."
     },
     {
       "$id": 17,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "And, if you were to lose your lives needlessly,"
+      "<DBAF43F0>": "If you were to lose your lives,"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "you'd leave behind more sadness."
+      "<DBAF43F0>": "there would be others who would grieve just as much."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I don't want any of you to forget that."
+      "<DBAF43F0>": "I want you to remember that much, at least."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "...Olive!"
+      "<DBAF43F0>": "...Olive."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm gonna need a report."
+      "<DBAF43F0>": "This \"salvage mission\"..."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "So, when can I get it?"
+      "<DBAF43F0>": "When will the report be ready?"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]...!"
+      "<DBAF43F0>": "[ML:undisp ]!"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Uh... Tomorrow...?"
+      "<DBAF43F0>": "B-By tomorrow..."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I want it today."
+      "<DBAF43F0>": "Finish it today."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Get these supplies stowed away."
+      "<DBAF43F0>": "Load all the supplies without fail."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Also..."
+      "<DBAF43F0>": "And..."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I expect a written apology\nfrom all of you."
+      "<DBAF43F0>": "All of you, submit a written apology by tomorrow."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Fifty pages."
+      "<DBAF43F0>": "The quota is 50 pages."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Fifty...?"
+      "<DBAF43F0>": "Fif..."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Not enough?"
+      "<DBAF43F0>": "Is that not enough?"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "In the very near future, we're gonna need\nabout everything you can give us."
+      "<DBAF43F0>": "Your strength will soon\nbe borrowed to its fullest extent."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Until then, you need to prepare-"
+      "<DBAF43F0>": "Know that now is the time to prepare..."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "But...*you're* out there on the front line.\nPutting yourself in harm's way."
+      "<DBAF43F0>": "But you'll be on the front lines, won't you?\nYou'll take on dangerous missions."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "At least let us handle the rear."
+      "<DBAF43F0>": "At least let us handle your rear."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Please, just trust us."
+      "<DBAF43F0>": "We will absolutely return alive."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "You little..."
+      "<DBAF43F0>": "...You."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "When my brother died...\non the day that you were made Elder..."
+      "<DBAF43F0>": "When my brother died...\nThe day Monica-san became the Elder."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I decided..."
+      "<DBAF43F0>": "I decided then, too."
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I pledged...never to leave you alone."
+      "<DBAF43F0>": "That I would absolutely not leave you alone..."
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I would not let you end up like him."
+      "<DBAF43F0>": "I wouldn't become like my brother."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "And so...that's exactly what I'm doing here."
+      "<DBAF43F0>": "\"Here,\" I wanted to prove that."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Somehow..."
+      "<DBAF43F0>": "No matter what."
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Unbelievable..."
+      "<DBAF43F0>": "How foolish..."
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's why you nearly threw your life away?"
+      "<DBAF43F0>": "For something like that, to risk your life..."
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's because I love you."
+      "<DBAF43F0>": "I love you."
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](shock)"
+      "<DBAF43F0>": "[ML:undisp ]!?"
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "If you're going to tell us to survive..."
+      "<DBAF43F0>": "If you're going to tell us to survive,"
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Well, then..."
+      "<DBAF43F0>": "then you too..."
     },
     {
       "$id": 51,
@@ -538,7 +538,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "You should be following your own advice!"
+      "<DBAF43F0>": "should live with that intention."
     },
     {
       "$id": 52,
@@ -558,7 +558,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'll bet...you probably only thought of me\nas a...little brother or a friend..."
+      "<DBAF43F0>": "You probably thought of me as nothing more\nthan a much younger brother, but..."
     },
     {
       "$id": 54,
@@ -568,7 +568,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "But I... I think I know you better than anyone."
+      "<DBAF43F0>": "I believe I've watched over you more closely than anyone."
     },
     {
       "$id": 55,
@@ -578,7 +578,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ohh!"
+      "<DBAF43F0>": "Hyaa~"
     },
     {
       "$id": 56,
@@ -588,7 +588,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ohh!"
+      "<DBAF43F0>": "Hyaa~"
     },
     {
       "$id": 57,
@@ -598,7 +598,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hold on, did he just...?"
+      "<DBAF43F0>": "Did he just confess?"
     },
     {
       "$id": 58,
@@ -608,7 +608,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "...Just what?"
+      "<DBAF43F0>": "Confess?"
     },
     {
       "$id": 59,
@@ -618,7 +618,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "What now...?"
+      "<DBAF43F0>": "What do you mean...?"
     },
     {
       "$id": 60,
@@ -628,7 +628,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Just be quiet."
+      "<DBAF43F0>": "Quiet."
     },
     {
       "$id": 61,
@@ -638,7 +638,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Jansen..."
+      "<DBAF43F0>": "Jansen."
     },
     {
       "$id": 62,
@@ -648,7 +648,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Um."
+      "<DBAF43F0>": "That is..."
     },
     {
       "$id": 63,
@@ -658,7 +658,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm sorry."
+      "<DBAF43F0>": "I'm sorry, but..."
     },
     {
       "$id": 64,
@@ -668,7 +668,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "You see, right now, I..."
+      "<DBAF43F0>": "Right now, I..."
     },
     {
       "$id": 65,
@@ -678,7 +678,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "You don't have to say anything now.\nIt's just...I needed to get that across."
+      "<DBAF43F0>": "I'm not asking for anything right now.\nI just wanted to tell you."
     },
     {
       "$id": 66,
@@ -688,7 +688,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Instead, when the fighting's done..."
+      "<DBAF43F0>": "In exchange, when this war is over..."
     },
     {
       "$id": 67,
@@ -698,7 +698,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "...maybe we could talk this over\nwith each other some more?"
+      "<DBAF43F0>": "could you give me some time\nto talk with you?"
     },
     {
       "$id": 68,
@@ -708,7 +708,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm your superior officer."
+      "<DBAF43F0>": "...I am your superior officer."
     },
     {
       "$id": 69,
@@ -718,7 +718,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yeah, but when Moebius are gone,"
+      "<DBAF43F0>": "You won't be my superior officer anymore."
     },
     {
       "$id": 70,
@@ -728,7 +728,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "ranks won't mean a thing."
+      "<DBAF43F0>": "Because Moebius will be annihilated."
     },
     {
       "$id": 71,
@@ -738,7 +738,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ugh!"
+      "<DBAF43F0>": "Wha..."
     },
     {
       "$id": 72,
@@ -748,7 +748,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Please...just think it over."
+      "<DBAF43F0>": "Please think about your answer."
     },
     {
       "$id": 73,
@@ -758,7 +758,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](adlib, stumbling)"
+      "<DBAF43F0>": "[ML:undisp ](Jansen stumbles, ad-lib)"
     },
     {
       "$id": 74,
@@ -768,7 +768,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Dude, nice one!"
+      "<DBAF43F0>": "Not bad!"
     },
     {
       "$id": 75,
@@ -778,7 +778,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Were you scared?"
+      "<DBAF43F0>": "Were you nervous?"
     },
     {
       "$id": 76,
@@ -788,7 +788,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Shut it!"
+      "<DBAF43F0>": "Shut up..."
     },
     {
       "$id": 77,
@@ -798,7 +798,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Anyway. Shall we go?"
+      "<DBAF43F0>": "Well then, shall we carry this?"
     },
     {
       "$id": 78,
@@ -808,7 +808,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's gonna be tough getting that stuff out of the cave."
+      "<DBAF43F0>": "Getting it out of the cave looks tough..."
     },
     {
       "$id": 79,
@@ -818,7 +818,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ah, snuff it. I'll help you out."
+      "<DBAF43F0>": "Can't be helped. I'll give you a hand."
     },
     {
       "$id": 80,
@@ -828,7 +828,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Me too!"
+      "<DBAF43F0>": "Me too."
     },
     {
       "$id": 81,
@@ -838,7 +838,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Time for big treasure hunt!"
+      "<DBAF43F0>": "Time to find some treasure, mo."
     }
   ]
 }

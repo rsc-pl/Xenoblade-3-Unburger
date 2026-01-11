@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colony Iota's storehouse is going\nto be in trouble pretty soon."
+      "<DBAF43F0>": "It looks like Colony Iota's storehouse\nis in trouble soon."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Indeed. More people rely on their\nresources than ever, and we're burning\nthrough them rapidly."
+      "<DBAF43F0>": "The number of people using it has increased,\nso it's natural that consumption is fast, but..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do you think we've\ngiven out too much?"
+      "<DBAF43F0>": "Did we distribute a little too much... maybe?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think that even without that, they need to\nstart considering what they'll do the next\ntime a resupply doesn't arrive on schedule."
+      "<DBAF43F0>": "No, rather, we should view the situation of\nnot being able to keep up with replenishment\nas the more serious issue."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You don't have to worry about it.\nI'm the one who asked you to do this."
+      "<DBAF43F0>": "There's no need to worry about it.\nI'm the one who asked, and..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And it's not the first time we've\nbeen short on supplies."
+      "<DBAF43F0>": "It's not like we're just now\nrunning short on supplies."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can't afford to be so glib."
+      "<DBAF43F0>": "We can't let it go at that."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If it's causing a strain on the colony,\nyou should re-examine your procedures."
+      "<DBAF43F0>": "If it's becoming a burden on the colony,\nwe need to review its operation."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can help out with some\nshort-term resupply runs."
+      "<DBAF43F0>": "If it's just for immediate resupply,\nwe can help out too..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's the least we could do after\nall the taking we've been doing."
+      "<DBAF43F0>": "It doesn't feel right to just\nkeep taking, after all."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In that case, I'll take\nyou up on your offer."
+      "<DBAF43F0>": "If you're going that far...\nI'll take you up on your offer this time."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As you know, the storehouse is\nMikage's domain. Let's talk to her first."
+      "<DBAF43F0>": "As I said before,\nthe storehouse is entirely up to Mikage.\nFirst, let's talk to her."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She's probably already got some\nideas, and if you work together\nyou can be more efficient."
+      "<DBAF43F0>": "She may have already taken action,\nand it would be more efficient to coordinate."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think it would be worth\ndiscussing with Niina."
+      "<DBAF43F0>": "I have a suggestion...\nWhy don't we try consulting with Niina first?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We could offer to help out with\nsome short-term resupply runs."
+      "<DBAF43F0>": "If it's just for immediate resupply,\nwe can help out too..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, that's a great idea!"
+      "<DBAF43F0>": "...!\nYes, I think that's a good idea!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All we've done so far is take, take, take,\nso it's really the least we could do."
+      "<DBAF43F0>": "It doesn't feel right to just\nkeep taking, after all."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah..."
+      "<DBAF43F0>": "That's true..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They've probably already got measures\nin place for this, anyway. We should\nwork with the colony."
+      "<DBAF43F0>": "She may have already taken action,\nand it would be better to coordinate with the colony."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In that case, let's go meet with Niina\nas soon as we get the chance."
+      "<DBAF43F0>": "Then let's go see Niina right away."
     }
   ]
 }

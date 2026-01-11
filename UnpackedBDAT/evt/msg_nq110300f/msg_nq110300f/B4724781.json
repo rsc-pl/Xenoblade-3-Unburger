@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "H-hey, you! Are you OK?!"
+      "<DBAF43F0>": "H-Hey, you! Are you okay!?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ugh...the unit...all dead...\nGot to report...to...captain..."
+      "<DBAF43F0>": "Ugh... The unit was taken out...\nTo the captain... r-report..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shh, don't talk!\nGet him to the medic team!"
+      "<DBAF43F0>": "Don't talk!\nGet to the medical team!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hurry!"
+      "<DBAF43F0>": "Yeah, let's hurry!"
     }
   ]
 }

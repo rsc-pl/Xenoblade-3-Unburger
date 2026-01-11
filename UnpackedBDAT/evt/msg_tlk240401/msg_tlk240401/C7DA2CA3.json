@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh! Itinerant wanderfriends!\nWhere you going to?"
+      "<DBAF43F0>": "Oh my, travelers.\nWhere are you going, desu mo?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're thinking of taking the south-east\nroute out from Ribbi Flats."
+      "<DBAF43F0>": "We were thinking of heading southeast\nfrom Ribbi Flats[ML:line ]..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Proceed on bit further and friends\nwill spy Elsie's Spout. Climb up spout\nto reach Rae-Bel Tableland."
+      "<DBAF43F0>": "If you go a little further, you'll see\nElsie's Spout. If you climb it,\nyou'll reach Rae-Bel Tableland, desu mo."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Could be toilsome journey, yes.\nBut Mimumimu wish friends best of luck!"
+      "<DBAF43F0>": "I think it will be quite difficult, but\nplease do your best, desu mo."
     }
   ]
 }

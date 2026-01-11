@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, what can I do for you?"
+      "<DBAF43F0>": "What can I do for you all?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We heard you're doing well for ether at\nthe moment. Do you have any ideas how\nyou're going to use it?"
+      "<DBAF43F0>": "We heard you have plenty of ether,\nand wondered if we could offer some suggestions\non how to use it."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, you want to know? Yeah, we're sitting\non more ether than we can collect."
+      "<DBAF43F0>": "Ah, about that.\nYes, it's true we're collecting more than enough\nether."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The work's been going better than\nwe could ever have imagined since\nwe perfected the ether probe."
+      "<DBAF43F0>": "Since the ether probe was completed,\nwork has been going almost too smoothly."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, that must have greatly improved\nthe efficiency of your mining operations."
+      "<DBAF43F0>": "I see.\nSo that's how your mining efficiency improved."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Me and Hotsuma are the minds behind it.\nWe wanted a more effective way to find\nether channels."
+      "<DBAF43F0>": "Hotsuma and I developed it.\nWe wanted to discover ether channels\nmore efficiently."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not bad."
+      "<DBAF43F0>": "Huh, impressive."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's done wonders for our ether stocks,\nbut yeah, lately it's a bit excessive."
+      "<DBAF43F0>": "Thanks to that, we've been able to collect ether,\nbut lately we've had a bit of a surplus."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What a problem to have, right? Oh no,\nwe have too much ether! How awful!"
+      "<DBAF43F0>": "Well, it's a luxurious problem to have,\nbeing able to collect an excess."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you've got too much, why not use it?"
+      "<DBAF43F0>": "If you have a surplus, there must be ways to use it."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, let's think about this.\nAny good ideas?"
+      "<DBAF43F0>": "As I was just saying,\ndo you have any good ideas?"
     },
     {
       "$id": 12,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Share it freely among the colonies"
+      "<DBAF43F0>": "Provide it for free to all colonies"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Donate it to colonies in need"
+      "<DBAF43F0>": "Provide it for free to colonies in need"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Give it to whoever wants it most"
+      "<DBAF43F0>": "Offer it to those who request it"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I suggested that, but it was rejected.\nIt doesn't benefit us."
+      "<DBAF43F0>": "I thought of that, but it was rejected.\nThere's no benefit to us."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Itari from the survey branch's\npretty stubborn about this stuff, so\nthere's not much way around it."
+      "<DBAF43F0>": "Itari from the survey branch is a stickler,\nso I guess it can't be helped......"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmmm... Not sure we can\njust give it away for free."
+      "<DBAF43F0>": "Hmm...... We can't just give it away for free."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I made a similar suggestion, but\nthe sergeant shot it right down."
+      "<DBAF43F0>": "I made a similar proposal,\nbut the squad captain rejected it."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She's not cruel, but she's very...\nby the book, shall we say."
+      "<DBAF43F0>": "She's not a bad person, but\nshe tends to prioritize the manual."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Unless we got some kind of compensation,\nwe'd never get Itari on board, not to\nmention captains like Sif."
+      "<DBAF43F0>": "Without some form of payment, we won't get approval\nfrom the captains, like Itari and Sifuu."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we can hammer out more concrete\ncriteria and narrow down the possible\nrecipient colonies...then maybe."
+      "<DBAF43F0>": "If we could narrow down the conditions\nand the colonies we provide it to a bit more......\nthere might be a possibility."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We really can't just be sitting on\nthis ether surplus, like you said."
+      "<DBAF43F0>": "In any case, we can't just leave\nthe surplus ether as it is."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a difficult problem, certainly."
+      "<DBAF43F0>": "......It's a difficult problem."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How about narrowing it down\nto a nearby colony?"
+      "<DBAF43F0>": "What about narrowing it down and\nconsidering nearby colonies......?"
     },
     {
       "$id": 26,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colony Tau? We won't get anything\nout of trading with them. No good."
+      "<DBAF43F0>": "......Colony Tau?\nTrade with them would be fruitless, so that's a no."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What kind of colony is Colony 4?\nI don't know much about them, myself."
+      "<DBAF43F0>": "I don't know much about what kind of\ncolony Colony 4 is, but......"
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Does it seem like the kind of colony\nthat can make a fair trade for ether?"
+      "<DBAF43F0>": "Is it a colony that can offer something\nin exchange for ether?"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, they could probably pay us\nback for ether in Levnis tech."
+      "<DBAF43F0>": "With that colony, we might be able to trade\nether in exchange for their Levnis\ntechnology."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mate, you're never going to shift\nthat ether at this rate."
+      "<DBAF43F0>": "......Man, at this rate,\nyou'll never get rid of this ether."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You need solid justifications if you\nwant to get approval and convince\nthe top brass to back you up."
+      "<DBAF43F0>": "In our colony, to get approval,\nyou need a reason that can convince\nthe people at the top."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If it's not a colony like 30 which\ncan pay us back in kind, we're\njust not going to get the OK."
+      "<DBAF43F0>": "Unless we receive some kind of payment,\nlike from Colony 30, we won't get approval."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What an utter faff."
+      "<DBAF43F0>": "What a pain."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I agree. Ideally, I'd like to be able\nto distribute it more widely."
+      "<DBAF43F0>": "I think so too.\n......I myself would like to provide it\nmore widely."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But that's not really my job. And without\nany other bright ideas, I think we'll have\nto settle for this one."
+      "<DBAF43F0>": "But that's not my main job.\nIn the end, I couldn't come up with a good idea,\nwhich brings us to now."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I'm the same way."
+      "<DBAF43F0>": "Even if you say that......\nI'm no good at that stuff either."
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you can get your ether's worth,\nthey'll agree to the plan, yes?"
+      "<DBAF43F0>": "If we can obtain a substantial payment,\nthey'll surely agree."
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What are you thinking?"
+      "<DBAF43F0>": "......? What do you mean?"
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "To get their ether's worth..."
+      "<DBAF43F0>": "A substantial payment?"
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Distribute it free of charge."
+      "<DBAF43F0>": "Let's just give it for free."
     },
     {
       "$id": 45,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Sell it through Nopon."
+      "<DBAF43F0>": "Distribute it through the Nopon."
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can't think of much, aside\nfrom just giving it away."
+      "<DBAF43F0>": "I can't think of anything other than giving it away for free."
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right? If you can't use it all,\nthen what does it matter?"
+      "<DBAF43F0>": "Yeah...... If we can't use it all,\nI feel like that would be fine......"
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Couldn't you just straight up\nsell the stuff?"
+      "<DBAF43F0>": "What about selling it directly?"
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not a bad idea, but logistically,\nit'd be a pain to lug around."
+      "<DBAF43F0>": "Selling it isn't a bad idea, but\nit might be a bit of a hassle for us\nto transport it."
     },
     {
       "$id": 51,
@@ -538,7 +538,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I guess it's hard to go selling it\nwithout creating a load of work..."
+      "<DBAF43F0>": "So it's difficult to sell it\nwithout a lot of effort......"
     },
     {
       "$id": 52,
@@ -548,7 +548,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's only one way to ensure that\nyou get a fair price and avoid incurring\nextra work on your side."
+      "<DBAF43F0>": "There is one way to get paid\nand not have to put in the effort."
     },
     {
       "$id": 53,
@@ -568,7 +568,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Nopon who travel with the\ncaravans. You sell through them."
+      "<DBAF43F0>": "There are Nopon who travel to various places\nin caravans, right?\nWe could sell it to them."
     },
     {
       "$id": 55,
@@ -578,7 +578,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's always demand for ether.\nTrading in it should net plenty of profit."
+      "<DBAF43F0>": "Ether is already in high demand, so\nwe can expect a good profit from selling it\nas a commodity."
     },
     {
       "$id": 56,
@@ -588,7 +588,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And you have the added benefit of\nutilizing the Nopon trade routes."
+      "<DBAF43F0>": "Furthermore, the Nopon caravans will travel\nto various colonies on their own."
     },
     {
       "$id": 57,
@@ -598,7 +598,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colonies suffering from ether shortages are\nsure to be somewhere on their itinerary."
+      "<DBAF43F0>": "Among them, there are surely colonies\nstruggling with ether shortages."
     },
     {
       "$id": 58,
@@ -608,7 +608,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, yeah...!"
+      "<DBAF43F0>": "I see......!"
     },
     {
       "$id": 59,
@@ -618,7 +618,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Talk to the Nopon - I'm sure they'll\nbe happy to buy from you. They won't\nhave any trouble selling it."
+      "<DBAF43F0>": "If we talk to the Nopon, they'll buy it.\nIt's not something they'll have trouble selling."
     },
     {
       "$id": 60,
@@ -628,7 +628,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's a great idea! We should do that!"
+      "<DBAF43F0>": "That's a great idea! Let's do that!"
     },
     {
       "$id": 61,
@@ -638,7 +638,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This way Lambda gets to sell its ether,\nand ether-starved colonies get to buy\nit from Nopon."
+      "<DBAF43F0>": "Lambda can sell its ether,\nand the colonies with ether shortages\ncan buy it from the Nopon......"
     },
     {
       "$id": 62,
@@ -648,7 +648,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But you're going to need to get some\nkind of approval for it, aren't you?"
+      "<DBAF43F0>": "But even to do that,\nyou need permission, right?"
     },
     {
       "$id": 63,
@@ -658,7 +658,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I'll put the request in."
+      "<DBAF43F0>": "......Yes. I'll submit the request."
     },
     {
       "$id": 64,
@@ -668,7 +668,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What, just like that?"
+      "<DBAF43F0>": "Will it be approved that quickly?"
     },
     {
       "$id": 65,
@@ -678,7 +678,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's better to get the ball\nrolling straight away."
+      "<DBAF43F0>": "It has to be approved quickly.\nNo matter what..."
     },
     {
       "$id": 66,
@@ -688,7 +688,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "First we have to open talks with the\nNopon. The merchants, preferably."
+      "<DBAF43F0>": "For now, let's talk to the Nopon.\nFor this kind of thing, it's best\nto talk to the Nopon traders."
     },
     {
       "$id": 67,
@@ -698,7 +698,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can take care of that, if you want?"
+      "<DBAF43F0>": "Shall we go for you?"
     },
     {
       "$id": 68,
@@ -708,7 +708,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Would you?"
+      "<DBAF43F0>": "You would?"
     },
     {
       "$id": 69,
@@ -718,7 +718,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course. No trouble."
+      "<DBAF43F0>": "Yes, that's no trouble."
     },
     {
       "$id": 70,
@@ -728,7 +728,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's a Nopon trader near the entrance\nto the colony. Thanks for this."
+      "<DBAF43F0>": "The Nopon traders are near the entrance to Lambda.\nWell then, I'm counting on you."
     }
   ]
 }

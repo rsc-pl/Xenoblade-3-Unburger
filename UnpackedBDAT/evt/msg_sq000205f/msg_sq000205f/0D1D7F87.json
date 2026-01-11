@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now we should be able to claim\nthe contents of those containers."
+      "<DBAF43F0>": "It looks like we can retrieve the contents of the containers now."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We may be able to claim more\nthan we first anticipated."
+      "<DBAF43F0>": "We might be able to retrieve\nmore supplies than we first expected."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How d'you reckon?"
+      "<DBAF43F0>": "How so?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's how."
+      "<DBAF43F0>": "That, right there."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By restoring power to the Iron Giant,\nit would seem we've brought the\nmicrofab back to life as well."
+      "<DBAF43F0>": "It seems that by restoring power to the Iron Giant,\nthe simple fabricator has become usable as well."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So yes, I'd recommend checking\nthe fabricator while we're on our\nlittle salvaging stint."
+      "<DBAF43F0>": "Along with retrieving the supplies from the containers,\nlet's check the fabricator too."
     }
   ]
 }

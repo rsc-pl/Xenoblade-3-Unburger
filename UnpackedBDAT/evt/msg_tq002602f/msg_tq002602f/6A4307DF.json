@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You lot! Identify yourselves!"
+      "<DBAF43F0>": "You there! What is your affiliation!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Kevesi soldiers?"
+      "<DBAF43F0>": "They're Kevesi soldiers."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tell me, have you seen a man in a mask?\nWe've been looking for him."
+      "<DBAF43F0>": "Did you see a man in a mask?\nWe were chasing him—"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait! They're with a bunch of Agnians.\nMust be those Ouroboros we've been\nhearing about!"
+      "<DBAF43F0>": "Wait! They're with Agnians.\nAren't they those Ouroboros!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Traitors to the Crown?!"
+      "<DBAF43F0>": "Traitors who defy the Queen!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? Since when did we ever-"
+      "<DBAF43F0>": "Huh? What are you talking—"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, you think you can talk your way out of\na righteous beating? Haha! Not today!"
+      "<DBAF43F0>": "Did you think you could play dumb?!\nHey, let's get them!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Tch, today's really not our day, is it?"
+      "<DBAF43F0>": "...Tch, one after another.\nWhat is going on!"
     }
   ]
 }

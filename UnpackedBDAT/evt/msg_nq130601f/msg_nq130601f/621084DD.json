@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "You hand over the extra provisions."
+      "<DBAF43F0>": "You hand over the supplies."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right, I think we're good here."
+      "<DBAF43F0>": "...Yes, received."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Satisfied that we're as good\nas we say now, Scruff?"
+      "<DBAF43F0>": "Do you understand Colony Iota's greatness now,\nMr. Fuzzball?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have a name-"
+      "<DBAF43F0>": "My name is..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Take care of the commander, Taion."
+      "<DBAF43F0>": "Taion,\nI'm counting on you to take care of our commander."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "'Fraid I won't be able to grace you\nwith my presence any more."
+      "<DBAF43F0>": "I won't be able to\nbe with you anymore."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Your time's up...?"
+      "<DBAF43F0>": "Could it be, your time is already...?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I did think it was odd."
+      "<DBAF43F0>": "I thought something was strange."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's not just about the time you've got left."
+      "<DBAF43F0>": "It's not just about your remaining time..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You mean to leave, don't you?"
+      "<DBAF43F0>": "You're planning to leave here, aren't you?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeesh. You're just too perceptive,\nCommander. You got me."
+      "<DBAF43F0>": "Oops, you found me out."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...What?"
+      "<DBAF43F0>": "...Eh?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I hadn't heard anything about this!"
+      "<DBAF43F0>": "I haven't heard about that!?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I just made up my mind."
+      "<DBAF43F0>": "Yeah, I just decided."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colony 4, I'm thinking. I hear it's\nfull of drive and ambition."
+      "<DBAF43F0>": "I'm going to try going to Colony 4.\nI hear they have a strong hunger for success."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wanna see if I can make it there."
+      "<DBAF43F0>": "I want to test how far my current skills\nwill take me."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Figured I'd try Colony 30.\nBet there's never a dull moment\nwith all those Nopon around."
+      "<DBAF43F0>": "I'm going to try going to Colony 30.\nIt's full of Nopon, so it doesn't seem like it'll be boring."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I want to party like a 'Pon\nat least once before I go."
+      "<DBAF43F0>": "Living life to the fullest, you know?\nI want to try it once."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks for the inspiration, Mio."
+      "<DBAF43F0>": "It's thanks to Mio giving me the hint."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is this such a good idea?\nIf you leave now..."
+      "<DBAF43F0>": "...Are you really sure?\nIf you leave now..."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It means goodbye, once and for all."
+      "<DBAF43F0>": "We might never see each other again."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But you're going to leave anyway."
+      "<DBAF43F0>": "...But you're still going, aren't you?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Look, Colony Iota is fantastic. Really.\nYou value and reward hard work."
+      "<DBAF43F0>": "...Colony Iota is wonderful.\nIf you work hard, your evaluation and treatment improve."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But you know what? Maybe I'm the person\nwho should judge the value of my life."
+      "<DBAF43F0>": "But I realized that I should be the one\nto evaluate my own life."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Well. Color me speechless."
+      "<DBAF43F0>": "...I'm so shocked I'm at a loss for words."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You'll be OK, Lexy. I know it'll be tough\nwithout me, but you'll survive."
+      "<DBAF43F0>": "Niina-chan will be fine.\nEven without \"us.\""
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's not get ahead of ourselves."
+      "<DBAF43F0>": "Deciding things on your own again..."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is that a weight off for you?\nBe honest now."
+      "<DBAF43F0>": "Would it be easier to understand if I said\nyou can let go of your burdens?"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "......"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I've always suspected, but now\nI know for certain. Our captain is\nan imbecile."
+      "<DBAF43F0>": "...I've thought this for a while, but\nyou really are an idiot, Captain."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ouch. That cuts deep, man!\nNot that you're wrong."
+      "<DBAF43F0>": "So mean to the very end...\nThough I admit I am an idiot."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll take over your duties."
+      "<DBAF43F0>": "I'll take over properly from here.\nSo..."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You go ahead and live out\nyour days the way you want to.\nKeep smiling to the end."
+      "<DBAF43F0>": "Live as you please,\nand keep smiling until the very end."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Haha! Yeah, I think I can\nmanage that, mate."
+      "<DBAF43F0>": "Hahaha!\nIf that's the case, leave it to me."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, I'm going to head off\nbefore things get depressing."
+      "<DBAF43F0>": "Well then...\nI'm leaving before things get sentimental."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Take care!"
+      "<DBAF43F0>": "Take care, everyone!"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you, Fugen... For everything..."
+      "<DBAF43F0>": "For everything until now... thank you..."
     }
   ]
 }

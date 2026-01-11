@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That voice..."
+      "<DBAF43F0>": "That voice just now..."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I know who you are!"
+      "<DBAF43F0>": "As I thought, you are..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Your Majesty!"
+      "<DBAF43F0>": "Melia-sama!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "(sigh) Did it fail?"
+      "<DBAF43F0>": "Haa, a failure, I see..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I understand how you feel, but you\nmust think of your own well-being!"
+      "<DBAF43F0>": "I understand your feelings,\nbut your safety is paramount."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Please...have patience, I beg you!"
+      "<DBAF43F0>": "Please, be patient..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Surely I've been patient enough."
+      "<DBAF43F0>": "I have been patient."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Stuck there in Origin, it's enough\nto send one insane."
+      "<DBAF43F0>": "For an mind-numbingly long time, inside Origin."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Um... Can we help you?"
+      "<DBAF43F0>": "[ML:line len=1 ]Um, what is going on?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Her Majesty is insistent that she explore\nthe outside world undercover..."
+      "<DBAF43F0>": "Melia-sama insists on going out\nundercover..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wanted to see for myself what the beings\nof this world thought, what they needed."
+      "<DBAF43F0>": "I wish to see what the people living in this world\nthink, and what they need."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Until now, all I could do was perceive\ndata... But no longer."
+      "<DBAF43F0>": "Until now, I could only perceive them...\nbut now is different."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I know, yes, but...if you simply\ngave us the order, we could\nperform all the legwork for you..."
+      "<DBAF43F0>": "Even without you going yourself,\nif you would just give us your instructions..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are things you can't understand\nunless you experience them for yourself."
+      "<DBAF43F0>": "There are things one cannot understand\nwithout seeing and hearing them for oneself."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then at least allow us to accompany you!"
+      "<DBAF43F0>": "In that case, we shall accompany you!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If I go with you, won't\nthat draw attention?"
+      "<DBAF43F0>": "If you all are with me,\nwill that not attract more attention...?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How about if we went with you?"
+      "<DBAF43F0>": "Then, we'll go with you."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're quite well-traveled around\nAionios now. There are plenty of places\nwe could show you around, I'm sure."
+      "<DBAF43F0>": "We have traveled all over Aionios.\nI think there are places we can guide you to."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And of course, we share a common goal."
+      "<DBAF43F0>": "And also... I am sure our goal is the same."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are people out there living\nin the harshest conditions, yet still\nthey struggle on."
+      "<DBAF43F0>": "No matter how difficult the situation,\nthere are people trying to live."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We want to help them all too, just like you."
+      "<DBAF43F0>": "We want to help everyone too."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You want to help?"
+      "<DBAF43F0>": "You all..."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "More people makes for more merries!"
+      "<DBAF43F0>": "It is fun when everyone is together, desu mo."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Would be mega merries with more Melia!"
+      "<DBAF43F0>": "Melia-san should come too, desu mo~"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Manana, you must refer to Her Highness\nin the proper manner."
+      "<DBAF43F0>": "Manana, surely \"Melia-san\" is..."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Manana speak improper?\nOh, that right. Many sorries, Melia-chan!"
+      "<DBAF43F0>": "Not quite right, desu mo?\nThen Melia-chan, desu mo."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "M-Melia-chan?!"
+      "<DBAF43F0>": "Melia-\"chan\"!?"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Please, Your Highness,\nforgive our insolence!"
+      "<DBAF43F0>": "My apologies, I apologize for the discourtesy."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Taion did a boo-boo?"
+      "<DBAF43F0>": "Taion, did Manana do something bad, desu mo?"
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "*I* didn't."
+      "<DBAF43F0>": "It was not me."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Haha... It's been a long time\nsince anyone called me that."
+      "<DBAF43F0>": "Fufu... It has been a long time since I was called that."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then I have a proposal.\nThey will be my only guards."
+      "<DBAF43F0>": "And it is a welcome proposal.\nThere could be no better \"guards\" than them."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Your Majesty, why must you do this?\nWhat necessitates it?"
+      "<DBAF43F0>": "[ML:line len=1 ]Why do you push yourself so?"
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You have only just returned!"
+      "<DBAF43F0>": "Even though you have only just returned..."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You are the hope of all Keves!\nShould the unthinkable happen, then-"
+      "<DBAF43F0>": "Melia-sama is the hope of Keves.\nIf something were to happen..."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're such a fusspot, Aizel."
+      "<DBAF43F0>": "You are truly a worrier, Aizel."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But I want you to understand. The future\nis not shouldered by me alone."
+      "<DBAF43F0>": "But I want you to understand.\nThe future is not something I bear alone."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's something that is created by\neach and every person in the world."
+      "<DBAF43F0>": "It is something to be decided by\neveryone living in this world, one by one."
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I never wanted to sit there\nin my ivory tower and gaze\ndown from on high."
+      "<DBAF43F0>": "To rest on my laurels as queen, to rule by\nmerely looking down on everyone..."
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's not the kind of ruler I am."
+      "<DBAF43F0>": "That is not what I desire."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I apologize. I spoke out of turn."
+      "<DBAF43F0>": "I have spoken out of turn..."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm not criticizing you."
+      "<DBAF43F0>": "I am not blaming you."
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You are what I wanted. You are my hope."
+      "<DBAF43F0>": "You all are my hope."
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have a request -\nor rather, something to discuss."
+      "<DBAF43F0>": "I have a request for everyone...\nNo, something to discuss."
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Could I ask you to take a fellow\ntraveler under your wing?"
+      "<DBAF43F0>": "During our travels, would you treat me\nas just another companion?"
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Her name is Melia."
+      "<DBAF43F0>": "And my name, just as Melia."
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If that's...truly what you wish for."
+      "<DBAF43F0>": "If you... are okay with that."
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't see why not.\nGlad to have you with us, Melia."
+      "<DBAF43F0>": "There's no problem at all.\nIt's nice to meet you, Melia."
     },
     {
       "$id": 51,
@@ -538,7 +538,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Talking to the Queen on equal footing...\nThat's crazy, mate!"
+      "<DBAF43F0>": "Calling the Queen by her name..."
     },
     {
       "$id": 52,
@@ -548,7 +548,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I'm gonna feel so awkward..."
+      "<DBAF43F0>": "Makes you a little nervous, doesn't it?"
     },
     {
       "$id": 53,
@@ -558,7 +558,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No need for stress. Just act natural."
+      "<DBAF43F0>": "We should just act as usual, mo."
     },
     {
       "$id": 54,
@@ -568,7 +568,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Stomach of Manana getting rumbly!"
+      "<DBAF43F0>": "Manana is getting hungry, desu mo."
     },
     {
       "$id": 55,
@@ -578,7 +578,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Maybe some stress for Manana."
+      "<DBAF43F0>": "Manana is a little nervous, mo..."
     },
     {
       "$id": 56,
@@ -588,7 +588,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahaha!"
+      "<DBAF43F0>": "Fufu..."
     },
     {
       "$id": 57,
@@ -598,7 +598,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's wrong?"
+      "<DBAF43F0>": "What is it?"
     },
     {
       "$id": 58,
@@ -608,7 +608,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Our wings..."
+      "<DBAF43F0>": "[ML:line len=1 ]These wings."
     },
     {
       "$id": 59,
@@ -618,7 +618,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Your High-"
+      "<DBAF43F0>": "Quee... no."
     },
     {
       "$id": 60,
@@ -628,7 +628,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry... I still can't believe you\nhave them too, Melia."
+      "<DBAF43F0>": "I was just thinking that Melia has them too."
     },
     {
       "$id": 61,
@@ -638,7 +638,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Makes me feel special.\nLike we're the same."
+      "<DBAF43F0>": "We are the same."
     },
     {
       "$id": 62,
@@ -648,7 +648,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right. We are the same."
+      "<DBAF43F0>": "[ML:line len=1 ]Yes... we are the same."
     },
     {
       "$id": 63,
@@ -658,7 +658,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Your Majesty..."
+      "<DBAF43F0>": "Melia-sama..."
     },
     {
       "$id": 64,
@@ -668,7 +668,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I urge you, please take care..."
+      "<DBAF43F0>": "Please, be careful."
     },
     {
       "$id": 65,
@@ -678,7 +678,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll be relying on you in my absence, Aizel."
+      "<DBAF43F0>": "I leave things here in your hands, Aizel."
     },
     {
       "$id": 66,
@@ -688,7 +688,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sorry to saddle you all\nwith me, everyone."
+      "<DBAF43F0>": "Now then, everyone... I know this is a bother, but."
     },
     {
       "$id": 67,
@@ -698,7 +698,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But I'm looking forward to it too."
+      "<DBAF43F0>": "I look forward to working with you."
     }
   ]
 }

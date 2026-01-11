@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hiya, Kryto. Can we bend your ear\nabout something for a minute?"
+      "<DBAF43F0>": "Kryto, do you have a moment?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No worries. It's my day off. I can offer you\neven longer than a minute, if you like."
+      "<DBAF43F0>": "More than a moment is fine.\nI'm off duty today."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's up, anyhow?\nWanna go somewhere else?"
+      "<DBAF43F0>": "……Did something happen?\nShould we move somewhere else?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh...no... Right here's fine! It's nothing\nmajor or weird or anything."
+      "<DBAF43F0>": "Ah, it's fine!\nIt's not that kind of serious talk."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's coming up to your Coming-of-Age\npretty soon, yeah? I guess I should say\ncongrats, or something?"
+      "<DBAF43F0>": "You're participating in the next Coming-of-Age Ceremony, right?\nCongratulations…… is that okay to say?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahaha... That's what it was?\nWell, thanks. I'm touched."
+      "<DBAF43F0>": "Ahaha, so that's what this is about……\nThank you, I'm happy."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If things were a little different, I suppose\nI'd be inviting you to come along to it."
+      "<DBAF43F0>": "I'd like to invite you all to come……\nbut……"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But there are one or two problems in the\nway this year, so it's looking like the rite\nwon't take place, I'm sorry to say."
+      "<DBAF43F0>": "A lot has happened this year,\nso the ceremony itself seems difficult. I'm sorry."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "About that... So what exactly is the\nproblem this year, then?"
+      "<DBAF43F0>": "About that,\nwhat exactly is the problem?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Dunno exactly. Guess it just...\ndidn't come together, maybe?"
+      "<DBAF43F0>": "I think it's simply that they don't have enough hands."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It just got nixed from above, so I didn't\nreally pry, but that'd be my guess."
+      "<DBAF43F0>": "I haven't confirmed it with those in charge,\nbut probably……"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you OK with that though?\nIt's a real big deal of an event,\nisn't it?"
+      "<DBAF43F0>": "Is that really okay with you?\nIt's an important ceremony, isn't it?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, sure, but winning this fight we're in\nis an even bigger deal. There's not much\nwe can do about that."
+      "<DBAF43F0>": "Winning this battle is more important.\nThere's nothing we can do about it."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a shame though. I was really looking\nforward to the banquet. After Coming-of-Age,\nall the new adults usually make food."
+      "<DBAF43F0>": "But I wanted everyone to eat that.\nAfter the ceremony, all the new adults\ncook a meal together, but……"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This year's cohort had some real dab-hand\ncooks as well. I'm gutted I won't get to\nstrut my stuff as a chef too."
+      "<DBAF43F0>": "This time, we have a lot of members who are good at cooking,\nso I wanted to treat you all."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa! There's a buffet at this thing?!"
+      "<DBAF43F0>": "Food!? You make it after the ceremony?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's the custom to give thanks for the\ncelebration. A give-and-take kinda thing."
+      "<DBAF43F0>": "It is customary to serve it in return for the celebration.\nIt's a give-and-take sort of thing."
     }
   ]
 }

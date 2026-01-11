@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Welcome back.\nDid you find them OK?"
+      "<DBAF43F0>": "Welcome back. Were you able to meet them?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, we found 'em. Not only that,\nwe got roped into doing their work\nfor them. Result!"
+      "<DBAF43F0>": "We met them, but we ended up having to help\nwith their mission."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Check this out!"
+      "<DBAF43F0>": "Here, this."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You guys brought this back, did you?"
+      "<DBAF43F0>": "You all brought this?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Cool. How about the Colony 15 crew?"
+      "<DBAF43F0>": "That's fine, but……\nwhere is everyone from Colony 15?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They said they had some leads on another\nisland, so they went to check it out."
+      "<DBAF43F0>": "They said they had a lead,\nso they went to search another location."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right. I guess they were just trying to\nget the stuff they said they'd get as\nquickly as possible then."
+      "<DBAF43F0>": "I see.\nSo they're trying to achieve their goal quickly."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry to keep you waiting there!\nUnfortunately, the search was a\nbit more difficult than we'd thought."
+      "<DBAF43F0>": "Sorry to keep you waiting.\nFinding it was harder than I thought."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's seven bits we\nbrought back this time."
+      "<DBAF43F0>": "This time, we got seven."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How many did you get, Cap'n?"
+      "<DBAF43F0>": "How many did you guys get, Captain?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Me? Seven."
+      "<DBAF43F0>": "We got seven too."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK... So if we put them all together with\nthe ones from before, then we have..."
+      "<DBAF43F0>": "Then……\nif we add it to what we had before……"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa...19?!"
+      "<DBAF43F0>": "Is it 19!?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nah... More than 20, surely?"
+      "<DBAF43F0>": "No, it's easily over 20, isn't it?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's more."
+      "<DBAF43F0>": "It is."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What the...?!"
+      "<DBAF43F0>": "Ooh!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah!"
+      "<DBAF43F0>": "Yes!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You seem over the moon!\nUm, why is that?"
+      "<DBAF43F0>": "You all seem happy, but…… why?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll take 20 of these, and present\nthem to the Lost Numbers."
+      "<DBAF43F0>": "If we collect 20 of these\nand contribute to the Lost Numbers,"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we do that, maybe the Cap'n will\nget permission to come and go in the\nCity even without the Ouroboros!"
+      "<DBAF43F0>": "The Captain can get permission to enter the City\nwithout an Ouroboros escort!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, that was the deal."
+      "<DBAF43F0>": "Yes, that is the promise."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, that's the deal we managed\nto beg from Monica, the scary old\nlady and the grumpy old dude!"
+      "<DBAF43F0>": "We pleaded with Monica-san, the scary old lady,\nand the gloomy old man to make this promise."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You mean..."
+      "<DBAF43F0>": "You all……"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Triden... To borrow a City word, we're\nfamily now. We're the Triden family!"
+      "<DBAF43F0>": "To use a word we learned in the City,\nwe are the Triden Family."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, I mean, in the City, a family\nis something that stays together, right?"
+      "<DBAF43F0>": "In the City,\nfamilies are supposed to be together."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can't have you living off\nin a whole other place, Cap'n!"
+      "<DBAF43F0>": "It is not right for the Captain alone\nto live in a different place."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Arrrr..."
+      "<DBAF43F0>": "Hah……"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Aye, I suppose ye're right.\nAnd I have a family!"
+      "<DBAF43F0>": "I see, I see……\nSo I have a family now……"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah! The Triden family!\nHas a nice ring to it!"
+      "<DBAF43F0>": "That's right.\nThe Triden Family."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well me hearties, let's sup\nsome grog to seal the deal!"
+      "<DBAF43F0>": "Alright!\nYou all, we're going for a celebratory drink!"
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It'll be Api's treat over at\nMichiba Canteen! We're family\nnow...so eat your fill!"
+      "<DBAF43F0>": "It's on Api at Michiba Canteen!\nSince we're family, you can eat as much as you want for free!"
     },
     {
       "$id": 32,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, Triden's looking so happy right now..."
+      "<DBAF43F0>": "Triden looked so happy……"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They're a decent bunch, aren't they?"
+      "<DBAF43F0>": "They're good people, aren't they?"
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sure they're going to get along\njust fine with the Lost Numbers.\nAnd the City folk too!"
+      "<DBAF43F0>": "They'll surely do well, not just with the Lost Numbers,\nbut in the City too."
     }
   ]
 }

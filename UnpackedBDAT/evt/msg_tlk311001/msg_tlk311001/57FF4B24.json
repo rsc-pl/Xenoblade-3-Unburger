@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Say, what kind of person\nwould you say Isurugi is?"
+      "<DBAF43F0>": "What kind of person is Isurugi?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah... You want to know about\nthe commander, do you?"
+      "<DBAF43F0>": "Hmm... The commander, you mean."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Our commander's one of the most\nexceptional Healers in Agnus. His attacks\nare nothing to be sniffed at either."
+      "<DBAF43F0>": "The commander is an excellent Healer, even among Agnians.\nAnd he's also good at attacking."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When his team need no more attention,\nhe'll switch to offense and pull everyone\nout of dire straits with his Talent Art."
+      "<DBAF43F0>": "When there are no allies to heal, he goes on the offensive,\nand if things get dangerous, he saves us\nwith his Talent Art."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's not often we get to fight by his side\ngiven his role as a leader, but when he\ndoes step in, it's a real sight to behold."
+      "<DBAF43F0>": "He's usually in command, so\nI haven't fought alongside him much[ML:line ]...\nbut it's a sight to behold."
     }
   ]
 }

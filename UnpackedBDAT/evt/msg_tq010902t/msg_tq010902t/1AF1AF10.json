@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Could we have a moment of your time?"
+      "<DBAF43F0>": "May I have a moment of your time?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's wrong? There an emergency?"
+      "<DBAF43F0>": "What is it? An emergency patient?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We want something called a \"natural spa\".\nWe were hoping you might know where\nwe can get one."
+      "<DBAF43F0>": "We want something called an onsen.\nWe were hoping to get some information."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Haha, so you want a spa, do you?"
+      "<DBAF43F0>": "Hah! You want an onsen!"
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry, sorry. It's just I hadn't heard anyone\ntalk about one in a good while."
+      "<DBAF43F0>": "Ah, no, no.\nIt's just that I haven't heard that word in a long time."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's a quaint pastime and no mistake.\nBut you know, a spa isn't something you\ncan just \"have\"."
+      "<DBAF43F0>": "It's quite a refined hobby, but\nan onsen is not something you \"get.\""
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a pastime? You mean like a hobby?"
+      "<DBAF43F0>": "A hobby? Is it a hobby?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Long ago, people used to go to\ngreat lengths looking for natural spas."
+      "<DBAF43F0>": "A while back, there were people who\nsearched for onsen."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Soldiers tired from war would heal their\nwounds with their help, then come out\nready to fight again."
+      "<DBAF43F0>": "They say that soldiers tired from battle would\nheal their wounds in an onsen and then go to the next fight."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I guess you'd say a spa is something you\nimmerse in. It warms your core and soon\nenough you're better. So our records say!"
+      "<DBAF43F0>": "After all, an onsen is something you soak in.\nIf you warm your body to the core, you'll recover quickly.\nWell, that's what's written in the documents."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The more we hear about this the\nstranger it sounds! You soak your\nbody...and it heals?"
+      "<DBAF43F0>": "The more I hear, the more mysterious it sounds.\nSoaking your body heals you?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right. Though I'm sorry to say, over\nhowever many decades they've all\nbut disappeared."
+      "<DBAF43F0>": "Yes, but unfortunately, I hear most of them\nhave disappeared in the last few decades."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They can disappear?"
+      "<DBAF43F0>": "They can disappear..."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yep. You can go looking for one,\nbut I wouldn't hold out too much hope\nif I were you."
+      "<DBAF43F0>": "You could try looking for one, but\nit's probably better not to get your hopes up."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This has been a great help.\nThank you kindly."
+      "<DBAF43F0>": "That was very helpful.\nThank you very much."
     }
   ]
 }

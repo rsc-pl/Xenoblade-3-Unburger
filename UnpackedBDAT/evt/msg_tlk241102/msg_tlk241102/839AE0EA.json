@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, have you gotten used\nto your new home yet?"
+      "<DBAF43F0>": "Are you getting used to it here?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Kraa..."
+      "<DBAF43F0>": "......"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tirkin help smol bro and\nGhondor-hooman."
+      "<DBAF43F0>": "Tirkin[ML:line ]...\nwill help little brother\nand Ghondor[ML:line ]..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, yeah?\nI'm sure that's a really big help!"
+      "<DBAF43F0>": "I see[ML:line ]...\nI'm rooting for you."
     }
   ]
 }

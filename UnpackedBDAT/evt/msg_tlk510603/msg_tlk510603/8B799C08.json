@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did you lose your way again?"
+      "<DBAF43F0>": "Are you lost again?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nope, not this time.\nI know exactly where I am!"
+      "<DBAF43F0>": "No, not this time.\nI'm not lost at all."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When in doubt, I've been asking wrinklies\nthe way. And they're always kind enough\nto give me really specific directions!"
+      "<DBAF43F0>": "Lately, when I ask the wrinkly people for directions,\nthey all give me very kind and detailed instructions."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sounds like you're fitting right in!"
+      "<DBAF43F0>": "It sounds like you're fitting into the City."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But, dude - 'fess up.\nYou're lost."
+      "<DBAF43F0>": "But you're still effectively lost, aren't you?"
     }
   ]
 }

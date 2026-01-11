@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sandstorms out in the wilderness are\ncausing a lot of respiratory problems\namong troops at the moment."
+      "<DBAF43F0>": "The dust clouds in the wilderness\nare causing respiratory problems among the soldiers."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Our current equipment isn't up to\nthe task. We don't even have protective\nmasks. I don't know how to fix this..."
+      "<DBAF43F0>": "But with only the equipment here,\nwe can't handle it, and we don't have any dust masks...\nUgh, what should I do..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm... I'll speak with Olesha later,\nsee if she can give some guidance on that."
+      "<DBAF43F0>": "Hmmm... It's no use, I can't think of anything.\nI'll ask Squad Leader Olesha for instructions later."
     }
   ]
 }

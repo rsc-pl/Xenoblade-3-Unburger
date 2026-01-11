@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hold up. That Levnis..."
+      "<DBAF43F0>": "Huh? That Levnis..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, Commander! Good to see you back."
+      "<DBAF43F0>": "Ah...\nWelcome back, Commander."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey Zooza."
+      "<DBAF43F0>": "We're back~!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This li'l buddy's the Levnis we lent Isurugi,\nisn't it? Doesn't he want it any more?"
+      "<DBAF43F0>": "This one is the Levnis we lent\nto Isurugi, right? What happened?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To thank us for your offer of cooperation\nwith Colony Lambda, they've sent us a fair\nbit of supplies and food..."
+      "<DBAF43F0>": "As a token of gratitude for the cooperation request,\nwe received resource materials and food\nfrom Colony Lambda."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wow, all this?!\nI'll need to thank him a bunch!"
+      "<DBAF43F0>": "...Wow, this much!?\nI have to thank them later."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, Commander, there you are!\nGuess what?"
+      "<DBAF43F0>": "Ah, Commander!\nListen to this!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colony 4 just approached us with\na deal to receive regular shipments\nof levnite from them!"
+      "<DBAF43F0>": "Colony 4 has offered to make\nregular deliveries of Levnistrite\nto us!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What? What? What?!"
+      "<DBAF43F0>": "What! Really!?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll head down the docks,\nand tell everyone!"
+      "<DBAF43F0>": "I'll go tell everyone at the docks!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And just like that, it would appear that the\nbond between our respective colonies has\nbeen restored."
+      "<DBAF43F0>": "It seems the cooperative system\nwith the other colonies is in place."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nice one!"
+      "<DBAF43F0>": "Not bad."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh?"
+      "<DBAF43F0>": "……Huh?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He hasn't even realized, has he?\nCome on, man!"
+      "<DBAF43F0>": "Idiot.\nYou don't realize it?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You brought everyone together, Rudi."
+      "<DBAF43F0>": "Rudi is the one who connected everyone."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I...I did?"
+      "<DBAF43F0>": "I did...?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's really quite amazing. Even though\nyou're all doing different things."
+      "<DBAF43F0>": "It's amazing, isn't it?\nEveryone is doing completely different things,"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You help each other out in all sorts of\ndifferent ways."
+      "<DBAF43F0>": "but in various ways,\nthey support each other's present."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's right. And when there's something\nmissing, it always has a knock-on impact\nsomewhere else."
+      "<DBAF43F0>": "Yes. If something is lacking,\nit affects somewhere else..."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sometimes you don't notice\nsomething's awry until after\nthat effect has manifested itself."
+      "<DBAF43F0>": "There are many things we only realize\nafter a change has occurred."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Ahh."
+      "<DBAF43F0>": "...I see."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You know, the world's kind of\nlike a Levnis, isn't it?"
+      "<DBAF43F0>": "The world is a Levnis."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's like a mesh of so many\ndifferent parts, all interconnected."
+      "<DBAF43F0>": "Just as various parts interlock\nand move..."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And because it's made up\nof all these different things and\npeople, it moves. It's alive."
+      "<DBAF43F0>": "because there are various people and things,\nthe world also moves... and lives."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So then, Rudi and Manana are also\nbelong to parts of world?"
+      "<DBAF43F0>": "Are Rudi-san and Manana also\nparts of the world, desu mo?"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not just us."
+      "<DBAF43F0>": "It's not just us."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My buddies here are too."
+      "<DBAF43F0>": "These guys are, too."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not just some tools to be used, eh?"
+      "<DBAF43F0>": "The 'not just tools' thing, huh."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right, they're not.\nI'm just reaching for ideas right now..."
+      "<DBAF43F0>": "Yeah. I'm still feeling my way through it, but..."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But hey, I'm a mechanic. And if the\nworld's like a Levnis, then I sure as\nspark should be able to fix it!"
+      "<DBAF43F0>": "I'm a mechanic.\nIf the world is the same as a Levnis, I can surely build it."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll make a new \"tomorrow\",\nwhere we can all live in harmony."
+      "<DBAF43F0>": "The shape of a new tomorrow\nwhere we live together."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ambitious goal for grease monkey."
+      "<DBAF43F0>": "That's a rather grand story, mo."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But willing to keep on radar.\nWith much giving of side-eye."
+      "<DBAF43F0>": "...But it can't be helped, mo.\nI'll watch without expecting anything, mo."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll take that as a compliment!"
+      "<DBAF43F0>": "I did it! I got praised."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Was not compliment."
+      "<DBAF43F0>": "I wasn't praising you, mo."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, I believe in you, mate."
+      "<DBAF43F0>": "I believe in you."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're Keves's number one mechanic\nafter all. You can't argue with that!"
+      "<DBAF43F0>": "After all, Rudi is\nKeves's number one mechanic."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Haha! Shucks..."
+      "<DBAF43F0>": "Hehe... yeah!"
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK then, let's report in to Yuzet,\nshall we?"
+      "<DBAF43F0>": "Well then,\nlet's go report to Yuzet."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gray!"
+      "<DBAF43F0>": "Gray."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're the guy who works with Monica..."
+      "<DBAF43F0>": "You're from Monica's group..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's something I wanted to\npick your brains about."
+      "<DBAF43F0>": "There's something that's been bothering me."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hrrm... Let's hear it."
+      "<DBAF43F0>": "Say it."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've heard your Rozana has been\ntrying to get outside..."
+      "<DBAF43F0>": "Your Rozana was trying\nto go \"outside\"..."
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She was stopped by the soldiers\nand turned back just like that, they say."
+      "<DBAF43F0>": "I heard she was stopped by the soldiers\nand turned back."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just for my own conscience, I went to\ncheck it with the R&D team, but they said\nshe'd not come in that day."
+      "<DBAF43F0>": "I went to the technology department to confirm,\nand they said she hadn't come in today."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa, is she OK? What if she was\nforced into something by that lot who\nattacked us?"
+      "<DBAF43F0>": "Hey, is that okay?\nCould she have been taken by the minions\nof the ones who attacked us?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You were attacked?"
+      "<DBAF43F0>": "The ones who attacked you?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's nothing.\nKeep going."
+      "<DBAF43F0>": "It's nothing.\nContinue."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Right, well, that's about it.\nI-it just seemed a bit fishy, is all,\nwhich is why I wanted it noted."
+      "<DBAF43F0>": "...Well, anyway,\nI had a bad feeling about it, so I thought I'd report it\nto be safe."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What did Monica have to say?"
+      "<DBAF43F0>": "What about Monica?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Um, about that... She actually took an\naway team and went out. Something about\na request from Rozana... Seemed urgent."
+      "<DBAF43F0>": "About that, she said Rozana asked her to,\nand she took a separate unit and headed outside...\nSaid it was urgent..."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I mean, I suppose it must've been,\nto get the boss moving like that...\nI wonder what that's all about."
+      "<DBAF43F0>": "Urgent as it may be,\nwhat kind of reason would make\nour boss move?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No clue.\n...But I'll look into it."
+      "<DBAF43F0>": "I don't know.\n...But I will check."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Appreciate it, really I do.\nSomehow I don't feel like sticking\nmy neck out myself, here..."
+      "<DBAF43F0>": "Please do. Really.\nI don't really want to stick my neck out."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gray, do you know where\nRozana could be?"
+      "<DBAF43F0>": "So, does Gray know\nwhere Rozana is?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I haven't the faintest idea."
+      "<DBAF43F0>": "I have no idea."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You seem real relaxed for someone\nwhose partner's missing, pal..."
+      "<DBAF43F0>": "Even though Rozana is missing,\nyou're awfully calm."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She made Monica leave the City,\nand tried to go outside herself, too...\nThat does feel rather odd."
+      "<DBAF43F0>": "Her trying to distance Monica from the City\nand go outside herself feels a bit unnatural."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Furthermore, Rozana should be aware of\nthe dangers that await a non-combatant\non the outside..."
+      "<DBAF43F0>": "A non-combatant leaving here carries risks\nthat Rozana should be aware of..."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right? And if there was something she\nneeded from beyond, couldn't she have\njust asked Monica?"
+      "<DBAF43F0>": "Right. If she needed to go outside,\nshe should have been able to ask Monica."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well? You wanna contribute or what?"
+      "<DBAF43F0>": "Hey, Gray.\nWhat are you going to do?"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Whatever the case may be,\nRozana's tough. She'll be fine."
+      "<DBAF43F0>": "...She is, in her own way,\na woman of great nerve."
     },
     {
       "$id": 26,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't know where she went,\nbut I can think of a few people who might."
+      "<DBAF43F0>": "I don't know where she went,\nbut I have an idea of a few people\nwho might know."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then, shall we try asking them?\nThat might be the quickest way."
+      "<DBAF43F0>": "In that case,\nasking them seems to be the quickest way."
     }
   ]
 }

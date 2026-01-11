@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK... So the floodgate is open now."
+      "<DBAF43F0>": "The floodgate is open, but..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks a million for that!\nIt's a massive help."
+      "<DBAF43F0>": "Thank you.\nThat was a great help."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So is everything good now?"
+      "<DBAF43F0>": "Is that it?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not quite... Technically, this would be for\nthe Lost Numbers' benefit, not ours, but..."
+      "<DBAF43F0>": "No, there's more.\nStrictly speaking, it's not from us,\nbut from the Lost Numbers..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh yeah? Well, it's not something I asked\nfor, at least."
+      "<DBAF43F0>": "It's not from me, at least."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh yeah? Well, it's not something I asked\nfor, I can tell you that."
+      "<DBAF43F0>": "It's not from me, I'll tell you that."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ghondor! Whatcha been up to?"
+      "<DBAF43F0>": "Ghondor... what were you doing?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, Agyou and Ungyou needed me for some\njunk. So, who put in this request from the\nLost Numbers then?"
+      "<DBAF43F0>": "Agyou and Ungyou called me.\nSo, who from the Lost Numbers is it?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That would've been me, Ghondor!"
+      "<DBAF43F0>": "I was the one who requested it, Ghondor."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You, Dana? Well. What's the story, then?"
+      "<DBAF43F0>": "What, it was you, Dana?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What do we gotta do now?"
+      "<DBAF43F0>": "So? What do you need?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd like you to clear out the monsters\nfrom Farview Cape."
+      "<DBAF43F0>": "I need you to eliminate the monsters\nat Farview Cape."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we're bringing everyone back, it could\nget pretty hairy if there are monsters there."
+      "<DBAF43F0>": "It would be dangerous to bring everyone back\nif there are monsters there."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course, it's our pleasure.\nBut why don't you want to fight yourself?"
+      "<DBAF43F0>": "I don't mind, but...\nAre you not going to fight?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Trust me, I'll be hot on your trail, with\nthe lot from the prison camp in tow."
+      "<DBAF43F0>": "I'll be heading to Farview Cape later\nwith the people from the prison."
     },
     {
       "$id": 16,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, I'll leave it up to you. I'm sure it\nwon't present a major problem for the\nlikes of you!"
+      "<DBAF43F0>": "Then I'll leave it to you.\nI doubt it will be too difficult for you all."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, Dana's a real smart cookie,\nall right. She takes care of her own\njob, and nothing else."
+      "<DBAF43F0>": "...Well, that's how it is.\nDana is a sharp one, so she'll probably\ndo her own work, but..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, if that's the situation, let's get out\nthere and handle those monsters."
+      "<DBAF43F0>": "If that's the case,\nI suppose we'll go hunt some monsters, too."
     }
   ]
 }

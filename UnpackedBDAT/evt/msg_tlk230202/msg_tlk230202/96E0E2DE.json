@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We may have some breathing space at\nthe moment, but the supplies we've got\nlaid away have their limits, of course."
+      "<DBAF43F0>": "While we have a surplus now,\nthe supplies we have stored are finite."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We won't be able to distribute them to\nall of the colonies. Please, think carefully\nabout how you're going to use them."
+      "<DBAF43F0>": "We cannot distribute them to all colonies,\nso please consider carefully."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't overthink it, though. Just share\nthem with the colonies that you think\nneed would them the most."
+      "<DBAF43F0>": "However, there is no need to be overly cautious.\nI suggest you distribute them in order,\nstarting with the colonies you are most concerned about."
     }
   ]
 }

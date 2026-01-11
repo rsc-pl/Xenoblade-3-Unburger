@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Have you come to have a\nnose around at this as well?"
+      "<DBAF43F0>": "Oh? Have you all\ncome to see this thing too?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...What are you talking about?"
+      "<DBAF43F0>": "......This thing?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So you didn't come to look at\nthe sensor I've developed?"
+      "<DBAF43F0>": "Hm? Didn't you come to see this sensor\nthat I developed?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What does it do, exactly?"
+      "<DBAF43F0>": "This is..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It reacts to enemy signatures."
+      "<DBAF43F0>": "This is a detection sensor\nthat reacts to the presence of enemies."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This little thing's indispensable for putting\non a nice show of defensive power without\nhaving to rely on Auto-Levs."
+      "<DBAF43F0>": "To exhibit a strong defensive capability\nwithout relying on autonomous Levnises,\nyou really need something like this."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It enables you to spot enemies without\nexpending manpower. Very clever."
+      "<DBAF43F0>": "I see.\nSo it allows you to detect enemies\nwithout incurring personnel costs."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I really want to get them installed all\nover the place. I don't suppose you'd\nbe up for helping?"
+      "<DBAF43F0>": "I was just about to install these\nin various places.\nSince you're here, why don't you help me out?"
     },
     {
       "$id": 9,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you sure we can touch them?\nIt won't think we're enemies?"
+      "<DBAF43F0>": "Um...... Is it okay for us to touch it?\nIt won't think we're enemies?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No need to worry on that front,\nthey can tell the difference."
+      "<DBAF43F0>": "This thing is designed to be able\nto tell the difference.\nSo don't worry."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So it's a bit like Kotora's Auto-Lev, yeah?"
+      "<DBAF43F0>": "Huh, so it's like the autonomous Levnis\nthat Kotora was handling."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, go on then. We'll help you out."
+      "<DBAF43F0>": "Alright, we'll help you out."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Great. So, the first installation needs\ndoing on the Old Cliffside Way. Shall we?"
+      "<DBAF43F0>": "That's a great help.\nThe first installation site is the Old Cliffside Way.\nLet's go."
     }
   ]
 }

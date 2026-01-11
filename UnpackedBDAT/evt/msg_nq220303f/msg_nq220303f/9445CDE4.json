@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd expect more footprints to\ncontinue up this way, but..."
+      "<DBAF43F0>": "The tracks should have\ncontinued around here, but..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...There aren't any, huh."
+      "<DBAF43F0>": "......They're gone."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maybe it went down here."
+      "<DBAF43F0>": "Did it perhaps go down here?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Probably..."
+      "<DBAF43F0>": "Most likely......"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Should we follow?"
+      "<DBAF43F0>": "Shall we follow?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, if it's got away to the lower levels\nwe don't need to pursue it."
+      "<DBAF43F0>": "No, if it fled to the lower level,\nthere's no need to pursue it deeply."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It won't be back here any time soon,\nand we'd be putting ourselves in great\ndanger down there."
+      "<DBAF43F0>": "It's unlikely to return soon,\nand it's dangerous for us to go to the lower level."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK."
+      "<DBAF43F0>": "Understood."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's head back then, and\nmake sure Amagi's OK."
+      "<DBAF43F0>": "Then let's head back for now.\nI'm worried about Amagi, too."
     }
   ]
 }

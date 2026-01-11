@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, what a relief. Looks like you're\nback on your feet. How do you feel?"
+      "<DBAF43F0>": "Ah... Good.\nIt seems you can move now.\nHow are you feeling?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My head still feels fuzzy... Any clue\nwhat happened to us back there?"
+      "<DBAF43F0>": "My head is still foggy...\nWhat on earth happened?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Actually, about that... I'll tell you,\nbut please try not to freak out."
+      "<DBAF43F0>": "...Actually, it's about that.\nPlease listen calmly."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To be truthful, we... We found traces\nof poison in the food you ate earlier."
+      "<DBAF43F0>": "The food you ate...\nwas laced with poison."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Poison...?!"
+      "<DBAF43F0>": "Poison...!?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Relax, please. It won't have any\nlasting effects, thanks to how\nquickly you received treatment."
+      "<DBAF43F0>": "Don't worry, it's not life-threatening.\nIt's thanks to the prompt treatment."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So does that mean...that Laszlo guy\nput poison in our dinner?!"
+      "<DBAF43F0>": "Poison... Don't tell me that guy\nspiked our food?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...He's actually being questioned\nby Bolearis in Command right now."
+      "<DBAF43F0>": "...As for Laszlo,\nhe is currently being questioned by Bolearis\nin the command room."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We should go there too. What he did was\nawful, no matter how you slice it!"
+      "<DBAF43F0>": "We should go too!\nThis is just too much, no matter what!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah! There's no gray area to this.\nWe can't let this slide!"
+      "<DBAF43F0>": "Yeah! I won't be satisfied\nuntil we get this sorted out!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hm..."
+      "<DBAF43F0>": "…………"
     }
   ]
 }

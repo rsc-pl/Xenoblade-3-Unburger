@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Inspector Lucione! What is the\nmeaning of this?"
+      "<DBAF43F0>": "Inspector Lucione!\nWhat is the meaning of this?!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can't...you can't be the mastermind\nbehind this invasion of Agnus?!"
+      "<DBAF43F0>": "Could it be... that you are the mastermind\nbehind the invasion of Agnus?!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I see the Ouroboros managed to follow\ntheir noses this far. How extremely\nirritating."
+      "<DBAF43F0>": "...I see.\nSo you've sniffed your way here, Ouroboros.\nYou're a persistent bunch of pests."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can't believe we went to all that trouble\nto find her when she just showed up here\non her own."
+      "<DBAF43F0>": "For you to come to us,\nsaves us the trouble of searching."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But how could such a brilliant inspector\ndo such a thing...?"
+      "<DBAF43F0>": "For such a capable inspector as yourself\nto do something like this...!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "On the contrary, Inspector Ulrich.\nYou're the one who has forgotten\nhis duty."
+      "<DBAF43F0>": "Inspector Ulrich,\nit is you who, despite being an inspector,\nhas forgotten your duty."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You swore an oath of fealty to the Queen,\nand instead here you are, you venomous,\nturncoat Aspar, betraying Keves!"
+      "<DBAF43F0>": "You swore loyalty to the Queen,\nyet you commit acts of betrayal against Keves,\nyou lowly scum...!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I haven't betrayed anyone! Everything I've\ndone was for the sake of Keves's future!"
+      "<DBAF43F0>": "I-I have not betrayed anyone!\nEverything was done with the future of Keves in mind..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ever since I heard about your\nreconciliation plan, I knew I had to\ndestroy you with my own hands!"
+      "<DBAF43F0>": "From the moment I heard about your harmony policy,\nI decided in my heart to strike you down with my own hands!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And you, Ouroboros! You're stained with\nthe sin of insurgency as well!"
+      "<DBAF43F0>": "Along with Ouroboros!\nPerish under the weight of your crime as rebels!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But Inspector Lucione...!"
+      "<DBAF43F0>": "Inspector Lucione...!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Stand back, Ulrich. We'll take it from here!"
+      "<DBAF43F0>": "Ulrich-san, stay back!\nWe'll handle this!"
     }
   ]
 }

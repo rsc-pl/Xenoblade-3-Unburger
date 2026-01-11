@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Welcome to Nico's warehouse! I'm Nico and\nthis is my, well, not \"my\" exactly, but it's a\nwarehouse all right! Look around all you like!"
+      "<DBAF43F0>": "I've been waiting for you~!\nPlease feel free to look around!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks. I won't be a minute."
+      "<DBAF43F0>": "Thank you, I will."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nothing here really stands out... It's all\nas I'd expect from a colony with the rank\ntheir Flame Clock says they are."
+      "<DBAF43F0>": "There are no particularly eye-catching supplies...\nIt seems to be in line with the fake rank."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By the way, are you the one who\ndoes inventory management here?"
+      "<DBAF43F0>": "By the way,\nare you in charge of managing the supplies?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, I think it might be the Consul...?\nNico only watches the warehouse.\n...Nico, I should say, is me."
+      "<DBAF43F0>": "No, it's probably the Consul~\nNico just looks at the inventory."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Why would a Consul do that themselves...?"
+      "<DBAF43F0>": "The Consul...?"
     }
   ]
 }

@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's you!"
+      "<DBAF43F0>": "! You lot..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What will you say to Fox?"
+      "<DBAF43F0>": "How will you speak to Fox?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "You can't attack other colonies."
+      "<DBAF43F0>": "Stop this, you can't attack another colony."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can't attack other colonies."
+      "<DBAF43F0>": "Stop this, you can't attack another colony."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...So you heard, huh."
+      "<DBAF43F0>": "...So you found out."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're going to try to get in my way,\nthen get ready for a real fight!"
+      "<DBAF43F0>": "If you're going to get in my way, I won't show any mercy!!"
     },
     {
       "$id": 9,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What do you think? Getting\nready for a hunting trip."
+      "<DBAF43F0>": "Preparing for a \"hunt.\""
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Better quarry out here\nthan around Colony 9."
+      "<DBAF43F0>": "The game is better here than around Colony 9."
     },
     {
       "$id": 13,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Your quarry is Colony Gamma?"
+      "<DBAF43F0>": "Your target is Colony Gamma, isn't it?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "This is a dangerous place."
+      "<DBAF43F0>": "It's dangerous ahead."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Your quarry is Colony Gamma?"
+      "<DBAF43F0>": "Your target is Colony Gamma, isn't it?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, don't you just know everything."
+      "<DBAF43F0>": "So you knew."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're going to try to get in my way,\nthen get ready for a real fight!"
+      "<DBAF43F0>": "If you're going to get in my way, I won't show any mercy!!"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Your quarry is Colony Gamma, isn't it?"
+      "<DBAF43F0>": "Your target is Colony Gamma, isn't it?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If this is the size of your gang, they'll\nrun rings around you. Just give up and\ngo back to Colony 9."
+      "<DBAF43F0>": "With this few people, you'll just be beaten back.\nGive up and go back to Colony 9."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tch! They won't get the drop on me!"
+      "<DBAF43F0>": "Tsk!\nI can't do that!!"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is a dangerous place.\nColony Gamma's soldiers\nare active here."
+      "<DBAF43F0>": "It's dangerous ahead.\nColony Gamma's soldiers are deployed there."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What are you talking about?"
+      "<DBAF43F0>": "Huh?"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Psst, just play along."
+      "<DBAF43F0>": "Just play along with me."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gotcha."
+      "<DBAF43F0>": "Got it."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are strong monsters\naround the colony too."
+      "<DBAF43F0>": "And there are strong monsters\nnear the colony too."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We heard you'd come out hunting,\nso we came rushing here to tell you.\nThank goodness we made it in time!"
+      "<DBAF43F0>": "We heard you went out hunting and\nrushed to tell you...\nI'm glad we made it in time."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And you had to come and tell me this\nface-to-face, because...?"
+      "<DBAF43F0>": "You didn't have to come tell me directly..."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Black fog came down\nand blocked our comms."
+      "<DBAF43F0>": "The black fog was out,\nand it was causing communication interference."
     },
     {
       "$id": 30,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Kite and the others will be here soon.\nLet's wait for them and head back to\nthe colony together."
+      "<DBAF43F0>": "Kite and the others should be here soon.\nOnce they arrive, let's go back to the colony together..."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You talked to Kite?"
+      "<DBAF43F0>": "You told Kite?"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, that's lit a fire under our bums."
+      "<DBAF43F0>": "Looks like we need to hurry."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I heard lately you've been spending\na lot of time at the Commissary."
+      "<DBAF43F0>": "By the way, you seem to be visiting\nthe Commissary frequently lately."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Spending a lot of time with Camilla."
+      "<DBAF43F0>": "I hear you've been talking with Camilla a lot..."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, what's that supposed to mean?!"
+      "<DBAF43F0>": "! How did you..."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've been spending a lot of time\nat the Commissary, haven't you?"
+      "<DBAF43F0>": "Speaking of which, I hear you've been\ngoing to the Commissary a lot lately."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What the heck has that\ngot to do with anything?!"
+      "<DBAF43F0>": "...Tch!\nWhat does that have to do with anything right now!?"
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Was Fox's true motive..."
+      "<DBAF43F0>": "To find out Fox's true motive..."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "...to improve the colony's situation?"
+      "<DBAF43F0>": "Were you consulting for everyone's sake?"
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "...to help Camilla out?"
+      "<DBAF43F0>": "You were protecting Camilla, weren't you?"
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You were asking for advice on what would\nbe best for everyone, weren't you?"
+      "<DBAF43F0>": "Were you consulting for everyone's sake?"
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In which case, you should have\ncooperated with the colony and-"
+      "<DBAF43F0>": "In that case, you should have cooperated with everyone in the colony..."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "With the colony? Are you joking?"
+      "<DBAF43F0>": "Everyone? Don't make me laugh."
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whining brats, the lot of them.\nYou can't seriously believe I'd\ndo this for them?!"
+      "<DBAF43F0>": "Do you really think I'm doing this\nfor a bunch of people who just complain...!?"
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You wanted to help Camilla out, didn't you?"
+      "<DBAF43F0>": "You were protecting Camilla, weren't you?"
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tch!"
+      "<DBAF43F0>": "...Tch!"
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you sure you can afford to keep up\nthis hunting trip and get home so late?"
+      "<DBAF43F0>": "Are you alright with continuing this \"hunt\"\nand being late getting back?"
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Snuff it all."
+      "<DBAF43F0>": "...Damn it."
     }
   ]
 }

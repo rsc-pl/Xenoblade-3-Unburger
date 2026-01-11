@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That went well."
+      "<DBAF43F0>": "It seems to be working for now."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, the numbers\nlook pretty good too."
+      "<DBAF43F0>": "Yes, the readings look stable too."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was worried about how it would\nreact, but it all turned out fine."
+      "<DBAF43F0>": "I was worried about its behavior,\nbut it seems fine now that we've tried it."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, you were worried, were you?"
+      "<DBAF43F0>": "You were worried..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have to say, though, it's looking more\nor less battle-ready at this point."
+      "<DBAF43F0>": "But in this state, there should be no problem\ndeploying it in actual combat."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yep! Thanks for your help!"
+      "<DBAF43F0>": "Yes, it's all thanks to your cooperation."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Time to discuss deployment with Itari."
+      "<DBAF43F0>": "I'm going to talk to Itari about deployment right away."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've got a little thank you\nfor you too, so pop by later!"
+      "<DBAF43F0>": "Oh, and I have a reward for you,\nso come pick it up later."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Does she ever stand still?"
+      "<DBAF43F0>": "...Geez, what a restless person."
     }
   ]
 }

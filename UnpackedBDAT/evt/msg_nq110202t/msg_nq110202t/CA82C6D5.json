@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Didn't Maxie tell you? We want to hear\nwhat you know about the monsters you\nscouted out."
+      "<DBAF43F0>": "Haven't you heard from Maxie?\nI want to ask about the monster\nyou investigated."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tch. The target's hunting grounds are\nsouthwest of here, in Nih'l Valley."
+      "<DBAF43F0>": "Tsk... Southwest of here,\nthe target's hunting ground is in Nih'l Valley."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Anything else?"
+      "<DBAF43F0>": "...? Anything else?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not for you. What, isn't\nknowing its location enough?"
+      "<DBAF43F0>": "No. For you guys,\nknowing the location should be enough, right?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Try not to die, traitors."
+      "<DBAF43F0>": "You'd best be careful\nnot to die, traitors."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oi, listen you-!"
+      "<DBAF43F0>": "You bastard, that's enough...!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Leave it, Lanz."
+      "<DBAF43F0>": "Lanz, it's fine."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmph."
+      "<DBAF43F0>": "Hmph..."
     }
   ]
 }

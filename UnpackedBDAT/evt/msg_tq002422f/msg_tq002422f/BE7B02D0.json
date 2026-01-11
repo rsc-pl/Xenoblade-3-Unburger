@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By the way, I wanted to ask about\nthe Ferron... I suppose there's no way\nto use them any more?"
+      "<DBAF43F0>": "By the way, about that Iron Trooper...\nIs it really impossible to move it anymore?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That statement is incorrect."
+      "<DBAF43F0>": "Negative."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, really?"
+      "<DBAF43F0>": "Oh, I see."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Motive function can be restored by\nswitching to alternative power source\nusing ether cylinders."
+      "<DBAF43F0>": "By switching to an alternative power source\nutilizing an Ether Cylinder, operation itself\nis possible."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Power output will be inferior to the original\nFlame Clock system, and the limiter can't\nbe removed, but shouldn't hinder combat."
+      "<DBAF43F0>": "The output is inferior to the conventional Flame Clock,\nand it lacks the limiter release function, but it will not\naffect combat."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I will be able to fight on."
+      "<DBAF43F0>": "...Nagiri can still fight."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wow, that's great news.\nDo you think we can ask you\nto fight by our side again, then?"
+      "<DBAF43F0>": "That's reassuring.\nIn that case, will you continue\nto fight alongside us?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood.\nFerron unit No. 7 will gladly\njoin Ouroboros battle unit."
+      "<DBAF43F0>": "Understood.\nIron Trooper Unit 7 will join the battle line."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll be counting on you then, Nagiri!"
+      "<DBAF43F0>": "It's a pleasure to have you with us again, Nagiri!"
     }
   ]
 }

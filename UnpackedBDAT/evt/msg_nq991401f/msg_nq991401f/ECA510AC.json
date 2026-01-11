@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh no!"
+      "<DBAF43F0>": "Ah...!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You! What unit do you belong to?\nTell me your colony affiliation now.\nYou have three seconds."
+      "<DBAF43F0>": "You there, what unit are you from?\nState your affiliation... You have three seconds."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Ugh!"
+      "<DBAF43F0>": "...Tch!!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Haha! I think we've got our guy!\nYou're a lucky boy, ya know!"
+      "<DBAF43F0>": "Hyaha! Looks like we hit the jackpot!\nThis is our lucky day!!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He hasn't got that many soldiers with him.\nNow's our chance to get him!"
+      "<DBAF43F0>": "He doesn't have many soldiers with him.\nNow's the time to strike!"
     }
   ]
 }

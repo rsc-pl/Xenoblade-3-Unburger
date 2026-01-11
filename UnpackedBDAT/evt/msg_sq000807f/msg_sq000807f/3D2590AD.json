@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, tell me what you know."
+      "<DBAF43F0>": "Let's organize the information we've obtained."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let me send you what Taion and I\ngot from analyzing the maps."
+      "<DBAF43F0>": "I'll send the results of my map analysis with him."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "First, about infiltrating the island itself...\nIt appears that there are natural caverns\ndirectly underneath Agnus Castle."
+      "<DBAF43F0>": "First, regarding infiltration of Agnus Island...\nIt seems there is a natural cavern\nbeneath the Agnus Castle."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we break through one of the walls,\nthen climb the cliffs, we can avoid\nmost of the guards' attention."
+      "<DBAF43F0>": "If we destroy a part of the cave\nand climb the cliff from there,\nthere should be few guards watching."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There should be even less chance\nof us getting caught if we do it under\ncover of darkness."
+      "<DBAF43F0>": "...If we use the cover of night,\nthe chances of being found might be even lower."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I seem to remember a little inlet\nnear Hykt's Cove."
+      "<DBAF43F0>": "I'm sure there's\nHykt's Cove near the Castle."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It could be a good place\nto wait for nightfall."
+      "<DBAF43F0>": "We should be able to hide there\nand wait until nightfall."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Once we've ascended the cliffside,\nwe can approach the camp from the back."
+      "<DBAF43F0>": "After successfully climbing the cliff,\nwe'll circle around to the back of the prison."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Notice the air vents? I expect one of\nthose is our way in."
+      "<DBAF43F0>": "Do you see the ventilation shaft?\nThe plan is to infiltrate from there."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's quite a drop."
+      "<DBAF43F0>": "That's quite a drop..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Indeed. They won't be any use for\nexfiltration. Those ID devices are\ncertainly going to be a help."
+      "<DBAF43F0>": "Indeed. This ventilation shaft\nprobably can't be used for escape.\nThe identification devices will be active too."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well if they're not and you're spotted,\nyou'll all be rounded up in seconds."
+      "<DBAF43F0>": "If we get found out,\nwe'll probably be caught all at once..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, assuming we get into the prison,\nhow exactly are we supposed to\nblend in?"
+      "<DBAF43F0>": "So, assuming we get into the prison,\nhow do you plan to blend in?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "See how the vents also connect\nto the central cell block?"
+      "<DBAF43F0>": "The ventilation shaft connects\nto the central cell block, right?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It should be easy for you to mingle\nwhen the prisoners are all in one place\nfor morning assembly."
+      "<DBAF43F0>": "During morning assembly,\nwhen all the prisoners gather at once,\nI think it will be easy to blend in."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "After that, you can move about in the open,\ncalm as you like. As long as you've got an\nID device, they won't suspect a thing."
+      "<DBAF43F0>": "After that, we just need to act confidently.\nAs long as we're wearing the identification devices,\nwe shouldn't be suspected."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Once you're inside, you should\nmake contact with Ghondor as\nsoon as possible..."
+      "<DBAF43F0>": "After infiltration, rendezvous with Ghondor immediately..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've prepared a few possible plans\nof action for when you're ready to\nleave the camp."
+      "<DBAF43F0>": "For escaping the prison,\nI've prepared several operational patterns."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You'll need to change plans as the\nsituation demands. Everyone needs\nto play their part."
+      "<DBAF43F0>": "Depending on the situation,\neach of you should focus on your own role."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Once you're on Agnian soil,\nI'll head back to the City and stand by."
+      "<DBAF43F0>": "After you land on Agnus Island,\nI'll return to the City once."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you manage to extract Ghondor without\ncausing too much noise, we can\nrendezvous at Patulia Bay."
+      "<DBAF43F0>": "If you manage to escape with Ghondor\nwithout causing a commotion,\nwe'll meet at Patulia Bay."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And if you don't, well..."
+      "<DBAF43F0>": "If you can't do that..."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you don't, you just dive right into\nthe water below the western gate,\nand we'll come fish you out."
+      "<DBAF43F0>": "In that case,\nI'll come pick you up\nin the sea below the west gate."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Give 'em a good booting from me, eh?"
+      "<DBAF43F0>": "Go raise some hell."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you can get out quietly, head\nfor Patulia Bay, where you'll\nrendezvous with Kisame."
+      "<DBAF43F0>": "If we can escape without causing a commotion,\nwe'll head to Patulia Bay,\nthe rendezvous point with Kisame."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But top priority is breaking out Ghondor.\nBlast the western gate off, if you must."
+      "<DBAF43F0>": "The top priority is rescuing Ghondor.\nBreak through the west gate no matter what."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, it seems like we've got\nour plan in place."
+      "<DBAF43F0>": "The plan is set, then."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Riku roger that. When preparations ready,\nwe take Boundary to Hykt's Cove."
+      "<DBAF43F0>": "Meh-meh.\nWhen you're ready, we'll head to\nHykt's Cove in the Boundary, meh."
     }
   ]
 }

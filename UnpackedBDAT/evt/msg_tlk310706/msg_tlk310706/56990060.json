@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colony Lambda managed to harness the\nstrength of all its soldiers and somehow got\nthe Iron Giant back on its feet."
+      "<DBAF43F0>": "By combining the strength of everyone in Colony Lambda,\nwe were able to turn the overturned Iron Giant\nback to its original position."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Still doesn't look like\nyou can go inside, though."
+      "<DBAF43F0>": "However[ML:line len=2 ]...\nit's still not in a condition where we can go inside."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seems getting big jobs done without help\nfrom the nation's top brass will be a pain\nand a half..."
+      "<DBAF43F0>": "Carrying out a large task\nwithout support from the home country\nis quite a chore."
     }
   ]
 }

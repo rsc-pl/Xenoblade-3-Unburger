@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Rouei, how are the food supplies\nlooking? If it's all there, I'll run it over."
+      "<DBAF43F0>": "Rouei, is the food procurement going smoothly?\nIf it's all gathered, I'll take it."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, we're not done yet..."
+      "<DBAF43F0>": "No, not really......"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The truth is, we just don't have enough.\nI don't think the colony's really in a\nposition to be sharing right now..."
+      "<DBAF43F0>": "To be honest, we're still far short,\nand considering the current state of the colony,\nI'm reluctant to give much away."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Honestly, though, I'm more upset\nabout the prospect of losing my grub\nto those featherbrains! Hahahaha!"
+      "<DBAF43F0>": "Well, the honest truth is that\nthe amount I can eat will decrease\nby the amount we give them! Hahaha!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh..."
+      "<DBAF43F0>": "So that's it......"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's such a longstanding tradition,\nI guess we've got to keep it up."
+      "<DBAF43F0>": "It's something we've been doing for ages,\nso I guess we have no choice but to do it."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm. I'd rather avoid forcing people to\nhand food over, if it's at all possible."
+      "<DBAF43F0>": "Hmm...... If it's unnecessary,\nperhaps we don't need to force ourselves\nto give them food."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Will that be OK?"
+      "<DBAF43F0>": "Are you sure that's okay?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've kept this up because it was\ntradition, but if it's giving the colony\na hard time, we might have to end it."
+      "<DBAF43F0>": "We've continued it because it's a deep-rooted custom,\nbut if it's causing trouble for everyone in the colony,\nI don't mind abandoning it."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm fine either way.\nYour decision, Yuzuriha."
+      "<DBAF43F0>": "I'm fine either way.\nYuzuriha, you decide."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you want to keep this Tirkin alliance up,\nthen we'll need a hand raising the supplies."
+      "<DBAF43F0>": "If we're continuing the alliance with the Tirkins,\nI need your help procuring food."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm looking for Green Nectarines,\nTirkingrass..."
+      "<DBAF43F0>": "Green Nectarines,\nTirkingrass..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Shiny Roses and Glare Aubergines.\nFifty of each, if you please."
+      "<DBAF43F0>": "And Shiny Roses,\nand Glare Aubergines, fifty of each."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They like it fresh, too, so keep their\nperishability in mind when you decide\nwhat to forage first!"
+      "<DBAF43F0>": "Freshness seems to be important too,\nso please gather them in order of what keeps best."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you want to end the alliance, you'd\nbetter go and talk to the Tirkins directly."
+      "<DBAF43F0>": "If we're abandoning the alliance,\nI'd like you to go to the Tirkin tribe\nand settle things."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Makes sense. I'll give it some thought."
+      "<DBAF43F0>": "Understood.\nI will think about it."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As I said, it's your decision. I've got\nsome food stocked in here, remember,\nso don't hesitate to give me a shout."
+      "<DBAF43F0>": "I'll leave the decision to Yuzuriha.\nI have some food too,\nso let me know if you need it."
     }
   ]
 }

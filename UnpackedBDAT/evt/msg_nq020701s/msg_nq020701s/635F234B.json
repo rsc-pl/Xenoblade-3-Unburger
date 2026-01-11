@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, Shidou. Can I bend your ear? Seems\nlike Ysorra wants to be a medical doctor."
+      "<DBAF43F0>": "Hey, Shidou.\nIt seems Isora is interested in medicine."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, my... That's the first I've heard of it."
+      "<DBAF43F0>": "Oh...? That is the first I have heard of it."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Apparently she's been studying by\nherself, but she's finding it difficult.\nIsn't there anyone who could teach her?"
+      "<DBAF43F0>": "She seems to be trying hard on her own,\nbut she's struggling.\nIsn't there anyone who can teach her?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hrm... I think I may have just the solution."
+      "<DBAF43F0>": "Hmm... In that case,\nI have a clever idea."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh really?"
+      "<DBAF43F0>": "A clever idea?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can try and find a special instructor\nin the field, outside of the colony."
+      "<DBAF43F0>": "We shall invite an expert in the field from outside the colony...\na \"special instructor.\""
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, yes... I have heard of such a system."
+      "<DBAF43F0>": "A special instructor...\nIndeed, such a system did exist."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's no shame at all in asking others\nto fill in when nobody has the experience.\nKnowledge is power, after all."
+      "<DBAF43F0>": "It is no shame to rely on others\nto compensate for a lack of experience.\nOne must simply learn from it."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In this case, we should try and find\nsomeone who's also a medical doctor."
+      "<DBAF43F0>": "In this case, it would be like having\none of the military doctors come, I suppose."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm trying to think if we know any\ndoctors... Maybe Olesha from 4?"
+      "<DBAF43F0>": "Among our acquaintances, a military doctor would be...\nOlesha-san from Colony 4, perhaps?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh yeah, her... I think she might have\nher hands full with some other work,\nbut there's no harm in asking."
+      "<DBAF43F0>": "Olesha...\nI feel like she's busy with her own work,\nbut we can at least ask."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll accompany you, then. I should be there\non behalf of Colony Gamma, so that it all\ngoes through the proper channels."
+      "<DBAF43F0>": "In that case, I will accompany you.\nIf we are inviting her to Colony Gamma,\nI must go and observe the proper channels."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, then. It's settled!"
+      "<DBAF43F0>": "Well then, it's decided!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's go and see Olesha."
+      "<DBAF43F0>": "Yes. Let's go and see Olesha."
     }
   ]
 }

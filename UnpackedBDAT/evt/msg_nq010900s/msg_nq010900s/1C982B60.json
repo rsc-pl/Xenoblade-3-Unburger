@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, about Eilis."
+      "<DBAF43F0>": "About Eilis..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seems like she hasn't come back\nto Colony 9 in forever."
+      "<DBAF43F0>": "It seems she hasn't come back\nto Colony 9 for a long time."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 12599425,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "First I've heard of it. What else has\nbeen going on while I've been away...?"
+      "<DBAF43F0>": "This is the first I've heard of it.\nFor something like that to happen\nwhile I was away..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 12599425,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's worrying. No one has any idea?"
+      "<DBAF43F0>": "I'm worried.\nDid anyone say they knew where she might be?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not in the slightest."
+      "<DBAF43F0>": "Nothing."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like she upped and left in a Levnis\nso that narrows it down. I think she's\nprobably OK, but..."
+      "<DBAF43F0>": "She apparently left in a Levnis, so unless\nsomething major happened,\nI think she's alright..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 32897,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If she's taken a Levnis out,\nthen she might mean to\nbring back something big."
+      "<DBAF43F0>": "If she took a Levnis,\ndid she plan to transport something large..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maybe she needs to\ntravel a great distance."
+      "<DBAF43F0>": "Or is it possible\nshe intended to go far away?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What business would she\nhave outside Colony 9?"
+      "<DBAF43F0>": "What business would she have\nin a place far from Colony 9..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Either way, we're gonna\ngo find her, right?"
+      "<DBAF43F0>": "Anyway,\nyou're going to search for her, right?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What if she's in trouble?\nCome on, hup hup, let's go!"
+      "<DBAF43F0>": "It'd be bad if she's in trouble,\nso let's find her quickly!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 824197249,
       "<C1A03E98>": 1074,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah."
+      "<DBAF43F0>": "Right."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah!"
+      "<DBAF43F0>": "...Ah!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's right, she said something about\nthe soil on Hope's Rest..."
+      "<DBAF43F0>": "Come to think of it, she said something\nabout the soil, and Hope's Rest..."
     },
     {
       "$id": 15,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's nothing there any more..."
+      "<DBAF43F0>": "There's nothing at \"that place\" now..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Should we check around the prison?"
+      "<DBAF43F0>": "Then what about the prison?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's see if we can find her."
+      "<DBAF43F0>": "Let's go and search."
     }
   ]
 }

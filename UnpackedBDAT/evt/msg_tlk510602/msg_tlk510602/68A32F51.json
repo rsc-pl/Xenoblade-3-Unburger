@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What is this? Like a jailhouse\nor something?"
+      "<DBAF43F0>": "Where is this place...?\nA prison cell?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What are you doing in a\nplace like this?"
+      "<DBAF43F0>": "Why are you in a place like this?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I didn't know the way, so I asked\nsome wrinkly old soul."
+      "<DBAF43F0>": "I didn't know the way,\nso I asked a wrinkly person."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's how I got here, anyway!\nDo you think they were messing with me?"
+      "<DBAF43F0>": "Next thing I know, I ended up here!\nAre they messing with me?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Um. I wonder..."
+      "<DBAF43F0>": "Hmm, I wonder..."
     }
   ]
 }

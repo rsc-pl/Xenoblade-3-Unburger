@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Yeah, OK.\nI do feel a bit tougher already."
+      "<DBAF43F0>": "[ML:line ]Yeah.\nIt feels stronger than usual."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wow, that's the mark of\na good piece of gear."
+      "<DBAF43F0>": "Heh, not bad gear, eh?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Commissary's stacked with useful\nbits and bobs like that. You'll wanna\nstop by every now and then."
+      "<DBAF43F0>": "The Commissary handles other useful things, too.\nYou should stop by regularly."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That'll improve the quality of the\nequipment on offer here as well."
+      "<DBAF43F0>": "If that happens, the items they carry here\nshould get better and better, too."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll do our best to help make\nit happen. Thanks, Mwamba."
+      "<DBAF43F0>": "I'll do that. Thanks, Mwamba."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All right! So, we all geared up, then?\nLet's get over to the plaza, double-time."
+      "<DBAF43F0>": "All right! That's preparations complete!\nLet's get to the assembly point, double time."
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Huh? Really?\nWell, that's a pickle."
+      "<DBAF43F0>": "[ML:line ]Huh?\nOh, I see... What a pain."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oi, Noah, what's the hold up?\nWe going or not?"
+      "<DBAF43F0>": "Hey, what's wrong, Noah?\nAren't we going?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, sorry, it's just..."
+      "<DBAF43F0>": "Yeah, but..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He look troubled somehow?"
+      "<DBAF43F0>": "Looks like they're in some kind of trouble, meh?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Oh, damn.\nYou're gonna put on your\ngoody-two-shoes cap *now*?"
+      "<DBAF43F0>": "...Damn it.\nYou're too much of a soft touch, even at a time like this."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tch, fine. Let's see what's up, then..."
+      "<DBAF43F0>": "Fine, come on. Let's go hear them out."
     }
   ]
 }

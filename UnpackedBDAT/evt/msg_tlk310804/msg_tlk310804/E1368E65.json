@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You better behave from now on, mister!"
+      "<DBAF43F0>": "You shouldn't do anything reckless anymore."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, you lot... I hate that I had\nto rope you into all this along\nwith Lambda..."
+      "<DBAF43F0>": "You all[ML:line ]... ah, I was in a hurry and\ncaused trouble for both Lambda and you..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For better or worse, your actions\nhave shaped the future of Lambda."
+      "<DBAF43F0>": "But your actions brought change to Lambda."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, I didn't do squat, really...\nThat was all you and the commander."
+      "<DBAF43F0>": "It wasn't me[ML:line ]...\nIt was thanks to the actions of you and the commander."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, thank you. I'll work like a bastard to\nhelp everyone out from now on."
+      "<DBAF43F0>": "Thank you[ML:line ]...\nFrom now on, I'll do my best to cooperate with everyone."
     }
   ]
 }

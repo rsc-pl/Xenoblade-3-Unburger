@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm keeping watch over Patulia Bay.\nIf there's any movement, I'll be straight\nover."
+      "<DBAF43F0>": "I'm watching Patulia Bay,\nso if there's any movement, I'll head out immediately."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Be careful!"
+      "<DBAF43F0>": "Be careful..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, and please say hello to everyone\nin the prison camp for me."
+      "<DBAF43F0>": "And give my regards to everyone in the prison."
     }
   ]
 }

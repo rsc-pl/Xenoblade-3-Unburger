@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I hope Colony 4's going to be OK..."
+      "<DBAF43F0>": "I wonder if Colony 4 is okay..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The attacks from that sphere came\ncrashing down in the Fornis region.\nThat really had me worrying."
+      "<DBAF43F0>": "The attack from that sphere\nflew towards the Fornis region, so I'm very worried..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I understand how you feel.\nBut please don't get out there\nand do anything rash, OK?"
+      "<DBAF43F0>": "I understand how you feel, but[ML:line ]\ndon't go out unnecessarily."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I know. I know."
+      "<DBAF43F0>": "Yes, I know."
     }
   ]
 }

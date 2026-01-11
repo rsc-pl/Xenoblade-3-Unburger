@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK then, I'm going in."
+      "<DBAF43F0>": "Well then, I'm off."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uh, um...\nHi! I-I see you've woken up!"
+      "<DBAF43F0>": "Um, well...\nY-You're awake!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How are you feeling?\nAny pain?"
+      "<DBAF43F0>": "How are you feeling?\nDoes your body hurt anywhere?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can confirm faint sensation of pain in\ncranial region. However, operational\nefficiency of No. 7 remains unaffected."
+      "<DBAF43F0>": "Mild pain in the cranial region is noted, but\nNo. 7's operational capacity is not affected."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whuh?! Ah, O-OK...\nThat's...good...?"
+      "<DBAF43F0>": "Huh!? Ah, yeah...\nI see...?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Actually, I'd, uhm...\nI'd like to apologize..."
+      "<DBAF43F0>": "Actually, well...\nI wanted to apologize to you..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Before, I didn't realize you were\ninside that thing, and..."
+      "<DBAF43F0>": "At that time, I didn't think\nyou were inside..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Erm, are you OK?"
+      "<DBAF43F0>": "...Um, are you okay?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No major issues detected."
+      "<DBAF43F0>": "No problems."
     },
     {
       "$id": 15,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A-anyway, if it's all right with you, could\nyou tell me something about yourself?"
+      "<DBAF43F0>": "So, if you don't mind,\ncould you tell me about yourself?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The question lacks specificity.\nNo. 7 cannot respond."
+      "<DBAF43F0>": "That question lacks specificity.\nNo. 7 cannot answer."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, I'm really sorry! I-I guess that\nwas a bit wishy-washy, huh...\nWell, for starters, then..."
+      "<DBAF43F0>": "S-Sorry! That was hard to understand, wasn't it?\nUm... first of all..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you a Kevesi soldier?\nOr are you Agnian?"
+      "<DBAF43F0>": "Are you a Kevesi soldier?\nOr Agnian?"
     },
     {
       "$id": 20,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, that's right.\nYou must know those, right?"
+      "<DBAF43F0>": "Right, right.\nYou know them, of course, right?"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Affirmative. However, discrepancy was\nencountered while processing query."
+      "<DBAF43F0>": "Affirmative.\nHowever, there is a discrepancy in your question."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Huh? What do you mean?"
+      "<DBAF43F0>": "...? What do you mean?"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Affiliation of No. 7 does not match\neither of two options provided."
+      "<DBAF43F0>": "No. 7's affiliation\ndoes not fall into either of those categories."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Doesn't match...?\nWell then, that only leaves..."
+      "<DBAF43F0>": "Neither... Then you're..."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Special mobile combat unit under\ndirect Moebius command, alias...Colony 0."
+      "<DBAF43F0>": "Under Moebius command, special combat mobile unit.\nCodename... \"Colony 0.\""
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Whoa! You know about Moebius?!"
+      "<DBAF43F0>": "...! You know about Moebius?"
     },
     {
       "$id": 28,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then, when you attacked us..."
+      "<DBAF43F0>": "Then, the reason you attacked us was..."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colony 0 soldiers of numbers 7 and below\nwere tasked with eradication of Ouroboros."
+      "<DBAF43F0>": "The soldiers of Colony 0, including No. 7,\nare under orders to eliminate Ouroboros."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wh-whoa, that's...not great."
+      "<DBAF43F0>": "N-No way..."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So this girl really *is* our enemy...\nI have to warn the others...!"
+      "<DBAF43F0>": "So this girl is our enemy after all...\nI-I have to tell everyone...!"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Although... Is that really true?"
+      "<DBAF43F0>": "...But, is that really true?"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She did attack us...\nSo why is she like this now...?"
+      "<DBAF43F0>": "This girl attacked us...\nBut why, then, does she seem so..."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uhm, what you just told me... It sounded\nreally important. Won't you get in trouble\nfor saying it?"
+      "<DBAF43F0>": "Th-The things you just said\nseemed really important.\nWasn't it a bad idea to tell me?"
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was not ordered to silence on the matter."
+      "<DBAF43F0>": "I have not been ordered to remain silent."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I, I see, OK..."
+      "<DBAF43F0>": "I-I see..."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, shoot, I forgot to introduce myself!"
+      "<DBAF43F0>": "Ah, by the way,\nI haven't introduced myself yet!"
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My name is Sena. What's yours?"
+      "<DBAF43F0>": "I'm Sena. What's your name?"
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have no name."
+      "<DBAF43F0>": "I don't have one."
     },
     {
       "$id": 41,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 7 does not possess information\nunder the category \"name\"."
+      "<DBAF43F0>": "No. 7 does not possess information\ncorresponding to a 'name'."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You don't have a name...?"
+      "<DBAF43F0>": "You don't have a name..."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait, so this \"number seven\" thing\nyou've been saying all along...?"
+      "<DBAF43F0>": "Wait, then what is this 'No. 7'\nyou've been saying?"
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "An individual identification number\nassigned to soldiers of Colony 0."
+      "<DBAF43F0>": "It is an individual identification number\nassigned to the soldiers of Colony 0."
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We do not belong to Keves or Agnus.\nWe are special assets. Publicly we\ndo not exist."
+      "<DBAF43F0>": "We are non-standard special ops soldiers\nwho do not belong to Keves or Agnus.\nPublicly, we are \"people who do not exist.\""
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Consequently, records of personal\ninformation stored in growth modules\nare also expunged at the time of birth."
+      "<DBAF43F0>": "Therefore, the history of individual information\nregistered in the growth modules\nis also discarded at birth."
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's...crazy..."
+      "<DBAF43F0>": "What in the world are you..."
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shall I consider the questioning\nto be over?"
+      "<DBAF43F0>": "Is the interrogation over?"
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, wait! What you just said...\nYou don't think it's strange?"
+      "<DBAF43F0>": "W-Wait! What you just said...\nDon't you think it's strange?"
     },
     {
       "$id": 51,
@@ -538,7 +538,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Cannot ascertain purpose of question.\nRequesting additional clarification."
+      "<DBAF43F0>": "I do not understand the intent of your question.\nI request you supplement the information."
     },
     {
       "$id": 52,
@@ -548,7 +548,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I mean, for example... That name thing!\nA Colony that calls people by a number,\nthat's so dehumanizing..."
+      "<DBAF43F0>": "I mean, well... the name thing!\nA Colony that calls people by numbers..."
     },
     {
       "$id": 53,
@@ -558,7 +558,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't you feel bad to be called like that?\nI mean, you're the same as us after all..."
+      "<DBAF43F0>": "Don't you hate being called like that?\nYou're just like us..."
     },
     {
       "$id": 54,
@@ -568,7 +568,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Cannot ascertain purpose of question."
+      "<DBAF43F0>": "I do not understand the intent of your question."
     },
     {
       "$id": 55,
@@ -578,7 +578,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "(sniff) Ohh..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 56,
@@ -588,7 +588,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Requesting clarification."
+      "<DBAF43F0>": "I request you supplement the informa—"
     },
     {
       "$id": 57,
@@ -598,7 +598,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "(sobbing)"
+      "<DBAF43F0>": "...!"
     },
     {
       "$id": 58,
@@ -608,7 +608,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sena? ...Hey, you OK?"
+      "<DBAF43F0>": "Sena? ...Hey, are you okay?"
     },
     {
       "$id": 59,
@@ -618,7 +618,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did you learn anything?\n...Hang on, love, you don't look so good."
+      "<DBAF43F0>": "Did you find anything out?\n...Hey, you look pale."
     },
     {
       "$id": 60,
@@ -638,7 +638,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mio-chan, I... I...!\nI don't know what to do..."
+      "<DBAF43F0>": "Mio-chan, what should I do...?\nI... I...!"
     },
     {
       "$id": 62,
@@ -648,7 +648,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, Sena, everything's fine.\nLet's go somewhere we can talk.\nIs that all right?"
+      "<DBAF43F0>": "Sena, for now,\nlet's go somewhere we can talk calmly.\nOkay?"
     },
     {
       "$id": 63,
@@ -658,7 +658,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y-yeah, sure..."
+      "<DBAF43F0>": "O-Okay..."
     }
   ]
 }

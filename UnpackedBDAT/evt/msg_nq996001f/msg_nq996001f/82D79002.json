@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahaha, we didn't make things easy for\nyou, huh? Thanks for the help, though."
+      "<DBAF43F0>": "Ahaha, looks like we caused you some trouble.\nBut you really helped us out."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Expressions of gratitude are unnecessary.\nHelping out comrades is standard operating\npractice for soldiers of Colony 0."
+      "<DBAF43F0>": "It is not a problem.\nThat is the purpose of the skirmisher unit."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm? Hey, hold on now. Where did that\nother guy go? The one who was fighting\nwith us just now?"
+      "<DBAF43F0>": "...Hm? Hey, what happened to the other one?\nHe was fighting with us until just now, wasn't he?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? Oh, you mean No. 15, right?"
+      "<DBAF43F0>": "Huh?\nOh~ You mean Number Fifteen?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He went back to base straight away\nafter we got done with the battle."
+      "<DBAF43F0>": "If it's Fifteen, he went back\nas soon as the battle was over."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's that all about? I would've\nat least liked to thank the guy..."
+      "<DBAF43F0>": "Huh? What's with that...\nHe could have at least said thanks."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He's a quirky one, that No. 15."
+      "<DBAF43F0>": "He's a strange one, isn't he, Number Fifteen?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He's an impatient one, too. To give him\ncredit, though, he is very intelligent."
+      "<DBAF43F0>": "He's just a really impatient guy.\nThough he's super smart."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But tease him and he gets angry so quickly,\nfumbling over his words like mad."
+      "<DBAF43F0>": "But, he gets worked up right away if you tease him,\nso he's fun to mess with, you know."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He's the newest of the newbies in\nColony 0, so as his mentor, I like\nto tease him as much as I-"
+      "<DBAF43F0>": "He's the newest recruit in Colony 0,\nso as his senior, I can mess with him as much as I[ML:line len=1 ]"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...No. 10. Please elaborate on this \"teasing\"\nbehavior that you have mentioned."
+      "<DBAF43F0>": "...Number Ten.\nCould you elaborate on that story for me?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uhh, now that I think about it,\nI better be off now."
+      "<DBAF43F0>": "Whoops, scary, scary.\nNumber Ten is heading back to base now."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Catch ya later."
+      "<DBAF43F0>": "See ya~."
     }
   ]
 }

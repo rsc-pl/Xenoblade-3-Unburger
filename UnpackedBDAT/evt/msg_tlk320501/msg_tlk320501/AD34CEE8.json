@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh... Aren't you from Colony Tau?"
+      "<DBAF43F0>": "Oh? From Colony Tau[ML:line ]..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, it's you! Yes, I came here to\nlearn what I could about Levnises."
+      "<DBAF43F0>": "Ah, it's you...\nI came here to study Levnises."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hard to concentrate with all these\nfuzzballs around though..."
+      "<DBAF43F0>": "But there are so many hairy creatures,\nI can't concentrate at all."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Fuzzballs? You mean Nopon?"
+      "<DBAF43F0>": "Hairy creatures? You mean Nopon?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, that's right. I'm beginning\nto wonder what the point of me\neven coming here was..."
+      "<DBAF43F0>": "Haaah... yes...\nWhat did I even come here for..."
     }
   ]
 }

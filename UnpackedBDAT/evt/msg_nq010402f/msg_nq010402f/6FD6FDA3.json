@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is Kite here? We want to talk to him."
+      "<DBAF43F0>": "Is Kite here?\nI want to talk."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Kite? Nope, not here."
+      "<DBAF43F0>": "Kite?\nHe's not here."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry, but I can't say any\nmore to Colony 9 outsiders."
+      "<DBAF43F0>": "I'm sorry, but I don't want to talk\nany more with \"outsiders of Colony 9.\""
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Oh. Is that so?"
+      "<DBAF43F0>": "...I see."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Commander?!"
+      "<DBAF43F0>": "Commander!?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is Kite in there? I need\nto speak with him."
+      "<DBAF43F0>": "Kite is further in, isn't he?\nI want to talk."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This way."
+      "<DBAF43F0>": "Please, go ahead."
     },
     {
       "$id": 9,
@@ -128,7 +128,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh!"
+      "<DBAF43F0>": "!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What are you doing here?"
+      "<DBAF43F0>": "Why are you all here...?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Planning on paying any other\ncolonies a visit?"
+      "<DBAF43F0>": "...Are you planning to go to another colony?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The friendly army is still fighting those\nAgnus guys. They need our help."
+      "<DBAF43F0>": "Our allies are still fighting the Agnians.\nThey need help."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colony 9'll be fine as\nlong as you're around."
+      "<DBAF43F0>": "Colony 9 will be fine\nas long as you guys are here."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So you're not going back?\nI thought you wanted to be\nthe big-shot commander?"
+      "<DBAF43F0>": "So you're just not coming back?\nI thought you were going to be the Commander."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We need results! We need to know that\nwe can survive using our own methods!"
+      "<DBAF43F0>": "We need results!\nResults that show we can survive our own way!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You guys are all about empty lip\nservice. It's rob or be robbed out here!"
+      "<DBAF43F0>": "What you're doing is just naive idealism.\nIf we don't take from others,\nwe'll just have things taken from us!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What do you change by repeating the\nsame thing over and over, switching\nbetween robber and robbed?"
+      "<DBAF43F0>": "What will change by repeating that cycle?\nIt'll just be the taker and the taken\nswapping places."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It doesn't make sense to aim just to\nsurvive this moment. That won't fix\nthe root of the problem."
+      "<DBAF43F0>": "Just getting by for now is meaningless.\nThat won't solve the root of the problem."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But that's how we've always lived!"
+      "<DBAF43F0>": "But we've always lived this way!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You don't understand us, Noah.\nYou really think your hollow gestures\nare going to fix Colony 9?"
+      "<DBAF43F0>": "You don't understand our feelings, Noah.\nDo you think such naive idealism\ncan unite Colony 9...?"
     },
     {
       "$id": 22,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Which is why you need\nto help us change things."
+      "<DBAF43F0>": "That is why\nI need your help to change things."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wh-"
+      "<DBAF43F0>": "Wha..."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can't do this alone.\nI need you, Kite."
+      "<DBAF43F0>": "I can't do it alone.\nI need your strength, Kite."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...That's not fair. It's not like you ever\nlisten to anything I say."
+      "<DBAF43F0>": "...You're unfair.\nYou don't even acknowledge me..."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Arghhh!"
+      "<DBAF43F0>": "Uwaah!?"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahhh, help!"
+      "<DBAF43F0>": "H-help..."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's going on?!"
+      "<DBAF43F0>": "What's wrong!!"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Kite, the Agnus army is here!\nThey're attacking!"
+      "<DBAF43F0>": "It's bad, Kite!\nAgnian soldiers are attacking!"
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Why now?! Sparks and ashes!"
+      "<DBAF43F0>": "Why now of all times... Damn it!!"
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Engage the enemy!"
+      "<DBAF43F0>": "We'll fight them back!"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You lot-!"
+      "<DBAF43F0>": "You guys..."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're from Colony 9 too."
+      "<DBAF43F0>": "We are comrades of Colony 9."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, obviously we're going to pitch in?"
+      "<DBAF43F0>": "It's only natural to help each other, right?"
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank us later."
+      "<DBAF43F0>": "You can thank us later."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "...Tch."
     },
     {
       "$id": 38,

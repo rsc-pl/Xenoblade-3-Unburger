@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm. These are not good tidings.\nEspecially when we're so swamped..."
+      "<DBAF43F0>": "Hmmm, this is a problem,\nespecially when we're so busy..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Excuse me! Are you Solon?"
+      "<DBAF43F0>": "Hey!\nAre you Solon?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hm? Ah, yes? How may I help you?"
+      "<DBAF43F0>": "Ah, yes, that's me.\nWhat can I do for you?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm here about the levnite shipment\nto Colony 30."
+      "<DBAF43F0>": "I believe there was a discussion about\ngiving Levnistrite to Colony 30..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was told that you couldn't send it,\nand I was hoping to find out why."
+      "<DBAF43F0>": "I heard you couldn't send it,\nso I was wondering what happened."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did you run into an issue?"
+      "<DBAF43F0>": "Did something happen?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well... We sent some of our compeers to\nDannagh Desert, but we haven't heard\nfrom them since."
+      "<DBAF43F0>": "...Actually, the subordinates I sent to the Dannagh Desert\nhaven't returned, no matter how long I wait."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can't exactly leave my post, so I was\ndeliberating as to how we should proceed."
+      "<DBAF43F0>": "I can't leave my post either,\nso I was wondering what to do..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You said the desert, right?\nAnywhere in particular?"
+      "<DBAF43F0>": "Where in the desert did they go?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The richest levnite veins can be found\nby a landmark known as Glam Rock,\nso you might try there...?"
+      "<DBAF43F0>": "Levnistrite is often found\nat Glam Rock,\nso maybe they're there..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That seems like enough to go on, right?"
+      "<DBAF43F0>": "If that's all we know,\nit's more than enough, right?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll head out there to look for them."
+      "<DBAF43F0>": "We'll go look for them."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You... You'd do this?"
+      "<DBAF43F0>": "Are you sure?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can't just ignore someone in need."
+      "<DBAF43F0>": "Well, you're in trouble, right?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And besides, we need to get\nour hands on that levnite."
+      "<DBAF43F0>": "Besides, we also\nneed the Levnistrite."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then, thank you very much!\nI hope to hear good news from you!"
+      "<DBAF43F0>": "That would be a great help to us as well.\nThank you!"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Niina-sama is not merely resourceful;\nshe is also a pugilistic precisian."
+      "<DBAF43F0>": "Niina-sama is skilled not only\nin strategy, but also in combat."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To wit, she possesses an attack power\nbeyond the ken of ordinary footsoldiers."
+      "<DBAF43F0>": "As an Attacker,\nshe possesses extraordinary offensive power."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sadly, her power is as fleeting as it is\nfierce, for falling upon the battlefield even\nonce will diminish its potency."
+      "<DBAF43F0>": "However, should she fall once,\nshe will lose that power[ML:line ]..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She fights to provide support to her four\ncaptains, wielding Arts with which she\nweaves between enemy attacks."
+      "<DBAF43F0>": "By using Arts that evade attacks[ML:line ],\nand with the four captains providing good support,\nshe was able to fight."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's cool. We should probably try\nsomething along those lines too, huh!"
+      "<DBAF43F0>": "I see.\nWe'll have to do that too."
     }
   ]
 }

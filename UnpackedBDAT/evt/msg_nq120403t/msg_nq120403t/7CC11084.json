@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Have you seen any of Mechafriend's\nparts knocking about? Someone\nmight have accidentally taken some."
+      "<DBAF43F0>": "Have you seen any of Mechafriend's parts?\nIt seems someone made off with them."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "People are always going in and out\nof maintenance. Sorry, I haven't\nseen anything."
+      "<DBAF43F0>": "A lot of people come and go through the maintenance bay.\nSorry, I don't know."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, wait, have you\nseen Ubebee?"
+      "<DBAF43F0>": "That's right, have you all\nseen Ubebee?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He said he had something to do at\nLisza Garden. And he was carrying\na massive bag."
+      "<DBAF43F0>": "He said he had some business at Lisza Garden\nand left with a huge bag, but he hasn't come back."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We haven't seen him... We'll\ntell him you were looking for\nhim if we do, though."
+      "<DBAF43F0>": "We haven't seen him...\nIf we do, we'll tell him Ven was looking for him."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ta."
+      "<DBAF43F0>": "That'd be a help."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ubebee's been competing an\nawful lot with Mechafriend lately."
+      "<DBAF43F0>": "That Ubebee has been\ncompeting with Mechafriend constantly\nlately."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He seemed pretty down in the\ndumps, some days, too. I wish\nhe'd open up to me..."
+      "<DBAF43F0>": "There were days he seemed down, too.\nIf he's worried about something, as his friend,\nI'd like to listen to him..."
     }
   ]
 }

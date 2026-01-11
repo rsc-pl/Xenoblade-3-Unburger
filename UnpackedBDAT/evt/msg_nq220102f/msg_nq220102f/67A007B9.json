@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think we should be able\nto send them now."
+      "<DBAF43F0>": "Now we should be able to perform the sending."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There were so many monsters here.\nI wouldn't have been able to clear them\nall out without your help. Thank you."
+      "<DBAF43F0>": "There were many monsters in this area,\nand it was difficult to defeat them,\nso you've been a great help."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, let's begin."
+      "<DBAF43F0>": "Well then, shall we send them off?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, we've been here before."
+      "<DBAF43F0>": "I see... When we came here before..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I remember. We already sent them off."
+      "<DBAF43F0>": "Yes...... We sent them off."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You did? Well, you have my thanks, then.\nAnd for someone you didn't even know..."
+      "<DBAF43F0>": "Is that so?\nI didn't know you had done that...\nThank you."
     }
   ]
 }

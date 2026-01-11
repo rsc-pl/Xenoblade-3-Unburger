@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's all go around here, eh?\nWhat's everyone up to?"
+      "<DBAF43F0>": "You all look busy.\nWhat are you doing?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is the future site of a new canteen.\nThe construction is ongoing, as you can see."
+      "<DBAF43F0>": "In that corner,\nwe are constructing a kitchen."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've been flooded with requests from\nsoldiers and residents alike to improve\nthe overall quality of our meals."
+      "<DBAF43F0>": "Improving the quality of food\nhas been a request from\nmany soldiers and residents."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahh, right. Yeah, I'd have to agree with 'em.\nA little more flavor wouldn't go amiss."
+      "<DBAF43F0>": "I see.\nI wholeheartedly agree with that."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Since we're here, why don't we go\nand check up on the progress?"
+      "<DBAF43F0>": "Perfect timing.\nShall we go take a look?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Working hard as ever, I see, Georgie.\nHow are things looking?"
+      "<DBAF43F0>": "Thank you for your hard work, Georgie-san.\nHow is the progress?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, if it ain't one of my favorite Liberators!\nYeah, not too bad, all things considered!"
+      "<DBAF43F0>": "Ah, hello.\nWell, it's going, I guess."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I'll need you to be more specific,\nif at all possible, please."
+      "<DBAF43F0>": "...Could you be a little more specific?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see you're a figures gal, and I respect that.\nThen specifically, we're a mite behind."
+      "<DBAF43F0>": "Well, ya know,\nto be blunt, we're behind schedule."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I did ask you to inform me at your earliest\nconvenience in the event of any issues."
+      "<DBAF43F0>": "...I told you to report to me immediately\nwhen a problem arises, didn't I?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heh, so you did. Sorry 'bout that.\nBeen so busy lately, it clean slipped my mind."
+      "<DBAF43F0>": "Uh, yeah, sorry.\nWe're busy over here too."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...And what, might I ask,\nis the cause of the problem?\nSpecifically?"
+      "<DBAF43F0>": "...What is the cause of the delay?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's the lack of equipment, specifically. We're\nshort on heat-resistant materials for stoves...\nAnd that's just the tip of the iceberg."
+      "<DBAF43F0>": "Mainly a lack of equipment.\nThings like fire-resistant materials for the stoves."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Reckon we could throw something together\nif we had some scrap Levnis parts, but we\nain't got the hands to forage for that stuff."
+      "<DBAF43F0>": "We could probably use junk parts from Levnisters,\nbut we don't have the manpower to procure them."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Want us to do 'em a good turn, Rinka?"
+      "<DBAF43F0>": "Hey, Rinka.\nShouldn't we help them out?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wa-hey! You gonna do us a kindness?"
+      "<DBAF43F0>": "Oh?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Are you positive about this?"
+      "<DBAF43F0>": "...Is that okay?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, no prob. If it helps to get the canteen\nup and running, we'll get some real good\nnosh out of the deal, won't we?"
+      "<DBAF43F0>": "Yeah. If the kitchen gets built,\nwe'll get to eat delicious food, right?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seems well worth the effort to me.\nGood grub pays for itself."
+      "<DBAF43F0>": "Then I think it's worth the effort.\nFood is important, seriously."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, a man after my own stomach!\nThat's what I like to hear!"
+      "<DBAF43F0>": "You've got a point there.\nI like you."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Once we're open for business,\nI'll treat you to our house special.\nIt's a secret family recipe!"
+      "<DBAF43F0>": "If the kitchen gets built,\nI'll treat you to a secret recipe\npassed down in my family."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Boosh! Can't turn down an offer like that!"
+      "<DBAF43F0>": "That sounds great. I'm looking forward to it."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just bring us whatever machine parts\nyou can scrounge up."
+      "<DBAF43F0>": "For now, I'd like you to bring me\nany kind of machine parts."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll take anything that looks useful\noff your hands. Happy hunting!"
+      "<DBAF43F0>": "I'll take anything that looks useful.\nSo, I'm counting on ya."
     }
   ]
 }

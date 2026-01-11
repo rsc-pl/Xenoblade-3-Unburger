@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, what are we doing?\nYou're gonna fight them or what?"
+      "<DBAF43F0>": "What? Are you going to fight these people?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Do you want to fight them?"
+      "<DBAF43F0>": "Fight?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Ask about the prisoners"
+      "<DBAF43F0>": "I want to ask about the person in the cell."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They've been here a while now,\nall three of them."
+      "<DBAF43F0>": "They've been in here for quite a while.\nThree of them in total."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's not like they can just walk out,\nor anything, but during working hours\nthey're usually together."
+      "<DBAF43F0>": "They can't walk around freely,\nbut they're often together during prison work."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They're a real thorn in my side, though,\nso I seriously want them gone, in the worst\npossible way."
+      "<DBAF43F0>": "They're a pain in my neck, so\nI want them out of here as soon as possible."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "All right, let's fight"
+      "<DBAF43F0>": "Okay, let's fight."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right you are. Hope you'll make it quick."
+      "<DBAF43F0>": "Alright then.\nLet's get this over with quickly."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Need time to think"
+      "<DBAF43F0>": "I need time to think."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Roger that. I really hope you'll\ntake care of it soon though."
+      "<DBAF43F0>": "I understand.\nBut please decide as quickly as you can."
     }
   ]
 }

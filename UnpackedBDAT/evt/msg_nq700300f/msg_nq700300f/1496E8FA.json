@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "W-who might you be...?!"
+      "<DBAF43F0>": "A-Are you...!?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm Matthew. You made it out\nof the City, right? I've come to\nhelp you out."
+      "<DBAF43F0>": "I'm Matthew.\nYou're a survivor from the City too, right?\nI've come to help."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh fickle fate...!\nJust as mine embers were flickering out\ndost thou grant me a miracle so grand...!"
+      "<DBAF43F0>": "Oh...!\nFor such a miracle to happen to me,\nwhose fate was sealed...!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You are the master of my life!\nFor the remainder of mine earthly days,\nnever shall this gratitude diminish!"
+      "<DBAF43F0>": "You are truly my savior!\nI will never forget today\nas long as I live!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No need for any of that, mate, just chill.\nAh, and while you're doing that, best head\nto Colony 9. They'll take care of you there."
+      "<DBAF43F0>": "Once you've settled down,\nhead to Colony 9.\nIt's safe there."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colony 9, say you? I hear and I obey!"
+      "<DBAF43F0>": "Colony 9! Understood!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "May the tides of heaven speed you back,\nthe sooner that we may again meet,\nYoung Master Matthew!"
+      "<DBAF43F0>": "Let us meet again!\nMatthew-dono!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Janus has been put in the care\nof Colony 9."
+      "<DBAF43F0>": "Janus is now under the protection of Colony 9."
     }
   ]
 }

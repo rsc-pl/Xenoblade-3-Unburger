@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've been through a lot lately...\nAre you holding up OK, Itari?"
+      "<DBAF43F0>": "A lot has happened[ML:line ]...\nAre you okay, Itari?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah... But I'm feeling it, you know?\nA weird sensation, right in my chest."
+      "<DBAF43F0>": "Yes... but even now, I have this strange feeling\n...in my chest."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A weird sensation... What like, exactly?"
+      "<DBAF43F0>": "A strange feeling?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, ever since we started acting\nindependently, Lambda's become like\na whole different entity now."
+      "<DBAF43F0>": "As a result of acting on my own initiative,\nLambda has begun to change."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Changing things up without waiting for\ndirections... It's actually kind of nice."
+      "<DBAF43F0>": "The fact that I can change something\nwithout waiting for orders\nmakes me strangely happy."
     }
   ]
 }

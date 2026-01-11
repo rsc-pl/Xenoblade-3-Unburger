@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No worries, we've still got a lotta stickers\ngoing spare. Don't be shy, earn yourself\nas many as you can."
+      "<DBAF43F0>": "We've still got plenty of stickers in stock.\nDon't hesitate to earn more."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Want to know how I made these stickers?"
+      "<DBAF43F0>": "How did I make the stickers?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I actually just took some sticky tape\nfrom off a few supply crates, and cut it up\nreally small."
+      "<DBAF43F0>": "...Actually, I cut up the tape that was\non the supply crates."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Had to make quite a number of them,\nso it was actually a good bit of a work..."
+      "<DBAF43F0>": "Having to prepare so many of them\nwas surprisingly difficult..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Excellent. Good job.\nI'll get the overall scores tallied up now."
+      "<DBAF43F0>": "...Thank you for your hard work.\nI'll begin tabulating the results immediately."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You think someone lost this? In that case,\njust leave it with us for now."
+      "<DBAF43F0>": "...A lost item? Perhaps I should\ntake custody of that."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll make sure it's returned to its rightful\nowner, don't you worry."
+      "<DBAF43F0>": "My squad will handle it\nso we can find the owner."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "You hand over the lost item to Shuu."
+      "<DBAF43F0>": "You gave the lost item to Shuu."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can you please wait a little longer until\neveryone else has returned?"
+      "<DBAF43F0>": "Could you please wait a little longer,\nuntil everyone has returned?"
     }
   ]
 }

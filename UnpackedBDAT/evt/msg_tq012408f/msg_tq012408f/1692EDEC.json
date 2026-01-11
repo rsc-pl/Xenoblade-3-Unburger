@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A door?\nWhat's it doing in a place like this?"
+      "<DBAF43F0>": "This is... a door?\nWhy is something like this here..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Uhmm, doesn't want to open.\nWhat do we do?"
+      "<DBAF43F0>": "...Hmm, it doesn't seem to open.\nWhat should we do?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Aha! Sounds like a job for Lanz!\nDinky door like this, all I need is\na bit of a running start, and..."
+      "<DBAF43F0>": "Alright, my turn!\nI'll smash this shabby door in one hit—"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Interfacing with security seal...\nEntering override code... Clear."
+      "<DBAF43F0>": "Accessing security lock... Inputting forced\nrelease code... Clear."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Entry lock has been released."
+      "<DBAF43F0>": "Door lock has been released."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...O-oh, cool. Cheers."
+      "<DBAF43F0>": "...Oh. Thanks."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Might be a bit late to ask, but since we're\nabout to meet this No. 13... What kind of\nperson is she?"
+      "<DBAF43F0>": "By the way, this Number Two we're about to meet,\nwhat kind of person are they?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 13 was the foremost\nFerron pilot in Colony 0."
+      "<DBAF43F0>": "Number Two was the most skilled\nFerron pilot in Colony 0."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In terms of pure battle prowess,\nshe exceeds my own."
+      "<DBAF43F0>": "In terms of pure combat ability, she surpasses me."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If she attacks us before we can explain\nthe situation, things might go badly for us."
+      "<DBAF43F0>": "It would be troublesome if she attacked us\nbefore we could explain the situation."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That will not be an issue.\nNo. 13 will respond to me."
+      "<DBAF43F0>": "That will not be a problem. Number Two will\nrespond to my words immediately."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've got a lot of trust in her."
+      "<DBAF43F0>": "You really trust her, don't you, Number Two?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes. I am sure she will understand."
+      "<DBAF43F0>": "Yes. I'm sure she will understand."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Cool, cool. Well then, what say we\nget this teary reunion underway?"
+      "<DBAF43F0>": "I see.\nWell then, shall we get this emotional reunion started?"
     }
   ]
 }

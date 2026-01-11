@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They say the Clad Unit is the\n\"cornerstone of Colony 11's defense\"."
+      "<DBAF43F0>": "...The Clad Unit is involved\nin the general defense of Colony 11.\nThey're the \"cornerstone of its defense,\" so to speak."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They draw the enemy in, so Zuoren's unit\ncan focus on attack and Easel's unit can\ndeliver support."
+      "<DBAF43F0>": "By drawing the enemy's attention,\nTsoren's unit can focus on the offensive,\nand Izel's unit can provide effective support."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm. I'm surprised their roles\nare so evenly divided."
+      "<DBAF43F0>": "Hmm. Surprisingly, they have\na very clear division of roles."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They're specialists in combat.\nEven if they're a rotten bunch,\nthey're Silver-rank elites."
+      "<DBAF43F0>": "Even if they're rotten, they're still an elite \"Silver\" rank unit.\nIt makes sense that they're specialized in combat."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But we know almost nothing\nabout the captain, Clad."
+      "<DBAF43F0>": "However, about their captain...\nClad. We found out almost nothing."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He's always wearing a helmet.\nI'd wonder if anyone's ever seen his face."
+      "<DBAF43F0>": "He's always wearing that helmet.\nIt's pretty telling that no one has ever seen his face."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All we do know is that he\nconstantly drills his troops in\n\"training pits\"."
+      "<DBAF43F0>": "The only thing we found out\nis that he frequently trains\nin the \"Drill Trench.\""
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Training pits?"
+      "<DBAF43F0>": "'Drill Trench'?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Like the plaza where we fought R.\nApparently that's what they call\none of those in Colony 11."
+      "<DBAF43F0>": "It's the plaza where we fought D.\nApparently, that's what they call it in Colony 11."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I get it. Well, why don't we\npay a visit? We might get\nlucky and bump into him."
+      "<DBAF43F0>": "I see.\nWell, if we're lucky, we might run into him.\nLet's go and see."
     }
   ]
 }

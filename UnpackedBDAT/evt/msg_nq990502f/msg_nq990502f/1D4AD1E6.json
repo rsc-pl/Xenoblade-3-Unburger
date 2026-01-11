@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Phew... Worked up a good sweat there."
+      "<DBAF43F0>": "Phew[ML:line ] Worked up a good sweat."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...So did I."
+      "<DBAF43F0>": "...Me too."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Except, my sweat was cold..."
+      "<DBAF43F0>": "I was so worried, I broke out in a cold sweat..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry. I'll be more careful next time."
+      "<DBAF43F0>": "Sorry, I'll be more careful next time[ML:line ]"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And thank you for coming along. I'll go\nahead and report our points to Tallow."
+      "<DBAF43F0>": "Thanks for coming.\nI'll report the points to Tallow."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tell him we put in quite the shift."
+      "<DBAF43F0>": "Tell him we were a huge help."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hehe, will do, will do."
+      "<DBAF43F0>": "Hehe, leave it to me[ML:line ]"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now, then, I need to be getting back\nto point scoring. See you later, OK?"
+      "<DBAF43F0>": "Well then, I'm heading back to gather points too.\nSee you later."
     }
   ]
 }

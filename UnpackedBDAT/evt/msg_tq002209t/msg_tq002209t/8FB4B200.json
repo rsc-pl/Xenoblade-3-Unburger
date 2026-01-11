@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're back with the booty!"
+      "<DBAF43F0>": "We brought it!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa, that was fast, but then what\ndid I expect?"
+      "<DBAF43F0>": "Oh! That was fast!\nWow, as expected!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right, let's not waste time!\nShow me what you brought."
+      "<DBAF43F0>": "Then, without further ado, show me\nwhat you've brought!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We found these three things, but-"
+      "<DBAF43F0>": "We found three things—"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now wait a second!"
+      "<DBAF43F0>": "Wait a minute!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mate, rude."
+      "<DBAF43F0>": "What is it..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What I asked you for was booty\nof the highest value!"
+      "<DBAF43F0>": "I specified the \"most valuable\"\ntreasure!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whichever way you slice it, there's\nonly one most valuable booty, not\ntwo, and certainly not three!"
+      "<DBAF43F0>": "There can't be three or four most valuable things!\nRight?!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, please pick one of them and\npass it to me."
+      "<DBAF43F0>": "So, please choose one and\nhand it to me."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Awkward... What do we do?"
+      "<DBAF43F0>": "Well now... what do we do?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Which booty will you pick?"
+      "<DBAF43F0>": "Which treasure will you give?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Millennial Tree Amber"
+      "<DBAF43F0>": "Give the Millennial Tree Amber."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Yum-Yum Coconut"
+      "<DBAF43F0>": "Give the Yum-Yum Coconut."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Ancient Taos Fossil"
+      "<DBAF43F0>": "Give the Ancient Taos Fossil."
     }
   ]
 }

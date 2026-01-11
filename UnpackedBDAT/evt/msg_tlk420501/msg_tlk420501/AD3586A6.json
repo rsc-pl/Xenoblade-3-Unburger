@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've lost our Flame Clock,\njust like Agnus."
+      "<DBAF43F0>": "Both we and Agnus\nhave lost our Flame Clocks[ML:line ]..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What does it all mean? If the remaining\nFlame Clocks in the other colonies are\nbroken, will this be the end of war?"
+      "<DBAF43F0>": "Does that mean if the Flame Clocks\nin the other colonies are gone,\nthe war will end?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, the fighting between Agnus and\nKeves should stop, at least."
+      "<DBAF43F0>": "The conflict between Agnus and Keves\nmight end[ML:line ]..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But until Moebius are defeated,\nthere will still be battles to fight."
+      "<DBAF43F0>": "But unless we defeat Moebius,\nthe fighting won't be over[ML:line ]..."
     }
   ]
 }

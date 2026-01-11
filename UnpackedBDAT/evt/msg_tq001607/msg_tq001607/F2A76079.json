@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "You've wasted time.\nI'm afraid you'll have to pick up the pace."
+      "<DBAF43F0>": "You will make up for the lost time, properly."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Because if you can't..."
+      "<DBAF43F0>": "If you cannot..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Well, you know the stakes."
+      "<DBAF43F0>": "You understand, don't you?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](worried breath)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ][ML:line len=1 ]"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "The game will soon resume.\nWe have precious little time."
+      "<DBAF43F0>": "There is not much time left\nuntil the game resumes."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "If I do as I'm told..."
+      "<DBAF43F0>": "If this continues,"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "You'll..."
+      "<DBAF43F0>": "you too..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "You'll end up hurting so many people."
+      "<DBAF43F0>": "will end up hurting a lot of people."
     },
     {
       "$id": 9,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I refuse to put you through that."
+      "<DBAF43F0>": "I won't make you go through that pain."
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'll make you into the best Levnis\nthere ever was."
+      "<DBAF43F0>": "I'll turn you into an even more amazing Levnis."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "So that's the game we're playing, is it now?"
+      "<DBAF43F0>": "So that's how it is."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Huh?!"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](react, getting hit)"
+      "<DBAF43F0>": "[ML:undisp ]Uwaaah!"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](feeling groggy)"
+      "<DBAF43F0>": "[ML:undisp ]Ugh..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "You little upstart!!!"
+      "<DBAF43F0>": "You little brat!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](disheveled, catching breath)"
+      "<DBAF43F0>": "[ML:undisp ]Haa..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "This is a case of falling in with\nthe wrong crowd, isn't it?"
+      "<DBAF43F0>": "Is this a case of \"he who touches pitch shall be defiled\"?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm very disappointed."
+      "<DBAF43F0>": "I am disappointed in you."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hm... It's about halfway through the\nprojected schedule..."
+      "<DBAF43F0>": "Hmm... it's only about half finished,\nbut..."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "But this will have to do."
+      "<DBAF43F0>": "I suppose it can't be helped at this point."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "What are you gonna do?"
+      "<DBAF43F0>": "What are you doing?"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I will have it achieve its intended purpose."
+      "<DBAF43F0>": "I will have it fulfill its original purpose."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "But, first of all..."
+      "<DBAF43F0>": "But before that..."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I believe you need a little...discipline."
+      "<DBAF43F0>": "It needs to be disciplined, doesn't it?"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](breath, fearful)"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]Hh!"
     }
   ]
 }

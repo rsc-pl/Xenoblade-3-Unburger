@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, hello, you lot.\nWhat can I do for you?"
+      "<DBAF43F0>": "Ah, it's you.\nI've heard the situation."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Would you mind stamping this for us?"
+      "<DBAF43F0>": "Can we get your seal on this?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not at all. Sorry you had to\nget involved in all this."
+      "<DBAF43F0>": "Of course.\nMy apologies for the trouble."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You don't make it easy, do you?\nAll these hoops you have to jump\nthrough to get stuff done..."
+      "<DBAF43F0>": "What a pain this all is.\nIt takes way too long\nto get anything done."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A fair point. But it's all in the\nname of betterment."
+      "<DBAF43F0>": "Indeed... I can see why\nyou would think so."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I believe that our greatest asset lies\nin our desire to strive for more."
+      "<DBAF43F0>": "If there's one thing I can say,\nit's that we are always searching\nfor what is best for us."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There, that's all approved. Give\nthe good news to Sif, would you?"
+      "<DBAF43F0>": "The request has now been fully approved.\nPlease let Sifuu know."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks. We'll be quick."
+      "<DBAF43F0>": "Thank you.\nWe'll head back at once."
     }
   ]
 }

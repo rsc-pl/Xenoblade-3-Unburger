@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "You lot sit tight here."
+      "<DBAF43F0>": "You all stay here."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "We'll press on to Colony 5."
+      "<DBAF43F0>": "We'll go to Colony 5."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Thanks. It's really us who should be going, but..."
+      "<DBAF43F0>": "I'm sorry.\nWe should be the ones going..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "How can we ever thank you?"
+      "<DBAF43F0>": "I don't know how to thank you..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "These guys are doing all the fighting."
+      "<DBAF43F0>": "Thank them."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Thank them - I'm just along for the ride."
+      "<DBAF43F0>": "They're the ones who'll be doing most of the fighting."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh, cheers."
+      "<DBAF43F0>": "What's that supposed to mean?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](mischievous laugh)"
+      "<DBAF43F0>": "[ML:undisp ]Hahahaha!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ahh, come on."
+      "<DBAF43F0>": "Well, it's fine."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Anyway, you just leave finding Ursula to us."
+      "<DBAF43F0>": "In any case, leave Ursula to us."
     }
   ]
 }

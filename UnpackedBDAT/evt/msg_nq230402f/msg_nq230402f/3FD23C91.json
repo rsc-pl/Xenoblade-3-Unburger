@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What do you think you're doing?!\nYou reckon we'll just let you waltz\nin and do whatever you want?!"
+      "<DBAF43F0>": "You guys!\nDon't you dare think you can get away with this!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gahahaha, you just jumped into the\nfray! You rebels must be crazy!"
+      "<DBAF43F0>": "Gahaha! A surprise entry!\nJust what I'd expect from rebels! You're nuts!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shut up! You're the ones about\nto let those Levnises turn a guy into paste!"
+      "<DBAF43F0>": "Shut up!\nI don't want to hear that from you guys,\ntorturing a soldier with Levnises!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whaaaat?! Are you disparaging\nour noble training? The pride of\nthe Clad Unit?!"
+      "<DBAF43F0>": "Whaaat?!\nAre you ignorant of the noble training\nthat is the pride of our Clad Unit?!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Haha, guess there's no denying that\nthe boss's training is pretty tough!"
+      "<DBAF43F0>": "Gaha! Well, can't blame ya!\nThe boss's training is seriously hard\nand insane!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wha... So that really was just training?"
+      "<DBAF43F0>": "Huh...? So that was\nreally just training?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Look! Thanks to your egotistical stunt,\nour beloved Levnises are useless\nhunks of junk!"
+      "<DBAF43F0>": "Look! Because of your stupid ego,\nour beloved machines have been rendered useless!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How are you gonna make it up to\nus, eh?!"
+      "<DBAF43F0>": "Sooo...\nHow are you going to make this up to us?!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "W-we didn't..."
+      "<DBAF43F0>": "Ugh, w-well..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You owe us two Levnises!\nThose things don't grow on trees!"
+      "<DBAF43F0>": "You'll be paying for two Levnises!\nThis is going to cost you!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "........."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What? But Captain, they-"
+      "<DBAF43F0>": "...! What?!\nBut Captain, if we do that..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "........."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "U-understood... If that's what\nyou wish, Captain..."
+      "<DBAF43F0>": "U-Understood.\nAs the Captain wishes..."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Listen up! If you fulfill one\ncondition, the captain's willing to\noverlook this outrage!"
+      "<DBAF43F0>": "Listen up!\nThe Captain has said that your outrage will be pardoned,\nprovided you meet a certain condition!"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Condition?!"
+      "<DBAF43F0>": "A condition?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Our gracious captain wants\na rematch with you!"
+      "<DBAF43F0>": "The Captain, in his great mercy,\nwishes for a rematch with you!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As such, we will allow you to take\nour place as the captain's training partners!"
+      "<DBAF43F0>": "Therefore, you will take our place\nand serve as the Captain's training partners!"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh, training? That's all we need to do?"
+      "<DBAF43F0>": "...Huh? Training?\nIs that all?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's all? That's all?!\nThis is a direct offer from the captain!!!"
+      "<DBAF43F0>": "Whaaat?!\nHow dare you call a direct offer from the Captain\n\"just that\"?!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Will you quit shouting at everything\nfor Queen's sake?! You're doing my\nhead in!"
+      "<DBAF43F0>": "Stop snapping at everything!\nIt's annoying!"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "........"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The captain is already prepared!\nHe commands you to begin immediately!"
+      "<DBAF43F0>": "The Captain has already made up his mind!\nHe says he will fight immediately!"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Prepare yourself for death! Prepare\nyourself for fatalities! Basically, you're\ngoing to die!"
+      "<DBAF43F0>": "Listen! Do it with the intent to die!\nDo it with the resolve to die! In fact, just die!"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gahahaha! You're gonna work hard\nfor those Levnises you totaled!"
+      "<DBAF43F0>": "Gahaha!\nYou'd better work off the cost\nof those Levnises you broke!"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Well this is another fine mess\nyou've gotten us into, Eunie."
+      "<DBAF43F0>": "...You really stirred up a hornet's nest, Eunie."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, yeah, it's all my fault! Ass."
+      "<DBAF43F0>": "Yeah, yeah, my bad, dammit!"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is the noise coming from this?"
+      "<DBAF43F0>": "Is this the source of the noise...?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a supply container."
+      "<DBAF43F0>": "It's a supply drop container."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It look like airdrop break it.\nThat sound of error."
+      "<DBAF43F0>": "It seems to have malfunctioned during the drop, mo.\nThat's the error sound, mo."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ohhh, that makes sense!\nHa, nothing to be scared of!"
+      "<DBAF43F0>": "Haaah, so that's what it was!\nDon't scare us like that..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can we just stop this racket?"
+      "<DBAF43F0>": "It's still loud, so\nlet's at least stop the noise."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh hey, wait a sec, what if\nyou just twiddle this here?"
+      "<DBAF43F0>": "Yeah, just a sec.\nIf I do this here..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So we pretty much can't get at\nwhat's inside this container now?"
+      "<DBAF43F0>": "Hey, can't we get the contents\nof this container?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let Hamahama see... It not so broken.\nAll it need is some elbow grease."
+      "<DBAF43F0>": "Hmmm...\nFrom the looks of it, it's not a major malfunction,\nso I should be able to fix it with a little tinkering, ssu mo."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ugh, if only we had the parts, we could\nmanage something. If only..."
+      "<DBAF43F0>": "Yeah, if we just had the parts,\nwe could probably manage... ...if we just had the parts."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Why, yes, we'd love to get these\nparts for you! Thank you for asking\nso nicely!"
+      "<DBAF43F0>": "...If you want us to go get them,\njust say so. It's annoying."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Aw, you're so generous!"
+      "<DBAF43F0>": "We're counting on you!!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Such magnanimosity!"
+      "<DBAF43F0>": "We're counting on you, ssu mo!!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The part you want is the Serenity Jet. You\nshould be able to find them easily around\nthe Old Kana Battlefield! ...Probably!"
+      "<DBAF43F0>": "The part is called a Serenity Jet.\nYou should be able to find it around the Old Kana Battlefield...\n...probably."
     }
   ]
 }

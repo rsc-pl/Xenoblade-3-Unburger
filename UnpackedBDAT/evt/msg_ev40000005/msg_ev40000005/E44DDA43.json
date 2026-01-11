@@ -18,13 +18,13 @@
       "$id": 1,
       "<8C7DD24D>": "<571BB532>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "Hello? What's this giant rock?"
+      "<DBAF43F0>": "What's with this huge rock?"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<63C402C6>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "It's a sarcophagus, a stone coffin.\nContained within is a body... Ah, a husk, I mean."
+      "<DBAF43F0>": "This is what's called a \"coffin.\"\nInside, a corpse is... no, a husk is laid to rest."
     },
     {
       "$id": 3,
@@ -36,25 +36,25 @@
       "$id": 4,
       "<8C7DD24D>": "<1EA8AF9B>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "Are you serious...?\nIsn't it a bit large for a single husk?"
+      "<DBAF43F0>": "Seriously...?\nIsn't it a bit too big for that?"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<46D5C5DA>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "Nobody said it was for a \"human\"."
+      "<DBAF43F0>": "No one said it was for a \"human,\" did they?"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<106A346D>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<DC315C8C>",
       "<554EE944>": 125,
-      "<DBAF43F0>": "...What say we leave it the hell alone."
+      "<DBAF43F0>": "...Let's get out of here."
     }
   ]
 }

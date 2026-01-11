@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh...? You're asking around about\nthe Coming-of-Age rite, you say?"
+      "<DBAF43F0>": "Hmm……?\nAre you investigating the Coming-of-Age Ceremony?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, we thought we'd like to know\nthe differences between your ceremony\nand ours, and stuff like that..."
+      "<DBAF43F0>": "We wanted to know\nhow it differs from ours……"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I guess the main point of difference is that\nwe're given somewhere to live in the\nresidential district."
+      "<DBAF43F0>": "……The biggest difference would be\nbeing given a residence in the living quarters."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In the City, once you've crossed the\nthreshold of the Coming-of-Age, you'll be\ntreated as an adult."
+      "<DBAF43F0>": "In the City, the Coming-of-Age Ceremony marks a turning point,\nand new adults are treated as \"adults.\""
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Handing over the key to a new property\nis like a celebration of that."
+      "<DBAF43F0>": "To celebrate that,\nthey are given the key to a new home."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So you go to live somewhere different\nonce you've become an adult?"
+      "<DBAF43F0>": "When you become an adult,\nthe place you live changes……?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're going to start a family, it's more\nor less essential."
+      "<DBAF43F0>": "It becomes necessary if one is to have a family."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nobody really wants to live their whole life\nin a dormitory, you know...?"
+      "<DBAF43F0>": "To live in a dormitory forever\nwould be rather inconvenient……"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In practice, the Coming-of-Age rite can spur\npeople on to settle down with a partner."
+      "<DBAF43F0>": "In fact, many people use the Coming-of-Age Ceremony\nas an opportunity to settle down."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see... So the Coming-of-Age is a sort of\ncrossroads at which the circumstances of\none's environment change. Hmmm..."
+      "<DBAF43F0>": "……So, here the ceremony marks a change\nin one's living environment……"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wow, it all sounds like a really big deal,\nbecoming an adult..."
+      "<DBAF43F0>": "Becoming an adult is a big deal……"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Joulietta has her Coming-of-Age next year.\nI hope we'll be able to celebrate it just\nas grandly as this one."
+      "<DBAF43F0>": "……Next year, Joulietta will also come of age.\nI would like to celebrate her as grandly as we have this time."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And after that...\nI daresay she'll be settling down."
+      "<DBAF43F0>": "After that……\nshe will probably settle down……"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can't say I'm thrilled that she's picked\nRomero for that, mind..."
+      "<DBAF43F0>": "……Though I do not approve of her partner\nbeing Romero……"
     }
   ]
 }

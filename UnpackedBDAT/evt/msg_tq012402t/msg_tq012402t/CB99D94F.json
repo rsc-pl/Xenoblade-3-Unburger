@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heyyy, it's you guys again!\nWhat're you after today?"
+      "<DBAF43F0>": "Ah, you from before.\nWhat can I do for you today?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do you have any mythrice?\n...Uhm, actually, ideally we'd need\nkind of a lot..."
+      "<DBAF43F0>": "Do you have any mythrice?\nWe'd like a lot, if possible..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, I'm terribly sorry to disappoint,\nbut our stores are currently empty..."
+      "<DBAF43F0>": "...I'm very sorry.\nWe're currently out of stock..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh... Really? That's a shame..."
+      "<DBAF43F0>": "Ah... I see..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When we came by last time, didn't you\nimply you had considerable stockpiles?"
+      "<DBAF43F0>": "When we came before,\nyou should have had a considerable stockpile."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Well, to be honest, it's not just mythrice\nwe're lacking."
+      "<DBAF43F0>": "...Actually, it's not just the mythrice."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Recently we've been having quite a few\nincidents of shipments being attacked."
+      "<DBAF43F0>": "Recently, there have been frequent incidents\nof our transport convoys being attacked..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Food, Levnis parts... You name it,\nwe're probably short on it."
+      "<DBAF43F0>": "Many supplies, including food and\nLevnis parts, have been plundered."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, that sounds like a bigger problem\nthan you'd normally encounter."
+      "<DBAF43F0>": "Well, that sounds like\nquite a dangerous situation."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What about your escort units?\nSurely they accompany your transports."
+      "<DBAF43F0>": "What were the guards doing?\nThey should have been there with the convoy."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, of course, they\ncertainly should have done."
+      "<DBAF43F0>": "Yes, of course...\nThat's what should have happened..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But maybe you should talk to the\nchief of logistics for details..."
+      "<DBAF43F0>": "For the detailed situation,\nyou'll have to ask the chief of logistics..."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey hey! Thanks for checking in on Nico!\nThat's me, I mean. But you knew that.\nAnyway, thanks!"
+      "<DBAF43F0>": "Hehe, thanks for paying attention\nto Nico!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...But for the moment, I think you'd better\ngo and talk to Aya, OK?"
+      "<DBAF43F0>": "...But for now, I think you should\nprobably go see Aya."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think she's got some business with you?\nAnyway, she's been looking for you."
+      "<DBAF43F0>": "She said she had some business with you,\nand she seemed to be looking for you."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hello, welcome, and thank you!"
+      "<DBAF43F0>": "Good work!\nPlease enter through Colony Mu's main gate\nand attack the colony."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now if you'd be so kind and head through\nColony Mu's Main Gate to begin your attack,\nplease and thank you!"
+      "<DBAF43F0>": "The training will end once you defeat all the soldiers!\nAre you ready?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When you defeat all the soldiers,\nthe exercise will be over!\nAre you all ready now?"
+      "<DBAF43F0>": "Are you ready?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Are you ready?"
+      "<DBAF43F0>": "No problem."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Sure thing."
+      "<DBAF43F0>": "Roger! Well then, everyone,\ngood luck!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Got it! Well then, best of luck\nand have fun!"
+      "<DBAF43F0>": "Colony Mu has entered training mode.\nIf you wish to suspend it, please speak to Nico."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Colony Mu is now in a training\nexercise. Talk to Nico if you\nwant them to take a break."
+      "<DBAF43F0>": "Wait a moment."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Hang on."
+      "<DBAF43F0>": "Understood!\nLet me know when you're ready!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No worries, no worries at all.\nOnce you're feeling ready, let me know."
+      "<DBAF43F0>": "If you want to suspend the training,\nplease tell Nico!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you want to interrupt the exercise,\njust tell Nico! You know who that is."
+      "<DBAF43F0>": "Suspend the training?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Interrupt the exercise?"
+      "<DBAF43F0>": "Suspend"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Yes, please."
+      "<DBAF43F0>": "Roger!\nI'll let Aya and the others know."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood!\nI'll let Aya and the rest know."
+      "<DBAF43F0>": "Colony Mu's training has been suspended.\nIf you wish to resume, please speak to Nico."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Colony Mu have paused their\ntraining exercise. Talk to Nico\nif you want them to continue."
+      "<DBAF43F0>": "Continue"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "No, keep going."
+      "<DBAF43F0>": "Do your best!"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good luck and have fun!"
+      "<DBAF43F0>": "Are you ready to resume the training?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Feeling ready to restart the exercise?"
+      "<DBAF43F0>": "Resume the training?"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Restart the exercise?"
+      "<DBAF43F0>": "Resume"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Yes, please."
+      "<DBAF43F0>": "Wait a moment"
     },
     {
       "$id": 23,

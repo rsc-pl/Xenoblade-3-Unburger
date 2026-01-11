@@ -38,7 +38,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Queen has returned!"
+      "<DBAF43F0>": "The Queen is back!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Welcome back!\nWe're glad to see you safe, Your Majesty."
+      "<DBAF43F0>": "Welcome back!\nWe're glad you're safe...!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We were at the site of the landslide,\nbut the situation remains precarious."
+      "<DBAF43F0>": "I have seen the site of the rockslide,\nand the situation is still unpredictable."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It is vital that we remove the remaining\nrocks upon the slope in the coming days.\nYou shall have the Castle's aid, of course..."
+      "<DBAF43F0>": "In the coming days, we will carry out work to remove the remaining stones on the slope.\nThe Castle will provide support, but..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But your own assistance in this matter\nwould also be most appreciated."
+      "<DBAF43F0>": "it would be greatly appreciated if you all\ncould lend your strength as well."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, we'd be glad to help!\nNever want to have to go\nthrough this again..."
+      "<DBAF43F0>": "Of course!\nWe would not want to go through that again."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But if we hadn't, we'd never have got\nto meet Queen Melia..."
+      "<DBAF43F0>": "But because we went through 'that',\nI was able to speak with Melia-sama..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't regret it. Because I learned\ntoday that we weren't forsaken..."
+      "<DBAF43F0>": "I'm happy.\nTo know that we weren't abandoned..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Forsaken?"
+      "<DBAF43F0>": "Abandoned?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The only time we normally ever get to\nmeet Your Majesty is at the Coming-of-Age."
+      "<DBAF43F0>": "The only time we could meet the Queen\nwas at the Coming-of-Age Ceremony."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've been through so many bitter times,\nbut we've never known you to help us.\nNot so directly."
+      "<DBAF43F0>": "No matter how much trouble we were in, or how hurt we were...\nWe never received help like this before."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You make a valid point."
+      "<DBAF43F0>": "...That is certainly true."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "From this moment on, I will endeavor to\nthe best of my ability to allay your fears."
+      "<DBAF43F0>": "I promise to make improvements in the future,\nso as not to cause you all any more anxiety..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah! You're too kind, Your Majesty!"
+      "<DBAF43F0>": "...! Thank you!"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then, in the interest of allaying fears,\nthere may be another matter I would like\nto discuss with you..."
+      "<DBAF43F0>": "...As a way to resolve our anxiety,\ncould I consult you on one more thing?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, yes? Speak up, then."
+      "<DBAF43F0>": "Hmm? Speak."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I would like, from this moment on, to let\nthe colony elect their commander, of their\nown volition."
+      "<DBAF43F0>": "I would like for the colony members to be able\nto freely choose their commander from now on."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And I don't mean just for appointing\na successor after death or for the purposes\nof reform."
+      "<DBAF43F0>": "For reasons other than death or dismissal... indeed,\nif everyone wishes for it..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If they make their voices known,\nthen I think I would gladly relinquish my\nposition as commander this second."
+      "<DBAF43F0>": "I believe it would be fine for me to step down\nas commander right now."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What?!"
+      "<DBAF43F0>": "Wha...!?"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What brought this on...?"
+      "<DBAF43F0>": "Wh-Why..."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then...you wish to formally step down?"
+      "<DBAF43F0>": "...Do you wish to resign as commander?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well... I was always the Consul's\nfavorite plaything."
+      "<DBAF43F0>": "I was... a convenient soldier\nfor the Consul."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was a mere pawn dancing to his whims,\nenacting his orders..."
+      "<DBAF43F0>": "The reason I was nominated\nis nothing more than that..."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But in coming to terms with our new life,\nI began to realize the qualities needed in\na commander are very different nowadays."
+      "<DBAF43F0>": "However, as we seek a new way of life,\nI believe the qualities required of a commander\nwill naturally change."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Please don't belittle yourself, Zeon."
+      "<DBAF43F0>": "...Don't say you were just a convenient soldier."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've worked so hard to get where\nyou are."
+      "<DBAF43F0>": "You've worked so hard, haven't you..."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Believe me, I've thought about this\nlong and hard. About who really fits the\nrole of a commander."
+      "<DBAF43F0>": "I've been thinking about it in my own way.\nWho is truly a worthy person..."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It must be someone we all look up\nto. Someone with whom we can\nshare our path."
+      "<DBAF43F0>": "...One who is desired by all and can walk with all\nshould be the commander."
     },
     {
       "$id": 30,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "While I do not object to your logic,\nZeon, I hope you realize that our role\nis in essence naught but a figurehead."
+      "<DBAF43F0>": "...I do not mean to object, but a position\nis merely a vessel, Zeon."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What that figurehead represents, however,\nis something only you can decide."
+      "<DBAF43F0>": "What fills that vessel\nis for you yourself to choose."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's down to me...?"
+      "<DBAF43F0>": "I... choose?"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A person is not shaped solely by their\nbirthright or innate qualities."
+      "<DBAF43F0>": "What shapes a person\nis not just their birth or qualities."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As long as you remain critical of who you\nare, whether you deserve the position or\nnot has little relevance."
+      "<DBAF43F0>": "If you do not forget your current feelings,\nworthiness will follow later."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This crisis of conscience...\nYou once experienced it as well,\nYour Majesty?"
+      "<DBAF43F0>": "Melia-sama... do you\nhave such experience as well?"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course. Everyone has their battles\nwith self-doubt. How else does one grow\nas a person?"
+      "<DBAF43F0>": "Of course.\nEveryone has a time of immaturity."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...If you remain true to yourself,\nthen you have nothing to fear."
+      "<DBAF43F0>": "...You are unable to lie\nto your own feelings, are you not?"
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In this rich tapestry of life, you must find\nthe path that you are willing to weave."
+      "<DBAF43F0>": "Whatever future you envision,\nyou must make a choice that you can accept."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I will give it more thought, then."
+      "<DBAF43F0>": "...I will think about it again, carefully."
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Very good. I look forward to hearing\nyour answer."
+      "<DBAF43F0>": "Indeed.\nI shall look forward to your report."
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Melia must have had her share of hardship,\nto talk about these things in such depth..."
+      "<DBAF43F0>": "She can speak like that because\nMelia, too, must have struggled..."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If she's ever stuck in a rut, I wonder\nif we'll be able to console her in the\nsame way?"
+      "<DBAF43F0>": "...Then, when Melia is struggling?\nCan we help her in the same way?"
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Would she even want that...?"
+      "<DBAF43F0>": "No... in the first place, does Melia\neven want that...?"
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Penny for your thoughts, Noah?"
+      "<DBAF43F0>": "...What is it, Noah?"
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...No, it's nothing."
+      "<DBAF43F0>": "...It's nothing."
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We should get going.\nWe've got some traveling ahead of us."
+      "<DBAF43F0>": "Shall we head to\nthe next location...?"
     }
   ]
 }

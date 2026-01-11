@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This contraption's caught your eye, has it?"
+      "<DBAF43F0>": "Are you interested in that device?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, yes. Someone mentioned before\nthat it's not in working order."
+      "<DBAF43F0>": "Oh, yes.\nI heard it was broken before, but..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was just thinking, maybe if we replaced\na few of the parts, it might be possible to\nget it running again."
+      "<DBAF43F0>": "I was thinking that if we replaced a few of\nthe main parts, we might still be able to use it..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now you mention it, if we got this thing\nworking again, we'd be able to process\ngems to a higher degree of purity..."
+      "<DBAF43F0>": "Indeed, if we could fix this device,\nwe'd be able to create gems of higher purity."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And if we could incorporate the tech into\nour portable version, it might be a huge\nstep up for us."
+      "<DBAF43F0>": "Also, if we could transfer the technology of this device\nto the portable one we're using..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can't knock a good gem setup when\nyou're in a scrap. If we can get 'em\npowered up, I say we go for it!"
+      "<DBAF43F0>": "Gems are useful in battle,\nso it's always better if we can enhance them."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Agreed. Given the opportunity,\nit'd be a good investment of our time.\nShall we give it a go, then?"
+      "<DBAF43F0>": "Yes, this is a good opportunity.\nShall we get serious about repairing it?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yessir!"
+      "<DBAF43F0>": "Yes!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't see anything immediately wrong\nwith it from the exterior. We could start by\nreplacing some of the internal mechanisms."
+      "<DBAF43F0>": "From the looks of it, the exterior is mostly fine.\nLet's start by replacing the main internal parts."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It might be the heat regulator that's\nmalfunctioning. It's what raises the\ngem purity."
+      "<DBAF43F0>": "It's possible that the heat regulation,\nwhich increases the gem's purity,\nisn't functioning properly."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see your point... Let's look into it."
+      "<DBAF43F0>": "I agree.\nLet's test that theory."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm... Yes, this should do."
+      "<DBAF43F0>": "Yes... this should be usable."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, that's the salvaging done.\nNow for the Warning Lamps."
+      "<DBAF43F0>": "I've collected them.\nNow all that's left are the Warning Lamps."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gotcha. We'll track 'em down\nfor you sharpish."
+      "<DBAF43F0>": "Understood.\nLet's get it done quickly."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, well, that's the salvaging done.\nI've now got all the necessary parts."
+      "<DBAF43F0>": "I've collected them.\nNow I have all the necessary parts."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Great news. Then let's wiggle on\nback to that elevator."
+      "<DBAF43F0>": "Alright, let's head back to the elevator."
     }
   ]
 }

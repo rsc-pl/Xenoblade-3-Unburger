@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Kozakura's unit is stuck in Dannagh Desert,\nand Tobimaru's is in Ribbi Flats."
+      "<DBAF43F0>": "Kozakura's unit is stranded in the Dannagh Desert,\nand Tobimaru's unit is in the Ribbi Flats."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Would you be able to check on\nthe situation without lending too\nmuch of a hand?"
+      "<DBAF43F0>": "If possible, could you go check on them\nwithout helping too much?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I heard back from Kozakura.\nThanks to your quick thinking\nthey completed the mission safely."
+      "<DBAF43F0>": "I have received a report from Kozakura.\nThanks to your quick thinking,\nthey were able to complete their mission safely..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They looked like they'd put away some\ngood experience as well, thanks to you."
+      "<DBAF43F0>": "They looked as though they had grown a bit.\nIt's thanks to your help."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now, about Tobimaru's unit... They still\nremain stuck in Ribbi Flats."
+      "<DBAF43F0>": "And as for the remaining Tobimaru unit...\nThey are still stranded\nin the Ribbi Flats."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's been a little while now since I last\nheard from them, which is a bit worrying."
+      "<DBAF43F0>": "It's been some time since the last contact,\nso I'm a little worried..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tobimaru got in touch to say that his team\nmade it out thanks to you."
+      "<DBAF43F0>": "I have received a report from Tobimaru.\nThanks to your quick thinking,\nthey were able to complete their mission safely..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They were really keen to learn from you.\nInspired, even, by your indomitable spirit."
+      "<DBAF43F0>": "He said he was impressed by your spirit\nand wanted to learn from you."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By the looks of things, he'll make a good\nsuccessor to Rhyza. The future's bright!"
+      "<DBAF43F0>": "He may not look it, but he is Raizou's successor.\nI look forward to his future."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now, about Kozakura's unit... They still\nremain stuck in Dannagh Desert."
+      "<DBAF43F0>": "And as for the remaining Kozakura unit...\nThey are still stranded\nin the Dannagh Desert."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's been a little while now since I last\nheard from them, which is a bit worrying."
+      "<DBAF43F0>": "It's been some time since the last contact,\nso I'm a little worried..."
     }
   ]
 }

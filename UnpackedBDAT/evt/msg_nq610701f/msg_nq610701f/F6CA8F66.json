@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm. Not seeing any kids around..."
+      "<DBAF43F0>": "The children... are not here."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Look. A Kevesi husk..."
+      "<DBAF43F0>": "The husk of a Kevesi soldier..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You think the kids got caught up\nin a skirmish and had to run?"
+      "<DBAF43F0>": "Could they have been caught in a battle between\nKeves and Agnus and evacuated?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Unlikely. If there had been an incident,\nI'd expect to see Agnian husks too..."
+      "<DBAF43F0>": "No... if that were the case,\nit wouldn't be strange to find\nthe husks of Agnian soldiers as well..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh... Then what do we\nthink went on here?"
+      "<DBAF43F0>": "What in the world happened here...?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Matthew! Dillon!\nOver here!"
+      "<DBAF43F0>": "Matthew-san! Dillon-san!\nCome over here!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Look, footprints!\nAnd it looks like some of them\nmight belong to the kids!"
+      "<DBAF43F0>": "Look, footprints.\nOne set seems to belong to the children."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, nice sleuthing, Mickey!"
+      "<DBAF43F0>": "Oh, great job, Mickey."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "These other tracks, though..."
+      "<DBAF43F0>": "The problem is the other set of footprints.\nCould this be..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Doesn't look great, does it?\nLet's get moving!"
+      "<DBAF43F0>": "Yeah, I have a bad feeling about this...\nLet's hurry after them!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right!"
+      "<DBAF43F0>": "Roger!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, we need to pick up the pace."
+      "<DBAF43F0>": "Yeah...\nWe'd better hurry."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sena, wait. This time around we'd like to\nsit in on the conversation too."
+      "<DBAF43F0>": "Wait, Sena.\nThis time, we'll join you."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? But I thought..."
+      "<DBAF43F0>": "Huh? But..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No worries, we'll hang back and watch.\nWe're happy to let you do the talking."
+      "<DBAF43F0>": "Don't worry, we'll just watch from the back.\nWe'll leave the talking to you, Sena."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Um, OK then, if you say so..."
+      "<DBAF43F0>": "U-Um, if you say so..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, sorry to intrude...\nCan we have a moment?"
+      "<DBAF43F0>": "E-Excuse me...\nIs it alright if I come in?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No objections.\nYou wish to resume questioning."
+      "<DBAF43F0>": "No problem.\nIs this a continuation of the interrogation?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, that's not why I'm here.\nIt's just that last time, I was kinda rude..."
+      "<DBAF43F0>": "No, not really.\nI did something bad last time, so..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So to apologize, I thought I'd visit again\nand bring you a little something."
+      "<DBAF43F0>": "As an apology,\nI brought you something today."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...!"
+      "<DBAF43F0>": "…………!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I figured you might be hungry.\nThey're called onigiri..."
+      "<DBAF43F0>": "I thought you might be hungry.\nThey're called onigiri..."
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm not very good at this, so they're\nabout the only thing I can make..."
+      "<DBAF43F0>": "I'm clumsy, so this is the only thing\nI can make..."
     },
     {
       "$id": 13,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But I can guarantee they're tasty,\nand actually Mio-chan says so too...\nAh, Mio-chan, I mean Mio, she's..."
+      "<DBAF43F0>": "But I guarantee they taste good.\nMio-chan gave her seal of approval.\nAh, Mio-chan is..."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Yes."
+      "<DBAF43F0>": "…………Yes."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Oh, sorry, my bad!\nPlease, feel free to eat."
+      "<DBAF43F0>": "...Ah, sorry!\nPlease, have one."
     },
     {
       "$id": 17,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How about it, then...?"
+      "<DBAF43F0>": "S-So, how is it?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Cannot affertain...\npurpofe of...queftion..."
+      "<DBAF43F0>": "I do not understand... the intent of\nyour question..."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are they tasty?\nDid I make them right?"
+      "<DBAF43F0>": "Is it delicious?\nDid I make it right?"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "With regard to...firft queftion...\nNo. 7 confiderf...\"tafty\" to be\naccurate...affeffment."
+      "<DBAF43F0>": "Regarding the first question...\nNo. 7 determines... it is 'delicious'."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, r-really? That's good to hear!"
+      "<DBAF43F0>": "R-Really? I'm glad..."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In regard to...fecond, application of manual\npreffure...refulted in compaction and higher\ncohesion. Alfo showing...excess salt levelf..."
+      "<DBAF43F0>": "Regarding the second question...\ndue to high pressure during compression...\nslightly firm... in addition, excessive salt..."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh... No, wait, that's the best part!\nIsn't it nice and chewy?"
+      "<DBAF43F0>": "Ugh...\nB-But that's the good part!\nIt's satisfying to eat, right?"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "(gulp)... Affirmative."
+      "<DBAF43F0>": "...I agree."
     },
     {
       "$id": 26,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 7 has not taken sustenance\nin this form before."
+      "<DBAF43F0>": "This is the first time\nNo. 7 has eaten such provisions."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Currently considering that others\nof Colony 0 may also enjoy the\nexperience."
+      "<DBAF43F0>": "I think I would like to let everyone\nin Colony 0 have some too."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Oh, you think so?"
+      "<DBAF43F0>": "...Is that so?"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Particularly No. 9 seemed to be\ngrowing disaffected with the rations\nbeing distributed..."
+      "<DBAF43F0>": "Especially since No. 9 seemed to be\ntired of the synthetic rations we're supplied with..."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And No. 3, whose calorie intake exceeds\nthe baseline, may find these more sating..."
+      "<DBAF43F0>": "And No. 3, who has a high calorie intake,\nwould likely be satisfied with this..."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As a precaution, salt levels may\nhave to be marginally adjusted\npursuant to guidance from No. 6..."
+      "<DBAF43F0>": "As a concern, if the salt content is pointed out\nby No. 6, a slight adjustment will be necessary..."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hm? Is there a problem?"
+      "<DBAF43F0>": "...? Is something wrong?"
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, no, it's nothing. Oh, but if it's OK\nwith you, could I ask you to tell me more?"
+      "<DBAF43F0>": "No, it's nothing.\nIf you don't mind, I'd like to hear more."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Acknowledged. Continuing explanation."
+      "<DBAF43F0>": "Understood. I will continue my explanation."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, were the onigiri tasty?"
+      "<DBAF43F0>": "Was the onigiri delicious?"
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You already have a sufficient reply to this\nquestion."
+      "<DBAF43F0>": "I recall having already\nanswered that question."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Have you come to like the onigiri I made?"
+      "<DBAF43F0>": "Did you come to like my onigiri?"
     },
     {
       "$id": 40,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, that's good then.\nI'll make them for you again sometime."
+      "<DBAF43F0>": "I see, that's good.\nI'll make them for you again sometime."
     },
     {
       "$id": 42,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Well she eats like normal, and she can\nhandle small talk."
+      "<DBAF43F0>": "...She's just eating and making\nsmall talk like a normal person."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, there's nothing suspicious about her.\n...Except she talks funny, but whatever."
+      "<DBAF43F0>": "Nothing suspicious so far...\nother than her strange way of talking."
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's let Sena keep her talking\nfor a bit longer."
+      "<DBAF43F0>": "Let's leave it to Sena a little longer."
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, you said you didn't have a name."
+      "<DBAF43F0>": "Hey, you said\nyou didn't have a name, right?"
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Recollection of making such a\nstatement exists."
+      "<DBAF43F0>": "I recall making such a statement."
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, then... What about \"Nagiri\"?"
+      "<DBAF43F0>": "In that case...\nhow about \"Nagiri\"?"
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmmm."
+      "<DBAF43F0>": "……………………"
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Uh?"
+      "<DBAF43F0>": "...Huh?"
     },
     {
       "$id": 51,
@@ -538,7 +538,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Perhaps this is some sort of code\nor cipher."
+      "<DBAF43F0>": "...Is that some kind of code?"
     },
     {
       "$id": 52,
@@ -548,7 +548,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, I'm just... I was asking what you\nthought about \"Nagiri\" for a name."
+      "<DBAF43F0>": "No, it's not that... I was just asking\nwhat you thought of the name Nagiri."
     },
     {
       "$id": 53,
@@ -558,7 +558,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Cannot follow logic behind query.\nRequesting more rational explanation."
+      "<DBAF43F0>": "The logic is flawed.\nPlease provide a rational explanation..."
     },
     {
       "$id": 54,
@@ -568,7 +568,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're using difficult words again...\nI just didn't want to keep only\ncalling you \"you\"."
+      "<DBAF43F0>": "It's not that complicated... I just thought\nit would be inconvenient to keep calling you 'you'."
     },
     {
       "$id": 55,
@@ -578,7 +578,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The designation \"No. 7\" is..."
+      "<DBAF43F0>": "No. 7 is—"
     },
     {
       "$id": 56,
@@ -588,7 +588,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right! I just took the \"na-\" part from \"seven\" (nana)\nand tacked on the \"giri\" from \"onigiri\". \"Nagiri\"!"
+      "<DBAF43F0>": "Right! The \"Na\" from \"Nana\" (seven) and\nthe \"giri\" from \"onigiri,\" making \"Nagiri\"!"
     },
     {
       "$id": 57,
@@ -598,7 +598,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Failure to comprehend basis for utilizing\nthis nomenclature."
+      "<DBAF43F0>": "The reason for adopting the latter name is unclear."
     },
     {
       "$id": 58,
@@ -608,7 +608,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, it's 'cause... You said you liked\nonigiri, just then..."
+      "<DBAF43F0>": "That's because... you just said\nyou liked onigiri."
     },
     {
       "$id": 59,
@@ -618,7 +618,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa whoa whoa whoa, Sena...\nDon't you think you're taking it a bit far?"
+      "<DBAF43F0>": "Hey, hey, Sena-san...\nIsn't that a bit of a stretch?"
     },
     {
       "$id": 60,
@@ -628,7 +628,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, love... Did you lose your brain\nat the gym or something?"
+      "<DBAF43F0>": "Sena... don't tell me your brain\nhas turned to muscle too?"
     },
     {
       "$id": 61,
@@ -638,7 +638,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sorry, Sena.\nI don't think I see what you're after here."
+      "<DBAF43F0>": "I'm sorry, Sena.\nI failed to understand you."
     },
     {
       "$id": 62,
@@ -648,7 +648,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa, when did everyone get so mean?\nI think it's a great name, \"Nagiri\"..."
+      "<DBAF43F0>": "Eeeh, everyone's so mean...\nI think it's a good name, \"Nagiri.\""
     },
     {
       "$id": 63,
@@ -658,7 +658,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y-yeah, I think so too, actually.\nIt seems really, uh, friendly, somehow..."
+      "<DBAF43F0>": "I-I think so too.\nIt has a friendly ring to it... yeah."
     },
     {
       "$id": 64,
@@ -668,7 +668,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahaha! It's not really like you to\ncome out with something like this, Sena."
+      "<DBAF43F0>": "Ahaha... but it's rare for you\nto suggest something like that, Sena."
     },
     {
       "$id": 65,
@@ -678,7 +678,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "R-really...?\n...Well, maybe so..."
+      "<DBAF43F0>": "R-Really?\n...No, maybe you're right."
     },
     {
       "$id": 66,
@@ -688,7 +688,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But Mio-chan, I don't think it's right to...\ncall a person by a number..."
+      "<DBAF43F0>": "But Mio-chan, I can't just... call this girl..."
     },
     {
       "$id": 67,
@@ -698,7 +698,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 68,
@@ -708,7 +708,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, I'm sorry, I let my mouth run away\nfrom me. I understand if you felt hurt by it."
+      "<DBAF43F0>": "S-Sorry.\nI said something strange without thinking... You must have disliked it."
     },
     {
       "$id": 69,
@@ -718,7 +718,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Regulations contain no special\nprovisions on restricting designation."
+      "<DBAF43F0>": "...According to regulations, there are no\nspecific restrictions on naming conventions."
     },
     {
       "$id": 70,
@@ -728,7 +728,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh?"
+      "<DBAF43F0>": "Hm?"
     },
     {
       "$id": 71,
@@ -738,7 +738,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 7 has no authority based on which\nto reject proposed designations, whatever\nthey may be."
+      "<DBAF43F0>": "No matter how No. 7 is addressed,\nNo. 7 does not possess the authority\nto refuse it."
     },
     {
       "$id": 72,
@@ -748,7 +748,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Does that mean we can call you \"Nagiri\",\nand you won't mind?"
+      "<DBAF43F0>": "...Does that mean it's okay for me\nto call you Nagiri?"
     },
     {
       "$id": 73,
@@ -768,7 +768,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, there you have it then, affirmative."
+      "<DBAF43F0>": "She's affirming it..."
     },
     {
       "$id": 75,
@@ -778,7 +778,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nicely done, Sena."
+      "<DBAF43F0>": "Hehe, that's great, Sena."
     },
     {
       "$id": 76,
@@ -788,7 +788,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, thanks!"
+      "<DBAF43F0>": "Y-Yeah!"
     },
     {
       "$id": 77,
@@ -798,7 +798,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The girl might still be a total mystery,"
+      "<DBAF43F0>": "There's still a lot I don't understand, but... even so..."
     },
     {
       "$id": 78,
@@ -808,7 +808,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "but really, it wouldn't have been right\nto call her \"number seven\"..."
+      "<DBAF43F0>": "Calling this girl \"No. 7\"\njust feels wrong somehow..."
     }
   ]
 }

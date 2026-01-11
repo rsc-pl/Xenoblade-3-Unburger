@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mwamba is alive! I heard it from Eilis."
+      "<DBAF43F0>": "Eilis told me.\nMwamba is alive, isn't he?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, he's alive...\nBut he's not the Mwamba that\nwe used to know any more."
+      "<DBAF43F0>": "He's alive, but...\nhe's not the Mwamba we know."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, sure...but I'm still\njust as happy about it."
+      "<DBAF43F0>": "Yeah... even so, that doesn't change\nhow happy I am."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He'll come back to Colony 9 someday,\nright? I'd like him to meet the others."
+      "<DBAF43F0>": "He's coming to Colony 9 eventually, right?\nI'd like to let him meet everyone else."
     }
   ]
 }

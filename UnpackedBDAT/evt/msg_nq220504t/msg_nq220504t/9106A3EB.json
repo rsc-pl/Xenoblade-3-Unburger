@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hello, all. And hello to your Agnus friend."
+      "<DBAF43F0>": "Oh, everyone.\nIs that your friend from Agnus?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm actually looking for someone.\nDo you know an Saibara?"
+      "<DBAF43F0>": "We are looking for someone.\nDo you know a soldier named Saibara?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Saibara? Yes, she came\nfrom Colony Tau, I think."
+      "<DBAF43F0>": "Saibara... Ah......\nThe one from Colony Tau......"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So you know her?"
+      "<DBAF43F0>": "You know her?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wouldn't say we're particularly\nwell acquainted, but..."
+      "<DBAF43F0>": "I wouldn't say I know her well.\nIt's just......"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She was a bit suspicious."
+      "<DBAF43F0>": "her movements were a bit suspicious."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Suspicious? That's not\nthe Saibara I know..."
+      "<DBAF43F0>": "She's not the kind of person\nto do anything suspicious......"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She always seemed to be looking for\nsomething, sniffing around the procurement\ndivision and the tactician squad."
+      "<DBAF43F0>": "She went to the procurement team here, the tactics team,\nand other teams, and seemed to be\ninvestigating something..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That said, she looked a little too\nconspicuous to be a spy."
+      "<DBAF43F0>": "However, for a spy,\nshe was defenseless, so I don't\nreally know the truth of it."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Interesting. OK, thanks for your help."
+      "<DBAF43F0>": "I see.\nThank you."
     }
   ]
 }

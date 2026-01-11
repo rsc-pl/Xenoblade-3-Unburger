@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Organizing the troops is going to take some\ntime. Would you mind going on ahead to\nthe port?"
+      "<DBAF43F0>": "It seems it will take some time\nto organize the troops, so...\nplease proceed to the port ahead of us."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Things are what they are, I guess."
+      "<DBAF43F0>": "Even so..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...But it looks like there are still people in\nKeves who are struggling to adapt to it."
+      "<DBAF43F0>": "It seems there are still people in Keves\nwho can't change."
     }
   ]
 }

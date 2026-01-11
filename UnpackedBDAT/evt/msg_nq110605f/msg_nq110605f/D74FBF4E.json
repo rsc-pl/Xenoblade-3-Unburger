@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, thank you! This is perfect!"
+      "<DBAF43F0>": "Aaaah! Thank you!\nThis much will be more than enough!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll get them to the medic team right away!"
+      "<DBAF43F0>": "I have to get this to the medical team right away..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You OK? You're\nlooking a bit peaky."
+      "<DBAF43F0>": "...Um, are you okay?\nYou look pale."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Really sorry about this,\nbut could you do one\nmore thing for me?"
+      "<DBAF43F0>": "...S-Sorry, everyone.\nI have another request..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Would you come with\nme to the medic team?"
+      "<DBAF43F0>": "Could you accompany me\nto the medical team's location...?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah. Why?"
+      "<DBAF43F0>": "I don't mind, but why?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, these supplies are\nkiiind of incredibly late..."
+      "<DBAF43F0>": "Well... I'm quite late in\ndelivering the supplies..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do you think Olesha's\ngonna get mad at you again?"
+      "<DBAF43F0>": "You think Olesha will get mad at you again?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Pleeease! I'm begging you!\nYou don't even have to walk\nme all the way!"
+      "<DBAF43F0>": "Pleeeeease!\nJust part of the way is fine!!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I just need a little courage\nto face her! Please!"
+      "<DBAF43F0>": "Please give me the courage to face her!\nPlease!!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wow, the procurement division\nreally has it rough..."
+      "<DBAF43F0>": "Being in the materials procurement squad is tough..."
     }
   ]
 }

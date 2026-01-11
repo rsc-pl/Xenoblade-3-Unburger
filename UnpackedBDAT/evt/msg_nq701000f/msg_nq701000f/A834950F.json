@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like we got here in the nick of time.\nAny injuries on you?"
+      "<DBAF43F0>": "That was a close call.\nAre you hurt?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmph. You needn't have bothered.\nI was doing perfectly fine on my own."
+      "<DBAF43F0>": "Hmph, meddling...\nI could have handled that myself."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, all right mate, you're welcome...\nYou sure you wanna take that tone with\nyour fellow Citizen?"
+      "<DBAF43F0>": "What a greeting...\nIs that how you treat someone from your hometown?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, well... *You're* from\nthe City too, are you?"
+      "<DBAF43F0>": "Oh...\nSo you're from the City too."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I am, and thanks for taking it on board.\nC'mon, let's get you back to our base."
+      "<DBAF43F0>": "I'm glad you understand.\nNow, let's go to our base."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What base is this?"
+      "<DBAF43F0>": "A base?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Liberators' base.\nYou comin' with, or not?"
+      "<DBAF43F0>": "Yeah, the Liberators'.\nAnyway, just come with me."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hrm... Sure, why not."
+      "<DBAF43F0>": "Hmph... very well."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anything to aid the City's revival.\nI'll grasp at whatever straws I find\nwithin my reach."
+      "<DBAF43F0>": "Everything is for the sake of saving the City.\nI will use whatever I can."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Cummings has been put in the care\nof Colony 9."
+      "<DBAF43F0>": "Cummings is now under the protection of Colony 9."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...If have spare High Ether burning\nhole in pockets, Totoma buy."
+      "<DBAF43F0>": "...If you have spare High Ether,\nI will buy it, mo."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How many HD Ether Cylinders+\ndo you want to sell?"
+      "<DBAF43F0>": "How many HD Ether Cylinders' worth\nof High Ether will you sell?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "1 cylinder (1,000G)"
+      "<DBAF43F0>": "1 cylinder (1000G)"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "5 cylinders (5,000G)"
+      "<DBAF43F0>": "5 cylinders (5000G)"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "10 cylinders (10,000G)"
+      "<DBAF43F0>": "10 cylinders (10000G)"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "50 cylinders (50,000G)"
+      "<DBAF43F0>": "50 cylinders (50000G)"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "None"
+      "<DBAF43F0>": "Don't sell"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Totoma confirm purchase.\nWhen have more to sell, come again."
+      "<DBAF43F0>": "...Purchase confirmed, mo.\nIf you have more to spare, I will buy it, mo."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You not have enough.\nCount again."
+      "<DBAF43F0>": "...You do not have that many, mo.\nCount them properly, mo."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...When have more to sell, come again."
+      "<DBAF43F0>": "...If you have more to spare, let me know, mo."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see we have [ML:flagParam bdatNum=7 ] to hand..."
+      "<DBAF43F0>": "We have [ML:flagParam bdatNum=7 ] on hand..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Or did friends want to improve cylinder?"
+      "<DBAF43F0>": "...Or did you want to modify the cylinder, mo?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Which one are you interested in?"
+      "<DBAF43F0>": "Which would you like to do?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Selling High Ether"
+      "<DBAF43F0>": "Sell High Ether"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Improving HD Ether Cylinder+"
+      "<DBAF43F0>": "Modify the HD Ether Cylinder+"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Show Totoma HD Ether Cylinder+."
+      "<DBAF43F0>": "...Show me the HD Ether Cylinder+, mo."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Totoma improved."
+      "<DBAF43F0>": "...Modified, mo."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...HD Ether Cylinder+ reach version 3.0."
+      "<DBAF43F0>": "...HD Ether Cylinder+\nVer. 3.0, mo."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...HD Ether Cylinder+ reach version 4.0."
+      "<DBAF43F0>": "...HD Ether Cylinder+\nVer. 4.0, mo."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...HD Ether Cylinder+ reach version 5.0."
+      "<DBAF43F0>": "...HD Ether Cylinder+\nVer. 5.0, mo."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Design now perfect. Cannot improve more."
+      "<DBAF43F0>": "...The work is perfect, mo.\nIt cannot be modified any further, mo."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Totoma need mechanical materials from\nAetia and Fornis regions to improve."
+      "<DBAF43F0>": "...The required materials are\nmechanical parts found in the\nAetia and Fornis regions, mo."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Totoma need mechanical materials from\nPentelas and Keves Castle regions to\nimprove..."
+      "<DBAF43F0>": "...The required materials are\nmechanical parts found in the Pentelas\nand Keves Castle regions..."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...and also some from Cadensia region too."
+      "<DBAF43F0>": "and also the Cadensia region, mo."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Totoma need mechanical materials from\nsmashed-up Levnises to improve."
+      "<DBAF43F0>": "...The required materials are\nmechanical parts obtained from defeating\nLevnisters, mo."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "HD Ether Cylinder+ improved.\nYou can now gather more High Ether."
+      "<DBAF43F0>": "The HD Ether Cylinder+ has been upgraded.\nThe amount of High Ether you can collect has increased."
     }
   ]
 }

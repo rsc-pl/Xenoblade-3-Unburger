@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We came here with some instructions from\nShiki..."
+      "<DBAF43F0>": "We've come with a message from Shiki."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, this is about the boat, right? I'm going\nforward with the preparations now."
+      "<DBAF43F0>": "It's about the ship, I presume.\nOur preparations are also underway."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is there anything we need to do to help?"
+      "<DBAF43F0>": "What should we do?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Actually, yes. Could you open the\nfloodgate? We've got our hands full\ngetting ready for launch right now."
+      "<DBAF43F0>": "Yes, could you please open the floodgate?\nWe have to prepare for departure."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You'll find the panel for it in the\ncontrol facility. The former prisoners\nare all waiting in the harbor."
+      "<DBAF43F0>": "The control panel is in the control facility.\nThe people from the prison are waiting at the port."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If that's all we need to do, we'll be done\nin no time at all."
+      "<DBAF43F0>": "If that's all, we'll have it done\nin no time."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Could you open the floodgate?\nYou'll find the panel for it in the\ncontrol facility."
+      "<DBAF43F0>": "Please open the floodgate.\nThe control panel is in the control facility."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Please get rid of the monsters on\nFarview Cape for us, would you?"
+      "<DBAF43F0>": "Please defeat the monsters\nat Farview Cape."
     }
   ]
 }

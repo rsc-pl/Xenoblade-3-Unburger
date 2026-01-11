@@ -38,7 +38,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Door opened!!! So great!!!"
+      "<DBAF43F0>": "The door opened, mo!!\nWell done, mo!!!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, yeah, keep it down a bit!"
+      "<DBAF43F0>": "You're too loud."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now caravan can go and come more\nfreely!!! So Kehakebaa think originally. But\ndogs of war still hinder trade routes..."
+      "<DBAF43F0>": "I thought it would make it easier for the caravans\nto come and go, but\nit seems impossible because the fighting won't stop, mo[ML:line ]..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, mate... I feel for ya."
+      "<DBAF43F0>": "That's... unfortunate."
     }
   ]
 }

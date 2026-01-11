@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Aya... Is something wrong?"
+      "<DBAF43F0>": "Aya... Are you feeling down?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's just that I don't see you on your\nown that often. You're usually always\nwith someone, at least."
+      "<DBAF43F0>": "It's just rare to see you alone.\nYou're always with everyone, so[ML:line ]"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I...I mean, even I have times when\nI want to be alone, you know."
+      "<DBAF43F0>": "W-well, even I\nhave times when I want to be alone[ML:line ]"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You've felt the same way before,\nhaven't you? Like, for example..."
+      "<DBAF43F0>": "...Don't you, Mashiro?\nFor example..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whenever you're feeling sad,\nwhat do you do, Mashiro?"
+      "<DBAF43F0>": "If you were feeling down...\nwhat would you do, Mashiro?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What do you do?"
+      "<DBAF43F0>": "What do you do when you're feeling down?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Confide in someone."
+      "<DBAF43F0>": "Talk to someone I can rely on."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I talk to someone I can rely on; let them\nknow eeeverything that's on my mind."
+      "<DBAF43F0>": "I talk to someone I can rely on.\nI just tell them everything that's on my mind[ML:line ]"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It helps me pinpoint exactly what's\ngood and bad about my situation."
+      "<DBAF43F0>": "And have them point everything out to me,\nbluntly. The good and the bad, both clearly."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hehe... It's all about Ichika when it\ncomes to you, I bet?"
+      "<DBAF43F0>": "Ahaha[ML:line ]\nYou're totally talking about Ichika, aren't you?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It...it is...?"
+      "<DBAF43F0>": "...You think so..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That girl was so strong-minded\nand frank with her opinions."
+      "<DBAF43F0>": "Yeah, she's got a harsh personality,\nso she's always blunt about everything."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's what made her so dependable...\nBut she's not here any more. I need to\nstart getting myself together."
+      "<DBAF43F0>": "I relied on that part of her...\nI have to be strong from now on..."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Chat with a friend."
+      "<DBAF43F0>": "Talk with my friends."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I talk with a friend for a change of pace!"
+      "<DBAF43F0>": "I talk with my friends\nand change my state of mind!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's no point being all doom\nand gloom about everything on\nmy own, after all."
+      "<DBAF43F0>": "When I'm feeling down I just get stuck,\nand I hate that part of myself that can't move forward[ML:line ]"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think a good belly-laugh with a friend\ncan help to clear your mind of gloomy\nfeelings."
+      "<DBAF43F0>": "I think I'd want to empty my head\nand just laugh with everyone with all my heart."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Aaah. Guess that's why you act like a\nTirkinhead sometimes."
+      "<DBAF43F0>": "Ahh, Mashiro sometimes\ngets a Tirkin brain too, doesn't she?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I do not!"
+      "<DBAF43F0>": "I do not~!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh yes you do! Though you're not\nas big a Tirkinhead as Tallow is."
+      "<DBAF43F0>": "You do!\nThough you're not as bad as Tallow."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyway, you're right... It's important to\nlaugh, and often."
+      "<DBAF43F0>": "But, you're right...\nLaughing is important."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Ah! I'm feeling much more refreshed\nnow. Thanks for listening to me."
+      "<DBAF43F0>": "...Ahh! I feel so refreshed.\nThanks for listening."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you better now?"
+      "<DBAF43F0>": "Are you okay now?"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yup. I can't not feel better when\nI see your smile."
+      "<DBAF43F0>": "Yeah, seeing your face cheered me up."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...And on that note, that's one point for\nyou! Congrats! I'll report it to Tallow now."
+      "<DBAF43F0>": "...And with that, congrats on your 1 point!\nI'll report it to Tallow."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you sure? I don't feel like I really\ndid anything, though..."
+      "<DBAF43F0>": "Is that okay?\nI don't feel like I did anything..."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't sweat it. I'll ultimately have to sort\nout my own feelings on my own, one way\nor another."
+      "<DBAF43F0>": "It's fine, it's fine. In the end, your own feelings\nare something only you can handle."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right then, that's enough moping for me!\nI'm ready to get back to my best!"
+      "<DBAF43F0>": "Right then, I'm gonna do my best, too!"
     }
   ]
 }

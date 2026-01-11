@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait, you're...?"
+      "<DBAF43F0>": "Can it be... you're...?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, it's you. I heard the\nwhole story from Samon."
+      "<DBAF43F0>": "Oh my, so it's you.\nI've heard about you from Samon-chan."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, can you help me\nimprove the Buddy Blaster?"
+      "<DBAF43F0>": "Will you help me\nimprove the Buddy Blaster?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But of course. I haven't been\nable to do anything like this in\nages! Should be a lot of fun."
+      "<DBAF43F0>": "Of course.\nIt's been a while since I've done something like this,\nso I'm looking forward to it."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Going by what I heard, I'd say the\nproblem is the structure of the weapon."
+      "<DBAF43F0>": "From what I've heard,\nI think there's a problem with the weapon's structure."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The laser diffuses quite a bit.\nWhat if we concentrate the beam?"
+      "<DBAF43F0>": "The laser is diffusing, so how about\nwe try to narrow the spot down more?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you have a Dowdy Armor Kernel\nand a Gloss Reactor I can make some\nadjustments."
+      "<DBAF43F0>": "If you bring me a Kernel Panel and a Glanz Reactor,\nI can make the adjustments."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, I'll get those for you!"
+      "<DBAF43F0>": "Got it!\nI'll go get them."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I like that enthusiasm."
+      "<DBAF43F0>": "So full of energy, aren't you."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll go ahead to Colony 30."
+      "<DBAF43F0>": "Well then, I'll head to\nColony 30 first..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oof, my back..."
+      "<DBAF43F0>": "Ow, ow, ow... my back..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you OK? Doesn't getting\nolder make it harder to move?\nLook after yourself!"
+      "<DBAF43F0>": "H-hey, are you alright?\nGetting older makes it hard to move, right?\nDon't push yourself."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Aren't you a dear? My son's\na Levnis pilot, so don't worry.\nHe'll drop me off."
+      "<DBAF43F0>": "You're so kind, thank you.\nMy son is a Levnis pilot,\nso he'll give me a ride. I'll be fine."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll see you all later, then."
+      "<DBAF43F0>": "Well then, see you later."
     }
   ]
 }

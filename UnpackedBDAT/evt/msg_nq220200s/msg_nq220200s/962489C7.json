@@ -38,7 +38,7 @@
       "<2B51649C>": 50348161,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, is harvest time a\nbig deal for your lot?"
+      "<DBAF43F0>": "You said it was harvest time.\nIs it a lot of work?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It is, yes. We grow virtually all\nour own food in the colony."
+      "<DBAF43F0>": "It is.\nColony Tau provides most of its own food\nfrom within the colony."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can't sustain ourselves\non hunting alone, you know?"
+      "<DBAF43F0>": "We can't survive on hunting alone."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 50348161,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's the harvest festival\nall about, then?"
+      "<DBAF43F0>": "What's the harvest festival?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nothing special, just a harvest, really.\nWe have a lot of crops to bring in at\nthis time of year."
+      "<DBAF43F0>": "It's simply a harvest.\nMany crops are reaped during this season."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The only problem is we're a bit\nshort-handed this year. People are\nbraced for hard work."
+      "<DBAF43F0>": "However...... this time, we're short on people,\nso there's talk that it won't be easy."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 50348161,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can we be of any use?"
+      "<DBAF43F0>": "Shall we help too?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 50348161,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's just harvesting, right?\nI can do harvesting!"
+      "<DBAF43F0>": "If it's just harvesting,\nI think even I can do it!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Would you? It would\ndelay your journey..."
+      "<DBAF43F0>": "Are you sure?\nIt might be a bother to your journey......"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 50348161,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah ah ah! This is the part where you\njust thank us graciously and move on."
+      "<DBAF43F0>": "Don't hold back.\nIn situations like this,\na simple 'thank you' is enough!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 12599425,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eunie's right."
+      "<DBAF43F0>": "Well said, Eunie."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, then, thank you.\nI'd be grateful for your help."
+      "<DBAF43F0>": "Then, um......\nThank you, everyone.\nI'll be in your care."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Arright, let's get harvesting!"
+      "<DBAF43F0>": "Alright, then let's get started right away!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Everyone will be waiting by\nthe entrance to Colony Tau."
+      "<DBAF43F0>": "It's right by the entrance to Colony Tau.\nLet's go."
     }
   ]
 }

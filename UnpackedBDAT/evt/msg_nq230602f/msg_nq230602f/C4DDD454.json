@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I heard that I've been invited to\njoin Colony 11's mock battle."
+      "<DBAF43F0>": "...I've heard the circumstances.\nYou wish to invite me to Colony 11's mock battle."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By all means, we'd love to have you."
+      "<DBAF43F0>": "Yes, I'd be delighted."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just so I understand, what is\nyour intention in inviting me?"
+      "<DBAF43F0>": "Just to be certain,\nwhat is your reasoning for nominating me?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In my estimation, you're far better\nthan the other dreck you people\ncall commanders."
+      "<DBAF43F0>": "In my estimation,\nyou're far more skilled than any of\nthe common commanders out there."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see. But you give me too much credit.\nI'm just a lowly footsoldier, strictly\nmiddle-of-the-road."
+      "<DBAF43F0>": "Hmm... If that's the case, then you overestimate me.\nI am but a mere soldier, still on my path."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Be humble all you want...\nBut I'm saying you're good."
+      "<DBAF43F0>": "You're free to be humble.\nBut... I thought you would be a good choice."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I feel as though you aren't going\nto take no for an answer."
+      "<DBAF43F0>": "...It's as if you're saying I have no right\nto refuse from the very beginning."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Feel however you want.\nAs long as you participate\nit's all the same to me."
+      "<DBAF43F0>": "You can take it that way if you like.\nAs long as you participate,\nI don't care about anything else."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is it cold here, or is it just me?"
+      "<DBAF43F0>": "Wh-What is this atmosphere?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Very well. If you are going to insist\nthis much, then I cannot refuse."
+      "<DBAF43F0>": "...Understood.\nIf you insist this much,\nI cannot refuse."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, good! Things will be even\nmore fun than before, and that's\nwhat I was after."
+      "<DBAF43F0>": "That's great.\nIt seems the fun will be even more fun now,\nwhich is all that matters."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All right, talk to me when you're\nready. I'll be keeping a close eye\non the proceedings!"
+      "<DBAF43F0>": "Well then, let me know when you're ready.\nI'll be praying for your success from my \"high perch.\""
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll be glad of your help, everyone.\nIf you decide to accept, I will devote\nevery fiber of my being to this."
+      "<DBAF43F0>": "Everyone, I'll be in your care.\nSince I've accepted,\nI intend to give it my all."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll be counting on you."
+      "<DBAF43F0>": "Yes, we'll be counting on you."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I guess if Shidou is up for it\nthen it can't be too bad..."
+      "<DBAF43F0>": "Well, if Shidou says it's fine,\nI guess it's okay..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're about to start the \"Plan To\nFind Who's The Best In Colony 11\"."
+      "<DBAF43F0>": "\"The Who is the Strongest in Colony 11 etc.\"\nis about to begin."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tell Gamma's commander\nthat we're looking forward\nto him taking part!"
+      "<DBAF43F0>": "Please tell the Commander from Gamma\nthat we're looking forward to his participation."
     }
   ]
 }

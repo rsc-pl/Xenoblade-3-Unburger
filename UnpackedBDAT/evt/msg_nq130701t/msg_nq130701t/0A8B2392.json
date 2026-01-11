@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A Collectopaedia Card bug?\nOh, is this about the comment text?"
+      "<DBAF43F0>": "...A Collectopaedia Card bug?\nAh, are you referring to the comment display issue?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do you know why it's happening?"
+      "<DBAF43F0>": "Have you found the cause?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Interference caused by black fog.\nStill just a theory, though."
+      "<DBAF43F0>": "It's interference from the black fog. Probably."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I assure you, the tool itself is bug-free.\nAnd I'm happy to have a word with\nanyone who isn't."
+      "<DBAF43F0>": "There are no problems with the tool itself.\nOr rather, it would be a problem if there were."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Phew, touchy subject, eh?"
+      "<DBAF43F0>": "She's really on edge..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do you keep getting repeated requests\nfrom someone called Sif? It's starting to\ndrive me up the wall."
+      "<DBAF43F0>": "This Sif person is irritating.\nThey've been posting the same request over and over, haven't they?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We heard you the first time!\nWaste of everybody's time and effort."
+      "<DBAF43F0>": "They could just make one request for everything, right?\nIt's too inefficient."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, spamming messages seems like\na surefire way to tick folks off..."
+      "<DBAF43F0>": "That's true...\nIt stands out because it keeps popping up as new."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Maybe that's what they want."
+      "<DBAF43F0>": "...Could it be...\nthat that's the intention?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maybe they don't need to get the thing\nthey've requested. Maybe what they\nwant is for the request itself to be seen."
+      "<DBAF43F0>": "What if the goal isn't to obtain the requested items,\nbut for the request itself to be seen..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Ah."
+      "<DBAF43F0>": "...I see."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What they've asked for can be found\nthroughout the tunnels, no bother."
+      "<DBAF43F0>": "The items that person requested are all things\nthat can be easily gathered in the mines, right?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A black fog's just rolled in around\nthat area too. Which means..."
+      "<DBAF43F0>": "The black fog is also occurring near there.\nWhich means..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Damn... Something's happened\nin the tunnels?!"
+      "<DBAF43F0>": "...!\nSomething happened in the mines!?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can't say for sure. But it certainly\nlooks like something's going on."
+      "<DBAF43F0>": "It's just a possibility,\nbut perhaps they're in some kind of trouble."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you for telling us.\nWe'll check it out!"
+      "<DBAF43F0>": "Thank you.\nI'll go check it out!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What they've asked for can be found\nthroughout the tunnels, no bother."
+      "<DBAF43F0>": "The items that person requested are all things\nthat can be easily gathered in the mines, right?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A black fog's just rolled in around\nthat area too. Which means..."
+      "<DBAF43F0>": "The black fog is also occurring near there.\nWhich means..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, I can't say for sure. But it certainly\nlooks like something's going on."
+      "<DBAF43F0>": "It's just a possibility,\nbut perhaps they're in some kind of trouble."
     }
   ]
 }

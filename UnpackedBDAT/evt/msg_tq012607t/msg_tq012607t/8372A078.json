@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I need to ask you something."
+      "<DBAF43F0>": "I have something to ask."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Friend mean about Rozana?"
+      "<DBAF43F0>": "Is it about Rozana-san, mo?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's right."
+      "<DBAF43F0>": "Yes."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shame, would have liked to spend\nmore time tinkering with Automaton."
+      "<DBAF43F0>": "I wanted to tinker with the\nAutomaton more, mo."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "An Automaton?"
+      "<DBAF43F0>": "Automaton?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That right. Had to regulate\nsettings on some Automaton."
+      "<DBAF43F0>": "That's right, mo.\nI was adjusting an Automaton, mo."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gray, did you know about this?"
+      "<DBAF43F0>": "Gray, did you know?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I didn't. Haven't even heard."
+      "<DBAF43F0>": "...I didn't.\nNever heard of it."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, this Automaton you regulated.\nWhere is it now?"
+      "<DBAF43F0>": "So, that adjusted Automaton,\nwhere is it now?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tartar know it in hidey place,\nand not know any more than that."
+      "<DBAF43F0>": "They said it was placed in an inconspicuous location, mo.\nTartar doesn't know for sure, mo."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You were working on an Automaton,\nbut you don't know where it was?"
+      "<DBAF43F0>": "You were adjusting the Automaton, but\nyou don't know where it is?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tartar told it question of trade secret."
+      "<DBAF43F0>": "I was told it was a trade secret, mo."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Had to walk to place with eyes covered.\nTartar think, was still in City, but\nmaybe on very tippy-edge..."
+      "<DBAF43F0>": "I was blindfolded and led around, mo.\nI think it's within the City, but\nI feel like I was walked to the very edge, mo..."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Got it.\nThat'll be all."
+      "<DBAF43F0>": "Understood.\nThat's enough."
     }
   ]
 }

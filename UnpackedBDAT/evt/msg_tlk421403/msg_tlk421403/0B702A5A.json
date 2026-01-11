@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good Ouroboros... You may humbly\naddress the Queen, if you will."
+      "<DBAF43F0>": "Everyone of Ouroboros,\nI humbly ask you to take care of Melia-sama."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Aizel... Your concern and formality\nis overdone, sometimes."
+      "<DBAF43F0>": "Aizel[ML:line ]...\nyou are too concerned."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's precisely in the present company\nthat I feel the most safe."
+      "<DBAF43F0>": "Being with them now\nis the safest place to be."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Be that as it may, Your Majesty...\nNo, never mind."
+      "<DBAF43F0>": "That may be so, but[ML:line ]..."
     }
   ]
 }

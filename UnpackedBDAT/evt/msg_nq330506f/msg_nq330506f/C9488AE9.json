@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey... Isn't this a clam?!"
+      "<DBAF43F0>": "Isn't this... a clam?!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All right, my time to shine!"
+      "<DBAF43F0>": "Alright, leave it to me!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "You got a humongous egg."
+      "<DBAF43F0>": "Obtained \"Big Egg\"."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wow, that's enormous..."
+      "<DBAF43F0>": "S-So big..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What even laid that egg...?"
+      "<DBAF43F0>": "What kind of egg is it...?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I couldn't tell for certain,\nbut I would vote against\nstaying here to find out."
+      "<DBAF43F0>": "I will refrain from saying, but...\nI do not have a good feeling about this."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good call..."
+      "<DBAF43F0>": "Yeah..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's not lose hope.\nThere's still one other\npossible location."
+      "<DBAF43F0>": "Let's pull ourselves together and\ncheck the other places."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Clammoth might be on\nsome other beach somewhere."
+      "<DBAF43F0>": "The giant clam might be\non another beach."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's go back and see if\nTriden hasn't remembered\nanything else."
+      "<DBAF43F0>": "Let's go back and ask\nTriden again."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "You put the humongous egg back..."
+      "<DBAF43F0>": "The \"Big Egg\" was gently returned..."
     }
   ]
 }

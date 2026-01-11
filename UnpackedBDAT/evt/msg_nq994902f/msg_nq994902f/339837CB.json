@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's see... That should make it four\npieces of cargo we've got hold of now."
+      "<DBAF43F0>": "Um...\nDoes that make four supplies recovered?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That leaves three more to find. Where else\ncould they be?"
+      "<DBAF43F0>": "I think so.\nI wonder where the rest are...?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm? Wait a minute, look over there!"
+      "<DBAF43F0>": "Hm? Wait, over there[ML:line ]"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, damn, they're guarding our\nsnuffing target!"
+      "<DBAF43F0>": "Those things! They're surrounding the supplies!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This goes some way to explaining the\ncargo shortage."
+      "<DBAF43F0>": "So that's why we were short on supplies..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You know what to do! Let's teach these\nthieving snuffers a lesson!"
+      "<DBAF43F0>": "Can't be helped. Let's get 'em back!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right!"
+      "<DBAF43F0>": "Yeah!"
     }
   ]
 }

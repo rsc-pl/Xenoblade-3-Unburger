@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, you must be the ones\nEthel told us about."
+      "<DBAF43F0>": "Oh, so you're the party\nEthel was talking about."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah. That's us."
+      "<DBAF43F0>": "Yes..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd love to give you a proper welcome,\nbut unfortunately, my hands are somewhat\ntied right now. Truly sorry!"
+      "<DBAF43F0>": "I'd like to welcome you,\nbut I'm afraid we're a bit busy.\nMy apologies."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've a lack of personnel, dwindling\nmedical supplies, and the patients\nwon't stop arriving..."
+      "<DBAF43F0>": "Good grief... Forget being short-staffed,\nwith medical supplies this low,\nthe number of patients just keeps growing."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Things really have been rough ever since\nwe dropped to Dirt rank."
+      "<DBAF43F0>": "It might be the most difficult situation we've been in\nsince we were dropped to Dirt rank."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not enough medical supplies, huh...?"
+      "<DBAF43F0>": "You're lacking medical supplies?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So it would appear. That kind of problem\ncalls for a swift handling..."
+      "<DBAF43F0>": "So it seems.\nThis is a problem that must be dealt with immediately..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Olesha? Thank you for the heads-up."
+      "<DBAF43F0>": "Olesha.\nThank you for telling us."
     }
   ]
 }

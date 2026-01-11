@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Pending your decision on the outcome\nof the proposed exchange, I await your\ncommand to depart."
+      "<DBAF43F0>": "Once a decision on the outcome of the proposed exchange,\nI await your command to depart."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "(sigh)"
+      "<DBAF43F0>": "I..."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Give Nagiri the order"
+      "<DBAF43F0>": "Give Nagiri the order."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Think it over some more"
+      "<DBAF43F0>": "Think about it a little more."
     }
   ]
 }

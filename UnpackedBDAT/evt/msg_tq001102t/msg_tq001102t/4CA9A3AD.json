@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You guys heading to the City?"
+      "<DBAF43F0>": "Shall we head to the City?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Let's go!"
+      "<DBAF43F0>": "Let's go"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Not quite yet..."
+      "<DBAF43F0>": "Wait a moment"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "You can't use this now, as the City is\nunder attack. Finish Sena's side story\nfirst. (Skip travel to City is allowed.)"
+      "<DBAF43F0>": "Cannot be used while the City is under attack.\nPlease complete Sena's side story.\n*It is possible to skip travel to the City."
     }
   ]
 }

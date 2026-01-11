@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Objective confirmed ahead."
+      "<DBAF43F0>": "Target confirmed ahead."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "(gasp)"
+      "<DBAF43F0>": "...!"
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Please disengage optical camouflage."
+      "<DBAF43F0>": "Please deactivate your optical camouflage immediately."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Receiving unrecognized ID..."
+      "<DBAF43F0>": "Receiving identification signal of unidentified unit..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ferron unit..."
+      "<DBAF43F0>": "Ferron..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "No. 13."
+      "<DBAF43F0>": "\"Unit Two.\""
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "So...it is her!"
+      "<DBAF43F0>": "Then, it really is..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Thirteen!"
+      "<DBAF43F0>": "Number Two."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "No. 7..."
+      "<DBAF43F0>": "Number Seven..."
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Please..."
+      "<DBAF43F0>": "Please give me..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I need some time."
+      "<DBAF43F0>": "a moment."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Uh... OK!"
+      "<DBAF43F0>": "U-um, okay."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Thirteen..."
+      "<DBAF43F0>": "Number Two..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "No. 7! Ahahah! I don't believe it, it's really you!"
+      "<DBAF43F0>": "Number Seven... hahaha, it's really Number Seven!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's been so long, No. 7!"
+      "<DBAF43F0>": "It's been a while, Number Seven."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I thought I'd never ever see you again!"
+      "<DBAF43F0>": "I thought I'd never see you again."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Agreed, Thirteen."
+      "<DBAF43F0>": "I concur, Number Two."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I should have realized this sooner."
+      "<DBAF43F0>": "I should have realized sooner."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "If I had...this wouldn't have..."
+      "<DBAF43F0>": "If I had, then you too..."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "No! Don't worry a bit!\nAnyway, it wasn't all terrible for me."
+      "<DBAF43F0>": "No, don't worry about it.\nAnd it wasn't all bad."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I mean, I almost died, and I was alone for ages,\nbut it's all been worth it. I finally realized something!"
+      "<DBAF43F0>": "Sure, I was on the verge of death and all alone, but\nthanks to that, I finally realized something."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "...And what is that?"
+      "<DBAF43F0>": "...Realized what?"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "All of us Ferron pilots... From the moment we were born, we\ndidn't actually have to follow any of the orders we were given!"
+      "<DBAF43F0>": "We two, from the moment we were born,\nwe never needed to follow orders."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "We only thought we did, do you understand?\nBut it wasn't true in the slightest!"
+      "<DBAF43F0>": "Before, I believed we had to,\nbut that was a huge mistake."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "See for yourself! Nobody gives me any orders,\nbut I'm still able to survive like this, right?!"
+      "<DBAF43F0>": "Because look, even without orders,\nI'm still alive like this, right?"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "In other words... You have learned\nhow to issue orders to yourself?"
+      "<DBAF43F0>": "In other words, you have become able\nto issue orders to yourself?"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ahahah, what a weird way to put it!"
+      "<DBAF43F0>": "Ahaha, what's that? That's funny."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "But yeah, maybe you could say that!"
+      "<DBAF43F0>": "But that's how it is, Number Seven."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "From this point on, all of us can run free,"
+      "<DBAF43F0>": "From now on, we can be free..."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "live life just how we want to..."
+      "<DBAF43F0>": "We can live however we want."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "So come on, No. 7..."
+      "<DBAF43F0>": "So, Number Seven..."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Let's you and me go on a rampage together."
+      "<DBAF43F0>": "Let's mess everything up together."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Spread mayhem to the entire world. Please?"
+      "<DBAF43F0>": "Everything in this world, all of it."
     },
     {
       "$id": 36,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "All the things and people that made us what we are now...\nNow it's our turn to do with them as we like!"
+      "<DBAF43F0>": "Everything that put us through this,\nlet's do whatever we want to it in return."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "We can loot and steal, we can smash and burn..."
+      "<DBAF43F0>": "Steal whatever we want, break whatever we want,"
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "We can even...murder."
+      "<DBAF43F0>": "and kill... whoever we want."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Right? Doesn't that just give you chills, No. 7?"
+      "<DBAF43F0>": "Hey, doesn't that give you a thrill?"
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "You're with me, right, No. 7? You've gotta be!"
+      "<DBAF43F0>": "Don't you think so too, Number Seven? You do, right?"
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "T-Thirteen..."
+      "<DBAF43F0>": "N-Number Two..."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "What are you talking about?"
+      "<DBAF43F0>": "What are you saying?"
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Uhm... Wait, what are *you* talking about?"
+      "<DBAF43F0>": "...? What are *you* saying?"
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "What's wrong? You've always understood me, No. 7!"
+      "<DBAF43F0>": "Number Seven, you of all people should \"understand\" me, right?"
     },
     {
       "$id": 46,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh no..."
+      "<DBAF43F0>": "...Huh?"
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "How very strange... I don't seem to understand you either."
+      "<DBAF43F0>": "That's strange. I don't understand either."
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Before now, I always understood everything about you, No. 7."
+      "<DBAF43F0>": "Up until now, I should have understood\neverything about Number Seven."
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Thirteen, I'm Nagiri now!"
+      "<DBAF43F0>": "Number Two, please listen."
     },
     {
       "$id": 51,
@@ -538,7 +538,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Please listen!"
+      "<DBAF43F0>": "I am..."
     },
     {
       "$id": 52,
@@ -558,7 +558,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "What is a \"Nagiri\"? No. 7, you're No. 7."
+      "<DBAF43F0>": "What is \"Nagiri\"? Number Seven is Number Seven, right?"
     },
     {
       "$id": 54,
@@ -568,7 +568,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Seriously, what's gotten into you?"
+      "<DBAF43F0>": "Seriously, what's wrong with you?"
     },
     {
       "$id": 55,
@@ -578,7 +578,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "What about you?!"
+      "<DBAF43F0>": "What's wrong with *you*?"
     },
     {
       "$id": 56,
@@ -588,7 +588,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I see. Now it makes sense."
+      "<DBAF43F0>": "I see, so that's it."
     },
     {
       "$id": 57,
@@ -598,7 +598,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Now I understand why the connection\nbetween us has up and disappeared."
+      "<DBAF43F0>": "I think I understand why\nthe \"connection\" is gone now."
     },
     {
       "$id": 58,
@@ -608,7 +608,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Thirteen, what do you mean?"
+      "<DBAF43F0>": "Number Two, what do you mean by—"
     },
     {
       "$id": 59,
@@ -618,7 +618,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I and No. 7 have always been together..."
+      "<DBAF43F0>": "Number Two and Number Seven have always been together..."
     },
     {
       "$id": 60,
@@ -628,7 +628,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "But, ah well, things change, right?"
+      "<DBAF43F0>": "But, well, I guess it can't be helped."
     },
     {
       "$id": 61,
@@ -638,7 +638,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I can see that your heart...\nbelongs over there now."
+      "<DBAF43F0>": "Your heart is \"over there\" now, after all."
     },
     {
       "$id": 62,
@@ -648,7 +648,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "(shocked gasp)"
+      "<DBAF43F0>": "...!"
     },
     {
       "$id": 63,
@@ -658,7 +658,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Sorry, Nagiri!\nBut this, this is something I can't ignore!"
+      "<DBAF43F0>": "Nagiri, I'm sorry,\nbut this is something I can't overlook."
     },
     {
       "$id": 64,
@@ -668,7 +668,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Sena... Negative...!"
+      "<DBAF43F0>": "Sena, but..."
     },
     {
       "$id": 65,
@@ -678,7 +678,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "She's coming! In the Ferron, now!"
+      "<DBAF43F0>": "She's coming! Get in the Ferron, quick!"
     },
     {
       "$id": 66,
@@ -688,7 +688,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](surprise, resolve)"
+      "<DBAF43F0>": "...!"
     },
     {
       "$id": 67,

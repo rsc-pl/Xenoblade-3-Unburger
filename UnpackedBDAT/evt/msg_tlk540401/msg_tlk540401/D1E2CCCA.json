@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We swore to get as far away\nas possible from battle."
+      "<DBAF43F0>": "We tried to stay away\nfrom the battle."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The closer you are, the greater the\nchance of them sniffing you out and\ndragging you in."
+      "<DBAF43F0>": "Get close, and you'll be dragged in.\nGet close, and you'll be found..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But if you avoid going out and keep\na low profile, you get to stay well\nout of harm's way."
+      "<DBAF43F0>": "But if you hide here without going outside,\nyou won't be found,\nand you won't be dragged in..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...But all that's about\nto change, isn't it?"
+      "<DBAF43F0>": "But...\nit's over now..."
     }
   ]
 }

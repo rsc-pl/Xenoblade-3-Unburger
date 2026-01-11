@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a microfab, a hand-operable fabricator\ncommonly installed in older Iron Giants."
+      "<DBAF43F0>": "This is a simple fabricator,\nwhich was equipped on older generation Iron Giants."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For a price, we can make the things\nthis Iron Giant used to produce."
+      "<DBAF43F0>": "For a price, we should be able to make\nthings that were produced by this Iron Giant."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nifty little gadget, eh?"
+      "<DBAF43F0>": "Oh, wow."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's take this thing for a spin, then!"
+      "<DBAF43F0>": "Hey, let's give it a try!"
     }
   ]
 }

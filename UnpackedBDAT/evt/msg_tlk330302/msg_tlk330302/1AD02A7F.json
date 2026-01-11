@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colony 5 reduced to nothing.\nGone... All gone."
+      "<DBAF43F0>": "Colony 5 is gone, mo[ML:line ]..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, it happen time and time again.\nFighting no-sense war for no-sense cause."
+      "<DBAF43F0>": "As always, people are fighting\nfor things they don't understand,\nwithout understanding why, mo."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Scary, scary story."
+      "<DBAF43F0>": "It's a scary story, mo[ML:line ]..."
     }
   ]
 }

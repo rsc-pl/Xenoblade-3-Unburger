@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did you bring everything? Time for me\nto show my stuff, then. Bear with me,\nit's been a while."
+      "<DBAF43F0>": "So you've gathered them.\nWell then, it's time to show off\nmy restoration skills for the first time in a while."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How long do you think it'll take?"
+      "<DBAF43F0>": "How long will the restoration take?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hrm... Well, it won't be done right\naway, that's for sure."
+      "<DBAF43F0>": "Mmm, well, it's not something that will be\nfinished right away."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course, of course."
+      "<DBAF43F0>": "Of course."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In other words, we shouldn't\njust stand here waiting..."
+      "<DBAF43F0>": "That said, we can't just\nwait here forever..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I will stay here on standby, then."
+      "<DBAF43F0>": "Ah, then I'll wait here."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll bring the painting back to\nthe prison camp once it's fixed!"
+      "<DBAF43F0>": "Once the restoration is done,\nI'll bring it back to the facility!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, gotcha. We'll head back then."
+      "<DBAF43F0>": "Okay, I understand.\nIn that case, we'll head back first."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In that case, mind helping me carry\nall of this to my workshop, young lady?"
+      "<DBAF43F0>": "Now then, young lady,\nwould you mind helping me carry\nthis to my workshop?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, ma'am."
+      "<DBAF43F0>": "Of course."
     }
   ]
 }

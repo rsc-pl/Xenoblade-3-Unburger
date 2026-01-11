@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The cooking contest's about\nto get started. All set?"
+      "<DBAF43F0>": "The cooking contest is about to begin.\nAre you ready?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "You bet!"
+      "<DBAF43F0>": "Yes."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Hold on..."
+      "<DBAF43F0>": "No."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That so... Well, we can wait a bit\nmore until you're prepared."
+      "<DBAF43F0>": "Oh, is that so?\nWell, we can wait a little longer then."
     }
   ]
 }

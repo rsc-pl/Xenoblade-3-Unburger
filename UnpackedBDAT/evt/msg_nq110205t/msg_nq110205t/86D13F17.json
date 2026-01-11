@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maxie, it's done. All three\nmonsters are taken care of."
+      "<DBAF43F0>": "Maxie, mission complete.\nWe've defeated all the monsters."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What? Really?!"
+      "<DBAF43F0>": "...! Is that true!?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Here's some proof. A little bit of each\nof the monsters. Isn't nature beautiful?"
+      "<DBAF43F0>": "Here you go, a piece of the monster.\nImpressive, isn't it?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is- Huh! Wow.\nUm. Yeah. Thanks."
+      "<DBAF43F0>": "This is...! I see.\nNo, you've done well."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This will result in less attacks from the\nmonsters, too. That's got to be good."
+      "<DBAF43F0>": "I hope the damage from the monsters\nwill decrease now..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll take it from here, then. Don't worry,\nwe won't let your work be in vain."
+      "<DBAF43F0>": "From here on, it's our job.\nWe will not let your efforts go to waste."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That said... If I were to ask\none more little favor...?"
+      "<DBAF43F0>": "Also... it might be asking a bit much,\nbut would you do one more thing for me?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, sure, whatever you want."
+      "<DBAF43F0>": "Yeah, at this point,\nask us anything."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Could you run these monster...pieces...\nup to the procurement division?"
+      "<DBAF43F0>": "Could you hand over that piece of the monster\nto the materials procurement squad?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll pass them to\nSolon if that's OK."
+      "<DBAF43F0>": "I just need to give it to Solon, right?\nUnderstood."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The procurement division?"
+      "<DBAF43F0>": "Materials procurement squad?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The department in charge of managing the\ncolony's supplies. They deal with anything\nscavenged from monsters."
+      "<DBAF43F0>": "It's the department that manages all of the colony's supplies.\nThe monster materials we collect are supposed to be\nhanded over to them."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The head of the division is called Solon.\nTell him I sent you, he'll understand."
+      "<DBAF43F0>": "The squad leader is a soldier named Solon.\nIf you tell him I sent you,\nhe'll understand the situation."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, Solon, got it. We'll\nhand the goods over."
+      "<DBAF43F0>": "Solon, got it.\nI'll hand it over."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks again for all this.\nI can't express how grateful I am...!"
+      "<DBAF43F0>": "...Let me thank you again.\nFor your help, my heartfelt gratitude...!"
     }
   ]
 }

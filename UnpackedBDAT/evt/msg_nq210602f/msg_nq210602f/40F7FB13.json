@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There aren't actually many roads between\nColony Lambda and Morukuna Wildwood."
+      "<DBAF43F0>": "There aren't actually that many paths from\nMorukuna Wildwood to Colony Lambda, but......"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Which means that if we don't get\npeople out here in the event of an\nattack, we're in trouble."
+      "<DBAF43F0>": "For that reason, if there's no one around here,\nit's dangerous if we get attacked."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, you need to fortify this point.\nIf anything were to come through\nhere, you'd have a problem."
+      "<DBAF43F0>": "Securing this place is the right call.\nIt would certainly be a problem if they got through."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right, so let's install one of the\nsensors around here."
+      "<DBAF43F0>": "Alright, let's install it around here."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No sign of any enemies right now.\nLet's move on to the next."
+      "<DBAF43F0>": "There's no sign of enemies for now.\nWell, let's go to the next one."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Next port of call is the Invidian Tunnels."
+      "<DBAF43F0>": "The next one is around the Invidian Tunnels."
     }
   ]
 }

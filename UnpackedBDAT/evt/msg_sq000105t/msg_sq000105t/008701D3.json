@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, Roald. Something the matter?"
+      "<DBAF43F0>": "Roald.\nIs something the matter?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, Noah."
+      "<DBAF43F0>": "Noah."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uh, it's nothing. I don't want to\ndistract you from the big mission."
+      "<DBAF43F0>": "It's not a big enough problem\nto trouble the special task force over."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maybe it'll help us both in the end.\nCome on, tell us what's wrong."
+      "<DBAF43F0>": "We might be able to help.\nWon't you tell us?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hahah, nosy as ever, I see.\nThanks, though."
+      "<DBAF43F0>": "Haha,\nyou always like to meddle, don't you, Noah?\nBut thanks."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You know about that urgent mission\nissued this morning, I suppose?"
+      "<DBAF43F0>": "You know about the urgent mission\nthat was issued this morning, right?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It came up so suddenly, we didn't\nhave time to ready all the resources\nfor the plan..."
+      "<DBAF43F0>": "It was so sudden that\nwe couldn't prepare the necessary supplies\nfor the operation in time..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I mean, we literally just finished\nfighting against Colony Sigma!"
+      "<DBAF43F0>": "I mean, we did\njust have that battle\nwith Colony Sigma."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Pretty frustrating, yeah..."
+      "<DBAF43F0>": "Yeah, I know..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We could pick the stuff easy enough, but\nthere's not enough hands to go around, so\nI'm not sure I can make up the shortfall..."
+      "<DBAF43F0>": "We're trying to gather what we can,\nbut we're short-staffed, so I don't know\nhow much we'll be able to get..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If that's all there is to it, I'd be happy\nto help. It'll be a quick job with more\npeople, right?"
+      "<DBAF43F0>": "If that's the case,\nI'll help out too.\nIt'll be faster with more people, right?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You would? Really?"
+      "<DBAF43F0>": "Are you sure?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've been assigned to the mission too,\nso we're going to need those supplies."
+      "<DBAF43F0>": "We're participating in the mission too,\nso we'll be using those supplies ourselves."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then, thanks! It's a load off my mind."
+      "<DBAF43F0>": "Thanks. That's a huge help."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure thing. What do you need?"
+      "<DBAF43F0>": "What do you need?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Here's the rundown."
+      "<DBAF43F0>": "I need you to gather some food supplies."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Chewy Radishes, three.\nClusterelles, also three.\nFinally, two portions of Rich Fish Meat."
+      "<DBAF43F0>": "Three Chewy Radishes,\nthree Cluster Shimeji,\nand two portions of Rich White Fish Meat."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've put the request up on a\nCollectopaedia Card. Would you mind\ndouble-checking that you can see it?"
+      "<DBAF43F0>": "I'm registering it on a Collectopaedia Card,\nso could you check it there?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Collectopaedia Card, got it."
+      "<DBAF43F0>": "The Collectopaedia Card.\nGot it."
     },
     {
       "$id": 20,

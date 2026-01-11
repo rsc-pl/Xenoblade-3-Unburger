@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...All right, stop.\nPlease sheathe your Blades."
+      "<DBAF43F0>": "...That's enough.\nPlease sheathe your Blades."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Phew, it's finally over...!"
+      "<DBAF43F0>": "I-it's over..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "(pant pant)...\nYou satisfied now, Kamuki?"
+      "<DBAF43F0>": "Hah... hah...\nAre you satisfied now, Kamuki?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To be honest, I would have preferred\nlonger, but I got the minimum data needed."
+      "<DBAF43F0>": "I would have liked you to fight more,\nbut for now, I have collected the minimum amount of data."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll share my battle report later. I hope you\nwill find it useful for improving your skills!"
+      "<DBAF43F0>": "I will share the combat logs with everyone later.\nPlease use them to improve each member's performance."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks, Kamuki! You're the best!"
+      "<DBAF43F0>": "Thank you, Kamuki! As expected!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now, I would like to have a word in\nprivate with our seniors here, so please\ndisband in a calm and orderly fashion."
+      "<DBAF43F0>": "Well then,\nI still have something to discuss with the senpais,\nso please disperse as you see fit."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nice work today, everyone!"
+      "<DBAF43F0>": "Thank you for your hard work!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Yeah. See ya."
+      "<DBAF43F0>": "...Yeah, you too."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For you three Kevesi, allow me to give a\nbrief review of your battle performance."
+      "<DBAF43F0>": "Though it is brief,\nI will now give you my combat evaluation of the three Kevesi."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yikes, here we go..."
+      "<DBAF43F0>": "Something's starting..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You have a good balance of skills and are\nhighly adaptable to emergent situations."
+      "<DBAF43F0>": "Your abilities are well-balanced,\nand you are able to adapt to changing situations..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Though I did not see any prominent\nabilities, your strength lies in having\nno major flaws."
+      "<DBAF43F0>": "While you don't have any outstanding abilities,\nyour strength lies in not having any major weaknesses."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "D-do you really think so? I'm not\na great judge of such things..."
+      "<DBAF43F0>": "I-is that so?\nI don't really know myself..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're excellent at utilizing ether-"
+      "<DBAF43F0>": "You are skilled at handling ether..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...No, rather, your body has\na remarkably high affinity for ether."
+      "<DBAF43F0>": "...or rather,\nyour body has an extremely high\nphysical affinity for ether."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's highly efficient at converting the ether\nflowing through it into your abilities, just\nlike a high-performing circuit..."
+      "<DBAF43F0>": "The ether flowing through your body is efficiently\nconverted into Arts, like a high-performance circuit..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, huh...?"
+      "<DBAF43F0>": "Huh?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I also have the sense that those\nwings on your head hold some\nkind of secret that ties to this."
+      "<DBAF43F0>": "In my opinion,\nI think the secret lies in those wings on your head..."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you could just give me one\neensy feather-"
+      "<DBAF43F0>": "Can you give me one of them..."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nope."
+      "<DBAF43F0>": "I refuse."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, then. I'll find out eventually, though."
+      "<DBAF43F0>": "I see.\nBut I will not give up."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mister Lanz!!!"
+      "<DBAF43F0>": "Mister Lanz!!"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y-yeah?!"
+      "<DBAF43F0>": "Y-yeah!"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Personally, I thought you were\nthe most interesting of all."
+      "<DBAF43F0>": "Personally, I find you, Mister Lanz,\nthe most interesting..."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just as your appearance suggests, you\nare by far the sturdiest of the group."
+      "<DBAF43F0>": "As your appearance suggests,\nyou are the most durable\nof the three."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heh. Well, that's obvious.\nI like to push myself in my training."
+      "<DBAF43F0>": "Hah, of course.\nI don't train lightly, you know."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, I mean even regardless of training,\nI think your body was made to be\nstrong and sturdy from the beginning."
+      "<DBAF43F0>": "No, even before that,\nI believe your body was originally\nbuilt to be sturdy."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's as if...you were somehow built\nto be as solid as possible?"
+      "<DBAF43F0>": "Or rather...\nwas it made to be so...?"
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looking closely, your body tissue seems\nto be of quite a different sort to Noah's\nor Eunie's..."
+      "<DBAF43F0>": "If we look closely, your body tissue is different\nfrom that of Mister Noah and Miss Eunie, a different kind..."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyway, the three of you all have some\nclear differentiating features."
+      "<DBAF43F0>": "In any case, there is no doubt that there are\nclear individual differences among the three of you."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...So what exactly is he trying to say?"
+      "<DBAF43F0>": "...So what does that mean?"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How would I know? I s'pose\nneither of you have wings, like me."
+      "<DBAF43F0>": "Don't ask me.\nSure, those two don't have wings, but..."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I never really paid much attention to that..."
+      "<DBAF43F0>": "I never really paid much attention to it..."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, exactly!"
+      "<DBAF43F0>": "Of course you haven't, of course."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're all similar and different at the\nsame time. But nobody really troubles\nthemselves with that fact."
+      "<DBAF43F0>": "We are the same, yet not the same...\nAnd yet, no one pays it any mind."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ignoring for the moment the question of\nthis inconsistency, I still require samples\nto prove these differences conclusively."
+      "<DBAF43F0>": "Setting aside the investigation of this incongruity,\nwe still need more samples to prove\nthat we are \"not the same.\""
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And so, to begin..."
+      "<DBAF43F0>": "For that reason..."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mister Lanz, I will now conduct a\nfull body inspection. Please strip."
+      "<DBAF43F0>": "Mister Lanz, next we will conduct a physical examination,\nso please take off your clothes."
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can't just spring that on me!"
+      "<DBAF43F0>": "That's sudden!"
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't mind, though. I'll just go ahead-"
+      "<DBAF43F0>": "Well, if you tell me to take them off, I will..."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OWWW?!"
+      "<DBAF43F0>": "Oww...!?"
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That snuffing hurt! What was that for?!"
+      "<DBAF43F0>": "...That hurts!! What are you doing!?"
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I should be asking you that! Why would\nyou just strip right here in the open?!"
+      "<DBAF43F0>": "What do you think you're doing!?\nWho just takes their clothes off all of a sudden!?"
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "E-exactly! Don't scare us like that!"
+      "<DBAF43F0>": "Y-yeah, exactly!\nDon't surprise us like that!"
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...What? It's just taking off clothes.\nNothing wrong with that."
+      "<DBAF43F0>": "...Huh? I'm just taking my clothes off.\nIs there a problem with that?"
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course it's wrong!"
+      "<DBAF43F0>": "Of course there is..."
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Wait... Is it?"
+      "<DBAF43F0>": "...Huh?"
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ummm... I can't think of a reason...?"
+      "<DBAF43F0>": "Um, actually, there might not be... a problem?"
     },
     {
       "$id": 51,
@@ -538,7 +538,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Why did you sock me one, then?!"
+      "<DBAF43F0>": "Then why did you hit me!?"
     },
     {
       "$id": 52,
@@ -548,7 +548,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I dunno... Reflex, I guess?"
+      "<DBAF43F0>": "Ah, well... it was a reflex?"
     },
     {
       "$id": 53,
@@ -558,7 +558,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y-yeah! You just look like you need\na good smack sometimes!"
+      "<DBAF43F0>": "Y-yeah! You know, Lanz,\nyou're just so hittable!"
     },
     {
       "$id": 54,
@@ -568,7 +568,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What the snuff is with you two...?!"
+      "<DBAF43F0>": "Y-you guys!!"
     },
     {
       "$id": 55,
@@ -578,7 +578,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hm. Interesting. Very interesting..."
+      "<DBAF43F0>": "Hmm, very interesting..."
     },
     {
       "$id": 56,
@@ -588,7 +588,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What kind of response is that, exactly?\nIs it limited only to Mister Lanz, or...?"
+      "<DBAF43F0>": "What kind of reaction is this?\nIs it limited to just Mister Lanz, or perhaps..."
     },
     {
       "$id": 57,
@@ -598,7 +598,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, I can't just stand here idling!\nI need to research for my next test!"
+      "<DBAF43F0>": "...! I can't just stand here!\nI need to consider the next test!"
     },
     {
       "$id": 58,
@@ -608,7 +608,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What?! Hold on... Oi, come back!"
+      "<DBAF43F0>": "Huh!? W-wait... hey!"
     },
     {
       "$id": 59,
@@ -618,7 +618,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh... My apologies, my eagerness\ntook ahold of me once again..."
+      "<DBAF43F0>": "Ah... my apologies,\nmy feelings got ahead of themselves again..."
     },
     {
       "$id": 60,
@@ -628,7 +628,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I hope you will cooperate with\nme again soon, Mister Lanz."
+      "<DBAF43F0>": "Mister Lanz,\nplease accompany me again next time."
     },
     {
       "$id": 61,
@@ -638,7 +638,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I expect...great things from you."
+      "<DBAF43F0>": "I have... special expectations\nof you."
     },
     {
       "$id": 62,
@@ -648,7 +648,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ooh...!"
+      "<DBAF43F0>": "...!"
     },
     {
       "$id": 63,
@@ -658,7 +658,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mostly of an ecological nature."
+      "<DBAF43F0>": "Mainly in the ecological sense."
     },
     {
       "$id": 64,
@@ -668,7 +668,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "O-OK, sure! You can count on me!\nJust let me know whenever you need me!"
+      "<DBAF43F0>": "O-oh! Leave it to me!\nYou can always rely on me!"
     },
     {
       "$id": 65,
@@ -678,7 +678,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Indeed. I'd predicted...I mean hoped...\nyou might say that."
+      "<DBAF43F0>": "Yes. I thought you\nwould say that."
     },
     {
       "$id": 66,
@@ -688,7 +688,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then, that's all from me."
+      "<DBAF43F0>": "Well then, I will be..."
     },
     {
       "$id": 67,
@@ -698,7 +698,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You hear that, Noah? He expects\n\"great things\" from me!"
+      "<DBAF43F0>": "Did you hear that, Noah?\nHe said he has \"expectations\" of me."
     },
     {
       "$id": 68,
@@ -708,7 +708,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y-yeah, I heard..."
+      "<DBAF43F0>": "Y-yeah..."
     },
     {
       "$id": 69,
@@ -718,7 +718,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Man. It's great, being a mentor."
+      "<DBAF43F0>": "...It's good to be a junior."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sounds like contact with a Levnis unit\ndispatched by Colony 30 was lost\nin Dannagh Desert."
+      "<DBAF43F0>": "It seems a Levnis unit from Colony 30\nlost contact in the Dannagh Desert."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's the unit Ven was worried\nabout, right?"
+      "<DBAF43F0>": "Is that the unit Ven was worried about?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Communications are often disrupted\nin Dannagh Desert..."
+      "<DBAF43F0>": "The Dannagh Desert is a region where\ncommunication failures often occur."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It could be down to the sandstorms\nthat are prevalent there."
+      "<DBAF43F0>": "The loss of contact is likely\ndue to a sandstorm, but..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then maybe the people in that unit\nstill think they need to fight?"
+      "<DBAF43F0>": "In that case,\nthe people in that unit\nmight still be fighting."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But we destroyed the Colony 30\nFlame Clock!"
+      "<DBAF43F0>": "Even though Colony 30 has\nalready been freed from its Flame Clock..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like they didn't get the\nmessage, love."
+      "<DBAF43F0>": "They can't be contacted.\nThey have no way of knowing\nthe current situation."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "......"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 8405122,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Noah? I wanna go find them."
+      "<DBAF43F0>": "Noah,\nI want to go get them."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can you come along for the ride?"
+      "<DBAF43F0>": "So...\nI'd like you to come with me."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 41959553,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Absolutely.\nLet's get to Dannagh Desert."
+      "<DBAF43F0>": "Of course.\nLet's go to the Dannagh Desert."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Someone'd better tell them they\ndon't need to kill any more."
+      "<DBAF43F0>": "It's better to let them know\nthat there's no need to take lives anymore."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like we'll have to meet\nwith them face to face."
+      "<DBAF43F0>": "For that,\nwe will need to meet them directly."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yep. Off to Dannagh Desert we go."
+      "<DBAF43F0>": "...That's right.\nLet's head to the Dannagh Desert."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are three requests that we\nwould ask of Her Majesty."
+      "<DBAF43F0>": "...There are three matters\nI would like to request."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We would need you to assist Colony 9,\ngive a speech of consolation at the City..."
+      "<DBAF43F0>": "A request for support from Colony 9,\na visit to the City, and..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "and attend a meeting at the Agnus Castle.\nI'm so terribly sorry to trouble you with\nthis..."
+      "<DBAF43F0>": "a meeting at Agnus Castle...\nI am truly sorry..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We will be awaiting your return until such\ntime as you conclude these matters."
+      "<DBAF43F0>": "Once you have concluded everything without incident,\nplease return here."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As instructed, I will take it upon myself\nto...cool my head...in the meantime."
+      "<DBAF43F0>": "By that time...\nI will have cooled my head as well."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Terrible fuss kicking up from\ninside of cave. Something to do\nwith friends maybe, hmmm?"
+      "<DBAF43F0>": "The cave has gotten noisy, mo.\nCould it be your fault, mo?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uhm...yeah, maybe."
+      "<DBAF43F0>": "Maybe[ML:line ]..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In times of hard, friends should remember\nfruit of training. That, and do shopping."
+      "<DBAF43F0>": "In times of trouble,\nyou should remember your training\nand do some shopping, mo."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Training, eh? That makes sense.\nNot sure about the shopping, though."
+      "<DBAF43F0>": "I get the training part,\nbut shopping too?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Be properly equipped is very important!\nTherefore, buy from Kinunu, or risk being\ndead by roadside and Feris-dinner!"
+      "<DBAF43F0>": "Equipping yourself is very important, mo.\nIf you don't want to die in a ditch,\nyou should buy from me, mo."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No luck finding those Sodie Stones?"
+      "<DBAF43F0>": "You haven't found any Sodie Stones yet?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think there was someone in an\nAgnus uniform looking for them too,\nnear Watchtower No. 1."
+      "<DBAF43F0>": "A person in Agnian gear was also looking\nfor them around Watchtower No. 1."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, you mean Hakuto?\nThank you."
+      "<DBAF43F0>": "You mean Hakuto.\nThank you."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Stavepetals? I've heard\nthey grow near water."
+      "<DBAF43F0>": "Stavepetals?\nI think they said they're by the water..."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The job today is culling the\nFeris population living in\nthe Perimeter Woodland."
+      "<DBAF43F0>": "Today's task\nis the extermination of the Ferises\ninhabiting the Perimeter Woodland."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyone who kills a Feris will be excused\nfrom other duties for the rest of the day.\nMake sure to bring proof when reporting in."
+      "<DBAF43F0>": "Those who defeat a Feris\nwill be exempt from other tasks for the day.\nPresent proof upon reporting."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not just any Feris though! The idea is to\neradicate the ones that are going berserk."
+      "<DBAF43F0>": "The objective is to cull the individuals\nthat have become ferocious."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, that's much more like it!\nNo more digging in the dirt like yesterday."
+      "<DBAF43F0>": "What?\nThis is way better\nthan yesterday's gathering."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Ferises are reported to have mauled\na large number of people yesterday.\nHave fun out there!"
+      "<DBAF43F0>": "It's been reported that the Ferises\nattacked a considerable number of people\nyesterday."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Why don't you use your Levnises?\nIt'd make quick work of them."
+      "<DBAF43F0>": "Why don't you defeat them with your Levnises?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Any units assigned here are being prepared\nfor the war games tomorrow."
+      "<DBAF43F0>": "The deployed units are currently undergoing\nmaintenance for tomorrow's military exercise."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Even if they weren't, why bother wheeling\nout the big guns for something this trivial?\nEspecially when we've got you lot."
+      "<DBAF43F0>": "In the first place,\nthere's no way we'd use Levnises\nfor something so trivial."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now get out there - the day's a-wasting.\nAnyone found disobeying orders will be\nterminated on sight!"
+      "<DBAF43F0>": "It's affecting other work. Go defeat them quickly.\nThose who disobey orders will be disposed of immediately."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He sounded pretty gleeful about that,\ndon't you think?"
+      "<DBAF43F0>": "He says that with such enjoyment."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gleeful's the word, yeah. All he's gonna have\nto do is sit back and enjoy the show while\nwe're out there, fighting crazed Ferises."
+      "<DBAF43F0>": "This feels like\nthey're just trying to kill time\nby watching us fight."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I cannot understand how one can\nderive any pleasure from such a\ncruel pastime..."
+      "<DBAF43F0>": "It's in poor taste.\nI can't understand it at all."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Still, we ought to move out."
+      "<DBAF43F0>": "Let's go too."
     }
   ]
 }

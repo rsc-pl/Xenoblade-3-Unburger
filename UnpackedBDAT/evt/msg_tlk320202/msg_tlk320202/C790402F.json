@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Think you'll be able to get those\nresources mined at a decent clip?"
+      "<DBAF43F0>": "Is the resource extraction going smoothly?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, we won't be able to extract them\nen masse the way Lambda does..."
+      "<DBAF43F0>": "Let's see... we can't get large quantities\nlike Lambda does, but..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're at a point now where we can\nwork in stages, removing them bit by bit."
+      "<DBAF43F0>": "We've started to be able to extract a little at a time."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's probably not much to shout\nhome about, but I think it'll be a\nbig step forward for Tau!"
+      "<DBAF43F0>": "It probably won't be like Lambda,\nbut it's an important step for Tau."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's the spirit, mate.\nMore power to your elbow!"
+      "<DBAF43F0>": "Isn't that great?\nKeep up the good work."
     }
   ]
 }

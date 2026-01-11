@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're still short on cargo...\nWhere on Aionios has he gone off to?"
+      "<DBAF43F0>": "We're short on supplies to load...\nWhere did they go?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, hey, you guys!"
+      "<DBAF43F0>": "Oh, you all[ML:line ]"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've been getting Ungyou to help me out with\ncargo. We've got seven pieces left to get\nnow, but Ungyou's nowhere to be seen."
+      "<DBAF43F0>": "Actually, I had Ungyou-dono help me,\nand we managed to collect all but seven."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sorry to ask, but I'd really like your\nhelp."
+      "<DBAF43F0>": "I'm sorry to ask,\nbut I'd like you to lend a hand as well."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Akitsu will have it out for me if I don't\nget all that cargo loaded. She doesn't\ntake no for answer."
+      "<DBAF43F0>": "At this rate, Akitsu will scold me.\nShe's as straight-laced as they come."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're seven pieces of cargo short. Will\nyou help me get them?"
+      "<DBAF43F0>": "We're about seven supplies short.\nCould you help me retrieve them?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You haven't found all the cargo yet...?\nSorry to say it, but I'm not feeling too\ngood about this somehow..."
+      "<DBAF43F0>": "You only found some of them?\nI have a bad feeling about this..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Still, keep up the search, guys. I know you\ncan do it."
+      "<DBAF43F0>": "Please, continue the search."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you so much for rounding up\nthat cargo."
+      "<DBAF43F0>": "Thanks for retrieving them, you've been a great help."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's worrying to think we've got a thief to\ncontend with, though... We'll have to keep\nan eye out for them, whoever they are."
+      "<DBAF43F0>": "But to think there was someone who stole the supplies...\nWe'll have to be more careful from now on..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Akitsu will be placated now, at least. She's\nuncompromising, but she's an honest, nice\ngirl, and I wouldn't want to let her down."
+      "<DBAF43F0>": "Now Akitsu won't get mad at me.\nShe's strict, but she's a serious and good kid,\nso I don't want to disappoint her."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks for helping out. I'll be sure to let\nmy subordinates know to be more\nthorough when checking the cargo."
+      "<DBAF43F0>": "Thanks for retrieving them.\nI'll tell my subordinates to manage\nthe supplies more carefully."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey! Haven't seen you since\nColony Iota, right?"
+      "<DBAF43F0>": "Hey!\nHaven't seen you since Colony Iota, have I?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Fugen?! You really came to Colony 4...?"
+      "<DBAF43F0>": "Fugen!?\nDid you really come to Colony 4[ML:line ]?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I wanted to get a bit closer to Yorde!\nFlauren's not making it easy for me, though."
+      "<DBAF43F0>": "I wanted to get closer\nto Yorde-chan! I'm currently dodging\nFlauren's interference."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But hey, I found a great way to see through\nher schemes with the Collectopaedia Cards!\nVictory may be around the corner!"
+      "<DBAF43F0>": "If I read the Collectopaedia Cards,\nI can easily predict her sabotage!\nVictory is near! Probably!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I fear you might be using your skills\nsomewhat too frivolously here..."
+      "<DBAF43F0>": "What a waste of a skill..."
     }
   ]
 }

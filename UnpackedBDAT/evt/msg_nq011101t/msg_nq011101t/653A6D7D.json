@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Laurea? What are you doing here?"
+      "<DBAF43F0>": "Laurea?\nWhat are you doing here?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, hey Noah! Just listen to this!"
+      "<DBAF43F0>": "Ah, Noah!\nListen to this!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm supposed to rendezvous with\nanother team at this location..."
+      "<DBAF43F0>": "I'm supposed to meet up with the detached unit\nhere, but..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But the appointed time's come and gone,\nand I've seen neither hide nor whisker of\nthem! Rude or what?!"
+      "<DBAF43F0>": "They're not here even though it's time!\nThey totally stood me up!\nIsn't that terrible!?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now, hold on a flaming second...\nYou sure they were being rude? Couldn't\nsomething have happened to them?"
+      "<DBAF43F0>": "No, no...\nShouldn't you consider that something might have happened?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Oh! Maybe!"
+      "<DBAF43F0>": "...Ah!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When did you last hear from them?"
+      "<DBAF43F0>": "When was the last time you heard from them?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm... They reported their arrival at\nShark's Jaws Cape, and since then,\nnot a peep..."
+      "<DBAF43F0>": "Um, they contacted me when they arrived at \"Shark's Jaws Cape,\"\nand that's it..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shark's Jaws Cape, right?\nWe can go check it out. You guys\ncan go on ahead with your assignment."
+      "<DBAF43F0>": "\"Shark's Jaws Cape,\" right?\nWe'll go and check, so\nyou guys go on ahead."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y-yeah...? Yeah, OK...\nUm, sorry for blowing my top earlier."
+      "<DBAF43F0>": "U-uh, okay...\nSorry for getting so worked up."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're fine, we'll handle it.\nJust be careful not to get lost yourself, ah?"
+      "<DBAF43F0>": "It's fine, leave it to me.\nBe careful not to get separated on your end, okay?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "H-hey, don't treat me like a rookie!\n...Um, thanks though."
+      "<DBAF43F0>": "D-don't treat me like a rookie!\n...But, thanks."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, Noah...!"
+      "<DBAF43F0>": "Ah, Noah...!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Huh? Is something wrong?"
+      "<DBAF43F0>": "...? What's wrong, did something happen?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y-yeah, actually... Here's the thing..."
+      "<DBAF43F0>": "Y-yeah... a-actually..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I left some buddies at Shark's Jaws Cape,\nand we were meant to meet up later, but..."
+      "<DBAF43F0>": "I was supposed to meet up at the colony\nwith the comrades I parted with at \"Shark's Jaws Cape\"..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...They haven't come back?"
+      "<DBAF43F0>": "...They haven't returned yet?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah... I thought I ought to request\na search party or something, but it was\nafter *that* mission, so it didn't seem right..."
+      "<DBAF43F0>": "No... I wanted to send a search party,\nbut it was right after that mission, so\nI couldn't..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I hear you. Shark's Jaws Cape, right?\nWe'll go check it out."
+      "<DBAF43F0>": "I understand. \"Shark's Jaws Cape.\"\nWe'll go and search."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Um, I feel bad doing this.\nI know you guys have only\njust come back, as well..."
+      "<DBAF43F0>": "...I'm sorry about this.\nYou guys just got back, too."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're fine, we're happy to do this.\nWe did sorta-kinda go AWOL ourselves..."
+      "<DBAF43F0>": "Don't worry about it.\nWe were away without leave ourselves."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Thank you for this."
+      "<DBAF43F0>": "...Thanks."
     }
   ]
 }

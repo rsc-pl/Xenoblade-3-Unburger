@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah... You got the elevator running again."
+      "<DBAF43F0>": "Ah... you got the elevator\nworking again."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No worries. It was a piece of cake.\nHardly broke a sweat."
+      "<DBAF43F0>": "Just a little something.\nI took care of it."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You guys are really something!\nGetting down there's no joke!"
+      "<DBAF43F0>": "You're very skilled.\nTo be able to get all the way down there."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm not sure our people will have\nany desire to use it, though..."
+      "<DBAF43F0>": "Well... I doubt anyone\nfrom here will use it, though..."
     }
   ]
 }

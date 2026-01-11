@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...The number of lights doesn't\nmatch what we're looking for.\nI don't think this is it."
+      "<DBAF43F0>": "……The number of lights doesn't match.\nThis doesn't seem to be what we're looking for."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm, no matter how you count 'em,\nthe number of lights doesn't match\nthe clue."
+      "<DBAF43F0>": "Those lights……\nNo matter how I look at it, the number doesn't match……"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That doesn't look like 15 lights to me.\nTime to search someplace else."
+      "<DBAF43F0>": "Doesn't line up with \"15 lights.\"\nLet's try looking somewhere else."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That isn't the right number of lights.\nBetter to keep searching elsewhere."
+      "<DBAF43F0>": "The number of lights doesn't match……\nLet's look elsewhere."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Here are some lights!\nBut not 15 of them..."
+      "<DBAF43F0>": "Could these be the lights?\nBut, it doesn't look like there are 15……"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Wrong number of lights.\nWe need 15 exactly."
+      "<DBAF43F0>": "……The number of lights does not match.\nThere must be something with exactly 15."
     }
   ]
 }

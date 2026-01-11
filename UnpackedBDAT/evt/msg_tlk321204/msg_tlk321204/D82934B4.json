@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd love to find out more about\nthat huge sphere..."
+      "<DBAF43F0>": "That big sphere[ML:line ]...\nI'd like to investigate it..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Really now, do you have no regard\nfor your own safety?"
+      "<DBAF43F0>": "Honestly... what a reckless person..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sure the people of Iota\nare of much the same mind."
+      "<DBAF43F0>": "I'm sure the people of Colony Iota\nare thinking the same thing."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not that we can actually\ndo anything about it..."
+      "<DBAF43F0>": "Though I doubt they'd actually act on it."
     }
   ]
 }

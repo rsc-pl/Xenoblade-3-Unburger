@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How is condition of Bravery?"
+      "<DBAF43F0>": "How is the Bravery doing, desu mo?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ether furnace is experimental type.\nPlease not to use in way that too silly."
+      "<DBAF43F0>": "The ether furnace is a prototype,\nso be careful not to push it too hard, mo."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This based on blueprint Masterpon get\nfrom some place or other. Currently,\nreliability is not fully known."
+      "<DBAF43F0>": "It's based on blueprints that the Masterpon\ngot from somewhere, so I'm not sure\nhow reliable it is, desu mo."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What've you got us riding\naround on here, Tartar?"
+      "<DBAF43F0>": "Is that what you have us riding in...?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tartar best recommendation...\nNot think too hard about."
+      "<DBAF43F0>": "If you don't mind it,\nit's nothing to worry about, desu mo."
     }
   ]
 }

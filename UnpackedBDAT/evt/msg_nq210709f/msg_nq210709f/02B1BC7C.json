@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd like to thank you all for your efforts in\ndefending the colony. We've confirmed the\nretreat and defeat of all enemy forces."
+      "<DBAF43F0>": "Everyone, thank you for your efforts in this defense.\nWe have confirmed the retreat and neutralization of the enemy forces."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can all take it easy\nfor the rest of the day."
+      "<DBAF43F0>": "It's thanks to all of you.\nPlease rest well today."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Itari, would you mind staying\nbehind with the commander and me?"
+      "<DBAF43F0>": "Itari, you, the Commander, and I\nwill remain here."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Yessir."
+      "<DBAF43F0>": "......Yes, sir."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We need to look into their intended\ntargets, and how they got here."
+      "<DBAF43F0>": "We must re-investigate their objective\nand where they came from."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No need, Captain."
+      "<DBAF43F0>": "There's no need for that, Captain Roshou."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Kouju?"
+      "<DBAF43F0>": "Kouju..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I brought them."
+      "<DBAF43F0>": "I was the one who lured that enemy here."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You did WHAT?!"
+      "<DBAF43F0>": "You, what are you...!?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You knew that already, though, didn't\nyou? They came by air because they\nknew about our sensor system."
+      "<DBAF43F0>": "You already know, don't you?\nThe reason they chose an aerial route\nis because they knew about the sensors."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I told them where Lambda's\ndefenses were weakest."
+      "<DBAF43F0>": "I told them where Lambda's defenses\nwere likely to be thin, based on its tactics..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And I passed the information\nto them via the Nopon Caravan."
+      "<DBAF43F0>": "I had the Nopon caravan that was in Lambda\npass on the information."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What are you talking about? Do you\nhave any idea what you're saying?"
+      "<DBAF43F0>": "You... do you understand\nwhat you're saying?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Kouju, you'll be put in solitary for this."
+      "<DBAF43F0>": "If that's the truth,\nKouju, you won't escape a cell."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I get that everyone's worn out, but\nthis isn't the time or place for jokes.\nGo and sleep it off."
+      "<DBAF43F0>": "Even as a joke, this isn't the place to say it.\nYou must be tired.\nGo and rest a little."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "From where I'm standing, quick reaction\non our part would have avoided the\nAuto-Levs from being wasted."
+      "<DBAF43F0>": "In my assessment, if we had responded quickly,\nthe autonomous Levnises would not have been wasted."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But Lambda isn't capable\nof that right now."
+      "<DBAF43F0>": "But the current Lambda\nis incapable of that..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If the Ouroboros hadn't been here,\nwe would have crumbled!"
+      "<DBAF43F0>": "Without Ouroboros,\nthere are places that would have been breached!"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can excel in tactics, you can fight\nimpressive battles, but you still end up\non the losing end!"
+      "<DBAF43F0>": "Even with superior tactics and skill in battle,\nwe were still forced into a difficult fight, weren't we!"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we can't react flexibly when we're\nthreatened, then that's fatal to us as\na colony."
+      "<DBAF43F0>": "To be unable to think and act flexibly\neven when faced with a crisis is\nfatal for a colony!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're probably right."
+      "<DBAF43F0>": "......That may be so."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colony Lambda needs to change.\nIf we can't, we die!"
+      "<DBAF43F0>": "Colony Lambda has to change.\nIf we don't change, we will simply die!"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm not...I'm not going to roll over\nand die cowering from the future,\nlike Shijima when he ran off."
+      "<DBAF43F0>": "To die worrying about the future like Shijima did when he vanished...\nI refuse to do that."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And I know you won't either, Captain!"
+      "<DBAF43F0>": "You feel the same, don't you, Captain!"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Take him away."
+      "<DBAF43F0>": "…………Take him away."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "B-but-"
+      "<DBAF43F0>": "B-But..."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can't leave things this way!\nColony Lambda can't survive like this\nand you know it!"
+      "<DBAF43F0>": "Is it alright to leave things like this!?\nTo leave Colony Lambda as it is,\nis that really alright!?"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sorry you had to see that."
+      "<DBAF43F0>": "My apologies. I've shown you\nsomething unpleasant."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "N-no, we just..."
+      "<DBAF43F0>": "No... we......"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Kouju's words are reasonable. We're\nall keenly aware of our situation."
+      "<DBAF43F0>": "What Kouju said is true.\nEveryone... knows that."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In that case, maybe change\nisn't impossible."
+      "<DBAF43F0>": "In that case...\ncan't you change...?"
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Think of discipline as a protective armor.\nIt isn't easy to cast it off for freedom.\nEverything becomes a source of fear."
+      "<DBAF43F0>": "Discipline is an armor that protects people.\nWhile it's freeing to cast it off, it's not easy.\nEveryone is afraid of being exposed."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Commander..."
+      "<DBAF43F0>": "Commander......"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you for working with us on this.\nYou deserve a well-earned rest."
+      "<DBAF43F0>": "I thank you for your cooperation this time.\nI hope you will all rest well."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 7... I'm relieved to see you back safe."
+      "<DBAF43F0>": "No. 7..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 4. No status abnormalities?"
+      "<DBAF43F0>": "Thank goodness, you're safe."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're all good here. No. 10 and No. 8\nare currently on a mission, but should\nbe back soon."
+      "<DBAF43F0>": "No. 4, are there any abnormalities?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Revising query. Are there status\nabnormalities in No. 4's condition?"
+      "<DBAF43F0>": "We're fine here.\nNo. 10 and No. 8 are on a mission,\nbut they'll be back soon."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A-ah, no, I'm OK.\nNo. 4 can still fight."
+      "<DBAF43F0>": "I will correct my statement.\nAre there any abnormalities in \"No. 4's condition\"?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However..."
+      "<DBAF43F0>": "A-Ah...\nI'm fine. No. 4 can still fight."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 7, you're not at fault.\nIf anything, it's my fault, having\nsuch poor abilities in battle."
+      "<DBAF43F0>": "But..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Without disengaging the Ferron's limiter,\nI couldn't fight properl-"
+      "<DBAF43F0>": "No. 7 is not at fault.\nIf anyone is to blame, it's the combat-ineffective No. 4."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uuh..."
+      "<DBAF43F0>": "If I don't use the Iron Trooper's \"limiter,\"\nNo. 4 can't fight properly—"
     }
   ]
 }

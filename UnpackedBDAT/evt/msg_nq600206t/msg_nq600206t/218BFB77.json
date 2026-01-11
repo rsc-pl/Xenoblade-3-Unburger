@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wicked, found a ball!"
+      "<DBAF43F0>": "Whoa, found a sphere!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Great. Time to return to the reliefs, I reckon."
+      "<DBAF43F0>": "All right, let's head back to the relief."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've found it. That's the sphere we seek."
+      "<DBAF43F0>": "Found it. This is the sphere."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's both of them. Let us\nreturn to the reliefs."
+      "<DBAF43F0>": "Is this all of them?\nLet's head back to the relief for now."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Found you. Didn't expect to,\nyet here you are."
+      "<DBAF43F0>": "...Found it.\nI can't believe it was really here."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think that's the last of them?\nLet's go back to the reliefs."
+      "<DBAF43F0>": "Is this all of them, I wonder?\nLet's go back to the relief."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Gotcha. Same as the other ball."
+      "<DBAF43F0>": "...There it is.\nIt's the same as that other sphere."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's both of 'em.\nLet's double-time it\nback to the reliefs."
+      "<DBAF43F0>": "That's all of them.\nLet's get it fitted into the relief right away."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...There it is. One of the\nballs in question."
+      "<DBAF43F0>": "...Found it. The sphere in question."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think this should be the last one.\nLet's try to insert it at the reliefs."
+      "<DBAF43F0>": "I think this is the last one.\nLet's try fitting it into the relief."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Got you. Same as the other one."
+      "<DBAF43F0>": "Found it.\nThe same one as that other sphere."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right, back to the reliefs with us.\nCan't wait to see what we get out\nof this..."
+      "<DBAF43F0>": "All right, let's head back to the relief.\nNow then, what's going to pop out..."
     }
   ]
 }

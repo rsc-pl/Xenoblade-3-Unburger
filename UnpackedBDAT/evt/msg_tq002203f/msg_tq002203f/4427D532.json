@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahh, I do love the sea.\nSo I'm taking this thing on a trip."
+      "<DBAF43F0>": "I love the sea.\nI'm taking this thing on a journey."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Moebius? On a trip?"
+      "<DBAF43F0>": "A journey? A Moebius?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "O' course! A man's life is a long journey.\nWalk your path without a destination and\nyou'll get little encounters, like this one."
+      "<DBAF43F0>": "Aye. A man's life is a long journey.\nWander without a destination and you're bound\nto have encounters like this."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, uh, if you think we're gonna trust\na Moebius, you're off your rocker, man!"
+      "<DBAF43F0>": "Just so you know, we don't\ntrust Moebius one bit."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hoho! Sounds like yer in an awful pickle\nand no mistake! What a disaster for ye!"
+      "<DBAF43F0>": "Hah! You've been through a rough time, have you?\nThat's a real shame!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But ye see... Moebius I may be, but\nI don't got any orders regardin' ye."
+      "<DBAF43F0>": "But well, I may be a Moebius,\nbut I haven't been ordered to do\nanything to you lot."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm a free agent, says I."
+      "<DBAF43F0>": "I'm a free man."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyway, there are things on the sea\nso tasty they'll make ye weep! Along\nwith some gigantic monsters."
+      "<DBAF43F0>": "And ya know, the sea's got food so good\nit'll make you cry, and monsters\nso big they're like mountains."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So I arranged for them to be here. Things\nyou landlubbers would never dream of!"
+      "<DBAF43F0>": "There are things here that you'd never know\njust by staying on land, that's what I'm sayin'."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You mean you're mixing the colony up in\nall this, just so you can have a bit of fun?"
+      "<DBAF43F0>": "So you dragged a Colony into this just to\nindulge your own hobbies?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Guess you're right."
+      "<DBAF43F0>": "You could say that..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I just love watchin' the sea from\na Iron Giant, truth be told."
+      "<DBAF43F0>": "I just love the view of the sea\nfrom an Iron Giant."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Therefore, free agent that I be, I work\nas Colony 15's Consul, with a spot of\nmoonlightin' as the commander."
+      "<DBAF43F0>": "That's why, 'cause I want to do as I please,\nI'm serving as both the Consul and Commander\nof Colony 15."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The other Moebius tell me rubbish like\n\"your name is T\". Perhaps it's fate I met up\nwith you lot."
+      "<DBAF43F0>": "The other Moebius call me \"Tee,\"\nbut meeting you here is some kind of fate."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, if you please, you can call me\nCap'n Triden!"
+      "<DBAF43F0>": "You lot can just call me\n\"Captain Triden.\""
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Um... Somebody...\nTell me what's happening?"
+      "<DBAF43F0>": "Th-This guy... he's crazy."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Captain Triden. I get what you're saying,\nI do. But..."
+      "<DBAF43F0>": "Captain Triden,\nI understand what you're saying.\nBut—"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Noah, you ain't humoring this windbag?"
+      "<DBAF43F0>": "Noah, you don't have to play along."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Indeed! Can't listen to any words\nfrom this man's mouth!"
+      "<DBAF43F0>": "That's right, desu mo! You shouldn't take\nanything this person says seriously, desu mo!"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "His crazy, reckless schemes will get\nfriends dead! Smashed to pieces!"
+      "<DBAF43F0>": "He does crazy things on a whim, desu mo!\nWe've had a terrible time because of it, desu mo!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And what! Once I get an idea, I have\nto put it in motion, otherwise nothin'\naround here would happen!"
+      "<DBAF43F0>": "Aye!\nThere's no time like the present.\nNothing happens if you don't act."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Cap'n's awesome!\nHe might be an ugly lump, but he can\nsmash a big monster clear into next year!"
+      "<DBAF43F0>": "The Captain is amazing!\nHe may be ugly, but he can send\nhuge monsters flying!"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, I like a good challenge, so we spend\na chunk o' time goin' around, and... Wait.\nWho're you callin' ugly?"
+      "<DBAF43F0>": "Well, I like strong opponents, so I'm always\ngoing around looking for them... Hmm?\nDid you just call me ugly?"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whether they're in the sea or the sky,\nwe find big nasties and biff 'em up good!"
+      "<DBAF43F0>": "Whether it's in the sea or the sky,\nhe just knocks down big things\none after another!"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Riiight. Gotcha."
+      "<DBAF43F0>": "Hah... I see..."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You definitely called me ugly."
+      "<DBAF43F0>": "...You did just call me ugly, didn't you?"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Look, Mio. We're better off keeping\naway from this lot. You can't be best\npals with a Moebius!"
+      "<DBAF43F0>": "Hey, Mio, let's just stop dealing with them.\nMoebius are nothing but trouble."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Come now, young pup! You've only just\narrived. Fancy a little contest?"
+      "<DBAF43F0>": "Hey lads, since you're here,\nhow about a little contest with me?"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A...contest...?"
+      "<DBAF43F0>": "Contest?"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The wind brings me a couple of rumors,\nsuch as all of ye bein' pretty capable!"
+      "<DBAF43F0>": "I've heard through the grapevine\nthat you lads are pretty skilled."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seein' fellow warriors always gets\nme fired up! So, it be contest time!"
+      "<DBAF43F0>": "I'm a man who gets fired up when he sees\na strong opponent. Let's have a match."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What are you on about?\nNo way I'm doing that."
+      "<DBAF43F0>": "What are you talking about?\nOf course we won't."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Scared, eh?"
+      "<DBAF43F0>": "Running away?"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eh?!"
+      "<DBAF43F0>": "...Huh?"
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Aye, you're lily-livered! Guess Ouroboros\njust run away with their tails between their\nlegs. That right? Hah!"
+      "<DBAF43F0>": "Ah, so you're running away.\nHah, so Ouroboros turns tail and runs.\nAh, I see. Heh."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Li-ly liv-ered!"
+      "<DBAF43F0>": "Are... you... run... ning... a... way?"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Who're you calling lily-livered?!"
+      "<DBAF43F0>": "Let's do it!!"
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just leave it, Lanz.\nYou're wasting your time bothering with\nsomeone like him."
+      "<DBAF43F0>": "Stop it, Lanz.\nIt's a waste of time to deal with someone like him."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Must be nice for you, leavin' one foot out\nthe door so the sparks won't fall on you\nwhen there's trouble!"
+      "<DBAF43F0>": "By taking a step back and reasoning with him,\nyou avoid getting caught in the fire and don't have\nto fight, so it's easy for you, isn't it?"
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're frightened of gettin'\nknocked down, so you're makin' out\nlike you're warnin' him?"
+      "<DBAF43F0>": "By pretending to be reasonable, you're just trying\nto hide the fact that you're scared out of your mind."
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You tryin' to save face or summat?\nBe you so scared of Moebius?"
+      "<DBAF43F0>": "You're trying to save face, aren't you?\nYou're just scared of Moebius, right?"
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's lily-livered, or my name's\nnot Cap'n Triden!"
+      "<DBAF43F0>": "So, you're running away?"
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll give you lily-livered!"
+      "<DBAF43F0>": "I said, let's do it!!"
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's settled then!\nBeen lookin' for someone hot-blooded!"
+      "<DBAF43F0>": "Alright, it's decided!\nI like energetic people."
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Api, make the preparations!"
+      "<DBAF43F0>": "Hey Api, get ready!"
     }
   ]
 }

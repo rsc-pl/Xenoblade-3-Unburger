@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're trying to find the person who\nmight have lost this sheet music.\nDo you recognize it?"
+      "<DBAF43F0>": "We're looking for the person who\nmight have lost this sheet music."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry, no. Wish I could\nhave been more help."
+      "<DBAF43F0>": "I'm not sure……\nSorry I couldn't be of help."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's OK, thank you anyway."
+      "<DBAF43F0>": "No, it's fine. Thank you."
     }
   ]
 }

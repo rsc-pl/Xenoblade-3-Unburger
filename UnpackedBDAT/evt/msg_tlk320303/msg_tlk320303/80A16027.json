@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Could you tell us a bit more\nabout Colony Tau's customs?"
+      "<DBAF43F0>": "I want to know about\nthe customs of Colony Tau."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Our customs? Let's see...\nWell, our current commander always\nhas to appoint the next in line..."
+      "<DBAF43F0>": "Let's see... For example, the commander\nis nominated by the previous one."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We fetch water from a distant spring..."
+      "<DBAF43F0>": "And we fetch water from a spring far from here."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And we don't send off our dead.\nInstead we bury them in the earth."
+      "<DBAF43F0>": "We also bury our dead in the earth\ninstead of sending them off."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "These all sound so foreign to us..."
+      "<DBAF43F0>": "It's all things we didn't know..."
     }
   ]
 }

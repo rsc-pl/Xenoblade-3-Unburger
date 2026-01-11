@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You there! Are you the unit the Captain\nof the Guard dispatched?"
+      "<DBAF43F0>": "You there!\nAre you the unit dispatched by the Captain of the Guard?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're asking that, then you must be-"
+      "<DBAF43F0>": "For you to ask that means\nyou're[ML:line ]"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I admire your resolution to fight us all on\nyour own, though to be honest, I'd thought\na sergeant would know far, far better."
+      "<DBAF43F0>": "To challenge us alone is admirable.\nBut as a squad leader, it is the height of folly."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "W-wait a minute! I don't intend to fight!"
+      "<DBAF43F0>": "W-wait!\nWe have no intention of fighting!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Please. You deliberately called us over. Do\nyou think we're stupid enough to believe\nyou're not fighting us after doing that?"
+      "<DBAF43F0>": "At this point,\nwhat fool would believe such nonsense?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...We can't fight on any more, I'm telling\nyou. We're all so exhausted, we can\nbarely move."
+      "<DBAF43F0>": "...It's true that we can't fight.\nEveryone is so exhausted, they can barely move."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I knew we should never have done this...\nTaking over a Castle with no supplies was\nasking for trouble right from the start."
+      "<DBAF43F0>": "It was an impossible task from the start...\nTo occupy the Castle without supplies,\nit was obvious we'd be slowly worn down."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, you're saying you surrender?"
+      "<DBAF43F0>": "Then, you surrender?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah... But before that, could you give me\nand my soldiers some food to eat?"
+      "<DBAF43F0>": "Yes... but before that,\ncould you give my subordinates some food?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I know just how pathetic I look begging\nyou like this, but I'd be nothing without\nmy soldiers."
+      "<DBAF43F0>": "It is the height of shame to ask this\nafter proclaiming a grand cause... but\nI cannot sacrifice the lives of my subordinates."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you knew how bad of an idea this was\nahead of time, you shouldn't have tried\ntaking over the Castle in the first place."
+      "<DBAF43F0>": "If you're capable of such sound judgment,\nyou shouldn't have tried to occupy the Castle\nin the first place."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But first, the food. We haven't got enough\nto let you eat it all, so someone will\nneed to get some more."
+      "<DBAF43F0>": "In any case, food first.\nWe don't have enough on hand,\nso we'll have to go back and procure some..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sounds like a job for me! I happen to\nknow someone who can give me exactly\nwhat I need to help these guys out."
+      "<DBAF43F0>": "Alright, leave it to me.\nI have a few connections."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You sure you ain't going to poison\nthem with something dodgy?"
+      "<DBAF43F0>": "...Are you sure about this?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I am a chef, remember?\nJust you wait and see!"
+      "<DBAF43F0>": "Have you forgotten my profession?\nWell, just watch!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll need to head back to the fort canteen\nfirst. With their kitchen, I can cook up just\nwhat these guys need."
+      "<DBAF43F0>": "First, let me go to the fortress cafeteria.\nI can get everything I need from the kitchen there."
     }
   ]
 }

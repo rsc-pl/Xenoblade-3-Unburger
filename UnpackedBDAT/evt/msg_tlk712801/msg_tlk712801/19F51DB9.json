@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I hear you're breaking into the\nprison camp. Good luck with that."
+      "<DBAF43F0>": "You're infiltrating the prison camp, I hear.\nGood luck."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh... How'd you know about that?"
+      "<DBAF43F0>": "Huh?\nHow do you know that..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Information gathering is what I do."
+      "<DBAF43F0>": "Gathering information is my job."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Where's a good comeback\nwhen I need one?"
+      "<DBAF43F0>": "I'd better not say anything careless..."
     }
   ]
 }

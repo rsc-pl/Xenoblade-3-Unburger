@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahoy chums! I've been waiting!"
+      "<DBAF43F0>": "You finally made it! I've been waiting!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You haven't sighted Saoru, have you?"
+      "<DBAF43F0>": "By the way, have you seen Saoru?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Saoru? No, I don't think so, sorry."
+      "<DBAF43F0>": "Saoru? No, I haven't."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Curses... I knew he'd be up to his\nusual tricks!"
+      "<DBAF43F0>": "Honestly... I knew it would\ncome to this!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That Saoru... He couldn't find his way if\nyou nailed a map to his bum!"
+      "<DBAF43F0>": "That Saoru has no sense of direction.\nHe must be lost somewhere!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That good with directions, is he?"
+      "<DBAF43F0>": "No sense of direction?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He's probably got himself ate up by\nsome monster! Hahahaha!"
+      "<DBAF43F0>": "Ah, maybe he got eaten by a monster and died!\nHahahaha!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And that's...funny?"
+      "<DBAF43F0>": "Uh, is that something to laugh about...?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Saoru was gonna do this next part, but I can't\nhelp it if he's done a disappearing act, can I?\nSo it's up to me to explain the next challenge!"
+      "<DBAF43F0>": "Can't be helped if Saoru's not here!\nI'll explain the next challenge!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The first group to track a certain monster\nand bring it down is the winner!"
+      "<DBAF43F0>": "You have to follow a monster's tracks,\nand whoever defeats it first wins!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That all sounds quite simple."
+      "<DBAF43F0>": "That's a rather simple challenge."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yep. Find some big footprints, follow 'em."
+      "<DBAF43F0>": "If we just follow the tracks, it should be quick."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, best of luck to you!"
+      "<DBAF43F0>": "Well then, good luck!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK then. Let's head out."
+      "<DBAF43F0>": "Right, let's go."
     }
   ]
 }

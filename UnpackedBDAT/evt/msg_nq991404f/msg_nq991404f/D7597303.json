@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It appears you're all out of luck now.\nThis is the end of the road for you."
+      "<DBAF43F0>": "It seems this is the end of the line for you.\nHas your luck run out?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Aiii! P-please! Help me! At least spare my\nlife, I'm begging you..."
+      "<DBAF43F0>": "Eek! P-please! Help me!\nSpare my life, I beg you[ML:line ]"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...As if!"
+      "<DBAF43F0>": "[ML:line ]...is what you'd expect me to say."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh?!"
+      "<DBAF43F0>": "Wh-...!?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wh-what's going on?!"
+      "<DBAF43F0>": "Whoa!? Wh-what the!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hahaha! You fell right into my trap!\nJust as I thought you simple-minded\nimbeciles would."
+      "<DBAF43F0>": "Hahaha! You fell for it completely!\nThis is why simple-minded fools\nare so easy to handle."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My analysis proved correct! You're all a\nbunch of browbeaters who love to boast\nto anyone who you think can't push back."
+      "<DBAF43F0>": "Those who boast of their own strength\nare the quickest to pounce on the weak[ML:line ] Just as my analysis predicted!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I knew something was off... Your \"futile\nescape\" was all an act to lure us into a\nfalse sense of security, and into your trap."
+      "<DBAF43F0>": "I see... So that pathetic escape\nwas just a feint to lure us into a trap."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heh. There's nothing I wouldn't do to\nmake you all suffer."
+      "<DBAF43F0>": "Hmph, to make you suffer,\nI would cast aside my dignity any number of times."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If it weren't for you fools, *I* would've\nbrought glory to Keves! The Queen herself\nwould have commended my triumph!"
+      "<DBAF43F0>": "If only you weren't here...\nI would have brought victory to Keves\nand received the crown of glory from the Queen!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What you did...I can never forgive! As part\nof my glorious plan, I shall sentence you\nall to death!"
+      "<DBAF43F0>": "Truly... truly unforgivable!\nWith my magnificent strategy,\nI shall slaughter every last one of you!!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...He kinda reminds me of Taion,\nI gotta be honest."
+      "<DBAF43F0>": "...He's kind of like Taion."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey! Now that's just out of order!\nYou take that back!"
+      "<DBAF43F0>": "Hey! That's rude!\nI demand you retract that statement!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For the love of-! Leave the bickering for\nlater, dumbasses! We're kinda in a life or\ndeath situation, in case you've forgotten!"
+      "<DBAF43F0>": "Idiot! Do it later!\nDon't forget we're in a pretty tight spot right now!"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Enough talk! You shall now learn\njust how fatal your recklessness is!"
+      "<DBAF43F0>": "Such a careless bunch!\nI will teach you that your complacency\nwill be your undoing!"
     }
   ]
 }

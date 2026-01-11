@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shuuri? Yeah, I know her. She was a hot\ntopic for a little while here."
+      "<DBAF43F0>": "Shuuri? Oh, I know of her.\nShe was a hot topic here for a while."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She was in the squad that mainly salvages\nsupplies, and was a snuffing capable\nsoldier herself."
+      "<DBAF43F0>": "She was in a squad that mainly focused on retrieving supplies,\nand was also a soldier who could fight."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And when supply containers are\nbeing targeted by enemy scavenging\nteams, soldiers like her are invaluable."
+      "<DBAF43F0>": "Such soldiers are valuable.\nSupply containers are often targeted\nduring retrieval and transport."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The salvage corps and supply team may\nbe known as logistical teams, but that\ndoesn't mean they lack capable fighters."
+      "<DBAF43F0>": "The retrieval and supply squads are said to be rear support,\nbut it's no good if there's no one who can fight."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They're the ones who take the necessary\ndecisive actions, such as blowing up a\ncontainer if the enemy's about to steal it."
+      "<DBAF43F0>": "They'll even blow them up rather than let the enemy take them.\nThat kind of accurate situational judgment is necessary."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Even I always have to stay on my toes.\nYou never know when something might\nhappen."
+      "<DBAF43F0>": "I need to be on my toes too.\nYou never know what might happen."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's much danger in supply container\nretrieval. If an enemy's about to steal a\ncontainer, it's safer to just blow it up."
+      "<DBAF43F0>": "Retrieving supply containers is often dangerous.\nThey'll even blow them up and abandon them\nrather than let the enemy take them."
     }
   ]
 }

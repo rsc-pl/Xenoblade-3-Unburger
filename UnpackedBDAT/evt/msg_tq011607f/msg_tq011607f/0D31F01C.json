@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you all right?"
+      "<DBAF43F0>": "Are you alright?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, thank you!\nYou saved our skins!"
+      "<DBAF43F0>": "Thank you!\nReally, thank you~!!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Never seen monsters like that before.\nThey really caught us off guard..."
+      "<DBAF43F0>": "It was a monster I'd never seen before,\nso I let my guard down..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I really thought it was over for us.\nYou're lifesavers, you truly are!"
+      "<DBAF43F0>": "You really saved us.\nI thought we were done for."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Never seen critters like that before.\nThey really caught us off guard..."
+      "<DBAF43F0>": "It was a creature I'd never seen before,\nso I let my guard down..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, it's weird that those\nmonsters were there..."
+      "<DBAF43F0>": "That monster from before,\nI believe..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "One would usually expect them\nto reside in their natural habitat,\nabove the Great Conté Falls."
+      "<DBAF43F0>": "its habitat should be the upper level of the great falls."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So they decide to move house?"
+      "<DBAF43F0>": "Did they move, desu mo?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This isn't walking distance we're\ntalking here."
+      "<DBAF43F0>": "It's not a distance they could have just wandered."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They'd have to have migrated from\ntheir old territory."
+      "<DBAF43F0>": "They must have had to leave\ntheir original habitat."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "After what happened to those mountains,\nthe Ansels must have tried to take shelter\nbeneath the great falls."
+      "<DBAF43F0>": "Because of what happened to that mountain range,\nthe Ansels came into the great falls.\nAnd then..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll bet that's what pushed these\nguys out, and then they moseyed on\nover here to the desert."
+      "<DBAF43F0>": "these guys, who were driven out from there,\ncame to the Dannagh Desert."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Our squad leader just gave us an update.\nYou're here to pick up the levnite?"
+      "<DBAF43F0>": "I just got a message from the squad leader.\nYou came to pick up the Levnistrite,\nright?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you want, we can just give it to you\nhere. Saves you a trip back to Colony 4,\nright?"
+      "<DBAF43F0>": "You can take this, if you like.\nIt would be a hassle to go back to Colony 4."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Solon just gave us an update.\nYou're here to pick up the levnite?"
+      "<DBAF43F0>": "I just got a message from Solon.\nYou came to pick up the Levnistrite,\nright?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you want, we can just give it to you\nhere. Saves you a trip back to Colony 4,\nright?"
+      "<DBAF43F0>": "Take this with you.\nIt would be a pain to go back to Colony 4, right?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You sure?! Well, thanks!"
+      "<DBAF43F0>": "Is that okay!? Thank you!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This'll at least take one thing off\nYuzet's plate..."
+      "<DBAF43F0>": "Hopefully this will lessen\nYuzet's worries a little."
     }
   ]
 }

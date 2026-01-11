@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now then, No. 6.\nPlease present your report."
+      "<DBAF43F0>": "Now then, Number Six.\nPlease continue your report."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Before I do, I would like to\nverify my assumptions first."
+      "<DBAF43F0>": "...Before that,\nallow me to confirm the premise."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And the Ferron ignition circuit is secured\nwith an Iris recognition lock, meaning that\nnone save us are authorized to pilot them."
+      "<DBAF43F0>": "Activating a Ferron requires Iris authentication,\nand due to its nature, only we six are capable of piloting them."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Therefore, their use by Keves and Agnus\nis fundamentally impossible. Correct?"
+      "<DBAF43F0>": "Therefore, it is highly unlikely that they would be\noperated by Keves or Agnus."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Affirmative. No errors detected\nin preceding statements."
+      "<DBAF43F0>": "I concur.\nThere is no mistake in that understanding."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Hrm..."
+      "<DBAF43F0>": "............"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...No. 6?"
+      "<DBAF43F0>": "...Number Six?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 7, I ask for your calm."
+      "<DBAF43F0>": "Number Seven, listen calmly."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "While reconnoitering in the Fornis region,\nI confirmed the existence of an eighth unit."
+      "<DBAF43F0>": "While reconnoitering the Fornis Region,\nI confirmed the existence of an \"eighth unit.\""
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah! Unexpected..."
+      "<DBAF43F0>": "...! That can't be..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The identification number\nwas for...Unit No. 13."
+      "<DBAF43F0>": "The identification signal was... \"Unit Two.\""
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you certain?\nDoes this suggest she is alive...?"
+      "<DBAF43F0>": "Are you certain?\nThat \"she\" is alive...?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I have no evidence.\nThe signal disappeared quickly,\nand I could find no other leads."
+      "<DBAF43F0>": "...There is no confirmation.\nThe signal disappeared immediately, and there are no other clues."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have informed nobody of this incident so\nfar. I didn't wish to cause undue agitation."
+      "<DBAF43F0>": "I have not spoken of this to anyone else.\nI do not wish to cause them agitation."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However... I decided that you should be\nappraised of the situation, No. 7."
+      "<DBAF43F0>": "However... I judged that I should inform\nyou, Number Seven."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I, uh... I know it's been on your mind,\never since she disappeared..."
+      "<DBAF43F0>": "I know... you were worried about her.\nEven after she disappeared, for a long time."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you..."
+      "<DBAF43F0>": "Number Six..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This concludes the report.\nLooking forward to this onigiri,\nor what have you."
+      "<DBAF43F0>": "That is all for the report.\nI will look forward to this \"onigiri.\""
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, Nagiri! All done?"
+      "<DBAF43F0>": "Ah, Nagiri... are you done already?"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Affirmative.\nUnit No. 7 is ready to depart on command."
+      "<DBAF43F0>": "Affirmative.\nUnit Seven is ready to depart at any time."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hah, someone sounds eager!\nWell then, shall we hit the road?"
+      "<DBAF43F0>": "Haha, you're fired up.\nWell then, shall we head out?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If she is indeed alive,\nI should have felt the connection."
+      "<DBAF43F0>": "If she were alive,\nI should have been able to feel\nthe \"connection\"..."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But at this moment I feel nothing..."
+      "<DBAF43F0>": "But right now, I feel nothing..."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is it... Is it really you?"
+      "<DBAF43F0>": "Is it really... you?"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...No. 13?"
+      "<DBAF43F0>": "...\"Number Two.\""
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Some Iron Giant types have a fabricator\ninstalled that manufactures the materials\nneeded for self-sufficiency, I heard."
+      "<DBAF43F0>": "It seems some types of Iron Giants\nare equipped with plants that produce\nsupplies for self-sufficiency."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Word is, the tactician squad found wrecks\nof Iron Giants like that while they were\nscouting Dannagh Desert and Ribbi Flats."
+      "<DBAF43F0>": "According to the tactics squad's investigation of the area,\nthe wreckage of such Iron Giants was found\nin the Dannagh Desert and Ribbi Flats, but[ML:line ]..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can't remove the fabricators from them,\nunfortunately. They're hardwired straight\ninto the chassis. It's a real shame."
+      "<DBAF43F0>": "Because the plant is built into the core of the Iron Giant,\nit seems impossible to remove and recover just the plant...\nIt's very unfortunate."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "On the other hand, we can still use\nthe fabricators in situ... So it's not\na total washout."
+      "<DBAF43F0>": "There shouldn't be a problem with operating\nthe plant on-site and using it, though..."
     }
   ]
 }

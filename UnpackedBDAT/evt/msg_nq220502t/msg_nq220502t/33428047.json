@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're looking for a Colony Tau\nsoldier, name of Saibara. Can you\ntell us anything about her?"
+      "<DBAF43F0>": "We are looking for a soldier named Saibara\nfrom Colony Tau. Have you seen her?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meh? Saibara, friend say?"
+      "<DBAF43F0>": "Momo? Saibara-chan, mo?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right. No one's been able to get in\ntouch with her, so we're a bit worried."
+      "<DBAF43F0>": "Yes, we're having trouble getting in touch with her."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She look very pondering, but\nKukucha not talk with her."
+      "<DBAF43F0>": "She had a worried look on her face, mo.\nBut I've never spoken to her, mo."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see... Well, thanks anyway."
+      "<DBAF43F0>": "Is that so......\nThank you very much."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry Kukucha not more helping!"
+      "<DBAF43F0>": "I'm sorry I couldn't be of more help, mo."
     }
   ]
 }

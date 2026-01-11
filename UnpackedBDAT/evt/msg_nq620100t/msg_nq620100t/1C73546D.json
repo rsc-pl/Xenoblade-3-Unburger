@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's this...? A noticeboard?"
+      "<DBAF43F0>": "Is this...\na bulletin board?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah. A request board, to be more precise."
+      "<DBAF43F0>": "Yes.\nIt's called a request board here."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whenever people in Colony 9 have\na request, they post it here."
+      "<DBAF43F0>": "Requests from the people living in Colony 9\nare posted on it."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right, riiiiight...\nLet's have a nosy, then."
+      "<DBAF43F0>": "I see.\nLet's take a look..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"I lost my wedding ring somewhere in\nColony 9. If my wife finds out, I'm dead.\nPlease, I beg you, someone find it.\""
+      "<DBAF43F0>": "\"I lost my wedding ring in Colony 9.\nIf my wife finds out I lost it...\nPlease, someone find it.\""
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Lost property case, eh?"
+      "<DBAF43F0>": "A request to search for something."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What else have we got...?\nI see a couple of hunting missions."
+      "<DBAF43F0>": "There also seem to be\nrequests for extermination."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"I saw a school of Krodlaxes swimming around\nColony 9's Tower Square! Please, take 'em\nout so we can have fresh fish to eat!\""
+      "<DBAF43F0>": "\"A school of Krodlax has been spotted\nnear the Tower Square of Colony 9!\nPlease exterminate them and secure the food supply!\""
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"I think a rare kind of Shoox is nesting in the\nlake's cave! I'd love to get my hands on it for\nscience. Please can someone defeat it?\""
+      "<DBAF43F0>": "\"It seems a rare Shoox\nhas taken up residence in the lake cave!\nI'd love to study its ecology. Someone, please exterminate it!\""
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, any problems too big for any \none person get resolved communally.\nThat's cooperation for ya!"
+      "<DBAF43F0>": "So this is how they solve problems\nthat are too difficult for one person,\nby requesting cooperation."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Exactly. We've been pitching in too,\nfrom time to time. If you're ever bored,\nyou could do the same."
+      "<DBAF43F0>": "That's right.\nWe help out sometimes too.\nYou should try it when you have time."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I will, for sure. We gotta help one another,\nin these uncertain times."
+      "<DBAF43F0>": "Yeah...\nI'll give it a try. We have to cooperate."
     }
   ]
 }

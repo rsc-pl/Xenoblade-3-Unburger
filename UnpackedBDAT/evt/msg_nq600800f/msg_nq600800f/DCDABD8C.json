@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, Shulk, sir!"
+      "<DBAF43F0>": "Ah...! Shulk-san!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, hello. You're...Kayleigh, right?"
+      "<DBAF43F0>": "Hello. You're... Kayleigh, wasn't it?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's correct, sir! I'm honored\nthat you would remember me!"
+      "<DBAF43F0>": "Yes! I'm honored you remember me."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Relax. No need to get so stiff.\nWhat are you doing out here?"
+      "<DBAF43F0>": "No need for formalities.\nWhat are you doing here?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "U-uh, well..."
+      "<DBAF43F0>": "W-Well..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, Harby's not with you?\nYou two are always so close..."
+      "<DBAF43F0>": "By the way, isn't Harby with you?\nYou two are always—"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "........."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I'm guessing something happened\nbetween them, Teacher."
+      "<DBAF43F0>": "...Looks like there's a story here, Teacher."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I...lost contact with Harby\nabout two days ago."
+      "<DBAF43F0>": "Harby... I lost contact with him\nabout two days ago."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You don't know where he's gone?\nCould something have happened?"
+      "<DBAF43F0>": "You don't know where he is?\nDid something happen to him...?"
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm leading a search party right now,\nand we've checked a few places so far,\nbut there's been no sight of him."
+      "<DBAF43F0>": "I've organized a search party\nand we're checking a few places\nhe might have gone, but..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That doesn't sound good...\nAdd us to the search party then, would you?"
+      "<DBAF43F0>": "This doesn't sound good...\nIn that case, we'll join the search."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh...! Thank you so much, sir!\nThen, could I ask you to accompany me?"
+      "<DBAF43F0>": "Shulk-san...\nThank you.\nThen, would you please come with me?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll have the other members\nsearch someplace else."
+      "<DBAF43F0>": "I will have the rest of the team\nsearch in a different location."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, anyway, who is this Harby guy to you?"
+      "<DBAF43F0>": "By the way, who is this Harby to you?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Harby is a soldier I was with\nwhen the Liberators took us in."
+      "<DBAF43F0>": "...Harby is a soldier who was taken in\nby the Liberators along with me."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Since then, Harby and I have been\nunited in eternal gratitude to Shulk\nand Panacea here."
+      "<DBAF43F0>": "Both Harby and I\nhave been in the care of\nShulk-san and Panacea-san for a long time..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Noted. Then we better get a move on\nand see where this guy's got to, eh?"
+      "<DBAF43F0>": "I see...\nThen we need to find him quickly."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do you have any leads\nthat we could follow?"
+      "<DBAF43F0>": "Where is Harby likely to have gone?"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The two of us came to the Cent-Omnia\nregion not too long ago."
+      "<DBAF43F0>": "Both Harby and I\nonly recently advanced into the\nCent-Omnia region."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So there aren't all that many\nplaces we even know how to reach.\nWhich would mean..."
+      "<DBAF43F0>": "Therefore, the places we know are limited.\nIf we follow that line of thought..."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I understand. We'll let you take the lead\nand see where that takes us."
+      "<DBAF43F0>": "Understood.\nFor now, we'll let Kayleigh lead the way."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right then, let's head towards\nZalmor's Falls. Our destination\nlies in that area."
+      "<DBAF43F0>": "Then, we will head to Zalmor's Falls.\nOur destination is in that vicinity."
     }
   ]
 }

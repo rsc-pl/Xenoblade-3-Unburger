@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, what do we do?\nDon't tell me we just search\nplaces at random?"
+      "<DBAF43F0>": "So, what's the plan?\nWe're not just going to search aimlessly, are we?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course not! Why do you think\nwe brought the others along?"
+      "<DBAF43F0>": "Of course not!\nThat's why I brought them along!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm seeing tracks of several soldiers\npassing through here. Quite recently."
+      "<DBAF43F0>": "...There are traces of multiple soldiers passing through here.\nNot much time has passed either."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What tracks? I don't see anything."
+      "<DBAF43F0>": "Traces...? Where?\nI don't see anything."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As this sort of thing is my\nspecialty, I would hope not."
+      "<DBAF43F0>": "Well, of course you don't.\nI'm a specialist in this field."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't believe they're simply running\naway. They're clearly trying to erase\ntheir footprints."
+      "<DBAF43F0>": "They must be serious about escaping.\nThey've carefully erased their tracks."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Still, the way I see it, they've\nbeen quite sloppy with their escape.\nThey've left such clear tracks..."
+      "<DBAF43F0>": "That being said, from my perspective,\ntheir escape is rather sloppy.\nThe tracks are glaringly obvious..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We don't need a tedious commentary!\nJust follow the tracks!"
+      "<DBAF43F0>": "Spare me the commentary!\nJust start tracking them!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, yes, understood. Though I'll\nthank you not to raise your voice\nat every little thing."
+      "<DBAF43F0>": "Yes, yes, I know.\nJust please stop yelling so loud."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll display the tracks in your Iris.\nPlease make sure you don't lose them."
+      "<DBAF43F0>": "I'll share the tracks on your \"Iris.\"\nBe careful not to get separated."
     }
   ]
 }

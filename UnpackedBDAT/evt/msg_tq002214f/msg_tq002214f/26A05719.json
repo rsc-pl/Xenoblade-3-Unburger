@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hm? Ahoy, guests. What's up?"
+      "<DBAF43F0>": "Hm? What's wrong, guest?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's up? We wanna know what\nyou're doing here, that's what's up."
+      "<DBAF43F0>": "What's wrong...\nWhat are you doing here?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's not good, friends. You're supposed\nto be taking down that monster! Oh. Did I\nexplain that to you already?"
+      "<DBAF43F0>": "This won't do, guest.\nYou have to defeat the monster... Did\nI explain this to you?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, you'd scuttled off somewhere, so we\nhad to get the deets from someone else!"
+      "<DBAF43F0>": "You did not! You weren't here,\nso we heard it from someone else!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, that's not good then, is it! If you waste\ntime here you're gonna lose!"
+      "<DBAF43F0>": "Then that's even worse!\nIf you waste time here, you'll lose!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We followed the tracks here, you numpty!"
+      "<DBAF43F0>": "We ended up here because\nwe were following the tracks!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah! We got more tracks here!"
+      "<DBAF43F0>": "Oh! There are more tracks over here!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh my-\nWe'd better follow these, then."
+      "<DBAF43F0>": "Guess we have no choice but to follow this one."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good luck, friends! You'd best not hang\nabout, or the Captain'll sail ahead!"
+      "<DBAF43F0>": "Good luck, guest.\nIf you dally, the Captain will\novertake you."
     }
   ]
 }

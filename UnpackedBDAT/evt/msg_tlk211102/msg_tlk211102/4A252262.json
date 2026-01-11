@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ribbi Flats is vast. If you're making your\nway to Swordmarch, then you should\nmake use of Elsie's Spout as a landmark."
+      "<DBAF43F0>": "Ribbi Flats is very vast.\nIf you're aiming for the \"Great Sword,\"\nyou should use Elsie's Spout as a landmark."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Elsie's Spout, you say! OK, I got it!"
+      "<DBAF43F0>": "\"Elsie's Spout,\" right?\nOkay, got it!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah... Something else! You'd be well\nadvised to steer clear of Dannagh Desert.\nIt's a very dangerous place."
+      "<DBAF43F0>": "...Oh! And please try not to get\nclose to Dannagh Desert!\nIt's very dangerous there..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A desert, huh...? Well, I don't think I'd\nwant to go there anyway, dangerous\nor not..."
+      "<DBAF43F0>": "A... a desert...\nI'd rather not go, even if it wasn't dangerous."
     }
   ]
 }

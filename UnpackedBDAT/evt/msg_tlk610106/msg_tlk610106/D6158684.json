@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What we need here is some decent food!\nDon't you know you can't fight on an\nempty stomach?"
+      "<DBAF43F0>": "What we need is food!\nYou can't fight without food!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I mean, you're not wrong..."
+      "<DBAF43F0>": "Well... that's true, but..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right? So we've gotta get a massive supply\nof food to the City!"
+      "<DBAF43F0>": "Right? That's why we have to send\na large amount of food to the City!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wonder..."
+      "<DBAF43F0>": "Is that really how it is..."
     }
   ]
 }

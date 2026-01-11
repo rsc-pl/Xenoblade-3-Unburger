@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, there's..."
+      "<DBAF43F0>": "This is..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Treasure hidden in the cave?"
+      "<DBAF43F0>": "Treasure hidden in a cave, maybe?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Could be anything, huh?\nAnyhow, let's grab it!"
+      "<DBAF43F0>": "I don't know what it is,\nbut let's take it for now."
     }
   ]
 }

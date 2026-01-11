@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Your Majesty! There you are."
+      "<DBAF43F0>": "Your Majesty,\nyou were here."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Please, it's \"Nia\"!\nYou aren't used to it yet, are you?"
+      "<DBAF43F0>": "...It's \"Nia,\" you know.\nAre you still not used to it, Mio?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uh... I'm sorry, your...\nPlease, forgive me... It just..."
+      "<DBAF43F0>": "Ah... I apolog... I-I'm sorry, it just slipped out..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heh, it's fine. I may have taken\nmy teasing a step too far there."
+      "<DBAF43F0>": "Hehe, it's alright.\nI was being a little too mischievous."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uhm... I hope what I'm about to say\ndoesn't come out the wrong way, but..."
+      "<DBAF43F0>": "Um... It might be rude\nto say this, but..."
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's just, you're our Queen! We believed\nyou were the one that gave us all life...\nAnd that we'd return to you in the end."
+      "<DBAF43F0>": "To us, the Queen was the vessel\nfrom which our lives were born\nand to which they would eventually return..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You were like this awesome being,\nhigh above... None of us could even\ndream of talking to you."
+      "<DBAF43F0>": "She was such a distant presence\nthat we could not even hope\nto have an audience with her..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And now you're just traveling along with\nus and chatting like it's an everyday thing."
+      "<DBAF43F0>": "And now, I am traveling with you,\nand having casual conversations..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's just really bizarre to me somehow.\nLike things have been switched around.\nIt still feels a little strange..."
+      "<DBAF43F0>": "It feels somehow so strange,\nand on the flip side, out of place..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Could it be...that it just hasn't sunk in yet?"
+      "<DBAF43F0>": "So... you're still not used to it?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 14,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heheh... Well, it's the same for me."
+      "<DBAF43F0>": "Hehe, in that case, you're the same as me."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wh-what?"
+      "<DBAF43F0>": "Huh?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sure I've told you this before, but\nplease indulge me."
+      "<DBAF43F0>": "I've mentioned it before, but..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "While I was asleep in the Cloudkeep,\nI was getting information about what was\nhappening in the world."
+      "<DBAF43F0>": "information about what was happening in the world\nwas constantly being sent to me\neven while I slept in the Cloudkeep."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So I knew, long before, that you were not\nM, but an independent being called \"Mio\"."
+      "<DBAF43F0>": "Therefore, I knew from long ago that\nthere was a being called you,\nand not M."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But...it was nothing more than information."
+      "<DBAF43F0>": "But... that was all."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wanted to truly know you more than\nanyone else, but I couldn't touch you,\ncouldn't make contact."
+      "<DBAF43F0>": "I knew you better than anyone,\nyet I could not touch you\nor convey anything to you..."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I felt so close to you... But you were\nstill this distant far-off thing... It was\nso frustrating."
+      "<DBAF43F0>": "While I felt you were close,\nyou were also a frustratingly \"distant presence\"..."
     },
     {
       "$id": 23,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But right now, you're so close I can reach\nout and touch you... Speak with you, even."
+      "<DBAF43F0>": "And that you is now\nwithin reach of my hand,\nand I can even speak with you..."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I never thought the day would come.\nIt's a truly strange feeling."
+      "<DBAF43F0>": "I never thought this day would come...\nIt's a very strange feeling."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...It's the same for me."
+      "<DBAF43F0>": "...Just like me."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Indeed. It's amazing really, the way things\nworked out, don't you think?"
+      "<DBAF43F0>": "Yes. Don't you think this is\nan interesting twist of fate in its own way?"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hehe. For sure."
+      "<DBAF43F0>": "Hehe, you're right."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If I hadn't become Ouroboros,\nI'd never have had the chance to\nmeet you, Nia."
+      "<DBAF43F0>": "If I hadn't become an Ouroboros,\nI probably would never have met you, Nia."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sometimes a small pebble starts the\navalanche which changes your whole\nfuture, don't you think?"
+      "<DBAF43F0>": "Sometimes, just a small trigger\ncan change the future in a big way."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...No, I don't think you can\nput it all down to chance."
+      "<DBAF43F0>": "...No, perhaps it's not\njust that."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Huh? What do you mean?"
+      "<DBAF43F0>": "...? What do you mean?"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think we met because we were supposed\nto, Mio. It was meant to be."
+      "<DBAF43F0>": "It means that you and I were meant to meet,\nMio."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Because, to me, you're..."
+      "<DBAF43F0>": "Because to me, you are..."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey!\nMio! Nia!"
+      "<DBAF43F0>": "Hey!\nMio~! Nia~!"
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're heading out soon, guys!\nGet a move on, or you'll get left behind!"
+      "<DBAF43F0>": "We're about to leave.\nIf you don't hurry, we'll leave you behind~!"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK! We're coming!"
+      "<DBAF43F0>": "Yes! I'm coming now!"
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shall we go join the others?"
+      "<DBAF43F0>": "Shall we go to where everyone is?"
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Sure. Let's do that."
+      "<DBAF43F0>": "...You're right."
     },
     {
       "$id": 40,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm really glad we got to talk like this."
+      "<DBAF43F0>": "I'm glad I could talk with you."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, me too...Nia."
+      "<DBAF43F0>": "Yes, me too, Nia."
     }
   ]
 }

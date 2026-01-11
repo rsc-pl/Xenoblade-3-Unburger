@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How much of the situation have you\nrelayed to the colony's troops?"
+      "<DBAF43F0>": "To what extent did you explain the situation\nto the soldiers of the colony?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Consul may have been defeated, but\nthings are on a surprisingly even keel."
+      "<DBAF43F0>": "Even with the Consul's defeat,\nthere wasn't much of a stir..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Actually, considering the plan's level of\nsecrecy, I thought it had made quite a stir.\nBut Niina-sama doesn't roll like that."
+      "<DBAF43F0>": "This operation was top secret,\nso I believe they were shaken.\nHowever, Niina-sama[ML:line ]..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It doesn't matter what kind of set-to\nshe sees - she just tells us to stick to\nour routines."
+      "<DBAF43F0>": "...gave prior instructions to carry on with their posts\nas usual, no matter what kind of commotion they witnessed."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes... Thereby containing the panic with\nminimal interference. They must place a\ngreat deal of trust in her..."
+      "<DBAF43F0>": "...A warning to keep their hands off, I see.\nTo be able to control the situation like that,\nNiina must have earned their trust..."
     }
   ]
 }

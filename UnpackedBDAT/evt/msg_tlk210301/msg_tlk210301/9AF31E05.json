@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Doesn't matter what Maxie says.\nYou Agnian scum are still the enemy,\nfar as I'm concerned."
+      "<DBAF43F0>": "...No matter what Squad Leader Maxie says,\nit doesn't change the fact that\nyou Agnians are still our enemy."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't be getting any funny ideas\nwhile you're here, OK? Or else!"
+      "<DBAF43F0>": "Don't get any funny ideas.\nOr else[ML:line ]..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mio-chan... Uhm...\nShould we move along here, maybe...?"
+      "<DBAF43F0>": "...Mio-chan, should we go now?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Yes. All right"
+      "<DBAF43F0>": "...Yes."
     }
   ]
 }

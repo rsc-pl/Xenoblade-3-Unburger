@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was helping out the procurement squad\nfrom Agnus. If you have any questions,\nfeel free to ask."
+      "<DBAF43F0>": "I'm helping the Agnus retrieval squad.\nAsk them for the details."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Stop milling around, and get yer lazy ass\nto work, now!"
+      "<DBAF43F0>": "Work properly."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, m'lady! Will do so right away, m'lady!"
+      "<DBAF43F0>": "Understood! Leave it to me!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uuurgh... Find cargo...or find food...?\nFind cargo...or find food...?"
+      "<DBAF43F0>": "Hmm... Supplies... food...\nSupplies... food..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Find food, it is. Do me a favor, and go\nfind the remaining cargo for me."
+      "<DBAF43F0>": "Ah, I'm hungry...\nI hope we find them soon..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The cheek! If ya don't go and find that\ncargo right now, ya can forget about\neating breakfast, lunch, or dinner!"
+      "<DBAF43F0>": "If you can't find the supplies,\nyou don't get to eat!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Surely you wouldn't do something so\nutterly heartless, m'lady!"
+      "<DBAF43F0>": "No! That's just cruel, milady..."
     }
   ]
 }

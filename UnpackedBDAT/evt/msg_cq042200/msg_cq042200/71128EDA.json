@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How is it?"
+      "<DBAF43F0>": "How was it?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Friend was right. Iron Giant\ncan still move."
+      "<DBAF43F0>": "Just as Taion said,\nthe power is still alive, mo."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Drive works, barely. But Riku\nthink it will run."
+      "<DBAF43F0>": "The drive system is on its last legs, but\nI think it can still operate, mo."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can you repair it?"
+      "<DBAF43F0>": "Can it be repaired?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we find several parts...then possible."
+      "<DBAF43F0>": "It's possible with a few parts, mo."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How long do you need?"
+      "<DBAF43F0>": "How long will it take?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Friend telling Riku to hurry?"
+      "<DBAF43F0>": "You're telling Riku to hurry, mo?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, mechanicist of Riku's talents\ncan do this in thirty minutes."
+      "<DBAF43F0>": "Well, with Riku's skills, it can be fixed in about 30 minutes, mo."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can we get our hands on these parts\nin time?"
+      "<DBAF43F0>": "Can we get the parts quickly?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There lots of Iron Giant and Levnis wrecks\nsprinkled about here."
+      "<DBAF43F0>": "There are many remains of Iron Giants and\nLevnisters here, mo."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Must be something Riku can use."
+      "<DBAF43F0>": "I think there are still usable ones left, mo."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood.\nStart making preparations for repairs."
+      "<DBAF43F0>": "Understood.\nRiku, please start preparing for the repairs."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's split up and search\nfor the parts we need."
+      "<DBAF43F0>": "We'll split up and gather\nthe necessary parts."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure. We'll handle it."
+      "<DBAF43F0>": "Yeah, leave it to us."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can anyone hear me?\nWe're here to help!"
+      "<DBAF43F0>": "Can anyone hear me!\nWe've come to help!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Commander! We're safe,\nno casualties here!"
+      "<DBAF43F0>": "Ah, Commander! We're safe!\nEveryone is alive!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like there weren't too many\nworking this deep inside. I'm glad\neveryone's unharmed."
+      "<DBAF43F0>": "It seems only a few were working deep inside...\nBut I am glad they are safe."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I didn't think there'd be a cave-in here,\nconsidering the geology and with this\nlevel of structural support."
+      "<DBAF43F0>": "Neither the ground nor these supports\nlooked like they would collapse."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I suppose the cave wall was weak\nenough for the monsters lurking\nthere to break through."
+      "<DBAF43F0>": "Did the lurking monsters destroy\nthe weakened rock wall and\ncome out...?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When the excavation uncovered an area\nof concentrated deposits, the monsters\nthat lived there must've sensed a chance."
+      "<DBAF43F0>": "The excavation must have connected to a place with\nhigher ether concentration, causing the monsters\nthere to start moving."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The ether find is good news, but\nfor now let's get everyone out."
+      "<DBAF43F0>": "I am pleased to find the ether,\nbut for now we must hurry with the rescue."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There might be more monsters.\nWe'd better keep an eye out."
+      "<DBAF43F0>": "There might still be monsters.\nLet's stay on our toes."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Noted."
+      "<DBAF43F0>": "Right."
     }
   ]
 }

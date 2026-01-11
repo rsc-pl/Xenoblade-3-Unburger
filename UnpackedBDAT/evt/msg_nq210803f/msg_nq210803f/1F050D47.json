@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The footsteps just...end."
+      "<DBAF43F0>": "Huh? The footprints have vanished......"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What does it mean?"
+      "<DBAF43F0>": "What does that mean?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, you lot. Can you tell me\nyour position right now?"
+      "<DBAF43F0>": "Ah, you all.\nWhere are you now?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We were following a set of footprints we\nthought might belong to the trespassers."
+      "<DBAF43F0>": "We were following the footprints of what seemed to be an intruder."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If anything, they fled to\nLow Morukuna Wildwood."
+      "<DBAF43F0>": "The intruder has likely fled to the lower layer of Morukuna Wildwood."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How do you know that?"
+      "<DBAF43F0>": "The lower layer? How did you know?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I took the Auto-Lev out and had\na gander for the engineers."
+      "<DBAF43F0>": "I moved an autonomous Levnis and had the engineering corps\ninvestigate."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You got approval for an Auto-Lev?"
+      "<DBAF43F0>": "To think you got permission for an autonomous Levnis......"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, the Auto-Lev is our pet project.\nWe don't need permission to use it.\nEr, don't tell the commander, though."
+      "<DBAF43F0>": "The autonomous Levnises are under our care,\nso we use them without permission.\nIt's a secret from the Commander."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You know he's right here, don't you?"
+      "<DBAF43F0>": "......Actually, he's here.\nThe Commander is here."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyway, if you're after the trespassers,\ntry the Low Wildwood. Good hunting!"
+      "<DBAF43F0>": "Anyway, if you're chasing the intruder,\ntry going to the lower layer. I'm counting on you."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, right - message from\nItari, before I forget."
+      "<DBAF43F0>": "Oh, and I have a message from Itari."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Analysis of the trespassers' behavior\nindicates they're probably up to something."
+      "<DBAF43F0>": "After analyzing the intruder's movements,\nit seems they were planning to set something up."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So be on your guard if it\ncomes down to a fight, OK?"
+      "<DBAF43F0>": "If it comes to a battle,\nbe careful around that area."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're really just gonna let her use\nthat thing whenever she wants?"
+      "<DBAF43F0>": "Is it really okay to use something like that without permission?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nothing to worry about. I told her\nshe doesn't need my permission."
+      "<DBAF43F0>": "It's nothing to worry about.\nI told them they didn't need to seek my judgment."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can talk later. We have to\nget to the Low Wildwood."
+      "<DBAF43F0>": "For now, let's save the chatter for later\nand go to the designated location."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh yeah, right!"
+      "<DBAF43F0>": "R-Right...... You're right!"
     }
   ]
 }

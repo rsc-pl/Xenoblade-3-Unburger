@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Captain's already briefed me. I'll give you\nthe info we collected on the monster."
+      "<DBAF43F0>": "...I've heard from the captain.\nI will report on the results of the monster investigation."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Much appreciated."
+      "<DBAF43F0>": "Yeah, please do."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a Volff, but bigger than a normal one."
+      "<DBAF43F0>": "The species is Volff.\nIt's a size larger than a normal individual..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It covers a wide territory,\nand is extremely agile."
+      "<DBAF43F0>": "It has a wide range of movement\nand is extremely agile..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We analyzed its movements, and confirmed\nPiento Basin as the site of its lair."
+      "<DBAF43F0>": "Analysis of its behavior patterns revealed\nthat it has a lair in the Piento Basin..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And that's about it."
+      "<DBAF43F0>": "...That is all."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks. That's plenty of information\nfor us to be getting on with."
+      "<DBAF43F0>": "Thank you.\nThat information is more than enough."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't let your guard down.\nWe've already lost friends to this."
+      "<DBAF43F0>": "...Don't let your guard down.\nMany of our comrades have already been taken down by it."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll take it seriously. And we'll\ndo our best to put it down."
+      "<DBAF43F0>": "Of course we'll go in at full strength.\nWe'll be sure to defeat it."
     },
     {
       "$id": 10,

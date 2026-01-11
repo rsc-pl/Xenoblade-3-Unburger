@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Gah, 'course there's monsters!"
+      "<DBAF43F0>": "[ML:line len=1 ]What the heck are these things!?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh well, then. Nothing else for it, it seems."
+      "<DBAF43F0>": "This is a pain, but it seems we have no choice but to work."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "We don't have time to burn here.\nLet's ash 'em up, yeah?"
+      "<DBAF43F0>": "We don't have time to waste.\nLet's take 'em out quick!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Manana help with fighting!"
+      "<DBAF43F0>": "[ML:line len=1 ]Manana will fight too, desu mo!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "...Huh?"
+      "<DBAF43F0>": "[ML:line len=1 ]Huh?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Meeeeeeeeeh-eh-eh!"
+      "<DBAF43F0>": "A-CHOOOOOOOOOOO, DESU MOOOOOOO!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Manana?!"
+      "<DBAF43F0>": "Manana[ML:line len=1 ]!?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Don't be so rash-!"
+      "<DBAF43F0>": "How reckless..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Manana did it!"
+      "<DBAF43F0>": "Manana did it, desu mo~~~!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh no! Manana, stop!"
+      "<DBAF43F0>": "No! Manana, stop!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Manana cannot stop pot in mid-spiiin!"
+      "<DBAF43F0>": "A pot cannot stop so suddenly, desu mooo!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Watch out!"
+      "<DBAF43F0>": "Look out!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Um, Manana? Are you OK?!"
+      "<DBAF43F0>": "Manana, are you okay..."
     }
   ]
 }

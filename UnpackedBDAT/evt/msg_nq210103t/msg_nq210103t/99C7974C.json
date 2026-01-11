@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, have you got an unapproved\nrequest knocking about?"
+      "<DBAF43F0>": "Hey, has a request from us come through to you?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A what now?\nWhat request would that be?"
+      "<DBAF43F0>": "What's this all of a sudden? A request?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a request from the manufacturing\ncorps to start work on the canteen.\nDo you remember seeing it?"
+      "<DBAF43F0>": "Has a request for the canteen construction\nfrom the production team come in?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Now you say it,\nthat does ring a bell..."
+      "<DBAF43F0>": "......Oh, that thing.\nYes, it did."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've come to get the\napproval confirmed..."
+      "<DBAF43F0>": "We've come to get your approval......"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure, I don't have any problem with it.\nI'd love the canteen to be back up and\nrunning as soon as possible."
+      "<DBAF43F0>": "I have no problem with it.\nI want the canteen set up as soon as possible, too."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But...my people are a little preoccupied\nwith something at the moment, so you\nmay have to be patient."
+      "<DBAF43F0>": "But, well... I've got people assigned to another matter,\nso it might not be possible to start right away."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And what exactly's more important\nthan having a proper canteen?"
+      "<DBAF43F0>": "More important than the canteen?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wish I knew. But that request came in\nfirst and it's all been discussed..."
+      "<DBAF43F0>": "Who knows. But that request came in first,\nso it's already been approved."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyway, you've got my approval.\nI'll send someone over on the double."
+      "<DBAF43F0>": "For now, I'll give my approval.\nIf it's top priority, I'll send people over."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks, that's great."
+      "<DBAF43F0>": "Thank you, that's a big help."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Have you been to the chief of logistics?\nYou should, if you haven't."
+      "<DBAF43F0>": "Have you spoken to the Logistics Chief?\nIf not, you should head over there."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When you get clearance from everyone,\ngo and report back to Sif."
+      "<DBAF43F0>": "If you've gotten approval from the others,\nyou should go back to Sifuu."
     }
   ]
 }

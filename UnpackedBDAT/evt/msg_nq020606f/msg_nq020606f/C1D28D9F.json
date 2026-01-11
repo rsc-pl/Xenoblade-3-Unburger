@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "You acquired a Sack of Dark Grapes."
+      "<DBAF43F0>": "You acquired a \"Sack containing Dark Grapes.\""
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Look, Mio! There's a ton of\nDark Grapes in this sack!"
+      "<DBAF43F0>": "Look, Mio-senpai!\nThere are so many Dark Grapes!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Someone clearly must have dropped it.\nIt has the Colony Gamma insignia on it."
+      "<DBAF43F0>": "This sack was clearly dropped by someone.\nIt has the Gamma mark on it too..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That sounded like a monster...!"
+      "<DBAF43F0>": "That was a monster's...!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It came from up ahead. They\nmight be attacking somebody..."
+      "<DBAF43F0>": "It came from up ahead.\nSomeone might be getting attacked..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Th-that sounds bad! Let's hurry\nand give them a hand!"
+      "<DBAF43F0>": "Th-this is terrible!\nLet's hurry and help them, Mio-senpai!"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's all the combat questions\nI've got. Let's take a quick break."
+      "<DBAF43F0>": "...That's all for the combat-related questions.\nLet's take a break."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like you're having some\ntrouble. Don't let it get you down."
+      "<DBAF43F0>": "You seemed to be having a hard time,\nbut please don't disappoint me too much."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No need to worry about me.\nMy score will show you."
+      "<DBAF43F0>": "Don't worry.\nSince I'm doing this,\nI'll be sure to get a good score."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sure. Don't look so much like you're\ngoing to skip out in the middle of the ride."
+      "<DBAF43F0>": "That would be good.\nPlease don't do anything like running away in the middle."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No fear. I'll see it through to the end."
+      "<DBAF43F0>": "Right. I'll see it through to the end."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's up next, Taion?"
+      "<DBAF43F0>": "Taion, what's next?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Next is questions related to situational\nawareness. That is vital for battle."
+      "<DBAF43F0>": "A question about the current situation.\nThis kind of knowledge is also important in battle."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Absolutely. No gaps in my knowledge."
+      "<DBAF43F0>": "You are absolutely right.\nOf course, I have not been negligent."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Maybe I'll study up just to be safe."
+      "<DBAF43F0>": "...I should probably review just in case."
     }
   ]
 }

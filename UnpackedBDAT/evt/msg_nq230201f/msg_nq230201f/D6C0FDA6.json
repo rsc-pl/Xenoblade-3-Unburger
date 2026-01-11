@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nobody here."
+      "<DBAF43F0>": "...No one's here."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is the west gate, right?\nDid we hear them wrong?"
+      "<DBAF43F0>": "This is the West Gate... right?\nDid we mishear them?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh. You guys.\nZuoren's unit headed out long ago."
+      "<DBAF43F0>": "What's up, you lot?\nTsoren's unit left a while ago."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Headed out? Where to?"
+      "<DBAF43F0>": "Left? To where?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Where do you think? Colony Lambda!\nFinally taking the fight to them... Wait.\nYou didn't know?"
+      "<DBAF43F0>": "Where else? Colony Lambda.\nThey're finally going to launch their attack...\nWait, you didn't hear?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mate, what?"
+      "<DBAF43F0>": "...What?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait, did you say they're\nhitting Colony Lambda?"
+      "<DBAF43F0>": "Hold on.\nYou're saying they're attacking Colony Lambda?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I believe I did, yeah."
+      "<DBAF43F0>": "That's what I just said, isn't it?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You what?! What the heck for?!"
+      "<DBAF43F0>": "No, no! But why?!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What, suddenly we need a reason?\nWe're soldiers, so we fight."
+      "<DBAF43F0>": "What do you mean 'why'?\nWe're soldiers, so we fight. Isn't that natural?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's not what he means!"
+      "<DBAF43F0>": "That's not what I mean...!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ugh, is there anybody in this place\nwho doesn't think violence is the\nanswer to everything, including boredom?!"
+      "<DBAF43F0>": "Ugh, is this place really filled\nwith nothing but battle-crazed maniacs?!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Complain later. We're heading\nto Lambda!"
+      "<DBAF43F0>": "We can complain later.\nWe're heading to Lambda, now!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right! We've got to stop this\nfight however we can!"
+      "<DBAF43F0>": "Right!\nWe have to stop this fight, no matter what."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ugh, we're only at the start and\nI'm already worried about the future..."
+      "<DBAF43F0>": "...Sheesh, if this is how it starts,\nI'm already worried about what's next..."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're gonna fight anyone, be quick\nabout it. I'd rather not have my life in\ndanger any longer than necessary."
+      "<DBAF43F0>": "If you're going to fight, get it over with quickly.\nI don't really want to see anything too dangerous."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We just got done talking to Shuuri for her\nside of the story. We think we might just\nhave a case for freeing her from prison."
+      "<DBAF43F0>": "I've come to talk about Shuuri.\nI was hoping we could get her out of here."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait, seriously...? We can let her go?"
+      "<DBAF43F0>": "Eeh...? Is that okay?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Considering she faced up to a great enemy\nall by herself, we think you'll see why she\ndeserves to be free."
+      "<DBAF43F0>": "She's someone who stands up to a great enemy alone,\nso I think she'll understand."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Great? As in size? You're saying she can\ngo toe-to-toe with a Levnis or something?!"
+      "<DBAF43F0>": "\"Great\"[ML:line ] What?\nIs she going to pick a fight with an Iron Giant?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We don't mean that kinda \"great\"..."
+      "<DBAF43F0>": "It's not about size..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But, like...she loves blowing stuff up, right?\nWhat if she decides to blow up the\nCastle?! It doesn't bear thinking about!"
+      "<DBAF43F0>": "But... she's the type to blow things up, right?\nI don't want the Castle to be destroyed."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Look, she had her reasons why she did\nwhat she did. Let us explain..."
+      "<DBAF43F0>": "There were circumstances.\nActually[ML:line ]"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...That's a whole lot to take in, I won't lie.\nBut, I mean, Shiki trusts you guys."
+      "<DBAF43F0>": "...It's hard to believe,\nbut, well, Shiki trusts you all."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And in either case, Shiki was the one\nwho left it up to my \"discretion\"."
+      "<DBAF43F0>": "In any case, Shiki told me\nto leave it up to you, so[ML:line ]"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And according to my \"discretion\", if you\nguys think she isn't guilty, then she sure\nain't guilty to me."
+      "<DBAF43F0>": "If you've decided, I won't say anything."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you so much."
+      "<DBAF43F0>": "Thank you, that helps."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Man. It's crazy to think that I'm actually\noutta prison now."
+      "<DBAF43F0>": "To think the day would come when I'd get out of here."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now, seeing as I was kind enough to free\nyou, promise me you won't go around\nblowing stuff up, you got that?"
+      "<DBAF43F0>": "I let you out, but\ndon't go blowing things up, you hear?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course, don't worry about it. I don't just\nblow stuff up for no reason, you know."
+      "<DBAF43F0>": "Of course.\nI wouldn't do something like that without a reason."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Oh, really now?"
+      "<DBAF43F0>": "...I wonder."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But seriously, don't go doing anything\ntoo outrageous, OK?"
+      "<DBAF43F0>": "But really, don't do anything reckless."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I know, I know.\nI owe you guys big time, after all."
+      "<DBAF43F0>": "I know.\nYou've been a great help to me, after all."
     },
     {
       "$id": 19,

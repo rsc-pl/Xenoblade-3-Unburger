@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seems usable. Let's take it."
+      "<DBAF43F0>": "This looks usable. Let's collect it."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oho! This looks like\nit's got some use left in it."
+      "<DBAF43F0>": "Oh! This looks like it can still be used."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is practically brand new. Yoink!"
+      "<DBAF43F0>": "This is still perfectly usable. I'll take it."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hm, this looks usable enough."
+      "<DBAF43F0>": "Yes, it seems this can still be fully used."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Its function appears unimpaired."
+      "<DBAF43F0>": "There seem to be no issues with its function."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yay! We can totally use this!"
+      "<DBAF43F0>": "Yes! This can still be used."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sorry, I have to\ntake this for Colony 9."
+      "<DBAF43F0>": "I'm sorry.\nI'll use this for the sake of Colony 9."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I need this to help my friends."
+      "<DBAF43F0>": "I'll be using this for my comrades."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I'll just take this."
+      "<DBAF43F0>": "...I'll take this."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I need this to help the living."
+      "<DBAF43F0>": "I'll use what was yours for the sake of the living."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is vital for us. We'll make\nsure it's put to good use."
+      "<DBAF43F0>": "Since I am taking this,\nI will be sure to put it to good use."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm so sorry. I have to take this."
+      "<DBAF43F0>": "I am sorry.\nI will be using what was yours."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, rations. Should still be edible!"
+      "<DBAF43F0>": "It's field rations.\nThis should still be edible!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sure these rations are still\ngood. Into the bag they go!"
+      "<DBAF43F0>": "These field rations are pretty good!\nAlright, collect!"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah!\nThere's some good eatin' here."
+      "<DBAF43F0>": "Oh!\nThis looks like it's still edible."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Packaging looks...fine?\nI'm sure it's still edible."
+      "<DBAF43F0>": "The packaging is... alright.\nIt should still be edible."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Doesn't seem to be damaged.\nI'll take it with me."
+      "<DBAF43F0>": "It doesn't seem to be damaged,\nso I'll collect this."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh! This looks like it's still edible!"
+      "<DBAF43F0>": "Ah...!\nThis still looks edible!"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That should be\nenough to go on."
+      "<DBAF43F0>": "Right, this much should be enough."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This should be plenty."
+      "<DBAF43F0>": "This should be enough."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This must be enough."
+      "<DBAF43F0>": "This should be about enough."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think we've found enough now."
+      "<DBAF43F0>": "Haven't we collected enough now?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we gather more than this we'll just be\ncausing logistical issues for ourselves."
+      "<DBAF43F0>": "Any more than this will be difficult to transport."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've found tons!"
+      "<DBAF43F0>": "We've collected a lot!"
     }
   ]
 }

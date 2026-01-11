@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"Monster\" is only a single word, but it\nhides a true diversity. Some you only see\nat night, others only in certain weather..."
+      "<DBAF43F0>": "There are all sorts of monsters, you know.\nFor example, some are nocturnal and don't appear in the day,\nand others are only active in specific weather[ML:line ]..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maybe this sounds like trivia to you now,\nbut in some situations, it could mean the\ndifference between life and death."
+      "<DBAF43F0>": "This kind of casual information\ncan mean the difference between life and death when it counts."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Indeed...\n\"To know your enemy is to conquer him.\"\nA maxim I have ever lived by."
+      "<DBAF43F0>": "\"To defeat the enemy, first know the enemy,\"[ML:line ] is it?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I couldn't agree more. You can't go\nwrong with a good bit of intel."
+      "<DBAF43F0>": "You're absolutely right.\nIt's best to be diligent about gathering information."
     }
   ]
 }

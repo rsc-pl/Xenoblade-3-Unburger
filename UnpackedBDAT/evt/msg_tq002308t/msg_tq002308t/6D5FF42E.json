@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You said you'd come back.\nYou liars..."
+      "<DBAF43F0>": "You said... you'd come back..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Sorry to bother you. We were hoping to\ncheck out the old battle records...?"
+      "<DBAF43F0>": "...Sorry. I'd like to check\nthe past battle records..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah! Right. Shiro-chan said to expect you!"
+      "<DBAF43F0>": "...! Shiro-san told me to expect you!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Bear with me for a moment..."
+      "<DBAF43F0>": "Please wait a moment..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Right, I've transferred you the data.\nIf you see anything interesting,\nlet me know."
+      "<DBAF43F0>": "...I've transferred the data to you.\nIf you have any questions, please let me know."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you, we will."
+      "<DBAF43F0>": "Thank you."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If this will put an end to the fighting,\nI'll spare no effort in helping."
+      "<DBAF43F0>": "If this will end the fighting,\nI'll do everything I can to help."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've always dreamt it, you know.\nBeing able to enjoy each day as it comes,\nsharing it with Shiro-chan and the others..."
+      "<DBAF43F0>": "It was my dream... a life where I could\nlive and laugh with Shiro-san and everyone..."
     }
   ]
 }

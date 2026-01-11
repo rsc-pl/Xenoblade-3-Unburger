@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We got all the things you asked for."
+      "<DBAF43F0>": "We gathered everything you asked for."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I saw the notification.\nThanks a lot."
+      "<DBAF43F0>": "Yeah, I just confirmed it.\nThank you so much."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That should be us, then. I can arrange\nthe necessary supplies now."
+      "<DBAF43F0>": "Thanks to you, Noah,\nit looks like we'll be able to prepare everything we needed."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can? Great! Then we're\nglad to have been of service."
+      "<DBAF43F0>": "I see.\nI'm glad we could help."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll be sure to repay you after the big op.\nBe sure to come back alive, eh?"
+      "<DBAF43F0>": "I'll be sure to repay you for this after the operation is over.\nSo, let's make sure we see each other again, alive."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course we will."
+      "<DBAF43F0>": "Of course."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've never used 'em before, but those\nCollectopaedia Cards sure seem nifty."
+      "<DBAF43F0>": "I've never used one before,\nbut these Collectopaedia Cards are pretty useful, aren't they?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, duh. They let you know\nwhat your fellow soldiers need,\nso everyone can chip in."
+      "<DBAF43F0>": "They're pretty convenient, since you can see\nwhat supplies your comrades need."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Give you an example. I'm always on\nthe lookout for Fourtune Clovers, right?\nBut they're a right pain to spot."
+      "<DBAF43F0>": "For example, the Fortune Clovers\nI'm gathering are a real pain\nto find, but..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So if I pop a request on my card,\nsomeone else might see it and send me\none if they find it. That's the rough idea."
+      "<DBAF43F0>": "If I register a request for them,\nsomeone who has one might just give it to me.\n...That's the gist of it!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So lemme get this right... We've got this\nwicked system at our fingertips, and you're\nusing it to dig up weeds? That's so dumb."
+      "<DBAF43F0>": "Using it to find some common weed?\nWhat a ridiculous way to use it."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You dare?!"
+      "<DBAF43F0>": "What'd you say?!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're all soldiers here. You never know\nif you'll still be here tomorrow. But still..."
+      "<DBAF43F0>": "We're soldiers,\nso we're not guaranteed to be alive tomorrow, but..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a nice feeling when someone\nyou've met remembers you, thinks\nabout your needs."
+      "<DBAF43F0>": "It's a good feeling, knowing that someone you've met\nremembers you and is looking out for you."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, it's a good system.\nWhoever made it had the right idea."
+      "<DBAF43F0>": "Yeah.\nI don't know who made it,\nbut I think it's a good system."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I bet you've been checking up on your\nColony 9 buddies every now and again\nthrough your Iris, eh?"
+      "<DBAF43F0>": "Speaking of which, you sometimes check up on\nour comrades from Colony 9 with your Iris, don't you?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Absolutely."
+      "<DBAF43F0>": "I do."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, you just be sure to check up on me\nas well, all right? Make it a daily ritual."
+      "<DBAF43F0>": "Make sure you check up on me\nevery day without fail, alright?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hahah, way ahead of you, Mwamba."
+      "<DBAF43F0>": "Haha, I do."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Would recommend to make tracks\nfor assembly point about right now."
+      "<DBAF43F0>": "Probably best to head for assembly point now-meh."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shoot, you're right."
+      "<DBAF43F0>": "Oh, you're right."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're assembling by the\nColony 9 Front Gate, right?"
+      "<DBAF43F0>": "We're assembling at the\nColony 9 Front Gate, right?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's go as soon as you're\nready to decamp."
+      "<DBAF43F0>": "Let's head out as soon as we're ready for deployment."
     }
   ]
 }

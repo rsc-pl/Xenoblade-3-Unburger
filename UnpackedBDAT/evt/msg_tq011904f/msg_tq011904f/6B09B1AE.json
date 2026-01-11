@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Robobuddy..."
+      "<DBAF43F0>": "Kopan..."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Somebody within Colony 30 has been\nsecretly misappropriating materials."
+      "<DBAF43F0>": "There's someone inside Colony 30\nembezzling materials without permission."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Misappropriating...?\nWhat're you talking about?"
+      "<DBAF43F0>": "Embezzling...? What are you talking about?"
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You said the three pillars for your new\nLevnis were durability, serviceability and\nease of use."
+      "<DBAF43F0>": "The new Levnis you're designing is based on\ndurability, serviceability, and ease of use."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However, you'll notice that the\nmaterials Robobuddy was collecting\nwere Waning Lapis and Venollium..."
+      "<DBAF43F0>": "On the other hand, the materials Kopan was collecting\nwere Waning Lapis and Venollium..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A brittle rock, and a highly scarce metal.\nWhat ought we to think about that?"
+      "<DBAF43F0>": "A brittle stone and a rare metal.\nWhat should we make of this?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, you're right...\nThis isn't what I asked for!"
+      "<DBAF43F0>": "You're right...\nThat's different from what I requested."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But hang on, Niina...\nHow did you know to check\nour Collectopaedia Cards...?"
+      "<DBAF43F0>": "But, why does Niina have\nour colony's Collectopaedia Card...?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I asked her to. I figured it might help..."
+      "<DBAF43F0>": "I told her about it.\nI thought it might be useful..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And it looks like I was right.\nDo you have any idea who\nthe culprit might be?"
+      "<DBAF43F0>": "Anyway,\ndo you have any idea who it could be?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not at all! Maybe it's all just\na big misunderstanding...?"
+      "<DBAF43F0>": "Not at all.\nMaybe it's some kind of mistake?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, Robobuddy clearly turned hostile\nand attacked us. Which is to say..."
+      "<DBAF43F0>": "No, Kopan attacked \"us\" with hostile intent.\nIn other words..."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...it must have been under the control\nof someone other than Rudi."
+      "<DBAF43F0>": "...it was under the control\nof someone other than Rudi."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But what were they after...?"
+      "<DBAF43F0>": "But for what purpose...?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Might it have been to make a poison?"
+      "<DBAF43F0>": "...Perhaps to make a poison?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Poison?!"
+      "<DBAF43F0>": "Poison!?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, both of those materials contain\ncertain toxic compounds."
+      "<DBAF43F0>": "Yes. Both materials\ncontain a certain toxin."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of particular note is the lack of identifiable\nscent or flavor. When mixed in with food,\nthey are nearly unnoticeable."
+      "<DBAF43F0>": "Its key characteristic is that it has no taste or smell.\nIf mixed with food, you'd likely never notice."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, someone's well-read."
+      "<DBAF43F0>": "...You're awfully well-informed."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Our Consul had some shady hobbies,\nand he liked to talk."
+      "<DBAF43F0>": "It was a hobby of my Consul-sama.\nHe beat all sorts of things into me."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So...\nWhat would happen if you swallowed it?"
+      "<DBAF43F0>": "So... what happens if you drink it?"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Depending on the concentration..."
+      "<DBAF43F0>": "It would depend on the concentration, but..."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Dizziness, numbness, diarrhea, emesis...\nAnd in more severe cases..."
+      "<DBAF43F0>": "Dizziness, numbness, vomiting and diarrhea...\nIn more severe cases..."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeeeeeuughh,\nenough, enough!"
+      "<DBAF43F0>": "Ewww!\nThat's enough, that's enough!"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Oh, fantastic.\nI managed to retrieve the logs."
+      "<DBAF43F0>": "...Good.\nIt looks like I can somehow retrieve the logs."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we analyze them, we should be able\nto figure out where it came from...\nIs that OK...?"
+      "<DBAF43F0>": "If we analyze them, we should be able to\nfigure out where it came from, but..."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A-OK by me! We gotta stop the baddies!"
+      "<DBAF43F0>": "It's okay with me.\nRight now, we need to find the bad guy."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...All right, then.\nSorry to use your friend like this."
+      "<DBAF43F0>": "...I'm sorry, for using your friend."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like the friendship part\nmight've all been in my head..."
+      "<DBAF43F0>": "It seems it was just pretend, though."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But thanks for thinking of it\nthat way, anyway."
+      "<DBAF43F0>": "But, thank you for\nthinking of it that way."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Honestly, such carelessness..."
+      "<DBAF43F0>": "Honestly, so careless..."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Niina...\nYou've been looking sad all this time."
+      "<DBAF43F0>": "Niina... you've looked sad this whole time."
     },
     {
       "$id": 35,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is something the matter?\nAnything we could help with?"
+      "<DBAF43F0>": "There's a reason, isn't there?\nIs there anything we can do to help?"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm... I'm used to all this...\nand I hate it."
+      "<DBAF43F0>": "...You already are.\nThat's why I'm troubled."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Niina? Did you hear me?"
+      "<DBAF43F0>": "Niina?"
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's nothing. You don't have to worry."
+      "<DBAF43F0>": "It's nothing. Don't worry about it."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...All right, analysis is complete.\nYou can unpack the data whenever."
+      "<DBAF43F0>": "...Analysis complete.\nReady for deployment at any time."
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good job, Gaku.\nWhy don't you wait here?"
+      "<DBAF43F0>": "Good work.\nYou wait here."
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Commander.\nI trust I can leave my man with you?"
+      "<DBAF43F0>": "Commander, can I entrust Gaku to you?"
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? I thought I'd be going with you!"
+      "<DBAF43F0>": "Huh? I was going to go with every—"
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There may be other machines\nlike Robobuddy."
+      "<DBAF43F0>": "There might be other units\nlike Kopan."
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're the only one who can tell\nthem apart. Let's tackle both threads\nsimultaneously."
+      "<DBAF43F0>": "You're the only one who can identify them.\nLet's split into two groups here."
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Yeah, OK."
+      "<DBAF43F0>": "...Oh, you're right."
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll stay in the colony this time, then.\nGive Robobuddy's boss my regards."
+      "<DBAF43F0>": "I'll stay at the colony this time.\nGive my regards to Kopan's boss."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yuzet! What happened?"
+      "<DBAF43F0>": "Yuzet!\nWhat happened?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Was standing one minute and\nthen flop onto ground!"
+      "<DBAF43F0>": "He suddenly collapsed with a thud, mo."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What?!"
+      "<DBAF43F0>": "What!?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're overreacting, don't you think?\nI'm just exhausted, that's all."
+      "<DBAF43F0>": "You're making too big a deal out of this.\nIt's just overwork."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've been pushing yourself too hard?"
+      "<DBAF43F0>": "That means\nyou've been pushing yourself too hard."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Workload's pretty intense right now."
+      "<DBAF43F0>": "I've got a mountain of things to do."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've got to do my part to keep\nthe colony running."
+      "<DBAF43F0>": "To make the colony self-sufficient,\nI have to do this much."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is it really that bad...?"
+      "<DBAF43F0>": "...Is it really that tough?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We used to get support based on how well\nthe Levnis squadrons performed in battle."
+      "<DBAF43F0>": "Our colony was basically sustained\nby the performance of our Levnis squadrons."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Castle provided for us, so now\nwe have to work like a bastard to\nmake up the shortfall."
+      "<DBAF43F0>": "Since we relied on supplies from the Castle,\nthe backlash is huge."
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Didn't think I needed to. I thought I could\nmanage well enough by myself."
+      "<DBAF43F0>": "I didn't think it was necessary.\nI can manage on my own."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now that stink of untruth."
+      "<DBAF43F0>": "...That's just a pretext, mo."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yuzet working hard for Rudi.\nDid not want sympathy vote."
+      "<DBAF43F0>": "He was trying hard for Rudi's sake, mo.\nIt's pitiful to bully him too much, mo."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey!"
+      "<DBAF43F0>": "You...!"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yuzet want to act dependable to get on\ngood side of Rudi. Tried hard not to show\nweakness."
+      "<DBAF43F0>": "Yuzet wants to be Rudi's big brother, mo.\nThat's why he doesn't want to show his weak side, mo."
     },
     {
       "$id": 17,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...What does it matter? Fact is,\nI can't be lying down on the job."
+      "<DBAF43F0>": "...Anyway.\nI can't just lie here like this."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Look, we get that you're under\na lot of pressure. What is it that\nneeds doing anyhow?"
+      "<DBAF43F0>": "I get the situation, but\nwhat were you trying to do in the first place?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Dispatching of Levnises to Colony Lambda."
+      "<DBAF43F0>": "Dispatching a Levnis\nto Colony Lambda, mo."
     },
     {
       "$id": 21,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So you're lending out Kevesi Levnises\nto Agnus?"
+      "<DBAF43F0>": "You're lending a Kevesi Levnis\nto Agnus?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's right. Even after they've served their\npurpose in battle, the Levnises themselves\ncan still function."
+      "<DBAF43F0>": "Yeah. Even if its role on the battlefield is over,\nthe Levnis itself can still move."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wanted to get as much use\nout of them as I could."
+      "<DBAF43F0>": "I wanted to get some use out of it."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So he say, but now look\nat sorry state of him!"
+      "<DBAF43F0>": "So he says, but look\nat the state he's in, mo."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Repapa also been showing Yuzet\nropes as little side project."
+      "<DBAF43F0>": "Repapa was also helping him out\nin between his work, mo."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, you were teaching me?"
+      "<DBAF43F0>": "The way you say that..."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let me help! I'd love to!"
+      "<DBAF43F0>": "Me too! I want to do what I can, too!"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Come on, give me a job to do!"
+      "<DBAF43F0>": "Yuzet, give me a job!"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh?"
+      "<DBAF43F0>": "Huh...?"
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uhh, well, if you're asking..."
+      "<DBAF43F0>": "Right..."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How about handling the Levnis shipment\nI was talking about?"
+      "<DBAF43F0>": "Then, could I ask you to handle the\nLevnis dispatch I just mentioned?"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Once you get them there, it's just a matter\nof delivering them to the commander."
+      "<DBAF43F0>": "All that's left is to hand it over\nto their commander."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure thing. I can do that!"
+      "<DBAF43F0>": "Got it, leave it to me!"
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Incidentally..."
+      "<DBAF43F0>": "By the way..."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What need does Commander Isurugi have\nwith Kevesi Levnises?"
+      "<DBAF43F0>": "Why does Commander Isurugi\nneed a Kevesi Levnis?"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm not a hundred percent on the\ndetails, but he wants them for some\nkind of survey."
+      "<DBAF43F0>": "I haven't heard the details, but apparently\nhe's using it for some kind of survey."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Levnises to scout something out?\nI wonder what's going on at Lambda..."
+      "<DBAF43F0>": "A survey that requires a Levnis...\nDid something happen at Lambda?"
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No point speculating when we can just\ncheck it out ourselves."
+      "<DBAF43F0>": "It's faster to act than to think."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right?"
+      "<DBAF43F0>": "...Right?"
     },
     {
       "$id": 41,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Be thorough, yeah?\nOh, but uh...don't push it too hard."
+      "<DBAF43F0>": "Do a good job.\nAnd... don't overdo it."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, we'll be fine. You just take a lie-down\nand make sure you're all rested up."
+      "<DBAF43F0>": "I'll be fine!\nYou should get some proper rest, Yuzet."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So then. Off to Colony Lambda we go!"
+      "<DBAF43F0>": "Well then, we're off\nto Colony Lambda!"
     }
   ]
 }

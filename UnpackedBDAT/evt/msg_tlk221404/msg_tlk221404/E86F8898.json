@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Agnus Castle is liberated...? Huh?"
+      "<DBAF43F0>": "You liberated Agnus Castle!?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Does that mean we won't be fighting with\nthe Agnian army as much any more?"
+      "<DBAF43F0>": "...Does that mean\nthere will be fewer battles with the Agnus army?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But that's an improvement, right? I mean,\nless war... That's a good thing, no?"
+      "<DBAF43F0>": "Isn't that great?\nThe war is winding down."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, without war, our role as pilots will\npretty much vanish. And there isn't really\nmuch else that I can do."
+      "<DBAF43F0>": "If the war ends,\nour role as pilots will be gone.\nI wanted to go out in a blaze of glory if I could..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, don't say stuff like that.\nThat's loser talk!"
+      "<DBAF43F0>": "Don't say things like that..."
     }
   ]
 }

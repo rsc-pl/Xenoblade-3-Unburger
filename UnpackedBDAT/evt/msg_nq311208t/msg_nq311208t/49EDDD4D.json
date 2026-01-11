@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Friends find all Origin shard?"
+      "<DBAF43F0>": "Have you gathered the Origin Shards mo?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Whose Blade should he strengthen?"
+      "<DBAF43F0>": "Whose Blade will you strengthen?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Noah's"
+      "<DBAF43F0>": "Noah"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Mio's"
+      "<DBAF43F0>": "Mio"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Lanz's"
+      "<DBAF43F0>": "Lanz"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Sena's"
+      "<DBAF43F0>": "Sena"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Eunie's"
+      "<DBAF43F0>": "Eunie"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Taion's"
+      "<DBAF43F0>": "Taion"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then Blade of Noah will be stronger!"
+      "<DBAF43F0>": "Mo mo.\nYou will strengthen Noah's Blade mo?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Samon start work straight away!"
+      "<DBAF43F0>": "I will begin at once mo!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Blade of Noah is better than new!"
+      "<DBAF43F0>": "Noah's Blade has already been strengthened mo."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can Samon do anything else?"
+      "<DBAF43F0>": "Choose another mo."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then Blade of Mio will be stronger!"
+      "<DBAF43F0>": "Mo mo.\nYou will strengthen Mio's Blade mo?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Blade of Mio is better than new!"
+      "<DBAF43F0>": "Mio's Blade has already been strengthened mo."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then Blade of Lanz will be stronger!"
+      "<DBAF43F0>": "Mo mo.\nYou will strengthen Lanz's Blade mo?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Blade of Lanz is better than new!"
+      "<DBAF43F0>": "Lanz's Blade has already been strengthened mo."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then Blade of Sena will be stronger!"
+      "<DBAF43F0>": "Mo mo.\nYou will strengthen Sena's Blade mo?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Blade of Sena is better than new!"
+      "<DBAF43F0>": "Sena's Blade has already been strengthened mo."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then Blade of Eunie will be stronger!"
+      "<DBAF43F0>": "Mo mo.\nYou will strengthen Eunie's Blade mo?"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Blade of Eunie is better than new!"
+      "<DBAF43F0>": "Eunie's Blade has already been strengthened mo."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then Blade of Taion will be stronger!"
+      "<DBAF43F0>": "Mo mo.\nYou will strengthen Taion's Blade mo?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Blade of Taion is better than new!"
+      "<DBAF43F0>": "Taion's Blade has already been strengthened mo."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Samon require many-many Origin shard\nto make Blade stronger..."
+      "<DBAF43F0>": "To strengthen the Blade,\nmany Origin Shards are needed mo."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There Origin shard scatter all over Aionios."
+      "<DBAF43F0>": "Origin Shards are\nscattered across Aionios mo."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They too small for radar of Samon to find.\nFriends have to search by friends' own, in\nevery tiny corner!"
+      "<DBAF43F0>": "Unfortunately, they are too small for\nSamon's radar to find, so\nyou must search for them thoroughly mo."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sometimes monster carry them.\nProbably big monster give nice\nsurprise when friends whack it!"
+      "<DBAF43F0>": "It seems monsters have sometimes held them mo.\nIt might be a good idea to try defeating\nstrong ones mo……!"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Don't strengthen"
+      "<DBAF43F0>": "Do not strengthen"
     }
   ]
 }

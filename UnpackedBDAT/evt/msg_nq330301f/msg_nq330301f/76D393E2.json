@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, hello. What's going on, everyone?"
+      "<DBAF43F0>": "Oh?\nWhat's wrong, everyone?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's what we wanted to ask you!"
+      "<DBAF43F0>": "That's what we wanted to ask you."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By the sound of that message you sent,\nwe thought you might need urgent\nassistance or something..."
+      "<DBAF43F0>": "That communication... we thought you\nwere calling for help."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oooh, that! Well, we do need help,\nbut I feel you might've misunderstood!"
+      "<DBAF43F0>": "Oh...! Well, we were, but we weren't!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Actually, we..."
+      "<DBAF43F0>": "The thing is..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What the?!"
+      "<DBAF43F0>": "Whoa!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Where did this fella come from...?!"
+      "<DBAF43F0>": "Where did this thing come from...?!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, I'm sorry!"
+      "<DBAF43F0>": "Sorry, sorry!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This chunker is quite the rascal!\nThough I think it's just trying to be playful..."
+      "<DBAF43F0>": "This one's a little mischievous!\nI think it just means to play, but..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, you found it! What a relief!"
+      "<DBAF43F0>": "You found it! Thank goodness!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Is anyone going to clue us in...?"
+      "<DBAF43F0>": "...I'm not following the situation..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So the truth is...we were talking\nabout trying to raise Armus!"
+      "<DBAF43F0>": "The truth is... we were talking about\ntrying to raise Armu!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Armu milk is so tasty, and there's so many\nof them roaming around here anyway!"
+      "<DBAF43F0>": "Armu milk is delicious, and there are\na lot of Armu around here!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Well, that was our reasoning, but..."
+      "<DBAF43F0>": "...That's what we thought, but..."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...they're actually quite a handful!\nThey keep trying to run away!"
+      "<DBAF43F0>": "it turns out they're a handful! They keep escaping!"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This one went missing a short while ago,\nwhich is why I called you in a panic..."
+      "<DBAF43F0>": "This one was gone before I knew it...\nIn a panic, I accidentally sent a communication to you all..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Right."
+      "<DBAF43F0>": "...So that's what happened."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So sorry to alarm you!"
+      "<DBAF43F0>": "Sorry to have caused such a fuss!"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Phew... I'm so glad it wasn't serious..."
+      "<DBAF43F0>": "Thank goodness... It was nothing serious..."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This the last one!"
+      "<DBAF43F0>": "This is the last one, mo!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you, Goo! You're a lifesaver!"
+      "<DBAF43F0>": "Thanks, Guu-chan! You're a lifesaver!"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Even Guuguu is helping you?"
+      "<DBAF43F0>": "So Guuguu is helping out, too."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It come wandering in flower patch.\nThere big trouble if it eat flowers\nGuuguu painstakingly grow!"
+      "<DBAF43F0>": "It came into the flowerbed, mo.\nIt would be trouble if it ate the flowers, mo!"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We have to come up with something so we\ndon't have to chase them every day."
+      "<DBAF43F0>": "It looks like we'll have to figure something out.\nChasing them every time is a pain."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Why not use fences to build pen?\nThey maybe feel more calm if feel\nsafe, or so Guuguu heard."
+      "<DBAF43F0>": "You should enclose them with a fence, mo.\nI heard they feel safer when they're protected, mo."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, of course! A pen!"
+      "<DBAF43F0>": "I see, a fence!"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You think Nico will give us materials...?"
+      "<DBAF43F0>": "I wonder if Nico-chan will give us the materials."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think so! Let's ask Tallow and the rest\nto help, too!"
+      "<DBAF43F0>": "Probably! I'll go call Tallow\nand the others, too!"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I won't be able to carry it all on my own.\nTsumugi, can you take care of the Armus?"
+      "<DBAF43F0>": "I can't carry them all by myself.\nTsumugi, please look after these ones!"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You sound like you know what you're\ntalking about. Where did you learn\nabout Armus?"
+      "<DBAF43F0>": "You're very knowledgeable.\nDo you know a lot about Armu?"
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Guuguu think, just read in book\nsomewhere. Though not sure of\nany more details than that..."
+      "<DBAF43F0>": "I feel like I saw it in a book somewhere, mo.\nBut I forgot where I saw it, mo..."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is there a textbook or something\nabout them?"
+      "<DBAF43F0>": "So there's some kind of manual for them?"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If it doesn't ring a bell with you, Eunie,\nthen it probably isn't in any Kevesi text."
+      "<DBAF43F0>": "...If Eunie doesn't know of it, then it's likely\nnot a Kevesi manual."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Then I guess it's not in any\nAgnian manuals either?"
+      "<DBAF43F0>": "...Which means it's probably not\nan Agnian one, either."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "At least not as far as I know. This is\nthe first I've heard of purposefully\nkeeping Armus on colony grounds."
+      "<DBAF43F0>": "As far as I know, yes. This is the first I've ever\nheard of the usefulness of Armu as a concept."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If neither of you know anything...then maybe\nthe City might have the information we need?"
+      "<DBAF43F0>": "The only other possibility would be...\nthe City, perhaps?"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's go and look into it."
+      "<DBAF43F0>": "Let's go look."
     }
   ]
 }

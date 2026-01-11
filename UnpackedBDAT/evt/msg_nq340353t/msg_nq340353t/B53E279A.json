@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Everything's squared away from my side,\nbut the ship still isn't ready to leave."
+      "<DBAF43F0>": "Our preparations here are almost done,\nbut they say the ship can't depart yet."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nothing I can do but wait, I suppose..."
+      "<DBAF43F0>": "Unfortunately, we're stuck waiting."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think we should be good to go if\nwe had another ten ether cylinders."
+      "<DBAF43F0>": "If we had ten more ether cylinders,\nwe could probably set sail."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Give Dana the ether cylinders?"
+      "<DBAF43F0>": "Give the ether cylinders to Dana?"
     },
     {
       "$id": 5,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I did my bit over here.\nNo worries, I'm happy\nto wait."
+      "<DBAF43F0>": "Our preparations here are done,\nso I'll just wait patiently."
     }
   ]
 }

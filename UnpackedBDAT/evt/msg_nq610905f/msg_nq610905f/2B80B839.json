@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's enough! Please,\nput away your weapons."
+      "<DBAF43F0>": "That's enough!\nPlease cease combat."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My word... (huff) Well done, Young Master...!\nWe have been well and truly bested..."
+      "<DBAF43F0>": "As-As expected of Matthew-dono...!\nI am defeated...!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yowch... You lot sure know\nwhat you're doing..."
+      "<DBAF43F0>": "Ouch, you're strong after all."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Ow."
+      "<DBAF43F0>": "........."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You guys did a good job.\nYou keep up with that training and you'll\ncome into your own soon enough."
+      "<DBAF43F0>": "You all fought well.\nIf you continue to train like this,\nyou'll become proficient in no time."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Words of praise from the Young Master's lips!\nNow I can die happy...!"
+      "<DBAF43F0>": "To-To receive such a guarantee\nfrom Matthew-dono...!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's it for today's training.\nRecruits - dismissed!"
+      "<DBAF43F0>": "That's all for today's training.\nThat is all, dismissed!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heartfelt thanks for your instruction!"
+      "<DBAF43F0>": "Thank you for your guidance!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good job, guys."
+      "<DBAF43F0>": "Good work, everyone~"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Lui. You stay."
+      "<DBAF43F0>": "Lui, you stay."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Urk!"
+      "<DBAF43F0>": "...!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You're hurt, aren't you, Lui?"
+      "<DBAF43F0>": "...Lui,\nyou're injured, aren't you?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And not from the mock battle.\nBefore that. You can't hide it from me."
+      "<DBAF43F0>": "And it was from before the mock battle.\nI can tell even if you hide it."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Uh."
+      "<DBAF43F0>": "........."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yesterday's training, I'd wager...\nWhy did you keep mum?"
+      "<DBAF43F0>": "During yesterday's training, then...\nWhy did you keep quiet?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...W-well..."
+      "<DBAF43F0>": "Th-That's because..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I don't want the others to think\nI'm holding them back."
+      "<DBAF43F0>": "I didn't want to be thought of\nas a burden..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I understand the feeling of wanting to\ndo everything you can, even at the cost\nof aggravating your injuries."
+      "<DBAF43F0>": "I understand the feeling of\nwanting to push yourself\neven if it means overdoing it."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's why I didn't stop the fight.\nBut this is the last time I'll overlook this\nkind of recklessness from you. Clear?"
+      "<DBAF43F0>": "That's why I didn't stop the mock battle earlier.\nBut I can't overlook this any further.\n...You understand?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...My apologies, Ma'am."
+      "<DBAF43F0>": "...I'm sorry."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And just so we're crystal, it's got nothing\nto do with being a Citizen or a Liberator."
+      "<DBAF43F0>": "Listen, it doesn't matter if you're\nfrom the City or a Liberator."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're fighting with us, you're a friend.\nI hope you can remember that."
+      "<DBAF43F0>": "You're a comrade who will fight alongside us from now on.\nJust remember that."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I will."
+      "<DBAF43F0>": "...Yes."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, um, and...thank you.\nIt's not every day someone\ncalls me their friend."
+      "<DBAF43F0>": "Um... thank you.\nFor calling me a comrade."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Kagiroi, could I trouble you\nfor some healing?"
+      "<DBAF43F0>": "Kagiroi,\ncan I ask you to heal her?"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Panacea's parents were caring to a fault,\nand beloved by many."
+      "<DBAF43F0>": "Panacea's parents were very caring,\nand they were loved by many people."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's cool... So she gets that from\nemulating her old folks, eh...?"
+      "<DBAF43F0>": "I see.\nSo her caring nature is\ninherited from her parents."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She can seem intimidating at first, but\nshe's very empathetic to those around her.\nThat, and she makes a terrific leader."
+      "<DBAF43F0>": "She may seem that way, but Panacea is\nvery attentive to changes in her surroundings.\nAnd she has leadership skills too."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She may one day lead the Liberators\nherself, if the occasion calls for it..."
+      "<DBAF43F0>": "Eventually, the Liberators will be\nled by her.\nWhen that time comes..."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If that time comes,\nI hope you'll support her\nin my stead, Matthew."
+      "<DBAF43F0>": "Matthew, could you help Panacea\nin my place?"
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uh, Shulk, you wanna cut it out\nwith the ominous remarks?"
+      "<DBAF43F0>": "Hey, Shulk...\nDon't say such ominous things."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just know that I'll be counting on you."
+      "<DBAF43F0>": "Please."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Yeah, OK, go on then.\n*If* that time comes."
+      "<DBAF43F0>": "...All right.\nWhen that time comes."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, Camilla, we have supplies\nthat Colony 9 can use."
+      "<DBAF43F0>": "Camilla,\nplease use these supplies for Colony 9."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wow, there's so much!\nThank you!"
+      "<DBAF43F0>": "So much...! Thank you."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did you find this? This is great."
+      "<DBAF43F0>": "You found this, Noah?\nThis is a great help."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Must have been hard to get hold of."
+      "<DBAF43F0>": "Wasn't it hard to collect?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We had a little disagreement\nwith Eastman over it."
+      "<DBAF43F0>": "We just had a small disagreement with Eastman."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, him. He's not a bad guy, you know."
+      "<DBAF43F0>": "Ah, that person...\nI don't think he's a bad person, though."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyway, thanks again!"
+      "<DBAF43F0>": "Um...\nAnyway, thank you very much!"
     }
   ]
 }

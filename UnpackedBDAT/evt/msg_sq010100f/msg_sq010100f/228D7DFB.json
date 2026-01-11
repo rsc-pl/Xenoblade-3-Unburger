@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, isn't that..."
+      "<DBAF43F0>": "Isn't that..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A Nopon caravan, yeah.\nWonder what they're doing here..."
+      "<DBAF43F0>": "A Nopon caravan?\nWhat are they doing in a place like this?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey there, friends.\nIf you're not going up yourselves,\nmind at least letting us pass?"
+      "<DBAF43F0>": "Hey, you.\nIf you're not planning on going up,\ncould you let us through?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meh-meh! Jilljill also want\nnothing more than go upward!"
+      "<DBAF43F0>": "Meh-meh!\nShillshill feels the same way, meh!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But take look!"
+      "<DBAF43F0>": "Take a look, meh!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Elevator stopped at very top stop!\nJilljill been pressing button until wing hurt,\nbut machine still not dignify with response!"
+      "<DBAF43F0>": "The elevator is stuck at the top, meh!\nI push the button, but it won't make a peep, meh!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ugh, seriously? Great timing."
+      "<DBAF43F0>": "Hey, you've got to be kidding...\nWhat terrible timing."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tell me, have you seen an Agnian soldier\npass through here?"
+      "<DBAF43F0>": "You two, did you happen to see\nan Agnian soldier around here?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Jilljill did not, but Jilljill did also\npretty much just arrive here."
+      "<DBAF43F0>": "Haven't seen one, meh.\nShillshill just got here too, meh."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In which case... The elevator may have\nbroken down just after Kagiroi took it."
+      "<DBAF43F0>": "In that case...\nIt's possible it broke down right after\nKagiroi used the elevator."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just what we needed...\nWell, it does look pretty ramshackle.\nGuess it was a matter of time."
+      "<DBAF43F0>": "Tch, so that's it.\nIt looks pretty run-down, so I guess it was bound to happen."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Erm, excuse me..."
+      "<DBAF43F0>": "Um..."
     },
     {
       "$id": 13,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Could I take a look at the elevator?"
+      "<DBAF43F0>": "May I take a look at the elevator?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, sure. Knock yourself out."
+      "<DBAF43F0>": "Sure... I don't mind."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Right, as I suspected. It's blown a fuse,\nso the motor isn't working."
+      "<DBAF43F0>": "...Yes, just as I thought.\nThe fuse has blown, so the power isn't working."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And the cable's melted through\nfrom years of poor upkeep. But if\nI could just fix those things..."
+      "<DBAF43F0>": "The cable is also\nburnt out due to age.\nBut if I can just repair this part..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I, er... I think I can make it run again."
+      "<DBAF43F0>": "Um...\nI think I might be able to fix it."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No fibsies? Wow, this lucky day of Jilljill!"
+      "<DBAF43F0>": "Really, meh?!\nThat's very lucky, meh!"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We-hell, you some kinda machine whiz, kid?"
+      "<DBAF43F0>": "Oh?\nAre you good with machines?"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, um... Yes. Kind of."
+      "<DBAF43F0>": "Ah, yes... I suppose so."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How long would you estimate\nthe repairs will take you?"
+      "<DBAF43F0>": "How long will the repairs take?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The repairs would be pretty much\ninstantaneous, but first I'll need to\nget my hands on the parts..."
+      "<DBAF43F0>": "The repair itself can be done quickly.\nHowever, I need to procure the parts first..."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Any ideas on that front?"
+      "<DBAF43F0>": "Do you have a lead?"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "First... I think I'd like to go back and\nsalvage some usable bits from one of\nthe Iron Giants."
+      "<DBAF43F0>": "First... I'll head back for a moment and\nrecover usable parts from the Iron Giant."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Iron Giants? Oh, you mean\nthose ones we wrecked earlier?"
+      "<DBAF43F0>": "Iron Giant...?\nYou mean the one we destroyed?"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes. The machinery's stopped,\nbut they weren't in too bad a state.\nI think something there will serve."
+      "<DBAF43F0>": "Yes. Its functions have stopped,\nbut it wasn't in terrible condition,\nso I think it will be okay."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I could also use a few Warning Lamps,\nbut they're relatively easy to find so we\ncan go and look for that afterwards."
+      "<DBAF43F0>": "I also need Warning Lamps,\nbut those are relatively easy to obtain,\nso I'll go look for them later."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hm. Well, seems we have our itinerary\nfor the present moment."
+      "<DBAF43F0>": "I see. Our course of action is decided for now."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah. First on the agenda, check out\nthe Iron Giants for usable widgets!"
+      "<DBAF43F0>": "Yeah. Let's head back to the Iron Giant's location\nand search for those usable parts."
     }
   ]
 }

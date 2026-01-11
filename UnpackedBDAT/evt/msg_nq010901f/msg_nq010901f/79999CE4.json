@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? What are you doing here?"
+      "<DBAF43F0>": "What? Why are you here?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We heard that you've been away\nfrom the colony for a while\nso we came to look for you."
+      "<DBAF43F0>": "We heard you hadn't returned to the colony,\nso we came to look for you."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What did you come all the\nway out here alone for?"
+      "<DBAF43F0>": "Why did you come all the way out here alone..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A Nopon Caravan told me that there's\na good place to grow plants around here."
+      "<DBAF43F0>": "I heard from a Nopon in the caravan\nthat there's good land where\nplants grow well."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I thought I could take a load of\nthe soil and bring it back to\nfertilize the fields in Colony 9."
+      "<DBAF43F0>": "I thought if I brought back a lot of that soil,\nthe fields in Colony 9 might get even better."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But now I'm finally here,\nready to bring back the soil..."
+      "<DBAF43F0>": "But...\nwhen I finally arrived\nand tried to take the soil back..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was tired from the long\njourney, and I made a\nmistake with the controls..."
+      "<DBAF43F0>": "I must have been tired from the long journey,\nand I made a careless mistake with the controls..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, looks that way."
+      "<DBAF43F0>": "I see."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As if Riku have choice."
+      "<DBAF43F0>": "It cannot be helped, mo."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh!"
+      "<DBAF43F0>": "...!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Someone's there.\nI can hear footsteps."
+      "<DBAF43F0>": "Someone's here.\nI hear a lot of footsteps."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The voices came from this way."
+      "<DBAF43F0>": "I heard voices from over here."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, it's you."
+      "<DBAF43F0>": "Oh!\nIt was you guys."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just give us a heart\nattack, why don't you!"
+      "<DBAF43F0>": "Don't startle us like that."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait."
+      "<DBAF43F0>": "Wha..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mwamba? It can't be you..."
+      "<DBAF43F0>": "No way... Mwamba...?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're alive?"
+      "<DBAF43F0>": "You're alive?\nBut..."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eilis, the thing is..."
+      "<DBAF43F0>": "Eilis, he's..."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can't believe something\nlike that could happen."
+      "<DBAF43F0>": "...I can't believe something like that happened."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's weird to think that the Mwamba\nstanding here isn't the Mwamba I knew."
+      "<DBAF43F0>": "It's strange to see a Mwamba before me\nwho doesn't know me."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But I'm glad I got\nto meet him again."
+      "<DBAF43F0>": "But...\nI'm glad I could meet him again."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eilis! Our resident furball says we need to\nswap out some parts, but it should be fine!"
+      "<DBAF43F0>": "Eilis!\nHe says it'll be fine\nif we replace the parts!"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Levnis we came in is nearby."
+      "<DBAF43F0>": "The Levnis we came in\nis a short distance away."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We should have spare parts to give you."
+      "<DBAF43F0>": "We'll swap in the spare parts for you."
     },
     {
       "$id": 27,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So why did you come here?"
+      "<DBAF43F0>": "By the way,\nwhy did you all come here?"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hope's Rest is rich in resources\nso we came looking to see\nwhat we could find."
+      "<DBAF43F0>": "Hope's Rest is rich in resources,\nso we came to find things we could use."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The City's full of people who\ngot out of prison, like me."
+      "<DBAF43F0>": "Right now, there are a lot of people like me\nwho've returned from the prison in the City."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And that big a surge in\npopulation isn't easy to cope with."
+      "<DBAF43F0>": "The sudden increase in numbers has made things difficult."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then let me help you out\nin return for fixing this up."
+      "<DBAF43F0>": "Then,\nin exchange for fixing this,\nI'll help you too."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're game too."
+      "<DBAF43F0>": "Us too."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That would be great!"
+      "<DBAF43F0>": "That would be a great help!"
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, so what we need from you is\nStavepetals, Titanic Bee Hives\nand Sodie Stones."
+      "<DBAF43F0>": "In that case, could you all gather\nStavepetals, Titanic Bee Hives,\nand Sodie Stones?"
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you could get ten each of those,\nwe'd be set. Think you can manage that?"
+      "<DBAF43F0>": "Ten of each, please."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We sure can!"
+      "<DBAF43F0>": "Leave it to us!"
     }
   ]
 }

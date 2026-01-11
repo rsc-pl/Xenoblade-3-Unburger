@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yes, amount this size may just suffice."
+      "<DBAF43F0>": "Hmm, this should be enough, ja mo."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "What is purpose of use?"
+      "<DBAF43F0>": "What are you going to use it for, desu mo?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Cooking of Manana...\nProblem is that it lack tools, technique and soul."
+      "<DBAF43F0>": "Your cooking lacks tools,\ntechnique, and soul, ja mo."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Now even more things missing!"
+      "<DBAF43F0>": "More things are lacking now, desu mo."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "To get best out of ingredients, must use condiments."
+      "<DBAF43F0>": "Just as you use seasonings to bring out the best in ingredients,"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "And to get best from technique, need special something."
+      "<DBAF43F0>": "there are things needed to bring out the best in technique, ja mo."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Can teach special something?"
+      "<DBAF43F0>": "Will you teach me, desu mo?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "That question.\nWait here for tick."
+      "<DBAF43F0>": "That's right, ja mo.\nJust wait a moment, ja mo."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "(yawn)"
+      "<DBAF43F0>": "[ML:undisp ]*yawn*..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Just how long this going to take?\nMaybe he steal away goods and scarper with?"
+      "<DBAF43F0>": "Just how long is this going to take, mo?\nHe didn't run off with them, did he, mo?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Who steal away and scarper with?"
+      "<DBAF43F0>": "Who would run off, ja mo."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I upstanding Nopon with spotless reputation."
+      "<DBAF43F0>": "I live by duty and Nopon spirit, ja mo."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Manana thought Tanzoo disappear for good."
+      "<DBAF43F0>": "I was starting to think you might not come back, desu mo..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "When old like me you understand value of nap.\nStay up all night is out of question."
+      "<DBAF43F0>": "When you get old, you can't fight sleepiness, ja mo.\nStaying up all night is out of the question, ja mo."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "So Tanzoo just...went away for taking nap?"
+      "<DBAF43F0>": "Could it be that it took a while because you were sleeping, mo?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "That right."
+      "<DBAF43F0>": "That's right, ja mo."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Nap has reveal wisdom to Tanzoo."
+      "<DBAF43F0>": "And thanks to that, I made something good, ja mo."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oho! What this?!"
+      "<DBAF43F0>": "Momo!? What is this!?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "It a pot."
+      "<DBAF43F0>": "A pot, ja mo."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "But Manana have one of those too."
+      "<DBAF43F0>": "Manana has one of those too, mo."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh I think not. Not pot like this."
+      "<DBAF43F0>": "You're naive, ja mo. So naive, ja mo."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Sad to say, but pot of Manana\ncannot make up for lacking things."
+      "<DBAF43F0>": "To make up for what's lacking,\nthat pot won't do, ja mo."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "It heavy-duty exclusive Nopon-brand pot!"
+      "<DBAF43F0>": "It's a sturdy Nopon-brand pot, desu mo."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "User choose tool of trade, it true,\nbut also fact that tool choose user."
+      "<DBAF43F0>": "Just as the user chooses the tool,\nthe tool also chooses the user, ja mo."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Pot of Manana, shape become all\nwarped from use in battle."
+      "<DBAF43F0>": "Because you use that pot in battle,\nit's become warped,"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Now it not quite perfect fit."
+      "<DBAF43F0>": "and little by little, it's become unsuitable, ja mo."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Meh-meh! That was problem?!"
+      "<DBAF43F0>": "Momomo!? Is that what happened, desu mo!?"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "What is exact point of wielding cooking-pot as weapon?\nThat fly over head of Tanzoo."
+      "<DBAF43F0>": "I can't understand why you use a pot\nin battle, ja mo."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "But that not all."
+      "<DBAF43F0>": "But more than that..."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "How Manana is so careless with utensil, even\nwhen show such great promise as cheffypon!"
+      "<DBAF43F0>": "I can't forgive you for being so careless with your tools\ndespite having such cooking skills, ja mo."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Is true.\nThis pot suit Manana down to ground!"
+      "<DBAF43F0>": "...It's true.\nThis pot feels right, desu mo."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "The more Manana cook with,\nthe better Manana cook."
+      "<DBAF43F0>": "If you heat it, it will become even more familiar, ja mo."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Then even if use in battle, it not warp."
+      "<DBAF43F0>": "It won't warp even if you use it in battle, ja mo."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Meh?! You give Manana cooking-pot?!"
+      "<DBAF43F0>": "Y-You're giving me such a pot, desu mo?"
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Cooking of Manana...not actually so bad."
+      "<DBAF43F0>": "Your cooking wasn't bad, ja mo."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "But tools simply not able to keep up with level of skill."
+      "<DBAF43F0>": "It's just that the vessel can't keep up with your power..."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "That make cooking sad, and utensils sad too."
+      "<DBAF43F0>": "That would make both the food and the pot cry, ja mo."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ahh. So that's why her technique\nand tools aren't up to scratch."
+      "<DBAF43F0>": "Hah, so that's why you said I lacked\ntechnique and tools."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "That right. Is all question of feeling."
+      "<DBAF43F0>": "That's right, ja mo. Whether you can feel that or not."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Love is very important thing for technique and cooking."
+      "<DBAF43F0>": "This is where technique and love for cooking are important, ja mo."
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Um, what about..."
+      "<DBAF43F0>": "Cooking is..."
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Shidouing us some actual cooking?"
+      "<DBAF43F0>": "You won't teach me?"
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "What talking about now?\nTanzoo not specially so much of cook."
+      "<DBAF43F0>": "What are you saying, ja mo.\nI'm not much of a cook, ja mo."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Word on creepvine was\nTanzoo legendary cheffypon."
+      "<DBAF43F0>": "I heard you were called a legendary chef, mo."
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Tanzoo just make new cooking utensil,\nnothing more."
+      "<DBAF43F0>": "Every time I made a new cooking utensil,"
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Cooking of meals...\nThey just to make sure utensil work."
+      "<DBAF43F0>": "I would serve food to test its condition, ja mo."
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Meh-meh! Then that mean...Tanzoo\nnot actually legendary cheffypon?!"
+      "<DBAF43F0>": "Momo!? Does that mean the\nlegendary chef doesn't exist, mo!?"
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh, am well aware that\nsome Nopon call Tanzoo that."
+      "<DBAF43F0>": "I knew there were Nopon who called me that, ja mo."
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Tanzoo choose not to refute spreading rumor."
+      "<DBAF43F0>": "But I never denied it..."
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "That all there was to it."
+      "<DBAF43F0>": "That's all there is to it, ja mo."
     },
     {
       "$id": 51,
@@ -538,7 +538,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "What did you just say? Please tell me I misheard."
+      "<DBAF43F0>": "What's with that... what a nuisance."
     },
     {
       "$id": 52,
@@ -548,7 +548,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "It nice feeling to be complimented!"
+      "<DBAF43F0>": "I was happy to be fawned over, ja mo."
     },
     {
       "$id": 53,
@@ -558,7 +558,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Pictured as cool lone wanderpon!"
+      "<DBAF43F0>": "The wandering feel was cool, ja mo."
     },
     {
       "$id": 54,
@@ -568,7 +568,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ugh... Can't believe this."
+      "<DBAF43F0>": "Whoa... what's with this guy..."
     },
     {
       "$id": 55,
@@ -578,7 +578,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "It OK. Manana not mind at all, Lanz."
+      "<DBAF43F0>": "Lanz-san, Manana is fine, desu mo."
     },
     {
       "$id": 56,
@@ -588,7 +588,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Manana learn ins and outs of cook-pot!"
+      "<DBAF43F0>": "Holding this pot, I've realized something, desu mo..."
     },
     {
       "$id": 57,
@@ -598,7 +598,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "To make tippest of top food,\nhaving of best utensils is required."
+      "<DBAF43F0>": "That to make the best food,\nyou need the best tools..."
     },
     {
       "$id": 58,
@@ -608,7 +608,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Manana would never realize this\nif not learn lesson from Tanzoo!"
+      "<DBAF43F0>": "If I hadn't met Tanzoo-san,\nManana would have never realized it, desu mo."
     },
     {
       "$id": 59,
@@ -618,7 +618,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "That alone...make Tanzoo\nworthy of title of Masterpon!"
+      "<DBAF43F0>": "For that alone, I want to call you\nmaster, desu mo."
     },
     {
       "$id": 60,
@@ -628,7 +628,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Only one thing left!"
+      "<DBAF43F0>": "And now..."
     },
     {
       "$id": 61,
@@ -638,7 +638,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Manana can't wait to get stuck in with making food!"
+      "<DBAF43F0>": "I can't wait to start cooking, desu mo."
     },
     {
       "$id": 62,
@@ -648,7 +648,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Get pot used to fire nice and slow."
+      "<DBAF43F0>": "Season the pot slowly over the fire, ja mo."
     },
     {
       "$id": 63,
@@ -658,7 +658,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "That surefire secret to make\ncooking of Manana really shine."
+      "<DBAF43F0>": "That's how your cooking will shine even brighter, ja mo."
     },
     {
       "$id": 64,
@@ -668,7 +668,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Manana ready!\nAll of technique and soul!"
+      "<DBAF43F0>": "I understand, desu mo.\nTechnique and soul, desu mo."
     },
     {
       "$id": 65,
@@ -678,7 +678,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Also spirit and personality."
+      "<DBAF43F0>": "And spirit and guts, ja mo."
     },
     {
       "$id": 66,
@@ -688,7 +688,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Gettin' a bit much..."
+      "<DBAF43F0>": "Isn't that a bit much..."
     },
     {
       "$id": 67,
@@ -698,7 +698,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "O-ho-ho! And pinch of motivation!"
+      "<DBAF43F0>": "Momomo~ I'm getting fired up, desu mo."
     }
   ]
 }

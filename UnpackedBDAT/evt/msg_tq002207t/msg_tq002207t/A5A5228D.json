@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahoy! Welcome to the next challenge,\n\"Men of the Sea: Booty Calls\"! Bring me\nhigh-quality booty, and I'll judge it!"
+      "<DBAF43F0>": "The next challenge is the Man of the Sea's Treasure Showdown!\nI want you to bring me the best treasure!\nI'll be the one to judge it!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Booty?"
+      "<DBAF43F0>": "...Treasure?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Exactly! I need the most valuable\nbooty on this island!"
+      "<DBAF43F0>": "That's right!\nThe most valuable treasure on this island!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You keep using that word..."
+      "<DBAF43F0>": "...Even if you say that..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, we don't know what you mean,\nor what's on this island..."
+      "<DBAF43F0>": "Yeah, we don't even know\nwhat's on this island."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Surely you could send us after something\na little more concrete!"
+      "<DBAF43F0>": "Shouldn't you specify something more\nconcrete for this kind of thing?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Booty is booty. If you can't tell good booty\nwhen you see it, then we're done here."
+      "<DBAF43F0>": "Treasure is treasure.\nIf you don't know that, then it's over for you."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All right, fine! We'll do it!"
+      "<DBAF43F0>": "Alright, alright! We'll do it!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's have a think then. Group talk?"
+      "<DBAF43F0>": "For now, should we all think about it?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, group talk."
+      "<DBAF43F0>": "Yes, that sounds like a good idea."
     }
   ]
 }

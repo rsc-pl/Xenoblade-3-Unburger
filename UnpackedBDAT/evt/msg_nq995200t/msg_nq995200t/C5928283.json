@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I heard Touma talking earlier. I assume it\nwas with you guys, right?"
+      "<DBAF43F0>": "I heard you.\nYou were the ones talking to Touma, right?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, but staying on topic, what got you\nbranded as a fiend, and locked up in here?"
+      "<DBAF43F0>": "Yeah, but what about you?\nWhat did you do\nto get put in here?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, my great crime was blowing up a\ncontainer the salvage corps was going to\nsalvage."
+      "<DBAF43F0>": "As for me, well, various things.\nI was in the Inspection Bureau,\nand I squashed some information[ML:line ]\nbut I don't think I did anything wrong."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Horrible thing to do, right? Wasting away\nsupplies they worked so hard to get."
+      "<DBAF43F0>": "Since coming here, I've had Touma and\nShuuri to entertain me, but..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's a new one to me... Why go and\nblow up valuable supplies?"
+      "<DBAF43F0>": "I'm going to beat you\nand get out of here."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I mean, who cares about that, really? You\nguys have come here to fight us three\nfiends, right?"
+      "<DBAF43F0>": "I'm going to beat you\nand get out of here."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm ready to fight whenever you are, but\ndon't keep me waiting too long."
+      "<DBAF43F0>": "Oh, you're ready to fight?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You ready to fight? Because I'm ready\nwhenever you are."
+      "<DBAF43F0>": "Not yet, I have something I want to ask...\nWhy did you withhold information about Keves\nand not share it with Agnus?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You finally ready now? Kept\nme waiting long enough."
+      "<DBAF43F0>": "My, my[ML:line ]\nthat's a very direct question."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Before we fight, there's something I want\nto confirm with you. Specifically, the\nreason you blew up that container."
+      "<DBAF43F0>": "Squashing information on Keves\nis disadvantageous to you, isn't it?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...What's it to you? It's not like I can make\nthose supplies magically come back."
+      "<DBAF43F0>": "Fine, I'll tell you to pass the time.\nWhen I was carefully examining the Kevesi information\nthat came to me..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "True, but to just blow up a container for\nno reason, you'd have to be out of your\nmind, which you don't seem to be."
+      "<DBAF43F0>": "I realized it was false information\nspread by our Consul."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Funny you mention that, because I was out\nof my mind when I blew up the container."
+      "<DBAF43F0>": "What?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Or, perhaps...you noticed that that\ncontainer had been booby-trapped."
+      "<DBAF43F0>": "Apparently, he didn't like\nthat we were getting stronger."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "That Consul was trying to crush us.\nI don't know what he was thinking."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You don't have to be out of your mind to\nsacrifice supplies in the name of protecting\nyour comrades."
+      "<DBAF43F0>": "It was easier to set us up...\nto let Keves gather life flame..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Although I wouldn't call it a flawless plan,\nI can't see why it would be egregious\nenough to violate military discipline."
+      "<DBAF43F0>": "To do something like that to people right under your nose,\nthat's just insane!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If one knew that a container did have\nsomething lethal in it, then blowing it\nup would be perfectly justifiable."
+      "<DBAF43F0>": "So I squashed the enemy's information myself\nand had our allies withdraw early\nto minimize the damage..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Lethal? What do you mean, lethal?"
+      "<DBAF43F0>": "Did you tell anyone about that?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It could've been something explosive, or\npoisonous... You didn't know what was\ninside, but you had a feeling, didn't you?"
+      "<DBAF43F0>": "Of course not.\nIf I did, my comrades would have been done in by the Consul."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's odd to think airdropped supplies could\nhave something like that in them... Unless,\nthe Consul had something to do with it?"
+      "<DBAF43F0>": "But his eyes are gone now.\nIt's late, but I feel better talking about it."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Indeed. It's not impossible to see why the\nConsul could've thought up something\nfiendish like that."
+      "<DBAF43F0>": "And I have no regrets.\nTouma and Shuuri, whom I met here,\nare good people!"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And since blowing up seemingly good\nsupplies is a big no-no, that gave the\nConsul the perfect pretext to lock you up."
+      "<DBAF43F0>": "Maybe now... you don't have to\ncarry it all by yourself."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hahaha, cool theory. But the last time I\nchecked, theories don't count as hard\nevidence."
+      "<DBAF43F0>": "That's true...\nWe don't have to worry about the Consul's eyes anymore."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Indeed, all we've got is reasoning that\npaints you in a favorable light."
+      "<DBAF43F0>": "Heh... if I get out,\nit might not be so bad to try talking about it."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The simplest, most straightforward reason\nwould be that you were out of your mind\nat the time."
+      "<DBAF43F0>": "Tell Tsuyu about Jhodor's circumstances?"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll give you this, though. I had fun\nlistening to your theory. Your reasoning\nskills aren't too bad, either."
+      "<DBAF43F0>": "Tell her"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, here's what really happened:\nIt's true that I blew up the container..."
+      "<DBAF43F0>": "I'm going to explain the situation to Tsuyu from Internal Affairs.\nPlease wait a moment."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You serious?"
+      "<DBAF43F0>": "Don't tell her yet"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And like you said, four-eyes, that\ncontainer was indeed booby-trapped."
+      "<DBAF43F0>": "What? Is there something else?"
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You knew something was up, well before\nthe incident, didn't you?"
+      "<DBAF43F0>": "I'm happy to get out,\nbut if you're going to fight the other two, I'll join in."
     },
     {
       "$id": 32,

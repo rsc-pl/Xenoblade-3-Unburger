@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, hello Shulk, Rex.\nNice of you to stop by."
+      "<DBAF43F0>": "Oh... Hello.\nShulk-san, Rex-san."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And a hearty \"hello\" to you, too.\nYou're looking very industrious."
+      "<DBAF43F0>": "Hello, you're working hard."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, how's progress on the project?"
+      "<DBAF43F0>": "Yo.\nHow's the progress on \"that thing\"?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, um, progress?\nWell, it's, uhhh..."
+      "<DBAF43F0>": "P-Progress... is,\num, well..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's no issues with the basic locomotion,\nbut it's still a bit jerky."
+      "<DBAF43F0>": "There are no problems with its basic operation,\nbut we've hit a bit of a wall."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh! Sis!"
+      "<DBAF43F0>": "Ah, Sis."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Who's \"Sis\"? When we're at work,\nthat's \"Chief\" to the likes of you."
+      "<DBAF43F0>": "Not 'Sis'.\nAt work, it's 'Chief', right?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y-yes, sorry... Forgot myself, Chief."
+      "<DBAF43F0>": "S-Sor— I'm sorry, Chief."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't think I've had the honor of meeting\nyour newest companions yet... Or, uh, have I?\nSorry, I've got a lot going on."
+      "<DBAF43F0>": "And you newcomers,\nI believe this is our first time meeting."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm Lucille. Mechanic for the Liberators."
+      "<DBAF43F0>": "I'm Lucille,\na mechanic for the Liberators."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've already met my reedy\nlittle brother, Hamill."
+      "<DBAF43F0>": "And this is my younger brother, Hamill."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Pleasure..."
+      "<DBAF43F0>": "Hello..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're siblings! Neat!\nPleasure's all mine."
+      "<DBAF43F0>": "Oh, you're siblings.\nNice to meet you."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So the vibe I've been getting is,\nyou're the ones who built this?"
+      "<DBAF43F0>": "From the way you were talking earlier,\ndid you two build this?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, you got it in one."
+      "<DBAF43F0>": "Yes, that's right."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's just a prototype, but we've been\ntrying to improve on the basic design\nof the Armament."
+      "<DBAF43F0>": "This child is a prototype,\ndeveloped as an improvement\nbased on the Armament."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shulk and Riku did the groundwork\nfor us, but it wasn't really cost-effective\nto manufacture at scale."
+      "<DBAF43F0>": "The Armament itself was designed\nby Shulk and Riku, but we couldn't\nmass-produce it due to cost."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So I tried to make it smaller, which also\nmade it more maneuverable."
+      "<DBAF43F0>": "So, we made it smaller for mass production\nand also easier to handle."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hm, OK, but with this kind of size,\nI don't see how you'd have enough\nroom for the pilot to sit inside..."
+      "<DBAF43F0>": "But with this size, I don't think there's\nenough space for a person to get in..."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I thought so too. But there's actually a little\nhidden gimmick to this machine."
+      "<DBAF43F0>": "You'd think so, right?\nActually, this machine has\na little secret."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm listenin'."
+      "<DBAF43F0>": "A secret?"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To put it simply, this little toy soldier\ncomes equipped for autonomous operation."
+      "<DBAF43F0>": "This child... is equipped\nwith an \"autonomous function.\""
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It makes decisions by itself,\nand can act independently...\njust like a human would."
+      "<DBAF43F0>": "It makes its own decisions and acts...\njust like a human."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa. No jokes?"
+      "<DBAF43F0>": "...Seriously?"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're calling it an \"Automaton\"."
+      "<DBAF43F0>": "We call it an\n\"Automaton.\""
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we manage to perfect it,\nit would go a long way toward\nsolving our manpower shortage."
+      "<DBAF43F0>": "If it's completed,\nit will significantly alleviate\nour manpower shortage."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Lucille and Hamill here are the resident\nexperts assigned to the task."
+      "<DBAF43F0>": "That's why we've entrusted its development\nto the skilled Lucille and Hamill."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And we've been working like bonkers.\nNot every day you get a request like this,\nstraight from the top brass..."
+      "<DBAF43F0>": "It's a direct request from our leader,\nso we're putting our all into it, but..."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But this autonomous function thing\nhas really been a massive headache.\nIt flat-out refuses to cooperate."
+      "<DBAF43F0>": "The autonomous function is a real pain.\nIt just won't get any smarter."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It'll just stop what it's doing mid-battle,\nor keep trying to walk through a wall...\nSeriously, I've had it up to here."
+      "<DBAF43F0>": "It suddenly stops in the middle of a battle,\nor walks into walls... It's just a mess."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hrmm... I knew there would be hurdles..."
+      "<DBAF43F0>": "Hmm, so that's how it is..."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've been running it through various drills\nand it's acquired some basic patterns, but\nthat's really about it."
+      "<DBAF43F0>": "We're having it perform various actions\nto learn patterns, but..."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That sounds like a tough nut to crack...\nAnything we can help you with?"
+      "<DBAF43F0>": "That's tough...\nIs there anything we can do to help?"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well... Lemme think..."
+      "<DBAF43F0>": "Hmm, let's see..."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, here's an idea. How 'bout we kill two\nbirds with one stone, and ask you to check\nour progress by having a fight against it?"
+      "<DBAF43F0>": "Well then, to check on its progress,\nwould you mind having a bout with it?"
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've been thinking for a while that it could\ndo with some extra combat data."
+      "<DBAF43F0>": "I was just thinking we needed to\ncollect some combat data."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You sure about that?\nIsn't it still a work in progress?"
+      "<DBAF43F0>": "Are you sure?\nIt's still incomplete, right?"
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eheheh, don't worry, it's not made of paper.\nIt's designed to be a fighting machine, so it's\ngonna have to learn to take a beating."
+      "<DBAF43F0>": "Hahaha, don't worry.\nThis child isn't fragile.\nIt's a combat weapon, after all."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As for the location... Let's say under the\nanti-air battery. That should be just right."
+      "<DBAF43F0>": "As for the location, let's see...\nThere's a good space under the anti-air turret.\nLet's do it there."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hamill, prep the thing for data acquisition.\nAnd don't forget to update the ballistics!"
+      "<DBAF43F0>": "Hamill, prepare for data collection.\nAnd don't forget to update the armaments."
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm on it, Si-...\nUh, I mean, Chief."
+      "<DBAF43F0>": "Got it, Si— Chief."
     }
   ]
 }

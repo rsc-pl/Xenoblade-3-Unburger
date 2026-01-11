@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, I'm hearing there's some monster\nin the forest that doesn't belong.\nI have to say, I'm curious."
+      "<DBAF43F0>": "There was a monster I've never\nseen in this forest.\nI was a little curious[ML:line ]..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're familiar with all the monsters\nthat inhabit this area, then?"
+      "<DBAF43F0>": "Do you remember all the monsters\nthat live in the forest?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Naturally. Hunting is how\nwe live, after all."
+      "<DBAF43F0>": "Of course.\nWe live mainly by hunting."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If friends heading to Invidian Tunnels,\nmust be very prepared!"
+      "<DBAF43F0>": "If you're going to the Invidian Tunnels,\nbe sure to prepare well, mo."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So the Invidian Tunnels are pretty\ndangerous, is that it?"
+      "<DBAF43F0>": "Are the Invidian Tunnels\ndangerous?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not unusual for Nopon to be dazzled by\nlust for ore, then fall off edge of cliff.\nTsutoto hear many such tales."
+      "<DBAF43F0>": "I often hear stories of Nopon who get dazzled by ore\nand fall off cliffs, mo."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah? Well, I think that's the kind of\ndanger we can probably handle."
+      "<DBAF43F0>": "Hmm...\nIn that case, I think we'll be fine[ML:line ]..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meh-meh?!"
+      "<DBAF43F0>": "Momomo!?"
     }
   ]
 }

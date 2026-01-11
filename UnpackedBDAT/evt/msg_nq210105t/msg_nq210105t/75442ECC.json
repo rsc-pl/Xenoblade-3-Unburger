@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, what's up?"
+      "<DBAF43F0>": "Oh? What's the matter?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're looking to gather approvals\nfor Sif, for the canteen restoration."
+      "<DBAF43F0>": "We need approval from various places for the canteen construction,\nso we're going around asking on Sifuu's behalf."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, thanks for that."
+      "<DBAF43F0>": "Is that so? That's a great help."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not being able to use the canteen's\npiling on the work for the supply corps."
+      "<DBAF43F0>": "Since the canteen is out of commission, the supply team\nhas been handing out rations outside."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We have no food storage, so\nanything perishable has to go."
+      "<DBAF43F0>": "We can't store ingredients,\nso anything that spoils quickly has to be thrown out."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Having a working canteen again\nwould be like a dream..."
+      "<DBAF43F0>": "Nothing would be better than getting the canteen back."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So we should work on getting\nthose approvals, then?"
+      "<DBAF43F0>": "So does that mean we have your approval?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Absolutely."
+      "<DBAF43F0>": "Yes, of course."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wonder if the request got held up\nsomewhere... In any case, thanks for\nlooking into it!"
+      "<DBAF43F0>": "I wonder if the request got held up somewhere.\nThank you for taking the trouble."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, we're the ones who\ntrashed it in the first place..."
+      "<DBAF43F0>": "Well... we are the ones who wrecked it......"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Have you tried asking around the\nengineering and logistics corps?"
+      "<DBAF43F0>": "Oh, right.\nHave you been to see the Engineering Corps Captain\nor the Logistics Chief?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The canteen request's probably with\nthem. You'll want to pay them a call\nif you haven't already."
+      "<DBAF43F0>": "The request for the canteen construction\nshould have gone to them too, so if you haven't,\nyou should go see them."
     }
   ]
 }

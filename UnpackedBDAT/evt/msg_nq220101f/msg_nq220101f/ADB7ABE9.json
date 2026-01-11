@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is this where the fight was?"
+      "<DBAF43F0>": "So the battle took place here."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, the battle was around here.\nWe were outnumbered."
+      "<DBAF43F0>": "Yes, this vicinity became a battlefield,\nand we fought back, though we were few in number."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We managed to hold our own at first,\nleveraging our advantages, but...you\ncan't argue with numbers, in the end."
+      "<DBAF43F0>": "At first, we used our knowledge of the terrain\nto our advantage,\nbut eventually, we were overwhelmed by numbers..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The rear guard's actions saved\nso many of us. Even so..."
+      "<DBAF43F0>": "Many of our comrades were saved\nby the efforts of the unit that served as the rear guard...\nBut......"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's no way out once you've\nbeen cornered in a place like this."
+      "<DBAF43F0>": "Indeed, if you were cornered in a place like this,\nit would be impossible to escape."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like the monsters have made\nthemselves at home here now."
+      "<DBAF43F0>": "It looks like a monster's den now."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can't do any sending off like this."
+      "<DBAF43F0>": "Even if a sending is necessary,\nit seems impossible like this."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's get rid of them before\nthey become a problem, then."
+      "<DBAF43F0>": "It seems best to defeat them before they interfere.\nWhat do you think?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hm? Oh...yes, of course.\nThat sounds good."
+      "<DBAF43F0>": "Huh? Ah... Yes."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Come on, where's your energy?\n\"Let's whoop their asses!\" Lemme\nhear you say it!"
+      "<DBAF43F0>": "You're so stiff.\nYou could at least say \"Let's kick their arses!\" or something."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Er. Let's, uh...smack their behinds!"
+      "<DBAF43F0>": "Um... Let's kick their arses!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eh, close enough. Let's go!"
+      "<DBAF43F0>": "Alright, let's go!"
     }
   ]
 }

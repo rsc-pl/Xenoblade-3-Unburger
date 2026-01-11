@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Captain of the Guard from\nKeves Castle has been looking\nfor us, it seems."
+      "<DBAF43F0>": "It seems the Guard Captain of Keves Castle\nis looking for us."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're the talk of Fort O'Virbus, huh."
+      "<DBAF43F0>": "There were rumors about it at Fort O'Virbus."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do you...think they're not happy with us?\nBecause we broke their Flame Clock?"
+      "<DBAF43F0>": "...Could it be that they're displeased with us\nfor destroying the Flame Clock?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wouldn't say so. That wasn't the\nimpression I got from observing the fort."
+      "<DBAF43F0>": "No, from the look of things at the fort,\nthat didn't seem to be the case."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Without a Consul in place,\nI don't think it would be a trap..."
+      "<DBAF43F0>": "Now that the Consul is gone,\nI doubt it's a trap, but..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's only one way to find out.\nLet's chat with the Captain of the Guard."
+      "<DBAF43F0>": "In any case,\nlet's meet with the Guard Captain\nand talk to her first."
     }
   ]
 }

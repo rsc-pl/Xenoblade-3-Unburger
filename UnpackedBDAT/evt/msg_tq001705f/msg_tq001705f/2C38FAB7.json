@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's a lot of them...\nThis'll be a battle of attrition."
+      "<DBAF43F0>": "There are so many... It will be a battle of attrition."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can use the terrain for\ndefensive advantage. First,\nwe need to hurt their morale."
+      "<DBAF43F0>": "Let's use the terrain to our advantage for defense.\nFirst, we'll break the enemy's morale."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Before that, we need to talk."
+      "<DBAF43F0>": "[ML:line len=1 ]There is something I must say before that."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll remain here and fight for as long\nas I stand. That's also part of the plan."
+      "<DBAF43F0>": "For strategic reasons, I will fight here\nto the very end."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It will be a grueling fight. I won't have time\nto be looking out for possible deserters."
+      "<DBAF43F0>": "It will be a tough battle.\nI will likely not have the luxury to worry about traitors."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hold on, are you telling us to\nfind a chance to escape?"
+      "<DBAF43F0>": "You can't be serious. You're telling us to run when we get a chance?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I never said that."
+      "<DBAF43F0>": "That is not what I said."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But this battle should be of little\nimportance to you."
+      "<DBAF43F0>": "But, this is a battle that has\nnothing to do with you in the first place."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Damn, Zeon...\nJust how rotten do you think we are?"
+      "<DBAF43F0>": "You really are..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see where you're coming from."
+      "<DBAF43F0>": "I understand your thinking."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But we're fighting on our own terms.\nWe'll be seeing this through."
+      "<DBAF43F0>": "But we will fight to the end,\nin our own way."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We owe a debt to Colony 9.\nMaybe it wasn't for very long, but\nit gave us somewhere to belong."
+      "<DBAF43F0>": "We owe Colony 9 a debt.\nEven if it was just for a while, it gave us a place to belong."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But not any more..."
+      "<DBAF43F0>": "But now..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just shut it, you!"
+      "<DBAF43F0>": "Shut up, you idiot."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How hard is it for you to accept\nsomeone just wants to do a good\ndeed, eh? Get a clue!"
+      "<DBAF43F0>": "Just let us help you.\nYou're really getting on my nerves."
     },
     {
       "$id": 16,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How often does he need telling not to\nabandon himself to his feelings?"
+      "<DBAF43F0>": "Do not act on emotion.\nHow many times must I tell you?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Have you given in?"
+      "<DBAF43F0>": "Have you given up?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hah."
+      "<DBAF43F0>": "Not a chance."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Still... Might as well strike\nwhile the iron's hot."
+      "<DBAF43F0>": "But...\nI cannot afford to fall behind."
     }
   ]
 }

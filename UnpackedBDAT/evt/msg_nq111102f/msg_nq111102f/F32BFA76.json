@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've got the parts you need,\nbut is this really enough to fix it?"
+      "<DBAF43F0>": "We brought the parts you asked for.\nCan you fix it with this much?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, that's just the ticket! Let me\nshow you how the maintenance\nand development team gets it done!"
+      "<DBAF43F0>": "Yeah, this is perfect!\nNow, time for the maintenance and development squad to show its skills..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh no, monster attracted by sound!"
+      "<DBAF43F0>": "...! The noise attracted\nmonsters, ssu mo!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Once again, prolonged exposure to\nidiocy inconveniences us. These two\nshould come with a warning."
+      "<DBAF43F0>": "Nothing but trouble happens\nwhen we're with these two."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, don't say that.\nThey're not bad people..."
+      "<DBAF43F0>": "Don't say that.\nThey don't mean any harm..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll take the monster,\nyou take the container!"
+      "<DBAF43F0>": "We'll take care of the monsters,\nso you guys take care of the container!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eeeek! Heeelp!"
+      "<DBAF43F0>": "Eeeeek! H-Heeeelp!!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hamahama no want to die!\nHamahama no want to die!"
+      "<DBAF43F0>": "I don't want to die, ssu mo!\nI don't want to die, ssu mo!!"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, come on!"
+      "<DBAF43F0>": "Ah...! Hey!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's just get this\nmonster whacked..."
+      "<DBAF43F0>": "...Sheesh, can't be helped!\nLet's finish this quickly!"
     }
   ]
 }

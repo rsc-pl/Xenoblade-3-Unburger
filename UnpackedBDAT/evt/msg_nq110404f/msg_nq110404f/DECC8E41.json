@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, it's me. Call the squad captains\nto the council room. It's time to resume\nthe meeting."
+      "<DBAF43F0>": "...It's me.\nSummon the squad leaders to the strategy room.\nWe're resuming the meeting."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've got this."
+      "<DBAF43F0>": "...Bolearis."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Will you join us? You don't have\nto do anything, just observe."
+      "<DBAF43F0>": "Will you join us as well?\nYou can just watch what happens."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Yeah, sure."
+      "<DBAF43F0>": "...Understood."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "First you run off, and then you resume the\nmeeting like nothing happened. What are\nyou playing at, Bolearis?"
+      "<DBAF43F0>": "First you disappear on us, then you call another meeting.\nWhat are you thinking, Bolearis?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sorry, everyone. I'll\nexplain everything later."
+      "<DBAF43F0>": "Everyone, I'm sorry.\nI intend to take responsibility for this later."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But before that, there's something\nI've got to say to you."
+      "<DBAF43F0>": "But before that...\nthere's something I have to tell you all."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then you'd better\ncome out and say it."
+      "<DBAF43F0>": "...I see.\nIf you're going to say that much, let's hear it."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, then, listen up!\nI, Bolearis, hereby..."
+      "<DBAF43F0>": "Yeah, listen up!\nI, Bolearis, as of this moment..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...resign my seat as lieutenant, and\ntake on the role of acting commander."
+      "<DBAF43F0>": "...resign my position as second-in-command!\nAnd assume the duties of \"Acting\" Commander!"
     },
     {
       "$id": 12,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What?! You can't just-!\n...Wait a second. What did you say?"
+      "<DBAF43F0>": "Huh!? What kind of selfish thing are you say...?\nHuh? What did you just say?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What do you mean, \"acting\"...?"
+      "<DBAF43F0>": "\"Acting\"...?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maybe I can explain if you'll shut up\nfor a minute. Look, I'm not cut out to\nbe commander."
+      "<DBAF43F0>": "Let me be clear!\nI'm not cut out to be the Commander!"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You said it, not us..."
+      "<DBAF43F0>": "Oh, you'll say it yourself..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She's the only commander we'll\never have. I know you probably\nthink so. And I agree."
+      "<DBAF43F0>": "She is our only Commander!\nYou all think so, and I think so too!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But Colony 4 won't last\nmuch longer like this."
+      "<DBAF43F0>": "But...! If we go on like this,\nColony 4 will truly be finished this time!"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We cannot lose the colony\nCommander Ethel left in our hands."
+      "<DBAF43F0>": "We cannot afford to lose the colony\nthat Commander Ethel entrusted to us!"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So I'm stepping up in her\nplace to lead this colony!"
+      "<DBAF43F0>": "That's why...!\nIn her place!\nI will lead you and the colony!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We certainly need someone who\ncan command us all, but..."
+      "<DBAF43F0>": "It's true that what we need now is\nsomeone to command the whole, but..."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And what's with this \"acting\" idiocy?\nIt's not the magnificent announcement you\nseem to think it is. You're joking, right?"
+      "<DBAF43F0>": "And \"acting\" on top of that?\nThat's not something you say with such a grand declaration.\nAre you joking?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry, Dinzel, but I'm deadly serious.\nI know some think I'm not suited to the\nrole, but I can't hand it over to anyone."
+      "<DBAF43F0>": "Sorry, but I'm dead serious, Dinzel.\nI know it doesn't look cool,\nbut on this, I will not yield."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I don't see a problem with it."
+      "<DBAF43F0>": "...Sounds fine to me.\nI have no problem with it."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I didn't think you'd be\non board with this, Maxie."
+      "<DBAF43F0>": "It's a little surprising\nthat you would agree, Maxie."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ethel had an energy that we lack."
+      "<DBAF43F0>": "The Ethel of the past had a \"drive\"\nthat we do not."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And that energy is what let us\nget to Silver in three terms."
+      "<DBAF43F0>": "It is because of that \"drive\"\nthat we were able to climb to Silver\nin just three terms."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can feel something similar\nfrom Bolearis now."
+      "<DBAF43F0>": "...I feel something similar\nfrom the Bolearis of now."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think it's a good direction to go in."
+      "<DBAF43F0>": "Heh... A good trend. Not bad."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like our maverick loose\ncannon has mellowed out."
+      "<DBAF43F0>": "...That reckless suicide-jockey\nhas really mellowed out, huh?"
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I learned that you have to change if you're\ngoing to survive. You have to learn to\naccept anything."
+      "<DBAF43F0>": "If it is a necessary change for survival,\nthen we should accept it, whatever it may be.\nThat is the lesson I have learned."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We need to bring our colony back to the top.\nThat's what you're saying, isn't it, Maxie?"
+      "<DBAF43F0>": "And the colony should also be so...\nIs that what you're saying, Maxie?"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Well, I suppose this way is better\nthan some interminable yawnfest to\ndecide her successor."
+      "<DBAF43F0>": "...Well, it's better than having a\npointless meeting to decide a successor."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Decisiveness was always one of\nEthel's...Colony 4's...precepts."
+      "<DBAF43F0>": "Quick decisions are one of Ethel's...\none of Colony 4's battle precepts, after all."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, now that you've declared\nyourself, I hope you'll be up for the job,\nActing Commander."
+      "<DBAF43F0>": "That said, now that you've declared it,\nwe expect you to be prepared, \"Acting\" Commander."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You mean...?"
+      "<DBAF43F0>": "You guys...!"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now that we're all agreed,\nyou'd better start ordering us\naround, Acting Commander."
+      "<DBAF43F0>": "Well then, now that we have everyone's agreement,\nmay we have your immediate instructions, Acting Commander?"
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah... Yeah! I'll take care of everything."
+      "<DBAF43F0>": "Y... Yeah!\nLeave everything to me!"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is it supposed to be here?"
+      "<DBAF43F0>": "Is it here?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If she had information to pass us,\nit must have come from Monica.\nThat ought to make it trustworthy."
+      "<DBAF43F0>": "The fact that she had the information means\nshe probably received it from Monica.\nIn that case, there should be no mistake."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeahhh, I'm beginning to wonder.\nWe still haven't found a thing yet."
+      "<DBAF43F0>": "Are you sure about that?\nWe haven't found anything so far."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mmm... Doesn't seem to be\nanything here, either."
+      "<DBAF43F0>": "Indeed... It doesn't seem to be\naround here either."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Doesn't look like it's gonna turn up.\nHow 'bout we just give up and head\nback already?"
+      "<DBAF43F0>": "If we've searched this much and found nothing,\nwouldn't it be better to give up and go back?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Hrm."
+      "<DBAF43F0>": "............"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oi, Gray, you listening?\nI said-"
+      "<DBAF43F0>": "Hey, Gray, listen—"
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "An ambush, eh?"
+      "<DBAF43F0>": "...An ambush."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You finally made it, Gray."
+      "<DBAF43F0>": "You finally came, Gray."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And you are...?"
+      "<DBAF43F0>": "You all are..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like the info was good."
+      "<DBAF43F0>": "It seems that information was correct."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...We'll have a bit of your time\nif you don't mind!"
+      "<DBAF43F0>": "...We'll have you keep us company for a while,\nGray!!"
     }
   ]
 }

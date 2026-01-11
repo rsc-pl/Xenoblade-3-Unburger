@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey. Laszlo told me about Jeremy."
+      "<DBAF43F0>": "...I heard from Laszlo.\nAbout Jeremy."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can't forgive him for hurting Yorde\nlike that. To be honest, I feel like I'd need\nto give him a good punch to settle it."
+      "<DBAF43F0>": "I can't forgive him for hurting Yorde,\nand honestly, I don't think I'll be satisfied\nuntil I punch him once[ML:line ]..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But when I think about how isolated and\ndriven into a corner he was..."
+      "<DBAF43F0>": "But when I think about how he was isolated\nand cornered all on his own[ML:line ]..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I realize that it would have been much\nbetter if we'd have talked with him and\nthrashed it out within the tactician squad."
+      "<DBAF43F0>": "As fellow members of the tactics squad,\nI feel like we should have\nlistened to him more..."
     }
   ]
 }

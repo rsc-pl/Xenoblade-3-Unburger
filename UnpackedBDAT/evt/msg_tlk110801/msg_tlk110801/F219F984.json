@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This mission'll be wrapped up\nin about three ticks."
+      "<DBAF43F0>": "I'll finish this mission in three minutes."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Three ticks seems a bit optimistic, mate.\nBut I like that you're showing some heart."
+      "<DBAF43F0>": "Three minutes is probably impossible...\nBut you're really fired up, Isuto."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've allocated about one full tick for all\nthe actual fighting. If you can't bring the\nheat like that, you've got no chance."
+      "<DBAF43F0>": "Defeat them quickly.\nThose who can't will just die."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure thing, mate. We'll take\ncare of guarding Noah. You can\nhandle feeding the Flame Clock."
+      "<DBAF43F0>": "No doubt about that.\nOur mission is to guard Noah, so\nwe'll leave filling the Flame Clock to you."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've gotta top up the Commissary and\nsalvage corps too... The quicker you take\n'em down, the more you can fight, right?"
+      "<DBAF43F0>": "We have to earn enough for the quartermaster and\nsalvage corps guys, too. The faster we win,\nthe more we can fight, right?"
     }
   ]
 }

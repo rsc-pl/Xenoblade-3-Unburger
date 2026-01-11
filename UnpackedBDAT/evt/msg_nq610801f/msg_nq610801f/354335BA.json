@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Welcome. Might the\npretty lady desire a lute?"
+      "<DBAF43F0>": "Welcome.\nAre you looking for a lute?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Er, not exactly... I was wondering,\ncould you look at this one for me?"
+      "<DBAF43F0>": "Um, not exactly...\nI'd like you to take a look at this lute."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hoho... Well well,\nwho would've thought..."
+      "<DBAF43F0>": "Oh...\nI can't believe this..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tell me, where did you get this?"
+      "<DBAF43F0>": "Young lady, where did you get this lute?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, uh... I just picked it up\noff the ground, on the way\nsomewhere."
+      "<DBAF43F0>": "Um... I found it.\nOn the way here."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Really? How curious..."
+      "<DBAF43F0>": "What... Is that so?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What, is it actually yours?"
+      "<DBAF43F0>": "Could it be that\nyou are the owner of this lute?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, not at all! But nevertheless,\nI do know all about it."
+      "<DBAF43F0>": "No, that is not the case,\nbut I know it well."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This isn't just any old lute like\nthe ones you see on display."
+      "<DBAF43F0>": "This lute is not like the ordinary lutes\nin my shop."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a famous piece - one might say even\nlegendary - crafted by a master of his art\nwho is sadly no longer of this world."
+      "<DBAF43F0>": "It is a legendary masterpiece,\ncrafted by a now-deceased master."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So it's quite a find."
+      "<DBAF43F0>": "Oh..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He never made many, and the ones that\nsurvive to this day are incredibly rare indeed.\nYou have a priceless treasure on your hands."
+      "<DBAF43F0>": "Only a very few were made,\nand it is a precious item of which\nonly a handful exist today."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It passed through the hands of many\na virtuoso in the beleaguered City's history,\nuntil at some point it went missing..."
+      "<DBAF43F0>": "In the long history of the City,\nit passed through the hands of many masters\nand eventually went missing..."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa, that's amazing! Hear that, Kagiroi?\n\"Priceless treasure\", he said!"
+      "<DBAF43F0>": "That's amazing.\nYou've found quite a treasure,\nKagiroi."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "........."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, well, the price of this lute is\nliterally incalculable and immeasurable..."
+      "<DBAF43F0>": "Indeed, this lute has\nan immeasurable value, but..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But you are the one who ought to have it\nand play it, pretty lady, none other."
+      "<DBAF43F0>": "Young lady, this lute is something\nthat you, and no other, should take."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Why me?"
+      "<DBAF43F0>": "...Me?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As I said, the lute has been the inheritance\nof countless virtuoso players across the ages."
+      "<DBAF43F0>": "This lute has been passed down\nfrom master to master."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And seeing your strong-yet-graceful fingers,\nI know that you yourself are also an eminent\nmusician in your own right."
+      "<DBAF43F0>": "I can tell by looking at your strong yet supple fingers.\nYou too are an excellent player."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Which is to say, it was in a sense inevitable\nthat the lute would find its way into your\nworthy hands."
+      "<DBAF43F0>": "In that case, it may have been inevitable,\nin a sense, that this lute was found by you."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, but like, you can fix it, right?"
+      "<DBAF43F0>": "So, can you actually fix it?"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To my eyes, it appears that it would be\nas simple as replacing the strings."
+      "<DBAF43F0>": "In my opinion, if we just replace the strings,\nit should be as good as new."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you bring me the materials,\nI will take full responsibility of\ngetting it in playable order."
+      "<DBAF43F0>": "If you can procure the materials for the strings,\nI will take responsibility for repairing it."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tell us what you need."
+      "<DBAF43F0>": "What are the materials for the strings?"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "According to the ancient techniques by which\nthe lute was constructed, the highest-grade\nstrings were made from animal intestines."
+      "<DBAF43F0>": "According to the ancient method by which this lute was made,\nhigh-quality strings are made from animal intestines."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And to the best of my knowledge, of those,\nthe guts of rare giant Anloods produce the\nvery sweetest of timbres."
+      "<DBAF43F0>": "As far as I know,\nthe intestines of a rare, large Anlood species\nproduce the most excellent tone."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see, I see..."
+      "<DBAF43F0>": "I see..."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Uh, no, one sec.\nDid you say \"guts\"...?"
+      "<DBAF43F0>": "...Hm? Wait a minute.\n\"Intestines\"...?"
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, guts, indeed."
+      "<DBAF43F0>": "Yes, intestines."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "........."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You seem to have reservations."
+      "<DBAF43F0>": "...Do you have a problem with that?"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Don't suppose there's anything\nwe could substitute for those?"
+      "<DBAF43F0>": "...Is there nothing else we can use as a substitute?"
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Modern manufacturing techniques make use\nof metal wires or synthetic fibers, but those\nwould not suit a lute such as yours."
+      "<DBAF43F0>": "In recent methods,\nmetal wire or synthetic fibers are used,\nbut those would not suit this lute."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Giant Anlood, was it?\nI feel like I saw one once at the\nOld Legre-Bhaja Battlefront."
+      "<DBAF43F0>": "Speaking of large Anloods,\nI think I saw one once\nat the Legre-Bhaja Old Battlefront."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oho! There was one in this region?\nHow fortuitous a windfall."
+      "<DBAF43F0>": "Oh, to think there was one in this region.\nWhat a stroke of luck."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I'll go ahead and leave the lute with you."
+      "<DBAF43F0>": "...For now,\nI'll leave this lute with you."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll do...something...about the materials."
+      "<DBAF43F0>": "As for the materials...\nWe'll figure something out."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Acknowledged. I will await news,\nand make preparations as I do so.\nLuck be with you!"
+      "<DBAF43F0>": "Understood.\nI will prepare for the repairs\nand await good news."
     }
   ]
 }

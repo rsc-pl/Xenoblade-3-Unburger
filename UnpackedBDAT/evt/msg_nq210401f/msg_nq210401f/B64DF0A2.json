@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we're going to head off down the\nInvidian Trail, we'll need to secure a\nroute first."
+      "<DBAF43F0>": "To proceed through the Invidian Trail, we must first\nsecure one of the routes."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The trail's pretty exposed.\nI'd rather not court danger unduly..."
+      "<DBAF43F0>": "The Invidian Trail is an easy target.\nPersonally, I'd rather not take the risk."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Be as careful as you need. We just\nneed to get those supplies back."
+      "<DBAF43F0>": "I don't mind being cautious,\nbut I at least want to recover the supplies\nwe previously placed."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You need to let it go.\nIt can't be worth the risk..."
+      "<DBAF43F0>": "You're a poor loser......\nI don't think it's worth the risk."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's up, guys? Trouble in paradise?"
+      "<DBAF43F0>": "Hey, you guys having some trouble?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, hello. No, it's nothing major."
+      "<DBAF43F0>": "Ah, it's you.\nNo, it's not really a problem."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'd made preparations to take the\nInvidian Trail for a prospective attack\non Colony 5."
+      "<DBAF43F0>": "Previously, when we were preparing to\nattack Colony 5, we were trying to\nsecure the Invidian Trail."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "None of that's relevant now, but the\nsupplies we sent up there just got left."
+      "<DBAF43F0>": "But Colony Lambda no longer needs to,\nso the supplies were left behind."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The three of us have been talking about\nwhether we should try and get them back."
+      "<DBAF43F0>": "The three of us were discussing\nwhether or not to retrieve them."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Recovering supplies doesn't\nseem like that hard a task."
+      "<DBAF43F0>": "It sounds simple enough\nif you're just going to get supplies."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's not really the problem."
+      "<DBAF43F0>": "That's not quite the case."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's a big enemy presence in\nthe area. They've probably already\ncaught wind of our stashes."
+      "<DBAF43F0>": "There are many enemy soldiers patrolling this area.\nThey're probably aware of the supplies' existence."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's a chance they might try to set up an\nambush, or booby trap them, or something."
+      "<DBAF43F0>": "There's a high possibility they've set up\nambushes or traps."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And we can't use an Auto-Lev, them being\npurely defensive, so we were trying to figure\nout a way to do it by ourselves."
+      "<DBAF43F0>": "And the autonomous Levnises have just been activated\nfor defense, so we can't use them.\nThat's why we were thinking of handling it ourselves."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Situation being how it is, I personally think\nit'd be wiser to just abandon the idea, but\nItari and Hozumi think it's vital, so..."
+      "<DBAF43F0>": "Given the situation,\nI think we have no choice but to give up,\nbut Itari and Hozumi want to retrieve them--"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I see... It's not easy to recover\nsupplies without a Levnis."
+      "<DBAF43F0>": "I see......\nIt does seem difficult to retrieve supplies\nwithout a Levnis..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Exactly. I...don't suppose you lot\nwould be willing to lend us a hand?"
+      "<DBAF43F0>": "That's right! You all,\ncould you lend us a hand for a moment?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Sure, whatever."
+      "<DBAF43F0>": "......We don't mind."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, well, if you'd be willing to help, then\nthat changes it completely. We could split up\nand advance in parallel. Much safer that way."
+      "<DBAF43F0>": "With you here, things change--\nIf we split into two groups and act separately,\nthe danger should be reduced."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we cover the mountainous parts,\nwould you be able to secure the area\nwith the supplies?"
+      "<DBAF43F0>": "We'll cover the mountainous area,\nso could you check the area around the supplies?"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If other colonies have got their\neyes on this, seems like a scrap's\npretty much the order of the day."
+      "<DBAF43F0>": "If people from other colonies are after them,\na fight will be unavoidable."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, battle is pretty likely. All we need\nis for things to be calm enough for us\nto go in, get the stuff, and get out."
+      "<DBAF43F0>": "There's a high chance of combat,\nbut if we can ensure safety, even we can\nretrieve them quickly."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood. We'll go\nand have a look."
+      "<DBAF43F0>": "Understood.\nWe'll go and take a look."
     }
   ]
 }

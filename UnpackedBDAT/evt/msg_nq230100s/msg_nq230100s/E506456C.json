@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ashera, what will Colony 11 do now?"
+      "<DBAF43F0>": "Ashera, what's Colony 11\ngoing to do now?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hm? Why ask me?"
+      "<DBAF43F0>": "Hm? Why are you asking me?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Try not to play dumb...\nMaybe he's asking because it's\nyour colony?"
+      "<DBAF43F0>": "Don't play dumb...\nIt's your colony, isn't it?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Erm, no? Surely it's your colony now,\nif anything."
+      "<DBAF43F0>": "Oh no, no. As of now,\nisn't it *your* colony?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wha... Just how do you figure that?"
+      "<DBAF43F0>": "...Huh?\nNo, no, how do you figure that?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I figure it by how soundly Colony 11\nwas thrashed into submission by the\ntraitorous Ouroboros."
+      "<DBAF43F0>": "Well, Colony 11 was\nthoroughly beaten into submission\nby you rebellious Ouroboros."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They say to the victor go the spoils.\nTherefore, Colony 11 now belongs\nto you lot."
+      "<DBAF43F0>": "The victor has the right to rule the vanquished.\nAnd with that,\nColony 11 is all yours."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You were also on the winning side,\nif memory serves."
+      "<DBAF43F0>": "I seem to recall Ashera being\non our side for that fight..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahh, if the commander herself says\nit's fine, who are we to argue?"
+      "<DBAF43F0>": "Well, if the Commander herself says it's fine,\nI guess it's fine?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Our list of allies is limited. We're grateful\nfor any cooperation."
+      "<DBAF43F0>": "Our allies are few and far between.\nWe'd be grateful for any cooperation they can offer."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, I forgot to tell you something..."
+      "<DBAF43F0>": "Oh, but I forgot to mention something..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're a fickle lot in Colony 11. Most of us\ndo as we please. So you should be\ncareful how you handle us."
+      "<DBAF43F0>": "My lot are a bunch of selfish rabble\nwho do whatever they want,\nso you'd best be careful how you handle them."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just because I've taken a liking to\nyou doesn't mean the others will."
+      "<DBAF43F0>": "I may have taken a liking to you,\nbut that doesn't mean they feel the same way."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Why can't you just explain our good\nqualities to them, get them to help us?"
+      "<DBAF43F0>": "Then you tell them, Ashera.\nTell them to cooperate with us."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What, I should just tell them directly?\nA bunch of people who'll cut me down\nif I show any weakness?"
+      "<DBAF43F0>": "You think they'd just listen to me?\nThis is a bunch that would try to kill me\nthe moment I showed any weakness, you know?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I guess that won't work...\nBut then what the heck are we\nsupposed to do?"
+      "<DBAF43F0>": "I guess you have a point... But then\nwhat the hell are we supposed to do?!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm. Let me give you a piece\nof advice, as former commander."
+      "<DBAF43F0>": "Hmm... In that case, as your former Commander,\nI shall bestow upon you a piece of advice."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In Colony 11 there's a group\nof elite soldiers called the Three Ravens."
+      "<DBAF43F0>": "First, in Colony 11,\nthere are three high-ranking soldiers\ncommonly known as the \"Three Ravens.\""
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Three...?"
+      "<DBAF43F0>": "Three Ravens?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You don't remember?\nThey fought us on Rouia Bridge."
+      "<DBAF43F0>": "Don't you remember?\nYou fought them on the Ixia Bridge, didn't you?"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, those guys!\nTheir names were...lemme think..."
+      "<DBAF43F0>": "...Oh! Those guys!\nI think their names were..."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"Spearhead Zuoren\",\n\"Fellplume Easel\", and\n\"Tenacious Clad\"."
+      "<DBAF43F0>": "\"Tsoren the Spearhead.\"\n\"Izel the Fellplume.\"\n\"Clad the Unyielding.\""
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They lead the three units that make\nup Colony 11. You could call them\nthe pillars of the colony."
+      "<DBAF43F0>": "The three units that make up Colony 11\nare run by them, their captains.\nYou could call them the pillars of the colony."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Win those three over, and you've\nbasically got the whole colony."
+      "<DBAF43F0>": "If you can just tame them,\nit's as good as having the entire colony under your control."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You make it sound simple. How are\nwe meant to \"win them over\", exactly?"
+      "<DBAF43F0>": "Easier said than done.\nHow are we supposed to 'tame' them?"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good question. I simply crushed\nthem until they did my bidding."
+      "<DBAF43F0>": "Well now, what to do, what to do...\n...For the record, I just beat all three of them senseless\nand forced them to obey me."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Queen's teeth, no wonder they\nwanna kill you!"
+      "<DBAF43F0>": "...And that's why your\nown people are trying to kill you."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But I know that you lot can play it\na bit smarter than that."
+      "<DBAF43F0>": "But you all could probably do it\nin a much smarter way, don't you think?"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For example, you could glean some\nintel about them. The best way to know\nan enemy is to become their friend."
+      "<DBAF43F0>": "For example, maybe...\ngather some intel on the three of them?\nThey say to know your enemy, you must first know your ally, right?"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa..."
+      "<DBAF43F0>": "R-Right... I think?"
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They may be a group of thugs, but as\nsoldiers go they're the best of the best.\nNot as good as me, obviously."
+      "<DBAF43F0>": "It's a colony of nothing but troublemakers,\nbut as soldiers, they're the best of the best.\n...Not as good as me, of course."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can't see any downside to winning them\nover. It'd do wonders for your ally base.\nHow about it?"
+      "<DBAF43F0>": "I don't think you'll regret bringing them to your side.\nThe more allies, the better... right?"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're not wrong there.\nWe'll think it over."
+      "<DBAF43F0>": "You're not wrong, but...\nWell, we'll think about it."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thinking, is it?\nDon't deliberate over it for too long."
+      "<DBAF43F0>": "'Think about it,' eh...?\nYou might not want to take too long."
     },
     {
       "$id": 35,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1200,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Leave that lot alone for too long and\nthey'll end up in some battle or other."
+      "<DBAF43F0>": "If you leave them to their own devices, they might just\ngo around picking fights with anyone and everyone..."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You'd better do something about them\nbefore they end up being a nuisance for\nsomeone else."
+      "<DBAF43F0>": "It means you'd better do something about them\nbefore they become a nuisance for someone else."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is trouble seriously all your\ncolony is good for...?"
+      "<DBAF43F0>": "...Your colony is nothing but trouble."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hahaha, might be!\nWell, I wish you luck!"
+      "<DBAF43F0>": "Hahaha! Oh, you have no idea.\nWell, do your best!"
     }
   ]
 }

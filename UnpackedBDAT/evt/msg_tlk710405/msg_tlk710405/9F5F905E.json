@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I decided to gather up the medical\nsupplies in the facility ahead of the\nfinal battle."
+      "<DBAF43F0>": "I've decided to gather supplies like\nmedicines and blankets in the medical facility\nfor the final battle."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We never know when this place will turn\ninto a battlefield. I want everything as\nprepped as possible to treat the wounded."
+      "<DBAF43F0>": "I don't know when this place will become a battlefield,\nand I want to do everything I can\nto treat the wounded immediately..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y'know... I think you've really toughened\nup. Seems like that lost vibe you had's\nall cleared up."
+      "<DBAF43F0>": "You... you've gotten stronger, haven't you?\nLike your hesitation is gone."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You guys taught me what was really\nimportant in life. For me, it was my family."
+      "<DBAF43F0>": "You all taught me what's important.\nAnd I want to protect my family, too..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So let's win this fight, together!"
+      "<DBAF43F0>": "Let's definitely win this battle!"
     }
   ]
 }

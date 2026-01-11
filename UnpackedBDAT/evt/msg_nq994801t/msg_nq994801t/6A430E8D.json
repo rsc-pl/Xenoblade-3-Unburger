@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've got a disturbing development\non the eastern side of the perimeter."
+      "<DBAF43F0>": "There seems to be some suspicious movement in the eastern perimeter."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've received an aid request, but if\nour info on the enemy's forces is correct,\nwe're in for one tough battle."
+      "<DBAF43F0>": "We've received a request for support, but\nif the information on the enemy's strength is correct,\nit will be difficult for us to respond."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The harbor the enemy's after has got a\nwhole load of supplies we can't afford to\nlose. Could you lend us a hand?"
+      "<DBAF43F0>": "We don't want them to get close to the port with the supplies.\nI'm sorry to ask, but could I request your assistance?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've got a disturbing development\non the eastern side of the perimeter."
+      "<DBAF43F0>": "There seems to be some suspicious movement in the eastern perimeter."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I want you to head there right away. The\nenemy will be just as strong as you are,\nso watch yourselves."
+      "<DBAF43F0>": "I need you to head there quickly.\nTheir forces seem to be considerable,\nso please be careful."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks for your help. We couldn't have\ndone it without you. We'll take the\ninvestigation ourselves from here."
+      "<DBAF43F0>": "I'm sorry, you've been a great help.\nWe will continue the investigation."
     }
   ]
 }

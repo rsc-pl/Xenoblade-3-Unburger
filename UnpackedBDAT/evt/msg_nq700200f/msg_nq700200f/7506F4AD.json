@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Who're you supposed to be?"
+      "<DBAF43F0>": "...Who are you?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, cool your jets.\nI'm City-folk too."
+      "<DBAF43F0>": "Don't be so wary.\nI'm from the City too."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's a Liberator base just past here.\nYou'll be safe there."
+      "<DBAF43F0>": "There's a Liberator base up ahead.\nIt's safe there."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...\"Liberator\" base? What's that mean?\nFirst time I'm hearing about this."
+      "<DBAF43F0>": "...Liberator? What's that? I've never heard of it."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Look, long story short, it's where all the\nCity refugees have been gathering.\nWhy not go and see for yourself?"
+      "<DBAF43F0>": "Anyway, all the survivors\nare gathered there.\nYou'll understand once you go."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Very well, I will. Beats collapsing\nfrom exhaustion, I suppose."
+      "<DBAF43F0>": "...Very well.\nAt this rate, I'll just end up\ndying on the road anyway."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can die now, or die later.\nGuess I know what I'll be picking."
+      "<DBAF43F0>": "It's just a matter of dying now\nor dying later."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not the most cheerful old man, are you?\n...Can't really blame you, I suppose."
+      "<DBAF43F0>": "You're quite the pessimistic old man.\n...I guess it can't be helped."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Carsten has been put in the care\nof Colony 9."
+      "<DBAF43F0>": "Carsten is now under the protection of Colony 9."
     }
   ]
 }

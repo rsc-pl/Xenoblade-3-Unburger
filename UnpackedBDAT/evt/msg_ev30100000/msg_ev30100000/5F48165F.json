@@ -18,109 +18,109 @@
       "$id": 1,
       "<8C7DD24D>": "<BEDC126C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Uh, is this really the right place?\nLooks empty to me."
+      "<DBAF43F0>": "You sure this is the right place?\nThere's nothing here."
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<6AF80ACC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Eh, it was just a rumor.\nNo big deal if it's false."
+      "<DBAF43F0>": "It was just a rumor, after all.\nProbably a lie, wasn't it?"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<B6469549>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "No... Note the silence.\nIt's unnaturally quiet."
+      "<DBAF43F0>": "No...[ML:line len=1 ]\nThis whole area is unnaturally quiet...[ML:line len=1 ]"
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<A688439F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](questioning 'huh?')"
+      "<DBAF43F0>": "[ML:undisp ]?"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<59F83AD2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](adlib approx. 2 seconds of trying\nto withstand sudden gust of wind)"
+      "<DBAF43F0>": "[ML:undisp ]Ugh!"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<F9FA3FE3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](adlib approx. 2 seconds of trying\nto withstand sudden gust of wind)"
+      "<DBAF43F0>": "[ML:undisp ]Urghhh..."
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<EFF3119D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](adlib approx. 2 seconds of trying\nto withstand sudden gust of wind)"
+      "<DBAF43F0>": "[ML:undisp ]Whoaa!"
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<13FD4CF7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](adlib approx. 2 seconds of trying\nto withstand sudden gust of wind)"
+      "<DBAF43F0>": "[ML:undisp ]Aaaah!"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<63682C34>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](adlib approx. 2 seconds of trying\nto withstand sudden gust of wind)"
+      "<DBAF43F0>": "[ML:undisp ]Ugh!"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<530D9AEB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](adlib approx. 2 seconds of trying\nto withstand sudden gust of wind)"
+      "<DBAF43F0>": "[ML:undisp ]Ghh..."
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<C6F1E35A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What the...?"
+      "<DBAF43F0>": "What is this..."
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<8B46B3DD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I don't... Huh?"
+      "<DBAF43F0>": "What in the world is..."
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<D1379429>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Pretty...!"
+      "<DBAF43F0>": "Pretty..."
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<CA30137D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Damn, what's going on?"
+      "<DBAF43F0>": "Damn it, what the hell is going on?"
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<A98A5A68>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ugh, can't even...!"
+      "<DBAF43F0>": "Ugh, come on!"
     },
     {
       "$id": 16,
       "<8C7DD24D>": "<FFB648A2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](adlib shock/surprise)"
+      "<DBAF43F0>": "[ML:undisp ]!!"
     },
     {
       "$id": 17,
       "<8C7DD24D>": "<7CEA92D7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](adlib shock/surprise)"
+      "<DBAF43F0>": "[ML:undisp ]!!"
     },
     {
       "$id": 18,
       "<8C7DD24D>": "<0D8886A2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Lanz... Behind you...!"
+      "<DBAF43F0>": "Lanz... behind you...!"
     },
     {
       "$id": 19,
@@ -132,31 +132,31 @@
       "$id": 20,
       "<8C7DD24D>": "<1D4F0B22>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Aah!"
+      "<DBAF43F0>": "[ML:undisp ]Whoa!"
     },
     {
       "$id": 21,
       "<8C7DD24D>": "<78E81FB5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](adlib drawing weapon)"
+      "<DBAF43F0>": "[ML:undisp ]Tch!"
     },
     {
       "$id": 22,
       "<8C7DD24D>": "<A8E26E69>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Guess the rumor was actually bang on then, eh?"
+      "<DBAF43F0>": "It seems the rumor was true after all."
     },
     {
       "$id": 23,
       "<8C7DD24D>": "<A26A6573>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I don't think it's gonna let us go.\nWe just waltzed straight into its den!"
+      "<DBAF43F0>": "Looks like it doesn't let prey that enters its territory escape..."
     },
     {
       "$id": 24,
       "<8C7DD24D>": "<803311FE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Stay frosty, guys!"
+      "<DBAF43F0>": "Let's stay sharp."
     }
   ]
 }

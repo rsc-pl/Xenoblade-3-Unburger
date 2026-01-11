@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, you're back?\nHow'd it all-"
+      "<DBAF43F0>": "Oh, you're back.\nHow did it go—"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hahahah, wow, you were busy!"
+      "<DBAF43F0>": "Ha-haha...\nWell, I'm amazed."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "See, Dillon? What'd I tell you?"
+      "<DBAF43F0>": "Now you understand, right, Dillon?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Us City folk and the Liberators,\nwe're all birds of a feather now."
+      "<DBAF43F0>": "Whether they're from the City or a Liberator,\nit doesn't matter anymore."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't knock a bit of camaraderie\ntill you've tried it, eh?"
+      "<DBAF43F0>": "With just the word \"comrade,\"\nwe can all be grouped together."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heh, you got me there..."
+      "<DBAF43F0>": "Comrade, huh..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Well, one thing's for sure.\nWherever we found the next City, we'll\nneed to make sure there's lots of room."
+      "<DBAF43F0>": "...The next City\nwill need to be a bigger place."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's the spirit, mate."
+      "<DBAF43F0>": "That's right."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heheh... Looks like I'll have my hands full.\nNothing a mechanic loves more!"
+      "<DBAF43F0>": "Fufufu, it's going to be busy from now on.\nMy mechanic's blood is stirring."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can't wait to get started, too.\nLet's get our technically-minded\nbods together and start planning."
+      "<DBAF43F0>": "Let's get started right away.\nFirst, let's gather the engineers for a meeting."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nikol, could you get our experts\nto gather round?"
+      "<DBAF43F0>": "Nikol, could you bring the people with\nmachine maintenance experience here?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure, I can do that."
+      "<DBAF43F0>": "Understood."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh! I'll go as well!"
+      "<DBAF43F0>": "Ah... I'll go too!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And if I could get the supply, logistics,\nprovisions, and other assorted dogsbodies\nover here, please!"
+      "<DBAF43F0>": "Over here, we've got procurement of supplies, cooking for everyone,\nuh... basically all the miscellaneous tasks!"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ugh, this is so slapdash...\nSurely it'd be better to draw\nup a proper plan first?"
+      "<DBAF43F0>": "So disorganized...\nYou have to do these things\nwith a proper plan."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can play a supervisory role, then.\nCare to help me, Kagiroi?"
+      "<DBAF43F0>": "We'll provide support.\nKagiroi, help me out."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, sure..."
+      "<DBAF43F0>": "Yes, yes..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If Matthew hadn't stepped up,\nall these people would never have\ncome together on their own."
+      "<DBAF43F0>": "If Matthew hadn't spoken up,\nso many people wouldn't have gathered."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Few would attempt to rally everyone under\none banner, and fewer still would achieve it.\nWe're already witness to a great feat today."
+      "<DBAF43F0>": "It's not something anyone can do.\nThat alone is a great achievement."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For a leader, he's a real handful, that one..."
+      "<DBAF43F0>": "Honestly...\nWhat a troublesome leader."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right on, guys, there's plenty of work to\ngo around! I know you'll do us proud!"
+      "<DBAF43F0>": "There's a mountain of things to do.\n...I'm counting on you, everyone!"
     }
   ]
 }

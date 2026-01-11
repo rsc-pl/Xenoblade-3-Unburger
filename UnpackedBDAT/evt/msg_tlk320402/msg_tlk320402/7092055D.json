@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey...would you mind telling us a bit\nmore about your former commander?"
+      "<DBAF43F0>": "The previous commander[ML:line ]... could you tell me about him?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not at all. He had a strong sense\nof responsibility. Very gentle by nature."
+      "<DBAF43F0>": "Let's see... He had a strong sense of responsibility\nand was a kind person."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And an inspiring figure. I think\nevery one of us was willing to\nlay down our lives for him."
+      "<DBAF43F0>": "We all thought we should do our best\nfor the sake of the previous commander."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He sounds like he was a wonderful person."
+      "<DBAF43F0>": "He sounds like a good person[ML:line ]..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That he was. Now Yuzuriha fills\nhis shoes, and is every bit the\ncommander he was."
+      "<DBAF43F0>": "Yes, and Yuzuriha, who took over[ML:line ]...\nis a commander who is just as good."
     }
   ]
 }

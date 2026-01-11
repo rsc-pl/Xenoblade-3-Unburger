@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, See-Mee-Mee... You're looking\na bit distressed. What's up?"
+      "<DBAF43F0>": "You don't look well.\nWhat's wrong?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Michel and friends set out for attack...\nBut See-Mee-Mee told maybe possibility\nthey not come back..."
+      "<DBAF43F0>": "Michel and the others have gone on a sortie, mo...\nThey said they might not come back, mo..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If no return... That much too\nmuch for See-Mee-Mee to off-see\nfor Colony 30 friends..."
+      "<DBAF43F0>": "If they don't come back,\nI can't send off the people of Colony 30, mo..."
     }
   ]
 }

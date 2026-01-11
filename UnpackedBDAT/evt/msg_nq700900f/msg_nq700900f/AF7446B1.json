@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Who-? Who're you...?"
+      "<DBAF43F0>": "Wh-Who...?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm Matthew - from the City, like you.\nYou OK, out here all alone?"
+      "<DBAF43F0>": "I'm Matthew.\nI'm from the City.\nWhat are you doing here?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My, my name's Axel, and I'm looking for\nmy parents... And my little sister, Finley."
+      "<DBAF43F0>": "I-I'm Axel.\nI'm looking for my dad and mom,\nand also my little sister, Finley."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Brave lad to be searching for your family,\nbut you can't be doing this all by yourself."
+      "<DBAF43F0>": "You're looking for your family...\nBut it's too dangerous to be alone."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But...!"
+      "<DBAF43F0>": "But..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, I understand, believe me.\nStill, how about you leave this part\nto the grown-ups, aight?"
+      "<DBAF43F0>": "...I know how you feel.\nBut can't you rely on the adults for now?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If anything happens to you, your parents\nand your sis will be devastated... You get it,\ndon't you?"
+      "<DBAF43F0>": "If something happened to you,\nyour parents and sister would be sad... right?"
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Take it easy. I'll find your family and bring\n'em back to you, safe and snug. For sure."
+      "<DBAF43F0>": "Don't worry.\nI promise I'll find your family,\nno matter what."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, so you're Axel.\nFinley's told us all about you."
+      "<DBAF43F0>": "You're Axel?\nI heard about you from Finley."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh...! You found Finley?!"
+      "<DBAF43F0>": "...!\nYou found Finley!?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She's in our care, yeah, safe and snug.\nShe's been worried about you, you know."
+      "<DBAF43F0>": "She's with us now.\nShe was worried about you the whole time."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Can you take me to her?"
+      "<DBAF43F0>": "...I want to see Finley."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure thing, bud. C'mon, we'll go together."
+      "<DBAF43F0>": "Yeah, let's go together."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Axel has been put in the care\nof Colony 9."
+      "<DBAF43F0>": "Axel is now under the protection of Colony 9."
     }
   ]
 }

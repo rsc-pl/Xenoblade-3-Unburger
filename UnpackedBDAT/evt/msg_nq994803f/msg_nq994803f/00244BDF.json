@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Snuff it... How can so few fighters be so\npowerful...?"
+      "<DBAF43F0>": "Tch...\nTo be pushed back by this level of force..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Retreat! We aren't going to go down here!\nNot like this!"
+      "<DBAF43F0>": "Retreat! We cannot\nfall here!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks. You really did us a solid there."
+      "<DBAF43F0>": "Thank you, all of you.\nYou saved us."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nah, we didn't do much, really..."
+      "<DBAF43F0>": "No, it's fine, but..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If ya were able to actually do somethin'\nwith that brick shithouse frame of yers, we\nwouldn't have got into this mess!"
+      "<DBAF43F0>": "If you'd just gotten your act together,\nthis never would have happened!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Have mercy, m'lady... I really did try my\nbest, I did..."
+      "<DBAF43F0>": "Milady...\nThat's too harsh..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If anyone's counting on you for things,\nthen you'd better go take care of them.\nI've got things under control here."
+      "<DBAF43F0>": "Is there anything else you've been asked to do?\nIf so, head over there.\nI'll take care of things here."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good shout."
+      "<DBAF43F0>": "Yeah, got it."
     }
   ]
 }

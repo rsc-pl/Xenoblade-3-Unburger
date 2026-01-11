@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mmm... No good. That wild rampage\nmust've fried its circuits."
+      "<DBAF43F0>": "Mmm... doesn't seem to be working.\nThe circuits are fried from the rampage."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's damage to the leg parts as well.\nI think it must have happened when it\nfell into the hole..."
+      "<DBAF43F0>": "And the legs are damaged too.\nProbably from when it fell into the hole..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meh-meh?! So Levnis broken?!"
+      "<DBAF43F0>": "Momo—!\nThe Levnister is broken, mo!?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's broken, but I don't think\nit's entirely beyond repair."
+      "<DBAF43F0>": "It's broken, but...\nI think we can fix it with repairs."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Think you could patch it up?"
+      "<DBAF43F0>": "Can you fix it?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah. Assuming we have the parts..."
+      "<DBAF43F0>": "Yeah, if we have the parts..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Desperate pleading!!!\nMere thought of Mamapon scowl\nstriking terror into mind-eye!"
+      "<DBAF43F0>": "Please, mo~~!\nIf this keeps up, my mama-pon will—"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All right, all right, keep your fur on.\nWe'll take care of it."
+      "<DBAF43F0>": "Ah, fine, fine.\nJust a moment."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nikol, you mind giving it a try?"
+      "<DBAF43F0>": "Nikol, sorry, but can I ask you to do the repairs?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not at all. I'll see what I can do."
+      "<DBAF43F0>": "Roger. I'll give it a try."
     }
   ]
 }

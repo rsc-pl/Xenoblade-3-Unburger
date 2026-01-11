@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What need from Kinunu?\nIf shopping, please wait a while."
+      "<DBAF43F0>": "Do you need something from me, mo?\nIf you want to shop, you will have to wait a moment, mo."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry to pop up out of nowhere, but\nwe've come on Shillshill's order."
+      "<DBAF43F0>": "Sorry for the short notice, but\nwe've come on behalf of Shillshill."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, that thing. If want stone, here stone is."
+      "<DBAF43F0>": "Ahh, so that is it, mo.\nIf it is a stone you want, take this, mo."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Will that be all? If so, Kinunu\nneed to make tracks."
+      "<DBAF43F0>": "Is your business concluded, mo?\nIf so, I would like you to go somewhere else quickly, mo."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Rude, but OK."
+      "<DBAF43F0>": "What's with her? So cold..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Kinunu have wings full because Tsutoto\nrun off somewhere. Tsutoto have tendency\nfor wandering feet..."
+      "<DBAF43F0>": "I am extremely busy now that Tsutoto has gone off somewhere, mo.\nTsutoto has a tendency to wander, and it is a problem, mo..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're busy, then we won't bother you\nany further. Thanks for this."
+      "<DBAF43F0>": "If you're busy, then we apologize for disturbing you.\nThank you, this was a great help."
     }
   ]
 }

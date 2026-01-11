@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait here while I look around."
+      "<DBAF43F0>": "I'm going to investigate, so please wait."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm. Well, its composition is practically\nidentical to the other spring..."
+      "<DBAF43F0>": "Hah...... It's the same as the other spring.\nThe components are completely unchanged."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Interesting."
+      "<DBAF43F0>": "Is that so......"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's definitely better to\ndraw our water from here."
+      "<DBAF43F0>": "This one is safer for drawing water."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've had a lot of casualties,\ngetting our water from that spring."
+      "<DBAF43F0>": "There have been times when people got injured\ngoing to that place to draw water."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is far and away the better choice."
+      "<DBAF43F0>": "This one seems much better."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They're both pretty much the same."
+      "<DBAF43F0>": "They're both delicious, too."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then how come that other one's\ngot a legend about beefing you up\nand this doesn't?"
+      "<DBAF43F0>": "But why did the water from over there\nbecome a story about gaining strength?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No idea. It's just something\nthat people have said."
+      "<DBAF43F0>": "I don't know.\nIt was something that was passed down."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's how customs work. It doesn't\nmatter how ludicrous they are, people\nrefuse to let go of them."
+      "<DBAF43F0>": "That's how customs are.\nIt's absurd, but we can't\njust dismiss them all."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yokaze always had an awful time trekking\nup there to fetch water. If we can lighten\nher load, I count that a win."
+      "<DBAF43F0>": "Yokaze also went through a lot of trouble to fetch water,\nso I hope this makes it easier for her."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She's already working hard enough\ntrying to treat all our injured."
+      "<DBAF43F0>": "We have a lot of injured people,\nso she has a hard time\ntreating them."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Kodachi, too. She and Yokaze are\nresponsible for the water supplies."
+      "<DBAF43F0>": "And then there's Kodachi.\nYokaze and Kodachi were the ones who\ntook the lead in fetching water."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Kodachi's very careful. Thankfully,\nshe hasn't had any unpleasant monster\nencounters yet."
+      "<DBAF43F0>": "Kodachi is very cautious, so\nluckily, she hasn't encountered\nany monsters yet."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The water's so good from this spring, too.\nShe should be pleased."
+      "<DBAF43F0>": "If this water is fine too,\nshe should feel more at ease."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do you mind if we leave you\nto spread the good news?"
+      "<DBAF43F0>": "May I leave it to you to tell them?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No problem! Let me just fill 'er up\nfirst. Thanks for coming out here!"
+      "<DBAF43F0>": "Understood.\nFor now, I'll draw some water and go back.\nThank you for coming with me."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No bother at all. We're just happy if we\ncan stop more people from getting hurt."
+      "<DBAF43F0>": "No, it's fine.\nIf this prevents injuries."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right. It's little things like these that make\nlife easier for everyone. Hang in there!"
+      "<DBAF43F0>": "Yes, it would be great if things like this\ncould be improved, even a little."
     }
   ]
 }

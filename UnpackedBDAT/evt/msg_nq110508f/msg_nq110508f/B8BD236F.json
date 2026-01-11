@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gh..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, you haven't been on the front lines\nin a while, have you? Just hang back."
+      "<DBAF43F0>": "You haven't been on the front lines\nfor a while, have you?\nYou should stay back."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh...? Are you trying to help him?"
+      "<DBAF43F0>": "...!\nAre you going to help him?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes. We'll deal with this."
+      "<DBAF43F0>": "Yes, leave it to us."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...All right. I'll stay out of your way!"
+      "<DBAF43F0>": "...Sorry, please do!"
     }
   ]
 }

@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's up? If you're here\nabout the fields-"
+      "<DBAF43F0>": "What is it, you all?\nIf it's about the fields..."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you saying this colony grows its\nfood supplies rather than processing\nthem in a plant?"
+      "<DBAF43F0>": "In this colony, are food products\nproduced from the soil instead of in a plant?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Who's this?"
+      "<DBAF43F0>": "Who's this guy...?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, the Castle inspector's back again?!"
+      "<DBAF43F0>": "...Wait, no way, the inspector from the Castle?!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It look like Kite remember him."
+      "<DBAF43F0>": "It seems Kite remembered him, mo."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shut up."
+      "<DBAF43F0>": "Sh-Shut up."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well? What do you want?"
+      "<DBAF43F0>": "What's going on?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry for dropping in unannounced.\nThe thing is..."
+      "<DBAF43F0>": "Sorry to drop in on you.\nActually..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...And that's about the long and short of it.\nSo, could you tell us about how Colony 9\nhas been doing, with the fields and all?"
+      "<DBAF43F0>": "...So, with that said,\ncould you tell him about the current situation\nin Colony 9 and about the fields?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, why not?"
+      "<DBAF43F0>": "Yeah, I don't mind, but..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, you don't need to go that far.\nIf I could just take a look at the\nfields, that would be fine."
+      "<DBAF43F0>": "That won't be necessary.\nIf you could just show me those fields,\nthat would be enough."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To find the fields, go out, down the slope\ntowards the back entrance, then straight,\ncross the bridge, and they're on your left."
+      "<DBAF43F0>": "The fields are just down the slope from here\ntowards the rear entrance, then straight ahead,\ncross the bridge, and you'll see them on your left."
     },
     {
       "$id": 15,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, I'll be off then."
+      "<DBAF43F0>": "Well then, excuse me..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, don't just-!"
+      "<DBAF43F0>": "H-Hey! Wait up!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry, we'll talk again soon!"
+      "<DBAF43F0>": "Sorry, we'll talk more later!"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y-yeah, OK..."
+      "<DBAF43F0>": "Y-Yeah..."
     }
   ]
 }

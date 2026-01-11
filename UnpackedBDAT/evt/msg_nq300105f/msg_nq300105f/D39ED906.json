@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Some monsters can really sneak up\non you... Good to know..."
+      "<DBAF43F0>": "To think there are monsters that can get that close\nwithout us even noticing……"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The way they move without a sound, and\nattack without you realizing... Makes sense\nthat people use the word \"disappear.\""
+      "<DBAF43F0>": "They can move without making a sound,\nso people didn't even realize they were being attacked.\nThat's why they called it \"disappearing\"……"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It really does."
+      "<DBAF43F0>": "Ah……"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So those things must have\nbeen making the fog."
+      "<DBAF43F0>": "They must have been the ones\ncreating the fog."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And there can't be any more\nof them about because the fog's\nall cleared up!"
+      "<DBAF43F0>": "Now that all the fog has cleared,\nthat must mean there are no more of those\nmonsters left!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This should at least help stem the damage."
+      "<DBAF43F0>": "This should put a stop to the casualties."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's report our findings to Kisame."
+      "<DBAF43F0>": "Let's go report our findings\nto Kisame."
     }
   ]
 }

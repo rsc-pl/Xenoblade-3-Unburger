@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The next leg of our journey will\ntake us to the Invidian Tunnels."
+      "<DBAF43F0>": "Now then, our next destination\nwill be the Invidian Tunnels."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hold on... Don't tell me you're taking us\ndown there to do actual mining for you?"
+      "<DBAF43F0>": "Hold on...\nYou're not going to say we have to dig through the tunnels, are you?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hah, close, but no mica. It's not minerals\nyou'll be mining this time, but monsters."
+      "<DBAF43F0>": "Fufu, if I had to say,\nthis time we'll be digging for not tunnels,\nbut \"monsters.\""
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? Not...literally, right?"
+      "<DBAF43F0>": "Digging for... monsters?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Deep in the Invidian Tunnels, there's\nsaid to exist a rare species of Ropl."
+      "<DBAF43F0>": "Deep within the Invidian Tunnels,\nthere is said to be a rare species of Ropl."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The unique mineral which takes root on its\nback, argencium, will be our next target."
+      "<DBAF43F0>": "A special mineral that only takes root on its back...\n\"Argencium Ore\" is the next item on our list."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Though I must confess, I have only ever\nset eyes on it but a single time..."
+      "<DBAF43F0>": "...That said, I myself have only\nseen the real thing once."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How are you so sure that you'll\nbe able to find it, then?"
+      "<DBAF43F0>": "Are you sure we can find something like that?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, we had no trouble getting the\nfirst material. Let's stay optimistic."
+      "<DBAF43F0>": "Well, we managed to find\nthe first material without any trouble."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Better hope our luck's not run out yet.\nOff to the mines with us, then..."
+      "<DBAF43F0>": "True. Let's hurry to the tunnels\nwhile our luck holds out."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All the City's residents are descended\nfrom the Six Houses."
+      "<DBAF43F0>": "All the residents of this City are\ndescendants of the Six Houses."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can trace my roots back to House Ortiz,\nMonica's to House Vandham, and so on\nand so forth."
+      "<DBAF43F0>": "I'm from the House of Ortiz,\nand Monica is from the House of Vandham, and so on."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And in remembrance of our ancestors'\nendeavors, our eyepatches are each adorned\nwith the pattern of our respective house."
+      "<DBAF43F0>": "And the eyepatch has the crest\nof each house on it,\nso we don't forget the achievements and aspirations of our founders."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"Guests\" like you have to make do with just\na plain, boring old version, I'm afraid."
+      "<DBAF43F0>": "However...\nyours is a \"guest\" one, so it's plain."
     }
   ]
 }

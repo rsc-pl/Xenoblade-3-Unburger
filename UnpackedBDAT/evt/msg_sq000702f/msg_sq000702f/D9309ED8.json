@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ms. Mine?\nWe've come on an errand from Samon."
+      "<DBAF43F0>": "Ms. Mine?\nWe've come as messengers from Mr. Samon."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, really? And what might he need?"
+      "<DBAF43F0>": "Oh? What is it you need?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, he's found himself quite urgently\nneeding a large quantity of fuel, so..."
+      "<DBAF43F0>": "He suddenly requires a large amount of fuel..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't need the preambles, duck."
+      "<DBAF43F0>": "No need for preambles."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is Samon we're talking about,\nI'm sure he's got a whole lot of guff\nto sell me."
+      "<DBAF43F0>": "Knowing Samon,\nhe's asking for something unreasonable again, isn't he?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, I wouldn't quite-"
+      "<DBAF43F0>": "Well..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's quite all right.\nWhat's he after? Tell me plainly."
+      "<DBAF43F0>": "Hah, no matter.\nWhat is it he wants?"
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Planning something big again, isn't he?"
+      "<DBAF43F0>": "My, that's quite a lot to use."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not to worry.\nI'll have them prepared."
+      "<DBAF43F0>": "Very well.\nI'll prepare them for you."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Or, well, I'd love to do that for you,\nbut lately, the conservative lot have been\nbuzzing around. Such a pain."
+      "<DBAF43F0>": "...is what I'd like to say, but lately,\nthe \"Conservative Faction\" has been making a fuss."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The truth is, we haven't been able to\nsecure a surplus for ourselves, either."
+      "<DBAF43F0>": "The current situation is that we haven't been able\nto secure even a surplus for ourselves."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The conserva-what now?"
+      "<DBAF43F0>": "The Conservative Faction..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They're the people who don't\nwelcome war, perhaps."
+      "<DBAF43F0>": "They are the ones who do not welcome conflict."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems you know enough to recognize,\nnot all of this great City's people think the\nsame way."
+      "<DBAF43F0>": "It seems you understand that\nthe City is not a monolith."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Some are happy to remain spectators in\nthe conflict taking place outside our door.\nNot fight Moebius, maintain the status quo..."
+      "<DBAF43F0>": "They observe the battles of the outside world,\ndo not fight Moebius, and strive to maintain the status quo..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They want nothing more than to seal the\nCity's hatches, build up our defenses.\nLots of conservative people like that here."
+      "<DBAF43F0>": "There's a certain number of people with conservative ideas\nwho believe we should solidify the City's defenses."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But do pardon an old woman for\nthat tangent. We were talking\nabout ether cylinders..."
+      "<DBAF43F0>": "Now, I've gotten sidetracked.\nAbout the ether cylinders..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Their lot has been stockpiling more than\nthey need, all just to cock a snook at us.\nYou should get what you need from them."
+      "<DBAF43F0>": "They should have a stock they secured more than necessary\nof, just to harass us.\nYou should go get them to hand it over."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? Didn't you just say you\ndidn't like each other...?"
+      "<DBAF43F0>": "Huh?\nBut you just said you don't get along..."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That doesn't mean there aren't any\nsensible people on that side too."
+      "<DBAF43F0>": "There's a sensible girl\non their side, too."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see... So even your separate factions\nare comprised of varying types, then?"
+      "<DBAF43F0>": "I see.\nSo that faction isn't a monolith either."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, maybe we should pay a visit to one\nof these sensible people, then!"
+      "<DBAF43F0>": "Then we'll go and meet this person."
     },
     {
       "$id": 24,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Speak to Miyori. She's the person in charge\nof the material storage warehouse."
+      "<DBAF43F0>": "Her name is Miyori.\nShe's been entrusted with managing the supply depot."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you tell her that \"the Nopon's needs\nare many\", the conversation should go\nsmoothly."
+      "<DBAF43F0>": "If you say, \"The Nopon wants it-meh,\"\nit should be easy to sort things out."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"The Nopon's needs are many\"...?"
+      "<DBAF43F0>": "\"The Nopon wants it-meh\"...?"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The material storage warehouse is outside\nthe City. Mind how you go."
+      "<DBAF43F0>": "The supply depot is\noutside the City.\nBe careful on your way."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood. Thanks for your help."
+      "<DBAF43F0>": "Understood, thank you."
     }
   ]
 }

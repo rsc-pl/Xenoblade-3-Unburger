@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, how is everything?\nIf you still need to rest, then-"
+      "<DBAF43F0>": "Oh, are you finished already?\nYou could still be resting..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Commander, there's something\nelse I'd like to discuss with you."
+      "<DBAF43F0>": "Commander Shidou,\nthere is something I would like to discuss with you."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course. You don't look like you've\ncome to just deliver a report."
+      "<DBAF43F0>": "...I see.\nIt seems you have not come merely to report."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, that would be helpful, thank you."
+      "<DBAF43F0>": "Yes, that would be a great\nhelp."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, yes."
+      "<DBAF43F0>": "[ML:line ]Ah, that's right!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I know a good place nearby.\nLet's talk there."
+      "<DBAF43F0>": "I just recently found a\n\"good spot\" nearby.\nLet us go there."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What?!"
+      "<DBAF43F0>": "What!?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "C-Commander, please!\nWe don't need to go th-"
+      "<DBAF43F0>": "W-wait, Commander!\nThere's no need to go that far..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It has a beautiful view, and a\nparticular peacefulness about it."
+      "<DBAF43F0>": "It is a place with a very fine view.\nThe quiet and calm atmosphere is also exceptional."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How lovely! I'd love to see it!"
+      "<DBAF43F0>": "That sounds nice~\nI'd love to go!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...This is bad. This is all going south."
+      "<DBAF43F0>": "...This is bad.\nThis is a very bad turn of events..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's just a change of place.\nI don't get what the problem is."
+      "<DBAF43F0>": "We're just changing locations.\nIs there a problem?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...We'll regret this."
+      "<DBAF43F0>": "...You'll regret this later."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd rather not delay, but unfortunately\nI have some work left to do here."
+      "<DBAF43F0>": "I would like to head there right away, but\nunfortunately, I have some remaining work to do..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait for me next to the training ground.\nI'll meet you as soon as I can."
+      "<DBAF43F0>": "Please wait for me near the training grounds ahead.\nI will be there shortly."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Very well. We'll see you there."
+      "<DBAF43F0>": "Y-yes... Understood."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They were outstanding soldiers.\nI'd go so far as to say they\nwere the pride of Agnus."
+      "<DBAF43F0>": "[ML:line ]They were very excellent soldiers.\nOne could even say they were the pride of Agnus."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, now they're traitors. People\nare mysteries. You can never\nreally understand them."
+      "<DBAF43F0>": "And now they are traitors...\nPeople are a mystery, are they not?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't you agree?"
+      "<DBAF43F0>": "Do you not think so?"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But I'm the commander. I can't\nlet my personal feelings get in\nthe way of my duty."
+      "<DBAF43F0>": "Yes, I am a commander as well.\nI will not allow my personal feelings\nto interfere with my duties."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I will deal with them. You can\nleave the matter with me."
+      "<DBAF43F0>": "As for their treatment,\nI would ask that you leave it all to me."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We can't afford to ignore anything\nthat might do our very world harm."
+      "<DBAF43F0>": "For I cannot overlook an existence\nthat brings harm to this world."
     }
   ]
 }

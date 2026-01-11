@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You did come after all."
+      "<DBAF43F0>": "You've come."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yep. You're preparing for\nAgnus's attack?"
+      "<DBAF43F0>": "Yes, you're preparing for the Agnian army's attack, right?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We certainly are. Not far from now,\nwe're going to be marching out there,\nsurrounded by furious enemies."
+      "<DBAF43F0>": "That's right. We are now going to\nsurround and crush the enemy."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're being stationed near the\nwaterfall entrance. Are you with us?"
+      "<DBAF43F0>": "They should be arriving near the waterfall entrance.\nWill you lend us a hand too?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, we'll stick with you."
+      "<DBAF43F0>": "Of course, leave it to us."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then let's get to the waterfall entrance\nand stage a counterattack."
+      "<DBAF43F0>": "Then let's move to the waterfall entrance and intercept them."
     }
   ]
 }

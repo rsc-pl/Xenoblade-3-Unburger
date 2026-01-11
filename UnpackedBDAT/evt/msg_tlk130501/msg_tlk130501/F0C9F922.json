@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Equipped in the Ferrons' Blades is a\nmechanism for generating \"rogue ether\"."
+      "<DBAF43F0>": "The Iron Giant's Blade is equipped with\na function to deploy \"mutant ether\"."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Its effects are wide-ranging, from\ndecreasing an enemy's offensive abilities,\nto weakening their defenses."
+      "<DBAF43F0>": "Lowering the enemy's attack power...\nweakening their defense...\nThe effects of mutant ether are diverse."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As a result, it weakens the target and\nallows for its total destruction. That's\na standard Ferron battle strategy."
+      "<DBAF43F0>": "Corrupt the target and ensure its destruction...\nThat is the basic tactic of the Iron Giant."
     }
   ]
 }

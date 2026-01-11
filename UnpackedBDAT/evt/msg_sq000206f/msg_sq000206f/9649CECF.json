@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We found plenty of useful stuff here."
+      "<DBAF43F0>": "We managed to recover\na lot of useful stuff."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There was more left behind\nthan I'd dared hope."
+      "<DBAF43F0>": "I'm glad there were more supplies\nleft than I had thought."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I couldn't detect any monster presence\naround the Iron Giant perimeter."
+      "<DBAF43F0>": "There were no signs of monsters\naround the Iron Giant."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seems like we'll be safe, then.\nShall we rest here for the day?"
+      "<DBAF43F0>": "It seems safe enough.\nShould we rest here for today?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ooh, I've still got energy left in the tank.\nI can take first watch!"
+      "<DBAF43F0>": "I still have plenty of energy,\nso I'll take the first watch!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sena, acting alone really isn't-"
+      "<DBAF43F0>": "Sena, acting alone is..."
     },
     {
       "$id": 7,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What the-?!"
+      "<DBAF43F0>": "What was that?!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meheheheheh...\nShillshill is not Nopon of dubious origin..."
+      "<DBAF43F0>": "Mehehehe~~~\nShillshill is not a suspicious Nopon, meh~~"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Your colony affiliation and objective.\nTell me quick."
+      "<DBAF43F0>": "State your colony affiliation and objective."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shillshill is traveling traderpon,\nnot bound to any 'pon or man."
+      "<DBAF43F0>": "Shillshill is a wandering merchant Nopon,\nbound by nothing, meh."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Saw light shining here, so took it upon self\nto investigate so-called haps."
+      "<DBAF43F0>": "Shillshill saw a shiny-shiny light from over here,\nso just came to take a look, meh."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A Nopon vagrant, then...? Man.\nIs there anywhere you guys aren't?"
+      "<DBAF43F0>": "A stray Nopon, huh?\nSeriously, you guys\nare everywhere."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Why have to call \"vagrant\"?\nThat word show real lack of respect!"
+      "<DBAF43F0>": "Not a stray, meh!\nHow rude, meh!"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're not with Agnus or Keves, right?\nHow about...\"itinerant\", then?"
+      "<DBAF43F0>": "So you don't belong to Agnus or Keves,\n'is that it?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meh! Suppose that slightly better.\nAnyhow, any friend that Shillshill meet\nsoon turn to customer, and vice versa!"
+      "<DBAF43F0>": "Meh-meh!\nEveryone I meet is a customer, meh!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So what kinds of things do you sell?"
+      "<DBAF43F0>": "What do you deal in?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, Search Headgear, and Bunnit Choker,\nand all that jazz. Shillshill deal in anything!"
+      "<DBAF43F0>": "Search Heads, Bunnit Chokers...\nShillshill has everything, meh!"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That Shillshill meet friends here is\nalso fate. Shillshill give good price,\nso please to buy lots!"
+      "<DBAF43F0>": "Meeting here must be some kind of fate, meh.\nShillshill will give you a discount, so please buy lots, meh!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm a little worried about our finances..."
+      "<DBAF43F0>": "Our funds are a little uncertain."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're right, especially since we won't be\npaid bounties from our colonies any more..."
+      "<DBAF43F0>": "We probably won't be getting\nany more reward money from our colonies..."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In that case, please to sell any and all\nthings of monetary value to Shillshill!"
+      "<DBAF43F0>": "In that case, you should sell all your valuables to Shillshill, meh!"
     }
   ]
 }

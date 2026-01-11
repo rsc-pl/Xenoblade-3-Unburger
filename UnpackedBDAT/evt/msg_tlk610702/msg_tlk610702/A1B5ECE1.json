@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Who'd have thought we'd all be so\nbusy after being liberated, huh?"
+      "<DBAF43F0>": "Even though we've been liberated,\nwhy are we so busy...?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I guess we'll have to put off\ndealing with the warden's lot\nin the camp till later."
+      "<DBAF43F0>": "The Warden's faction that barricaded themselves\nin the prison... well, we can deal with them later..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's probably for the best if you\nstayed away from the camp for\nthe time being."
+      "<DBAF43F0>": "You all shouldn't go to the\nprison camp."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you go, it'll probably cause a real fuss."
+      "<DBAF43F0>": "It's gotten a little complicated."
     }
   ]
 }

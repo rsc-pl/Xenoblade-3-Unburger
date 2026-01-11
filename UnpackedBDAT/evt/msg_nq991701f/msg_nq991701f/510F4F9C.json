@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah! Are you the reinforcements?!"
+      "<DBAF43F0>": "[ML:line ]! Reinforcements...!?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes. The Captain of the Guard requested\nthat we come. We'll be taking over now."
+      "<DBAF43F0>": "Yes, we came at the request of the Captain of the Guard.\nWe'll take it from here."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I-I see. I hope you'll understand\nif we withdraw for now."
+      "<DBAF43F0>": "Un-understood.\nSorry, but we'll have to withdraw for now."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The guy you're about to meet... Well,\nhe doesn't go easy on us just because\nwe're Kevesi... You be careful too."
+      "<DBAF43F0>": "Also[ML:line ]\nthose guys show no mercy,\neven to other Kevesi... Be careful."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, well, well. If I ain't gone\ncompletely loony, I think I see a\nvery warm an' familiar face."
+      "<DBAF43F0>": "[ML:line ]Hohou?\nI was wondering who it was,\nbut if it ain't some mighty familiar faces."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I figured you'd be involved somehow,\nBalroy."
+      "<DBAF43F0>": "Just as I thought, Balroy.\nI knew you had a hand in this."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, do those two know each other or\nsomething?"
+      "<DBAF43F0>": "Do those two know each other?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, they can't seem to get rid of each\nother. Though I'll be honest, it's more\nof a one-sided thing."
+      "<DBAF43F0>": "They're what you'd call fated rivals.\nThough, you could say it's more one-sided on his part."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But I've gotta say, you're really\nnot the luckiest snuffer, are ya?"
+      "<DBAF43F0>": "Still, you've had some bad luck, haven't you?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You must've been begged to come here by\nthat pathetic coward of a guard captain;\ntears pouring down her eyes an' all."
+      "<DBAF43F0>": "I bet you came running after that gutless Captain of the Guard\ncried to you, didn't you?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But 'nuff of all that. Why dontcha join\nmy squad? I'd love nothin' more than\nto kill some snuffers with ya again!"
+      "<DBAF43F0>": "Hey, forget about that stuff.\nWhy don't you join my squad?\nLet's go on a rampage on the battlefield again!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You seem to be salivating at the\nthought of it."
+      "<DBAF43F0>": "You seem to be enjoying yourself."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gahaha! Well, 'course I am! Kill or be\nkilled! That's what it's all 'bout for us\nsoldiers!"
+      "<DBAF43F0>": "Gahaha! Of course I am!\nKilling each other is a soldier's true purpose!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Queen bein' a fake?\nPeace with Agnus?"
+      "<DBAF43F0>": "But despite that~\nthe Queen's a fake?\nPeace with Agnus?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't care 'bout any of that!"
+      "<DBAF43F0>": "None of that stuff\nmatters a damn bit to me right now!!"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You could be Kevesi, Agnian, whoever!\nDon't matter to me! All that matters to\nme is killin'!"
+      "<DBAF43F0>": "Keves, Agnus, who cares!\nThis Balroy\njust wants to kill!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ya get it, dontcha, Zor? Why you ain't\nin the Guard no more, eh? Dontcha?"
+      "<DBAF43F0>": "You're the same type, aren't you, Tson?\nThat's why you left the Guard, right?\nHuh?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You appall me."
+      "<DBAF43F0>": "[ML:line ]Scum."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sorry? What d'ya say there?\nCouldn't hear ya too well, old chum."
+      "<DBAF43F0>": "...Huh? What'd you say just now~?\nI couldn't quite hear you~."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have nothing more to say to a\nblustering piece of scum like you."
+      "<DBAF43F0>": "I have no more words for a piece of trash\nwho just blusters with false bravado."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Blustering, you say? And what's that\ns'posed to mean?"
+      "<DBAF43F0>": "...False bravado?\nWhat's that supposed to mean?"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I said, I have nothing more to say to you,\nscum. Let's get on with it, already."
+      "<DBAF43F0>": "I said I have no more words for you.\nCome and get me already."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Oooh! Just what I wanted to hear!\nWell, let's get down to business, then!"
+      "<DBAF43F0>": "...Hah! Fine by me!\nLet's settle this once and for all!"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Once I have your head, I'll do ya the\nhonor of returning it to your precious\nCaptain of the Guard!"
+      "<DBAF43F0>": "I'll rip that head of yours off\nand send it back to the Captain of the Guard!"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, aren't you a charmer...\nLet's just see you try and take\nmy head, shall we!"
+      "<DBAF43F0>": "Interesting... Let's see you try!"
     }
   ]
 }

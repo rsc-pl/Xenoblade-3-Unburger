@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How'd it go? Did we nail the enemy?!"
+      "<DBAF43F0>": "How did it go?\nDid you beat the enemy?!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Wait, what? He's coming here?!"
+      "<DBAF43F0>": "...Wait, he's coming here?!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "W-wait, hold on!\nI gotta prepare mentally!"
+      "<DBAF43F0>": "Wait! My heart's not ready...!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're looking for a Clammoth,\nI'd say look on Needle Reef Beach,\nor maybe Krezen Cliffs...?"
+      "<DBAF43F0>": "If there's a giant clam, it's probably\non Needle Reef Beach or around\nKrezen Beach."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyway, it's a huge clam,\nso at least you'll know it\nwhen you see it!"
+      "<DBAF43F0>": "It's a really big clam, so\nI think you'll know it when you see it!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, did you find a Clammoth?"
+      "<DBAF43F0>": "Did you find the giant clam?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "While we were waiting, the Cap'n and me\ngot to talking, and... He's really a nice guy!"
+      "<DBAF43F0>": "While we were waiting, I somehow ended up\ngetting along with the Captain."
     }
   ]
 }

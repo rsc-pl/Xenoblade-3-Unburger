@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And not a moment too soon!\nCarrom's told me all about you two."
+      "<DBAF43F0>": "I've been waiting for you.\nI've received word from Carrom."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So I hear you're going to help me\nopen shop, is that right?"
+      "<DBAF43F0>": "I hear you'll be helping\nwith the opening of the new shop."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uh...uh-huh!\nWe'll work hard, I swear!"
+      "<DBAF43F0>": "Y-Yes...!\nNice to meet you!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, just show us what to do!"
+      "<DBAF43F0>": "Nice to meet you!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heh heh, that's the spirit.\nRight, let's get to your duties."
+      "<DBAF43F0>": "Hehe, you're so energetic.\nNow then, let's get started right away—"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, but before that, I'll need to\nprep you with a little onboarding."
+      "<DBAF43F0>": "is what I'd like to say,\nbut first, let's have you go through\nsome simple training."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is that...painful?"
+      "<DBAF43F0>": "Training...?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In this here shop, we have to manage\na lot of different products. I want you\ntwo to organize the stock for me."
+      "<DBAF43F0>": "This shop handles various materials,\nso your job will be to sort them."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Basically, you sort the stuff out,\nand then put them where they're\nsupposed to go."
+      "<DBAF43F0>": "Simply put,\nit's the task of separating items by type."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll go through the motions with you now.\nThink you're ready for it?"
+      "<DBAF43F0>": "Let's practice that now.\nAre you ready?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm ready!"
+      "<DBAF43F0>": "Yes!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's do it!"
+      "<DBAF43F0>": "I'll do it!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, you sort 'em like a boss, kids!"
+      "<DBAF43F0>": "Axel, Finley, do your best!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 49,
-      "<DBAF43F0>": "Choose the category to which each\nitem belongs from the options given."
+      "<DBAF43F0>": "Choose the type of item presented by the shopkeeper\nfrom the options."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 49,
-      "<DBAF43F0>": "To pass, you must get them all right,\nbut you can keep trying until you do."
+      "<DBAF43F0>": "You will pass the training by answering all questions correctly.\nYou can retry even if you make a mistake."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What category is Kelp Mushroom?"
+      "<DBAF43F0>": "What is the category of Kelp Mushroom?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What category is Dainty Shroom?"
+      "<DBAF43F0>": "What is the category of Dainty Shroom?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What category is Jalapenoki?"
+      "<DBAF43F0>": "What is the category of Jalapenoki?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What category is Milky Soy?"
+      "<DBAF43F0>": "What is the category of Milky Soy?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What category is Lucky Spice?"
+      "<DBAF43F0>": "What is the category of Lucky Spice?"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What category is Filling Onion?"
+      "<DBAF43F0>": "What is the category of Filling Onion?"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What category is Walnut Grape?"
+      "<DBAF43F0>": "What is the category of Walnut Grape?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What category is Cool Potato?"
+      "<DBAF43F0>": "What is the category of Cool Potato?"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What category is Humming Plum?"
+      "<DBAF43F0>": "What is the category of Humming Plum?"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What category is Oil Lentil?"
+      "<DBAF43F0>": "What is the category of Oil Lentil?"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What category is Sour Gooseberry?"
+      "<DBAF43F0>": "What is the category of Sour Gooseberry?"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What category is Comet Carrot?"
+      "<DBAF43F0>": "What is the category of Comet Carrot?"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What category is Bizarrenacle?"
+      "<DBAF43F0>": "What is the category of Bizarrenacle?"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What category is Varicini?"
+      "<DBAF43F0>": "What is the category of Varicini?"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What category is Red Durian?"
+      "<DBAF43F0>": "What is the category of Red Durian?"
     },
     {
       "$id": 31,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Seeds"
+      "<DBAF43F0>": "Seed"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Plants"
+      "<DBAF43F0>": "Grass"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Flowers"
+      "<DBAF43F0>": "Flower"
     },
     {
       "$id": 35,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Vegetables"
+      "<DBAF43F0>": "Vegetable"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Mushrooms"
+      "<DBAF43F0>": "Mushroom"
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Gemstones"
+      "<DBAF43F0>": "Gem"
     },
     {
       "$id": 39,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Fossils"
+      "<DBAF43F0>": "Fossil"
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Machine Parts"
+      "<DBAF43F0>": "Machine Part"
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, this is right."
+      "<DBAF43F0>": "Yes, this is it."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This one goes...here..."
+      "<DBAF43F0>": "This one goes here..."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uhh... It's this!"
+      "<DBAF43F0>": "Um... this one!"
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That should do it!"
+      "<DBAF43F0>": "This should do it!"
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Err... Is it this?"
+      "<DBAF43F0>": "I-Is it this one...?"
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait... What was this again?"
+      "<DBAF43F0>": "Wait, what was this one again..."
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This one's confusing..."
+      "<DBAF43F0>": "Mmm, I don't know..."
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What even is this...?"
+      "<DBAF43F0>": "What is this...?"
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well done indeed!\nYou put them all in their proper places."
+      "<DBAF43F0>": "Yes, perfect.\nYou've sorted them correctly."
     },
     {
       "$id": 51,
@@ -538,7 +538,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can tell you'll be able to keep\ngood track of the inventory."
+      "<DBAF43F0>": "With this, I can safely\nentrust you with inventory management."
     },
     {
       "$id": 52,
@@ -548,7 +548,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So it's OK for us to help out?"
+      "<DBAF43F0>": "Can we help with the shop?"
     },
     {
       "$id": 53,
@@ -558,7 +558,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It certainly is. And you've done\nsuch a bang-up job, I should be\nthe one asking you that!"
+      "<DBAF43F0>": "Yes, of course.\nIn fact, I'd like to\nask you."
     },
     {
       "$id": 54,
@@ -568,7 +568,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You keep this up and business is sure to\nbe booming. Starting today, we're a team!"
+      "<DBAF43F0>": "Let's run the shop together.\nI look forward to working with you."
     },
     {
       "$id": 55,
@@ -578,7 +578,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's all up to you guys now.\nGo get 'em!"
+      "<DBAF43F0>": "The rest is up to you.\nBoth of you, do your best."
     },
     {
       "$id": 56,
@@ -588,7 +588,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks, Matthew!"
+      "<DBAF43F0>": "Thank you, Matthew-san!"
     },
     {
       "$id": 57,
@@ -598,7 +598,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You'll stop by when we're open, won't you?!"
+      "<DBAF43F0>": "You have to come to the shop! Promise!"
     },
     {
       "$id": 58,
@@ -608,7 +608,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, you bet!"
+      "<DBAF43F0>": "Yeah, of course."
     },
     {
       "$id": 59,
@@ -618,7 +618,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "The Col. 9 Supply Office (New) has\nbeen set up, offering new products."
+      "<DBAF43F0>": "A new supply depot has been established in Colony 9.\nNew products are now available for purchase."
     },
     {
       "$id": 60,
@@ -628,7 +628,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahh, so close. I'm seeing just a few\nteensy errors in the categorization."
+      "<DBAF43F0>": "Mmm, that was close.\nIt seems you got a few types wrong."
     },
     {
       "$id": 61,
@@ -638,7 +638,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh... S-sorry."
+      "<DBAF43F0>": "I-I'm sorry..."
     },
     {
       "$id": 62,
@@ -648,7 +648,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Really? That's weird..."
+      "<DBAF43F0>": "Huh? That's strange..."
     },
     {
       "$id": 63,
@@ -658,7 +658,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're still new to this, and\neveryone makes mistakes,\nanyway."
+      "<DBAF43F0>": "It's understandable at first.\nEven adults make mistakes sometimes."
     },
     {
       "$id": 64,
@@ -668,7 +668,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's try this again from the top.\nJust speak to me when you're ready."
+      "<DBAF43F0>": "Let's practice again later.\nWe'll start when you're ready."
     },
     {
       "$id": 65,
@@ -678,7 +678,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're stuck, you can always ask us\nfor input. We're there if you need us."
+      "<DBAF43F0>": "If there's anything you don't understand, ask.\nWe'll help you too."
     },
     {
       "$id": 66,
@@ -688,7 +688,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Shells"
+      "<DBAF43F0>": "Shell"
     }
   ]
 }

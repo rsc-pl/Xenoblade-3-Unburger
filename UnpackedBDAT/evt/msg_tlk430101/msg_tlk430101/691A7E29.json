@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If friends are going to Castle,\nbe sure to make proper preparation\nhere before depart, OK?"
+      "<DBAF43F0>": "If you're going to the Castle,\nyou should prepare here, mo."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Entry of caravan to Castle\nis forbidden, friends see."
+      "<DBAF43F0>": "After all, caravans are forbidden\nfrom entering the Castle, mo."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So final chance of friends for big old shop.\nBuy, buy, buy while opportunity remains!"
+      "<DBAF43F0>": "So this is your last chance, mo.\nBuy a lot, mo."
     }
   ]
 }

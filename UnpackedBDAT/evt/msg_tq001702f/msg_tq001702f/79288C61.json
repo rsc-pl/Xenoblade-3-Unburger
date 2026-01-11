@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's wrong?"
+      "<DBAF43F0>": "What is it?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Enemy attack! Agnian forces!"
+      "<DBAF43F0>": "We're under attack! An Agnian force is..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wonder what's going on..."
+      "<DBAF43F0>": "I wonder what happened."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Commander?"
+      "<DBAF43F0>": "[ML:line len=1 ]Commander."
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm thinking."
+      "<DBAF43F0>": "I know."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, what did ya just say?\nZeon's the commander now?"
+      "<DBAF43F0>": "Hey, what did you just say?\nZeon is the commander?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Does that mean the old one...?"
+      "<DBAF43F0>": "Then the previous commander..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There was a change of command!\nSomeone had to take the fall for\nthe traitors."
+      "<DBAF43F0>": "He was dismissed!\nMade to take responsibility for producing traitors."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They even dropped our colony rank..."
+      "<DBAF43F0>": "Our colony rank was dropped, too..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've been so pressed for food, we had\nto venture out this far. All because of you."
+      "<DBAF43F0>": "We're so hard up for food we had to come out this far...\nThanks to you all."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Well, crap."
+      "<DBAF43F0>": "[ML:line len=1 ]You're kidding me."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Go back. We'll take care of things here."
+      "<DBAF43F0>": "You should go back.\nWe'll handle things here."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can't allow that."
+      "<DBAF43F0>": "I cannot do that."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just get going already!"
+      "<DBAF43F0>": "Just go!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...The Agnian battalion."
+      "<DBAF43F0>": "...An Agnian battalion."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They're using terrain to cover\ntheir approach. Am I right?"
+      "<DBAF43F0>": "They're advancing under the cover of the terrain... right?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...How do you know that?"
+      "<DBAF43F0>": "[ML:line len=1 ]How do you know that?"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm well aware that you don't trust me.\nI'm just speaking aloud here."
+      "<DBAF43F0>": "I understand if you can't trust me.\nSo this is just me talking to myself."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll intercept the enemy troops,\nengage them while they're still advancing.\nThey won't get their hands on the Colony."
+      "<DBAF43F0>": "We will now intercept the advancing Agnians.\nWe won't let them have their way with Colony 9."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You retreat and shore up your defenses."
+      "<DBAF43F0>": "I want you to go back, Zeon,\nand solidify the defenses with everyone."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What are you really after here?\nWhy is it you're fighting?"
+      "<DBAF43F0>": "...What is your true intention?\nWhat are you fighting for?"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're both in very different positions now."
+      "<DBAF43F0>": "Our positions have changed."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But that doesn't have to mean everything's\nchanged between us."
+      "<DBAF43F0>": "But surely... some things\nhaven't changed."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh well done, a voice of reason.\nCome off it!"
+      "<DBAF43F0>": "To say such a thing so shamelessly..."
     },
     {
       "$id": 28,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Change of plans. We're bringing them\nback to the colony."
+      "<DBAF43F0>": "Change of plans.\nWe're taking them to the colony."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What? Why?"
+      "<DBAF43F0>": "Huh? Why!"
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're handing them in to the Consul?"
+      "<DBAF43F0>": "Are you handing them over to the Consul?"
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No... I'm integrating them into our force\nas the vanguard."
+      "<DBAF43F0>": "No. We will incorporate them into our forces as vanguards."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're fighting with them?!\nMwamba died because of them!"
+      "<DBAF43F0>": "...We're fighting with them!?\nBut Mwamba died because of Noah and the others..."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're up against a whole battalion.\nHardly the time for us to be picky."
+      "<DBAF43F0>": "The enemy is a full battalion.\nThis is no time to be picky about our methods."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's also possible that Ouroboros have\ninstigated this attack themselves."
+      "<DBAF43F0>": "Besides, there's a possibility that\nthey are involved in this attack."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ugh, you can't be serious!"
+      "<DBAF43F0>": "Are you serious?"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You know exactly how serious I am."
+      "<DBAF43F0>": "You know my personality, don't you?"
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Fire and sparks..."
+      "<DBAF43F0>": "You..."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hold up. Let's do as he says."
+      "<DBAF43F0>": "Hold on.\nLet's follow Zeon's lead here."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What? Why should we?"
+      "<DBAF43F0>": "Huh? Why..."
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just play along!"
+      "<DBAF43F0>": "Just go along with it."
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll be better able to help protect\nColony 9 if we're part of the plan."
+      "<DBAF43F0>": "If we know Colony 9's movements,\nit will be easier for us to protect it."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Lanz..."
+      "<DBAF43F0>": "Lanz."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tch. If you say so."
+      "<DBAF43F0>": "...Tch, fine."
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You have good friends."
+      "<DBAF43F0>": "You have good comrades."
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "One day I'm gonna crack that\nthick bonce of yours and really\nsee what makes you tick..."
+      "<DBAF43F0>": "Your stubborn, blockhead...\nI'll smash it open one day."
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I look forward to it."
+      "<DBAF43F0>": "I will look forward to it."
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You lot head back and update Kite\non the situation."
+      "<DBAF43F0>": "You two head back first\nand tell Kite the situation."
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll see to these ones.\nMeet me in Command."
+      "<DBAF43F0>": "I will accompany them.\nLet's meet in the office."
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As you say."
+      "<DBAF43F0>": "Understood."
     },
     {
       "$id": 51,
@@ -538,7 +538,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmph."
+      "<DBAF43F0>": "Hmph..."
     },
     {
       "$id": 52,
@@ -548,7 +548,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You said not everything's changed\nbetween us."
+      "<DBAF43F0>": "You said some things haven't changed."
     },
     {
       "$id": 53,
@@ -558,7 +558,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Your words no longer have merit.\nSo let's judge where your allegiance lies\nby way of your actions."
+      "<DBAF43F0>": "Words no longer have value.\nI will have you show me your true intentions through your actions."
     },
     {
       "$id": 54,
@@ -568,7 +568,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I understand. We won't let you down."
+      "<DBAF43F0>": "I know. That's the plan."
     },
     {
       "$id": 55,

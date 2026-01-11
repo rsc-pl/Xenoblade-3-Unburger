@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, you guys! Hi there.\nUh, could you keep it brief?\nI'm kinda snowed under..."
+      "<DBAF43F0>": "It's you all...\nSorry, I'm a bit busy.\nKeep it brief, please."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then we'll get right to it.\nSomeone hit one of your transports, yeah?"
+      "<DBAF43F0>": "Let me guess.\nA supply convoy was attacked, right?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Whuh? Where'd you hear tha-\nOh, whatever. At least it will be quick."
+      "<DBAF43F0>": "...! Where did you hear—\nNo, if that's the case, this will be quick."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Remember before, when a secret\nmessenger we sent to our allies\ngot attacked?"
+      "<DBAF43F0>": "You remember the incident where the secret envoy\nwe sent to our allies was attacked?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The same Levnis from that time\nshowed up again, only this time,\nit went after...well, you already know."
+      "<DBAF43F0>": "The same Levnis from that time appeared again.\nThis time its target was... as you already know."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do you have anything that might help us\ntrack them?"
+      "<DBAF43F0>": "Is there any lead to track its whereabouts?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, you guys are tracking them too?"
+      "<DBAF43F0>": "Are you all also chasing them?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, for a few reasons. You wanna\nlet us handle your side of it as well?"
+      "<DBAF43F0>": "We have our own circumstances.\nThis time, would you mind leaving it to us?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Sure, since you ask so nicely."
+      "<DBAF43F0>": "...Understood.\nIf that is your request."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Cheers, Maxie, we owe you.\nAnd sorry for the hassle."
+      "<DBAF43F0>": "I'm in your debt, Maxie.\nAnd... I'm sorry."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nah, don't mention it. This isn't the\ntime for personal feelings. Best focus\non resolving the matter at hand."
+      "<DBAF43F0>": "Don't worry about it.\nLet's set personal feelings aside for now.\nThe priority is a swift resolution to the situation."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "According to my info, the attack took place\naround the border between here and the\nDannagh Desert."
+      "<DBAF43F0>": "According to our information, the attack happened\naround the border between here and the Dannagh Desert."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you search every nook and cranny\nthereabouts, you might find something."
+      "<DBAF43F0>": "If you search the terrain thoroughly,\nyou might find something."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood. Then we'll\nhave to go do just that."
+      "<DBAF43F0>": "Understood.\nWe'll go there and investigate ourselves."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sure it goes without saying, but\nI'll say it anyway - be real\ncareful. ...Oh, and good luck."
+      "<DBAF43F0>": "I'm sure you already know, but\ndon't let your guard down.\n...I pray for your good fortune in battle."
     }
   ]
 }

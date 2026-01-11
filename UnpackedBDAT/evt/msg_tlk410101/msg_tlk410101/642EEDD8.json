@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, rebels. Here you are."
+      "<DBAF43F0>": "...So you've come, you rebels."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's you! You were on that bridge-"
+      "<DBAF43F0>": "You...! You were the one\non the bridge[ML:line ]..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If I could have killed you then,\nthe heights I would have reached-"
+      "<DBAF43F0>": "If I had defeated you then,\nI could have reached even greater heights[ML:line ]..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, let's say you could have done that.\nForgetting us for a second, Ashera is\nyour comrade."
+      "<DBAF43F0>": "Putting us aside for a moment,\nAshera is your comrade, is she not?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We test ourselves against the strong,\nwhoever they may be. That is the Colony\n11 way. Remember that, Ouroboros."
+      "<DBAF43F0>": "If there is a strong opponent, I will devour them, no matter who they are.\n...That is the way of Colony 11.\nRemember that, Ouroboros."
     }
   ]
 }

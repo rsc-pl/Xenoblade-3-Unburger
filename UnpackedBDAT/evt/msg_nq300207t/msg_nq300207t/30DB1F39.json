@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey! Look at this!"
+      "<DBAF43F0>": "Hey! Hey,\nlook at this!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Yep, that's a bit of broken wood, all right."
+      "<DBAF43F0>": "……What is it?\nIt's just a piece of wood."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, really, look at it! Don't you\nfind the shape interesting?"
+      "<DBAF43F0>": "Take a proper look~! Isn't\nthe shape of it interesting?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you polished it up all nice, it'd make a\ncool plate with a handle, don't you think?"
+      "<DBAF43F0>": "If I polished it up nicely,\nI bet it could be a plate with a handle!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's a really cleanly broken bit of\nwood, huh! Though it speaks more\n\"chopping board\" than \"plate\" to me."
+      "<DBAF43F0>": "It broke in such a convenient way.\nLooks more like a cutting board than a plate, though……"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Wait a minute. There's\nsomething written on it..."
+      "<DBAF43F0>": "……Hey, on the back……\nIsn't there something written on it?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? Where...?"
+      "<DBAF43F0>": "Huh? Where?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Oh, yeah, you're right! It reads\n\"NEEDHELP\"!"
+      "<DBAF43F0>": "……Ah, you're right!\nIt says \"help me\"!?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Where did you find this thing?"
+      "<DBAF43F0>": "Where did you find this?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "On the hidden coast! All kinds\nof things wash up there!"
+      "<DBAF43F0>": "On the hidden beach!\nAll sorts of things wash up there."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You know, if that was someone's\ndistress signal..."
+      "<DBAF43F0>": "If someone sent this adrift\nto ask for help……"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maybe some other clues washed up\non the beach? Let's go have a look!"
+      "<DBAF43F0>": "There might be other clues.\nLet's go take a look!"
     }
   ]
 }

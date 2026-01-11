@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The logistics chief told me you were\ncoming. You wanted to talk about the\nattacker?"
+      "<DBAF43F0>": "I heard what you had to say to the logistics chief.\nAbout the investigation into the attackers?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I'll be honest, we don't really\nknow anything about that Levnis's\nwhereabouts yet."
+      "<DBAF43F0>": "...To be honest,\nwe still haven't found anything regarding\nthe whereabouts of that Levnis."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However, it seems that there may have\nbeen a similar incident involving goods\nstolen by a Levnis at Colony 4."
+      "<DBAF43F0>": "However, it seems that an incident where a Levnis\nplundered supplies has also occurred\nat Colony 4, just like with Lambda."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Your guess is that the perpetrator\nof the Colony 4 attack was the same\nperson who was responsible here?"
+      "<DBAF43F0>": "So you're saying the incident at Colony 4\nand this one were perpetrated by the same culprit?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I think they might be."
+      "<DBAF43F0>": "Yes, most likely."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Really, though...? That's a long way to go..."
+      "<DBAF43F0>": "Seriously...?\nThey're operating that far out?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If nothing is done, other colonies may\nalso suffer losses to goods and materiel."
+      "<DBAF43F0>": "If this is left unchecked, it's feared that\nother colonies will also be affected."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was hoping you guys would be able to\nvisit Colony 4 and investigate matters\non the ground."
+      "<DBAF43F0>": "Therefore, I would like you all\nto actually go to Colony 4\nand conduct an on-site investigation."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Why us? What's wrong with\nyou lot handling it?"
+      "<DBAF43F0>": "Why us?\nCan't you guys do it?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we Agnians did anything like that\npublicly, we would arouse lots of\nsuspicion."
+      "<DBAF43F0>": "If we Agnians make a move openly,\nthere's a risk of them becoming wary."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Especially, immediately after\ngetting raided..."
+      "<DBAF43F0>": "Especially right after being attacked."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, exactly. It would be hard for us\nto investigate any further."
+      "<DBAF43F0>": "Yes, that's right.\nFurther investigation by us is difficult."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But also, since I hear you guys are all\nbuddy-buddy with the Colony 4 folks..."
+      "<DBAF43F0>": "On that point, you all have been\non friendly terms with Colony 4 for some time, so..."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, I see your point. Guess we're in\nthe best position to take this on.\nAll right, we'll take a look."
+      "<DBAF43F0>": "In that case, we are indeed the most suitable for the job.\nWe'll take it."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Before we depart, I request\na quick confirmation."
+      "<DBAF43F0>": "...Before that,\nallow me to confirm one thing."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Levnis that attacked the transport,\nwas it similar to this unit?"
+      "<DBAF43F0>": "The Levnis that attacked the transport convoy,\nwas it definitely this unit?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Hmm, if I remember correctly,\nI think they could be the same model."
+      "<DBAF43F0>": "...Yes. If my memory is correct,\nI believe it was a unit of the same model."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Understood. Thank you\nfor your cooperation."
+      "<DBAF43F0>": "...Understood. I appreciate your cooperation."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems we can conclude that the\nperpetrator of the attack on the transport\nwas a Ferron, after all..."
+      "<DBAF43F0>": "So it seems we can be sure the culprit who\nattacked the transport convoy was a Ferron..."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Taion, mate, pal...\nYou always know exactly what to say."
+      "<DBAF43F0>": "Taion, you...\nYou could stand to choose your words more—"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just stating the facts."
+      "<DBAF43F0>": "It was merely a confirmation of fact."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Regardless, no matter if it's a Ferron,\nor an as-yet unknown Levnis model,\nthe real problem lies elsewhere."
+      "<DBAF43F0>": "In any case, whether it's a Ferron\nor an unknown Levnis,\nthe heart of the problem isn't there."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's important is who was piloting it."
+      "<DBAF43F0>": "What's important is...\n\"who was piloting it.\""
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 13..."
+      "<DBAF43F0>": "\"Number Two\"..."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uhh? Are we gonna like this?"
+      "<DBAF43F0>": "Hm? Number Two?"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I have information to offer."
+      "<DBAF43F0>": "...I have a proposal."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Probability is high that the objective\nis a Ferron. Assuming that is correct..."
+      "<DBAF43F0>": "The target is highly likely to be a Ferron.\nAssuming this as fact..."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I believe I may have knowledge of\nthe operator's identity."
+      "<DBAF43F0>": "I... have an idea as to\nthe identity of the pilot."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa, really? But, all the folks from\nColony 0 were accounted for..."
+      "<DBAF43F0>": "R-really?\nBut everyone from Colony 0 was—"
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Several years ago, a soldier went\nmissing in action after an accident\nduring a mission."
+      "<DBAF43F0>": "...Several years ago, there was a soldier who\nwent missing in an accident during a mission."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That was No. 13.\nThe operator of Ferron unit No. 13."
+      "<DBAF43F0>": "That was \"Number Two\"...\nthe pilot of Ferron Unit Two."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see..."
+      "<DBAF43F0>": "Number Two..."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "At the time, neither the husk nor the\nFerron were recovered, leading to No. 13\nbeing declared killed in the line of duty..."
+      "<DBAF43F0>": "At the time, neither the body nor the Ferron were found,\nand it was thought she died in battle, but..."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But you're saying it's possible she's\nstill alive somewhere today, is that it?"
+      "<DBAF43F0>": "...perhaps she's still alive somewhere,\neven now... huh?"
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If No. 13 got separated from her\ncomrades, no wonder she'd be pushed\nto steal supplies in order to survive..."
+      "<DBAF43F0>": "Isolated from her comrades, Number Two was forced\nto steal supplies to survive...?"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I have no proof for the conjecture.\nHowever..."
+      "<DBAF43F0>": "...There is no confirmation.\nBut..."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If No. 13 truly is alive, then this time\naround... I will be sure to..."
+      "<DBAF43F0>": "If Number Two is truly alive,\nI... this time, I want to..."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nagiri... Have you been worrying about this\never since we talked to Hakubi...?"
+      "<DBAF43F0>": "Nagiri... could it be, ever since you spoke\nwith Hakubi, you've been..."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "............"
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All right. It looks like we've got\none more objective to add to the list."
+      "<DBAF43F0>": "I see.\nLooks like we've got another objective."
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right-o! To bring No. 13 back to safety!\nSound about right, Nagiri?"
+      "<DBAF43F0>": "You're right. Let's all bring Number Two back.\nRight, Nagiri?"
     },
     {
       "$id": 43,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All right then. Time to head to Colony 4\nand look for clues, just like Shitone said."
+      "<DBAF43F0>": "Well then, just as Shitone said,\nlet's go look for clues at Colony 4."
     }
   ]
 }

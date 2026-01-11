@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As a colony we're mostly self-sufficient,\nso we need arable land."
+      "<DBAF43F0>": "We are fundamentally self-sufficient,\nwhich is why we need fields."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Enabling you to grow your own food\nwithout having to forage. Good thinking."
+      "<DBAF43F0>": "Fields...... I see.\nSo this is how you can grow food."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yuzuriha-! Oh, you've brought friends."
+      "<DBAF43F0>": "Yuzuriha... and you all too......"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've come to help with the harvest.\nDo you need a hand with anything?"
+      "<DBAF43F0>": "We came to help with the harvest.\nIs there anything we can do?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, are you serious? Yes, sure,\nthere's plenty of work going around."
+      "<DBAF43F0>": "Huh? You will?\nYes, yes, there's plenty."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yokaze, don't just-"
+      "<DBAF43F0>": "Hey, Yokaze......"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd accept a Tirkin's help\nright now, so they're in."
+      "<DBAF43F0>": "We're so busy I'd accept help from a Tirkin,\nso there's no reason to refuse."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Imayou and Yokaze are in charge of\nassigning the work in the fields."
+      "<DBAF43F0>": "Imayou and Yokaze have taken the lead\nin helping with the fields."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's better for me to be nearby,\ngiven the injuries coming in."
+      "<DBAF43F0>": "Since people get injured,\nit's better for me to be nearby."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Injuries?! Who'd have thought farming\ncould be so dangerous?"
+      "<DBAF43F0>": "You do something that dangerous in the fields?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't be dense. There's\nalways danger in the forest."
+      "<DBAF43F0>": "The forest is always full of danger."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So how about it? Still willing?"
+      "<DBAF43F0>": "So? Are you willing to lend us your strength?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course. Just tell us\nwhat you need from us."
+      "<DBAF43F0>": "Yes, of course.\nJust tell us what to do."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In that case, how do you feel\nabout digging up potatoes?"
+      "<DBAF43F0>": "Then, I'm sorry to ask,\nbut could you dig up some potatoes?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Spud patrol. Got it."
+      "<DBAF43F0>": "Potatoes, got it."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks. Shouldn't take\nlong if you all pitch in."
+      "<DBAF43F0>": "I'm counting on you.\nIf we all do it together, it should be over soon."
     }
   ]
 }

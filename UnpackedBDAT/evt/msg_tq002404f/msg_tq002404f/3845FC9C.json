@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, you're here."
+      "<DBAF43F0>": "Oh, it's you guys."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "About the girl we transferred here...\nShe's just woken up."
+      "<DBAF43F0>": "The girl we transferred here,\nshe just regained consciousness a moment ago."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa! Really?"
+      "<DBAF43F0>": "Huh? Really?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah. Although, I should say,\nshe's a little, uhm..."
+      "<DBAF43F0>": "Yeah... but, you know,\nthat girl, how should I put it..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Were there any complications?"
+      "<DBAF43F0>": "Was there some kind of problem?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...No, nothing like that. Or at least,\nnothing to complain to you about."
+      "<DBAF43F0>": "...No, it's nothing.\nIt's not for an outsider to say."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're not making sense,\nand it's getting me antsy..."
+      "<DBAF43F0>": "What is it? You're making me curious."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The doctor said she didn't need any\nmedical attention, and... You know what,\nwhy don't you just talk to her yourselves."
+      "<DBAF43F0>": "The doctor told me not to pry.\nWell, why don't you just go see her?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just bear in mind, she's still a patient,\nso take it easy on her, eh?"
+      "<DBAF43F0>": "But please, don't push\nthe patient too hard."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seems at least they kept her safe...\nBut now what?"
+      "<DBAF43F0>": "We ended up protecting her, but...\nwhat do we do now?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, it ain't like we can just leave her\nhere forever..."
+      "<DBAF43F0>": "True, we can't just keep her\nhere forever..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's talk to her first, like he said.\nWe should try to learn more."
+      "<DBAF43F0>": "First, let's try talking to her.\nShe might have her own circumstances."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All right, but she's recently injured.\nWe probably shouldn't all crowd her."
+      "<DBAF43F0>": "That said, she's an injured person.\nIt wouldn't be right for all of us to barge in."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're right. If we're just asking questions,\none person should be enough."
+      "<DBAF43F0>": "You're right. Even if we're just asking questions,\nit's probably better if just one person goes."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That sounds like a plan. So who'll go?"
+      "<DBAF43F0>": "If we do that, who will go?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Surely it's Eunie, right? She deals with\ninjured people all the time, she should\nbe right at home."
+      "<DBAF43F0>": "It should be Eunie, right?\nShe seems good at dealing with injured people."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh yeah? Cheers for volunteering me."
+      "<DBAF43F0>": "Huh? Don't just decide for me."
     },
     {
       "$id": 18,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You, Sena? Why the sudden impulse?"
+      "<DBAF43F0>": "You, Sena? Why so suddenly?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well...\nIt's probably my fault she's like this..."
+      "<DBAF43F0>": "Well... this happened\nprobably because of me."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It was really more like an accident,\ny'know. There's no need for you to\nfeel responsible."
+      "<DBAF43F0>": "It was like an accident, wasn't it?\nYou don't need to feel responsible."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's not that exactly, it's more like...\nIf I don't do something, erm, I..."
+      "<DBAF43F0>": "It's not that, it's more like, if I don't do this,\nI'll have a... uh..."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I'll have a dirty con...con...\ncon-science?"
+      "<DBAF43F0>": "...Bad night's sleep?"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've never heard that word\nout loud, have you?"
+      "<DBAF43F0>": "Close.\nThe correct phrase is \"bad conscience.\""
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gah..."
+      "<DBAF43F0>": "Ugh..."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then, we'll leave the girl to you.\nIs that all right, Sena?"
+      "<DBAF43F0>": "Then, is it okay to leave her\nto Sena?"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I'll be fine."
+      "<DBAF43F0>": "Yeah, I'm fine."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do be careful though."
+      "<DBAF43F0>": "Don't let your guard down, Sena."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She might be meek now, but keep in\nmind she and her mates came after us."
+      "<DBAF43F0>": "Even if she looks like that, she's one of\nthe people who attacked us."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll be right outside.\nIf anything happens, just shout."
+      "<DBAF43F0>": "We'll be waiting outside,\nso if anything happens, call us right away."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can handle myself, Mio-chan.\nBut thanks, I will."
+      "<DBAF43F0>": "I'll be fine, Mio-chan.\nBut, roger that."
     }
   ]
 }

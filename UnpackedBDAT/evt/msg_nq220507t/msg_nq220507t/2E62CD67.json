@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Yuzuriha? What are you doing here?"
+      "<DBAF43F0>": "......Yuzuriha.\nWhy are you here?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's what I want to know!\nWhat's going on here? Why\nhaven't you been in contact?"
+      "<DBAF43F0>": "I should be the one saying that......\nWhy are you in a place like this?\nAnd you didn't even take my transmissions......"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry, I lost track of time."
+      "<DBAF43F0>": "I'm sorry, I didn't notice."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This your idea of a nice\nday out or something?"
+      "<DBAF43F0>": "......What are you doing in a place like this?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, not really...\nI'm not doing anything out here."
+      "<DBAF43F0>": "......Nothing.\nI'm not doing anything."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What do you mean by that?"
+      "<DBAF43F0>": "What do you mean?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I came searching for whoever...\nwhoever killed..."
+      "<DBAF43F0>": "I came here looking for the person\nwho killed our comrade."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's OK, I know."
+      "<DBAF43F0>": "As I thought..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But there was no one left to find. He died\nsoon after he was reassigned here."
+      "<DBAF43F0>": "But that person was no longer here.\nApparently, they died soon after being reassigned here."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is all that's left to even\nshow there was a battle here..."
+      "<DBAF43F0>": "They say there was a battle here.\nAll that's left is the ruin......"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Were you going to avenge your friend?"
+      "<DBAF43F0>": "Did you intend to...... take revenge?"
     },
     {
       "$id": 13,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When the Flame Clock was broken, for\nsome reason I saw my friend's face."
+      "<DBAF43F0>": "When we were freed from the Flame Clock,\nfor some reason, I suddenly remembered\nthe face of my precious comrade."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And also their killer's..."
+      "<DBAF43F0>": "And at the same time......\nthe face of the person who killed them......"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's the worst feeling, isn't it?"
+      "<DBAF43F0>": "That helpless feeling......\nI know it well."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I started to wonder what the killer\nwas doing with his life. I wanted\nto meet him. Just once."
+      "<DBAF43F0>": "I got curious about what they were doing,\nand I decided to go and meet them once."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But...it was too late. Everyone in Colony 4\nsaid he'd fought bravely for his friends..."
+      "<DBAF43F0>": "But...... they were already gone.\nThe people of Colony 4 said\nthey fought bravely for their comrades."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So you couldn't get\nthe closure you needed."
+      "<DBAF43F0>": "You couldn't achieve your goal......\nIs that what you mean?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I didn't get to meet him."
+      "<DBAF43F0>": "That's right, yes...... I couldn't meet them."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But I kind of feel better about it all."
+      "<DBAF43F0>": "But strangely, I feel refreshed."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He was fighting for something too."
+      "<DBAF43F0>": "That person too... must have been fighting\nwith some feelings of their own......"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He was our enemy and I hated him\nso much, but he was still just a soldier,\nwith friends he cared for."
+      "<DBAF43F0>": "They were an enemy at the time,\nand I held no small amount of hatred,\nbut they cherished their comrades."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're right. And those feelings of\nfriendship are something we hold\nonto as well."
+      "<DBAF43F0>": "That's right.\nOur feelings for our comrades......\nwe also continue to hold them."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sorry I made you come all this way."
+      "<DBAF43F0>": "I'm sorry for making you\ncome all this way."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shall we go back to Tau?"
+      "<DBAF43F0>": "Will you return to Tau?"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not yet. I think I want\nto stay here a bit longer."
+      "<DBAF43F0>": "No, I'll stay here a little longer."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colony 4 would have considered me an\nenemy at one time, but they've treated\nme so kindly."
+      "<DBAF43F0>": "The people of Colony 4,\neven though I was an enemy, accepted me\nand treated me kindly."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I want to learn from them\nbefore I go back."
+      "<DBAF43F0>": "So I think I'll study here a little more,\nand then go back."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Got it. I think it'll be a\ngood experience for you."
+      "<DBAF43F0>": "Yes...\nFor you,\nthat might be for the best."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But please, please,\nplease keep in touch, OK?"
+      "<DBAF43F0>": "However, you must make sure\nyou can be contacted.\nUnderstood?"
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I will. Thanks, Yuzuriha.\nAnd you, too."
+      "<DBAF43F0>": "Yes, thank you, Yuzuriha.\nAnd you all too......"
     }
   ]
 }

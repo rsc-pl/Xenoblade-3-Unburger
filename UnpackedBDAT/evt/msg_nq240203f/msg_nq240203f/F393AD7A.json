@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hello, there, Ouroboros.\nThe Captain of the Guard filled\nme in on the situation."
+      "<DBAF43F0>": "So you've come, Ouroboros.\nI've heard the details from the Guard Captain."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, I don't believe we've met.\nVigne, captain of Khatorl Squad."
+      "<DBAF43F0>": "It's a pleasure to meet you.\nI am Vigne, captain of the\nGuard's Khatorl Squad."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And this is Heath, captain\nof Soltnar Squad."
+      "<DBAF43F0>": "And this is Heath,\ncaptain of the Soltana Squad."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Pleasure to meet you."
+      "<DBAF43F0>": "Yo, nice to meet ya."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As far as I'm concerned, there's no\nhigher honor than getting to train\nwith the illustrious Ouroboros."
+      "<DBAF43F0>": "To be able to train alongside the renowned Ouroboros\nis the highest honor."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm not convinced we'll win, but by the\nQueen we'll give it everything we've got."
+      "<DBAF43F0>": "I don't expect to win, but\nwe will face you with all our might."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tch, losing before you've\neven started. What idiocy."
+      "<DBAF43F0>": "Tch... What kind of idiot thinks about losing\nbefore the fight even starts?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I say you're the idiot here. Underestimating\nan opponent like this only invites disaster.\nFalse bravado is a poor strategy indeed."
+      "<DBAF43F0>": "Heh, you're the idiot, aren't you?\nTo not even understand the strategy of making the\nopponent underestimate our strength to lure them into a trap."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You shut your mouth!"
+      "<DBAF43F0>": "What did you say?!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...This is what the captain\nwas talking about, I see."
+      "<DBAF43F0>": "...I see.\nIt's just as the Guard Captain said."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shall we kick off the training?"
+      "<DBAF43F0>": "So, what's the plan for the training?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry, this is very unprofessional."
+      "<DBAF43F0>": "M-My apologies."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let me explain the exercise."
+      "<DBAF43F0>": "Then allow me to explain the training details."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll be split into two teams, one\non the offense and one defense."
+      "<DBAF43F0>": "In this training, each team will be divided into\nan attacking side and a defending side."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Attackers win if they manage\nto take control of this area."
+      "<DBAF43F0>": "The attacking side wins if they\nsuccessfully take control of this entire area..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Defenders, on the other hand,\nwill need to incapacitate all members\nof the opposing side."
+      "<DBAF43F0>": "The defending side wins if they\nincapacitate all members of the attacking side...\nThose are the rules."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course, as the Guard, we'll\nbe taking the defensive position.\nSo that leaves you to attack."
+      "<DBAF43F0>": "The defending side will, of course,\nbe handled by us, the Guard, so\nwe ask you to be the attackers."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sounds good."
+      "<DBAF43F0>": "Alright, understood."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I know very well that you're\nstronger than the norm..."
+      "<DBAF43F0>": "I can tell just by facing you\nthat you're no ordinary opponents..."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But I'm not going to give up my position\nas the first guard unit so easily!"
+      "<DBAF43F0>": "But we're not planning to easily give up our\nposition as the number 1 unit of the Guard."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This promises to be exciting!"
+      "<DBAF43F0>": "Heh, that sounds like fun."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's hardly a Volff's whisker\nbetween the first and second units."
+      "<DBAF43F0>": "Even if he's number 1,\nthe difference between him and me, number 2,\nis no thicker than a Volff's hair."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, so, you're both really great?"
+      "<DBAF43F0>": "U-Umm...\nSo, in short, you're both skilled?"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is everybody ready?"
+      "<DBAF43F0>": "Is everyone ready?!"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's get this done!"
+      "<DBAF43F0>": "Alright then, let's go!"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What?! These monsters..."
+      "<DBAF43F0>": "What are these monsters!?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't ask me! They just showed up out of\nthe blue and started heading this way..."
+      "<DBAF43F0>": "I don't know! They just suddenly\nstarted heading this way—"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "These monsters aren't from the forest.\nWhy would they have come in so far?"
+      "<DBAF43F0>": "...These aren't monsters you see in the forest.\nWhy are they in a place like this..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have my hunches..."
+      "<DBAF43F0>": "It must be her..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No point guessing right now!\nLet's send these guys packing!"
+      "<DBAF43F0>": "No use thinking about it!\nLet's just blow them all away!"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Since we're already out here gathering\nfood, we could think about building up\na reserve of stuff that'll keep for a while."
+      "<DBAF43F0>": "Since we're looking for ingredients...\nI'd like to gather some things\nthat will keep for a while."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's a good idea. What would that be...?\nMushrooms, nuts, that sort of thing?"
+      "<DBAF43F0>": "That's a good idea.\nIn that case... mushrooms and nuts, I suppose?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm on it!"
+      "<DBAF43F0>": "Got it!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By the way, when the Tirkins got into\nour camp, did no one seriously notice?"
+      "<DBAF43F0>": "By the way,\nwhen the Tirkins came to the camp,\ndid no one notice?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nope! Not even slightly.\nNot even a tiny little bit."
+      "<DBAF43F0>": "N-Not at all, not even a little bit."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Riku was busy sawing logs all last night."
+      "<DBAF43F0>": "Last night, Riku was sleeping soundly, meh."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I'm sorry, you guys."
+      "<DBAF43F0>": "...I'm sorry."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'd walked a lot yesterday.\nI'm sure you were just super pooped."
+      "<DBAF43F0>": "We walked a lot,\nso you must have been tired."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You'd never miss something as obvious\nas Tirkin footsteps on a good day, Mio-chan!"
+      "<DBAF43F0>": "A normal Mio-chan\nwould never miss the sound\nof Tirkin footsteps."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think it's safe to say we were all partially\nguilty of negligence this time."
+      "<DBAF43F0>": "This isn't a problem for Mio to apologize for alone."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Indeed."
+      "<DBAF43F0>": "I agree."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However, we should also reconsider our\nstorage arrangements, for the future."
+      "<DBAF43F0>": "However,\nwe should reconsider how we manage our supplies."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah well, it's water under the bridge now.\nNo point talking locks after the Ardun's\nalready bolted, am I right?"
+      "<DBAF43F0>": "Well,\nthere's no use crying over spilt milk,\nis there?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's just get to the searching already."
+      "<DBAF43F0>": "Let's just hurry up and go search."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Very well."
+      "<DBAF43F0>": "...You're right."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, is that...?"
+      "<DBAF43F0>": "Is that..."
     },
     {
       "$id": 17,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's hard to fill up on mushrooms alone...\nI say we hunt us some meat, as well."
+      "<DBAF43F0>": "It's hard to get full\non just mushrooms.\nWe definitely need some meat, too."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Woo-hoo! I love me some hunter-gathering!"
+      "<DBAF43F0>": "Alright!\nLet's gather lots of ingredients!"
     }
   ]
 }

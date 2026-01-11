@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We do want a rematch, Ouroboros,\nbut you're going to have to wait a bit."
+      "<DBAF43F0>": "Ouroboros[ML:line ]...\nI'd like to request a rematch,\nbut I'd like you to wait a little longer."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure. Hit us up any time."
+      "<DBAF43F0>": "Sure, anytime."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can you give us three years?"
+      "<DBAF43F0>": "Can you wait another three years?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What? No! We'll all be\npast our tenth terms!"
+      "<DBAF43F0>": "I can't do that.\nWe'll be past our 10th term!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm. So waiting until time runs out\nwon't do any good... Need a new plan."
+      "<DBAF43F0>": "Hmm[ML:line ]...\nSo the strategy of waiting for time to run out won't work[ML:line ]..."
     }
   ]
 }

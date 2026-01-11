@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry to keep you waiting, Ysorra!\nWe've brought someone for you!"
+      "<DBAF43F0>": "Sorry to keep you waiting, Isora!\nWe brought him!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "E-Eunie?!"
+      "<DBAF43F0>": "E-Eunie-senpai!?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's going on? What do you mean,\nyou brought someone for me...?"
+      "<DBAF43F0>": "What's going on all of a sudden?\nYou brought him...?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You said you wanted to be a military\ndoctor, right? So I brought you one!"
+      "<DBAF43F0>": "Look, you said you wanted to be a military doctor, right?\nSo..."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't worry. Maybach is a friend of ours.\nThere's nothing to be scared of."
+      "<DBAF43F0>": "Don't worry.\nMaybach is one of us.\nThere's nothing to be afraid of."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "U-um... So what's going on?"
+      "<DBAF43F0>": "U-um...\nWhat is all this?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You said you hit a wall studying alone\nto become a doctor, right?"
+      "<DBAF43F0>": "You told me there's a limit to studying\nto become a military doctor on your own, right?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can't help you, but this guy can.\nYou can ask him anything you like."
+      "<DBAF43F0>": "I might not be able to help,\nbut this guy can be of help to you, Isora.\nSo, ask him anything."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You really went out of your way for me...\nThank you, Eunie!"
+      "<DBAF43F0>": "Eunie-senpai..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Errr... You're the new recruit that\nwanted to become a doctor, right?"
+      "<DBAF43F0>": "Um...\nSo you're the new recruit who wants\nto be a military doctor, is that right?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, yes! My name is Ysorra!"
+      "<DBAF43F0>": "Ah, yes!\nMy name is Isora!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hello, Ysorra. I'm Maybach.\nNice to formally meet you..."
+      "<DBAF43F0>": "Isora-san, then.\nI'm Maybach, it's a pleasure to meet you again..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "N-nice to meet you, too!"
+      "<DBAF43F0>": "Th-the pleasure is all mine!"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's get started, then... Is there\nanything you want to ask me?"
+      "<DBAF43F0>": "So...\nyou have something you want to ask me, right?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Yes! I'd like to know about medical\napproaches to treating different symptoms..."
+      "<DBAF43F0>": "...Yes!\nAbout medical treatment methods for different symptoms..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, yes... OK. That's a pretty broad topic,\ndepending on your progress so far. First,\nlet's start with a case study..."
+      "<DBAF43F0>": "Ah... I understand.\nThat sort of thing can be quite broad depending on the progress,\nso first, let's start with a case study..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like those two are gonna get along\ngreat. I imagine she'll be fine to leave in\nMaybach's hands."
+      "<DBAF43F0>": "They're already getting excited.\nFor now, it seems we can safely\nleave Isora to Maybach."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I just hope that her determination\nbears fruit!"
+      "<DBAF43F0>": "Now, let's just pray that Isora's\naspirations come to fruition."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By the way, Eunie...\nThank you once again for all this."
+      "<DBAF43F0>": "And also, Eunie...\n...Please allow me to thank you again."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You took notice of Ysorra's real goals\nand made every effort to help her."
+      "<DBAF43F0>": "For accepting Isora's true feelings\nand going to such lengths for her..."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As Gamma Commander I must thank you,\nfrom the bottom of my heart."
+      "<DBAF43F0>": "As the Commander of Gamma, I thank you from the bottom of my heart."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nah, it's fine. She came up and asked me.\nHow could I say no? I wanted to help."
+      "<DBAF43F0>": "It's nothing. When someone relies on you,\nyou want to help them out, right?"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Though actually Maybach's the helpful one,\nnot me."
+      "<DBAF43F0>": "Well, in reality, the one helping\nisn't me, but Maybach."
     }
   ]
 }

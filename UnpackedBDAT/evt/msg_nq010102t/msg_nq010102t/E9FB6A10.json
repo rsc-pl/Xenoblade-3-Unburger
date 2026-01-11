@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Carrie, where's Url? Isn't he with you?"
+      "<DBAF43F0>": "Carrie.\nIsn't Url with you?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank the flames you're here.\nCould you help look for him?"
+      "<DBAF43F0>": "You came at a good time...\nCould you search for Url for me?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Has something happened?"
+      "<DBAF43F0>": "Did something happen?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We came out to send off\na friend who died in battle."
+      "<DBAF43F0>": "Url and I came here\nto send off a comrade who died\nin the last battle."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eilis and Leonardo shouted\nto me for something."
+      "<DBAF43F0>": "But Eilis and Leonardo\ncalled out to me."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He must have wandered off\nwhile we were talking."
+      "<DBAF43F0>": "While I was dealing with them,\nhe went off somewhere."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Even when he played the off-seeing\nmelody, there were no motes like\nyou usually get."
+      "<DBAF43F0>": "Even when he played the sending melody,\nthe motes didn't appear..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think he was embarrassed\nthat Eilis and Leonardo had seen it."
+      "<DBAF43F0>": "I think he felt awkward\nbecause Eilis and the others saw it."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No off-seeing motes? I wonder if that's\nthe reason he hasn't been wanting to do it."
+      "<DBAF43F0>": "The sending motes won't appear...?\nSo this was the reason Url didn't want\nto perform sendings."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Please, will you find him for me?"
+      "<DBAF43F0>": "Please,\ncan you and the others search for Url too?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Please help Eilis and Leonardo. Eilis is to the\neast of Viliera Hill, near the Millick Meadows\nwaterfall and Leonardo's at Kamos Guidepost."
+      "<DBAF43F0>": "Eilis and the others are helping out.\nEilis is searching east of Viliera Hill,\nand I think Leonardo is at Kamos Guidepost."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK. We'll let you know\nas soon as we find him."
+      "<DBAF43F0>": "Understood.\nWe'll contact you as soon as we find Url."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Url isn't responding to\nour communications."
+      "<DBAF43F0>": "Url\nisn't responding to communications either."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Some kind of guard I've turned out to be!\nI don't even know where he is..."
+      "<DBAF43F0>": "I'm supposed to be his guard,\nand yet I can't even stay by his side..."
     }
   ]
 }

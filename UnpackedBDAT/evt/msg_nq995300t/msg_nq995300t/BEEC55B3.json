@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What did you do to get yourself in here?"
+      "<DBAF43F0>": "What did you do to get put in here?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Weeell, a whole buncha things, let's say."
+      "<DBAF43F0>": "Me, well, all sorts of things.\nI was in the Inspection Bureau,\nand I squashed some information[ML:line ]\nbut I don't think I did anything wrong."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I used to work in the inspection branch.\nOne day, I erased a certain piece of intel,\nbut I don't think I did anythin' wrong."
+      "<DBAF43F0>": "Since coming here, I've had Touma\nand Shuuri to keep me entertained, but..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now, I haven't had a bad time here thanks\nto Touma and Shuuri, but you know what?"
+      "<DBAF43F0>": "I'm going to beat you\nand get myself out of here."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I now feel like batterin' you lot, and\nmoseying on outta here, if you'd be\nso inclined?"
+      "<DBAF43F0>": "I'm going to beat you\nand get myself out of here."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I now feel like batterin' you lot, and\nmoseying on outta here, if you'd be\nso inclined?"
+      "<DBAF43F0>": "Oh, ready for a fight?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, up for a fight, then?"
+      "<DBAF43F0>": "No, I have something I want to ask...\nWhat was your reason for withholding information on Keves\nand not sharing it with Agnus?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not quite. We have some things we'd like\nto ask first."
+      "<DBAF43F0>": "My, that's a very...\ndirect question."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You managed to get your hands on\nKeves intel, and yet you didn't share\nit with Agnus. Why?"
+      "<DBAF43F0>": "Withholding information on Keves\nwould be to your own disadvantage, wouldn't it?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Getting straight to the point again, I see."
+      "<DBAF43F0>": "Fine, I'll talk to pass the time.\nAs I was scrutinizing the Kevesi information that came to me..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Surely squashing intel about\nKeves wouldn't have been in your\nbest interests."
+      "<DBAF43F0>": "I realized it was false information\nspread by our Consul."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...All right. Sit back, relax, and let Jhodor tell\nyou a story. Not like I've got much else\nbetter to do, anyway."
+      "<DBAF43F0>": "What?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "After I'd investigated the Keves intel that\nfell into my hands..."
+      "<DBAF43F0>": "Apparently, he didn't like\nthat we were getting stronger."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I discovered that it was fake intel created\nby our Consul."
+      "<DBAF43F0>": "That Consul was trying to crush us.\nI don't know what he was thinking."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What?"
+      "<DBAF43F0>": "It was easier for him to frame us\nso Keves could gather life flames..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seems like they weren't too happy about\nus getting more and more powerful,\nand were trying to crush us."
+      "<DBAF43F0>": "To do something like that while keeping us under his thumb,\nhe must have been insane!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I dunno what was going through their\nhead. It don't even begin to make sense."
+      "<DBAF43F0>": "That's why I squashed the enemy's information with my own hands\nand had my allies withdraw early.\nTo minimize the damage..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maybe they just thought that screwing\nus was an easy way to fill the Kevesi's\nFlame Clock."
+      "<DBAF43F0>": "Did you tell anyone about that?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're the ones who made the Consul so\npowerful, and that's how they decide to\ntreat us?! Boils my blood, it does!"
+      "<DBAF43F0>": "Of course not.\nIf I had, my comrades would've been done in by the Consul."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's why I destroyed that intel, so my\nfriends could withdraw from that pointless\nbattle, and limit the casualties."
+      "<DBAF43F0>": "But his eyes are gone now.\nIt's late, but I feel better having talked about it."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did you talk about this to anyone?"
+      "<DBAF43F0>": "Besides, I have no regrets.\nThe Touma and Shuuri I met here\nare good people!"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Absolutely no way I'd've talked to my\nfriends about it. Otherwise, the Consul\nwould've done 'em in."
+      "<DBAF43F0>": "Maybe now... you don't have to\ncarry the burden all by yourself."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thankfully, that bastard can't hurt us\nany more. Talking 'bout it now has lifted a\nweight off my shoulders, it has."
+      "<DBAF43F0>": "That's right...\nWe don't need to worry about the Consul's gaze anymore."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And I've got zero regrets, as well. Got to\nmeet Touma and Shuuri here, after all, and\nthey're class!"
+      "<DBAF43F0>": "Heh... if I get out,\nit might not be so bad to try consulting with someone."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "At least now, you don't have to bear the\nburden on your own any more."
+      "<DBAF43F0>": "Tell Tsuyu about Jhodor's circumstances?"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She's right. You're not living under that\nConsul's eye any more, so cheer up, mate."
+      "<DBAF43F0>": "Tell her"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heh... If I ever do get outta here, I guess\nit might be worth talkin' 'bout what's on\nmy mind a bit more often."
+      "<DBAF43F0>": "I'm going to explain the situation to Tsuyu from Internal Affairs.\nPlease wait a moment."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Tell Tsuyu about Jhodor's story?"
+      "<DBAF43F0>": "Don't tell her yet"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Tell her"
+      "<DBAF43F0>": "What? Is there something else?"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll go explain your story to Tsuyu from\nsecurity. We won't be long."
+      "<DBAF43F0>": "I'm happy to be getting out,\nbut if you're going to fight the other two, I'll join in."
     },
     {
       "$id": 31,

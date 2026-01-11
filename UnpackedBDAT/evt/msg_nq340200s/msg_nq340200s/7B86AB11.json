@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That rumor we heard about Shiki,\nthe guy who spoke to Ghondor..."
+      "<DBAF43F0>": "That rumor about the guy named Shiki,\nwho Ghondor was just talking to..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes... It seems the people of the City\ndon't trust him. They don't understand\nhis motives."
+      "<DBAF43F0>": "Yes... it seems the people from the City\nare suspicious of him.\nBecause they can't see his objective."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In a way, it's understandable. The situation\nis what it is, and there's no easy fix for it."
+      "<DBAF43F0>": "That can't be helped... Given the circumstances,\nit's not something that can be easily resolved."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Pff... Think back on what those bastards\ndid to us, all right? Never mind an easy\nfix... I don't think there's any fixing it at all."
+      "<DBAF43F0>": "Hah! When you think about what they did to us,\nit's not about resolving it or not resolving it,\nit's just not that kind of story."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shiki is an old acquaintance of mine.\nOriginally, he was an employee of the\nInternal Affairs Bureau of Agnus Castle."
+      "<DBAF43F0>": "Shiki is an old acquaintance of mine.\nHe originally worked for the Internal Affairs\nBureau here at Agnus Castle."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Shiki I knew was a fairly\nstraightforward man, with no particular\nstrange quirks about him..."
+      "<DBAF43F0>": "The Shiki I knew was a normal person\nwith no particular oddities about him..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When we talked to him, he struck me as,\nlike, industrious, I guess? Diligent, innit."
+      "<DBAF43F0>": "From talking to him, he seemed\ndiligent, or maybe serious."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He did a fair bit to help when they were\nsending Lost Numbers back to the City\nand all that..."
+      "<DBAF43F0>": "It's probably true that he cooperated\nto help the Lost Numbers return to the City, but..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, whichever way he was or seemed,\nif he's got a bone to pick with the City,\nwe gotta nip that in the bud."
+      "<DBAF43F0>": "Either way, if he's the kind of person who's going to\nobstruct the City, we have to stop him, right?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...A fair point. How about we make\nsome inquiries into Shiki, then?"
+      "<DBAF43F0>": "...You're right.\nHow about we try to\ninvestigate Shiki a little?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we ask around with the Agnians,\nwe're bound to learn something."
+      "<DBAF43F0>": "If we ask the Agnian people,\nwe might find out something."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A'ight, sorted. Let's do it then!"
+      "<DBAF43F0>": "Well then, let's give it a try!"
     }
   ]
 }

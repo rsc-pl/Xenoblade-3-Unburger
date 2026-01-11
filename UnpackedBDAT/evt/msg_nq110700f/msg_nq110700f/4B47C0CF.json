@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Isn't that...an Agnian Levnis? What's\nthat doing in a place like this...?"
+      "<DBAF43F0>": "This is... an Agnian Levnis?\nWhy is it in a place like..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's not a safe thing to have in a\nKeves colony, even if it doesn't seem\nto be working any more."
+      "<DBAF43F0>": "It doesn't seem to be operational, but\nit's not something that should be\nin a Kevesi colony."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hah hah hah! No fear! I got permission\nfrom Bolearis, all proper-like!"
+      "<DBAF43F0>": "Hahaha! It's okay!\nI have proper permission\nfrom Bolearis!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, then!\nHave you all worked it out yet?!"
+      "<DBAF43F0>": "Now then...!\nHave you all noticed!?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry, but can we pause for\na second? Who even are you?"
+      "<DBAF43F0>": "What are you talking about,\nwithout even a proper greeting?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, what a social blunder! I'm Aym, from\nthe maintenance and development team."
+      "<DBAF43F0>": "Oh, excuse me!\nMy name is Aym, from the maintenance and development squad!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now that's out of the way, where was I?"
+      "<DBAF43F0>": "Well then, with greetings out of the way,\nlet's get back to the topic!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This guy barely even stops for breath..."
+      "<DBAF43F0>": "What a restless guy..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What I wanted to say concerns the\nAgnian Levnis over here!"
+      "<DBAF43F0>": "What I wanted to say is!\nIt's about the Agnian Levnis!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Here's my question... What do you think\nmakes the difference between Kevesi and\nAgnian Levnises?!"
+      "<DBAF43F0>": "Now for a question!\nThe Kevesi and Agnian Levnises!\nWhat do you think is the difference between them!?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "U-um... They have different color schemes?"
+      "<DBAF43F0>": "U-Um... the color?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Correct! But also incorrect!"
+      "<DBAF43F0>": "Correct! But also wrong!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Pick one, mate!"
+      "<DBAF43F0>": "Which is it!?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The right answer is...their legs!"
+      "<DBAF43F0>": "The correct answer is... \"legs\"!"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"Legs\"? I didn't know\nthere was any difference."
+      "<DBAF43F0>": "Legs?\nWas there any difference?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You see, Agnian Levnises come with a\nhover assembly as a standard feature.\nIn other words, they can float!"
+      "<DBAF43F0>": "The Agnian Levnis has!\nA float mechanism as a standard feature!\nIn other words, it \"floats\"!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Hm. Yes, that's true,\nnow that you mention it."
+      "<DBAF43F0>": "...Ah, now that you mention it,\nthat might have been the case."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now, this goes without saying, but the\nweight of a Levnis airframe is considerable!"
+      "<DBAF43F0>": "It goes without saying, but!\nThe weight of a Levnis's frame is considerable!"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Additionally, they have to carry heavy\narmaments, therefore you'd think it's\ncrucial that they're built with sturdy legs!"
+      "<DBAF43F0>": "And even more so when loaded with armaments!\nTherefore, the leg section of a Levnis\nmust be robustly built!"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However! Not so with the Agnian ones!\nThey don't even *have* legs! And when\nthey do, they're terribly spindly!"
+      "<DBAF43F0>": "But! Agnus is the opposite!\nI mean, it doesn't even have legs!\nAnd if it does, it's an incredibly flimsy form!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Aren't you just saying that Agnian\nLevnises are functionally better?"
+      "<DBAF43F0>": "Isn't it just that the Agnian ones\nare better performing?"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heheh! Though I loathe to admit it, the\nKevesi Levnises truly play second fiddle\nto the Agnian ones in this one regard!"
+      "<DBAF43F0>": "Grr! I hate to admit it, but!\nOn that one point, it is a fact that\nKeves is lagging behind...!"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's why I made a request to the\ntactician squad that we seize some\nproper Agnian Levnises."
+      "<DBAF43F0>": "So I asked the tactics squad\nto capture a suitable Agnian Levnis\nfor me, but..."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I see. So you're basically using this\nLevnis as a subject for your research."
+      "<DBAF43F0>": "...I see.\nSo this Levnis is essentially\nyour research sample."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Exactly! But! The seizure operation was\nrather violent! So a lot of parts got\ndamaged and now it's almost junk!"
+      "<DBAF43F0>": "Exactly! But!\nThey must have captured it quite roughly!\nThe parts are all broken, it's practically junk!"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So my dream of unraveling the mysterious\nAgnian technology is still miles away!"
+      "<DBAF43F0>": "At this rate, deciphering Agnus's mysterious technology\nis a dream within a dream within a dream!!"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So I thought I would ask you! Please help\nmy dream become reality! I would greatly\nappreciate your cooperation!"
+      "<DBAF43F0>": "Please, I beg you!\nTo help me realize my dream!\nCould I ask for your cooperation!"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Why are you asking us? We're not\nengineers or anythin'. What good\nwould we do?"
+      "<DBAF43F0>": "Even if you say that,\nwe're not technicians, you know?\nWe can't do much."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No fear, it's rather simple, actually!\nLong story short, I need more Agnian\nLevnis materials to run tests on!"
+      "<DBAF43F0>": "It's not difficult!\nSimply put, I need more samples!\nOf Agnian Levnises!"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You don't even need to try and catch one.\nJust defeat Levnises and bring me back\nthe parts! Pretty please?"
+      "<DBAF43F0>": "You don't have to capture them,\nso could you just defeat some Levnises\nand collect their parts for me!"
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By \"parts\", you mean...literally anything?"
+      "<DBAF43F0>": "Even if you say parts...\nIs anything okay for now?"
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes! I will inspect the parts myself!\nAll you have to do is destroy the Levnises\nwith wild abandon and nab me the pieces!"
+      "<DBAF43F0>": "Yes! I'll do the inspection myself!\nYou all just mindlessly destroy Levnises!\nAnd snatch their parts!"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh! I'm sure I don't need to tell you this,\nbut I only have need of *Agnian* parts!\nPlease don't forget!"
+      "<DBAF43F0>": "Oh! And it goes without saying, but!\nIt has to be an \"Agnian\" Levnis!\nDon't forget!"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y-yes, we gathered that already.\nWe'll bring some back for you."
+      "<DBAF43F0>": "O-Okay.\nWe'll bring the parts once we've gathered them."
     }
   ]
 }

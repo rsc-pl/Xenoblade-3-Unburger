@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh-ho-ho! Have friends come\nto sell portrait, maybe?"
+      "<DBAF43F0>": "Momo! Could it be that\nyou've come to sell that portrait, mo?"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Sell it"
+      "<DBAF43F0>": "Yes"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Don't sell it"
+      "<DBAF43F0>": "No"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "You got 200,000G."
+      "<DBAF43F0>": "Sold for 200,000G."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Wellwell is willing to pay\n200,000G for it."
+      "<DBAF43F0>": "Wellwell wants to buy it for\n200,000G."
     }
   ]
 }

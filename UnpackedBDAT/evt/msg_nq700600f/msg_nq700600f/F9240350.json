@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're good, it's all good.\nYou're not hurt, are you?"
+      "<DBAF43F0>": "You're safe now.\nAre you hurt?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "(sob) Brother... I want my brother..."
+      "<DBAF43F0>": "Uu... big brother...\nwhere are you...?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Calm down a moment, kid.\nWhere's your parents?"
+      "<DBAF43F0>": "Do you have other family?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I lost track of everyone...\nMum, Dad, my big brother..."
+      "<DBAF43F0>": "Big brother, papa, and mama...\nthey're all gone..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "(sob, wail)"
+      "<DBAF43F0>": "Uuh...!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, it's gonna be OK.\nWe'll find your family, promise."
+      "<DBAF43F0>": "Don't worry, we'll definitely\nfind your family."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But first, we gotta get you to safety.\nWill you come with us?"
+      "<DBAF43F0>": "But first, let's go back\nto a safe place together... okay?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...'Kay..."
+      "<DBAF43F0>": "...Okay."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, are you Axel's little sister,\nby any chance?"
+      "<DBAF43F0>": "Hey, your big brother...\ncould he be Axel?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh...? You know\nmy big brother?"
+      "<DBAF43F0>": "Huh...?\nYou know my big brother?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, we've met. He's in Colony 9\nright now. C'mon, let's go and get\nyou two reunited."
+      "<DBAF43F0>": "Yeah, your big brother is\nin a place called Colony 9.\nLet's go meet him together."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Really? Yaaay!"
+      "<DBAF43F0>": "Really? Yay!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Finley has been put in the care\nof Colony 9."
+      "<DBAF43F0>": "Finley is now under the protection of Colony 9."
     }
   ]
 }

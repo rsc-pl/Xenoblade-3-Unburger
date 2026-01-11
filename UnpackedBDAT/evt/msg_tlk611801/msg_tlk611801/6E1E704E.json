@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ten long years I spent in this prison\ncamp. That's a humdinger of a stretch."
+      "<DBAF43F0>": "I've been living in this prison camp\nfor about 10 years now."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's probably about time they\npicked me out for the chop."
+      "<DBAF43F0>": "...But I'll probably be chosen\nfor execution soon."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What makes you think that?"
+      "<DBAF43F0>": "Why do you think so?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My age. You don't see many\nold prisoners in here, do you?"
+      "<DBAF43F0>": "My age.\nThere are no old prisoners here.\n...That's what it means."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's all right, you're safe now.\nCan you move?"
+      "<DBAF43F0>": "You're safe now. Are you hurt?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah..."
+      "<DBAF43F0>": "Mm-mm..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That was so scary..."
+      "<DBAF43F0>": "I-I was so scared..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But you were very brave. You just let us\ntake care of everything from here on, OK?"
+      "<DBAF43F0>": "Yeah, you did great.\nLeave the rest to us, okay?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Fogbeasts. That was about the\nlast thing I expected. Damn, am I\nglad you came along now, Matt."
+      "<DBAF43F0>": "I never expected Fogbeasts to show up...\nI'm glad you were here, Matthew."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, all good. The kids are safe,\nand that's what matters here."
+      "<DBAF43F0>": "It's fine.\nWhat's important is that the children are safe."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry, Matthew...\nI fell apart when you needed me most..."
+      "<DBAF43F0>": "I'm sorry, Matthew-san.\nI showed a pathetic side of myself at the last minute..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've never seen a Fogbeast before, right?\nI don't blame you. Things are pretty freaky."
+      "<DBAF43F0>": "Is this your first time with Fogbeasts?\nThen it can't be helped."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...So you fight monsters like that\non top of Moebius."
+      "<DBAF43F0>": "...Matthew-san, you're fighting not only Moebius\nbut also monsters like that."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think...I need to really start getting a grip.\nTo do something that matters to people."
+      "<DBAF43F0>": "I... I'll try harder.\nI'll try my best to be useful to everyone!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maybe then, if I try hard enough...\nI'll be strong enough to save your bacon\nfor a change."
+      "<DBAF43F0>": "And then, one day, I'll surely...\nbecome a strong man who can\nprotect your back, Matthew-san!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Welllll! You go, Mickey-boy!\nIf anyone can do it, you can, my man."
+      "<DBAF43F0>": "Heh, that's the spirit, Mickey.\nI know you can do it."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, Mickey... How about you stop\ndaydreaming about your future self\nand finish the task at hand first?"
+      "<DBAF43F0>": "Hey Mickey, it's nice to talk about your dreams,\nbut the mission isn't over yet, you know?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh... Right. I'll do that!"
+      "<DBAF43F0>": "Ah... Yes, Dillon-san!"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You guys can relax now.\nMe and Mickey'll get the kids home."
+      "<DBAF43F0>": "Mickey and I will take the children back.\nLeave the rest to us."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Besides, I think you've got your own\nbusiness to take care of, right?"
+      "<DBAF43F0>": "You have your own things to do...\nRight?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "True, that. Least we know those scamps are\nin good hands. Safe journey home, yeah?"
+      "<DBAF43F0>": "Yeah, I can trust you guys.\nI'm counting on you."
     }
   ]
 }

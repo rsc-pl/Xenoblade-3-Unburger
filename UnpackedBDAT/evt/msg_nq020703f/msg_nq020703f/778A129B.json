@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...So, with all that said, I'd like you\nto take a trip to Colony Gamma."
+      "<DBAF43F0>": "...And that's why\nI'm having you go to Colony Gamma."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've got it, Captain!"
+      "<DBAF43F0>": "Understood, Captain!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Actually, hold on a second!"
+      "<DBAF43F0>": "...Wait, wait, wait!\nHold on a second!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do you have a problem with that?"
+      "<DBAF43F0>": "Is there a problem?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not a problem, exactly...but isn't\nColony Gamma an...Agnian colony...?"
+      "<DBAF43F0>": "A problem? It's...\nColony Gamma, right?\nThat's an Agnian..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not to worry. Our Flame Clock has\nbeen destroyed. We're in the same\nposition as you."
+      "<DBAF43F0>": "Please rest assured.\nGamma's Flame Clock has been destroyed,\nand we are in the same situation as you."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That means there's no chance of them\ncausing you any harm, Maybach.\nThere should be no issue."
+      "<DBAF43F0>": "That's how it is,\nso no harm will come to you,\nand being Agnian or not is not an issue."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mm... I understand your logic, but..."
+      "<DBAF43F0>": "Hah... I understand the logic, but..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're an excellent assistant, but you're\na little dependent on me sometimes."
+      "<DBAF43F0>": "You're an excellent assistant, but\nyou have a tendency to rely on me too much, don't you?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This would be a great chance to\nget you some worldly experience."
+      "<DBAF43F0>": "That's why I think this mission to Gamma\nis a good opportunity for you to grow."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Captain Olesha!"
+      "<DBAF43F0>": "Captain Olesha..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...OK, I understand."
+      "<DBAF43F0>": "...I understand."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm not sure how much help I'll be,\nbut I'll see what I can do."
+      "<DBAF43F0>": "I don't know how much I can do,\nbut I will do my best."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you very much. We welcome\nyou to our colony with open arms."
+      "<DBAF43F0>": "Thank you very much.\nWe all welcome your visit."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do your best, Maybach. Say hello\nto the little fledgling doctor from me."
+      "<DBAF43F0>": "Do your best, Maybach.\nSay hello to the little doctor-in-training for me."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, Captain!\nMaybach, moving out!"
+      "<DBAF43F0>": "Yes! Captain!\nMaybach, moving out!"
     }
   ]
 }

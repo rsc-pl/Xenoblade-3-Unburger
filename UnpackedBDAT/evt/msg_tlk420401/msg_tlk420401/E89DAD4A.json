@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Castle's Flame Clock, smashed...\nwhile we were out for the count."
+      "<DBAF43F0>": "While I was unconscious,\nthe Castle's Flame Clock was destroyed[ML:line ]..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Was it the Consul's plan, so\nthat we wouldn't get hurt...?"
+      "<DBAF43F0>": "I wonder if that Consul was being considerate,\nso that we wouldn't get hurt[ML:line ]..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm not sure what to say..."
+      "<DBAF43F0>": "......"
     }
   ]
 }

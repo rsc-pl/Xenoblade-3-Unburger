@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, Ghondor. Can I bother you\nfor a moment?"
+      "<DBAF43F0>": "Ghondor-san, do you have a moment?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? What can I do you for, Shiki?"
+      "<DBAF43F0>": "Huh? Shiki, what do you want?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uhm... I was just looking for you\n'cause I wanted to get your advice\nabout something."
+      "<DBAF43F0>": "Yes, there's something I'd like to discuss.\nI was looking for you."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh. It's you lot."
+      "<DBAF43F0>": "Oh, it's you lot."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What are you up to, Ghondor?"
+      "<DBAF43F0>": "Ghondor, what are you doing?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, this chump here was just saying he\nwanted to pick my brains about something.\nHave you met Shiki yet?"
+      "<DBAF43F0>": "This guy... ah, this Shiki fellow\nsaid he had something he wanted to talk about."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, so what you got for me, Shiki?\nGotta be something big if you're daring\nto bother me, huh?"
+      "<DBAF43F0>": "So what is it?\nIt had better be something worthwhile."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's right! The thing is, people from the\nprison camp are getting ready to head\nback to the City right now."
+      "<DBAF43F0>": "Yes. I'm arranging for the people from\nthe prison to be able to return\nto the City."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're sending our guys back, huh?"
+      "<DBAF43F0>": "You're sending my soldiers back?"
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's something to be welcomed, surely?\nIf they're going home to the City?"
+      "<DBAF43F0>": "Isn't that a good thing?\nThey can go back to the City, right?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It is, for sure, but here's the rub. There are\nso many of them, we can't get them back\nwith Levnis transports only."
+      "<DBAF43F0>": "However... there are quite a few of them,\nso we can't get there from here by Levnis."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So we're going to use a boat to get them\nto Farview Cape."
+      "<DBAF43F0>": "Therefore, we'll send a ship\nto Farview Cape."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I gotcha. You want me to get set up to\nbring them in from there, is that right?"
+      "<DBAF43F0>": "I see. So we just need to arrange\nfor their pickup from there."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, right. I've sourced the boat from\nlogistics already. I guess you got the gist\nnow, so can I leave the details with you?"
+      "<DBAF43F0>": "Yes. The ship will be provided by the Logistics Bureau's\nsupply department. I've already spoken to them,\nso please go there for the details."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Akitsu from the supply team's usually\nright on top of things. I'm sure she can fill\nyou in when it comes to the finer points."
+      "<DBAF43F0>": "Akitsu from the supply department is reliable,\nso she should be able to tell you what needs to be done."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I'm good with all that, mate.\nBut if anyone tries to mess with me,\nI reserve the right to mess 'em up. Deal?"
+      "<DBAF43F0>": "...Well, it doesn't sound like a bad deal,\nbut if you try anything funny, I'll knock you out."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ghondor...?!"
+      "<DBAF43F0>": "Ghondor?!"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't fully trust this lot, not yet.\nYou understand, dontcha, dag?"
+      "<DBAF43F0>": "I still don't trust these guys."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, painfully aware, cheers. Even so,\nif you think of the pros and cons, I'm sure\nyou'll agree it's a good deal for you too."
+      "<DBAF43F0>": "Yes, that's understandable.\n...But if you think in terms of pros and cons,\nit's not a bad deal."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I did, and that's exactly why\nI said yes. Noah, you lot had\nbetter come along for the ride."
+      "<DBAF43F0>": "That's why I said I'd do it.\nHey, you lot, let's go too."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You guys mind heading out there for me?"
+      "<DBAF43F0>": "Sorry,\ncould you guys go for me?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like we got railroaded into that...\nWell, whatever. It should be easy enough!"
+      "<DBAF43F0>": "Can't be helped...\nAlright, I'll go with you."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sure that with so many capable hands\non task, the job will get done in no time at\nall! Right, leaving it with you then."
+      "<DBAF43F0>": "With you all here,\nit seems this will be over quickly.\nWell then, I'll leave it to you."
     }
   ]
 }

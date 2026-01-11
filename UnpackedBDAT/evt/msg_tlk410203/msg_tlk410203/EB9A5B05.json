@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...When does the next hunt begin?"
+      "<DBAF43F0>": "...When is the next hunt?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't ask us! We really don't want-"
+      "<DBAF43F0>": "Even if you ask when, we are[ML:line ]..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If a woman doesn't eat, she starves.\nAnd if she doesn't fight, it's Colony 11\nthat starves."
+      "<DBAF43F0>": "Just as a person starves if they do not eat,\nColony 11 starves if it does not fight."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you insist on standing above us,\nthen you need to beware of the hungry\nbeasts beneath you."
+      "<DBAF43F0>": "If you intend to stand above us,\nyou should be careful how you handle a starved beast."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Give me a break..."
+      "<DBAF43F0>": "Scary..."
     }
   ]
 }

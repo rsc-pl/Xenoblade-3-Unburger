@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's the situation?"
+      "<DBAF43F0>": "What's the situation now?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Must say, I'm happy to see your smiling\nfaces. Enemy's nearly upon us, coming\nfrom up top."
+      "<DBAF43F0>": "It's you. A great help you've been.\nThe enemy is closing in from above."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Up top...?"
+      "<DBAF43F0>": "Above..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Got to muster other units\nfor a counterattack."
+      "<DBAF43F0>": "I was just about to gather the other units\nand head out for an interception..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Rosh, wait.\nHold your course straight ahead."
+      "<DBAF43F0>": "Wait, Roshou.\nYou go to the \"front\"."
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It doesn't make sense for the\nAgnian army to hold the top at\nthis point in the fight."
+      "<DBAF43F0>": "It's unnatural for the Agnian army to try and\nsecure the high ground at this stage, isn't it?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If they were going to do that,\nthey would have created a diversion\nright away and attacked here."
+      "<DBAF43F0>": "If they were going to do that, they should have used the other side as a diversion\nfrom the start and attacked here."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yet they've hardly dented our forces.\nThey're not going to risk everything\non a gamble now."
+      "<DBAF43F0>": "It's hard to say that our forces have been worn down.\nIt's also hard to believe they would take a gamble in such a situation."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good eye, lad.\nSo, what's the conclusion?"
+      "<DBAF43F0>": "I see, that makes sense.\nSo?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My guess is that they're trying to\nstrategically tie down our forces on\nthe upper level."
+      "<DBAF43F0>": "I speculate that they are merely using\nthe high ground for a tactical diversion."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a convincing argument.\nI'll shore up our weakest points."
+      "<DBAF43F0>": "......Understood.\nI'll trust your words\nand head to where our forces are likely to be thin."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's the captain for you.\nLightning-fast decisions, bam."
+      "<DBAF43F0>": "As expected of the Captain.\nYou're quick to decide in times like these."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ha. I know I get a bad rap, but I do\nknow how to lead a combat unit."
+      "<DBAF43F0>": "Hmph...... As you can see,\nI lead the combat units."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll push through to the top.\nIf there's an Auto-Lev posted up\nthere too, it'll be a cakewalk."
+      "<DBAF43F0>": "We'll hold the high ground.\nIf there's an autonomous Levnis deployed there,\nit should be no trouble at all."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, this is it, everyone. Let's go!"
+      "<DBAF43F0>": "This is the crucial moment. Let's go, everyone!"
     }
   ]
 }

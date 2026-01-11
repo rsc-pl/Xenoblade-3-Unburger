@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What should an Attacker typically do\nif targeted by the enemy?"
+      "<DBAF43F0>": "What do you do if an Attacker is targeted by the enemy?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Redouble your attack."
+      "<DBAF43F0>": "Press the attack even harder."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Pull back and wait for a Defender to assist."
+      "<DBAF43F0>": "Refrain from attacking and wait for the Defender's support."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What is the most important component\nof a Chain Attack?"
+      "<DBAF43F0>": "What is the most important thing in a Chain Attack?"
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Everyone's enthusiasm"
+      "<DBAF43F0>": "Everyone's passionate feelings"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "The balance of roles within the party"
+      "<DBAF43F0>": "The party's role balance"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What name is given to class-specific\ntechniques?"
+      "<DBAF43F0>": "What is a class-specific technique called?"
     },
     {
       "$id": 10,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Which of these combo routes is wrong?"
+      "<DBAF43F0>": "Which of these combo routes is incorrect?"
     },
     {
       "$id": 14,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Break → Topple → Daze → Beguiling Charms"
+      "<DBAF43F0>": "Break → Topple → Daze → Steal Heart"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Whose role is it to attract the enemy's\nattention?"
+      "<DBAF43F0>": "Who is responsible for drawing the enemy's attention?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Soldiers targeted by the enemy"
+      "<DBAF43F0>": "The soldier targeted by the enemy"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Defenders"
+      "<DBAF43F0>": "Defender"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Strong fighters"
+      "<DBAF43F0>": "The strong one"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Which attacks weaken the enemy?"
+      "<DBAF43F0>": "Which attack weakens the enemy?"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Buffs"
+      "<DBAF43F0>": "Buff"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Debuffs"
+      "<DBAF43F0>": "Debuff"
     },
     {
       "$id": 24,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "What happens to some enemies when\nthey're in trouble?"
+      "<DBAF43F0>": "What happens when certain enemies are in a pinch?"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "They get enraged."
+      "<DBAF43F0>": "They become enraged."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "They become alert."
+      "<DBAF43F0>": "They become awakened."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "They get confused."
+      "<DBAF43F0>": "They go berserk."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Which one of these is not a benefit of\ninflicting Daze?"
+      "<DBAF43F0>": "Which of these is NOT a benefit of the Daze state?"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Attacks always hit."
+      "<DBAF43F0>": "Attacks are guaranteed to hit."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "All allies recover HP."
+      "<DBAF43F0>": "The entire party's HP is restored."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Normal arts will not accumulate aggro."
+      "<DBAF43F0>": "Normal Arts do not increase aggro."
     }
   ]
 }

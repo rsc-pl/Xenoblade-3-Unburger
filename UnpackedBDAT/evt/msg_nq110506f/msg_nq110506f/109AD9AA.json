@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, Captain Maxie. Do you\nknow where Jeremy is?"
+      "<DBAF43F0>": "Captain Maxie,\nwhere is Jeremy?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, hello, Laszlo. I thought I heard\nBolearis took you into custody...?"
+      "<DBAF43F0>": "Laszlo?\nI heard you were detained by\nBolearis..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll explain the details later. Can you\nplease tell us where Jeremy is first?"
+      "<DBAF43F0>": "We'll talk about the details later.\nFor now, could you just tell us\nwhere Jeremy is?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He's on patrol duty with Yorde...\nIt seemed quite urgent."
+      "<DBAF43F0>": "Jeremy is on patrol duty with Yorde.\n...It seems to be an urgent situation."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Take this lot down Route 3C and\nconvene with Jeremy's patrol, posthaste."
+      "<DBAF43F0>": "Take them to Route 3C\nand rendezvous with Jeremy's group immediately."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Got it!"
+      "<DBAF43F0>": "Understood!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They should be near the Dannagh Desert.\nIt's a bit of a trek, so bear with."
+      "<DBAF43F0>": "Yorde and the others are in the Dannagh Desert area.\nIt's a bit of a walk, but please bear with me."
     }
   ]
 }

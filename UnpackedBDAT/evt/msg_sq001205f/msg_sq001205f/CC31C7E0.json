@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Got it!"
+      "<DBAF43F0>": "Found it!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Together with the one we got from\nHer Majesty, that makes two."
+      "<DBAF43F0>": "Including the one we got from the Queen,\nthis is the second one."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's good luck that we found it so quickly.\nWe can only hope the other pieces will\ncome to us just as smoothly..."
+      "<DBAF43F0>": "Finding it so quickly is a good omen.\nI hope we can find the other pieces of Origin metal\nin the same way..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's track down the metal in Aetia."
+      "<DBAF43F0>": "Next, let's go search for the Origin metal\nin the Aetia region."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All right!"
+      "<DBAF43F0>": "Right!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's the, uh...third one, right?"
+      "<DBAF43F0>": "With this, that makes... uh...\nthe third one!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Half down, half to go."
+      "<DBAF43F0>": "Finally halfway there..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meh? Oh, new data just arrive\nfrom Samon."
+      "<DBAF43F0>": "Meh-meh!\nNew data has been sent from Samon, meh."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It looks like we're going to...\nthe Pentelas region, and Fornis."
+      "<DBAF43F0>": "Next are the Pentelas region and\nthe Fornis region..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This part of Pentelas...\nIt's Morukuna Wildwood, I think?"
+      "<DBAF43F0>": "The Pentelas region's...\nIs this Morukuna Wildwood?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And as for Fornis, looks like\nZain's Talon."
+      "<DBAF43F0>": "The one in the Fornis region is at Zain's Talon."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now comes the tricky part.\nWhat do we do from here?"
+      "<DBAF43F0>": "The question is, what to do now."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What can we do, except foster her\nin the City? A first-termer won't be\nany use in a fight..."
+      "<DBAF43F0>": "We have no choice but to shelter her in the City, right?\nShe's only first term, she can't fight yet..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do you find that acceptable?"
+      "<DBAF43F0>": "Are you alright with that?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I don't know."
+      "<DBAF43F0>": "[ML:line ]I don't know."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Would you leave her with me for a while?"
+      "<DBAF43F0>": "Could I ask you to entrust her\nto my care for a while?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait, you're saying you wanna\nlook after Ethel?"
+      "<DBAF43F0>": "You mean, you'll look after Ethel?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just until she settles on her own path."
+      "<DBAF43F0>": "Just until she can decide\nher own path."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I want her to have that freedom.\nI don't know why...but I feel it strongly."
+      "<DBAF43F0>": "I want her to be free.\nI do not know why... but that is what I feel."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For now, let's see what Travis thinks."
+      "<DBAF43F0>": "In any case, let's try\ntalking to Travis first."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As the City's concerned too,\nwe shouldn't decide alone."
+      "<DBAF43F0>": "We can't decide matters concerning\nthe City on our own."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Travis... I fear we will wear him out again."
+      "<DBAF43F0>": "Travis...\nHe will be weary again."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's not fatigue that that guy struggles with..."
+      "<DBAF43F0>": "He's not exactly weary..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You know what, forget it.\nMaybe just don't say that to him, yeah?"
+      "<DBAF43F0>": "[ML:line ]...Oh well.\nJust don't say that to him."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He's kinda touchy about it."
+      "<DBAF43F0>": "He's pretty sensitive about it."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I understand. I will mind\nmy ways around him."
+      "<DBAF43F0>": "Understood. I will keep it in mind."
     }
   ]
 }

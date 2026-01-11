@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Those sensors Hotsuma set up...\nAre they working all right?"
+      "<DBAF43F0>": "The device Hotsuma set up,\nis it functioning?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, so it seems. I'm not convinced they're\nexactly in the best of spots, though."
+      "<DBAF43F0>": "It seems so.\nHowever, the installation location is poor."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How do you mean...?"
+      "<DBAF43F0>": "What do you mean?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, Morukuna Wildwood opens out onto\nthe upper levels of the great falls."
+      "<DBAF43F0>": "You can get to the upper layer of the great waterfall\nfrom the Morukna Wildwood."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In my opinion, that's the kind of place\nyou should have been looking at..."
+      "<DBAF43F0>": "I think that's where it should be set up..."
     }
   ]
 }

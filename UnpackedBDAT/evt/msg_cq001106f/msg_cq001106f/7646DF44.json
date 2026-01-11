@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, whaddaya say, you two?\nReady to give up yet?"
+      "<DBAF43F0>": "What will you do, you two?\nWill you continue?"
     },
     {
       "$id": 2,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's the spirit. We'll spar\nwith you as much as you like."
+      "<DBAF43F0>": "That's the spirit.\nWe'll be your opponents as many times as you like."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hang on a minute...\nI need to check my load-out..."
+      "<DBAF43F0>": "Wait a moment.\nLet me just get ready again..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Fair enough. You better\nmake it count this time."
+      "<DBAF43F0>": "...Alright, I suppose.\nMake sure you're thorough this time."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, just you wait..."
+      "<DBAF43F0>": "I know, I know!"
     }
   ]
 }

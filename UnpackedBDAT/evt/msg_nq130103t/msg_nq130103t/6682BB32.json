@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yep, everything went through no problem."
+      "<DBAF43F0>": "It seems to have been sent successfully."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've got authority over about half\nof the resources in this room."
+      "<DBAF43F0>": "We will entrust you with about half\nof the supplies in this room."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How you divvy it up is absolutely up\nto you. We're trusting you to distribute it\naccording to the common good."
+      "<DBAF43F0>": "How you use them is up to you,\nso please use them for mutual assistance."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The common what now?"
+      "<DBAF43F0>": "Mutual...? What was that?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To each colony according\nto its need, innit."
+      "<DBAF43F0>": "It means we should actively help\nout colonies that are in trouble."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we scratch their back,\nthey'll scratch ours in future."
+      "<DBAF43F0>": "When people are shown kindness,\nthey tend to want to return that kindness."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's like an investment that'll\npay dividends to us later."
+      "<DBAF43F0>": "Please think of it as an investment in the future\nand make full use of it."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Excuse me, Izunome. I have\na little favor to ask you..."
+      "<DBAF43F0>": "Hey, Izunome.\nI have a small favor to ask..."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If Kyrie ever needs your help with\nsomething, can you do your best to help\nher out? I know it's a big ask, but..."
+      "<DBAF43F0>": "If Kyrie ever relies on you,\nI want you to do your best to help her.\nI know it might be a lot to ask, but..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Understood."
+      "<DBAF43F0>": "...I understand."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you. She's lucky to have\nyou to support her, Izunome."
+      "<DBAF43F0>": "Thank you.\nPlease continue to support Kyrie."
     }
   ]
 }

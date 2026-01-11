@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nagiri... What just happened...?"
+      "<DBAF43F0>": "Nagiri, just now..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 4 has given his life to the Ferron."
+      "<DBAF43F0>": "No. 4... has dedicated his life\nto the Iron Trooper."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oi, you'd better explain yourself."
+      "<DBAF43F0>": "Hey, what does that mean?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Ferrons are powered by life's flames."
+      "<DBAF43F0>": "The Iron Troopers operate on life-flame."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Flame Clocks that impel them are\nsynchronized to those of their passengers."
+      "<DBAF43F0>": "The Flame Clock that serves as their power source\nis synchronized with that of the pilot."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait, did you say Flame Clocks?\nDoes that make the Ferrons...?"
+      "<DBAF43F0>": "Wait, a Flame Clock?\nIn that case, the Iron Trooper is..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Indeed. The design differs, but\nyou could see them as functionally\nidentical to Iron Giants."
+      "<DBAF43F0>": "Yes. While the scale is different,\nyou could say it's another kind of Iron Giant."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In addition, Ferron Flame Clocks are fitted\nwith the function to disengage the limiters."
+      "<DBAF43F0>": "In addition, the Iron Trooper's Flame Clock\nhas a function to release the \"limiter.\""
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"Disengage the limiters\"...?"
+      "<DBAF43F0>": "Release the limiter...?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Doing so allows the Ferron to burn through\nthe flames that fuel it at an accelerated\nrate, maximizing the unit's power output."
+      "<DBAF43F0>": "It's a function that pushes the machine's performance\nto its limits by consuming a large amount of life-flame."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Once the limiter is disengaged, a first-term\nsoldier can perform at a level comparable\nto a colony's commander..."
+      "<DBAF43F0>": "Once released, even a first-term soldier can\nexhibit power comparable to a commander..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That incandescent power is the\npith and marrow of the Ferron's,\nof Colony 0's might."
+      "<DBAF43F0>": "This power brought by life is the essence of the Iron Trooper...\nand of us, Colony 0."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...But what *is* Colony 0, to begin with?\nWho are you, who are its soldiers?"
+      "<DBAF43F0>": "...What is Colony 0 in the first place?\nWho are you people?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You could say we are those who work\nbehind the scenes of this war."
+      "<DBAF43F0>": "We are, so to speak,\nthe \"backstage crew\" of this war."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Battlefield manipulation, inciting sedition,\ninformation control, elimination of third\nparty forces..."
+      "<DBAF43F0>": "Manipulating the course of battle, instigating conflict,\ncontrolling information, eliminating third parties..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's all due to our ceaseless, thankless efforts\nthat this war can continue unabated,\nand each life's fate arrives as ordained..."
+      "<DBAF43F0>": "It is because of our unseen efforts\nthat this war maintains its endless equilibrium.\nAnd so, the karma of life turns..."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In other words, we maintain the fabric\nof the world. That is the duty which is our\npleasure to fulfill."
+      "<DBAF43F0>": "In other words, the continuation of the world's order...\nthat is the mission entrusted to us."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nothing but empty words. That's the\nreason you put your men in those things?!"
+      "<DBAF43F0>": "For such a pretext, you put them\nin things like that...!"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well mate, you just showed us your\nwhole ass. I knew you didn't care about\nthe lives of your soldiers after all!"
+      "<DBAF43F0>": "Hah! In the end, it just means you don't care\nabout the lives of your soldiers either!"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Preposterous!"
+      "<DBAF43F0>": "Absolutely not!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I treasure their lives above any\nother good! They are, to me,\nthe most exalted substance!"
+      "<DBAF43F0>": "I consider their lives to be of the utmost importance\nand, above all, precious."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Their immaculate lives, sacrificed in service\nto the world, permeate it and form the\nbasis of the eternity we Moebius covet...!"
+      "<DBAF43F0>": "The radiance of innocent lives, martyred for the world, becomes one,\nand forms the foundation of the eternity that Moebius seeks..."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Stop it."
+      "<DBAF43F0>": "...Stop."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Protecting my innocent lambs whose souls\nlubricate the gears of the world through a\nsublime sacrifice - that is the highest calling!"
+      "<DBAF43F0>": "To watch over them as they offer their souls\nto this sublime act is my greatest joy..."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Isn't it the loftiest vocation conceivable?\nSurely you must agree-"
+      "<DBAF43F0>": "How truly, truly wonderful it is.\nDon't you all think so—"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Shut up already!"
+      "<DBAF43F0>": "Just stop!"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Ah, I must beg your pardon.\nHave I said something to incur\nyour displeasure...?"
+      "<DBAF43F0>": "Ah, my apologies.\nDid I say something to displease you..."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Snuff all of that, and snuff you!"
+      "<DBAF43F0>": "I don't care about that anymore!"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How dare you... How could someone like\nyou think for a second you treasure Nagiri!\nYou have no right!"
+      "<DBAF43F0>": "You... you have no right to say\nyou care about Nagiri!"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll bring you down, right here and\nnow... Nagiri and everyone will be free\nfrom the Flame Clocks!"
+      "<DBAF43F0>": "I'll defeat you right now and free Nagiri...\nand everyone from the Flame Clocks!"
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...But what in the blazes has brought this\non? I told you from the start, I had no\nintention of fighting you..."
+      "<DBAF43F0>": "What has come over you?\nIn the first place, I have no intention of fighting—"
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Have you lost your mind?!"
+      "<DBAF43F0>": "Are you serious?"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Well, it seems unavoidable, now."
+      "<DBAF43F0>": "...So you will fight, no matter what?"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems the negotiations have\nbroken down. Truly regrettable,\nand yet perhaps inevitable..."
+      "<DBAF43F0>": "...The negotiations have broken down, I see.\nIt is truly regrettable, but unavoidable."
     }
   ]
 }

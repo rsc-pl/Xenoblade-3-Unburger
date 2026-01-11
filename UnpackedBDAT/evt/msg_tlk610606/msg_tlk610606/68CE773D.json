@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Man, this just can't be happening..."
+      "<DBAF43F0>": "This isn't what we were told..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The port has been occupied by that\nKevesi mob!"
+      "<DBAF43F0>": "The port has been\noccupied by those Kevesi guys."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But for now, the port is all they've got.\nYou lot could take it back, surely?"
+      "<DBAF43F0>": "But it's only the port for now.\nYou guys can take it back, right?"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mechafriend! How are you feeling?\nOK? No fried circuits or loose bolts?"
+      "<DBAF43F0>": "Mechafriend~!\nHow are you feeling?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "............"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I get it. Thought so. Well, don't\nworry. Next time maintenance is due,\nI'll make sure it's me that handles it!"
+      "<DBAF43F0>": "I see, I see~\nThen I'll handle your\nnext maintenance!"
     }
   ]
 }

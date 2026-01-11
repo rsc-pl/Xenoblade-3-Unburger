@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Er, ma'am! Shiki was, uhm...seeking you."
+      "<DBAF43F0>": "M'lady! Shiki was looking for you."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "M'lady's not here right now. She and\nShiki have some business to attend to."
+      "<DBAF43F0>": "M'lady was called by Shiki,\nshe's not here."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll stay back at Agnus Castle.\nPlease handle the rest!"
+      "<DBAF43F0>": "We'll be staying at Agnus Castle.\nThe rest is up to you."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, ma'am is with you! Then you\nhave nothing at all to worry about!"
+      "<DBAF43F0>": "Well, if M'lady's here,\nthere's nothing to worry about!"
     }
   ]
 }

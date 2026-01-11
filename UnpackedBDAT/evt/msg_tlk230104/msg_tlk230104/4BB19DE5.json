@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've been wondering for a while now...\nWhy don't you delegate bodyguard duties\nto your subordinates?"
+      "<DBAF43F0>": "I've been wondering for some time[ML:line ]...\nWhy don't you entrust her protection to your subordinates?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That would free you up to be in places\nother than here. Are some kind of special\nconsiderations in play, perhaps?"
+      "<DBAF43F0>": "Is there a reason\nyou must be here?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd only remind her. Of the past."
+      "<DBAF43F0>": "If I am here... it reminds her.\nNiina-sama... of the old days..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Accomplices share no future.\nOnly pain."
+      "<DBAF43F0>": "What accomplices share...\nis not the future... it is pain..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you...\nFor saving Niina-sama."
+      "<DBAF43F0>": "...For saving...\nNiina-sama...\nThank you."
     }
   ]
 }

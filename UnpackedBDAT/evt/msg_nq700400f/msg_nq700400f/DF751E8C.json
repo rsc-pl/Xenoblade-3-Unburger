@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Bahahaha! At last, another City face!"
+      "<DBAF43F0>": "Gahahaha!\nI've finally met someone from the City!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Say, I've been hearing chat about a place\nwhere survivors meet, somewhere nearby.\nYou wouldn't know anything, would ya?"
+      "<DBAF43F0>": "Hey, I heard there's a place around here\nwhere survivors gather.\nYou wouldn't happen to know, would you?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure do. It's called Colony 9,\nand I can tell you the way."
+      "<DBAF43F0>": "Yeah, it's a place called Colony 9.\nI'll show you the way."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well now! This must be my lucky day,\nor my name ain't Ruben! And I think\nI know my own name, at least!"
+      "<DBAF43F0>": "Oh! That's a great help!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyhoo, I'm a metallurgist by trade,\nand eager to put these sturdy old bones\nto work again, whatever the task!"
+      "<DBAF43F0>": "I'm Ruben, a metalworker.\nI'm always open to job requests!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Ruben has been put in the care\nof Colony 9."
+      "<DBAF43F0>": "Ruben is now under the protection of Colony 9."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Will this be enough cylinders now?"
+      "<DBAF43F0>": "This should be enough\nether cylinders, right?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They'll do, thanks.\nSorry about all the hassle."
+      "<DBAF43F0>": "That's a great help. Sorry for the trouble."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As for the provisions and supplies...\nI think that should be all of them, too."
+      "<DBAF43F0>": "The supplies and food...\nthis should be everything."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's nice that we're just getting this stuff,\nbut when I think of the trouble\neveryone had to go to, just for this..."
+      "<DBAF43F0>": "Good grief.\nI'm grateful to receive them, but\nbeing this busy is another matter."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey now, it's all for the good of the City.\nYou sure you shouldn't be smiling?"
+      "<DBAF43F0>": "If it helps the City prosper,\nisn't that a good thing?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Believe me, I'm doing plenty of that too.\nA real 12-gauge grin."
+      "<DBAF43F0>": "You're right.\nI couldn't be happier."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyhow, we're all set here,\nand the boat is ready too...\nGuess I'll go on ahead."
+      "<DBAF43F0>": "Well then, since everything's here\nand the ship is ready...\nI'll go on ahead."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry to add insult to manual labor,\nbut could you report back to Shiki?"
+      "<DBAF43F0>": "Sorry to trouble you, but\nplease report to Shiki for me."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure thing, we're on it."
+      "<DBAF43F0>": "Yeah, got it."
     }
   ]
 }

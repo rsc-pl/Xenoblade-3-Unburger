@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I gave Branden some of the meat\nfrom the big game I took down earlier.\nYou should have some!"
+      "<DBAF43F0>": "...I brought down some big game in the last hunt.\nI've given the meat to Branden. Go and eat."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh, well OK... Any reason?"
+      "<DBAF43F0>": "Ah, yeah, thanks...\nWhat's with the sudden gesture?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Call it a good luck ritual. A hunt to\ncelebrate your imminent victory!"
+      "<DBAF43F0>": "I hunted prey to wish for your victory.\n...It's something like a good luck charm."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now that, I can understand.\nThanks, love!"
+      "<DBAF43F0>": "...I see.\nIn that case, I'll gratefully accept."
     }
   ]
 }

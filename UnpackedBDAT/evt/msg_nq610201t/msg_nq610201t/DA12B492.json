@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we try swapping out these parts..."
+      "<DBAF43F0>": "The part to replace is..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Nothing."
+      "<DBAF43F0>": "...It's not moving."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems those weren't the faulty parts.\nLet's see what else could be the cause..."
+      "<DBAF43F0>": "So it wasn't this part...\nLet's try another one."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Nothing."
+      "<DBAF43F0>": "...It's not moving."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems those weren't the faulty parts.\nLet's see what else could be the cause..."
+      "<DBAF43F0>": "So it wasn't this part...\nLet's try another one."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Nothing."
+      "<DBAF43F0>": "...It's not moving."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems those weren't the faulty parts.\nLet's see what else could be the cause..."
+      "<DBAF43F0>": "So it wasn't this part...\nLet's try another one."
     }
   ]
 }

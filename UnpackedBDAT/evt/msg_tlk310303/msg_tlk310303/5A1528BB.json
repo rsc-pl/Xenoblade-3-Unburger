@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did you see the Levnis they sent\nfrom Colony 30?"
+      "<DBAF43F0>": "Did you see the Levnis that came from Colony 30?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, 'course. How's it working out?\nIs it any use?"
+      "<DBAF43F0>": "Yes, of course.\nIs it helpful?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uh-huh! It's a real help. Colony Lambda's\npretty light on Levnises right now."
+      "<DBAF43F0>": "Yes. Colony Lambda is short on\nLevnises right now, so..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd say the support from Colony 30\nhas really saved our skins."
+      "<DBAF43F0>": "Thanks to Colony 30,\nwe're getting a lot of help."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "So, it's beyond this bridge...?"
+      "<DBAF43F0>": "It's past this bridge."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yeah."
+      "<DBAF43F0>": "Yeah..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "No chance from the front, not like this."
+      "<DBAF43F0>": "It seems a frontal approach is impossible."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](acknowledgment while deep in thought)"
+      "<DBAF43F0>": "[ML:undisp ]Hmm..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "We can go across those islands."
+      "<DBAF43F0>": "Let's cross over using the floating islands on the left."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "That way...we should be able to\nswing round the back."
+      "<DBAF43F0>": "That way, we should be able to enter from the rear of the base."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Then...it's in and out, fast as we can."
+      "<DBAF43F0>": "Once we're in, we take the shortest route to our objective."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yeah. We go in, we get the shard,\nand we hightail it outta there."
+      "<DBAF43F0>": "...Then once we get the shard,\nwe make a run for it."
     },
     {
       "$id": 9,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I can't see another way...\nLet's do it."
+      "<DBAF43F0>": "Looks like that's our only option.\nUnderstood."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Could you gather some Egg Seeds\nand Heavy Pomegranates for me?"
+      "<DBAF43F0>": "I would like you to gather some Egg Seeds\nand Heavy Pomegranates."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You'll find them in the Cadensia region."
+      "<DBAF43F0>": "These can be gathered in the Cadensia Region."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, and Roccodori Root as well.\nThat's indigenous to Lavi Sandbar."
+      "<DBAF43F0>": "Also, Roccodori Roots.\nThese can only be harvested on Lavi Sandbar."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you could prepare 20 of each for me,\nI think we'd have enough for a surplus\nof medicine."
+      "<DBAF43F0>": "If you can bring me 20 of each,\nI should be able to prepare enough medicine\nwith some to spare."
     }
   ]
 }

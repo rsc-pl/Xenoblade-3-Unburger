@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Kotori hasn't come this way."
+      "<DBAF43F0>": "...Kotori?\nShe hasn't been here."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm..."
+      "<DBAF43F0>": "I see..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You haven't been fighting\nagain, have you?"
+      "<DBAF43F0>": "Did you two have another fight?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Again?! No, no, nothing like that!"
+      "<DBAF43F0>": "\"Another\"...?\nThis time, it's nothing like that...!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heheh, sorry. Couldn't resist.\nYou just spend so much time with her."
+      "<DBAF43F0>": "Hehe... I'm sorry.\nSince Niina-sama only pays attention to Kotori..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm a bit jealous, that's all."
+      "<DBAF43F0>": "I was just being a little sulky."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Honestly..."
+      "<DBAF43F0>": "You..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyway, should we send\nout a search party?"
+      "<DBAF43F0>": "...What should we do?\nShall I have my subordinates search for her?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, that won't be necessary.\nIt would just cause her needless worry."
+      "<DBAF43F0>": "...That's not necessary.\nIt would likely worry Kotori."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Still, not good optics for the\nlieutenant to be AWOL, is it?"
+      "<DBAF43F0>": "And it wouldn't look good if the whereabouts\nof my second-in-command couldn't be found."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Your claws are well and\ntruly out today, Mikage."
+      "<DBAF43F0>": "...You're being mean today, Mikage."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You think? Then I guess you'd\nbetter pay me a bit more attention."
+      "<DBAF43F0>": "If you think so,\nthen pay some attention to me next time."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...If I hear from her\nI'll send you word, OK?"
+      "<DBAF43F0>": "...If I find out anything,\nI'll contact you privately."
     }
   ]
 }

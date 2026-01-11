@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...It won't budge."
+      "<DBAF43F0>": "...It's not opening."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It because Iron Giant is low on power.\nIf we bring it online, containers might open."
+      "<DBAF43F0>": "It is because the Iron Giant's power is down, meh.\nIf we restart it,\nthe containers will surely open, meh."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In Iron Giant of this type,\npower compartment usually\nlocated over there."
+      "<DBAF43F0>": "For this model of Iron Giant,\nthe power unit is over there, meh."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK. Let's take a look, then."
+      "<DBAF43F0>": "Alright, let's go check the power unit."
     }
   ]
 }

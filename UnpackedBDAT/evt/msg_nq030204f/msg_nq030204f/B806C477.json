@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Target recovered. Please confirm."
+      "<DBAF43F0>": "Target object has been recovered.\nPlease confirm."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meh-meh! This exact item Roon\nmissing! All thanks and gratitude!"
+      "<DBAF43F0>": "Meh meh! This is exactly it, desu mo!\nMagnificent work, desu mo!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Roon unable to count fabulous\nriches without this baby!"
+      "<DBAF43F0>": "Without this, Roon can't properly\ncount his money, mo!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, do we have a deal?"
+      "<DBAF43F0>": "Then the deal is on?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course we have deal! Roon good\nhonest Nopon who always keep promise."
+      "<DBAF43F0>": "Yes, of course, desu mo!\nRoon is a Nopon who keeps his promises, mo."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now, show Roon quick-smart to\nprison in need of home makeover."
+      "<DBAF43F0>": "Well then, allow Roon to head\nto the detention facility immediately, mo."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We talk detail later!"
+      "<DBAF43F0>": "Roon will discuss the details\nlater, mo!"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I heard a ruckus out here.\nAnything I need to worry about?"
+      "<DBAF43F0>": "I heard a loud noise and wondered\nwhat was happening..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not even slightly.\nNobody's here."
+      "<DBAF43F0>": "It's no problem.\nNo one's come by."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right."
+      "<DBAF43F0>": "I see."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've prepared the ether cylinders.\nTake them and go."
+      "<DBAF43F0>": "The ether cylinders\nare ready.\nTake them."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks."
+      "<DBAF43F0>": "Thank you."
     }
   ]
 }

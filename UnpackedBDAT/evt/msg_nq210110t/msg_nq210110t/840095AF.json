@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm really sorry, but I'll have to ask you\nto go and see Commander Isurugi as well..."
+      "<DBAF43F0>": "Commander Isurugi is in the Commander's Office.\nSorry, but could you go for me?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Go and speak with Commander Isurugi in his\noffice. I'd like him to issue the go-ahead."
+      "<DBAF43F0>": "I'd like you to go to the Commander's Office\nand get his seal."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure thing, will do."
+      "<DBAF43F0>": "Yeah, got it."
     }
   ]
 }

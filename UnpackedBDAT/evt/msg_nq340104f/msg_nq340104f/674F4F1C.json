@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, it's a pretty strange ol' feeling,\nain't it? To think we'll be heading\nback to the City..."
+      "<DBAF43F0>": "It's a strange feeling.\nAre we really going back to the City?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And it's all thanks to you guys!"
+      "<DBAF43F0>": "Truly... it's all thanks\nto you."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Actually, it wasn't us that took care of all\nthe preparations."
+      "<DBAF43F0>": "We weren't the ones who made the arrangements."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I reckon I'm about due to have\na really good, long think about the future."
+      "<DBAF43F0>": "I think I'll take some time to think\nabout what comes next."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah? That's wise, I think."
+      "<DBAF43F0>": "Yes."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Aren't you gonna board the boat?"
+      "<DBAF43F0>": "Aren't you getting on?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm going to head back to Agnus Castle.\nGot a ton of stuff to handle since Anton's\ncopped it."
+      "<DBAF43F0>": "I'm returning to Agnus Castle.\nSince Anton died, there's a mountain\nof things to do."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He was a really serious person, y'know.\nI feel like I need to do as much as I can\nof what he left undone."
+      "<DBAF43F0>": "He was a serious person.\nI have to do what I can\nto carry on his work."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I...can understand that."
+      "<DBAF43F0>": "...I see."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can you guys go with them? There's no\ntelling what might pop up during transit."
+      "<DBAF43F0>": "Please go with them.\nWho knows what could happen on the way."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We got it. We'll take good care of them till\nwe get them where they're going."
+      "<DBAF43F0>": "Right. We'll see them through to the end."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK. They're in your hands now!"
+      "<DBAF43F0>": "Then I'll leave them in your care."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems pretty lively over there.\nWhat's the occasion?"
+      "<DBAF43F0>": "Wow... It's really bustling over there, isn't it?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's supposed to be some kind\nof cooking contest. Maybe they're\npreparing for it?"
+      "<DBAF43F0>": "I heard there's a cooking contest.\nThey might be getting ready for it."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ohoho!\nSomeone say cooking contest?!"
+      "<DBAF43F0>": "Momo! A cooking contest, desu mo!?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You think they'd let me participate...?"
+      "<DBAF43F0>": "Wonder if we could participate."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh?! I didn't know you cooked, Lanz!"
+      "<DBAF43F0>": "Huh?! Lanz, you know how to cook!?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Me? Nah. I'm all about the eating!\nThink of all that grub!"
+      "<DBAF43F0>": "Nah, I don't cook, but I wanna eat, y'know?\nContest food!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah! Maybe I should join too..."
+      "<DBAF43F0>": "Ah, if that's the case, I'd like to, too..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey there, folks!"
+      "<DBAF43F0>": "Hey there, youngsters."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Travis. Monica.\nWe just heard about this cooking contest."
+      "<DBAF43F0>": "Ah, Travis... and Monica, too.\nWe hear there's a cooking contest."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah? It's kind of a tradition around here."
+      "<DBAF43F0>": "Yeah, it's one of our regular events."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You know how the world is.\nCan't set foot outside without putting\nyourself in danger."
+      "<DBAF43F0>": "In times like these,\nyou can't just casually stroll outside, can you?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "People are going stir-crazy,\nall shut up with nowhere to go."
+      "<DBAF43F0>": "But on the other hand, staying cooped up in the same place all the time\ncan get pretty suffocating."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They need a bit of light entertainment\nto diffuse some of that stress, so these\ncontests are kind of a regular thing."
+      "<DBAF43F0>": "I figured a place to let off that steam\nwas necessary. So, we hold events periodically."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This seems like the perfect opportunity\nfor you to join in."
+      "<DBAF43F0>": "This is perfect timing. Why don't you all join in?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To sample the food?!"
+      "<DBAF43F0>": "The eating part?!"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, I'm afraid the judges are selected\nby majority vote. They've already been\ndecided well in advance."
+      "<DBAF43F0>": "Ahh, unfortunately, the judges are chosen by lottery,\nand this time they've already been decided."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That said, the winning dishes do\nget shared among the audience."
+      "<DBAF43F0>": "However, well...\nthe winning dish from the contest\nis served to the audience, you see."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So you'd like us to join as chefs?"
+      "<DBAF43F0>": "Then you mean... as cooks, right?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes!!! Count Manana in! Manana been\nchamping at bit for cookery action!"
+      "<DBAF43F0>": "Yes! Yes, desu mo!\nManana would love to participate, desu mo!!"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Haha, yeah.\nThis event's pretty much made for Manana."
+      "<DBAF43F0>": "When it comes to cooking, it's gotta be Manana, mo."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Word!"
+      "<DBAF43F0>": "Desu mo~!"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "C-could I..."
+      "<DBAF43F0>": "I would, too...!"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Could I join as well?!"
+      "<DBAF43F0>": "I'd like to try and participate!"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I like your spirit.\nYou're both very welcome."
+      "<DBAF43F0>": "That's the spirit.\nYou're both very welcome."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like you'll have your work\ncut out for you, eh, Boss."
+      "<DBAF43F0>": "Well now, looks like the Boss can't afford to lose."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You said it, Travis.\nI'll let you prepare the Lucky Spice."
+      "<DBAF43F0>": "Exactly. Travis,\nI'm leaving the procurement of the Lucky Rats to you."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Awww, tch, crap!\nNot that stuff..."
+      "<DBAF43F0>": "Wha-!?\nDamn it, and Lucky Rats of all things...!"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are no binding rules, no themes\nto follow. You're free to make whatever\nyou like."
+      "<DBAF43F0>": "The cooking contest has no specific theme or restrictions.\nYou're free to make whatever you like."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But you are expected to bring\nyour own ingredients."
+      "<DBAF43F0>": "In exchange, you'll have to provide\nyour own ingredients."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Once you have them, take them to\nMichiba at her canteen. She'll hold onto\nthem for you."
+      "<DBAF43F0>": "Please entrust your ingredients to Michiba at the canteen.\nShe will manage them responsibly. That is all."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hearing loud and clear!"
+      "<DBAF43F0>": "Understood, desu mo!"
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll see you at the contest then."
+      "<DBAF43F0>": "Well then, see you at the contest."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looking forward to it!"
+      "<DBAF43F0>": "I'm looking forward to it."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Manana not pull punches!\nWe rivals now, Miss Miyabi!"
+      "<DBAF43F0>": "I'm aiming for nothing less than victory, desu mo!\nMiyabi-san, it's a match, desu mo!"
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, let's do this!"
+      "<DBAF43F0>": "Right! Manana-chan!"
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Since when did you learn to cook,\nMiyabi? You never told me!"
+      "<DBAF43F0>": "Miyabi-chan, since when did you learn to cook...?\nI never knew...!"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Haha. I've only dabbled, really."
+      "<DBAF43F0>": "Hehe, just a little, really."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right. We'd better go out looking\nfor our ingredients, eh?"
+      "<DBAF43F0>": "All right, let's go gather ingredients."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hold on. We haven't even decided\nwhat we're going to make yet."
+      "<DBAF43F0>": "Hold on. Deciding what to make should come first."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uh-huh. Just testin' ya."
+      "<DBAF43F0>": "Right, right. My mistake."
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Before we decide, maybe we should\nask around the City first? See what kind of\nfoods they like, their favorite seasonings..."
+      "<DBAF43F0>": "Before that, would it be alright if I asked\nthe people of the City a few questions?\nAbout popular dishes, seasonings, things like that..."
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That should give us enough to\nmake a start on."
+      "<DBAF43F0>": "I'd like to decide what to make after that."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "True, we need some kind of direction\nto start with before we can think about\nmaking anything."
+      "<DBAF43F0>": "True. No matter what we make,\nwe need a place to start."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Something on your mind, Mio?"
+      "<DBAF43F0>": "What's wrong, Mio?"
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was just thinking, it's unusual for Miyabi\nto voice her interest in something like this."
+      "<DBAF43F0>": "I was just thinking it's rare for Miyabi\nto want to enter a contest..."
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Before, she'd always try to avoid\nanything that involved competition."
+      "<DBAF43F0>": "I feel like before, she would rather\nhave avoided competing with anyone."
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So this is...kind of a surprise."
+      "<DBAF43F0>": "I was a little surprised... I guess."
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hah, I see.\nWell, all the more reason\nfor us to cheer her on."
+      "<DBAF43F0>": "I see.\nWell, that's all the more reason\nto cheer her on."
     },
     {
       "$id": 49,

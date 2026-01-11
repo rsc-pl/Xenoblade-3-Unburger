@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The commander has\ninstructed us to lay off you lot."
+      "<DBAF43F0>": "...We are under orders from the Commander\nnot to lay a hand on you."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Even though you're Agnus...\nAgnus, with turncoat Keves..."
+      "<DBAF43F0>": "Even if you are Agnus[ML:line ]\n...even if you are Kevesi who travel with the enemy."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "............"
     }
   ]
 }

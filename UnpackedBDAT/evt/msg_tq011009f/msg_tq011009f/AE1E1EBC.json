@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's all of the ingredients,\nfor the both of them."
+      "<DBAF43F0>": "With this, we have all the ingredients for both of them."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tippy-toppy job!"
+      "<DBAF43F0>": "Perfect, desu mo!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Got everything you need now?\nThen I think it's about time to start\nthe contest. Is everyone ready?"
+      "<DBAF43F0>": "Looks like you've gathered your ingredients.\nI was thinking of starting the contest soon,\nare you ready?"
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You bet!"
+      "<DBAF43F0>": "Yes."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hold on..."
+      "<DBAF43F0>": "No."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, looks like you still need a bit of prep\ntime. It's fine, we can wait a little longer."
+      "<DBAF43F0>": "Oh? Not mentally prepared yet?\nWell then, I suppose we can wait a little longer."
     }
   ]
 }

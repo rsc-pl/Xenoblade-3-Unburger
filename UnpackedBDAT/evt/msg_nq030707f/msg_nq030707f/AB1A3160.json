@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Everyone has gathered. No. 7,\nis there some kind of problem?"
+      "<DBAF43F0>": "Everyone has gathered, Number 7.\nHas a problem arisen?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 8. I am not No. 7 any more.\nCall me Nagiri."
+      "<DBAF43F0>": "...Number 8.\nI am no longer \"Number 7.\""
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? What's that, all of a sudden?"
+      "<DBAF43F0>": "...? What does that mean?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All units, hear me. As of this moment..."
+      "<DBAF43F0>": "A notice to all personnel.\nAs of this moment..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I am rescinding all identification numbers\npreviously assigned to Colony 0 soldiers."
+      "<DBAF43F0>": "The individual identification numbers assigned\nto the soldiers of Colony 0 are hereby abolished."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait. You've mentioned changing\nthe way we refer to you...\nNow it's extending to us as well?"
+      "<DBAF43F0>": "Wait a moment.\nI did propose we change how we address you...\nbut this applies to us as well?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Perhaps you have not considered this,\nbut it is only right that we have names."
+      "<DBAF43F0>": "It may be unexpected for you all,\nbut it is only natural to have a name."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not just me, but all of us. We are\nhuman, just the same as the others\nwho live in this world."
+      "<DBAF43F0>": "Nagiri, and everyone here,\nare the same as all the people living in this world...\nWe are all \"human.\""
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're...human...?"
+      "<DBAF43F0>": "We are \"human\"..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "B-but, this name business is all really\nsudden... What are we supposed to call\nourselves?"
+      "<DBAF43F0>": "B-But, even if you suddenly say \"name\"... \nwhat should I be called from now on?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not to worry! I've given a lot of thought\nto names for you all."
+      "<DBAF43F0>": "It's okay.\nI've already thought of names for everyone."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? Why do you get to name us?\nI think that's a little out of line!"
+      "<DBAF43F0>": "...Huh? Why you?\nFrom my perspective, that's unacceptable."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now, now... We can always say no\nafter we hear her out. It might be fun!"
+      "<DBAF43F0>": "Now, now...\nIt won't be too late to reject it after you've heard it.\nAnd this seems interesting."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, No. 6. You are..."
+      "<DBAF43F0>": "First, Number 6, you will be..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Rou. What do you think?"
+      "<DBAF43F0>": "How about \"Rou\"?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Rou? What's up with that?"
+      "<DBAF43F0>": "...Rou?\nWhy does it become..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I mean... Well, wait a minute...\nRou... It's not too bad. I really\nlike how short it is!"
+      "<DBAF43F0>": "No... Rou, huh...\nIt might not be so bad. I particularly like\nthat it's short and simple."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 3, you are...Selen!"
+      "<DBAF43F0>": "Number 3 is... \"Selen.\""
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Selen...\nNo. 3 is Selen..."
+      "<DBAF43F0>": "Selen...\nI am... Selen..."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's happening? I feel a little tingly...\nIs this what having a name feels like?"
+      "<DBAF43F0>": "Wh-What is this feeling?\nIt's a little embarrassing, and ticklish...\nIs this... a \"name\"...?"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 8, you could be called...Haruomi."
+      "<DBAF43F0>": "Number 8, you will be... \"Haruomi.\""
     },
     {
       "$id": 23,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 8 is Haruomi... Haruomi... Haruomi..."
+      "<DBAF43F0>": "Number 8 is Haruomi. Number 8 is Haruomi.\nNumber 8 is Haruomi..."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've got it. I'll be Haruomi from now on."
+      "<DBAF43F0>": "...Understood.\nFrom now on, I am Haruomi."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For No. 15, I've got...Shugo!"
+      "<DBAF43F0>": "Number 15 is... \"Shugo.\""
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, what the...?\nI go to \"Shugo\" from \"fifteen\", really?\nThat's barely any different...!"
+      "<DBAF43F0>": "Hey, Shugo...\nDon't tell me, is it because fifteen is \"juugo\"?\nIsn't that a little too simple...?"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, I think it's good, Shugo!\nIt's shorter than saying \"number fifteen\"\nat any rate."
+      "<DBAF43F0>": "I like it, Shugo.\n\"Juugo-go\" was always hard to say."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think it suits you, No. 15...\nUm, I mean Shugo!"
+      "<DBAF43F0>": "I think it suits you!\nFif... No, I mean... Shugo!"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you say so, No. 3 - sorry, Selen."
+      "<DBAF43F0>": "...Well, if Num... if Selen says so."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And you can be..."
+      "<DBAF43F0>": "You are, um..."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How do you feel about \"Kunade\"?"
+      "<DBAF43F0>": "\"Kunade\"... How about that?"
     },
     {
       "$id": 34,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y-you don't like it?"
+      "<DBAF43F0>": "...D-Do you not like it?"
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hm."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"Kunade the Sender\".\nI guess that's what they'd\ncall me in the future."
+      "<DBAF43F0>": "\"Kunade the Sender.\"\nIf I were to introduce myself in the future, it would be like that."
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Better than \"No. 9 the Sender\" anyway.\nThough that's not saying much..."
+      "<DBAF43F0>": "Well, it's probably more fitting than\n\"Number 9 the Sender.\"\n...Though it's still kind of irritating."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmph. Whatever.\nI'll let you have this one, No. 7.\nI mean, Nagiri."
+      "<DBAF43F0>": "...Hmph, fine.\nThis time, for the sake of Num... no,\nfor Nagiri's sake, I'll compromise."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa!"
+      "<DBAF43F0>": "Phew..."
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, hey! What about me?\nDon't leave me hanging, what's my name?"
+      "<DBAF43F0>": "Hey, hey, what about Number 10? What about me?\nMy name! Hurry up and tell me!"
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Um, you'll be...Jun!"
+      "<DBAF43F0>": "Um, you are... \"Jun.\""
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Jun, eh? Nice!\nWeirdly fitting!"
+      "<DBAF43F0>": "Jun, huh... Yeah, I like it!\nSomehow it feels like it suits me."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I believe it will take time for us to get\nused to these names, but from now on\nwe should use them for each other."
+      "<DBAF43F0>": "It will likely take time to get used to,\nbut from now on, please try to call\neach other by your \"names.\""
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Compliance, No. 7! ...Oh, oops..."
+      "<DBAF43F0>": "Understood, Number 7... Ah."
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hahaha! You've already messed up, Rou!"
+      "<DBAF43F0>": "Ahahaha,\nRou, you already messed up."
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "F...Kunade!"
+      "<DBAF43F0>": "K... Kunade!"
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wh-what?"
+      "<DBAF43F0>": "Wh-What is it?"
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Um. Sorry, I just wanted to try it."
+      "<DBAF43F0>": "Um... sorry. I just wanted to try calling you that."
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Pfft. Quit being weird, Selen."
+      "<DBAF43F0>": "Pfft... What's with that? You're weird, Selen."
     },
     {
       "$id": 51,
@@ -538,7 +538,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 7 is Nagiri... No. 6 is Rou...\nNo. 3 is Selen... No. 15 is Jugogo..."
+      "<DBAF43F0>": "Number 7 is Nagiri... Number 6 is Rou...\nNumber 3 is Selen... Number 15 is Juugogo..."
     },
     {
       "$id": 52,
@@ -548,7 +548,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's \"Shugo\", man!"
+      "<DBAF43F0>": "It's Shugo!"
     },
     {
       "$id": 53,
@@ -558,7 +558,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like they've taken to those names.\nI'm glad for you."
+      "<DBAF43F0>": "I'm glad they seem to have accepted their names."
     },
     {
       "$id": 54,
@@ -568,7 +568,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks! I was real nervous,\nbut it was worth all that hard brain time."
+      "<DBAF43F0>": "Yeah, I was a little nervous, but...\nit was worth the effort I put into thinking about them."
     },
     {
       "$id": 55,
@@ -578,7 +578,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did it go about how you expected, Nagiri?"
+      "<DBAF43F0>": "This was the right thing to do, wasn't it, Nagiri?"
     },
     {
       "$id": 56,
@@ -588,7 +588,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes. Now that you have given them names,\nit feels like we are finally a unit."
+      "<DBAF43F0>": "Yes. By receiving names from you, Sena,\nI feel like we have finally become one."
     },
     {
       "$id": 57,
@@ -598,7 +598,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All of us... We are now humans,\nwith real names. We get to start over,\nhere and now."
+      "<DBAF43F0>": "We will...\nstart over again from here."
     },
     {
       "$id": 58,
@@ -608,7 +608,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We and our colony have been reborn."
+      "<DBAF43F0>": "As \"humans\" with names,\ntogether with our reborn colony..."
     }
   ]
 }

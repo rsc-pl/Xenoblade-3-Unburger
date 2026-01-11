@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Stop, hoomans!"
+      "<DBAF43F0>": "Halt!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What you here for? You\nkome to give tasty foods?"
+      "<DBAF43F0>": "You there! What have you come for?\nHave you brought food?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, as per our alliance agreement.\nHere's your share."
+      "<DBAF43F0>": "Yes, in accordance with the alliance agreement,\nwe have brought the promised goods."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good! Pass thru! Tirking Highness\nwait with open beak for susti-nans!"
+      "<DBAF43F0>": "Very well! Pass!\nThe Tirking eagerly awaits!"
     }
   ]
 }

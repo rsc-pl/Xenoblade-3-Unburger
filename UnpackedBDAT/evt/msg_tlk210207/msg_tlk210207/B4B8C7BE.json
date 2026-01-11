@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Jeremy's been sent to the\nguardhouse. He'll be locked away\nthere for a little while, I think."
+      "<DBAF43F0>": "...I've sent Jeremy to the stockade.\nI intend to keep him locked up for a while."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He's surely worthy of stiff punishment for\nwhat he did to you, but I can try to knock\nsome sense into him, if you let me."
+      "<DBAF43F0>": "Considering what he did to you,\nhe should receive a heavier punishment, but...\nwill you leave this matter to me?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's kind of you..."
+      "<DBAF43F0>": "Maxie..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He's one of mine, so it should fall\nto me to set him back on the right path.\nThere's still a war on, after all."
+      "<DBAF43F0>": "...Even so, he is my subordinate.\nIf I can, I want to set him on the right path.\nThe fighting is not yet over, after all."
     }
   ]
 }

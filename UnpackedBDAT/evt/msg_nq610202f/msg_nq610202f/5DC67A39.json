@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Look, Shulk! It's working!"
+      "<DBAF43F0>": "Shulk-san, it's working!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Indeed. That's the sound of a job well done."
+      "<DBAF43F0>": "Yes, it seems to have gone well."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now all that's left is to analyze the\nmachine and repurpose the tech for\nuse in the Mobile Furnace."
+      "<DBAF43F0>": "Now, if we can just analyze the device\nand transfer the technology to our\nportable Ether Furnace..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right. Then, theoretically, we should be\nable to craft high-quality gems whenever\nwe want."
+      "<DBAF43F0>": "Yes, we should be able to make\nhigh-purity gems anytime."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Damn, you guys are wizards!\nHow's that even gonna work?"
+      "<DBAF43F0>": "Whoa, that's amazing.\nCan you really do that?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, the way this device works is\nfundamentally the same as the one\nwe use, but..."
+      "<DBAF43F0>": "Well, the mechanism of this device is\nthe same as the one we use, but..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The technology it uses is very...\nHow do I put this...? Idiosyncratic."
+      "<DBAF43F0>": "here and there, how should I put it...\nit uses some very unique technology..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's not something that could've come off\nan assembly line. I think it's custom-made,\nand quite meticulously at that."
+      "<DBAF43F0>": "I think it's not a mass-produced item,\nbut a special custom piece made by someone."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And for that reason, it looks like it'll be\nan incredibly useful asset with regard to\nupgrading our mobile version."
+      "<DBAF43F0>": "That's why it's a great reference\nfor improving the portable model."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, well. Who'd have thought she'd still\nbe purring along nicely, after the Colony's\nhad such a fall from grace..."
+      "<DBAF43F0>": "To think it would still work after enough time\nhas passed for Colony 9 to fall into ruin..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Gem Man's invention continues to stand\nthe test of time. What a formidable fellow..."
+      "<DBAF43F0>": "Just as expected of Gem Man's invention.\nI'm no match for him..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you, sir. We'll treat\nher kindly, we promise."
+      "<DBAF43F0>": "Thank you, Gem Man.\nI'll be sure to take good care of it again."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "You repaired the old ether furnace."
+      "<DBAF43F0>": "You repaired the old Ether Furnace."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "You can now craft gems up to rank V."
+      "<DBAF43F0>": "You can now craft gems up to Rank V in Gem Crafting."
     }
   ]
 }

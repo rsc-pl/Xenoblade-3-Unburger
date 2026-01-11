@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ouroboros... And Commander?!\nYou're here too?"
+      "<DBAF43F0>": "You all...\nWh- an Commander, you're here too...!?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't mind me, please continue."
+      "<DBAF43F0>": "It's fine. Continue."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes sir!"
+      "<DBAF43F0>": "Yes, sir!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I just received a report confirming\nthe traces of trespass. We're combing\nthe area now."
+      "<DBAF43F0>": "We received a report confirming signs of intrusion\nand are currently searching the surrounding area."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seems our unwanted guests are\nheading in the direction of the forest."
+      "<DBAF43F0>": "It seems the intruder\nheaded towards the forest."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can't imagine they'll slink\naway without trying something."
+      "<DBAF43F0>": "I can't imagine they would flee without doing anything......"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Footprints... We'll follow them."
+      "<DBAF43F0>": "There are footprints......\nWe'll go from here."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK. We'll merge with the detached\nforce, then. We're counting on you."
+      "<DBAF43F0>": "Understood.\nWe will join the detached unit.\nWe're counting on you."
     }
   ]
 }

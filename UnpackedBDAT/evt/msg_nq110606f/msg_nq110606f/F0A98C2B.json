@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "O-OK, here goes nothing..."
+      "<DBAF43F0>": "W-Well then... I'm off."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm so sorry we're late, but we've\ngot those supplies you requested!"
+      "<DBAF43F0>": "Sorry for being late!\nI've come to deliver the requested supplies!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, thanks for that."
+      "<DBAF43F0>": "Yes, thank you for your hard work.\nI've received them."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Oh, you know, while you're here,\nthere's something I want to say to you."
+      "<DBAF43F0>": "...Oh, and before you go,\nthere's something I want to say to you..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, um, OK...?"
+      "<DBAF43F0>": "Y-Yes...!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I'm sorry for blowing up at you before."
+      "<DBAF43F0>": "...I'm sorry for getting\nemotional earlier."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm so sorry, I'll be more careful in- Buh?"
+      "<DBAF43F0>": "I'm sorry!\nI'll be more careful in the fu... huh?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No matter how difficult the situation was,\nit was unreasonable of me to take it out\non you."
+      "<DBAF43F0>": "No matter how difficult the situation was,\nit was wrong of me to take it out on you."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we didn't have a procurement division,\nwe wouldn't be able to help anyone\nat all..."
+      "<DBAF43F0>": "After all, without the materials procurement squad,\nwe wouldn't be able to provide treatment..."
     },
     {
       "$id": 12,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm counting on you.\nTell Solon I said so, OK?"
+      "<DBAF43F0>": "We're counting on you.\nPlease tell Solon that for me."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I will! Thank you!"
+      "<DBAF43F0>": "...Yes!\nThank you!"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like everything's sorted\nhere. Let's report back to Solon."
+      "<DBAF43F0>": "Looks like they're both okay now.\nLet's go report to Solon."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's, uh, going on around here?"
+      "<DBAF43F0>": "Hey, what's wrong?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, this? We've been prepping for\nbattle with Colony 5 and Colony 30,\nor whoever."
+      "<DBAF43F0>": "Well[ML:line ]... we were preparing for battle\nwith Colony 5 and Colony 30."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But...you know you don't really need\nto fight them any more, right?"
+      "<DBAF43F0>": "Huh? But you don't have to fight anymore[ML:line ]..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maybe so, but we still have enemies,\ndon't we? Got to prepare for the worst\neventualities."
+      "<DBAF43F0>": "Even if we don't have to fight, there are still enemies, right?\nWe're reviewing our strategy and preparing for battle."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ultimately, I'm still doing pretty much\nthe same as I always do. Beats sitting\naround on my ass!"
+      "<DBAF43F0>": "In the end, what we do hasn't changed.\nWhich is a relief, in a way."
     }
   ]
 }

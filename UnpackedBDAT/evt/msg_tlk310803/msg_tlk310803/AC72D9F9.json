@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's up?\nSomething on your mind?"
+      "<DBAF43F0>": "What's wrong? Do you have a problem?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm. Well..."
+      "<DBAF43F0>": "A problem[ML:line ]... I suppose."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was just thinking that what Lambda\nneeds is more people who can take swift,\ndecisive action, like you guys."
+      "<DBAF43F0>": "I was just thinking that if Lambda could make\nquick situational judgments like you do..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I mean, if the colony can't respond to\nthings flexibly, then sooner or later..."
+      "<DBAF43F0>": "If we can't respond flexibly,\nthe colony will eventually..."
     }
   ]
 }

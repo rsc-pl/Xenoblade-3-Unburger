@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Monster numbers are down, but we can't\nafford to relax just yet..."
+      "<DBAF43F0>": "The number of monsters has decreased,\nbut we cannot let our guard down yet..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're right. It wouldn't be a bad thing to\nstrengthen the patrols for the time being."
+      "<DBAF43F0>": "Yes, it seems we should strengthen\nour patrols for a while."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good idea. I'll pass on your\nsuggestion to No. 6."
+      "<DBAF43F0>": "...No. 8 is of the same opinion.\nI will advise No. 6."
     }
   ]
 }

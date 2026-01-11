@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do you have a minute?"
+      "<DBAF43F0>": "Excuse me, do you have a moment?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Can't you see I'm busy?\nCome on, keep it brief."
+      "<DBAF43F0>": "......What is it? As you can see, I'm busy.\nMake it quick."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We were wondering if we might\nbe able to help fix up the canteen."
+      "<DBAF43F0>": "It's about the canteen......\nWe were wondering if we could help with the restoration."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh yeah? That'd be a big help. We're\neager to get it back up and running too."
+      "<DBAF43F0>": "Restoration? ......That would be a great help.\nWe want to prioritize setting it up, too."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is there a reason you haven't done it yet?"
+      "<DBAF43F0>": "Is there a reason you haven't started?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've put in a request, but there's\nso much else going on, I haven't\ngot approval yet."
+      "<DBAF43F0>": "I submitted the request,\nbut I guess other departments are busy.\nThe approval hasn't come through yet."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You need approval to work?"
+      "<DBAF43F0>": "Approval? You mean you can't work\nwithout it?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah. We can't just go around\nbuilding things willy-nilly."
+      "<DBAF43F0>": "That's right.\nWe can't just act on our own."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, great. Gotta love a bit of red tape..."
+      "<DBAF43F0>": "Hah... What a pain in the arse."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we can get you approval,\nwould you be able to start work?"
+      "<DBAF43F0>": "If we were to get the approval for you,\ncould you start work right away?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you can manage it,\nthat would be fantastic."
+      "<DBAF43F0>": "Yeah, if you could do that,\nwe'd be grateful, but......"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then we'll arrange it. Who's\nin charge of approvals?"
+      "<DBAF43F0>": "In that case, we'll go.\nWhose approval is required?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The head of the engineering corps and\nchief of logistics are the people you want.\nAnd we'll need some helping hands too."
+      "<DBAF43F0>": "Let's see... The Engineering Corps Captain and the Logistics Chief.\nWe'll need personnel for the canteen construction, too."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The chief of engineering's pretty forgetful.\nProbably still hasn't filed my request..."
+      "<DBAF43F0>": "The Engineering Captain is a forgetful guy.\nThe request should be in, but......"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I bet Hakubi's climbing the walls with\nhow long it's all taking. Hakubi's chief\nof logistics."
+      "<DBAF43F0>": "The Logistics Chief, Hakubi, is an impatient type.\nHe might be getting irritated by the delay by now."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You could talk to the head of the supply\ncorps, as well. She's always rushed off\nher feet. Reckon she could use a hand."
+      "<DBAF43F0>": "And I'd like you to talk to the Supply Corps Captain, too.\nShe's always got a lot on her plate.\nIt'd be nice if we could help her out even a little."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's a lot of people to see."
+      "<DBAF43F0>": "That's a lot of people to talk to."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The request's probably been held up\nsomewhere in the pipeline. Sorry for\nthe trouble."
+      "<DBAF43F0>": "It's possible the request is stuck somewhere.\nSorry to ask, but I'm counting on you."
     }
   ]
 }

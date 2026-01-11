@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did you manage to talk to them?"
+      "<DBAF43F0>": "Did you talk to her?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It looks like Zozoka's all for it."
+      "<DBAF43F0>": "Yes, it seems Zozoka is willing to buy it."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Great news! Thanks!"
+      "<DBAF43F0>": "I see! Thank you, all of you!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm always amazed at how quickly the\nNopon Caravans can make decisions..."
+      "<DBAF43F0>": "And as expected of the Nopon caravans,\ntheir speed of decision-making\nis something to behold."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Err, considering we had to trudge all that way\nto speak with their boss, it wasn't all *that*\nquick, really..."
+      "<DBAF43F0>": "All we did was go and talk.\nDon't exaggerate."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, that's still faster than anything\ngets done in Colony Lambda."
+      "<DBAF43F0>": "No, that kind of quick action\nis something Colony Lambda lacks."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're not at war any more. We need to\ntake care of our allies from now on.\nWe can't keep doing things this way."
+      "<DBAF43F0>": "This isn't war anymore...\nTo move forward hand in hand with our allies,\nwe can't stay as we are."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I dunno..."
+      "<DBAF43F0>": "Huh...... I wonder."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Lambda has to change. And\nthat time is rapidly approaching."
+      "<DBAF43F0>": "Lambda has to change......\nThe time for reform is approaching......"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Living like this, tangled up in rules and\nbureaucracy, it's just not sustainable."
+      "<DBAF43F0>": "If we remain bound by discipline as we are now,\nwe will soon be unable to function......"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "One thing at a time, Kouju."
+      "<DBAF43F0>": "Kouju?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, sorry. Thanks, anyway."
+      "<DBAF43F0>": "Ah, my apologies.\nIn any case, thank you."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll get the ether sorted out\nas fast as I can."
+      "<DBAF43F0>": "I'll go and arrange for the ether right away."
     }
   ]
 }

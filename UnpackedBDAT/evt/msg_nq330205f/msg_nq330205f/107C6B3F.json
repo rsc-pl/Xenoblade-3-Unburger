@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, everyone!\nHow many points did you get?"
+      "<DBAF43F0>": "Hey, hey, how many points did you get?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm pretty confident in my score."
+      "<DBAF43F0>": "I'm feeling pretty confident about mine."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So is Nico! Oh, um, that's me!"
+      "<DBAF43F0>": "Nico, too!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wonder who the next lieutenant\nwill end up being..."
+      "<DBAF43F0>": "I wonder who the new lieutenant\nwill be..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry to keep you waiting, folks! Let me\nget right to it and read out the results."
+      "<DBAF43F0>": "...Sorry for the wait!\nI'll now announce the results of the tally."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The winner is..."
+      "<DBAF43F0>": "In glorious first place is..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Ayase, with a grand total of 999 points!"
+      "<DBAF43F0>": "...Ayase, with 999 points!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...What?!"
+      "<DBAF43F0>": "...Huh?!"
     },
     {
       "$id": 9,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "H-how did you get that many?"
+      "<DBAF43F0>": "H-How did you manage that..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wow, Aya, you're amaaazing!!!"
+      "<DBAF43F0>": "Wooow, Aya, you're amazing!!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hold on, this can't be right, can it?!"
+      "<DBAF43F0>": "Wait, I don't know what's going on either...?!"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...And for our joint winner, we have\nHimari, also with 999 points!"
+      "<DBAF43F0>": "...Also in first place,\nHimari, with 999 points!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No way! Himacchi got that many too?!"
+      "<DBAF43F0>": "No way! Himari, too?!"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait, wha...? I did...?!"
+      "<DBAF43F0>": "What? Me...?!"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And for our next joint winner, we have\nKanata, who scored 999 points as well!"
+      "<DBAF43F0>": "And furthermore, also in first,\nKanata, with 999 points!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I think I can tell where this is going..."
+      "<DBAF43F0>": "...I think I'm starting to see a pattern..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm not done! For our next joint winner,\nagain with 999 points, we have-"
+      "<DBAF43F0>": "And there are still more!\nAlso with 999 points..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This *has* to be rigged, right?!"
+      "<DBAF43F0>": "This is ridiculous!"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I must say, I have some serious concerns\nabout these tally results as presented."
+      "<DBAF43F0>": "I would like to lodge a formal objection\nto these results."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I did say the idea was to give\none point for every report..."
+      "<DBAF43F0>": "I told him, you know... That it was one point\nper report..."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But it makes sense that you get one point\nfor every monster you defeat, right?"
+      "<DBAF43F0>": "But look, if you defeat one monster,\nyou get one point, right?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And if we did that, then it'd be only fair\nto give out one point for every flower\nyou water in the garden..."
+      "<DBAF43F0>": "So if you water the flowerbed,\nyou should get one point per flower..."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Are you serious...?"
+      "<DBAF43F0>": "...You can't be serious..."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Tirky-Tallow, you idiot..."
+      "<DBAF43F0>": "...Tirkin-Tallow..."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, come on! We were counting so\nfrantically!"
+      "<DBAF43F0>": "What's with that?! I counted my heart out!"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Though at some point we got lost,\nso we just set all your points to 999..."
+      "<DBAF43F0>": "...Though I gave up halfway through and just\ndecided to make it 999..."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, they all worked so hard, so we had\nto make the points reflect that!"
+      "<DBAF43F0>": "People who worked hard should get points\nfor all the hard work they did, right?"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "After all, everyone did stuff they\ndidn't wanna do, or that they weren't\nvery good at!"
+      "<DBAF43F0>": "Like if they did something nobody else wanted to do,\nor accomplished something they weren't good at!"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyway, this is getting old now.\nLet me skip ahead to the conclusion."
+      "<DBAF43F0>": "This is getting complicated, so let me cut to the chase."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As everyone got 999 points, that means\neveryone will now become lieutenant."
+      "<DBAF43F0>": "Everyone got 999 points,\nso everyone is the new lieutenant."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Really?!"
+      "<DBAF43F0>": "Whaaaat?!"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you messing with me?!"
+      "<DBAF43F0>": "Whaaaat?!"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They can't be serious..."
+      "<DBAF43F0>": "Unbelievable..."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So we're all lieutenants now...?"
+      "<DBAF43F0>": "So we're lieutenants now..."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Come on, it's all a bit of fun. Right?"
+      "<DBAF43F0>": "Come on...\nYou're enjoying this a little, aren't you?"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...So we still don't really have a lieutenant."
+      "<DBAF43F0>": "...This doesn't decide the lieutenant, does it?"
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We worked so hard to get those\nstickers, too!"
+      "<DBAF43F0>": "And after we worked so hard for those stickers..."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It was a lot of fun, though!"
+      "<DBAF43F0>": "But it was fun!"
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I know, right?!"
+      "<DBAF43F0>": "Right?!"
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whether it was fun or not is beside the\npoint! What are we supposed to do now?"
+      "<DBAF43F0>": "This isn't about whether it was fun or not!\nWhat are you planning to do now?"
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She makes a valid observation."
+      "<DBAF43F0>": "Ayase's concern is understandable."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, but, I get what Tallow was going for.\nLet's not be too hard on the lad, yeah?"
+      "<DBAF43F0>": "But, well, I get what Tallow was trying to do.\nNo need to be so hard on him..."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "See, Lanz understood!"
+      "<DBAF43F0>": "Right, Lanz-san?!"
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If he always makes judgments based on\nhis emotions, they will always be wrong.\n...Yes, now I see. Peas in a pod, you two."
+      "<DBAF43F0>": "I said that one misjudges when swayed by emotion.\nHow can you fraternize with him?"
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? When did we start\ntalking about vegetables?"
+      "<DBAF43F0>": "Huh? When did I ever fraternize?"
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh dear..."
+      "<DBAF43F0>": "Oh, dear..."
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Knock it off, guys..."
+      "<DBAF43F0>": "Knock it off, you two..."
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, everyone, listen..."
+      "<DBAF43F0>": "Um, everyone..."
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you for everything you've done.\nIt makes me really, *really* happy."
+      "<DBAF43F0>": "Thank you for working so hard.\nI'm really... truly happy."
     },
     {
       "$id": 51,
@@ -538,7 +538,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've always supported me and lent me\nyour strength..."
+      "<DBAF43F0>": "You've all always supported me and given me strength...\nBut..."
     },
     {
       "$id": 52,
@@ -548,7 +548,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...but now I think I've gotten spoiled\nby that treatment, and that's why I was\nno good."
+      "<DBAF43F0>": "I think maybe it's because I've been letting you\nspoil me like that, that I'm no good."
     },
     {
       "$id": 53,
@@ -558,7 +558,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What do you mean...?"
+      "<DBAF43F0>": "Mashiro...?"
     },
     {
       "$id": 54,
@@ -568,7 +568,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm going to try harder to be a good leader\nto you all, even without a lieutenant."
+      "<DBAF43F0>": "It's okay if we don't have a lieutenant.\nI'll work harder as a Commander, too..."
     },
     {
       "$id": 55,
@@ -578,7 +578,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What are you talking about?\nYou've already been working plenty hard-"
+      "<DBAF43F0>": "What are you saying?\nMashiro, you're already working so..."
     },
     {
       "$id": 56,
@@ -588,7 +588,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If I really have, then why is everyone\nfeeling so disconnected?"
+      "<DBAF43F0>": "Then why are everyone's feelings so divided?"
     },
     {
       "$id": 57,
@@ -608,7 +608,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's not your fault, Shiro-chan!"
+      "<DBAF43F0>": "It's not your fault, Shiro-chan..."
     },
     {
       "$id": 59,
@@ -618,7 +618,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, it is. You were taking it easy on me,\nand it's caused you no end of anxiety."
+      "<DBAF43F0>": "No, it's because I've been taking it easy...\nI'm making everyone anxious."
     },
     {
       "$id": 60,
@@ -628,7 +628,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This colony doesn't need a lieutenant.\nIt just needs me to get a grip on myself."
+      "<DBAF43F0>": "What we need isn't a lieutenant.\nIt's for me to get a grip."
     },
     {
       "$id": 61,
@@ -638,7 +638,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I understand how you feel, Shiro-chan, but...\nare you sure you're ready...?"
+      "<DBAF43F0>": "I understand how you feel, Mashiro-chan, but...\nAre you really sure about this...?"
     },
     {
       "$id": 62,
@@ -648,7 +648,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sure. I need to make a change."
+      "<DBAF43F0>": "...I've decided. I'm going to change."
     },
     {
       "$id": 63,
@@ -658,7 +658,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So...do you mind looking out for me a little\nmore while I figure things out...?"
+      "<DBAF43F0>": "So... would it be okay for you to\nwatch over me just a little longer...?"
     },
     {
       "$id": 64,
@@ -668,7 +668,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course, if that's what you've decided."
+      "<DBAF43F0>": "If that's what you've decided, Mashiro..."
     },
     {
       "$id": 65,
@@ -678,7 +678,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll support you even more than before!"
+      "<DBAF43F0>": "Yeah... We'll support you more than ever!"
     },
     {
       "$id": 66,
@@ -688,7 +688,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We won't let you do this alone!"
+      "<DBAF43F0>": "We won't leave you on your own!"
     },
     {
       "$id": 67,
@@ -698,7 +698,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Me too... You know I'll do anything\nfor you, Mashiro...!"
+      "<DBAF43F0>": "I'll also...\ndo anything for you, Mashiro...!"
     },
     {
       "$id": 68,
@@ -708,7 +708,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Thank you, everyone."
+      "<DBAF43F0>": "Everyone... Thank you."
     },
     {
       "$id": 69,
@@ -718,7 +718,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Well then, that's the plan."
+      "<DBAF43F0>": "...This is for the best."
     },
     {
       "$id": 70,
@@ -728,7 +728,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If I just keep doing my best, it'll be OK..."
+      "<DBAF43F0>": "As long as I keep trying my best... it'll be fine..."
     }
   ]
 }

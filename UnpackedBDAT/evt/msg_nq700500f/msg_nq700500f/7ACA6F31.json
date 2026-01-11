@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "E-excuse me, I'm..."
+      "<DBAF43F0>": "Ah, um, I'm..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're all right now.\nWe're not your enemies, relax."
+      "<DBAF43F0>": "Don't worry.\nWe're not your enemies."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're on the lookout for folk who made it out\nof the City. We're here to bring you to safety."
+      "<DBAF43F0>": "We're looking for survivors from the City.\nWe've come to protect you."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh... Oh, thank goodness...\nI can't believe the nightmare is over."
+      "<DBAF43F0>": "Oh... thank goodness...\nI'm saved."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My name is Amryn.\nHonestly, I can never thank you enough..."
+      "<DBAF43F0>": "My name is Amryn.\nI am deeply grateful to you all..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It can't have been easy for you.\nBut don't worry, you'll get to rest soon."
+      "<DBAF43F0>": "It must have been tough getting here.\nWe'll let you rest soon."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you... Thank you so much."
+      "<DBAF43F0>": "Yes...\nThank you so much."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Amryn has been put in the care\nof Colony 9."
+      "<DBAF43F0>": "Amryn is now under the protection of Colony 9."
     }
   ]
 }

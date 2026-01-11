@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's some new requests on the board."
+      "<DBAF43F0>": "There's a request on the\nrequest board."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Lessee, what've we got...?"
+      "<DBAF43F0>": "Let's see..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"I hear an unusual Kapiba was seen at\nRaguel Lake. If someone could hunt it,\npurely for science, it would be appreciated!\""
+      "<DBAF43F0>": "\"There have been reports of an unusual\nKapiba at Raguel Lake!\nI'd love to study its ecology. Someone, please exterminate it!\""
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"I dropped my book while on expedition to\nRaguel Lake. It's the 'Tale of the Bringer of\nChaos'! If someone finds it, I'd love it back!\""
+      "<DBAF43F0>": "\"I dropped a book during an expedition to Raguel Lake.\nIf you find it, could you please retrieve it for me?\nIt's a book called 'The Ultimate Thunder Legend'!\""
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"Could someone take down a few Quadwings\nfrom the Vermilion Woods for me? I need the\nfeathers to make medicine with.\""
+      "<DBAF43F0>": "\"Could you exterminate a few Quadwings\nthat inhabit the Vermilion Woods?\nI need their feathers to compound some medicine.\""
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's just those three for now."
+      "<DBAF43F0>": "These are the three for this time."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They reference some places that are at\nquite a remove from Colony 9. I'd rather\nnot let civilians risk their lives out there."
+      "<DBAF43F0>": "Since it's a bit far from Colony 9,\nit might be difficult for everyone.\nIt's dangerous."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Agreed. Let's take care of these ourselves\nwhenever we get a moment."
+      "<DBAF43F0>": "Right...\nIf we have time, we'll take care of it."
     }
   ]
 }

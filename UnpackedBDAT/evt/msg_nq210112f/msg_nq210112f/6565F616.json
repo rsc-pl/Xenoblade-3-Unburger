@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You got it done? Fabulous!"
+      "<DBAF43F0>": "You got the approvals for me! That's a huge help......"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What happens now?"
+      "<DBAF43F0>": "So what's next?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I give it a stamp, and that's it, done."
+      "<DBAF43F0>": "I just need to put my seal on it, and that's that."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The stamp's in the Commander's\nOffice. Would you come with me?"
+      "<DBAF43F0>": "The seal is in the Commander's Office.\nI know it's a pain, but will you come with me?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sure."
+      "<DBAF43F0>": "Yeah, understood."
     }
   ]
 }

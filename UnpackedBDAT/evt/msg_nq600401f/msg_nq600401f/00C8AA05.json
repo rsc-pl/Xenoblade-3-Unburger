@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Dead end."
+      "<DBAF43F0>": "...A dead end."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? That's weird..."
+      "<DBAF43F0>": "Hmmm?\nWhat's goin' on?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've been following the map\nquite closely, too."
+      "<DBAF43F0>": "That's strange...\nAccording to the map, it should definitely be this way."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, it's gotta be right.\n...We've got the makings of\na road under the cliff."
+      "<DBAF43F0>": "No, this is the right way.\nThere's something like a path below the cliff."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Better find a way to get down, then."
+      "<DBAF43F0>": "If that's the case, we've got to go down."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Wha-? Down?\nFrom here?!"
+      "<DBAF43F0>": "...Huh?\nGo down? From here!?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't worry. We have Ether Lifts to help us."
+      "<DBAF43F0>": "Don't worry.\nThere's an Ether Lift over here."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, but even so...\nIs that really our only option here?"
+      "<DBAF43F0>": "But still...\nWe're going down either way, right?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What, you scared, Hy?\nYou trembling in your wittle boots?"
+      "<DBAF43F0>": "What's wrong, Hyzen?\nAre ya scared? Are ya~?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course I'm scared!\nWhat I don't understand is how you\nseem to be completely unfazed."
+      "<DBAF43F0>": "That's a normal reaction... Are you not\nafraid at all, Saomi-san?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heh! Glad it looks that way to you,\n'cause I'm actually *this* close to peeing\nmy pants right about now!"
+      "<DBAF43F0>": "Of course I am!\nI'm about to wet myself!!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I did not need to hear that, Saomi."
+      "<DBAF43F0>": "That's improper, Saomi."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wanna stay here, then?\nWe can go on ahead."
+      "<DBAF43F0>": "If you don't want to, you can wait here."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heh! Sheer terror ain't enough to\nstop me when treasure's on the line!"
+      "<DBAF43F0>": "No way, part two!\nIt's for the treasure, I'd follow you to my death!"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's a complex kind of bravery..."
+      "<DBAF43F0>": "I can't tell if she's got guts or not..."
     }
   ]
 }

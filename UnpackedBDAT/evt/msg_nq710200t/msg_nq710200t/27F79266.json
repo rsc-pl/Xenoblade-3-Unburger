@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So they said we're free to use the\ncanteen as we see fit, but, uh..."
+      "<DBAF43F0>": "They said we could use the kitchen as we liked, but..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's not that much use to us, is it?"
+      "<DBAF43F0>": "It's not a place we really need."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Shall we make something anyway,\njust for the hell of it?"
+      "<DBAF43F0>": "...Shall I make something?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You a cookin' man, Rex?"
+      "<DBAF43F0>": "You liked to cook?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eh, I used to dabble.\nHaven't really felt the call for it\nlately, though..."
+      "<DBAF43F0>": "Well, I used to.\nLately, I haven't really felt like\ncooking on my own initiative..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Makes sense, I guess.\nYou have anything particular in mind?"
+      "<DBAF43F0>": "I see.\nSo, what are you going to make?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hrmm..."
+      "<DBAF43F0>": "Mmm..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We could try a Kickin' Colony Acqua Pazza,\nsince all the ingredients for it can be got\naround this area..."
+      "<DBAF43F0>": "I could probably make a Live Fish Colony Pazza\nwith the ingredients around here..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you've got the time, grab me the stuff\nwe need. Meanwhile, I'll try to remember\nhow the recipe went..."
+      "<DBAF43F0>": "If you have time, gather the ingredients for me.\nI'll try to make it from memory."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If it comes out decent, we'll be able to add it\nto our campsite rotation as well."
+      "<DBAF43F0>": "If it turns out well,\nwe might be able to add it to our camping repertoire."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks for the drink. All this talking has\nreally dried up my throat."
+      "<DBAF43F0>": "...Thanks a lot.\nMy throat's completely dry from all the talking."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hehe, I suspected as much."
+      "<DBAF43F0>": "Ehehe, I thought so."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right, I'll be off, then!"
+      "<DBAF43F0>": "Well then, I'll be going!"
     },
     {
       "$id": 4,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, I mean, nothing really... Have you\nstopped the conference for the day?"
+      "<DBAF43F0>": "No... Are you done with the\nconsultations?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, it's just that I've talked my throat dry,\nso I'm taking a quick break."
+      "<DBAF43F0>": "I'm tired of talking,\nso I'm taking a little break."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmmm... Maybe you do need some help\nafter all? It must be difficult for you to do\nall this on your own."
+      "<DBAF43F0>": "...Should I help you, after all?\nIt must be hard for you alone, Tallow."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm fine, honest. I wouldn't learn anything,\nif I didn't do things on my own."
+      "<DBAF43F0>": "It's fiiiine.\nIf I don't try it myself, I won't learn anything."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I get that. But I really want to\ndo what I can to help the Colony too."
+      "<DBAF43F0>": "That's true, but...\nI want to do something for the colony, too."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's not fair that I only get to relax while\neveryone's working so hard."
+      "<DBAF43F0>": "Everyone is working so hard, but I'm the only\none taking it easy..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, so, that's what it is...?"
+      "<DBAF43F0>": "Ah, so that's what this is about..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're sore about not having anything\nto do, how about some patrol duties?"
+      "<DBAF43F0>": "I got it! Then I'll ask you to do\nthe usual patrol mission."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "While you're at it..."
+      "<DBAF43F0>": "And while you're at it,"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd like to know what Ayase's number one\nconcern is right now. Go ask her for me."
+      "<DBAF43F0>": "could you ask Ayase for me\nwhat her \"biggest worry\" is?"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK!"
+      "<DBAF43F0>": "! Understood!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is that everything?"
+      "<DBAF43F0>": "Just ask?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you could get it done then and there,\nthat'd be great."
+      "<DBAF43F0>": "It'd be great if you could solve it on the spot,\nbut I'll leave that to Mashiro's judgment."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's do this, Shiro-chan.\nTogether, we'll get it done, no problem!"
+      "<DBAF43F0>": "Let's do it, Mashiro-chan.\nIf we're together, we can do it."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah!"
+      "<DBAF43F0>": "Yes...!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Patrol duty goes to three different\npatrol points by boat."
+      "<DBAF43F0>": "There are three patrol points,\nand you'll go by boat."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll send the locations to your Irises now!"
+      "<DBAF43F0>": "I'll send them to your \"Iris\" now!"
     }
   ]
 }

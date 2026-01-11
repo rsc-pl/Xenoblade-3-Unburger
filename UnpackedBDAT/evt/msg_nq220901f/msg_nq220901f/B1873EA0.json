@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What are you doing here?"
+      "<DBAF43F0>": "Huh? Why are you here?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They're looking for the spring.\nWhat about you, Nasori?"
+      "<DBAF43F0>": "These people wanted to see the spring.\nNasori, why are you here?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was thinking of putting all that\nknowledge I got from Colony Iota\nabout water and rocks to use."
+      "<DBAF43F0>": "I went to Iota and studied\nabout water and geology, so I was wondering\nif I could put that to use."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think perhaps that drinking this\nwater isn't suddenly going to turn\nyou into a better soldier."
+      "<DBAF43F0>": "Even if I drink this water,\nI don't get any stronger as a soldier,\nso I was curious."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mate! This stuff is so good!"
+      "<DBAF43F0>": "The water is delicious!!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So good!"
+      "<DBAF43F0>": "Delicious!!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's just water, how can it be-\n...Oh, it does taste nice."
+      "<DBAF43F0>": "What nonsense... Mmm...\nNo, it is certainly delicious......"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You could make a sublime\ncup of tea with this."
+      "<DBAF43F0>": "This water would go well with tea."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It is really top-quality water,\nbut I don't think there's anything\nparticularly special in it."
+      "<DBAF43F0>": "It is.\nI think it's high-quality water,\nbut there are no special ingredients in it."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seems that way. I don't think\nit'll give you any powers."
+      "<DBAF43F0>": "It seems so.\nIt's unlikely to give you strength."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whaaat?!"
+      "<DBAF43F0>": "Wha-!?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tell that to these bulging biceps!"
+      "<DBAF43F0>": "I feel like I've gotten stronger!?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Both of you are already plenty\nstrong enough. It's all in your head."
+      "<DBAF43F0>": "You two are already overflowing with strength.\nIt's just your imagination."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Should we try one more spring?\nIf other fountains are as good as this,\nthen it would spare us the trek."
+      "<DBAF43F0>": "......Shall we go to the other spring?\nIf the water quality is the same,\nthere's no need to come all the way here."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is there a spring closer to Tau?"
+      "<DBAF43F0>": "Ah, the one near Tau?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There is. This area's a bit too monster-\ninfested for comfort. At worst, we might\nbe surrounded."
+      "<DBAF43F0>": "Yes.\nThis area has many monsters.\nIf we're unlucky, we could be surrounded."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The other spring is a lot more\npeaceful. It would be far preferable\nfor us as a water source."
+      "<DBAF43F0>": "The spring over there is safe, so\nif we're just drawing water,\nthat one might be better."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see your point. OK, let's\ntake a look. Follow me."
+      "<DBAF43F0>": "Understood.\nThen I'll guide you.\nFollow me."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks."
+      "<DBAF43F0>": "Yes, let's go."
     }
   ]
 }

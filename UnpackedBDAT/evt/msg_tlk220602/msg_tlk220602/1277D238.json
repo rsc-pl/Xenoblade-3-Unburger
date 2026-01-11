@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A strange cave was found during\nan expedition to Dannagh Desert."
+      "<DBAF43F0>": "We found a strange cave during\nan expedition to the Dannagh Desert."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh yeah? Give us the deets!"
+      "<DBAF43F0>": "Oh? What kind?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well... It's clearly not a natural formation.\nI'd venture it was made by Nopon wings."
+      "<DBAF43F0>": "It's clearly a cave that's been worked on by hand.\nOnly Nopon would make something like that."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But...when I asked those caravan Nopon,\nthey didn't know a thing about it."
+      "<DBAF43F0>": "However[ML:line ]...\nI asked the Nopon from the caravan,\nbut none of them seemed to know of its existence."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you lot are passing by, maybe\nyou'd like to poke your head in?"
+      "<DBAF43F0>": "If you're ever in the area,\nwhy don't you take a look?"
     }
   ]
 }

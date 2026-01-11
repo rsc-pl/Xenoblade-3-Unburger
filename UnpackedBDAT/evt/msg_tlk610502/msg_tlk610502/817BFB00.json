@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're heading for the Aetia region,\nyou'll need to go out through the\nwest gate and stay on that road."
+      "<DBAF43F0>": "If you want to get to the Aetia region,\njust go through the west gate and follow the road."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's safe there.\nNo Keves colonies, you see!"
+      "<DBAF43F0>": "There are no Kevesi colonies there,\nso it's safe..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That is, assuming our info is up to date.\nWe have been a little busy with Moebius..."
+      "<DBAF43F0>": "No, I guess we don't have accurate information anymore,\ndo we? Since we became enemies of Moebius..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyway, just be careful!"
+      "<DBAF43F0>": "In any case, be careful."
     }
   ]
 }

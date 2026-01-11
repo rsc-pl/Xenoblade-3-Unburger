@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The road to Ribbi Flats looks to be\nblocked. It'll have been that landslip\nfrom when the Iron Giant passed through."
+      "<DBAF43F0>": "The road to Ribbi Flats\nseems to be blocked by a collapse\nfrom when an Iron Giant passed through..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're using a bit of Levnis power to clear\nit all up at the moment. You'll be informed\nas soon as we're done."
+      "<DBAF43F0>": "We're currently using Levnises for the removal work.\nWe'll let you know as soon as the work is complete."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks, we much appreciate it."
+      "<DBAF43F0>": "Yes, that would be a great help."
     }
   ]
 }

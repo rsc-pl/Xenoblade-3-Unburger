@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All units in position?\nWait for my signal."
+      "<DBAF43F0>": "All units in position.\nAwait my command."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You people again. Do you want to stop\nour war so badly?"
+      "<DBAF43F0>": "...You people are persistent.\nWill you go this far to obstruct our battle?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do YOU want to fight it so badly?\nJust tell me why!"
+      "<DBAF43F0>": "And you, why are you so determined\nto fight?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hah! You want a reason from me?\nThen I'll tell you!"
+      "<DBAF43F0>": "Hah! You ask me, Tsoren, for a reason?!\n...Then I shall tell you!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The only kind of strength I acknowledge\nis found in blood-soaked adversity!"
+      "<DBAF43F0>": "Because the true strength I seek lies within\nthe blood-pumping thrill of adversity!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I hone myself to perfection by pushing\nmyself to the verge of death."
+      "<DBAF43F0>": "I will willingly march into the jaws of death\nto hone this body to its absolute limit..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That is the true meaning of\nbattle, and why I fight."
+      "<DBAF43F0>": "That is my reason for fighting, and the meaning of my struggle."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So you'll keep on fighting, just to\nmake yourself stronger?"
+      "<DBAF43F0>": "So you'll keep fighting\njust to make yourself stronger?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course. Don't tell me you're\ngoing to ask why I wish to be strong?"
+      "<DBAF43F0>": "Indeed.\nI trust you won't ask something as foolish\nas \"why do you want to become strong\"?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "(sigh) I get it. I can kind\nof understand where you're coming from."
+      "<DBAF43F0>": "...Sigh. I see.\nI think I get it, more or less."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You know that makes you\na great big coward, right?"
+      "<DBAF43F0>": "If that's the case, then you're...\nnothing but a spineless coward, aren't you?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Did you just call me a coward?"
+      "<DBAF43F0>": "...What did you say?\nDid you just call me a coward?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eunie!"
+      "<DBAF43F0>": "Eunie...!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yep. It's like you and your mate said."
+      "<DBAF43F0>": "Yeah, that's right.\nYour own subordinate just said it."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Lambda's in chaos after losing their\nFlame Clock. They've lost their\nbig boy pants."
+      "<DBAF43F0>": "That Lambda is in chaos because their Flame Clock is gone,\nand they're not what they used to be."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Kevesi forces are gonna\nexploit that weakness."
+      "<DBAF43F0>": "And that the Kevesi forces are\ntrying to exploit that opening."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So I heard. What of it?"
+      "<DBAF43F0>": "Yes, I heard.\nWhat of it?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, ain't you doing the exact\nsame thing as them?"
+      "<DBAF43F0>": "It means... what you're doing\nis exactly the same as them, isn't it?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wha...!"
+      "<DBAF43F0>": "Wh-...!"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't talk rot! We are not the same!\nAbsolutely not!"
+      "<DBAF43F0>": "Don't be ridiculous!\nThat is false! Absolutely false!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You reckon? What's different?\nJust try and explain, I'm all ears."
+      "<DBAF43F0>": "What's false? What's the difference?\nGo on, tell me. I'm listening."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "........."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "........."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You have some nerve...!"
+      "<DBAF43F0>": "...Tch! You insolent...!"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's been a change of plans.\nThe new target is the Kevesi force\ninvading Lambda!"
+      "<DBAF43F0>": "Change of plans!\nOur target is the Kevesi army invading Lambda!"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh?"
+      "<DBAF43F0>": "Oh...?"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Erm, you're all right with leaving Lambda?"
+      "<DBAF43F0>": "Huh? What about Lambda?"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You questioning an order from your\ncommanding officer?"
+      "<DBAF43F0>": "Is there a soldier who questions his captain's orders?!\nYou fool!"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yikes! All right, understood!"
+      "<DBAF43F0>": "Eek! Scary, scary...\nUnderstood, sir."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood...\nMwahaha... This could be fun."
+      "<DBAF43F0>": "Understood...\nHehehe. This could be interesting in its own way."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I seem to remember Colony Lambda\nare your allies, correct?"
+      "<DBAF43F0>": "...If I recall, Colony Lambda\nwas an ally of yours, were they not?"
     },
     {
       "$id": 32,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You have had the insolence to\nlabel me a coward."
+      "<DBAF43F0>": "You had the audacity\nto slander me, Tsoren, as a \"coward.\""
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yet is it not also the height of cowardice to\nlet your allies face danger alone, while you\nremain fixated on thwarting me and mine?"
+      "<DBAF43F0>": "Then would you, who refuse to fight\nwhile your allies are in peril,\nbe considered gutless?"
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hah, you have to ask?\nWhen it comes down to it, we do\nwhat we have to do."
+      "<DBAF43F0>": "Hah, you don't even need to ask.\nWhen it comes down to it, we do what needs to be done."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmph."
+      "<DBAF43F0>": "...Hmph."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Zuoren Unit! Crush them!\nTrample every enemy you see!"
+      "<DBAF43F0>": "The Tsoren Unit will advance!\nTrample every enemy in your sight!"
     }
   ]
 }

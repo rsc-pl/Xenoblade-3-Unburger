@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Misaka? Yeah, she was here,\nbut I chased her out."
+      "<DBAF43F0>": "Misaka?\nShe was here a moment ago, but I kicked her out."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You chased her?!"
+      "<DBAF43F0>": "Kicked her out!?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She said she had a headache.\nI told her to sleep it off."
+      "<DBAF43F0>": "She said she had a headache, so I thought\nit would be better for her to take a nap."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can probably find her resting\nin the medical ward."
+      "<DBAF43F0>": "She's probably in the medical ward."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's Harvest Day today, isn't it?"
+      "<DBAF43F0>": "It was \"Harvest Day\" today, wasn't it..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I never know what day it is.\nIt's terrible."
+      "<DBAF43F0>": "I tend to lose track of the date...\nIt's not a good habit."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We gave Misaka her tiara, though.\nShe was super pleased!"
+      "<DBAF43F0>": "I gave Misaka the tiara.\nShe was very happy."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She's a hard worker, so I'm\nglad to see it recognized."
+      "<DBAF43F0>": "She's always working so hard...\nI'm glad she was recognized."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And she's quite a thoughtful girl, Kotori.\n...Well. In some ways more than others."
+      "<DBAF43F0>": "Kotori is quite thoughtful, isn't she?\nWell... somewhat."
     }
   ]
 }

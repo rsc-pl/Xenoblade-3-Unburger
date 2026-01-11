@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Have you lived here long?"
+      "<DBAF43F0>": "Have you been living here for a long time?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not as long as I spent fighting, before."
+      "<DBAF43F0>": "For a shorter time than I spent\nfighting as a soldier."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I heard you lot are planning to escape.\nGuess you'll be going back into battle?\nThat's kinda impressive."
+      "<DBAF43F0>": "I heard you're planning an escape.\nTo be able to go back to fighting...\nthat's amazing."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I haven't been here too long,\nbut long enough to work out\none thing."
+      "<DBAF43F0>": "It's only been a short time,\nbut while living here,\nI realized something."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was tired of having to fight for my life."
+      "<DBAF43F0>": "I had grown tired of\nfighting for my life."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Ah! Sorry, I didn't mean to keep you.\nIt was just nice to have someone to talk to."
+      "<DBAF43F0>": "Ah... I'm sorry.\nI was so happy to have someone to talk to\nthat I held you up."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've still got more stuff to pick, right?\nHere you go, then."
+      "<DBAF43F0>": "You're still in the middle of your gathering work, right?\nHere, take this."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good luck getting the rest."
+      "<DBAF43F0>": "Good luck with the rest of your work."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You know, I wanted to be a soldier.\nI wanted to do my part for the City..."
+      "<DBAF43F0>": "I volunteered to be a soldier\nto help everyone in the City, but..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Never thought it'd end with\nme here, though..."
+      "<DBAF43F0>": "I never thought\nI'd end up locked away\nin a place like this..."
     }
   ]
 }

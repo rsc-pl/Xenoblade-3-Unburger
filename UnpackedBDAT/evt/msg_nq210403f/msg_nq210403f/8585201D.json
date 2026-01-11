@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Everyone OK?!"
+      "<DBAF43F0>": "Are you alright!?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We saw you fighting and tried to\nmobilize as soon as we could, but..."
+      "<DBAF43F0>": "We saw you fighting\nand came as soon as we finished up, but......"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not necessary, mate."
+      "<DBAF43F0>": "Well, it was nothing."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah... You're pretty tough customers."
+      "<DBAF43F0>": "I see...... You all are strong."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We kept the supplies intact, but it's\nonly a matter of time before someone\nelse comes for them."
+      "<DBAF43F0>": "We've protected the supplies, but\nif we leave them here for too long,\nanother enemy might come."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah. We'll get them shifted.\nThanks a lot."
+      "<DBAF43F0>": "Yes, I'll have them retrieved immediately.\nYou've been a great help."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This place really is crawling with\ntrouble, though. We'll have to\nreassess the deployment..."
+      "<DBAF43F0>": "Still, there are many enemies around here.\nWe'll have to reconsider our deployment......"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can we help out with that?"
+      "<DBAF43F0>": "Should we help with that too?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, you're OK. I'll discuss\nit with the bods in charge."
+      "<DBAF43F0>": "No, I can't ask that much of you.\nI'll discuss it with the people in charge."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That sounds like a plan."
+      "<DBAF43F0>": "That sounds like a good idea."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right, I'll be off. Thanks again."
+      "<DBAF43F0>": "Then, if you'll excuse me.\nYou have our thanks."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sure Colony Lambda has\neverything well in hand."
+      "<DBAF43F0>": "I'm sure Colony Lambda\ncan handle the rest."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Indeed. We shouldn't interfere\nin their affairs too much."
+      "<DBAF43F0>": "You're right.\nIt wouldn't be good for us to interfere too much."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK then. Time for us to be off ourselves."
+      "<DBAF43F0>": "Then let's head back too."
     }
   ]
 }

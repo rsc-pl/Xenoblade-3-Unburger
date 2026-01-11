@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The supplies are stored in the\nwarehouse. Nico should have them\nready for you to look at."
+      "<DBAF43F0>": "The supplies are in the warehouse,\nso Nico-chan should have them ready."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've also let people know to give\nyou access to our battle records!"
+      "<DBAF43F0>": "Also, I've contacted them about\nthe battle record data!"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just ask Shu about it in the barracks."
+      "<DBAF43F0>": "Please ask Shu-kun in the barracks."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I promised Ichika... I wouldn't run away."
+      "<DBAF43F0>": "I promised... I wouldn't run away.\nWith Ichika-chan..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't want those words\nto turn into a lie as well..."
+      "<DBAF43F0>": "I don't want to make those words... a lie too..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is something I have to face...!"
+      "<DBAF43F0>": "That's why...!"
     }
   ]
 }

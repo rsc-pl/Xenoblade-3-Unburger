@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, what kind of crime did you commit\nto be locked up here, exactly?"
+      "<DBAF43F0>": "What crime did you commit\nto be put in here?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's it to you? Will I get to fight you\nlot, if I talk?"
+      "<DBAF43F0>": "What's the point in knowing that?\nIf I tell you, will you fight me?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That all depends on what you tell us."
+      "<DBAF43F0>": "That depends on the circumstances."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmph, well, I guess it's worth a punt...\nI got locked up for the crime of mass\nmurder."
+      "<DBAF43F0>": "Hmph, fine.\nIt's for the crime of mass murder."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A clear violation of military discipline.\nSimple enough reason, right?"
+      "<DBAF43F0>": "Simple, right? A violation of military regulations!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thinking back on it now, I guess\nI just wasn't a soldier the Consul\ncould control."
+      "<DBAF43F0>": "Thinking back, I guess I just wasn't\na soldier the Consul could\neasily control."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But that's beside the point. You gonna\nfight me, or not? Out with it."
+      "<DBAF43F0>": "Anyway, fight or don't fight,\njust decide already."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But that's besides the point. You gonna\nfight me, or not? Out with it."
+      "<DBAF43F0>": "Anyway, fight or don't fight,\njust decide already."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, you're feeling up for a fight, are ya?"
+      "<DBAF43F0>": "Oh, you feel like fighting now?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Before that, there's something we want to\nmake sure of. Is it true that you murdered\nmultiple Kevesi soldiers?"
+      "<DBAF43F0>": "Before that, I want to confirm something.\nIs it true that you killed many Kevesi soldiers?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did ya miss it the first time round?\n'Course I did."
+      "<DBAF43F0>": "I already told you.\nThat's right."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You used a Levnis during the incident,\ndidn't you?"
+      "<DBAF43F0>": "At that time[ML:line ]\nyou used an Iron Giant, didn't you?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, now... Someone's done their\nresearch. But yeah, I killed a snuff ton of\nthe enemy in a Levnis."
+      "<DBAF43F0>": "Hoh... You've done your research.\nThat's right, I killed a ton of enemies with an Iron Giant."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And you stayed behind last to fight them\noff, so you could save your fleeing\ncomrades, if I'm not mistaken?"
+      "<DBAF43F0>": "Then what about the story that you fought\nat the very rear to help your retreating\ncomrades?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Where the heck did you-\n...Anyway, yeah. That's also right."
+      "<DBAF43F0>": "Where did you hear that[ML:line ] No, it doesn't matter.\nRight, that's also true."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now, about that enemy. I dunno what\ncolony they came from, but they sure didn't\nknow snuff about fighting honorably."
+      "<DBAF43F0>": "The enemy, I don't know what colony they were,\nbut they were guys who didn't even know the etiquette of war."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seeing those dishonorable bastards\nslaughtering my friends made me go\nright off the deep end!"
+      "<DBAF43F0>": "Seeing so many of my comrades killed,\nI just saw red!"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I had to get any of my guys still\nbreathing out of there, but I couldn't\njust let them get away with it!"
+      "<DBAF43F0>": "I had to let the survivors escape,\nbut I didn't want to let the enemy have their way!"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was too drained to wield my Blade, so I\ngot into a Levnis, and made 'em regret\neven being alive! That's all there is to it."
+      "<DBAF43F0>": "I didn't have the luxury of fighting with my Blade!\nSo I got in an Iron Giant and\nblew the enemy away! That's all!"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right, we now understand what happened."
+      "<DBAF43F0>": "I see. I understand the situation."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not like me telling you all this is gonna\nmake a lick of difference, though, is it?"
+      "<DBAF43F0>": "Such a stupid story,\nit doesn't matter, does it?"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Tell Tsuyu about Touma's story?"
+      "<DBAF43F0>": "Tell Tsuyu about Touma's circumstances?"
     },
     {
       "$id": 23,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're heading off to tell Tsuyu from\ninternal security about your story.\nWe won't be long."
+      "<DBAF43F0>": "I'm going to talk to Tsuyu from Internal Affairs.\nPlease wait a moment."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 19,
-      "<DBAF43F0>": "Not yet"
+      "<DBAF43F0>": "Don't tell her yet"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What? Still got something\nya need from me?"
+      "<DBAF43F0>": "What? Is there something else?"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Have you met the other guys\nlocked up in here yet?"
+      "<DBAF43F0>": "Have you been to see the others?"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're gonna be fighting 'em, then make\nsure I'm involved, too! I'd love to see how\nI match up against you guys!"
+      "<DBAF43F0>": "If they're going to fight you,\ncount me in too!"
     }
   ]
 }

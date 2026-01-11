@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She's not here. Let's look\nsomewhere else."
+      "<DBAF43F0>": "Doesn't look like she's here.\nLet's search somewhere else."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nobody here."
+      "<DBAF43F0>": "...No one's here."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ugh, come ON! Where is she?!"
+      "<DBAF43F0>": "Dammit, a dead end...\nWhere the hell is she hiding?!"
     }
   ]
 }

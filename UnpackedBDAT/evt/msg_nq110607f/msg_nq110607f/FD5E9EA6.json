@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I heard back from both of them.\nYou've been busy, haven't you?"
+      "<DBAF43F0>": "I've heard the reports from both of them.\nIt seems you were quite active."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eh, it wasn't that much work."
+      "<DBAF43F0>": "I wouldn't say we did anything\nworth being called \"active.\""
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I know our duties seem\npretty plain and boring."
+      "<DBAF43F0>": "It's true, our duties might be\nplain and unremarkable."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But without us, you\ncan't have a colony."
+      "<DBAF43F0>": "But if someone doesn't do them,\nthe colony cannot function..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In a way, you could say\nthat this is our battlefield."
+      "<DBAF43F0>": "For us,\nin a sense, this is our battlefield."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa..."
+      "<DBAF43F0>": "I see..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It true! No Mikoko, no colony!"
+      "<DBAF43F0>": "That's right, desu mo.\nIf it weren't for Mikoko and her team,\nthe colony would have been gone long ago, desu mo."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And without our leader,\nthings would be really bad."
+      "<DBAF43F0>": "Or rather, if the squad leader wasn't here,\nit might have been really bad..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let us know if you ever need anything\nelse, OK? We'll do whatever we can."
+      "<DBAF43F0>": "If anything else comes up, let us know.\nWe'll help as much as we can."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now Mikoko able to take break.\nPlease help Mikoko every day."
+      "<DBAF43F0>": "Finally, I can take a break, mo...\nI wish you could help me every day, mo."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've made such a\ndifference! Thank you!"
+      "<DBAF43F0>": "You were a huge help!\nThank you so much!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "On behalf of the whole procurement\ndivision, thank you!"
+      "<DBAF43F0>": "The entire materials procurement squad\ndeeply appreciates your cooperation."
     }
   ]
 }

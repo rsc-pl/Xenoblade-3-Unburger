@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gigiku said you go out at nighttime.\nIs there a reason for that? Must be\nkinda inconvenient in the dark."
+      "<DBAF43F0>": "You said you 'go out at night,'\nbut is there a reason for that?\nIt's dark and inconvenient at night."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In the daytime, I'm usually helping out\nGrandma at the shop, so..."
+      "<DBAF43F0>": "During the day, I was helping\nmy grandmother... at the shop."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's hard for me to make friends because\nof that. The only person I get to talk to is\nGigiku... He's a customer in the shop."
+      "<DBAF43F0>": "That's why I can't make friends,\nand the only person I talk to is Gigiku, a customer."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Also, I get better inspiration\nfor my puzzles at night!"
+      "<DBAF43F0>": "And besides... it's easier to find\ntopics for my riddles at night."
     }
   ]
 }

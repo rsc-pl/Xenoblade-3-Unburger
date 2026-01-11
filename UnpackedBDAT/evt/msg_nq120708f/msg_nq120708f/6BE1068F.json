@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yoshino! Look what\nwe've got for you!"
+      "<DBAF43F0>": "Yoshino,\nI brought them!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you very much!\nNow you leave the rest to me."
+      "<DBAF43F0>": "Thank you for your trouble.\nNow, leave the rest to me."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And that's all nice and calibrated!"
+      "<DBAF43F0>": "The adjustments are perfect."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meh-meh! Second test start!"
+      "<DBAF43F0>": "Momo!\nBeginning re-test, mo!"
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How did it go?"
+      "<DBAF43F0>": "What happened...?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oho! It success!"
+      "<DBAF43F0>": "Momo!\nIs it a success, mo!?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It looks like the output is a bit stronger\nnow. Quite a few places are glowing."
+      "<DBAF43F0>": "It seems the output was a little too strong.\nVarious parts are burnt..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's just one little\ntweak left to do, Yoshino!"
+      "<DBAF43F0>": "Yoshino, please adjust it one more time!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, yes."
+      "<DBAF43F0>": "Yes, of course."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's swap out the\nBuddy Blaster's parts."
+      "<DBAF43F0>": "I think I'll try replacing\nthe Buddy Blaster's parts as well."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm really sorry, but could you get me\na Three-fold Transistor and a Bullet\nScreen?"
+      "<DBAF43F0>": "I'm sorry to ask, but could you\nprocure a Tri-Transistor and a Kugel Wall\nfor me?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can do!"
+      "<DBAF43F0>": "Got it!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Come on, Lanz!"
+      "<DBAF43F0>": "Let's go, Lanz!"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yessir!"
+      "<DBAF43F0>": "Right."
     }
   ]
 }

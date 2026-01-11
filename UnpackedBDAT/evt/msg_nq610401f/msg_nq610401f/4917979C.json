@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, sorry to keep you.\nWe're ready to go whenever."
+      "<DBAF43F0>": "Sorry for the wait.\nWe're ready whenever you are."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Uhm, booting up monitoring applet now."
+      "<DBAF43F0>": "St-Starting monitoring."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Aight, let's have a quick spar, then.\nShould make for good exercise."
+      "<DBAF43F0>": "All right.\nLet's have a go, for a bit of exercise."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Automaton, engage!"
+      "<DBAF43F0>": "Automaton, launch!"
     }
   ]
 }

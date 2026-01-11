@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How's everyone at Colony Tau?"
+      "<DBAF43F0>": "I wonder if everyone in Tau is okay?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, never mind that lot right now.\nHere's where the danger is. Aren't\nyou gonna evacuate?"
+      "<DBAF43F0>": "Instead of worrying about others[ML:line ]...\nisn't it more dangerous here? You should evacuate."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah... I'm not worried though. Not with\nall the new friends I've made around here!"
+      "<DBAF43F0>": "Yes... but I'm not anxious because\nI'm with my new friends."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When the time comes, I'll get out of here\nwith everyone else from the colony, so\ndon't worry about me!"
+      "<DBAF43F0>": "If it comes to it, I'll do my best to escape\nwith the people of Mu, so don't worry."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you... You've no idea\nhow happy this has made me."
+      "<DBAF43F0>": "Thank you... I'm so happy."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK. See you later!"
+      "<DBAF43F0>": "...See you later."
     }
   ]
 }

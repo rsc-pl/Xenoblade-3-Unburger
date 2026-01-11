@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The tunnel walls should have been\nstabilized! What happened?!"
+      "<DBAF43F0>": "The ground should have been stable.\nWhat on earth..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, look over there!"
+      "<DBAF43F0>": "Hey, look at that."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's collapsed."
+      "<DBAF43F0>": "That's where it collapsed."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah! We got monsters!"
+      "<DBAF43F0>": "Ah, there are monsters!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They must have been living in a place\nwith elevated ether concentration, then\nfound their way in here."
+      "<DBAF43F0>": "The ones that were in the area with high ether\nconcentration may have come out this way."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We better get there quick!"
+      "<DBAF43F0>": "Let's go, quickly!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's no direct path there.\nWe'll have to go around..."
+      "<DBAF43F0>": "It is not a place we can go to directly.\nWe must take a detour..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've got Levnises, don't you?\nOne'd make short work of these things."
+      "<DBAF43F0>": "You've got Levnises, right?\nCan't you just finish this up quickly with those?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But we need permission from each squad's\nleader to activate a Levnis..."
+      "<DBAF43F0>": "To activate the Levnises,\npermission from the head of each squad is required."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, come the snuff on, this is an\nemergency!"
+      "<DBAF43F0>": "Even in an emergency,\nyou're saying such carefree things..."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You stay here on standby.\nThere might be another collapse,\nso we'll go on alone."
+      "<DBAF43F0>": "You all will wait here on standby.\nAssuming a secondary collapse, we will proceed alone."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But Commander...!"
+      "<DBAF43F0>": "But Commander..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Execute a partial evacuation\nonce the tunnel mouth is secured."
+      "<DBAF43F0>": "Once the tunnel entrance is reinforced,\na partial retreat will be executed."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Coordinate with the medic corps\nand treat any wounded."
+      "<DBAF43F0>": "The rest will coordinate with the medical corps\nand tend to the wounded."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "These are special orders for which I take\nfull accountability. Inform the other troops."
+      "<DBAF43F0>": "This order is a special measure.\nI will take responsibility.\nRelay that to the other squads as well."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, sir!"
+      "<DBAF43F0>": "Sir!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now, all of you..."
+      "<DBAF43F0>": "Now, as for you all..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll be fine, Commander.\nYou can count on us."
+      "<DBAF43F0>": "It's fine. Please, leave it to us."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Understood. I'm sorry\nfor dragging you into this."
+      "<DBAF43F0>": "...Understood.\nMy apologies, but I'm counting on you."
     }
   ]
 }

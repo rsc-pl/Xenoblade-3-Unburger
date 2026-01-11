@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're back with the Piranhax meat!\nTake it or leave it."
+      "<DBAF43F0>": "We're back.\nHere, just as you asked.\nPiranhax meat."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right, now that's all taken care of,\ncan we get you back to Guguru?"
+      "<DBAF43F0>": "We've gathered the ingredients.\nLet's go back to Guguru's location."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thankings! So many thankings!"
+      "<DBAF43F0>": "Thank you, mo! Thank you, mo!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Friends did fine work. Fish look\nvery fresh and refreshing!"
+      "<DBAF43F0>": "Thank you for your hard work, mo!\nIt looks so fresh and delicious, mo!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Babalulu also finish with mushroom-picking,\nmarking key turning point in dinner quest!"
+      "<DBAF43F0>": "Babalulu has also finished collecting mushrooms, mo.\nDinner is all set, mo!"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Cool, back to Guguru then.\nKeep up, yeah?"
+      "<DBAF43F0>": "All right, let's go to Guguru.\nDon't wander off, and stick close, okay?"
     }
   ]
 }

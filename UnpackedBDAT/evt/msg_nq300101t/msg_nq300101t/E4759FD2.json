@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Can you tell us what you know\nabout white fog on the Erythia Sea?"
+      "<DBAF43F0>": "Do you know anything about the white fog\nthat appears in the Erythia Sea?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, you're interested in that too?"
+      "<DBAF43F0>": "Oh?\nAre you all investigating that too?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Monica's already been here asking me\nto do a little digging on the topic."
+      "<DBAF43F0>": "Monica-san asked me to look into it,\nso I was just in the middle of my own investigation."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, nothing seems to happen\nwhen you're on a boat, but..."
+      "<DBAF43F0>": "That fog……\nIt seems nothing happens as long as\nyou're on a boat, but……"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you make landfall on an island with that\nfog laid on it, then as soon as you take\nyour eyes off your friends they vanish."
+      "<DBAF43F0>": "They say if you land on an island where the fog is present,\nyou look away for a moment and the comrade\nwho was right next to you has vanished."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That fog has taken a lot of\npeople I know away from me..."
+      "<DBAF43F0>": "A number of people I know have disappeared\nbecause of that fog……"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see..."
+      "<DBAF43F0>": "Is that so……"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I really want to get to the bottom of it\nbefore anyone else gets hurt."
+      "<DBAF43F0>": "We need to find the cause quickly,\nso no one else becomes a victim."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So you don't even know whether it's\ncaused by a monster or it's some new\nmilitary technology?"
+      "<DBAF43F0>": "You don't know if it's being caused by a monster,\nor if it's some new military weapon, right?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Won't it be dangerous to investigate\nit alone? Let us help you."
+      "<DBAF43F0>": "Isn't it too dangerous to investigate alone?\nPlease, let us help you."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wow, the Ouroboros want to help me?\nThat would be amazing, thank you!"
+      "<DBAF43F0>": "If Ouroboros is willing to help,\nthat would be a huge relief. I'm counting on you!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are a lot of eyewitness reports\nsaying the white fog is near\nAnu Shoals."
+      "<DBAF43F0>": "The highest number of sightings\nof the white fog are near the\nAnu Archipelago."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You may be Ouroboros, but it's tough to\nmove around on a boat, don't forget! Go\ncareful out there."
+      "<DBAF43F0>": "Even as Ouroboros,\nyou won't be able to move properly on a boat, right?\nBe careful with your investigation."
     }
   ]
 }

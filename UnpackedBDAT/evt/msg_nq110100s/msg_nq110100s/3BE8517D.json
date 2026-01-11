@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, just as we finish off solving\nthe resources problem, a pack\nof monsters shows up?"
+      "<DBAF43F0>": "Just when we solved the supply problem,\nnow it's a horde of monsters..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They said they'd deal with it,\nbut we should help, right?"
+      "<DBAF43F0>": "They said they'd cull them,\nbut should we help out?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And how long are we supposed to hold\ntheir hands? Have you forgotten what\nwe're actually meant to be doing?"
+      "<DBAF43F0>": "How long do you intend to get involved with them?\nHave you forgotten our objective?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What? No, of course not...!"
+      "<DBAF43F0>": "N-No, of course not, but..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colony 4 problems are for Colony 4\nto solve. Ethel said as much."
+      "<DBAF43F0>": "Ethel also said that\nColony 4's problems are their own problems."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And we're outsiders. The more we meddle,\nthe more they'll be on guard against us."
+      "<DBAF43F0>": "If we, as outsiders, interfere too much,\nwe risk making them even more wary of us."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Do you think that what we've\nbeen doing is just meddling?"
+      "<DBAF43F0>": "...So what we're doing\nis just meddling?"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Meddling, not-meddling, who\ncares as long as we're helping?"
+      "<DBAF43F0>": "Meddling or not,\nit's better to help than not, isn't it?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1200,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"The actions you believe to be correct\ndon't always lead to good outcomes.\""
+      "<DBAF43F0>": "\"Actions you believe to be right\ndo not always lead to the right results.\""
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I think I remember Ethel saying that."
+      "<DBAF43F0>": "...That's what Ethel said, wasn't it?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, but think about it."
+      "<DBAF43F0>": "Yes, but think about it.\nDoesn't that also mean..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Doesn't it mean that if you don't take\nthe action in the first place, you can't\nknow if it's good or bad?"
+      "<DBAF43F0>": "...that you won't know if it's right or wrong\nunless you try acting?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh!"
+      "<DBAF43F0>": "Ah...!"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mio, you're..."
+      "<DBAF43F0>": "Mio, you..."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...She's right, is what she is.\nSitting here wringing our\nhands won't do anything."
+      "<DBAF43F0>": "...She's right. Mio's right.\nNothing will come of us worrying here."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Colony 4 gang are going\nto be at the Barren Knoll, right?"
+      "<DBAF43F0>": "I think the people from Colony 4\nheaded for the Barren Knoll, right?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That ain't far. We can at least,\nyou know, look in on them.\nMake sure they're handling themselves."
+      "<DBAF43F0>": "It's not too far.\nWe can just check on them, and if there's no problem,\nthen that's that! Easy."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I agree with Eunie. Taion?"
+      "<DBAF43F0>": "Yeah, I agree with Eunie.\nWhat do you think, Taion?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1200,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...No objections. It's a logical conclusion\nfollowing what I originally said."
+      "<DBAF43F0>": "...If this is the conclusion you've reached after considering\nwhat I said at the start, then I have no objections."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good. We'll do everything we-\nWell. We'll do something, anyway."
+      "<DBAF43F0>": "It's decided then.\nWhat we can do is...\njust act."
     }
   ]
 }

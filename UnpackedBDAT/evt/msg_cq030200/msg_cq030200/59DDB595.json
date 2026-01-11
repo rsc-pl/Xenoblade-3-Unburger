@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey there, you lot. Fast as a sparkin' Rhogul!"
+      "<DBAF43F0>": "Yo, you guys.\nYou got here pretty fast."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, we would hate to keep you waiting."
+      "<DBAF43F0>": "We don't make a habit of keeping people waiting."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good man."
+      "<DBAF43F0>": "Nice."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So where's Colony 5?"
+      "<DBAF43F0>": "Where's Colony 5?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Easy. It's up on the Loska Plateau.\nShould see it once you've cleared the cave."
+      "<DBAF43F0>": "Ah, it's on the Loska Plateau ahead.\nI think you'll see it once you pass through the cave."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What are we waitin' for then?\nThis bloody murk's giving me the creeps."
+      "<DBAF43F0>": "Then let's hurry.\nI want to blow away this unease as soon as possible."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eunie should cool jets.\nGetting in tizz won't help."
+      "<DBAF43F0>": "The situation won't change just because Eunie is impatient, mo."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You'll be in a tizz in a minute!"
+      "<DBAF43F0>": "I'm not being impatient."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All he's saying is that we should\nplay it safe. Careful."
+      "<DBAF43F0>": "Riku is just saying you should be careful."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Correct. Especially if situation\ninvolve Moebius creeps."
+      "<DBAF43F0>": "Yes, mo.\nEven more so if Moebius is involved, mo."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All riiight..."
+      "<DBAF43F0>": "...Alright."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I am actually tryin' to control myself.\nIf I start going crazy, nudge me."
+      "<DBAF43F0>": "I think I have myself under control, but\nif I seem like I'm getting ahead of myself, let me know."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa!\nWhere's the real Eunie?"
+      "<DBAF43F0>": "Whoa...\nThat's not like you."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I just don't want us draggin' our feet, all right?!"
+      "<DBAF43F0>": "I don't want to drag you all down..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "[ML:undisp ](chuckle)"
+      "<DBAF43F0>": "[ML:undisp ]Heh..."
     }
   ]
 }

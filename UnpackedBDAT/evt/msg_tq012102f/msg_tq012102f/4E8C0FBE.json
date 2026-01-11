@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What're you doin' here?\nWe thought you'd disappeared!"
+      "<DBAF43F0>": "I thought you'd disappeared all of a sudden,\nbut here you are."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahh... Sorry, sorry.\nI just wanted to see this."
+      "<DBAF43F0>": "Ah... Sorry, sorry.\nI just felt like seeing this."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The golden Flame Clock?"
+      "<DBAF43F0>": "The \"golden\" Flame Clock?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Our lives can shine like gold,\nbut scatter them to the wind\nand they still end up like this."
+      "<DBAF43F0>": "...Even a life that can shine like gold,\nonce it's scattered, it ends up \"like this.\""
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In spite of that, people are drawn to\nhonor and glory... Like moths to a flame."
+      "<DBAF43F0>": "And yet, people relentlessly seek\nhonor and glory, like moths to a flame."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I wonder why."
+      "<DBAF43F0>": "I wonder why that is?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Um. I hope you're not looking\nto me for an answer..."
+      "<DBAF43F0>": "Hey, don't ask me that out of the blue..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Perhaps it's just human nature...?"
+      "<DBAF43F0>": "Because it's human \"nature\"... maybe?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Perhaps... Though if that's true,\nthen there's no saving us."
+      "<DBAF43F0>": "\"Nature\"... huh.\nIf that's the case, then we're beyond saving."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We couldn't possibly hope to\nescape the lure, destined to be\ncaught in the fire, and die."
+      "<DBAF43F0>": "We humans are fated to be unable to escape the flame,\\and to be burned to death by it."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks for that pep talk.\nSo. What are you trying to say?"
+      "<DBAF43F0>": "Thanks for the profound speech.\n...So, what are you trying to say?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm saying that's really not how I\nwanna go."
+      "<DBAF43F0>": "I'm saying I'd rather not meet an end like that."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Oops, I'm getting a call.\nWon't be a minute."
+      "<DBAF43F0>": "...Oops, a communication's coming in.\nExcuse me for a moment."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is Zuoren from Colony 11. Come in."
+      "<DBAF43F0>": "This is Zuoren of Colony 11,\nplease respond."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, hello, this is Ashera from Colony 11.\nYou'll have to call back, I'm busy."
+      "<DBAF43F0>": "Yeah, yeah, this is Ashera.\nI'm busy right now, so call back later—"
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmph, seriously, Ashera?\nAnd here I thought I'd give you\nsome good news."
+      "<DBAF43F0>": "Hmph. Is that wise, Ashera?\nThis might be good news for you."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oho? Something's got you in a good mood,\nZor. Guess I will make time for you, then."
+      "<DBAF43F0>": "Ho... You sound awfully pleased, Zor.\nThen I suppose I'll listen."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't ask why...\nBut I don't think we're gonna like this."
+      "<DBAF43F0>": "...I don't know why,\nbut I have a really bad feeling about this..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah... Agreed."
+      "<DBAF43F0>": "Yeah, me too..."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A short while ago, Colony 11 received\na declaration of war."
+      "<DBAF43F0>": "Just a short while ago,\nColony 11 received a declaration of war."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is that all? Come on. What else is new?\nYou know as well as I do, we get those\nalmost every other day..."
+      "<DBAF43F0>": "Hey now, that happens all the time, right?\nWhat's so great about—"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What if I tell you it's from someone\nyou've been just itching to see again?\n...Need a clue?"
+      "<DBAF43F0>": "What if I said the opponent is the \"one\"\nyou've been waiting for?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "(gasp) Are you serious? She's back..."
+      "<DBAF43F0>": "...! Really? Well then, that's..."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So? Don't keep us in the dark."
+      "<DBAF43F0>": "Hey, what's going on?"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heheheh... Time to rejoice, comrades!"
+      "<DBAF43F0>": "Kukuku... Rejoice, everyone!"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A certain Madam Consul has finally\ndeigned to pay a visit, hoping to get\nher revenge!"
+      "<DBAF43F0>": "Her Excellency the Consul has finally graced us with\nher presence for a battle of revenge!"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wha...! That freak's\nseriously come back?"
+      "<DBAF43F0>": "Wha...! That bastard\nseriously showed up!"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She did strike me as the vindictive type..."
+      "<DBAF43F0>": "What a persistent person..."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Allllll righty. So, Colony 11's in\ngreat danger. We have to head over\nand provide aid."
+      "<DBAF43F0>": "Yes, this is a crisis for Colony 11.\nWe must hurry to their aid."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ugh, what rubbish. If you wanna\ngo on another rampage just say so!"
+      "<DBAF43F0>": "Tch, don't be so phony.\nJust admit you want to go on a rampage."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hahaha, good old Eunie!\nA typically astute observation."
+      "<DBAF43F0>": "Hahaha! As expected of Eunie,\nyou understand me so well."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "(sigh) Listen. Just finish the job this\ntime, OK? No cutting her loose, please."
+      "<DBAF43F0>": "Hah... Listen, make this the last time, okay?\nNo letting her get away again, absolutely not."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I read you.\nThis time I'll put her down, I promise."
+      "<DBAF43F0>": "Understood.\nNext time, I'll finish her for sure. I promise."
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're finished deliberating,\nwhere are you now?"
+      "<DBAF43F0>": "...Seems your discussion is over.\nWhere are you now?"
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's see... The Fornis region,\nnear the Old Kana Battlefield."
+      "<DBAF43F0>": "Let's see... around the \"Old Kana Battlefield\"\nin the Fornis Region."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah! That's convenient. Approach from\nthe Morukuna Wildwood side."
+      "<DBAF43F0>": "Ho... then that's convenient.\nYou all come from the \"Morukuna Wildwood\" side."
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll head out from Colony 11, catch\nthem in a pincer and crush them in one\nfell swoop."
+      "<DBAF43F0>": "We'll attack from Colony 11.\nLet's perform a pincer attack and annihilate them at once!"
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, nice! Let's do that, it sounds fun."
+      "<DBAF43F0>": "I like it! Sounds interesting, let's go with that."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, and leave the leader's head\non her shoulders. I just promised\nI'd come to collect it."
+      "<DBAF43F0>": "Ah, leave the big boss's head for me.\nI've promised I'll be the one to kill her."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmph, I can't guarantee that.\nJust make sure you're not delayed\nhaving some extra \"fun\"."
+      "<DBAF43F0>": "Hmph, I can't guarantee that.\nJust try not to be late for the \"fun.\""
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, wai-"
+      "<DBAF43F0>": "Ah, wai—!"
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Damn!\nHave to hurry or there'll be trouble."
+      "<DBAF43F0>": "...Damn it.\nLooks like we'd better hurry."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The only trouble is you, you psycho."
+      "<DBAF43F0>": "The one who's in trouble is y—"
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahh, whatever. Let's go\nand tear R a new one."
+      "<DBAF43F0>": "Ah, forget it.\nLet's just hurry up and go beat down R."
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Too right! Get ready for battle!"
+      "<DBAF43F0>": "I agree! Let's head to battle!"
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I can't tell if they're about to hug\nor throttle each other, those two..."
+      "<DBAF43F0>": "I wonder if those two are actually good friends..."
     }
   ]
 }

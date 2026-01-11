@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Excuse me, sir.\nI'd like to ask you a question."
+      "<DBAF43F0>": "Excuse me, I'd like to ask you something."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eh? Whassat?"
+      "<DBAF43F0>": "Hm? What is it?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're looking for something\ncalled a \"natural spa\"..."
+      "<DBAF43F0>": "We're looking for something called an onsen..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Natural spa, eh? Hmmm..."
+      "<DBAF43F0>": "Onsen? Hmm..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Never seen such bounties of nature\nwith my own eyes, I'm sorry to say."
+      "<DBAF43F0>": "I've never seen a natural one myself.\nUnfortunately."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Bounties of nature?"
+      "<DBAF43F0>": "A natural one?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What, don't you know even that?\nAh, I guess you younglings only\nknow what you know."
+      "<DBAF43F0>": "What, you don't even know that...\nNo, I suppose... it's only natural for young folk\nto have never even heard of it."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But if you ask around among folk my age,\nyou should find someone who can tell you\nall about 'em."
+      "<DBAF43F0>": "If you ask an old person like me,\nthere's probably someone who knows more about it."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In fact, someone I knew once used\nto go searchin' for spas, but they're in\nelusive spots, never to be found."
+      "<DBAF43F0>": "There were people who looked for it in the past, but...\nit's a hidden spring that was never found."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Spots like...?"
+      "<DBAF43F0>": "A hidden spring?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, you'd hear about them being in a\nforest, or under a cliff, or deep in some\ncave, but nobody could ever find 'em."
+      "<DBAF43F0>": "Yes, I've heard it's in a forest, or at the bottom of a cliff,\nor deep in some cave, but no one could ever find it."
     },
     {
       "$id": 12,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hang on. Maybe that old man's been\nto one... No, maybe he's dead?"
+      "<DBAF43F0>": "Wait, maybe that old man\nhas been there... no, is he dead?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't see 'im round these days.\nMight be dead."
+      "<DBAF43F0>": "He might be dead.\nI haven't seen him recently."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK then. Thanks, sorry to bother you."
+      "<DBAF43F0>": "I see... I'm sorry. That was helpful."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry I couldn't be more help."
+      "<DBAF43F0>": "Sorry I couldn't be of more help."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, you've helped a lot.\nLet's go."
+      "<DBAF43F0>": "No, it was more than enough.\nLet's go."
     }
   ]
 }

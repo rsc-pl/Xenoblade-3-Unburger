@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right, so. Bit of a dead end with the\nmythrice. What do we do now, Sena?"
+      "<DBAF43F0>": "They said they don't have any mythrice.\nWhat should we do, Sena?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmmm... Yeah, that's one thing, but..."
+      "<DBAF43F0>": "Hmm, there's that, but..."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hm? Something wrong, Nagiri?"
+      "<DBAF43F0>": "...Hm?\nWhat is it, Nagiri?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Perhaps it is advisable to put the search\nfor mythrice on hold and focus our efforts\non these attack incidents."
+      "<DBAF43F0>": "Shall we suspend the acquisition of mythrice and\nswitch to investigating this attack incident?"
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I am inferring from past behavior patterns.\nThis course of action is congruent with\nyour actions I observed up to this point."
+      "<DBAF43F0>": "This is an inference based on your past behavior patterns.\nI believe Sena would think to do so."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ahh..."
+      "<DBAF43F0>": "Ah..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ha! Sounds like she's got you clocked, love.\nDoubt you can get outta this one, even if\nyou wanted, which you probably don't."
+      "<DBAF43F0>": "Hahaha, see, Sena?\nNow that she's said that, what can you do?"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heh heh! Yeah, you're right.\nNagiri's got it in one."
+      "<DBAF43F0>": "...Yeah, you're right.\nJust as Nagiri says."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's capture the crooks that attacked\nthe transports and get back the stolen\nmythrice!"
+      "<DBAF43F0>": "Let's catch the culprits who attacked the transport convoy,\nand get the mythrice back that way!"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Compliance."
+      "<DBAF43F0>": "Understood."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "All right, now that that's decided,\nwhere should we begin?"
+      "<DBAF43F0>": "Alright, now that that's decided,\nwhat we can do is..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We ought to talk to the logistics chief\nthat our contact mentioned. They may\nknow more about the assailants."
+      "<DBAF43F0>": "...ask that logistics chief for information.\nThey should know something about the attackers."
     }
   ]
 }

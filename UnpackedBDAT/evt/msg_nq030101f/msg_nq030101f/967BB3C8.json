@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ghondor, we need to talk to you-"
+      "<DBAF43F0>": "Ghondor?\nWe've got something to ask you..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It'll have to wait. Got problems\ncoming out my ears right now."
+      "<DBAF43F0>": "Make it later.\nI'm dealing with some trouble right now."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's troubling you?"
+      "<DBAF43F0>": "Some kind of problem?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Pff, it's less \"troubling\" me\nthan tearing me a new one."
+      "<DBAF43F0>": "Tch...\nIt's not just a problem, it's a damn mess."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Some absolute jokers have popped up out\nof nowhere and set up shop in the prison."
+      "<DBAF43F0>": "Some idiots have holed themselves up\nin the detention facility and occupied it... Dammit."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They're occupying it?\nWell, that's some crap timing."
+      "<DBAF43F0>": "Occupied it?\nTalk about bad timing..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We actually wanted to talk to you\nabout the prison in the first place."
+      "<DBAF43F0>": "Actually, Ghondor, we came here\nto talk about that very facility."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Live in the prison?\nDamn, you lot are not right."
+      "<DBAF43F0>": "...Move into the detention facility, huh?\nHah, you people have some weird tastes."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But whatever. Solve this for me\nand you can live in it, dress it up,\neven eat it for all I care."
+      "<DBAF43F0>": "But, this is perfect.\nIf you guys can sort this out for me,\nyou can do whatever you want with the place."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That would be really great. Is it OK,\nthough? Like, Ghondor, is this really\nyour call to make...?"
+      "<DBAF43F0>": "That would be a huge help, but are you sure?\nCan you decide that all on your own...?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Does it matter? I'll ask forgiveness\nlater if it makes you feel better."
+      "<DBAF43F0>": "Hmph, don't worry about it.\nIt's called asking for forgiveness later."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you can take this little problem\noff our hands they'll probably crown\nyou, to be honest."
+      "<DBAF43F0>": "As far as I'm concerned,\njust taking this off my hands\nis more than enough reason to welcome your offer."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whoa, really? Must be some problem."
+      "<DBAF43F0>": "You really mean that?\nJust how much trouble is this?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, you'll understand it when you\nsee it. So, do we have a deal?"
+      "<DBAF43F0>": "...Well, you'll see when you get there.\nAnyway, I'm leaving it to you, 'kay?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Um, sure...?"
+      "<DBAF43F0>": "Ah, yeah..."
     }
   ]
 }

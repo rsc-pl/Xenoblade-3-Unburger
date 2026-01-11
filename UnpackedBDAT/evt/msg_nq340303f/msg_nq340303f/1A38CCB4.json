@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like the ship's shipped out now."
+      "<DBAF43F0>": "It seems the ship was able to depart."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks, I've heard."
+      "<DBAF43F0>": "Thank you.\nI've received a report as well."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Even Agyou and Ungyou should be satisfied\nwhen they see the shipment."
+      "<DBAF43F0>": "Seeing those supplies should calm\nAgyou and Ungyou down for the time being."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I sure hope so. Now then,\ntime to handle the issues in\nAgnus Castle, I reck-"
+      "<DBAF43F0>": "That's true.\nNow, about the problems at Agnus Castle..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Sorry, I'm getting a call."
+      "<DBAF43F0>": "...A communication is coming in."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes? Mhm, yes..."
+      "<DBAF43F0>": "Yes... Yes..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...What?! Snuff it... Understood.\nI'll send someone straight away."
+      "<DBAF43F0>": "What?! O-Okay...\nI'll send soldiers immediately. Over."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's happened?"
+      "<DBAF43F0>": "What's wrong?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That was from some soldiers down\nin the harbor. They said they've lost\ncontact with the ship..."
+      "<DBAF43F0>": "It was a communication from a soldier at the port.\nThey've lost contact with the ship..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh no...!"
+      "<DBAF43F0>": "Wh-...!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was going to send some troops to\nget a quick idea of the situation..."
+      "<DBAF43F0>": "I was about to send soldiers from here\nto quickly assess the situation..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's an emergency, right? We'll go.\nI think it'll be quicker that way."
+      "<DBAF43F0>": "If it's an emergency, we'll go.\nIt should be faster that way."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Yeah, you're probably right.\nThanks. I'm counting on you."
+      "<DBAF43F0>": "...Understood.\nI'll be counting on you."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right. Let's get on out there!"
+      "<DBAF43F0>": "Alright, let's hurry!"
     }
   ]
 }

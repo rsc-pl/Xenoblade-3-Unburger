@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm really grateful to you for helping\nout Nami and the others."
+      "<DBAF43F0>": "I am grateful to you\nfor helping Nami and the others."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But...I must ask you not to\nextend your stay here."
+      "<DBAF43F0>": "However, please do not overstay your welcome."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Please, leave here, when tomorrow comes."
+      "<DBAF43F0>": "You must depart from here tomorrow."
     }
   ]
 }

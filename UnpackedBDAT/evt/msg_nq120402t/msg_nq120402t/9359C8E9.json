@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Have you seen any Mechafriend parts\nlying around? Someone might have\ntaken them."
+      "<DBAF43F0>": "Have you seen any of Mechafriend's parts?\nIt seems someone has taken them."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh no! That's awful!"
+      "<DBAF43F0>": "What!\nThat's terrible."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's probably more efficient to\njust replace the parts than try\nto collar the perp."
+      "<DBAF43F0>": "It might be faster to find\nreplacement parts than to\nsearch for the person who took them."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Makes sense. Thank you!"
+      "<DBAF43F0>": "I see.\nThank you."
     }
   ]
 }

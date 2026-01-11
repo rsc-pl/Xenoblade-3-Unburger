@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are crucial parts missing.\nPerhaps someone was trying to\nrepurpose them?"
+      "<DBAF43F0>": "The main parts have been removed.\nWas the purpose for machine maintenance...?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "More importantly, there's nothing else here.\nDid we come here for nothing?"
+      "<DBAF43F0>": "That said, there's nothing else here.\nWas this a waste of time?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Evidence of Ferron activity detected."
+      "<DBAF43F0>": "...Traces of a Ferron have been discovered."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? What, where...?"
+      "<DBAF43F0>": "Huh? But where—"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Visual sensors have detected\nresidual Flame Clock energy."
+      "<DBAF43F0>": "The visual sensors detected\nresidual energy from a Flame Clock."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Its signature is unique to mobile\narmored units utilizing a Flame Clock\nfor propulsion."
+      "<DBAF43F0>": "This is uniquely emitted by mobile weapons\nthat use a Flame Clock as a power source."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wow, you can find stuff like that? Nifty!"
+      "<DBAF43F0>": "Heh, you can even tell that much?\nHow convenient."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The trail leads in the direction of the\ndesert. Pursuit is currently possible,\nand advised."
+      "<DBAF43F0>": "The reaction continues towards the desert.\nTracking is currently possible."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then let's go after them, Nagiri!"
+      "<DBAF43F0>": "Let's follow it, Nagiri!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Compliance."
+      "<DBAF43F0>": "Understood."
     }
   ]
 }

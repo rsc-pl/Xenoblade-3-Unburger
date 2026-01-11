@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What a marvelous place this is!"
+      "<DBAF43F0>": "This is a wonderful place."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The magnificent sweeping vistas aside,\nit's a joy to see people of the City and\nAgnus working arm in arm!"
+      "<DBAF43F0>": "The view is of course great, but\nit's also nice to see people from the City\nand Agnus joining hands."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Glad to see you're getting on."
+      "<DBAF43F0>": "It seems you're getting along well."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I admit the Agnians have been\nrather wary of my presence, but\nI can hardly blame them for that."
+      "<DBAF43F0>": "No, as expected, the people from Agnus\nare still wary of me, but[ML:line ]..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The City folk can be a boorish bunch,\nbut they've been far more accommodating\non the whole. I was pleasantly surprised!"
+      "<DBAF43F0>": "...the people from the City, though a bit rough,\nhave been very friendly."
     }
   ]
 }

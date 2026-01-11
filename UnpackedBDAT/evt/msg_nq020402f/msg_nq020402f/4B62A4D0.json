@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now that Colony Gamma has been\nliberated from its Flame Clock, you\nno longer need to fight for its sake."
+      "<DBAF43F0>": "Gamma has been freed from the Flame Clock.\nSo, there is no longer a need to fight for it."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But I think the work us Senders do\nwill remain unchanged, no matter what."
+      "<DBAF43F0>": "But I believe that what we Senders do\nwill never change."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Mm..."
+      "<DBAF43F0>": "..."
     }
   ]
 }

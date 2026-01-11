@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Probably shouldn't be climbing up this one, huh..."
+      "<DBAF43F0>": "There's no way we can climb this..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "But, this is the route Ethel told us to take, no question."
+      "<DBAF43F0>": "But, the route Ethel mentioned\nis definitely this one."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Well, I guess that means..."
+      "<DBAF43F0>": "[ML:line len=1 ]Which means..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "We'll just, uh...have to keep going then."
+      "<DBAF43F0>": "We have to keep going, right?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "\\[Hey, Rudi? Where are you?\\]"
+      "<DBAF43F0>": "Hey Rudi, where are you now?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Huh? Outside the colony."
+      "<DBAF43F0>": "Hm? Outside the colony."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "\\[Well yeah, I know that!\\]"
+      "<DBAF43F0>": "I know that much."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "\\[It's bad. The Consul's searching for you.\\]"
+      "<DBAF43F0>": "This is bad, the Consul is looking for you."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Gotcha."
+      "<DBAF43F0>": "Understood."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Just make up something."
+      "<DBAF43F0>": "Just say something to cover for me."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "\\[Sorry? \"Make up\"?!\\]"
+      "<DBAF43F0>": "Hey, what do you mean, \"say something\"..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Let's look for a place we can climb from.\nI'll take a look around here."
+      "<DBAF43F0>": "Let's look for a place we can climb.\nI'll check over here."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "OK, I'll check out over here..."
+      "<DBAF43F0>": "Then I'll check over here..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh, crap."
+      "<DBAF43F0>": "[ML:line len=1 ]Seriously?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Guys, get back!"
+      "<DBAF43F0>": "Everyone, get back."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ouroboros! Fight me!"
+      "<DBAF43F0>": "Ouroboros, prepare yourselves!"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "That was close call!\nAlmost flattened like buttery pancake!"
+      "<DBAF43F0>": "That was dangerous, desu mo.\nI was almost squashed flat, desu mo."
     },
     {
       "$id": 18,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Apology grudgingly accepted."
+      "<DBAF43F0>": "As long as you understand, desu mo."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hey... Are you Ouroboros too?"
+      "<DBAF43F0>": "Hey, are you Ouroboros too?"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Factually untrue.\nManana is just Manana."
+      "<DBAF43F0>": "No, desu mo.\nManana is Manana, desu mo."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ahh, that's a relief!\nI really didn't want to have to fight a Nopon."
+      "<DBAF43F0>": "Thank goodness...\nI didn't want to fight a Nopon..."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh... Rudi, by the way."
+      "<DBAF43F0>": "Ah, I'm Rudi."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "If I may?"
+      "<DBAF43F0>": "Nice to meet you."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Mmeh? Is pleasu-"
+      "<DBAF43F0>": "My my? Nice to meet..."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "What are you guys doing?!"
+      "<DBAF43F0>": "[ML:line len=1 ]Is this the time for that?"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](surprise)"
+      "<DBAF43F0>": "[ML:undisp ]Whoa!"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](fierce attack exert)"
+      "<DBAF43F0>": "[ML:undisp ]Oraaaaah!"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Woohoohoo! That was awesome!"
+      "<DBAF43F0>": "Whoa, amazing."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "We're the ones you've got beef with.\nCome on, bring it!"
+      "<DBAF43F0>": "Your business is with us, right?\nCome and get it."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hehe... You can't beat me."
+      "<DBAF43F0>": "Hehe, I won't lose."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Here I come!"
+      "<DBAF43F0>": "Here I go!"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You were helping out Kotora, right?"
+      "<DBAF43F0>": "You helped Kotora, didn't you?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's one way to put it...\nShe kinda dragged us into it, mate."
+      "<DBAF43F0>": "It wasn't really helping[ML:line ]...\nwe were just dragged along."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If by \"us\", you mean \"Mio\"."
+      "<DBAF43F0>": "...You mean me."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, however it shook out, thanks.\nAuto-Levs are absolutely vital for defense."
+      "<DBAF43F0>": "I'm grateful.\nThe autonomous Levnis is the cornerstone of our defense."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are spots that we don't have the\nwherewithal to defend, but with Auto-Levs,\nwe've got all our bases covered."
+      "<DBAF43F0>": "There are some places we can't defend on our own,\nbut with that, we can manage."
     }
   ]
 }

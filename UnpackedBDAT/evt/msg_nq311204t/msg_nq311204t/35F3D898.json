@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gin, could we persuade you\nto wield that hammer for us?\nWe kinda need a favor..."
+      "<DBAF43F0>": "Gin,\nthere is something we would like you to do\nwith that hammer you have……"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You have need of anvil of Gin?"
+      "<DBAF43F0>": "……!\nIs Gin's anvil calling mo?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gin happy to drop\neverything and help!"
+      "<DBAF43F0>": "Gin will go meet it before the sky falls mo~!"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you so much!"
+      "<DBAF43F0>": "You'll help us then?\nThank you……!"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll send you the coordinates of the place\nwe need you to go. We'll meet you there\nlater, OK?"
+      "<DBAF43F0>": "I will send a map to Gin's terminal,\nso I would like you to go ahead and wait there."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you OK to go alone?"
+      "<DBAF43F0>": "……Can you go alone?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Gin make all Sauros\nskip with power of noise!"
+      "<DBAF43F0>": "Gin will make the Sauros skip\nwith the sound he creates mo."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "OK, so, I'm gonna go ahead and\nassume that means you'll be fine?"
+      "<DBAF43F0>": "That means…… you'll be fine, right?"
     }
   ]
 }

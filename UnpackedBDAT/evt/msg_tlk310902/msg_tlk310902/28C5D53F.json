@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Commander Isurugi's been starting\nto spend a fair bit of time away from\nColony Lambda lately."
+      "<DBAF43F0>": "It seems Commander Isurugi will often\nbe away from Lambda."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Worried the colony won't hold up?"
+      "<DBAF43F0>": "Are you worried?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nah, nothing like that. It's our job to\nsupport the commander here, after all."
+      "<DBAF43F0>": "Of course not...\nIt is our job to support the commander."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's a wonder he's able to carry\nout his own duties on top of all\nthe courtesy calls..."
+      "<DBAF43F0>": "But is the commander trying to look around outside\nwhile also handling his own duties[ML:line ]...?"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We've got to try and be more considerate.\nDon't wanna wear him out any more than\nhe already is..."
+      "<DBAF43F0>": "We must be considerate so as not\nto burden him..."
     }
   ]
 }

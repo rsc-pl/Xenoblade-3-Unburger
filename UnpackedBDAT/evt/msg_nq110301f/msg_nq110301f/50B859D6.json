@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're gonna get a doctor.\nJust hang on a little longer!"
+      "<DBAF43F0>": "I'll go get the doctor!\nJust hang on a little longer!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hnghhhh..."
+      "<DBAF43F0>": "Ugh..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How're the bumps and bruises?"
+      "<DBAF43F0>": "How are your injuries?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Better, mostly. Thanks for saving me."
+      "<DBAF43F0>": "Ah... I've calmed down a lot.\nThank you so much."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What happened out there?\nYou mentioned a unit."
+      "<DBAF43F0>": "What on earth happened?\nYou said something about a \"unit\"..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "O-oh, well..."
+      "<DBAF43F0>": "Th-That is..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's fine. You can talk to them."
+      "<DBAF43F0>": "It's all right.\nThere's no problem with them."
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks for watching out for him.\nHah, seems like all I'm doing lately is\ngetting bailed out by you lot..."
+      "<DBAF43F0>": "My subordinate is in your debt.\nIt seems we are always being helped by you."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We just happened to be\nin the area. Pretty lucky."
+      "<DBAF43F0>": "I just happened to pass by and find him.\nIt was just good luck."
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Take it easy, OK?\nI'll do the talking."
+      "<DBAF43F0>": "Don't push yourself.\nFirst, let me explain."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Fighting with Agnus has kind of\nlost its meaning since Colony 4's\nFlame Clock was broken."
+      "<DBAF43F0>": "By being freed from the Flame Clock, Colony 4\nlost its reason to fight Agnus."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So we sent secret messengers out all\nover, to tell other colonies the truth."
+      "<DBAF43F0>": "So we sent secret envoys to various places\nto inform the other colonies of this fact."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So he's one of those messengers?"
+      "<DBAF43F0>": "Secret envoys...\nSo he's..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Right. Part of a covert team\ndispatched by the tactician squad."
+      "<DBAF43F0>": "That's right.\nHe's one of the covert unit dispatched by the tactics squad."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If everything went well, I was hoping\nwe could establish a cooperative\nnetwork between colonies..."
+      "<DBAF43F0>": "If things went well, we had intended to establish\na cooperative system between the colonies, but..."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I'm sorry, Captain."
+      "<DBAF43F0>": "...I apologize, Captain."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The unit...is gone."
+      "<DBAF43F0>": "The unit... was annihilated."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...What?!"
+      "<DBAF43F0>": "...What did you say!?"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But what happened? Was it monsters?"
+      "<DBAF43F0>": "What happened?\nWere you attacked by monsters?"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, not monsters.\nA Levnis attacked us."
+      "<DBAF43F0>": "No, it wasn't monsters.\nWe were attacked by a Levnis."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "From Agnus?"
+      "<DBAF43F0>": "An Agnian Levnis?"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I...I don't know."
+      "<DBAF43F0>": "...I-I don't know."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How can you not know?"
+      "<DBAF43F0>": "What do you mean...\nyou don't know?"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It just showed up out of nowhere.\nBefore we knew it, our escort was..."
+      "<DBAF43F0>": "It appeared out of nowhere\nand in an instant, the escort unit..."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd never seen a\nLevnis like that before..."
+      "<DBAF43F0>": "A-A Levnis with a frame like that...\nI've never seen one before..."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It was...monstrous...!"
+      "<DBAF43F0>": "That thing... was a monster...!"
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What do you think of all this?"
+      "<DBAF43F0>": "...What do you make of this attack?"
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As soon as they hit the unit, it should've been\nclear to them we didn't have Flame Clocks,\nso there wasn't anything for them to gain..."
+      "<DBAF43F0>": "If they inflicted even a little damage on the unit,\nthey should have realized we don't have a Flame Clock\nand can't have our life flame taken..."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And despite that, they...annihilated them."
+      "<DBAF43F0>": "And yet,\nthe enemy... annihilated the unit."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It doesn't make sense. But if they\ndid it knowing full well what our\ngoal was..."
+      "<DBAF43F0>": "It is strange,\nbut if we consider that they acted\nknowing our objective, then perhaps..."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're saying the enemy's intention was\nto stop the information from getting\nout? To isolate Colony 4?"
+      "<DBAF43F0>": "The enemy's aim was to prevent the transmission of information\nand to isolate Colony 4?"
     },
     {
       "$id": 34,
@@ -368,7 +368,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A Levnis that appeared out of nowhere,\nlike nothing anyone's ever seen..."
+      "<DBAF43F0>": "A Levnis that appeared out of nowhere...\nA frame never seen before..."
     },
     {
       "$id": 35,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, it can't be."
+      "<DBAF43F0>": "...! Could it be..."
     },
     {
       "$id": 36,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's up, Noah?"
+      "<DBAF43F0>": "Huh? What's up all of a sudden, Noah?"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maxie, do you know where\nthe attack took place?"
+      "<DBAF43F0>": "Hey, Maxie,\ndo you know where the attack took place?"
     },
     {
       "$id": 38,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well?"
+      "<DBAF43F0>": "How about it?"
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We met them at Murmur Rise.\nThey must have been lying in wait..."
+      "<DBAF43F0>": "We encountered them\nat Murmur Rise.\nThey were probably waiting in ambush there..."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There you have it. But you aren't\nactually going there, are you?"
+      "<DBAF43F0>": "...So he says.\nDon't tell me you're planning to go?"
     },
     {
       "$id": 41,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm afraid we probably are... I have a hunch\nas to who the assailants might be."
+      "<DBAF43F0>": "Yeah, it's just a hunch, but...\nwe might know\nwho those attackers are."
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Are you serious?"
+      "<DBAF43F0>": "...! Are you certain?"
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm not sure yet. That's why\nI want to do some digging."
+      "<DBAF43F0>": "I don't know yet.\nThat's why I want to investigate it directly."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "…………"
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But this is a Colony 4 matter,\nso you have the final say."
+      "<DBAF43F0>": "But this is Colony 4's problem.\nI'll leave it to you to decide what to do, Maxie."
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I'd be grateful if you would, actually.\nBut I do have a condition."
+      "<DBAF43F0>": "...No, rather, it's a welcome offer.\nBut I have a condition."
     },
     {
       "$id": 47,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I get to go with you."
+      "<DBAF43F0>": "I want you to let me accompany you."
     },
     {
       "$id": 48,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No skin off our collective nose.\nBut is it a good idea for the captain\nto leave his post?"
+      "<DBAF43F0>": "Huh? I don't mind, but...\nis it okay for the captain to leave his post?"
     },
     {
       "$id": 49,
@@ -518,7 +518,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. But I'm going anyway."
+      "<DBAF43F0>": "It's not okay.\nBut I'm going with that knowledge."
     },
     {
       "$id": 50,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...OK. Then we should set off soon."
+      "<DBAF43F0>": "...Understood.\nIn that case, let's head out immediately."
     },
     {
       "$id": 51,
@@ -548,7 +548,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll take care of this.\nYour job is to rest."
+      "<DBAF43F0>": "Leave the rest to us.\nRest for now."
     },
     {
       "$id": 53,
@@ -558,7 +558,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Understood.\nLuck be with you."
+      "<DBAF43F0>": "...Yes.\nPlease... good luck..."
     }
   ]
 }

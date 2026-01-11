@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "You hand over the ingredients."
+      "<DBAF43F0>": "You handed over all the necessary ingredients."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you! I should have enough\ntime to get everything ready now."
+      "<DBAF43F0>": "Thank you!\nThanks to you, it looks like we'll make it in time."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Would you mind getting the message\nthrough to Travis for me? I've still got\na bit more prep work to take care of."
+      "<DBAF43F0>": "Could you let Travis-san know as well?\nI still have things to do here."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No worries! Do what you\ngotta do, Homecomer!"
+      "<DBAF43F0>": "Understood.\nGood luck, new adult."
     }
   ]
 }

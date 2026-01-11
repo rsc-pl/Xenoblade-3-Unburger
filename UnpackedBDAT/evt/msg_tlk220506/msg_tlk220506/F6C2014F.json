@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not long after we heard about the assault\non Origin, the signal from every last grot-\nblasted Levnis in the fourth team went down."
+      "<DBAF43F0>": "After the call to charge into Origin,\nthe signals from the 4th Unit's Levnises\nall disappeared at once..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Has the place got some kind of\nsignal-jamming device or something?\nTell me that's it... Please let it be that..."
+      "<DBAF43F0>": "Is that an area with communication interference?\nHey, tell me that's what it is..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "..."
+      "<DBAF43F0>": "............"
     }
   ]
 }

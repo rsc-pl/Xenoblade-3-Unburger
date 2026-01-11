@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Please let me know when you'll\ncome to the house with Gray."
+      "<DBAF43F0>": "When you come to the house with Gray,\nplease let me know."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll need to prepare some food\nand get the place straightened\nup, stuff like that."
+      "<DBAF43F0>": "I have to prepare meals,\nclean up, and do\nvarious other things."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I understand, of course, but-"
+      "<DBAF43F0>": "I understand.\nBut..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't get much chance to have guests\naround with a husband like him!"
+      "<DBAF43F0>": "Knowing him,\nI doubt there will be many such opportunities."
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're back! Did you find anything?"
+      "<DBAF43F0>": "I have been waiting for you.\nHow did it go?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Need a reminder of the locations? Gladly!\nFirst, it was the Distant Fingertip and\nDannagh Desert in the Fornis region."
+      "<DBAF43F0>": "The locations are in the Fornis Region,\n\"Distant Fingertip\"\nand \"Dannagh Desert.\""
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then, in Pentelas, it was the Ruins of Seebu\nand the Old Cliffside Way..."
+      "<DBAF43F0>": "Then, in the Pentelas Region,\n\"Ruins of Seebu\" and \"Old Cliffside Way.\""
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And finally, in Cadensia, some place\ncalled the Eternal Canopy... And that's it!"
+      "<DBAF43F0>": "And finally, in the Cadensia Region,\na place called \"Eternal Canopy\"…… That is all."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I look forward to hearing your findings,\ndear youngsters!"
+      "<DBAF43F0>": "I have high hopes for you, young ones."
     }
   ]
 }
