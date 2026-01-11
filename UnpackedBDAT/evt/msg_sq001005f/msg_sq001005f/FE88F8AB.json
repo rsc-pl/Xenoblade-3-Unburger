@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We have defeated the Feris that had gone berserk."
+      "<DBAF43F0>": "We have defeated the Feris\nthat had gone berserk."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh?\nAnd where is your proof of this kill?"
+      "<DBAF43F0>": "Oh? And where is your\nproof of this kill?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you need proof,\nwe have the Feris's twin horns..."
+      "<DBAF43F0>": "If you need proof, we have\nthe Feris's twin horns..."
     },
     {
       "$id": 4,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It can't be helped.\nLet's go back and get something\nthat could serve as proof."
+      "<DBAF43F0>": "It can't be helped. Let's go back and get\nsomething that could serve as proof."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Damn it.\nWe have to go back again...?"
+      "<DBAF43F0>": "Damn it. We have to\ngo back again...?"
     }
   ]
 }

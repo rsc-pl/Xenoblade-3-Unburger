@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That is because the Iron Giant's power is down, mo.\nIf you restart it, the container will surely open, mo."
+      "<DBAF43F0>": "That is because the Iron Giant's power\nis down, mo. If you restart it, the\ncontainer will surely open, mo."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For this model of Iron Giant,\nthe power unit should be over there, mo."
+      "<DBAF43F0>": "For this model of Iron Giant, the\npower unit should be over there, mo."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Alright, let's go check the power unit."
+      "<DBAF43F0>": "Alright, let's go\ncheck the power unit."
     }
   ]
 }

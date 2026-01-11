@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm... I don't see anything that looks like it."
+      "<DBAF43F0>": "Hmm... I don't see anything\nthat looks like it."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, well...\nthis is going to be a hassle."
+      "<DBAF43F0>": "Well, well... this is\ngoing to be a hassle."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's wrong? Are you looking for something?"
+      "<DBAF43F0>": "What's wrong? Are you\nlooking for something?"
     },
     {
       "$id": 5,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Ah! I think I saw it.\nA strange hammer with a Nopon-like design."
+      "<DBAF43F0>": "...Ah! I think I saw it. A strange\nhammer with a Nopon-like design."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, that's probably it!\nWhere is it?"
+      "<DBAF43F0>": "Oh, that's probably\nit! Where is it?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's see... I think it was sent\nto the supply depot."
+      "<DBAF43F0>": "Let's see... I think it was\nsent to the supply depot."
     },
     {
       "$id": 10,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It'll be even more troublesome if someone\nalready bought it..."
+      "<DBAF43F0>": "It'll be even more troublesome\nif someone already bought it..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I know. Let's hurry to the supply depot."
+      "<DBAF43F0>": "I know. Let's hurry\nto the supply depot."
     }
   ]
 }

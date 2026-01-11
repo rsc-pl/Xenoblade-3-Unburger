@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Have you been living here for a long time?"
+      "<DBAF43F0>": "Have you been living\nhere for a long time?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not as long as the time I've spent\nfighting as a soldier."
+      "<DBAF43F0>": "Not as long as the time I've\nspent fighting as a soldier."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I hear you're planning an escape.\nTo be able to go back to fighting,\nthat's amazing."
+      "<DBAF43F0>": "I hear you're planning an\nescape. To be able to go back\nto fighting, that's amazing."
     },
     {
       "$id": 4,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah... I'm sorry.\nI was so happy to have someone to talk to\nthat I held you up."
+      "<DBAF43F0>": "Ah... I'm sorry. I was so happy to have\nsomeone to talk to that I held you up."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're still in the middle of gathering, right?\nHere, take this."
+      "<DBAF43F0>": "You're still in the middle of\ngathering, right? Here, take this."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good luck with the rest of your work."
+      "<DBAF43F0>": "Good luck with the\nrest of your work."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I volunteered to be a soldier\nfor the sake of everyone in the City, but..."
+      "<DBAF43F0>": "I volunteered to be a soldier for the\nsake of everyone in the City, but..."
     },
     {
       "$id": 11,

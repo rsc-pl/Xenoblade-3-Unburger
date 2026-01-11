@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Alright, I'll leave the rest to you."
+      "<DBAF43F0>": "Alright, I'll leave\nthe rest to you."
     },
     {
       "$id": 2,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, just wait a moment.\nI'll finish it up right away."
+      "<DBAF43F0>": "Yeah, just wait a moment. I'll\nfinish it up right away."
     }
   ]
 }

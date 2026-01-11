@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd love to welcome you,\nbut we're terribly busy at the moment, I'm sorry."
+      "<DBAF43F0>": "I'd love to welcome you, but we're\nterribly busy at the moment, I'm sorry."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good grief... Forget personnel, if we're this\nshort on medical supplies, the number of\npatients will only keep increasing."
+      "<DBAF43F0>": "Good grief... Forget personnel, if we're\nthis short on medical supplies, the number\nof patients will only keep increasing."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We haven't been in such a difficult situation\nsince we were demoted to Dirt rank."
+      "<DBAF43F0>": "We haven't been in such a\ndifficult situation since we\nwere demoted to Dirt rank."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So they're short on medical supplies."
+      "<DBAF43F0>": "So they're short on\nmedical supplies."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems so.\nThis is a problem that needs to be addressed immediately..."
+      "<DBAF43F0>": "It seems so. This is a problem that\nneeds to be addressed immediately..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Olesha.\nThank you for telling us."
+      "<DBAF43F0>": "Olesha. Thank you for telling us."
     }
   ]
 }

@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This looks like it's going to be tough..."
+      "<DBAF43F0>": "This looks like it's\ngoing to be tough..."
     },
     {
       "$id": 3,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "New data just came in from Samon-san..."
+      "<DBAF43F0>": "New data just came in\nfrom Samon-san..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The final piece of Origin metal is..."
+      "<DBAF43F0>": "The final piece of\nOrigin metal is..."
     }
   ]
 }

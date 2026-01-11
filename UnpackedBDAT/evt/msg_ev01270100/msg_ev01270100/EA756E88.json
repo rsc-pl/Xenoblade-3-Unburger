@@ -18,19 +18,19 @@
       "$id": 1,
       "<8C7DD24D>": "<501F6C89>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's the enemy..."
+      "<DBAF43F0>": "The enemy..."
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<1C84D4A6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The enemy's approaching."
+      "<DBAF43F0>": "The enemy is coming."
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<8B28628E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Our sworn enemy..."
+      "<DBAF43F0>": "Our enemy is here..."
     }
   ]
 }

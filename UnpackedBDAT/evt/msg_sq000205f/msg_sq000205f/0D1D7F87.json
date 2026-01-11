@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now we should be able to recover the contents of the containers."
+      "<DBAF43F0>": "Now we should be able to recover\nthe contents of the containers."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We might be able to recover\nmore supplies than we expected."
+      "<DBAF43F0>": "We might be able to recover more\nsupplies than we expected."
     },
     {
       "$id": 4,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems that restoring power to the Iron Giant\nalso got the simple fabricator working."
+      "<DBAF43F0>": "It seems that restoring power\nto the Iron Giant also got the\nsimple fabricator working."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Along with recovering the supplies from the containers,\nlet's check out the fabricator too."
+      "<DBAF43F0>": "Along with recovering the supplies\nfrom the containers, let's check\nout the fabricator too."
     }
   ]
 }

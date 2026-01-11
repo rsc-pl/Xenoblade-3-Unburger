@@ -36,13 +36,13 @@
       "$id": 4,
       "<8C7DD24D>": "<8F6492A5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What...? This hand..."
+      "<DBAF43F0>": "What is... this hand...?"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<9428C5FC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Is it...mine?"
+      "<DBAF43F0>": "Is it... mine?"
     },
     {
       "$id": 6,
@@ -60,19 +60,19 @@
       "$id": 8,
       "<8C7DD24D>": "<FAE8403D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Inside...?"
+      "<DBAF43F0>": "Inside...?"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<5F3BBFCE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hold on... Are we...?!"
+      "<DBAF43F0>": "Wait... Does this mean we're...?!"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<F21D85C1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "A sharp deduction."
+      "<DBAF43F0>": "A sharp deduction indeed."
     },
     {
       "$id": 11,
@@ -90,7 +90,7 @@
       "$id": 13,
       "<8C7DD24D>": "<853DC3D3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So you went and Interlinked after all."
+      "<DBAF43F0>": "Hmph. So you went and Interlinked after all."
     },
     {
       "$id": 14,
@@ -108,13 +108,13 @@
       "$id": 16,
       "<8C7DD24D>": "<C68C67C8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Well, whatever."
+      "<DBAF43F0>": "Well, doesn't matter."
     },
     {
       "$id": 17,
       "<8C7DD24D>": "<FE52737E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That form \"you\" are in now..."
+      "<DBAF43F0>": "That form \"you\" are in..."
     },
     {
       "$id": 18,
@@ -126,7 +126,7 @@
       "$id": 19,
       "<8C7DD24D>": "<AC28F0BA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Burn that into your minds."
+      "<DBAF43F0>": "Burn it into your minds."
     },
     {
       "$id": 20,
@@ -138,7 +138,7 @@
       "$id": 21,
       "<8C7DD24D>": "<934524BF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "And while we're at it..."
+      "<DBAF43F0>": "And while we're on the subject..."
     },
     {
       "$id": 22,
@@ -150,7 +150,7 @@
       "$id": 23,
       "<8C7DD24D>": "<81D4D9C7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We're similar, aren't we?"
+      "<DBAF43F0>": "We're quite similar, aren't we?"
     },
     {
       "$id": 24,
@@ -162,7 +162,7 @@
       "$id": 25,
       "<8C7DD24D>": "<F21E052A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...can you finally be on the same level as me. That's the gist of it."
+      "<DBAF43F0>": "...can you finally stand on the same level as I.\nThat is the long and short of it."
     },
     {
       "$id": 26,
@@ -174,13 +174,13 @@
       "$id": 27,
       "<8C7DD24D>": "<A7CCF585>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "one being...?"
+      "<DBAF43F0>": "...one?"
     },
     {
       "$id": 28,
       "<8C7DD24D>": "<FCEF4206>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Well, to put it bluntly, you're a failure."
+      "<DBAF43F0>": "Well, to put it another way... you're a failure."
     },
     {
       "$id": 29,
@@ -198,7 +198,7 @@
       "$id": 31,
       "<8C7DD24D>": "<09988F4A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Understand now?"
+      "<DBAF43F0>": "Do you understand now?"
     },
     {
       "$id": 32,
@@ -210,7 +210,7 @@
       "$id": 33,
       "<8C7DD24D>": "<EA1CDB87>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...let's reset and begin!"
+      "<DBAF43F0>": "...let's start over, shall we?"
     }
   ]
 }

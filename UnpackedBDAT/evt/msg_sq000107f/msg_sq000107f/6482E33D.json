@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We gathered everything you asked for."
+      "<DBAF43F0>": "We gathered everything\nyou asked for."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I just confirmed it.\nThank you so much."
+      "<DBAF43F0>": "Yeah, I just confirmed\nit. Thank you so much."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thanks to you, Noah, it looks like we'll be able\nto prepare everything that was needed."
+      "<DBAF43F0>": "Thanks to you, Noah, it looks\nlike we'll be able to prepare\neverything that was needed."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see.\nI'm glad we could help."
+      "<DBAF43F0>": "I see. I'm glad we could help."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll be sure to repay you after the operation's over.\nSo, let's see each other again, alive."
+      "<DBAF43F0>": "I'll be sure to repay you after\nthe operation's over. So, let's\nsee each other again, alive."
     },
     {
       "$id": 6,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They're really useful for letting your comrades\nknow what supplies you need."
+      "<DBAF43F0>": "They're really useful for letting your\ncomrades know what supplies you need."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For example, I'm collecting\nFourtune Clovers, right?\nBut they're super hard to find."
+      "<DBAF43F0>": "For example, I'm collecting\nFourtune Clovers, right? But\nthey're super hard to find."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But if I register a request for them,\nsomeone who has one might give it to me...\nThat's the idea, anyway!"
+      "<DBAF43F0>": "But if I register a request for them,\nsomeone who has one might give it to\nme... That's the idea, anyway!"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You'd use it to find some common grass?\nWhat a stupid way to use it."
+      "<DBAF43F0>": "You'd use it to find some common\ngrass? What a stupid way to use it."
     },
     {
       "$id": 12,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It feels good to know that someone you've met\nremembers you and is looking out for you."
+      "<DBAF43F0>": "It feels good to know that\nsomeone you've met remembers\nyou and is looking out for you."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah.\nI don't know who made it,\nbut I think it's a good system."
+      "<DBAF43F0>": "Yeah. I don't know who made it,\nbut I think it's a good system."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Speaking of which, you sometimes use your 'Iris'\nto check up on your friends from Colony 9, don't you?"
+      "<DBAF43F0>": "Speaking of which, you sometimes use\nyour 'Iris' to check up on your\nfriends from Colony 9, don't you?"
     },
     {
       "$id": 17,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We should probably head to the assembly point soon, mo."
+      "<DBAF43F0>": "We should probably head to\nthe assembly point soon, mo."
     },
     {
       "$id": 21,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's head out as soon as we're ready."
+      "<DBAF43F0>": "Let's head out as\nsoon as we're ready."
     }
   ]
 }
