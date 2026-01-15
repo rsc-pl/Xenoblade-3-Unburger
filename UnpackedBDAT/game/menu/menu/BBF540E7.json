@@ -1524,7 +1524,7 @@
       "$id": 252,
       "<8C7DD24D>": "<597D30AE>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Collectibles are items you can pick up on the field. They\nare needed for completing quests and Collectopaedia\nCard requests."
+      "<DBAF43F0>": "Collectibles are items you can pick up on the field. They\nare needed for completing quests and Collepedia\nCard requests."
     },
     {
       "$id": 253,
@@ -1644,13 +1644,13 @@
       "$id": 272,
       "<8C7DD24D>": "<7AE6796D>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Collectopaedia Cards"
+      "<DBAF43F0>": "Collepedia Cards"
     },
     {
       "$id": 273,
       "<8C7DD24D>": "<72FADCE8>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "From Quests in the main menu, go to the Collectopaedia\nCard tab to check what someone needs. Helping them\nout will deepen your affinity, and give you rewards."
+      "<DBAF43F0>": "From Quests in the main menu, go to the Collepedia\nCard tab to check what someone needs. Helping them\nout will deepen your affinity, and give you rewards."
     },
     {
       "$id": 274,
@@ -1662,7 +1662,7 @@
       "$id": 275,
       "<8C7DD24D>": "<EC844AFD>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "After gathering the required collectibles, go to\nQuests > Collectopaedia Cards in the main menu\nand hold [ML:icon icon=btn_a ] to register them and complete the quest."
+      "<DBAF43F0>": "After gathering the required collectibles, go to\nQuests > Collepedia Cards in the main menu\nand hold [ML:icon icon=btn_a ] to register them and complete the quest."
     },
     {
       "$id": 276,
@@ -1698,7 +1698,7 @@
       "$id": 281,
       "<8C7DD24D>": "<1F555417>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Solving colony folks' problems will deepen your affinity\nwith them. This can be done by completing quests, filling\nCollectopaedia Card requests, etc."
+      "<DBAF43F0>": "Solving colony folks' problems will deepen your affinity\nwith them. This can be done by completing quests, filling\nCollepedia Card requests, etc."
     },
     {
       "$id": 282,
@@ -1758,7 +1758,7 @@
       "$id": 291,
       "<8C7DD24D>": "<FD8EBE71>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Nopon Coins can be traded for items at Nopon Coin\nX-changes. They can also be used for Collectopaedia\nrequests, cooking, gem crafting, and leveling up classes."
+      "<DBAF43F0>": "Nopon Coins can be traded for items at Nopon Coin\nX-changes. They can also be used for Collepedia\nrequests, cooking, gem crafting, and leveling up classes."
     },
     {
       "$id": 292,
@@ -4038,7 +4038,7 @@
       "$id": 671,
       "<8C7DD24D>": "<00790BA6>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Collectibles are items you pick up as you explore. You need\nthem for filling the Collectopaedia, finishing quests, cooking,\nconstruction, gemcrafting and upgrading your X-Reader."
+      "<DBAF43F0>": "Collectibles are items you pick up as you explore. You need\nthem for filling the Collepedia, finishing quests, cooking,\nconstruction, gemcrafting and upgrading your X-Reader."
     },
     {
       "$id": 672,
@@ -4152,13 +4152,13 @@
       "$id": 690,
       "<8C7DD24D>": "<C38FF34E>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Collectopaedia"
+      "<DBAF43F0>": "Collepedia"
     },
     {
       "$id": 691,
       "<8C7DD24D>": "<D4A5FAF8>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Earn Bonding Points by gathering collectibles in each area\nof the world and registering them in the Collectopaedia."
+      "<DBAF43F0>": "Earn Bonding Points by gathering collectibles in each area\nof the world and registering them in the Collepedia."
     },
     {
       "$id": 692,
@@ -4926,13 +4926,13 @@
       "$id": 819,
       "<8C7DD24D>": "<6AE70450>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Collectopaedia 2"
+      "<DBAF43F0>": "Collepedia 2"
     },
     {
       "$id": 820,
       "<8C7DD24D>": "<CD7636C6>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "When you have Collectopaedia entries you can complete,\nan icon will appear in the screen's top right. Remember to\nfill up your Collectopaedia as you go to gain Bonding Points!"
+      "<DBAF43F0>": "When you have Collepedia entries you can complete,\nan icon will appear in the screen's top right. Remember to\nfill up your Collepedia as you go to gain Bonding Points!"
     },
     {
       "$id": 821,
@@ -5598,7 +5598,7 @@
       "$id": 931,
       "<8C7DD24D>": "<8545A83C>",
       "<554EE944>": 44,
-      "<DBAF43F0>": "Select\n\"Collectopaedia Cards\""
+      "<DBAF43F0>": "Select\n\"Collepedia Cards\""
     },
     {
       "$id": 932,
@@ -5694,7 +5694,7 @@
       "$id": 947,
       "<8C7DD24D>": "<FADFE394>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "To check on Roald's request, you must access his\nCollectopaedia Card inside the Quests menu."
+      "<DBAF43F0>": "To check on Roald's request, you must access his\nCollepedia Card inside the Quests menu."
     },
     {
       "$id": 948,
@@ -5706,7 +5706,7 @@
       "$id": 949,
       "<8C7DD24D>": "<DD6F4C78>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "In Quests, you can check different types of quests.\nNavigate over to the Collectopaedia Cards tab."
+      "<DBAF43F0>": "In Quests, you can check different types of quests.\nNavigate over to the Collepedia Cards tab."
     },
     {
       "$id": 950,
@@ -5724,13 +5724,13 @@
       "$id": 952,
       "<8C7DD24D>": "<F0967F83>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "[ML:icon icon=pad_up_down ]: Check Roald's Collectopaedia Card."
+      "<DBAF43F0>": "[ML:icon icon=pad_up_down ]: Check Roald's Collepedia Card."
     },
     {
       "$id": 953,
       "<8C7DD24D>": "<DC5BCE10>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "The Collectopaedia Cards are also used for\nregistering collectibles. First, select \"Quests\"."
+      "<DBAF43F0>": "The Collepedia Cards are also used for\nregistering collectibles. First, select \"Quests\"."
     },
     {
       "$id": 954,
@@ -5742,7 +5742,7 @@
       "$id": 955,
       "<8C7DD24D>": "<44033FE0>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Exit the menu once you have finished checking\nRoald's Collectopaedia Card."
+      "<DBAF43F0>": "Exit the menu once you have finished checking\nRoald's Collepedia Card."
     },
     {
       "$id": 956,
@@ -5754,7 +5754,7 @@
       "$id": 957,
       "<8C7DD24D>": "<BCF439EC>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Exit the menu now that you have finished registering\nthe collectibles on Roald's Collectopaedia Card."
+      "<DBAF43F0>": "Exit the menu now that you have finished registering\nthe collectibles on Roald's Collepedia Card."
     },
     {
       "$id": 958,

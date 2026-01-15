@@ -66,13 +66,13 @@
       "$id": 9,
       "<8C7DD24D>": "<D517453E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...there should be a cave ahead if we circle\nthe island, keeping it on our right."
+      "<DBAF43F0>": "...there should be a cave ahead if we\ncircle the island with it on our right."
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<BE42F117>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The one that leads to the ventilation shaft for the prison?"
+      "<DBAF43F0>": "The one that leads to the prison's ventilation shaft?"
     },
     {
       "$id": 11,
@@ -84,7 +84,7 @@
       "$id": 12,
       "<8C7DD24D>": "<CE268BE2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Let's hurry. We need to get inside before it gets light."
+      "<DBAF43F0>": "Let's hurry. We need to get inside before daylight."
     }
   ]
 }

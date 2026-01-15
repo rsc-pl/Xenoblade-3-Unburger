@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<051780F8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:line len=1]Alright, A."
+      "<DBAF43F0>": "Alright, A."
     },
     {
       "$id": 2,
@@ -72,7 +72,7 @@
       "$id": 10,
       "<8C7DD24D>": "<624E2F6B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Because it's something you need to hear from N himself."
+      "<DBAF43F0>": "Because it is something you need to hear from N himself."
     },
     {
       "$id": 11,
@@ -84,25 +84,25 @@
       "$id": 12,
       "<8C7DD24D>": "<BB99C6F1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "And then, you'll have to decide."
+      "<DBAF43F0>": "And then, you will have to decide."
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<2471F2A2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What you're going to do."
+      "<DBAF43F0>": "What you are going to do."
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<30C8F2D1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "And who you're going to save."
+      "<DBAF43F0>": "And who you are going to save."
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<8ED90BE9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 16,
@@ -114,19 +114,19 @@
       "$id": 17,
       "<8C7DD24D>": "<EE52F70A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 18,
       "<8C7DD24D>": "<6931937A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp [ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ](sigh)"
     },
     {
       "$id": 19,
       "<8C7DD24D>": "<204A27AD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Your name...[ML:line len=1]"
+      "<DBAF43F0>": "Your name..."
     },
     {
       "$id": 20,
@@ -144,13 +144,13 @@
       "$id": 22,
       "<8C7DD24D>": "<EDCF9551>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:line len=1]It means \"the one at the beginning.\""
+      "<DBAF43F0>": "It means \"the one at the beginning.\""
     },
     {
       "$id": 23,
       "<8C7DD24D>": "<519CD6E8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "In this world, it's a name only Alpha\nand I can claim.[ML:line len=1 ]"
+      "<DBAF43F0>": "In this world, it is a name only Alpha and I can claim."
     }
   ]
 }

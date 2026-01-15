@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Alright, everyone's here now."
+      "<DBAF43F0>": "Alright, that's everyone."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ethel contacted us a little while ago."
+      "<DBAF43F0>": "Ethel contacted me a\nlittle while ago."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "She said there's something she wants\nto discuss, so we should come\nto the strategy room."
+      "<DBAF43F0>": "She said there's something she\nwants to discuss, so we should\ncome to the strategy room."
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We should thank her for the tent, too."
+      "<DBAF43F0>": "We should thank her\nfor the tent, too."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Alright! Let's head over to Ethel's."
+      "<DBAF43F0>": "Alright! Let's head\nover to Ethel's."
     }
   ]
 }

@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "S-Sor— I'm sorry, Chief."
+      "<DBAF43F0>": "S-Sor[ML:line len=1] I'm sorry, Chief."
     },
     {
       "$id": 9,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Got it, Si— Chief."
+      "<DBAF43F0>": "Got it, Si[ML:line len=1] Chief."
     }
   ]
 }

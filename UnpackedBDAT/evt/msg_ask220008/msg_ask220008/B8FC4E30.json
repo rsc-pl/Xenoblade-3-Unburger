@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You mean like, Equites or Velites?"
+      "<DBAF43F0>": "You mean like the\nEquites or Velites?"
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'd say Thorax. Makes\ngetting around easy."
+      "<DBAF43F0>": "I'd say the Thorax. Makes\ngetting around easy."
     },
     {
       "$id": 9,
@@ -138,7 +138,7 @@
       "<2B51649C>": 41959553,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Gyrinus. Because\nit's state-of-the-art."
+      "<DBAF43F0>": "...The Gyrinus. Because\nit is state-of-the-art."
     },
     {
       "$id": 12,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course, for me it's—"
+      "<DBAF43F0>": "Of course, for me it's[ML:line len=1]"
     },
     {
       "$id": 17,
@@ -208,7 +208,7 @@
       "<2B51649C>": 536887425,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wha—!? Let me say it"
+      "<DBAF43F0>": "Wha[ML:line len=1]!? Let me say it!"
     }
   ]
 }

@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This plaza is like the heart of Colony 9."
+      "<DBAF43F0>": "This plaza is like the\nheart of Colony 9."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "From resupplying on provisions\nto getting your daily meals,\nyou can take care of just about anything here."
+      "<DBAF43F0>": "From resupplying on provisions to\ngetting your daily meals, you can\ntake care of just about anything here."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Would you like to look around for a bit?"
+      "<DBAF43F0>": "Would you like to look\naround for a bit?"
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're in no hurry.\nFeel free to do as you like."
+      "<DBAF43F0>": "We're in no particular hurry.\nFeel free to do as you like."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll be waiting for you\noutside the plaza.\nLet me know when you're ready."
+      "<DBAF43F0>": "I'll be waiting for you just outside the\nplaza. Let me know when you're done."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then, don't mind if I do.\nLet's go, everyone."
+      "<DBAF43F0>": "Well then, don't mind if I\ndo. Let's go, everyone."
     }
   ]
 }

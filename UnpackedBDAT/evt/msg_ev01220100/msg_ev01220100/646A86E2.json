@@ -990,7 +990,7 @@
       "$id": 163,
       "<8C7DD24D>": "<19CCE07F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Your real enemy is—"
+      "<DBAF43F0>": "Your real enemy is[ML:line len=1]"
     },
     {
       "$id": 164,
@@ -1014,7 +1014,7 @@
       "$id": 167,
       "<8C7DD24D>": "<60FF88D0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Mwamba?"
+      "<DBAF43F0>": "Mumba?"
     },
     {
       "$id": 168,
@@ -1068,7 +1068,7 @@
       "$id": 176,
       "<8C7DD24D>": "<AE2DA431>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Mwamba!"
+      "<DBAF43F0>": "Mumba!"
     },
     {
       "$id": 177,
@@ -1086,13 +1086,13 @@
       "$id": 179,
       "<8C7DD24D>": "<BCBD8850>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "There are no creatures like that around h—"
+      "<DBAF43F0>": "There are no creatures like that around h[ML:line len=1]"
     },
     {
       "$id": 180,
       "<8C7DD24D>": "<A49D079B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "—nie..."
+      "<DBAF43F0>": "[ML:line len=1]nie..."
     },
     {
       "$id": 181,
@@ -1212,7 +1212,7 @@
       "$id": 200,
       "<8C7DD24D>": "<718D2445>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Mwamba!"
+      "<DBAF43F0>": "Mumba!"
     },
     {
       "$id": 201,

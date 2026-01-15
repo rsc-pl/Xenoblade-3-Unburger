@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<6BB254D7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]*pant*... *pant*... *pant*..."
+      "<DBAF43F0>": "[ML:undisp ](panting)"
     },
     {
       "$id": 2,
@@ -42,7 +42,7 @@
       "$id": 5,
       "<8C7DD24D>": "<71C734CE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]*pant*... *pant*... *pant*..."
+      "<DBAF43F0>": "[ML:undisp ](panting)"
     },
     {
       "$id": 6,

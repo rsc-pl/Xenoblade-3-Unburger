@@ -48,7 +48,7 @@
       "$id": 6,
       "<8C7DD24D>": "<59378FA3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "All this time, you have repeated 'yourself'\nan unfathomable number of times."
+      "<DBAF43F0>": "You have repeated \"yourself\" an\nunfathomable number of times."
     },
     {
       "$id": 7,
@@ -78,7 +78,7 @@
       "$id": 11,
       "<8C7DD24D>": "<5EF13B62>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If you could, would you wish to do it all over again?"
+      "<DBAF43F0>": "If you could, would you do it all over again?"
     },
     {
       "$id": 12,
@@ -90,7 +90,7 @@
       "$id": 13,
       "<8C7DD24D>": "<0F8074E2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "do you wish to remain in the 'endless now'?"
+      "<DBAF43F0>": "do you wish to remain in the \"endless now\"?"
     }
   ]
 }

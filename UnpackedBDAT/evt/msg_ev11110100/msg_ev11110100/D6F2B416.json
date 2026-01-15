@@ -24,7 +24,7 @@
       "$id": 2,
       "<8C7DD24D>": "<0CA03BAB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]pant... huff... pant..."
+      "<DBAF43F0>": "[ML:undisp ](panting)"
     },
     {
       "$id": 3,
@@ -42,7 +42,7 @@
       "$id": 5,
       "<8C7DD24D>": "<0303100F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]pant... pant... pant..."
+      "<DBAF43F0>": "[ML:undisp ](panting)"
     },
     {
       "$id": 6,
@@ -96,7 +96,7 @@
       "$id": 14,
       "<8C7DD24D>": "<983D6F74>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You fell right into our—"
+      "<DBAF43F0>": "You fell right into our[ML:line len=1]"
     },
     {
       "$id": 15,

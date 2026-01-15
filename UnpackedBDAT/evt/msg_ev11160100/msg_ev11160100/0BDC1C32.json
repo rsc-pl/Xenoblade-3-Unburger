@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<15F1E95A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](adlib rising off the ground)"
+      "<DBAF43F0>": "[ML:undisp ](Ad-lib: Rising off the ground)"
     },
     {
       "$id": 2,
@@ -72,7 +72,7 @@
       "$id": 10,
       "<8C7DD24D>": "<2E4F6DAF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "[ML:undisp ](Nods)"
     },
     {
       "$id": 11,
@@ -144,7 +144,7 @@
       "$id": 22,
       "<8C7DD24D>": "<24A27180>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Your enemy isn't m—"
+      "<DBAF43F0>": "Your enemy isn't m[ML:line len=1]"
     },
     {
       "$id": 23,
@@ -162,7 +162,7 @@
       "$id": 25,
       "<8C7DD24D>": "<C614816A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We shall withdraw for now and regroup, then—"
+      "<DBAF43F0>": "We shall withdraw for now and regroup, then[ML:line len=1]"
     },
     {
       "$id": 26,
@@ -270,13 +270,13 @@
       "$id": 43,
       "<8C7DD24D>": "<F089F5E6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Aah—"
+      "<DBAF43F0>": "[ML:undisp ]Aah[ML:line len=1]"
     },
     {
       "$id": 44,
       "<8C7DD24D>": "<F2DBC079>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Aah—"
+      "<DBAF43F0>": "[ML:undisp ]Aah[ML:line len=1]"
     },
     {
       "$id": 45,

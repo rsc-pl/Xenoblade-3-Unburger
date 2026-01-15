@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you tired?"
+      "<DBAF43F0>": "You're not tired?"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just a little. That last monster was tough."
+      "<DBAF43F0>": "Just a little. That last\nmonster was tough."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But I'm okay, it's nothing major."
+      "<DBAF43F0>": "But I'm fine, it's nothing serious."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However, in that last battle,\nwe all just finished overusing\nour Ouroboros abilities."
+      "<DBAF43F0>": "However, in that last battle, we all\noverused our Ouroboros abilities."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I want to avoid a situation where\nwe Interlink again without much of a break."
+      "<DBAF43F0>": "I wish to avoid a situation where\nwe must Interlink again so soon."
     },
     {
       "$id": 6,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I am telling you to consider\nthe what-if risk."
+      "<DBAF43F0>": "I am telling you to consider\nthe what-if scenario."
     },
     {
       "$id": 9,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There is a place up ahead\nthat seems suitable for resting."
+      "<DBAF43F0>": "There is a place up ahead that\nseems suitable for resting."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's regroup there first."
+      "<DBAF43F0>": "Let us regroup there first."
     },
     {
       "$id": 13,

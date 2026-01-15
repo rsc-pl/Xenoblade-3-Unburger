@@ -42,7 +42,7 @@
       "$id": 5,
       "<8C7DD24D>": "<D13D4DAC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's... it's rising! Our life is increasing!"
+      "<DBAF43F0>": "Heh... heh... heh... It's rising! Our life is rising!"
     },
     {
       "$id": 6,
@@ -54,7 +54,7 @@
       "$id": 7,
       "<8C7DD24D>": "<16AE79E4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'd heard of the renowned Kamunabi the Crimson Flame...\nI wondered how great his valor would truly be, but..."
+      "<DBAF43F0>": "So this is the renowned Kamunabi the Crimson Flame...\nI wondered just how great his valor would be, but..."
     },
     {
       "$id": 8,
@@ -78,7 +78,7 @@
       "$id": 11,
       "<8C7DD24D>": "<6496CA4F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Do not let a single one of their lives escape you!"
+      "<DBAF43F0>": "Don't let a single one of their lives escape you!"
     },
     {
       "$id": 12,
@@ -150,7 +150,7 @@
       "$id": 23,
       "<8C7DD24D>": "<524A2F2F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Kamunabi the Crimson Flame!"
+      "<DBAF43F0>": "Kamunabi the Crimson Flame."
     },
     {
       "$id": 24,
@@ -186,7 +186,7 @@
       "$id": 29,
       "<8C7DD24D>": "<760F065E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "who were being driven into a trap?"
+      "<DBAF43F0>": "being driven into a trap?"
     },
     {
       "$id": 30,
@@ -198,19 +198,19 @@
       "$id": 31,
       "<8C7DD24D>": "<B95D7268>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Turn about, full speed! Re-Retreat!"
+      "<DBAF43F0>": "Full reverse! R-Retreat!"
     },
     {
       "$id": 32,
       "<8C7DD24D>": "<041DDC8E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Get out of here right now—!?"
+      "<DBAF43F0>": "Get out of here right now[ML:line len=1]!?"
     },
     {
       "$id": 33,
       "<8C7DD24D>": "<4C15F73E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "R-Retre—"
+      "<DBAF43F0>": "Retrea[ML:line len=1]"
     }
   ]
 }

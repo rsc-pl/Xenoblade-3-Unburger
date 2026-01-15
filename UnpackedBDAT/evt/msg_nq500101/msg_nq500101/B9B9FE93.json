@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Whoa—!?[ML:line ]"
+      "<DBAF43F0>": "[ML:undisp ]Whoa[ML:line len=1]!?[ML:line ]"
     },
     {
       "$id": 2,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Wha—!?"
+      "<DBAF43F0>": "[ML:undisp ]Wha[ML:line len=1]!?"
     },
     {
       "$id": 10,

@@ -24,7 +24,7 @@
       "$id": 2,
       "<8C7DD24D>": "<09BEB4F4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]*pant*... *pant*..."
+      "<DBAF43F0>": "[ML:undisp ](panting)"
     },
     {
       "$id": 3,
@@ -60,7 +60,7 @@
       "$id": 8,
       "<8C7DD24D>": "<0BBFAC11>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Because your concentration is lacking,\nyour [System:Ruby rt=vision ]illusion[/System:Ruby] and body separate."
+      "<DBAF43F0>": "Your concentration is lacking. That's why\nyour [System:Ruby rt=vision ]illusion[/System:Ruby] and your body separate."
     },
     {
       "$id": 9,
@@ -138,7 +138,7 @@
       "$id": 21,
       "<8C7DD24D>": "<487161EB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Why everyone in the [System:Ruby rt=City ]town[/System:Ruby] makes fun of us."
+      "<DBAF43F0>": "Why everyone in the City makes fun of us."
     },
     {
       "$id": 22,
@@ -240,7 +240,7 @@
       "$id": 38,
       "<8C7DD24D>": "<E1B76ED9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We have heard it dozens of times."
+      "<DBAF43F0>": "We've heard it dozens of times."
     },
     {
       "$id": 39,
@@ -264,7 +264,7 @@
       "$id": 42,
       "<8C7DD24D>": "<CDE7379B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]*chuckle*"
+      "<DBAF43F0>": "[ML:undisp ](chuckle)"
     },
     {
       "$id": 43,

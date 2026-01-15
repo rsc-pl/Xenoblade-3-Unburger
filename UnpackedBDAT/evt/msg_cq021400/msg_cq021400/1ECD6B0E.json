@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Everything an Sender should do,"
+      "<DBAF43F0>": "Everything a Sender should do,"
     },
     {
       "$id": 5,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "You know, I think I'll find it."
+      "<DBAF43F0>": "You know, I'm going to find it."
     },
     {
       "$id": 10,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "The rest of my time, that Miyabi gave to me..."
+      "<DBAF43F0>": "The rest of my time, that\nMiyabi gave to me..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'll use all of it..."
+      "<DBAF43F0>": "I'll use every last bit of it..."
     }
   ]
 }

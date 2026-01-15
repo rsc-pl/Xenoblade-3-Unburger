@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<5664B4FE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:line len=1]What a farce."
+      "<DBAF43F0>": "What a farce."
     },
     {
       "$id": 2,
@@ -36,19 +36,19 @@
       "$id": 4,
       "<8C7DD24D>": "<189ED5B9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Alpha...[ML:line len=1]"
+      "<DBAF43F0>": "Alpha..."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<A810EAAE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!"
+      "<DBAF43F0>": "[ML:undisp ]!"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<488E0C11>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!"
+      "<DBAF43F0>": "[ML:undisp ]!"
     },
     {
       "$id": 7,
@@ -132,7 +132,7 @@
       "$id": 20,
       "<8C7DD24D>": "<49A127C6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I see...[ML:line len=1]"
+      "<DBAF43F0>": "I see..."
     },
     {
       "$id": 21,
@@ -168,7 +168,7 @@
       "$id": 26,
       "<8C7DD24D>": "<95A8E366>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You find a new path forward...[ML:line len=1]"
+      "<DBAF43F0>": "You find a new path forward..."
     },
     {
       "$id": 27,
@@ -180,7 +180,7 @@
       "$id": 28,
       "<8C7DD24D>": "<B75028A4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:line len=1]...But I guess telling\nthat to an empty shell of a machine..."
+      "<DBAF43F0>": "...But I guess telling that to\nan empty shell of a machine..."
     },
     {
       "$id": 29,

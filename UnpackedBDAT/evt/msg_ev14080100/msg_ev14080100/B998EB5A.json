@@ -48,19 +48,19 @@
       "$id": 6,
       "<8C7DD24D>": "<DD37AFD4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Ugh... ngh...[ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]Ugh... ngh..."
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<5BF6C01E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "N-Na'el...[ML:line len=1]"
+      "<DBAF43F0>": "N-Na'el..."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<EC4713C2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Help me...[ML:line ]"
+      "<DBAF43F0>": "Help me..."
     },
     {
       "$id": 9,
@@ -78,7 +78,7 @@
       "$id": 11,
       "<8C7DD24D>": "<823DBAD3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Alpha...[ML:line len=1]"
+      "<DBAF43F0>": "Alpha..."
     },
     {
       "$id": 12,
@@ -90,13 +90,13 @@
       "$id": 13,
       "<8C7DD24D>": "<E58245B0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This is the end.[ML:line len=1]"
+      "<DBAF43F0>": "This is the end."
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<CA6E2144>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]N-No...[ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]N-No..."
     },
     {
       "$id": 15,
@@ -114,13 +114,13 @@
       "$id": 17,
       "<8C7DD24D>": "<DA678A2D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Gnh...[ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]Gnh..."
     },
     {
       "$id": 18,
       "<8C7DD24D>": "<5E761F55>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You...![ML:line len=1]"
+      "<DBAF43F0>": "You...!"
     },
     {
       "$id": 19,
@@ -192,13 +192,13 @@
       "$id": 30,
       "<8C7DD24D>": "<D6E6444B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "And yet you...![ML:line len=1]"
+      "<DBAF43F0>": "And yet you...!"
     },
     {
       "$id": 31,
       "<8C7DD24D>": "<8042594B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "He is...[ML:line len=1]"
+      "<DBAF43F0>": "He is..."
     },
     {
       "$id": 32,
@@ -216,7 +216,7 @@
       "$id": 34,
       "<8C7DD24D>": "<CC3015AA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!"
+      "<DBAF43F0>": "[ML:undisp ]!"
     }
   ]
 }

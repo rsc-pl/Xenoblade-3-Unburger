@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "That you've continued being a Sender."
+      "<DBAF43F0>": "That you've continued\nbeing a Sender."
     },
     {
       "$id": 5,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'll be waiting..."
+      "<DBAF43F0>": "I will be waiting..."
     }
   ]
 }

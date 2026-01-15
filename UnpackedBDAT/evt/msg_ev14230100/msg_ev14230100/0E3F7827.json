@@ -30,7 +30,7 @@
       "$id": 3,
       "<8C7DD24D>": "<A5BA8EFD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Na'el...?[ML:line len=1]"
+      "<DBAF43F0>": "Na'el...?"
     },
     {
       "$id": 4,
@@ -42,25 +42,25 @@
       "$id": 5,
       "<8C7DD24D>": "<94DE56C7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<9D492AA8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:line len=1 ][ML:undisp ]!?"
+      "<DBAF43F0>": "[ML:undisp ]!?"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<D78BFDE8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Y-You're...[ML:line len=1]"
+      "<DBAF43F0>": "Y-You're..."
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<5F9E9DF4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Father...?[ML:line len=1]"
+      "<DBAF43F0>": "Father...?"
     }
   ]
 }

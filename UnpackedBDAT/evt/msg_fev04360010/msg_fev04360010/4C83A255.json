@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Load the portion being transported\nto Colony 5 onto the transport\nvessel immediately."
+      "<DBAF43F0>": "Load the shipment for Colony 5 onto\nthe transport vessel immediately."
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems they're heading for the Castle."
+      "<DBAF43F0>": "Looks like they're\nheading for the Castle."
     },
     {
       "$id": 4,

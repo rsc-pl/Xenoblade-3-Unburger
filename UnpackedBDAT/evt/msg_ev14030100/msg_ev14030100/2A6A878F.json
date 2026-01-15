@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<07351D5B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "$id": 6,
       "<8C7DD24D>": "<7DB7F2C4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It was nothing...[ML:line len=1]"
+      "<DBAF43F0>": "It was nothing..."
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "$id": 16,
       "<8C7DD24D>": "<BBF09084>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:line len=1]Can't be helped, I guess."
+      "<DBAF43F0>": "Can't be helped, I guess."
     },
     {
       "$id": 17,
@@ -180,7 +180,7 @@
       "$id": 28,
       "<8C7DD24D>": "<F17E81C8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "O-Okay...[ML:line len=1]"
+      "<DBAF43F0>": "O-Okay..."
     }
   ]
 }

@@ -25,7 +25,7 @@ CONFIG = {
         },
         "standard": {
             "name": "Standard (3-Line)",
-            "prefixes": ["msg_nq", "msg_ask", "msg_tq", "msg_tlk", "msg_sq"],
+            "prefixes": ["msg_nq", "msg_ask", "msg_fev", "msg_cq", "msg_tq", "msg_tlk", "msg_sq"],
             "max_lines": 3,
             "split_threshold_for_2": 35,
             "split_threshold_for_3": 80,

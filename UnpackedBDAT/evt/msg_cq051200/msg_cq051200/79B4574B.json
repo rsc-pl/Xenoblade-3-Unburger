@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Why don't you finish them off?\nYour life won't increase otherwise."
+      "<DBAF43F0>": "Why don't you finish them off? Your\nlife won't increase otherwise."
     },
     {
       "$id": 4,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "You finish them off.\nIf you kill them, it increases.\nMy life."
+      "<DBAF43F0>": "Finish them off. If you kill\nthem, it increases. My life."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "The Consul-sama will give it to me\nfrom that Flame Clock of life."
+      "<DBAF43F0>": "The Consul-sama will give it\nto me from that Flame Clock."
     },
     {
       "$id": 8,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yeah, it's not a normal Flame Clock of life."
+      "<DBAF43F0>": "Yeah, it's not a\nnormal Flame Clock."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "In my old colony,\nif someone dragged you down, that was it."
+      "<DBAF43F0>": "In my old colony, if someone dragged\nyou down, that was the end of it."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "No matter how many you killed, it wouldn't become \"[System:Ruby rt=my ]my life[/System:Ruby]\"."
+      "<DBAF43F0>": "No matter how many you killed, it\nwouldn't become \"[System:Ruby rt=my ]my own life[/System:Ruby]\"."
     },
     {
       "$id": 14,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Only the strong can monopolize life."
+      "<DBAF43F0>": "Only the strong can\nmonopolize life."
     },
     {
       "$id": 16,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "So, kill all the weaklings\nand give me their lives."
+      "<DBAF43F0>": "So, just kill all the weaklings\nand give me their lives."
     },
     {
       "$id": 19,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I don't know if you're elite or what,"
+      "<DBAF43F0>": "I don't know if you're\nelite or what,"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "but you shouldn't get too carried away."
+      "<DBAF43F0>": "but you shouldn't get\ntoo carried away."
     },
     {
       "$id": 23,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "A guy who only thinks about his own life."
+      "<DBAF43F0>": "A guy who only thinks\nabout his own life."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "There's no way you can win against us now."
+      "<DBAF43F0>": "There's no way you can\nwin against us now."
     },
     {
       "$id": 27,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I-I didn't hear about this!\nThat there were monsters like this."
+      "<DBAF43F0>": "I-I wasn't told about this! That\nthere were monsters like this!"
     },
     {
       "$id": 29,
@@ -408,7 +408,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "They're like a set with the Iron Giant."
+      "<DBAF43F0>": "They're practically a package\ndeal with the Iron Giants."
     },
     {
       "$id": 39,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I didn't think there would be Ouroboros, though."
+      "<DBAF43F0>": "I didn't expect Ouroboros\nto be here, though."
     },
     {
       "$id": 40,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "My mistake for neglecting my search."
+      "<DBAF43F0>": "My mistake for\nneglecting my search."
     },
     {
       "$id": 41,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "They are a special anti-City unit."
+      "<DBAF43F0>": "They are a special\nanti-City task force."
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "My dear children that I have painstakingly raised."
+      "<DBAF43F0>": "My dear children that I\nhave painstakingly raised."
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "It was a lot of trouble to raise them to this point,"
+      "<DBAF43F0>": "It was so much trouble to\nraise them to this point,"
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "so they'll have to reap many more lives\nfor me from now on."
+      "<DBAF43F0>": "so they'll have to reap many\nmore lives for me from now on."
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "It wouldn't be worth it otherwise."
+      "<DBAF43F0>": "Otherwise, it just\nwouldn't be worth it."
     },
     {
       "$id": 47,

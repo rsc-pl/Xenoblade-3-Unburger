@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's right.\nBefore I take you to the City,\nyou'll need to put these on."
+      "<DBAF43F0>": "Right. Before I take you to the City,\nI'll need you to put these on."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They're the same as the ones we are wearing."
+      "<DBAF43F0>": "They're the same as the\nones we're wearing."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't worry, it's not something\nthat will harm your bodies."
+      "<DBAF43F0>": "Don't worry, it's not\nsomething that will harm you."
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now then... I told you we have\nno hostile intent, but I doubt that's enough\nfor you to trust us yet."
+      "<DBAF43F0>": "Now then... I've told you we have\nno hostile intent, but I doubt that's\nenough for you to trust us yet."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To guarantee your safety until\nwe reach the City, you can treat me\nas your prisoner."
+      "<DBAF43F0>": "To guarantee your safety until\nwe reach the City, you may\ntreat me as your prisoner."
     },
     {
       "$id": 10,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not satisfied with \"prisoner\"? In that case,\nI will also serve as your escort."
+      "<DBAF43F0>": "Is \"prisoner\" not satisfactory? In that\ncase, I will also serve as your escort."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When it comes to wielding a mace,\nno one in the Lost Numbers can best me."
+      "<DBAF43F0>": "When it comes to wielding a mace, no\none in the Lost Numbers can best me."
     },
     {
       "$id": 14,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If I had any such intention...\nby now, you wouldn't even be able to speak."
+      "<DBAF43F0>": "If I had any such intention... you\nwouldn't even be able to speak right now."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then, shall we go?\nShe will guide you to the City."
+      "<DBAF43F0>": "Well then, shall we go? She\nwill guide you to the City."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 79,
-      "<DBAF43F0>": "Monica has temporarily joined the party."
+      "<DBAF43F0>": "Monica has temporarily\njoined the party."
     }
   ]
 }

@@ -48,7 +48,7 @@
       "<2B51649C>": 14696577,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, it seems so—"
+      "<DBAF43F0>": "Yeah, it seems so[ML:line len=1]"
     },
     {
       "$id": 3,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I understand everyone's apprehension\nHowever, I want you to rest assured."
+      "<DBAF43F0>": "I understand everyone's apprehension.\nHowever, rest assured."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have researched various cuisines and\nthoroughly analyzed them. A disaster\nlike the last time should not occur."
+      "<DBAF43F0>": "I have since researched various cuisines\nand analyzed them thoroughly. A disaster\nlike the last time should not occur."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 270549121,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It wasn't a disaster,\nit was a catastrophe!"
+      "<DBAF43F0>": "It wasn't a disaster,\nit was a CATACLYSM!"
     },
     {
       "$id": 10,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The data for my improved recipe\nusing 20 herbs and 30 spices is—"
+      "<DBAF43F0>": "The data for my improved recipe\nusing 20 herbs and 30 spices is[ML:line len=1]"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 820002945,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That kind of amateurish improvisation is\nthe most dangerous thing of all, mo!!"
+      "<DBAF43F0>": "That kind of amateur improvisation is\nthe most dangerous thing of all, mo!!"
     }
   ]
 }

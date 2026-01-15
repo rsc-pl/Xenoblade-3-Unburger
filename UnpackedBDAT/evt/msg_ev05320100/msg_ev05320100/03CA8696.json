@@ -36,7 +36,7 @@
       "$id": 4,
       "<8C7DD24D>": "<488D89A7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm asking you a question."
+      "<DBAF43F0>": "I asked you a question."
     },
     {
       "$id": 5,
@@ -126,13 +126,13 @@
       "$id": 19,
       "<8C7DD24D>": "<DABD8194>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "N-No?! Th-that's not-"
+      "<DBAF43F0>": "N-No?! Th-That's not it!"
     },
     {
       "$id": 20,
       "<8C7DD24D>": "<BB2EC6D3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I wasn't laughing-"
+      "<DBAF43F0>": "I wasn't laugh[ML:line len=1]"
     },
     {
       "$id": 21,
@@ -168,7 +168,7 @@
       "$id": 26,
       "<8C7DD24D>": "<1F96CB0E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hey, are you guys casually talking shit about me?"
+      "<DBAF43F0>": "Hey, are you two casually talkin' shit about me?"
     },
     {
       "$id": 27,
@@ -222,7 +222,7 @@
       "$id": 35,
       "<8C7DD24D>": "<56FA3C39>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "She said that you know where the Queens are."
+      "<DBAF43F0>": "She said you know where the Queen is."
     },
     {
       "$id": 36,
@@ -246,13 +246,13 @@
       "$id": 39,
       "<8C7DD24D>": "<F9F9BE8B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We have to meet the Queens."
+      "<DBAF43F0>": "We have to meet the Queen."
     },
     {
       "$id": 40,
       "<8C7DD24D>": "<F76CD1F6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "For the sake of returning this world to its proper state."
+      "<DBAF43F0>": "To return this world to its proper state."
     },
     {
       "$id": 41,
@@ -270,7 +270,7 @@
       "$id": 43,
       "<8C7DD24D>": "<A92AA72A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I said I'm sick of hearing it, that stupid phrase!"
+      "<DBAF43F0>": "I said I'm sick of hearing that stupid phrase!"
     },
     {
       "$id": 44,
@@ -282,7 +282,7 @@
       "$id": 45,
       "<8C7DD24D>": "<34F3F70D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Not as long as you people are trying to destroy the \"now.\""
+      "<DBAF43F0>": "Not as long as you people keep trying to destroy the \"now.\""
     },
     {
       "$id": 46,
@@ -342,7 +342,7 @@
       "$id": 55,
       "<8C7DD24D>": "<4BDF88DE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "With pleasure"
+      "<DBAF43F0>": "With pleasure."
     }
   ]
 }

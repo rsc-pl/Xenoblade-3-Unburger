@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good morning.\nI'm ready."
+      "<DBAF43F0>": "Good morning. I'm ready."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Alright.\nLet's head for the central cell block."
+      "<DBAF43F0>": "Alright. Let's head for\nthe central cell block."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well everyone,\nlet's give it our all again today~"
+      "<DBAF43F0>": "Well everyone, let's give\nit our all again today~"
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That said, about Ghondor...\nFor someone who told us to be model prisoners,\nshe was just casually slacking off, wasn't she?"
+      "<DBAF43F0>": "That said, that Ghondor... For someone who\ntold us to be model prisoners, she was\njust casually slacking off, wasn't she?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If my memory serves,\nshe did also say to \"put on an act of being\nmodel prisoners\"..."
+      "<DBAF43F0>": "If my memory serves, she also\nsaid to \"put on an act of\nbeing model prisoners\"..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In any case,\nit's just one more day."
+      "<DBAF43F0>": "In any case, it's\njust one more day."
     }
   ]
 }

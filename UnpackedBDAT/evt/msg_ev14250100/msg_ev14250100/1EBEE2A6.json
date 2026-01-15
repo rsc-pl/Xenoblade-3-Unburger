@@ -18,19 +18,19 @@
       "$id": 1,
       "<8C7DD24D>": "<1CEEA008>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:line len=1]Why are you doing this?"
+      "<DBAF43F0>": "Why are you doing this?"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<E084C1E1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<3394FFB5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I told you, didn't I? I told you\nto find allies...![ML:line ]"
+      "<DBAF43F0>": "I told you, didn't I? I told you to find allies...!"
     },
     {
       "$id": 4,
@@ -48,7 +48,7 @@
       "$id": 6,
       "<8C7DD24D>": "<0984B707>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Na'el...?[ML:line len=1]"
+      "<DBAF43F0>": "Na'el...?"
     },
     {
       "$id": 7,
@@ -84,13 +84,13 @@
       "$id": 12,
       "<8C7DD24D>": "<755A02A8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "An entity existence that seeks to erase this world."
+      "<DBAF43F0>": "An [System:Ruby rt=entity ]existence[/System:Ruby] that seeks to erase this world."
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<F9AC3CE3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]What...!?[ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]What...!?"
     },
     {
       "$id": 14,
@@ -126,13 +126,13 @@
       "$id": 19,
       "<8C7DD24D>": "<5B68087C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!?"
+      "<DBAF43F0>": "[ML:undisp ]!?"
     },
     {
       "$id": 20,
       "<8C7DD24D>": "<F3536B5D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The lives of us Moebius...[ML:line len=1]"
+      "<DBAF43F0>": "The lives of us Moebius..."
     },
     {
       "$id": 21,
@@ -144,13 +144,13 @@
       "$id": 22,
       "<8C7DD24D>": "<879AC233>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Th-That's...[ML:line len=1]"
+      "<DBAF43F0>": "Th-That's..."
     },
     {
       "$id": 23,
       "<8C7DD24D>": "<452BF855>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You'd do all this... just for that...?[ML:line len=1 ]"
+      "<DBAF43F0>": "You'd do all this... just for that...?"
     },
     {
       "$id": 24,
@@ -174,7 +174,7 @@
       "$id": 27,
       "<8C7DD24D>": "<8E553BB8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This moment...[ML:line len=1]"
+      "<DBAF43F0>": "This moment..."
     },
     {
       "$id": 28,

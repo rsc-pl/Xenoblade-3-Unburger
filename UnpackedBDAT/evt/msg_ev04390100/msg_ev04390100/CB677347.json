@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<8201FE8C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The Annihilator has started moving, mo!"
+      "<DBAF43F0>": "The [System:Ruby rt=Annihilator]Annihilation Weapon[/System:Ruby] has started moving, mo!"
     },
     {
       "$id": 2,
@@ -378,7 +378,7 @@
       "$id": 61,
       "<8C7DD24D>": "<F6EA18C7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The [System:Ruby rt=Annihilator ]Annihilation Weapon[/System:Ruby] is!?"
+      "<DBAF43F0>": "The [System:Ruby rt=Annihilator]Annihilation Weapon[/System:Ruby] is!?"
     },
     {
       "$id": 62,
@@ -456,7 +456,7 @@
       "$id": 74,
       "<8C7DD24D>": "<5C74208A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]attacking ad-lib"
+      "<DBAF43F0>": "[ML:undisp ](attacking ad-lib)"
     },
     {
       "$id": 75,
@@ -756,7 +756,7 @@
       "$id": 124,
       "<8C7DD24D>": "<F32FE7D7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But I don't know... this body remembers it."
+      "<DBAF43F0>": "I don't know... but this body remembers."
     },
     {
       "$id": 125,

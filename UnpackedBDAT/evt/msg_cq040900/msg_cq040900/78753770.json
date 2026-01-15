@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Commander should just come with us."
+      "<DBAF43F0>": "The Commander should\njust come with us."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He can't do that, can he?\nHe might get noticed by the Castle."
+      "<DBAF43F0>": "He can't do that, can he? He might\ndraw the Castle's attention."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't think that's all."
+      "<DBAF43F0>": "I don't think that's\nthe only reason."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He's scared, I'm sure."
+      "<DBAF43F0>": "He's afraid, I'm sure."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That if he meets her again,\nhe might act the same way."
+      "<DBAF43F0>": "That if he were to meet her again,\nhe might do the same thing."
     },
     {
       "$id": 8,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If I had been more reliable,\nthe Commander wouldn't have to feel that way..."
+      "<DBAF43F0>": "If I had been more reliable, the Commander\nwouldn't have to feel this way..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you still saying that?"
+      "<DBAF43F0>": "Are you still on about that?"
     },
     {
       "$id": 15,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just what?\nLooking back won't change anything."
+      "<DBAF43F0>": "Just what? Looking back\nwon't change a thing."
     },
     {
       "$id": 17,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, I'm sorry.\nYou're right..."
+      "<DBAF43F0>": "Yes, my apologies. You're right..."
     }
   ]
 }

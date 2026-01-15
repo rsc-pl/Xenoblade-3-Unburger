@@ -18,13 +18,13 @@
       "$id": 1,
       "<8C7DD24D>": "<1777ADB9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I don't know if I should be saying\nthis, but...[ML:line len=1]"
+      "<DBAF43F0>": "I don't know if I should be saying this, but..."
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<9CB3A5E5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "this feels nostalgic.[ML:line len=1]"
+      "<DBAF43F0>": "this feels nostalgic."
     },
     {
       "$id": 3,
@@ -54,7 +54,7 @@
       "$id": 7,
       "<8C7DD24D>": "<CF380037>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 8,
@@ -72,7 +72,7 @@
       "$id": 10,
       "<8C7DD24D>": "<90A71945>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 11,
@@ -120,7 +120,7 @@
       "$id": 18,
       "<8C7DD24D>": "<30351792>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But him...[ML:line len=1]"
+      "<DBAF43F0>": "But him..."
     },
     {
       "$id": 19,
@@ -132,13 +132,13 @@
       "$id": 20,
       "<8C7DD24D>": "<614E1CB2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 21,
       "<8C7DD24D>": "<2421D334>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's creeping me out.[ML:line len=1]"
+      "<DBAF43F0>": "It's creeping me out."
     },
     {
       "$id": 22,
@@ -150,13 +150,13 @@
       "$id": 23,
       "<8C7DD24D>": "<F2EA5982>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 24,
       "<8C7DD24D>": "<1F4EEB5C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Tch.[ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]Tch."
     },
     {
       "$id": 25,
@@ -276,7 +276,7 @@
       "$id": 44,
       "<8C7DD24D>": "<EDB5A199>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]Ngh!"
+      "<DBAF43F0>": "[ML:undisp ]Ngh!"
     }
   ]
 }

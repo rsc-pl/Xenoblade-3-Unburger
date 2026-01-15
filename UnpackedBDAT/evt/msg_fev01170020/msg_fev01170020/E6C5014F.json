@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's review the details of the operation."
+      "<DBAF43F0>": "Let's review the operation details."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Our mission is to investigate the mysterious\nether source said to be appearing\nin Alfeto Valley..."
+      "<DBAF43F0>": "Our mission is to investigate the\nmysterious ether source said to be\nappearing in Alfeto Valley..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "and to destroy it."
+      "<DBAF43F0>": "...and to destroy it."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The operation point has been marked, mo.\nPlease check the map, mo."
+      "<DBAF43F0>": "The operation point has been marked,\nmo. Please check the map, mo."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The advance unit should have already\narrived at the expected contact point."
+      "<DBAF43F0>": "The advance unit should have already\narrived at the expected point of contact."
     },
     {
       "$id": 7,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't know or care if this is\na direct order from the Castle,"
+      "<DBAF43F0>": "I don't know or care if this is\na direct order from the Castle."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "let's just get this over with quickly."
+      "<DBAF43F0>": "Let's just get this over with."
     }
   ]
 }

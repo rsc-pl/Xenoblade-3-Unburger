@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Alright, let's go to the next place.\nFollow me."
+      "<DBAF43F0>": "Alright, let's go to the\nnext place. Follow me."
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, sorry.\nThere are some other places I want to see..."
+      "<DBAF43F0>": "Ah, sorry. There are some\nother places I want to see..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Haaah... then go look, and make it quick.\nI'll be waiting."
+      "<DBAF43F0>": "Haaah... then go look, and make\nit quick. I'll be waiting."
     }
   ]
 }

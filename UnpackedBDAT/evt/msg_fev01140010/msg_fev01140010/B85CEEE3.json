@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The rendezvous point is just ahead, mo."
+      "<DBAF43F0>": "The rendezvous point\nis just ahead, mo."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Since Nopon can't use \"Irises,\"\nit must be inconvenient to always\nhave to rely on a terminal, huh?"
+      "<DBAF43F0>": "Since Nopon can't use \"Irises,\"\nit must be a pain to always have\nto rely on a terminal, huh?"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Riku has never been bothered by it, mo."
+      "<DBAF43F0>": "Riku's never been\nbothered by it, mo."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If Riku doesn't touch the terminal,\nhe can ignore troublesome messages, mo."
+      "<DBAF43F0>": "If Riku doesn't touch the terminal, he\ncan ignore any troublesome messages, mo."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah... that's actually a pretty good idea."
+      "<DBAF43F0>": "Huh... that's actually\nnot a bad idea."
     },
     {
       "$id": 6,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Looks like we have no choice but to fight."
+      "<DBAF43F0>": "Looks like we've got no\nchoice but to fight."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's coming!"
+      "<DBAF43F0>": "Here it comes!"
     }
   ]
 }

@@ -36,7 +36,7 @@
       "$id": 4,
       "<8C7DD24D>": "<C1AE8F6D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!"
+      "<DBAF43F0>": "[ML:undisp ]!"
     },
     {
       "$id": 5,
@@ -60,13 +60,13 @@
       "$id": 8,
       "<8C7DD24D>": "<2F4E6535>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Grandad...![ML:line len=1]"
+      "<DBAF43F0>": "Grandad...!"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<06AA4F5F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Look after Na'el...[ML:line len=1\n] the future...[ML:line len=1 ]"
+      "<DBAF43F0>": "Look after Na'el... the future..."
     },
     {
       "$id": 10,

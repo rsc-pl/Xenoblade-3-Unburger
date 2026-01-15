@@ -18,85 +18,85 @@
       "$id": 1,
       "<8C7DD24D>": "<EDA26915>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(panting, running for dear life)"
+      "<DBAF43F0>": "[ML:undisp ](panting)"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<5934F6B1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](panting, running for dear life)"
+      "<DBAF43F0>": "[ML:undisp ](panting)"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<05D1EF04>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](startled yelp)"
+      "<DBAF43F0>": "[ML:undisp ]!"
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<EDFC9019>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](death scream)"
+      "<DBAF43F0>": "[ML:undisp ]Aaaargh!"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<B5AD87C2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](death scream)"
+      "<DBAF43F0>": "[ML:undisp ]Gyaah!"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<4A9AB76B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]"
+      "<DBAF43F0>": "[ML:undisp ](Pain grunt)"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<92786D37>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]"
+      "<DBAF43F0>": "[ML:undisp ](Pain grunt)"
     },
     {
       "$id": 8,
       "<8C7DD24D>": "<BAEC8EC5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]"
+      "<DBAF43F0>": "[ML:undisp ](Pain grunt)"
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<0E2DC11A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]"
+      "<DBAF43F0>": "[ML:undisp ](Pain grunt)"
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<0B923287>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]"
+      "<DBAF43F0>": "[ML:undisp ](Pain grunt)"
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<54EB5A7C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]"
+      "<DBAF43F0>": "[ML:undisp ](Pain grunt)"
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<2BB59FD1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(cautious breath)"
+      "<DBAF43F0>": "[ML:undisp ](cautious breath)"
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<E2451E4C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(quiet breath)"
+      "<DBAF43F0>": "[ML:undisp ](quiet breath)"
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<06B8E07C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(startled gasp)"
+      "<DBAF43F0>": "[ML:undisp ]!?"
     }
   ]
 }

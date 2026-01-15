@@ -36,13 +36,13 @@
       "$id": 4,
       "<8C7DD24D>": "<CA68B1FF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The guards'll be armed,"
+      "<DBAF43F0>": "The guards will be heavily armed."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<86310D0A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I want you lot to take advantage of the\ncommotion and deal with the guards."
+      "<DBAF43F0>": "I want you lot to take advantage of\nthe commotion and deal with them."
     },
     {
       "$id": 6,
@@ -54,7 +54,7 @@
       "$id": 7,
       "<8C7DD24D>": "<605468FE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The wardens are small fry. We'll handle them."
+      "<DBAF43F0>": "The wardens are small fry. We'll handle 'em."
     },
     {
       "$id": 8,
@@ -78,13 +78,13 @@
       "$id": 11,
       "<8C7DD24D>": "<BD50136A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If we take down even twenty of them, we\ncan create an opening in their defenses."
+      "<DBAF43F0>": "If we take down twenty, we can create\nan opening in their defenses."
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<67C708D8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Then we'll break through the west gate in one go."
+      "<DBAF43F0>": "Then we'll break through the west gate in one push."
     },
     {
       "$id": 13,
@@ -96,7 +96,7 @@
       "$id": 14,
       "<8C7DD24D>": "<88A04AE7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What do we do about the gate door?"
+      "<DBAF43F0>": "What do we do about the gate?"
     },
     {
       "$id": 15,
@@ -108,13 +108,13 @@
       "$id": 16,
       "<8C7DD24D>": "<29944601>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It should be a piece of cake for you guys, right?"
+      "<DBAF43F0>": "Should be a piece of cake for you guys, right?"
     },
     {
       "$id": 17,
       "<8C7DD24D>": "<56368194>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's why the damn bitch sent you, isn't it?"
+      "<DBAF43F0>": "That's why the damn bitch sent you."
     },
     {
       "$id": 18,
@@ -126,13 +126,13 @@
       "$id": 19,
       "<8C7DD24D>": "<17D330B3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "She's your mother, isn't she?"
+      "<DBAF43F0>": "She's your mother."
     },
     {
       "$id": 20,
       "<8C7DD24D>": "<4602578B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's got nothing to do with anything."
+      "<DBAF43F0>": "That's got nothin' to do with anything."
     },
     {
       "$id": 21,
@@ -144,13 +144,13 @@
       "$id": 22,
       "<8C7DD24D>": "<55F24920>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"Understand\" is a strong word. It's so simple..."
+      "<DBAF43F0>": "\"Understand\" is a strong word. It is so simple..."
     },
     {
       "$id": 23,
       "<8C7DD24D>": "<153CCF43>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...it's questionable whether you can even call it a \"plan.\""
+      "<DBAF43F0>": "...it is questionable whether one\ncould even call it a \"plan.\""
     },
     {
       "$id": 24,
@@ -168,7 +168,7 @@
       "$id": 26,
       "<8C7DD24D>": "<1BFD6373>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'll take that as a compliment."
+      "<DBAF43F0>": "I will take that as a compliment."
     },
     {
       "$id": 27,
@@ -222,13 +222,13 @@
       "$id": 35,
       "<8C7DD24D>": "<0A4B290B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Please, whatever you do, don't be reckless."
+      "<DBAF43F0>": "Please, whatever you do, do not be reckless."
     },
     {
       "$id": 36,
       "<8C7DD24D>": "<8B439743>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hah! Who do you think you're talking to?"
+      "<DBAF43F0>": "Hah! Who do you think you're talkin' to?"
     }
   ]
 }

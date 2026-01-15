@@ -18,13 +18,13 @@
       "$id": 1,
       "<8C7DD24D>": "<3F612E59>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Gnh...[ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]Gnh..."
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<DCD5E576>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 3,
@@ -60,13 +60,13 @@
       "$id": 8,
       "<8C7DD24D>": "<D812DAFE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "To think that happened between them...[ML:line len=1]"
+      "<DBAF43F0>": "To think that happened between them..."
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<FB203AF0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 10,
@@ -84,7 +84,7 @@
       "$id": 12,
       "<8C7DD24D>": "<60CD58A0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 13,
@@ -96,13 +96,13 @@
       "$id": 14,
       "<8C7DD24D>": "<11BBC3EE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So you killed everyone...[ML:line len=1]"
+      "<DBAF43F0>": "So you killed everyone..."
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<EEB89E45>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You killed Grandad...[ML:line len=1]"
+      "<DBAF43F0>": "You killed Grandad..."
     },
     {
       "$id": 16,
@@ -120,7 +120,7 @@
       "$id": 18,
       "<8C7DD24D>": "<EBE8E08D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp [ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]Heh..."
     },
     {
       "$id": 19,
@@ -144,19 +144,19 @@
       "$id": 22,
       "<8C7DD24D>": "<827D5F18>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 23,
       "<8C7DD24D>": "<ADBC3A69>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:line len=1]Are you really that stupid?"
+      "<DBAF43F0>": "Are you really that stupid?"
     },
     {
       "$id": 24,
       "<8C7DD24D>": "<90580B97>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You're not just stupid...[ML:line len=1]"
+      "<DBAF43F0>": "You're not just stupid..."
     },
     {
       "$id": 25,
@@ -168,7 +168,7 @@
       "$id": 26,
       "<8C7DD24D>": "<2D32046D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!"
+      "<DBAF43F0>": "[ML:undisp ]!"
     },
     {
       "$id": 27,
@@ -180,7 +180,7 @@
       "$id": 28,
       "<8C7DD24D>": "<5627DA40>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "He meant you, too![ML:line len=1 ]"
+      "<DBAF43F0>": "He meant you, too!"
     },
     {
       "$id": 29,
@@ -246,7 +246,7 @@
       "$id": 39,
       "<8C7DD24D>": "<1F507AA7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's all.[ML:line len=1]"
+      "<DBAF43F0>": "That's all."
     },
     {
       "$id": 40,
@@ -312,7 +312,7 @@
       "$id": 50,
       "<8C7DD24D>": "<1F5A3F91>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](prolonged scream)"
+      "<DBAF43F0>": "[ML:undisp ]Uwaaaaah!"
     },
     {
       "$id": 51,
@@ -324,13 +324,13 @@
       "$id": 52,
       "<8C7DD24D>": "<F3C64A5E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "[ML:undisp ]Kyaah!"
     },
     {
       "$id": 53,
       "<8C7DD24D>": "<64FA06E9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](agonized scream)"
+      "<DBAF43F0>": "[ML:undisp ]Uaaaargh!"
     }
   ]
 }

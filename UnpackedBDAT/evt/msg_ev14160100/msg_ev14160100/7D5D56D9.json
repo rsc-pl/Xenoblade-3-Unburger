@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<D8FB0C7E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!"
+      "<DBAF43F0>": "[ML:undisp ]!"
     },
     {
       "$id": 2,
@@ -66,7 +66,7 @@
       "$id": 9,
       "<8C7DD24D>": "<73D6DB3A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:line len=1]Thank you."
+      "<DBAF43F0>": "Thank you."
     },
     {
       "$id": 10,
@@ -96,7 +96,7 @@
       "$id": 14,
       "<8C7DD24D>": "<1DA936D3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh.[ML:line len=1]"
+      "<DBAF43F0>": "Oh."
     },
     {
       "$id": 15,
@@ -120,7 +120,7 @@
       "$id": 18,
       "<8C7DD24D>": "<D9605880>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 19,
@@ -132,25 +132,25 @@
       "$id": 20,
       "<8C7DD24D>": "<346C0363>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But now... I think this is better.[ML:line len=1]"
+      "<DBAF43F0>": "But now... I think this is better."
     },
     {
       "$id": 21,
       "<8C7DD24D>": "<D681E44B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Because I get to make my own choices.[ML:line len=1]"
+      "<DBAF43F0>": "Because I get to make my own choices."
     },
     {
       "$id": 22,
       "<8C7DD24D>": "<D6B8BF4B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Is that so?[ML:line len=1]"
+      "<DBAF43F0>": "Is that so?"
     },
     {
       "$id": 23,
       "<8C7DD24D>": "<1C1125E7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hey...[ML:line len=1]"
+      "<DBAF43F0>": "Hey..."
     },
     {
       "$id": 24,
@@ -168,7 +168,7 @@
       "$id": 26,
       "<8C7DD24D>": "<9FF0BCF5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Or did...[ML:line len=1]"
+      "<DBAF43F0>": "Or did..."
     },
     {
       "$id": 27,
@@ -192,7 +192,7 @@
       "$id": 30,
       "<8C7DD24D>": "<AE3B00CC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 31,
@@ -216,7 +216,7 @@
       "$id": 34,
       "<8C7DD24D>": "<962B541D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You have someone like that in your life...[ML:line len=1]"
+      "<DBAF43F0>": "You have someone like that in your life..."
     },
     {
       "$id": 35,
@@ -252,19 +252,19 @@
       "$id": 40,
       "<8C7DD24D>": "<8C9FAD2B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Fighting to protect the world...[ML:line len=1]"
+      "<DBAF43F0>": "Fighting to protect the world..."
     },
     {
       "$id": 41,
       "<8C7DD24D>": "<432CA867>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I do it for the smiles, I guess.[ML:line len=1]"
+      "<DBAF43F0>": "I do it for the smiles, I guess."
     },
     {
       "$id": 42,
       "<8C7DD24D>": "<7865335B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 43,
@@ -300,7 +300,7 @@
       "$id": 48,
       "<8C7DD24D>": "<71E41037>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Besides...[ML:line len=1]"
+      "<DBAF43F0>": "Besides..."
     },
     {
       "$id": 49,
@@ -318,7 +318,7 @@
       "$id": 51,
       "<8C7DD24D>": "<5272A76A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]?"
+      "<DBAF43F0>": "[ML:undisp ]?"
     },
     {
       "$id": 52,
@@ -336,7 +336,7 @@
       "$id": 54,
       "<8C7DD24D>": "<8C218BFB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"Bonds\"...[ML:line len=1]"
+      "<DBAF43F0>": "\"Bonds\"..."
     },
     {
       "$id": 55,
@@ -360,7 +360,7 @@
       "$id": 58,
       "<8C7DD24D>": "<FABB8068>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Rex...[ML:line len=1]"
+      "<DBAF43F0>": "Rex..."
     },
     {
       "$id": 59,

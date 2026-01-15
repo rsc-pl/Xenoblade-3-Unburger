@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<7BED533E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "A...[ML:line len=1]"
+      "<DBAF43F0>": "A..."
     },
     {
       "$id": 2,
@@ -36,7 +36,7 @@
       "$id": 4,
       "<8C7DD24D>": "<8833DF60>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But you... you can still...[ML:line len=1]"
+      "<DBAF43F0>": "But you... you can still..."
     },
     {
       "$id": 5,
@@ -48,7 +48,7 @@
       "$id": 6,
       "<8C7DD24D>": "<646C3132>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 7,
@@ -60,7 +60,7 @@
       "$id": 8,
       "<8C7DD24D>": "<7EB0863B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "it would only be one possibility...[ML:line len=1]"
+      "<DBAF43F0>": "it would only be one possibility..."
     },
     {
       "$id": 9,
@@ -126,13 +126,13 @@
       "$id": 19,
       "<8C7DD24D>": "<2FBB77B0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:line len=1]...Those were\nMasterpon's words, not mine, mo."
+      "<DBAF43F0>": "...Those were Masterpon's words, not mine, mo."
     },
     {
       "$id": 20,
       "<8C7DD24D>": "<B4B74EFE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Your master, huh?[ML:line len=1]"
+      "<DBAF43F0>": "Your master, huh?"
     },
     {
       "$id": 21,
@@ -144,7 +144,7 @@
       "$id": 22,
       "<8C7DD24D>": "<AC70EA59>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Is that...?[ML:line len=1]"
+      "<DBAF43F0>": "Is that...?"
     },
     {
       "$id": 23,
@@ -162,7 +162,7 @@
       "$id": 25,
       "<8C7DD24D>": "<A9B2FFBF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We really are...[ML:line len=1]"
+      "<DBAF43F0>": "We really are..."
     },
     {
       "$id": 26,
@@ -174,7 +174,7 @@
       "$id": 27,
       "<8C7DD24D>": "<DB766E69>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "[ML:undisp ](Nods)"
     }
   ]
 }

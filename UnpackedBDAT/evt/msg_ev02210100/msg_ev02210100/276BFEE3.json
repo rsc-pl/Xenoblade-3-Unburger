@@ -378,7 +378,7 @@
       "$id": 61,
       "<8C7DD24D>": "<E537C11C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"What\"...? How could I possibly kn—"
+      "<DBAF43F0>": "\"What\"...? How could I possibly kn[ML:line len=1]"
     },
     {
       "$id": 62,
@@ -636,7 +636,7 @@
       "$id": 104,
       "<8C7DD24D>": "<BC19E67B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(I'm... just trai—)"
+      "<DBAF43F0>": "(I'm... just trai[ML:line len=1])"
     },
     {
       "$id": 105,
@@ -954,13 +954,13 @@
       "$id": 157,
       "<8C7DD24D>": "<6CDB8B32>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Where are you look—"
+      "<DBAF43F0>": "Where are you look[ML:line len=1]"
     },
     {
       "$id": 158,
       "<8C7DD24D>": "<6B99779F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "—ing!"
+      "<DBAF43F0>": "[ML:line len=1]ing!"
     },
     {
       "$id": 159,
@@ -996,7 +996,7 @@
       "$id": 164,
       "<8C7DD24D>": "<91F5785B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I must heal—"
+      "<DBAF43F0>": "I must heal[ML:line len=1]"
     },
     {
       "$id": 165,

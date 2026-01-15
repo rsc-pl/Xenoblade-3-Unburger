@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You know the Angu? I seriously\ncan't stand them..."
+      "<DBAF43F0>": "You know Angu? I seriously\ncan't stand them..."
     },
     {
       "$id": 2,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And they spit something out of their\nmouths, don't they? That stuff is vo—"
+      "<DBAF43F0>": "And they spit something out of their\nmouths, don't they? That stuff is vo[ML:line len=1]"
     },
     {
       "$id": 5,
@@ -118,7 +118,7 @@
       "<2B51649C>": 12599425,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The Feris."
+      "<DBAF43F0>": "Feris."
     },
     {
       "$id": 10,

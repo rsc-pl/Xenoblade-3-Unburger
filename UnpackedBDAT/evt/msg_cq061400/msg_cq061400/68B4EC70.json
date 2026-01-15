@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "No, ma'am.\nNot a peep for the last half hour."
+      "<DBAF43F0>": "No, ma'am. Not a peep\nfor the last half hour."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Tch...\nSo they've been taken over..."
+      "<DBAF43F0>": "Tch... So they've\nbeen taken over..."
     },
     {
       "$id": 4,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "If they've taken over the City,\nit wouldn't be strange to be intercepted."
+      "<DBAF43F0>": "If they have taken over the\nCity, it would not be strange\nfor us to be intercepted."
     },
     {
       "$id": 9,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "This is fine."
+      "<DBAF43F0>": "This is how it should be."
     },
     {
       "$id": 12,

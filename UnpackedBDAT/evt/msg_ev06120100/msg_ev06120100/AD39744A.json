@@ -42,13 +42,13 @@
       "$id": 5,
       "<8C7DD24D>": "<B1B2609F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Again and again, you—and all people—"
+      "<DBAF43F0>": "Again and again, an unfathomable number of times,"
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<8CD48E99>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "have made an unfathomable number of choices."
+      "<DBAF43F0>": "you[ML:line len=1]and all people[ML:line len=1]have made your choices."
     },
     {
       "$id": 7,
@@ -84,13 +84,13 @@
       "$id": 12,
       "<8C7DD24D>": "<087CF2C5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "that time itself would stop?"
+      "<DBAF43F0>": "for time itself to stop?"
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<328AAE7D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That the \"now\" would continue for eternity?"
+      "<DBAF43F0>": "For the \"now\" to continue for eternity?"
     },
     {
       "$id": 14,
@@ -102,7 +102,7 @@
       "$id": 15,
       "<8C7DD24D>": "<FFF8EEF2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "defying the very principles of this world."
+      "<DBAF43F0>": "defying the very principles of this world..."
     },
     {
       "$id": 16,
@@ -114,13 +114,13 @@
       "$id": 17,
       "<8C7DD24D>": "<8BC24402>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "My name is Z."
+      "<DBAF43F0>": "My name is Z. The one who rules this [System:Ruby rt=Moebius ]world[/System:Ruby]..."
     },
     {
       "$id": 18,
       "<8C7DD24D>": "<B45DFF89>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The one who rules this [System:Ruby rt=Moebius ]world[/System:Ruby]..."
+      "<DBAF43F0>": "And I shall grant... that wish."
     }
   ]
 }

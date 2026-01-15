@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They're breathing!"
+      "<DBAF43F0>": "They're still breathing!"
     },
     {
       "$id": 3,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But that doesn't mean\nwe can just leave them like this."
+      "<DBAF43F0>": "Still, that doesn't mean we can\njust leave them like this."
     },
     {
       "$id": 6,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That thing from before...\nyou're looking for the real commander\nof this place, aren't you?"
+      "<DBAF43F0>": "That thing from before...\nyou're looking for the real\ncommander of this place, right?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll take care of things here.\nYou go and check if\nCommander Isurugi is safe."
+      "<DBAF43F0>": "We'll handle things here. You go\ncheck if Commander Isurugi is safe."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No... my apologies. I'm going!!"
+      "<DBAF43F0>": "No... my apologies. I'm going!"
     }
   ]
 }

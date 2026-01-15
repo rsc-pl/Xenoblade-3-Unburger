@@ -18,25 +18,25 @@
       "$id": 1,
       "<8C7DD24D>": "<BB7CC187>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp (blowing)"
+      "<DBAF43F0>": "[ML:undisp ](Blowing on soup)"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<C9E79843>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Hot!"
+      "<DBAF43F0>": "[ML:undisp ]Hot!"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<C388E5FC>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "What's wrong?"
+      "<DBAF43F0>": "What is it?"
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<F82C20D7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You're still no good with hot things, as usual."
+      "<DBAF43F0>": "Still no good with hot things, I see."
     },
     {
       "$id": 5,
@@ -54,7 +54,7 @@
       "$id": 7,
       "<8C7DD24D>": "<2E68D1EF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Well, the soup you made is delicious, though."
+      "<DBAF43F0>": "Well, the soup you made is delicious."
     },
     {
       "$id": 8,
@@ -72,19 +72,19 @@
       "$id": 10,
       "<8C7DD24D>": "<C88EF53F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's not flattery."
+      "<DBAF43F0>": "It isn't flattery."
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<E5F95A1C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Want some? As a taste-test."
+      "<DBAF43F0>": "Want some? Call it a taste-test."
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<8FAD145C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Seriously? It really pays to be an early riser."
+      "<DBAF43F0>": "Seriously? Guess it pays to be an early riser."
     },
     {
       "$id": 13,
@@ -96,7 +96,7 @@
       "$id": 14,
       "<8C7DD24D>": "<A17198F0>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's just become a habit for me."
+      "<DBAF43F0>": "It's just a habit."
     },
     {
       "$id": 15,
@@ -114,7 +114,7 @@
       "$id": 17,
       "<8C7DD24D>": "<9ACC4F50>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's been two months since that battlefield..."
+      "<DBAF43F0>": "It's already been two months since that battlefield..."
     },
     {
       "$id": 18,
@@ -156,7 +156,7 @@
       "$id": 24,
       "<8C7DD24D>": "<620EF922>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I had sorted out my feelings, telling\nmyself I had to move forward..."
+      "<DBAF43F0>": "I'd sorted out my feelings, telling\nmyself I had to move forward..."
     },
     {
       "$id": 25,
@@ -168,7 +168,7 @@
       "$id": 26,
       "<8C7DD24D>": "<8A1F2AA3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"Maybe this is impossible after all...\""
+      "<DBAF43F0>": "\"...Maybe this is impossible.\""
     },
     {
       "$id": 27,
@@ -180,7 +180,7 @@
       "$id": 28,
       "<8C7DD24D>": "<30DDD319>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "After hearing the truth from Monica-san\nand the others, probably..."
+      "<DBAF43F0>": "After hearing the truth from\nMonica-san and the others, I think..."
     },
     {
       "$id": 29,
@@ -204,7 +204,7 @@
       "$id": 32,
       "<8C7DD24D>": "<E2946F01>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's scary to hear it, isn't it."
+      "<DBAF43F0>": "It's scary, hearing it."
     },
     {
       "$id": 33,
@@ -222,7 +222,7 @@
       "$id": 35,
       "<8C7DD24D>": "<12D2423C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "you can't move forward if you don't hear it."
+      "<DBAF43F0>": "you can't move forward if you don't."
     },
     {
       "$id": 36,
@@ -240,19 +240,19 @@
       "$id": 38,
       "<8C7DD24D>": "<759AFE7A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "\"If you don't hear it, it's the same as it not existing...\""
+      "<DBAF43F0>": "\"If you don't encounter it, it's\nthe same as it not existing...\""
     },
     {
       "$id": 39,
       "<8C7DD24D>": "<67939B6A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Everyone wants to think that way, but reality is different."
+      "<DBAF43F0>": "Everyone wants to think that, but reality is different."
     },
     {
       "$id": 40,
       "<8C7DD24D>": "<5DA3B092>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It won't disappear just because you close your eyes."
+      "<DBAF43F0>": "Things don't just disappear because you close your eyes."
     },
     {
       "$id": 41,
@@ -270,7 +270,7 @@
       "$id": 43,
       "<8C7DD24D>": "<16E3BA90>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "As far as I can go, as long as\nthis life of mine continues..."
+      "<DBAF43F0>": "As far as I can go, for as long as\nthis life of mine continues..."
     },
     {
       "$id": 44,

@@ -18,43 +18,43 @@
       "$id": 1,
       "<8C7DD24D>": "<9F4F558B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "(gasping awake)"
+      "<DBAF43F0>": "[ML:undisp ]!"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<D07FF7EF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](distressed breathing)"
+      "<DBAF43F0>": "[ML:undisp ](panting)"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<A95DB060>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Morning!"
+      "<DBAF43F0>": "Morning."
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<0F774784>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You really should've dozed a while longer."
+      "<DBAF43F0>": "You could have slept in a while longer."
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<2F43FBBB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Oh... Good morning..."
+      "<DBAF43F0>": "Ah... Good morning..."
     },
     {
       "$id": 6,
       "<8C7DD24D>": "<8FCC4D6C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Wanna eat?"
+      "<DBAF43F0>": "Want some?"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<2C50FA2F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Wait... I forgot you don't like to eat right after waking."
+      "<DBAF43F0>": "Oh, that's right... you don't like\neating right after you wake up, do you?"
     },
     {
       "$id": 8,
@@ -66,31 +66,31 @@
       "$id": 9,
       "<8C7DD24D>": "<EBA6218E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Tomorrow's the day. The final battle against Moebius."
+      "<DBAF43F0>": "Tomorrow's the day... The final battle against Moebius."
     },
     {
       "$id": 10,
       "<8C7DD24D>": "<F577ADE1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We've come a long way to get here.\nNow it'll finally be over..."
+      "<DBAF43F0>": "Our long journey will finally be over..."
     },
     {
       "$id": 11,
       "<8C7DD24D>": "<96062592>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Huh..."
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 12,
       "<8C7DD24D>": "<F2ED73AB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's fine! I've got three whole days."
+      "<DBAF43F0>": "It's alright. I still have three whole days, you know?"
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<66C46F52>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Three days is plenty. I'm sure we'll be golden."
+      "<DBAF43F0>": "With that much time, we'll be fine."
     }
   ]
 }

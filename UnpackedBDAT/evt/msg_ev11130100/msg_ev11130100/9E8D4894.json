@@ -18,13 +18,13 @@
       "$id": 1,
       "<8C7DD24D>": "<AF069293>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]pant... pant... pant..."
+      "<DBAF43F0>": "[ML:undisp ](panting)"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<2DD11DCA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]pant... pant... pant..."
+      "<DBAF43F0>": "[ML:undisp ](panting)"
     },
     {
       "$id": 3,
@@ -48,13 +48,13 @@
       "$id": 6,
       "<8C7DD24D>": "<0792B0F6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]—!"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1]!"
     },
     {
       "$id": 7,
       "<8C7DD24D>": "<18B9455F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]—!"
+      "<DBAF43F0>": "[ML:undisp ][ML:line len=1]!"
     },
     {
       "$id": 8,

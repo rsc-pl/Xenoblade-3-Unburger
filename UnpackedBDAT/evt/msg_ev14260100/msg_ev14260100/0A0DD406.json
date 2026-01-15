@@ -24,7 +24,7 @@
       "$id": 2,
       "<8C7DD24D>": "<DA03CCAB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Ngh...![ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]Ngh...!"
     },
     {
       "$id": 3,
@@ -36,7 +36,7 @@
       "$id": 4,
       "<8C7DD24D>": "<48F19AFA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But this power...![ML:line len=1]"
+      "<DBAF43F0>": "But this power...!"
     },
     {
       "$id": 5,
@@ -48,7 +48,7 @@
       "$id": 6,
       "<8C7DD24D>": "<B0E1B07F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "This...[ML:line len=1]"
+      "<DBAF43F0>": "This..."
     },
     {
       "$id": 7,
@@ -90,25 +90,25 @@
       "$id": 13,
       "<8C7DD24D>": "<A1CF28F9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Ugh...[ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]Ugh..."
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<A6293A77>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Help me... Grandad...[ML:line len=1]"
+      "<DBAF43F0>": "Help me... Grandad..."
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<F5D25BCF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Na'el...[ML:line len=1]"
+      "<DBAF43F0>": "Na'el..."
     },
     {
       "$id": 16,
       "<8C7DD24D>": "<15EF7971>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It is over,[ML:line len=1]"
+      "<DBAF43F0>": "It is over,"
     },
     {
       "$id": 17,
@@ -120,7 +120,7 @@
       "$id": 18,
       "<8C7DD24D>": "<D4203744>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]N-No...[ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]N-No..."
     },
     {
       "$id": 19,
@@ -132,13 +132,13 @@
       "$id": 20,
       "<8C7DD24D>": "<D0770501>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!"
+      "<DBAF43F0>": "[ML:undisp ]!"
     },
     {
       "$id": 21,
       "<8C7DD24D>": "<75E51956>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "She's family, damn it![ML:line len=1 ] Na'el is!"
+      "<DBAF43F0>": "She's family, damn it! Na'el is!"
     },
     {
       "$id": 22,
@@ -150,19 +150,19 @@
       "$id": 23,
       "<8C7DD24D>": "<4E000BF9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 24,
       "<8C7DD24D>": "<FB6537C6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:line len=1]What about... Mom?"
+      "<DBAF43F0>": "What about... Mom?"
     },
     {
       "$id": 25,
       "<8C7DD24D>": "<560C2853>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!?"
+      "<DBAF43F0>": "[ML:undisp ]!?"
     },
     {
       "$id": 26,
@@ -174,7 +174,7 @@
       "$id": 27,
       "<8C7DD24D>": "<0C504207>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:line len=1]She doesn't need to know."
+      "<DBAF43F0>": "She doesn't need to know."
     },
     {
       "$id": 28,
@@ -186,13 +186,13 @@
       "$id": 29,
       "<8C7DD24D>": "<3A1B4D94>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp [ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ](sigh)"
     },
     {
       "$id": 30,
       "<8C7DD24D>": "<C79AA22E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm sure...[ML:line len=1]"
+      "<DBAF43F0>": "I'm sure..."
     },
     {
       "$id": 31,
@@ -210,7 +210,7 @@
       "$id": 33,
       "<8C7DD24D>": "<939CF5C6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "But...[ML:line len=1]"
+      "<DBAF43F0>": "But..."
     },
     {
       "$id": 34,
@@ -222,7 +222,7 @@
       "$id": 35,
       "<8C7DD24D>": "<E7D355A6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Ghondor...[ML:line len=1]"
+      "<DBAF43F0>": "Ghondor..."
     }
   ]
 }

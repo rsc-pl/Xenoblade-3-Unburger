@@ -18,7 +18,7 @@
       "$id": 1,
       "<8C7DD24D>": "<F18F08AF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Right then...[ML:line len=1]"
+      "<DBAF43F0>": "Right then..."
     },
     {
       "$id": 2,
@@ -132,7 +132,7 @@
       "$id": 20,
       "<8C7DD24D>": "<61E7EF93>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!"
+      "<DBAF43F0>": "[ML:undisp ]!"
     },
     {
       "$id": 21,
@@ -204,7 +204,7 @@
       "$id": 32,
       "<8C7DD24D>": "<C8145583>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "In that case...[ML:line len=1]"
+      "<DBAF43F0>": "In that case..."
     },
     {
       "$id": 33,
@@ -216,7 +216,7 @@
       "$id": 34,
       "<8C7DD24D>": "<D2402377>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]?"
+      "<DBAF43F0>": "[ML:undisp ]?"
     },
     {
       "$id": 35,
@@ -270,7 +270,7 @@
       "$id": 43,
       "<8C7DD24D>": "<D3FBC373>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 44,
@@ -294,19 +294,19 @@
       "$id": 47,
       "<8C7DD24D>": "<3D8D837E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 48,
       "<8C7DD24D>": "<7483FCD5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Master...[ML:line len=1]"
+      "<DBAF43F0>": "Master..."
     },
     {
       "$id": 49,
       "<8C7DD24D>": "<9CCB0809>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Sensei...[ML:line len=1]"
+      "<DBAF43F0>": "Sensei..."
     },
     {
       "$id": 50,
@@ -324,13 +324,13 @@
       "$id": 52,
       "<8C7DD24D>": "<23F44806>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If it were \"them,\" I'm sure they'd\nbe happy to help, wouldn't they?"
+      "<DBAF43F0>": "You know \"they\" would've been happy to help, right?"
     },
     {
       "$id": 53,
       "<8C7DD24D>": "<B4D8EF0E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Hmph.[ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]Hmph."
     },
     {
       "$id": 54,
@@ -438,7 +438,7 @@
       "$id": 71,
       "<8C7DD24D>": "<75B50EDE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That this would happen...[ML:line len=1 ]"
+      "<DBAF43F0>": "That this would happen..."
     },
     {
       "$id": 72,

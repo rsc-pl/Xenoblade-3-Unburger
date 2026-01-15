@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "H-Hey, wait! Don't just\ntouch it without thinking—"
+      "<DBAF43F0>": "H-Hey, wait! Don't just\ntouch it without thinking[ML:line len=1]"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "[ML:undisp ]Huh—[ML:line ]"
+      "<DBAF43F0>": "[ML:undisp ]Huh[ML:line len=1][ML:line ]"
     }
   ]
 }

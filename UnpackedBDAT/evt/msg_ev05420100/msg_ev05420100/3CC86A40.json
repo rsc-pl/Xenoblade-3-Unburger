@@ -18,31 +18,31 @@
       "$id": 1,
       "<8C7DD24D>": "<6D0AA5D5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "[ML:undisp ](Panting)"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<64ACA1A4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "[ML:undisp ](Panting)"
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<87F7D885>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "[ML:undisp ](Panting)"
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<E11A7825>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "[ML:undisp ](Panting)"
     },
     {
       "$id": 5,
       "<8C7DD24D>": "<592D1377>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "[ML:undisp ](Panting)"
     },
     {
       "$id": 6,
@@ -84,25 +84,25 @@
       "$id": 12,
       "<8C7DD24D>": "<1F58CA57>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Kuh—!"
+      "<DBAF43F0>": "[ML:undisp ]Kuh[ML:line len=1]!"
     },
     {
       "$id": 13,
       "<8C7DD24D>": "<399012DD>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Kuh—!"
+      "<DBAF43F0>": "[ML:undisp ]Kuh[ML:line len=1]!"
     },
     {
       "$id": 14,
       "<8C7DD24D>": "<C6D979ED>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Kuh—!"
+      "<DBAF43F0>": "[ML:undisp ]Kuh[ML:line len=1]!"
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<AD57B207>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Kuh—!"
+      "<DBAF43F0>": "[ML:undisp ]Kuh[ML:line len=1]!"
     },
     {
       "$id": 16,
@@ -150,7 +150,7 @@
       "$id": 23,
       "<8C7DD24D>": "<3E5BA39A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Still, what the hell is going on?"
+      "<DBAF43F0>": "Still, what the hell is goin' on?"
     },
     {
       "$id": 24,
@@ -174,7 +174,7 @@
       "$id": 27,
       "<8C7DD24D>": "<2B36813F>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Pay attention to the movements of the Mondo."
+      "<DBAF43F0>": "Pay attention to the movements of my Mondo."
     },
     {
       "$id": 28,
@@ -198,13 +198,13 @@
       "$id": 31,
       "<8C7DD24D>": "<7683EB60>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Focus for now."
+      "<DBAF43F0>": "Focus."
     },
     {
       "$id": 32,
       "<8C7DD24D>": "<AF226A84>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If my concentration wavers, I'll lose in an instant."
+      "<DBAF43F0>": "If your concentration wavers, you will lose in an instant."
     }
   ]
 }

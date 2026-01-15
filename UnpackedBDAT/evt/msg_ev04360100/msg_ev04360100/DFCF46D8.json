@@ -24,7 +24,7 @@
       "$id": 2,
       "<8C7DD24D>": "<CAFFDCF8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Indeed, it looks like we can sneak into those, mo."
+      "<DBAF43F0>": "Indeed, it looks like we can sneak into those, desu mo."
     },
     {
       "$id": 3,
@@ -48,7 +48,7 @@
       "$id": 6,
       "<8C7DD24D>": "<70CB8EAB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If a guard happens to spot us, we take them down quickly."
+      "<DBAF43F0>": "If a guard happens to spot us, we\ntake them down quickly and quietly."
     },
     {
       "$id": 7,
@@ -240,7 +240,7 @@
       "$id": 38,
       "<8C7DD24D>": "<3914EB99>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yeah. We can't afford to slack off. Let's do right away."
+      "<DBAF43F0>": "Yeah. We can't afford to slack off.\nLet's get it done right away."
     }
   ]
 }

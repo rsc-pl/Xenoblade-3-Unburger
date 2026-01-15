@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey, look!"
+      "<DBAF43F0>": "Hey, look over there!"
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's the squad that went ahead of us."
+      "<DBAF43F0>": "It's the squad that\nwent ahead of us."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Volffs?"
+      "<DBAF43F0>": "Volffs."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The real operation is still ahead of us.\nIf they're being held up, we should help."
+      "<DBAF43F0>": "The real operation hasn't\neven started. If they're being\nheld up, we should help."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I thought you'd say that."
+      "<DBAF43F0>": "Knew you'd say that."
     },
     {
       "$id": 7,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah. Let's take them down quickly."
+      "<DBAF43F0>": "Yeah. Let's take 'em down quick."
     }
   ]
 }

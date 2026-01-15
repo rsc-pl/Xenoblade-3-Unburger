@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I didn't make such a promise—"
+      "<DBAF43F0>": "I didn't make such a promise[ML:line len=1]"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Wha— You people,\nwhat are you doing—"
+      "<DBAF43F0>": "Wha[ML:line len=1] You people,\nwhat are you doing[ML:line len=1]"
     },
     {
       "$id": 11,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Then I'll—"
+      "<DBAF43F0>": "Then I'll[ML:line len=1]"
     },
     {
       "$id": 27,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I haven't said I'm going in yet—"
+      "<DBAF43F0>": "I haven't said I'm going in yet[ML:line len=1]"
     }
   ]
 }

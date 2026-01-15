@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "Why do you know my name?"
+      "<DBAF43F0>": "How do you know my name?"
     },
     {
       "$id": 7,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I can guess people's names\njust like that."
+      "<DBAF43F0>": "I can guess people's\nnames just like that."
     },
     {
       "$id": 16,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "If I suddenly say, \"You're the regenerated\nNami-san,\""
+      "<DBAF43F0>": "If I suddenly say, \"You're\nthe regenerated Nami-san,\""
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "a normal person wouldn't believe me."
+      "<DBAF43F0>": "a normal person\nwouldn't believe me."
     },
     {
       "$id": 24,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "It took us a while to get here, too, after\nexperiencing so much, right?"
+      "<DBAF43F0>": "It took us a while to get here, too,\nafter experiencing so much, right?"
     },
     {
       "$id": 26,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "I don't think it's just about the regeneration."
+      "<DBAF43F0>": "I don't think it's just\nabout the regeneration."
     },
     {
       "$id": 37,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "There was someone who looked a lot like you, from that person..."
+      "<DBAF43F0>": "There was someone who looked a lot\nlike you... from that person..."
     },
     {
       "$id": 48,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "...You all came\nfrom the outside, didn't you?"
+      "<DBAF43F0>": "...You all came from the\noutside, didn't you?"
     },
     {
       "$id": 51,
@@ -558,7 +558,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "We don't know anything other than this place."
+      "<DBAF43F0>": "We don't know anything\nother than this place."
     },
     {
       "$id": 54,
@@ -578,7 +578,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's... the rule..."
+      "<DBAF43F0>": "That... is the rule..."
     },
     {
       "$id": 56,
@@ -598,7 +598,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's not..."
+      "<DBAF43F0>": "It is not..."
     },
     {
       "$id": 58,
@@ -608,7 +608,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's not a wonderful place."
+      "<DBAF43F0>": "a wonderful place."
     }
   ]
 }

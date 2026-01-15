@@ -18,13 +18,13 @@
       "$id": 1,
       "<8C7DD24D>": "<43730A08>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]pant... pant... pant..."
+      "<DBAF43F0>": "[ML:undisp ](panting)"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<97365BAA>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]pant... pant... pant..."
+      "<DBAF43F0>": "[ML:undisp ](panting)"
     },
     {
       "$id": 3,
@@ -54,7 +54,7 @@
       "$id": 7,
       "<8C7DD24D>": "<000C8D77>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "There is a camp ahead—"
+      "<DBAF43F0>": "There is a camp ahead[ML:line len=1]"
     },
     {
       "$id": 8,
@@ -90,7 +90,7 @@
       "$id": 13,
       "<8C7DD24D>": "<5073CF5D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I am—"
+      "<DBAF43F0>": "I am[ML:line len=1]"
     },
     {
       "$id": 14,

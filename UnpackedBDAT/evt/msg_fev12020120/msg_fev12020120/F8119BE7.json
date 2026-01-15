@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A monster...!\nI wonder if that person was okay..."
+      "<DBAF43F0>": "A monster...! I wonder if\nthat person was alright..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Who knows.\nBut right now, you should\nbe worried about yourself."
+      "<DBAF43F0>": "Who knows. But right now, you\nshould be worried about yourself."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't get carried away, Matthew.\nWe'll use a combination attack here."
+      "<DBAF43F0>": "Do not get carried away, Matthew. We\nwill use a combination attack here."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, sounds good!\nJust make sure you keep up, A!"
+      "<DBAF43F0>": "Yeah, sounds good! Just\nmake sure you keep up, A!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmph... You too!"
+      "<DBAF43F0>": "Hmph... You as well."
     }
   ]
 }

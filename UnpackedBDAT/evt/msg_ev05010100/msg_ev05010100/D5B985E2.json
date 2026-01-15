@@ -18,13 +18,13 @@
       "$id": 1,
       "<8C7DD24D>": "<94EFB509>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Hah!"
+      "<DBAF43F0>": "[ML:undisp ]Hup!"
     },
     {
       "$id": 2,
       "<8C7DD24D>": "<C8A538B7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Hiyah!"
+      "<DBAF43F0>": "[ML:undisp ]Hah!"
     },
     {
       "$id": 3,
@@ -36,7 +36,7 @@
       "$id": 4,
       "<8C7DD24D>": "<2D5561D4>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ](exert with weapon)"
+      "<DBAF43F0>": "[ML:undisp ]Hraah!"
     },
     {
       "$id": 5,
@@ -48,7 +48,7 @@
       "$id": 6,
       "<8C7DD24D>": "<5CB7E186>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "There's no point if you don't hit anything."
+      "<DBAF43F0>": "Doesn't mean a thing if you don't hit anything."
     },
     {
       "$id": 7,
@@ -60,13 +60,13 @@
       "$id": 8,
       "<8C7DD24D>": "<4176AE3B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm saying, no matter how much you swing that big thing\naround, you can't defeat an enemy if you don't land a hit."
+      "<DBAF43F0>": "I'm sayin', swing that big thing around all you want.\nYou can't beat an enemy if you don't land a hit."
     },
     {
       "$id": 9,
       "<8C7DD24D>": "<24A124FE>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "I'm just traini--"
+      "<DBAF43F0>": "I was just traini[ML:line len=1]"
     },
     {
       "$id": 10,
@@ -156,13 +156,13 @@
       "$id": 24,
       "<8C7DD24D>": "<046E5ADF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "She's something else... Took out five eighth-termers."
+      "<DBAF43F0>": "She's somethin' else... Took out five eighth-termers."
     },
     {
       "$id": 25,
       "<8C7DD24D>": "<1DBE6193>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Mio is a Sender, isn't she?"
+      "<DBAF43F0>": "Mio's a Sender, right?"
     },
     {
       "$id": 26,
@@ -234,13 +234,13 @@
       "$id": 37,
       "<8C7DD24D>": "<B2EF2C93>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It's a little early, but want to go eat?"
+      "<DBAF43F0>": "It's a little early, but wanna go?"
     },
     {
       "$id": 38,
       "<8C7DD24D>": "<B0907FB5>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Yeah! If you're going, Mio-chan!"
+      "<DBAF43F0>": "Yeah, if you're going, Mio-chan!"
     }
   ]
 }

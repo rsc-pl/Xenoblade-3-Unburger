@@ -30,13 +30,13 @@
       "$id": 3,
       "<8C7DD24D>": "<2D93BE7D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "A worm that yearned to fly in the sky..."
+      "<DBAF43F0>": "A worm that yearned to fly..."
     },
     {
       "$id": 4,
       "<8C7DD24D>": "<621B1414>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "A worm that spent day after day looking up at\nthe birds, flying freely in the great expanse."
+      "<DBAF43F0>": "a worm that spent day after day looking up at\nthe birds, flying freely in the great expanse."
     },
     {
       "$id": 5,
@@ -282,7 +282,7 @@
       "$id": 45,
       "<8C7DD24D>": "<D12E6772>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "It was a smile of vict—"
+      "<DBAF43F0>": "It was a smile of vict[ML:line len=1]"
     },
     {
       "$id": 46,
@@ -738,7 +738,7 @@
       "$id": 121,
       "<8C7DD24D>": "<102AA049>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "ML:undisp"
+      "<DBAF43F0>": "[ML:undisp ](retching)"
     },
     {
       "$id": 122,

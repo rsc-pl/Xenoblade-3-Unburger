@@ -54,7 +54,7 @@
       "$id": 7,
       "<8C7DD24D>": "<84F8386B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "How did you...?[ML:line len=1]"
+      "<DBAF43F0>": "How did you...?"
     },
     {
       "$id": 8,
@@ -108,13 +108,13 @@
       "$id": 16,
       "<8C7DD24D>": "<51FA36E7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:line len=1]When did they get here?"
+      "<DBAF43F0>": "When did they get here?"
     },
     {
       "$id": 17,
       "<8C7DD24D>": "<AB52A8AB>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Senseei~"
+      "<DBAF43F0>": "Sensei!"
     },
     {
       "$id": 18,
@@ -174,7 +174,7 @@
       "$id": 27,
       "<8C7DD24D>": "<0A5AB729>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 28,
@@ -288,7 +288,7 @@
       "$id": 46,
       "<8C7DD24D>": "<327BD341>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "So...[ML:line len=1]"
+      "<DBAF43F0>": "So..."
     },
     {
       "$id": 47,

@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You mean... we were able to\naccomplish this because it was us?"
+      "<DBAF43F0>": "You mean... we were able to\naccomplish this because it was *us*?"
     },
     {
       "$id": 6,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It is thanks to all of you that we\nhave come this far. I am truly glad\nthat I could fight alongside you."
+      "<DBAF43F0>": "It is thanks to all of you that we\nhave come this far. I am truly glad\nI could fight alongside you."
     },
     {
       "$id": 9,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I-I see... When you say it so\ndirectly, it's a little embarrassing."
+      "<DBAF43F0>": "I-I see... When you say it so directly,\nit is a little embarrassing."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 268451969,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But Taion, you were the one who—"
+      "<DBAF43F0>": "But Taion, you were the one who[ML:line len=1]"
     },
     {
       "$id": 20,

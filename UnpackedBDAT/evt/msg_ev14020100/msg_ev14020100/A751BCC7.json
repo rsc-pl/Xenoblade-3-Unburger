@@ -24,13 +24,13 @@
       "$id": 2,
       "<8C7DD24D>": "<C45BDFA1>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:line len=1]I'm okay."
+      "<DBAF43F0>": "I'm okay."
     },
     {
       "$id": 3,
       "<8C7DD24D>": "<C0116F8D>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 4,
@@ -42,7 +42,7 @@
       "$id": 5,
       "<8C7DD24D>": "<A035F62E>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They weren't totally unlike those Moebius\nvanguard types, but...[ML:line len=1]"
+      "<DBAF43F0>": "They weren't totally unlike those\nMoebius vanguard types, but..."
     },
     {
       "$id": 6,
@@ -144,7 +144,7 @@
       "$id": 22,
       "<8C7DD24D>": "<0D8CCB7A>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:line len=1]Shall we head back?"
+      "<DBAF43F0>": "Shall we head back?"
     },
     {
       "$id": 23,
@@ -168,37 +168,37 @@
       "$id": 26,
       "<8C7DD24D>": "<6D0D68C6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]Yeah..."
+      "<DBAF43F0>": "[ML:undisp ]Yeah..."
     },
     {
       "$id": 27,
       "<8C7DD24D>": "<215F5A91>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]?"
+      "<DBAF43F0>": "[ML:undisp ]?"
     },
     {
       "$id": 28,
       "<8C7DD24D>": "<E79ABE25>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Let us go...[ML:line len=1]"
+      "<DBAF43F0>": "Let us go..."
     },
     {
       "$id": 29,
       "<8C7DD24D>": "<9463DD65>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "To a new world.[ML:line len=1]"
+      "<DBAF43F0>": "To a new world."
     },
     {
       "$id": 30,
       "<8C7DD24D>": "<DCB4BBA8>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "Abandon the old things, and be with the new...[ML:line ]"
+      "<DBAF43F0>": "Abandon the old things, and be with the new..."
     },
     {
       "$id": 31,
       "<8C7DD24D>": "<086702E2>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]"
+      "<DBAF43F0>": "[ML:undisp ]..."
     },
     {
       "$id": 32,
@@ -210,7 +210,7 @@
       "$id": 33,
       "<8C7DD24D>": "<B58F8FA6>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ][ML:line len=1 ]!"
+      "<DBAF43F0>": "[ML:undisp ]!"
     },
     {
       "$id": 34,
@@ -228,7 +228,7 @@
       "$id": 36,
       "<8C7DD24D>": "<30AA7843>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "S-Sorry... I'm coming.[ML:line ]"
+      "<DBAF43F0>": "S-Sorry... I'm coming."
     }
   ]
 }
