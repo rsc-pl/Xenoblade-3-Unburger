@@ -96,13 +96,13 @@
       "$id": 14,
       "<8C7DD24D>": "<F1259BB7>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]Hmph...[ML:line ]"
+      "<DBAF43F0>": "[ML:undisp ]Hmph[ML:line ]"
     },
     {
       "$id": 15,
       "<8C7DD24D>": "<3262B2EF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "You are just unbelievable...[ML:line len=1]"
+      "<DBAF43F0>": "You are just unbelievable[ML:line len=1]"
     }
   ]
 }

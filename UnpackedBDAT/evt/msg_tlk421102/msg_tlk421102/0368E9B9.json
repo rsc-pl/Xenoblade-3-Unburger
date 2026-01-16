@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ouroboros[ML:line ]... I'd like\nto request a rematch, but I'd like\nyou to wait a little longer."
+      "<DBAF43F0>": "Ouroboros[ML:line ] I'd like\nto request a rematch, but I'd like\nyou to wait a little longer."
     },
     {
       "$id": 2,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hmm[ML:line ]... So the strategy\nof waiting for time to run out\nwon't work[ML:line ]..."
+      "<DBAF43F0>": "Hmm[ML:line ] So the strategy\nof waiting for time to run out\nwon't work[ML:line ]"
     }
   ]
 }
