@@ -444,7 +444,7 @@
       "$id": 72,
       "<8C7DD24D>": "<D0004196>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Go south-east from Ribbi Flats."
+      "<DBAF43F0>": "Go south-east from Ribbi Plains."
     },
     {
       "$id": 73,
@@ -456,7 +456,7 @@
       "$id": 74,
       "<8C7DD24D>": "<831EAC3D>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Climb the cliff near Elsie's Spout,\nthen head south-east."
+      "<DBAF43F0>": "Climb the cliff near Elsie Falls,\nthen head south-east."
     },
     {
       "$id": 75,
@@ -564,7 +564,7 @@
       "$id": 92,
       "<8C7DD24D>": "<B4F49813>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Rest up at the Titan Rock Camp."
+      "<DBAF43F0>": "Rest up at the Divine Beast Rock Camp."
     },
     {
       "$id": 93,
@@ -876,13 +876,13 @@
       "$id": 144,
       "<8C7DD24D>": "<409B2926>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Head for Captocorn Peak, where the\nCloudkeep and Colony Omega are."
+      "<DBAF43F0>": "Head for Captocorn Ridge, where the\nCloudkeep and Colony Omega are."
     },
     {
       "$id": 145,
       "<8C7DD24D>": "<07FEE187>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Head for the Cloudkeep and Colony\nOmega, found at Captocorn Peak."
+      "<DBAF43F0>": "Head for the Cloudkeep and Colony\nOmega, found at Captocorn Ridge."
     },
     {
       "$id": 146,
@@ -894,7 +894,7 @@
       "$id": 147,
       "<8C7DD24D>": "<72FD5543>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Go through Captocorn Peak, and\nreach the Cloudkeep."
+      "<DBAF43F0>": "Go through Captocorn Ridge, and\nreach the Cloudkeep."
     },
     {
       "$id": 148,
@@ -1374,7 +1374,7 @@
       "$id": 227,
       "<8C7DD24D>": "<E4880E91>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Before beginning the prison rescue operation,\nyou'll first need to talk to Kisame in Vinisog Holm.\nBoard the Boundary and set out to the Erythia Sea."
+      "<DBAF43F0>": "Before beginning the prison rescue operation,\nyou'll first need to talk to Kisame in Binning Island.\nBoard the Boundary and set out to the Erythia Sea."
     },
     {
       "$id": 228,
@@ -1386,13 +1386,13 @@
       "$id": 229,
       "<8C7DD24D>": "<6F071B51>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Vinisog Holm"
+      "<DBAF43F0>": "Binning Island"
     },
     {
       "$id": 230,
       "<8C7DD24D>": "<45187AF4>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Rendezvous with the Lost Numbers\nsoldier at Vinisog Holm."
+      "<DBAF43F0>": "Rendezvous with the Lost Numbers\nsoldier at Binning Island."
     },
     {
       "$id": 231,
@@ -1416,7 +1416,7 @@
       "$id": 234,
       "<8C7DD24D>": "<8DF10A14>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "At Vinisog Holm Camp, discuss\n\"Li Garte Prison Information\"."
+      "<DBAF43F0>": "At Binning Island Camp, discuss\n\"Li Garte Prison Information\"."
     },
     {
       "$id": 235,
@@ -1626,7 +1626,7 @@
       "$id": 269,
       "<8C7DD24D>": "<5BCBABDC>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Everblight Plain"
+      "<DBAF43F0>": "Incurable Plains"
     },
     {
       "$id": 270,
@@ -1710,7 +1710,7 @@
       "$id": 283,
       "<8C7DD24D>": "<3DE9148C>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Fourth Rouia Bridge"
+      "<DBAF43F0>": "Fourth Ixia Bridge"
     },
     {
       "$id": 284,
@@ -1728,7 +1728,7 @@
       "$id": 286,
       "<8C7DD24D>": "<1BA0609E>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Ascension Hall elevator"
+      "<DBAF43F0>": "Hall of Holy Flight elevator"
     },
     {
       "$id": 287,
@@ -1818,7 +1818,7 @@
       "$id": 301,
       "<8C7DD24D>": "<7DD10412>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Clearwater Shelf Area"
+      "<DBAF43F0>": "Blue Water Rock Shelf Area"
     },
     {
       "$id": 302,
@@ -1836,13 +1836,13 @@
       "$id": 304,
       "<8C7DD24D>": "<CBEE9D02>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Lost Colony Barracks"
+      "<DBAF43F0>": "Forgotten Colony Barracks"
     },
     {
       "$id": 305,
       "<8C7DD24D>": "<A6F6DF3A>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Lost Colony Iron Giant"
+      "<DBAF43F0>": "Forgotten Colony Iron Giant"
     },
     {
       "$id": 306,
@@ -1890,7 +1890,7 @@
       "$id": 313,
       "<8C7DD24D>": "<44C4713B>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Centrilo Parade"
+      "<DBAF43F0>": "Central Avenue"
     },
     {
       "$id": 314,
@@ -1974,7 +1974,7 @@
       "$id": 327,
       "<8C7DD24D>": "<82D531BF>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Galghour's Menhir"
+      "<DBAF43F0>": "Guuga's Huge Rock"
     },
     {
       "$id": 328,
@@ -2148,7 +2148,7 @@
       "$id": 356,
       "<8C7DD24D>": "<AB156B4B>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Cave at Pira Bluffs"
+      "<DBAF43F0>": "Cave at Pillar Cliffs"
     },
     {
       "$id": 357,
@@ -2214,7 +2214,7 @@
       "$id": 367,
       "<8C7DD24D>": "<B0F36997>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Search for Ethel around\nCentrilo Parade."
+      "<DBAF43F0>": "Search for Ethel around\nCentral Avenue."
     },
     {
       "$id": 368,
@@ -2238,7 +2238,7 @@
       "$id": 371,
       "<8C7DD24D>": "<145FBC06>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Remembrance Stones"
+      "<DBAF43F0>": "Monument of Life"
     },
     {
       "$id": 372,
@@ -2304,7 +2304,7 @@
       "$id": 382,
       "<8C7DD24D>": "<ACF9F9A6>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Elsie's Spout"
+      "<DBAF43F0>": "Elsie Falls"
     },
     {
       "$id": 383,
@@ -2328,7 +2328,7 @@
       "$id": 386,
       "<8C7DD24D>": "<EBA5FC6E>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Glam Rock"
+      "<DBAF43F0>": "Gurumu Rock"
     },
     {
       "$id": 387,
@@ -2370,7 +2370,7 @@
       "$id": 393,
       "<8C7DD24D>": "<EE2D0E15>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Everblight Plain"
+      "<DBAF43F0>": "Incurable Plains"
     },
     {
       "$id": 394,
@@ -2664,7 +2664,7 @@
       "$id": 442,
       "<8C7DD24D>": "<3E46FA7D>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Bed of Woes and Wishes"
+      "<DBAF43F0>": "Flower Field of Mourning and Hope"
     },
     {
       "$id": 443,
@@ -2718,7 +2718,7 @@
       "$id": 451,
       "<8C7DD24D>": "<84D3D38F>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Nocclia Mire"
+      "<DBAF43F0>": "Nocclia Cesspool"
     },
     {
       "$id": 452,
@@ -2742,7 +2742,7 @@
       "$id": 455,
       "<8C7DD24D>": "<52355B19>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Having been reunited with No. 13, Nagiri finally saw\nthe path she must take. She will forever be thankful\nto Sena for her kindness."
+      "<DBAF43F0>": "Having been reunited with No. 2, Nagiri finally saw\nthe path she must take. She will forever be thankful\nto Sena for her kindness."
     },
     {
       "$id": 456,
@@ -2760,7 +2760,7 @@
       "$id": 458,
       "<8C7DD24D>": "<07F57404>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Chase down No. 13."
+      "<DBAF43F0>": "Chase down No. 2."
     },
     {
       "$id": 459,
@@ -2802,7 +2802,7 @@
       "$id": 465,
       "<8C7DD24D>": "<F236A849>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Visura Parkland Camp, North"
+      "<DBAF43F0>": "Woodlands Viewpoint Camp, North"
     },
     {
       "$id": 466,
@@ -2814,7 +2814,7 @@
       "$id": 467,
       "<8C7DD24D>": "<2353CF48>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "The party make an unusual find in Millick Meadows,\nbringing them into conflict with an unidentified man,\nwho was searching for the same thing."
+      "<DBAF43F0>": "The party make an unusual find in Millick Plains,\nbringing them into conflict with an unidentified man,\nwho was searching for the same thing."
     },
     {
       "$id": 468,
@@ -3024,7 +3024,7 @@
       "$id": 502,
       "<8C7DD24D>": "<358F8460>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Centrilo Parade"
+      "<DBAF43F0>": "Central Avenue"
     },
     {
       "$id": 503,
@@ -3144,7 +3144,7 @@
       "$id": 522,
       "<8C7DD24D>": "<608B3208>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Wraiths' Void"
+      "<DBAF43F0>": "Wailing Demon Cave"
     },
     {
       "$id": 523,
@@ -3222,7 +3222,7 @@
       "$id": 535,
       "<8C7DD24D>": "<1E5954C5>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Leonardo's friends were killed by monsters while on a\nmission. Head to Sonata Saddleback to see them off."
+      "<DBAF43F0>": "Leonardo's friends were killed by monsters while on a\nmission. Head to Resonance Hill to see them off."
     },
     {
       "$id": 536,
@@ -3234,7 +3234,7 @@
       "$id": 537,
       "<8C7DD24D>": "<7EFFDD3E>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Sonata Saddleback"
+      "<DBAF43F0>": "Resonance Hill"
     },
     {
       "$id": 538,
@@ -3384,7 +3384,7 @@
       "$id": 562,
       "<8C7DD24D>": "<964037AB>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Namba Mound supplies"
+      "<DBAF43F0>": "Nabam Hills supplies"
     },
     {
       "$id": 563,
@@ -3408,7 +3408,7 @@
       "$id": 566,
       "<8C7DD24D>": "<524226F1>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Namba Mound"
+      "<DBAF43F0>": "Nabam Hills"
     },
     {
       "$id": 567,
@@ -3444,7 +3444,7 @@
       "$id": 572,
       "<8C7DD24D>": "<BDC87AE0>",
       "<554EE944>": 79,
-      "<DBAF43F0>": "Tobimaru's squad at Ribbi Flats"
+      "<DBAF43F0>": "Tobimaru's squad at Ribbi Plains"
     },
     {
       "$id": 573,
@@ -3552,7 +3552,7 @@
       "$id": 590,
       "<8C7DD24D>": "<C838F835>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Zooza"
+      "<DBAF43F0>": "Zezu"
     },
     {
       "$id": 591,
@@ -3642,7 +3642,7 @@
       "$id": 605,
       "<8C7DD24D>": "<86C1590B>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Find the Nopon in the\nVista of Rhonnar area."
+      "<DBAF43F0>": "Find the Nopon in the\nVista of Rona area."
     },
     {
       "$id": 606,
@@ -3960,13 +3960,13 @@
       "$id": 658,
       "<8C7DD24D>": "<ED3C7FAC>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "His promise to Colony 30's previous Sender Radek\nnow fulfilled, See-Mee-Mee is on course to inherit\nhis role and become \"See-Mee-Off\"."
+      "<DBAF43F0>": "His promise to Colony 30's previous Sender Rado\nnow fulfilled, Shimimi is on course to inherit\nhis role and become \"See-Mee-Off\"."
     },
     {
       "$id": 659,
       "<8C7DD24D>": "<2DBA3B38>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Rutez Barr"
+      "<DBAF43F0>": "Lutes Hill"
     },
     {
       "$id": 660,
@@ -4038,7 +4038,7 @@
       "$id": 671,
       "<8C7DD24D>": "<5EA475F7>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Sparres Barr Area"
+      "<DBAF43F0>": "Spas Hill Area"
     },
     {
       "$id": 672,
@@ -4050,7 +4050,7 @@
       "$id": 673,
       "<8C7DD24D>": "<1759D04C>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Lisza Garden Area"
+      "<DBAF43F0>": "Liza's Garden Area"
     },
     {
       "$id": 674,
@@ -4062,13 +4062,13 @@
       "$id": 675,
       "<8C7DD24D>": "<B6450BB4>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Pulipuli raises concerns when he comes up in\nconversation with Ubebee. Find him hiding\nin maintenance to discuss Mechafriend."
+      "<DBAF43F0>": "Burebure raises concerns when he comes up in\nconversation with Ubebee. Find him hiding\nin maintenance to discuss Mechafriend."
     },
     {
       "$id": 676,
       "<8C7DD24D>": "<28AF2D8C>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Pulipuli hindered the Dorrick project for Niina's\nsake. But Rudi still forgave him, and they resolved\nto work together on finishing Dorrick."
+      "<DBAF43F0>": "Burebure hindered the Dorrick project for Niina's\nsake. But Rudi still forgave him, and they resolved\nto work together on finishing Dorrick."
     },
     {
       "$id": 677,
@@ -4146,7 +4146,7 @@
       "$id": 689,
       "<8C7DD24D>": "<EBA84C34>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Despite Pulipuli's underhanded wrecking of Dorrick\nand Mechafriend, the bonds of trust within Colony 30\nare now deeper than ever. Back to work!"
+      "<DBAF43F0>": "Despite Burebure's underhanded wrecking of Dorrick\nand Mechafriend, the bonds of trust within Colony 30\nare now deeper than ever. Back to work!"
     },
     {
       "$id": 690,
@@ -4176,7 +4176,7 @@
       "$id": 694,
       "<8C7DD24D>": "<2BD806C2>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Laprel Knoll"
+      "<DBAF43F0>": "Laprel Hill"
     },
     {
       "$id": 695,
@@ -4278,7 +4278,7 @@
       "$id": 711,
       "<8C7DD24D>": "<98FB9F06>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Elsayer Cape"
+      "<DBAF43F0>": "Elsea Gorge"
     },
     {
       "$id": 712,
@@ -4404,7 +4404,7 @@
       "$id": 732,
       "<8C7DD24D>": "<68FABB67>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Clearwater Shelf"
+      "<DBAF43F0>": "Blue Water Rock Shelf"
     },
     {
       "$id": 733,
@@ -4428,7 +4428,7 @@
       "$id": 736,
       "<8C7DD24D>": "<1118F796>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Clearwater Shelf"
+      "<DBAF43F0>": "Blue Water Rock Shelf"
     },
     {
       "$id": 737,
@@ -4440,7 +4440,7 @@
       "$id": 738,
       "<8C7DD24D>": "<5CBAE0A3>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Clearwater Shelf"
+      "<DBAF43F0>": "Blue Water Rock Shelf"
     },
     {
       "$id": 739,
@@ -4458,7 +4458,7 @@
       "$id": 741,
       "<8C7DD24D>": "<785C269E>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Plenty of food was procured, but things got awkward\nwhen Tallow and Ayase ended up in an argument.\nSome time will be needed to heal the colony's unity."
+      "<DBAF43F0>": "Plenty of food was procured, but things got awkward\nwhen Tarou and Ayase ended up in an argument.\nSome time will be needed to heal the colony's unity."
     },
     {
       "$id": 742,
@@ -4482,7 +4482,7 @@
       "$id": 745,
       "<8C7DD24D>": "<DB0A811B>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Tallow's rep has worsened. To\nresolve the discord in Mu, you\nlend an ear to everyone again."
+      "<DBAF43F0>": "Tarou's rep has worsened. To\nresolve the discord in Mu, you\nlend an ear to everyone again."
     },
     {
       "$id": 746,
@@ -4500,7 +4500,7 @@
       "$id": 748,
       "<8C7DD24D>": "<1CDA5F73>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Make contributions to Colony Mu\nto get Point Stickers from Tallow."
+      "<DBAF43F0>": "Make contributions to Colony Mu\nto get Point Stickers from Tarou."
     },
     {
       "$id": 749,
@@ -4596,7 +4596,7 @@
       "$id": 764,
       "<8C7DD24D>": "<0DF96B4A>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "With Mu united and helping each other out, Mashiro is\nuneasy about how much less she has to do. Ask\nTallow if there's anything she can help out with."
+      "<DBAF43F0>": "With Mu united and helping each other out, Mashiro is\nuneasy about how much less she has to do. Ask\nTarou if there's anything she can help out with."
     },
     {
       "$id": 765,
@@ -4608,7 +4608,7 @@
       "$id": 766,
       "<8C7DD24D>": "<383C8F81>",
       "<554EE944>": 11,
-      "<DBAF43F0>": "Colony Mu, Tallow"
+      "<DBAF43F0>": "Colony Mu, Tarou"
     },
     {
       "$id": 767,
@@ -4890,7 +4890,7 @@
       "$id": 813,
       "<8C7DD24D>": "<DE718466>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "The ship Dana was on was attacked by rebels.\nThe attack's mastermind, Ragzy, was stopped,\nbut Dana's life couldn't be saved..."
+      "<DBAF43F0>": "The ship Dana was on was attacked by rebels.\nThe attack's mastermind, Rakuza, was stopped,\nbut Dana's life couldn't be saved..."
     },
     {
       "$id": 814,
@@ -5520,7 +5520,7 @@
       "$id": 918,
       "<8C7DD24D>": "<A9267F57>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "First Rouia Bridge"
+      "<DBAF43F0>": "First Ixia Bridge"
     },
     {
       "$id": 919,
@@ -5730,7 +5730,7 @@
       "$id": 953,
       "<8C7DD24D>": "<E8A02EDE>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Ashera at First Rouia Bridge"
+      "<DBAF43F0>": "Ashera at First Ixia Bridge"
     },
     {
       "$id": 954,
@@ -5790,13 +5790,13 @@
       "$id": 963,
       "<8C7DD24D>": "<61FD2775>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Penshia Portal Area"
+      "<DBAF43F0>": "Penshia Rock Gate Area"
     },
     {
       "$id": 964,
       "<8C7DD24D>": "<7DFB5350>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Rendezvous with Zuoren, Easel and\nClad at the First Rouia Bridge."
+      "<DBAF43F0>": "Rendezvous with Zuoren, Easel and\nClad at the First Ixia Bridge."
     },
     {
       "$id": 965,
@@ -5952,7 +5952,7 @@
       "$id": 990,
       "<8C7DD24D>": "<491CEF67>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Easel at Caitlin Drum"
+      "<DBAF43F0>": "Easel at Katara Hill"
     },
     {
       "$id": 991,
@@ -6372,7 +6372,7 @@
       "$id": 1060,
       "<8C7DD24D>": "<E442C6A0>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Namba Mound"
+      "<DBAF43F0>": "Nabam Hills"
     },
     {
       "$id": 1061,
@@ -6528,7 +6528,7 @@
       "$id": 1086,
       "<8C7DD24D>": "<2F1CCBF7>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Search for the Mechapod Carthegia\nin Lavi Sandbar."
+      "<DBAF43F0>": "Search for the Mechapod Carthegia\nin Ravia Dune Island."
     },
     {
       "$id": 1087,
@@ -6576,7 +6576,7 @@
       "$id": 1094,
       "<8C7DD24D>": "<A69B5F1B>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Llyn Nyddwr"
+      "<DBAF43F0>": "Lake Neus"
     },
     {
       "$id": 1095,
@@ -6588,7 +6588,7 @@
       "$id": 1096,
       "<8C7DD24D>": "<1DCFA8B9>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Llyn Nyddwr Camp"
+      "<DBAF43F0>": "Lake Neus Camp"
     },
     {
       "$id": 1097,
@@ -7302,19 +7302,19 @@
       "$id": 1215,
       "<8C7DD24D>": "<7B6F9B6A>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Water of Rhonnar"
+      "<DBAF43F0>": "Water of Rona"
     },
     {
       "$id": 1216,
       "<8C7DD24D>": "<6AB64A60>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "It is said in Colony Tau that the Spring of Rhonnar's\nwater makes you stronger. Lanz and Sena want to\nsee if it's true. Go investigate the rumor."
+      "<DBAF43F0>": "It is said in Colony Tau that the Spring of Rona's\nwater makes you stronger. Lanz and Sena want to\nsee if it's true. Go investigate the rumor."
     },
     {
       "$id": 1217,
       "<8C7DD24D>": "<F01A2933>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "According to Nasori's survey, the composition of\nRhonnar's Spring is just like that of Quarquaka's...\nThus dies another one of Colony Tau's superstitions."
+      "<DBAF43F0>": "According to Nasori's survey, the composition of\nRona's Spring is just like that of Kokoke's...\nThus dies another one of Colony Tau's superstitions."
     },
     {
       "$id": 1218,
@@ -7440,7 +7440,7 @@
       "$id": 1238,
       "<8C7DD24D>": "<DBB154DA>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "The newbies' training will end with large-scale\nmaneuvers on Everblight Plain. Head there."
+      "<DBAF43F0>": "The newbies' training will end with large-scale\nmaneuvers on Incurable Plains. Head there."
     },
     {
       "$id": 1239,
@@ -7452,7 +7452,7 @@
       "$id": 1240,
       "<8C7DD24D>": "<DEC68B33>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Everblight Plain"
+      "<DBAF43F0>": "Incurable Plains"
     },
     {
       "$id": 1241,
@@ -7476,7 +7476,7 @@
       "$id": 1244,
       "<8C7DD24D>": "<E76677CA>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Kyrie on Everblight Plain"
+      "<DBAF43F0>": "Kyrie on Incurable Plains"
     },
     {
       "$id": 1245,
@@ -8106,7 +8106,7 @@
       "$id": 1349,
       "<8C7DD24D>": "<4EA23050>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Spring of Rhonnar"
+      "<DBAF43F0>": "Spring of Rona"
     },
     {
       "$id": 1350,
@@ -8256,7 +8256,7 @@
       "$id": 1374,
       "<8C7DD24D>": "<AD18B9DD>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "The City children appear to be\nplanning something in Ribelly\nSquare. Go and see what's up."
+      "<DBAF43F0>": "The City children appear to be\nplanning something in Liberi\nSquare. Go and see what's up."
     },
     {
       "$id": 1375,
@@ -8316,31 +8316,31 @@
       "$id": 1384,
       "<8C7DD24D>": "<91F4D6D2>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Caelum Residential Quarter"
+      "<DBAF43F0>": "Caelum Residential District"
     },
     {
       "$id": 1385,
       "<8C7DD24D>": "<12D70566>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Caelum Residential Quarter"
+      "<DBAF43F0>": "Caelum Residential District"
     },
     {
       "$id": 1386,
       "<8C7DD24D>": "<376409B1>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Vinisog Holm"
+      "<DBAF43F0>": "Binning Island"
     },
     {
       "$id": 1387,
       "<8C7DD24D>": "<594DF3AB>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Vinisog Holm"
+      "<DBAF43F0>": "Binning Island"
     },
     {
       "$id": 1388,
       "<8C7DD24D>": "<D07D20E1>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Ribelly Plaza"
+      "<DBAF43F0>": "Liberi Plaza"
     },
     {
       "$id": 1389,
@@ -8352,7 +8352,7 @@
       "$id": 1390,
       "<8C7DD24D>": "<9699DA21>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Mxene Tech Quarter"
+      "<DBAF43F0>": "Machina Workshop District"
     },
     {
       "$id": 1391,
@@ -8364,7 +8364,7 @@
       "$id": 1392,
       "<8C7DD24D>": "<31C25E68>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Shillshill has asked you to confirm names and\nbring back stones from Nopon belonging to each\ncaravan. You can take your time with this one."
+      "<DBAF43F0>": "Siljil has asked you to confirm names and\nbring back stones from Nopon belonging to each\ncaravan. You can take your time with this one."
     },
     {
       "$id": 1393,
@@ -8394,7 +8394,7 @@
       "$id": 1397,
       "<8C7DD24D>": "<329480F0>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Koma has been fully rehydrated.\nHe's going to the Hillside Iron Giant\nHulk, where Shillshill is waiting."
+      "<DBAF43F0>": "Koma has been fully rehydrated.\nHe's going to the Hillside Iron Giant\nHulk, where Siljil is waiting."
     },
     {
       "$id": 1398,
@@ -8502,7 +8502,7 @@
       "$id": 1415,
       "<8C7DD24D>": "<FB52DB44>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "The stone search was successful.\nGotsugotsu entrusted the party\nwith a stone to give to Shillshill."
+      "<DBAF43F0>": "The stone search was successful.\nGotsugotsu entrusted the party\nwith a stone to give to Siljil."
     },
     {
       "$id": 1416,
@@ -8532,19 +8532,19 @@
       "$id": 1420,
       "<8C7DD24D>": "<0DCF8ADC>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Caelum Residential Quarter Area"
+      "<DBAF43F0>": "Caelum Residential District Area"
     },
     {
       "$id": 1421,
       "<8C7DD24D>": "<6B03AF27>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Centrilo Parade Area"
+      "<DBAF43F0>": "Central Avenue Area"
     },
     {
       "$id": 1422,
       "<8C7DD24D>": "<5325C2BF>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Centrilo Parade"
+      "<DBAF43F0>": "Central Avenue"
     },
     {
       "$id": 1423,
@@ -8556,7 +8556,7 @@
       "$id": 1424,
       "<8C7DD24D>": "<71B1C648>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Remembrance Stones Area"
+      "<DBAF43F0>": "Monument of Life Area"
     },
     {
       "$id": 1425,
@@ -8646,19 +8646,19 @@
       "$id": 1439,
       "<8C7DD24D>": "<EB2E6B2A>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Remembrance Stones"
+      "<DBAF43F0>": "Monument of Life"
     },
     {
       "$id": 1440,
       "<8C7DD24D>": "<88FD69F9>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Ribelly Plaza"
+      "<DBAF43F0>": "Liberi Plaza"
     },
     {
       "$id": 1441,
       "<8C7DD24D>": "<10DC412A>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Caelum Residential Quarter"
+      "<DBAF43F0>": "Caelum Residential District"
     },
     {
       "$id": 1442,
@@ -8676,7 +8676,7 @@
       "$id": 1444,
       "<8C7DD24D>": "<4B20067A>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Lavi Sandbar"
+      "<DBAF43F0>": "Ravia Dune Island"
     },
     {
       "$id": 1445,
@@ -8766,19 +8766,19 @@
       "$id": 1459,
       "<8C7DD24D>": "<23392C44>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Twinpalm Isle"
+      "<DBAF43F0>": "Yashiyashi Island"
     },
     {
       "$id": 1460,
       "<8C7DD24D>": "<350D40C9>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Lavi Sandbar"
+      "<DBAF43F0>": "Ravia Dune Island"
     },
     {
       "$id": 1461,
       "<8C7DD24D>": "<7ED98031>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Nilni at Lavi Sandbar"
+      "<DBAF43F0>": "Nilni at Ravia Dune Island"
     },
     {
       "$id": 1462,
@@ -9006,7 +9006,7 @@
       "$id": 1499,
       "<8C7DD24D>": "<C6F57611>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Search for treasure at the\nCay of the Trick Grotto."
+      "<DBAF43F0>": "Search for treasure at the\nTrick Cave Island."
     },
     {
       "$id": 1500,
@@ -9078,7 +9078,7 @@
       "$id": 1511,
       "<8C7DD24D>": "<93C3828D>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Investigate the mysterious light that has appeared\non the banks of Llyn Nyddwr in the Fornis region.\n(You can get there starting partway through chapter 3.)"
+      "<DBAF43F0>": "Investigate the mysterious light that has appeared\non the banks of Lake Neus in the Fornis region.\n(You can get there starting partway through chapter 3.)"
     },
     {
       "$id": 1512,
@@ -9096,7 +9096,7 @@
       "$id": 1514,
       "<8C7DD24D>": "<10BB6F8D>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "Investigate the light at Llyn Nyddwr."
+      "<DBAF43F0>": "Investigate the light at Lake Neus."
     },
     {
       "$id": 1515,
@@ -9204,31 +9204,31 @@
       "$id": 1532,
       "<8C7DD24D>": "<2B5CE581>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Going Full HD"
+      "<DBAF43F0>": "Deluxe Modification Request"
     },
     {
       "$id": 1533,
       "<8C7DD24D>": "<036012DB>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "In order to upgrade their HD Ether Cylinders+,\nthe party decides to visit Sunny and Cheerio's\ncaravan."
+      "<DBAF43F0>": "In order to upgrade their HD Ether Cylinders+,\nthe party decides to visit Terunii and Okinii's\ncaravan."
     },
     {
       "$id": 1534,
       "<8C7DD24D>": "<EDEF23E5>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "The HD Ether Cylinder+ model was upgraded\nwithout a hitch! Totoma also seemed willing to upgrade\nit further, provided you could supply the materials."
+      "<DBAF43F0>": "The DX Ether Cylinder model was upgraded\nwithout a hitch! Tomatoma also seemed willing to upgrade\nit further, provided you could supply the materials."
     },
     {
       "$id": 1535,
       "<8C7DD24D>": "<729E87CC>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "Namba Mound Camp"
+      "<DBAF43F0>": "Nabam Hills Camp"
     },
     {
       "$id": 1536,
       "<8C7DD24D>": "<07B395D3>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Give Totoma the necessary materials\nto upgrade the HD Ether Cylinder+."
+      "<DBAF43F0>": "Give Tomatoma the necessary materials\nto upgrade the DX Ether Cylinder."
     },
     {
       "$id": 1537,
@@ -9348,7 +9348,7 @@
       "$id": 1556,
       "<8C7DD24D>": "<CF02DFF8>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "Virid Park"
+      "<DBAF43F0>": "Viride Park"
     },
     {
       "$id": 1557,
@@ -9780,7 +9780,7 @@
       "$id": 1628,
       "<8C7DD24D>": "<B3994678>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "Yesterdale, Gotrock Oracle Ruins"
+      "<DBAF43F0>": "Nostalgia Mountains, Getorix Oracle Ruins"
     },
     {
       "$id": 1629,
@@ -9906,19 +9906,19 @@
       "$id": 1649,
       "<8C7DD24D>": "<BECD2A4D>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Bobobi's Bad, Bad Day"
+      "<DBAF43F0>": "Bororo's Bad, Bad Day"
     },
     {
       "$id": 1650,
       "<8C7DD24D>": "<DC43BB26>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Caravan apprentice Bobobi is in need of help.\nStart off by investigating the site where he was attacked\nand see if you can ascertain what happened."
+      "<DBAF43F0>": "Caravan apprentice Bororo is in need of help.\nStart off by investigating the site where he was attacked\nand see if you can ascertain what happened."
     },
     {
       "$id": 1651,
       "<8C7DD24D>": "<A893412D>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Bobobi has set up shop in Colony 9!\nBring him any Nopon Medals and he'll gladly\ntake them off your hands."
+      "<DBAF43F0>": "Bororo has set up shop in Colony 9!\nBring him any Nopon Medals and he'll gladly\ntake them off your hands."
     },
     {
       "$id": 1652,
@@ -9972,13 +9972,13 @@
       "$id": 1660,
       "<8C7DD24D>": "<06F5AD85>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Locate and bring back Babalulu, who went missing\nwhile out foraging for dinner."
+      "<DBAF43F0>": "Locate and bring back Barubaru, who went missing\nwhile out foraging for dinner."
     },
     {
       "$id": 1661,
       "<8C7DD24D>": "<C501E492>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "You found Babalulu safe and sound.\nTo thank you for your kind deed, he gave\nyou the recipe he was using for dinner."
+      "<DBAF43F0>": "You found Barubaru safe and sound.\nTo thank you for your kind deed, he gave\nyou the recipe he was using for dinner."
     },
     {
       "$id": 1662,
@@ -9990,7 +9990,7 @@
       "$id": 1663,
       "<8C7DD24D>": "<3EE11FE6>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "Search for Babalulu."
+      "<DBAF43F0>": "Search for Barubaru."
     },
     {
       "$id": 1664,
@@ -10068,13 +10068,13 @@
       "$id": 1676,
       "<8C7DD24D>": "<74B31C4B>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Join Kayleigh in a search for the lost Harby."
+      "<DBAF43F0>": "Join Kelly in a search for the lost Himito."
     },
     {
       "$id": 1677,
       "<8C7DD24D>": "<83F8C26C>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "His doubts at last dispelled, Harby vows to stand\nby Kayleigh, come what may. Their true journey is\nonly just beginning..."
+      "<DBAF43F0>": "His doubts at last dispelled, Himito vows to stand\nby Kelly, come what may. Their true journey is\nonly just beginning..."
     },
     {
       "$id": 1678,
@@ -10128,25 +10128,25 @@
       "$id": 1686,
       "<8C7DD24D>": "<32E92CEA>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "Yesterdale, Ruined Anti-Air Battery 3"
+      "<DBAF43F0>": "Nostalgia Mountains, Ruined Anti-Air Battery 3"
     },
     {
       "$id": 1687,
       "<8C7DD24D>": "<26F002AA>",
       "<554EE944>": 15,
-      "<DBAF43F0>": "Georgie's Ask"
+      "<DBAF43F0>": "Kopami's Ask"
     },
     {
       "$id": 1688,
       "<8C7DD24D>": "<6B38D61F>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Listen to Georgie's request and\nhelp her set up the canteen."
+      "<DBAF43F0>": "Listen to Kopami's request and\nhelp her set up the canteen."
     },
     {
       "$id": 1689,
       "<8C7DD24D>": "<25C3F24C>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "As thanks for the assistance, Georgie taught Matthew\nher curry recipe. He seemed rather pleased about the\ndevelopment."
+      "<DBAF43F0>": "As thanks for the assistance, Kopami taught Matthew\nher curry recipe. He seemed rather pleased about the\ndevelopment."
     },
     {
       "$id": 1690,
@@ -10194,19 +10194,19 @@
       "$id": 1697,
       "<8C7DD24D>": "<A556278A>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Recruit some labor for the task of recreating\nthe Remembrance Stones at Colony 9."
+      "<DBAF43F0>": "Recruit some labor for the task of recreating\nthe Monument of Life at Colony 9."
     },
     {
       "$id": 1698,
       "<8C7DD24D>": "<B8260D6A>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "With Ruben and Cathy on board, you managed to get\nthe first new Remembrance Stone erected at Colony 9.\nThis marks the first step toward the City's restoration..."
+      "<DBAF43F0>": "With Raigou and Cathy on board, you managed to get\nthe first new Remembrance Stone erected at Colony 9.\nThis marks the first step toward the City's restoration..."
     },
     {
       "$id": 1699,
       "<8C7DD24D>": "<F01B34F0>",
       "<554EE944>": 49,
-      "<DBAF43F0>": "Find people with expertise to help\nerect new Remembrance Stones."
+      "<DBAF43F0>": "Find people with expertise to help\nerect new Monument of Life."
     },
     {
       "$id": 1700,
@@ -10224,13 +10224,13 @@
       "$id": 1702,
       "<8C7DD24D>": "<7721256F>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Collect Nopon Medals for Bobobi."
+      "<DBAF43F0>": "Collect Nopon Medals for Bororo."
     },
     {
       "$id": 1703,
       "<8C7DD24D>": "<5F45233B>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "With all of the Nopon Medals in his possession, Bobobi\nwas able to become a fully-fledged Caravan Nopon...\nBut it seems he'll be kicking back at Colony 9 for now."
+      "<DBAF43F0>": "With all of the Nopon Medals in his possession, Bororo\nwas able to become a fully-fledged Caravan Nopon...\nBut it seems he'll be kicking back at Colony 9 for now."
     },
     {
       "$id": 1704,
@@ -10308,7 +10308,7 @@
       "$id": 1716,
       "<8C7DD24D>": "<C3AD14E8>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Accompany Dillon and Mickey on their\nsearch for the missing children."
+      "<DBAF43F0>": "Accompany Dillon and Ricky on their\nsearch for the missing children."
     },
     {
       "$id": 1717,
@@ -10320,7 +10320,7 @@
       "$id": 1718,
       "<8C7DD24D>": "<C909A441>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "Yesterdale, Tephra Hill Area"
+      "<DBAF43F0>": "Nostalgia Mountains, Tephra Hill Area"
     },
     {
       "$id": 1719,
@@ -10356,7 +10356,7 @@
       "$id": 1724,
       "<8C7DD24D>": "<E24DE40B>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "Yesterdale, Outlook Park"
+      "<DBAF43F0>": "Nostalgia Mountains, Outlook Park"
     },
     {
       "$id": 1725,
@@ -10386,7 +10386,7 @@
       "$id": 1729,
       "<8C7DD24D>": "<19E7C7AA>",
       "<554EE944>": 19,
-      "<DBAF43F0>": "The Ragmos Desolation, Raguel Lake"
+      "<DBAF43F0>": "Lagunaria Ruins, Raguel Lake"
     },
     {
       "$id": 1730,
@@ -10404,7 +10404,7 @@
       "$id": 1732,
       "<8C7DD24D>": "<DACE77EE>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Go and recover the abandoned supply cache.\nPeridot and Eow appear to know its location."
+      "<DBAF43F0>": "Go and recover the abandoned supply cache.\nBerthold and Iyo appear to know its location."
     },
     {
       "$id": 1733,
@@ -10704,7 +10704,7 @@
       "$id": 1782,
       "<8C7DD24D>": "<8427FD6A>",
       "<554EE944>": 89,
-      "<DBAF43F0>": "Tiny Timtim gave you design documents for improving\nthe X-Reader's functions. Collect the required materials\nand try upgrading it."
+      "<DBAF43F0>": "Tiny gave you design documents for improving\nthe X-Reader's functions. Collect the required materials\nand try upgrading it."
     },
     {
       "$id": 1783,

@@ -2154,7 +2154,7 @@
       "$id": 357,
       "<8C7DD24D>": "<4A47B299>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Sell-only items will be automatically sold to Shillshill\nthe Nopon trader as you acquire them. (If you can't\ncarry any more money, they'll simply disappear.)"
+      "<DBAF43F0>": "Sell-only items will be automatically sold to Siljil\nthe Nopon trader as you acquire them. (If you can't\ncarry any more money, they'll simply disappear.)"
     },
     {
       "$id": 358,
@@ -3354,7 +3354,7 @@
       "$id": 557,
       "<8C7DD24D>": "<8A7911AE>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Collecting a certain amount of High Ether from\nEther Spheres will award you with a filled\nHD Ether Cylinder+."
+      "<DBAF43F0>": "Collecting a certain amount of High Ether from\nEther Spheres will award you with a filled\nDX Ether Cylinder."
     },
     {
       "$id": 558,
@@ -3420,7 +3420,7 @@
       "$id": 568,
       "<8C7DD24D>": "<6ACE9EDC>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Sunny and Cheerio's Nopon caravan, whom the party\nassisted, is staying at the Fornis region's Namba Mound\nCamp. You can improve your HD Ether Cylinders+ there."
+      "<DBAF43F0>": "Terunii and Okinii's Nopon caravan, whom the party\nassisted, is staying at the Fornis region's Nabam Hills\nCamp. You can improve your HD Ether Cylinders+ there."
     },
     {
       "$id": 569,
@@ -3450,7 +3450,7 @@
       "$id": 573,
       "<8C7DD24D>": "<902D3E04>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "To travel to the Land of Challenge, just approach the\nportal by the Llyn Nyddwr Camp in the Fornis Region\nand press [ML:icon icon=btn_a ] to interact with it."
+      "<DBAF43F0>": "To travel to the Land of Challenge, just approach the\nportal by the Lake Neus Camp in the Fornis Region\nand press [ML:icon icon=btn_a ] to interact with it."
     },
     {
       "$id": 574,
@@ -4068,7 +4068,7 @@
       "$id": 676,
       "<8C7DD24D>": "<7A1F1DDF>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "In Bobobi's Shoppe, you can trade in Nopon Medals for\nkey items which automatically grant Amulet Bonuses. You\ncan check their status in Party Skills > Amulet Bonuses."
+      "<DBAF43F0>": "In Bororo Shop, you can trade in Nopon Medals for\nkey items which automatically grant Amulet Bonuses. You\ncan check their status in Party Skills > Amulet Bonuses."
     },
     {
       "$id": 677,
@@ -5232,13 +5232,13 @@
       "$id": 870,
       "<8C7DD24D>": "<7A91DE57>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "If you happen to find any Nopon Medals on your travels\nacross the world, you can trade them at Bobobi's Shoppe\nin Colony 9 for some special reward items."
+      "<DBAF43F0>": "If you happen to find any Nopon Medals on your travels\nacross the world, you can trade them at Bororo Shop\nin Colony 9 for some special reward items."
     },
     {
       "$id": 871,
       "<8C7DD24D>": "<CF000BCE>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "The items you can obtain at Bobobi's Shoppe have the\nability to increase the effects of your Amulet Bonuses."
+      "<DBAF43F0>": "The items you can obtain at Bororo Shop have the\nability to increase the effects of your Amulet Bonuses."
     },
     {
       "$id": 872,
