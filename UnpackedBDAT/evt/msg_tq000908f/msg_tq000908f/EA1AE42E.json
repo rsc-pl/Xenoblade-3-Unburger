@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, ask me anything. I have\ncaused you trouble as well."
+      "<DBAF43F0>": "Yes, ask me anything. I've\ncaused you trouble as well."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To fight alongside you once more."
+      "<DBAF43F0>": "I want to fight alongside\nyou once more."
     },
     {
       "$id": 17,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When you need me, do not\nhesitate to call. I will rush\nto you, no matter where I am."
+      "<DBAF43F0>": "When you need me, do not\nhesitate to call. I'll rush\nto you, no matter where I am."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you! Commander."
+      "<DBAF43F0>": "Thank you, Commander!"
     },
     {
       "$id": 25,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems you are blessed\nwith good comrades, Taion."
+      "<DBAF43F0>": "It seems you're blessed\nwith good comrades, Taion."
     }
   ]
 }

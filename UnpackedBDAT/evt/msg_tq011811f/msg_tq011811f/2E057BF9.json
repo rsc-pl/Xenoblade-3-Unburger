@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Are you alright!? Are you inju[ML:line len=1]"
+      "<DBAF43F0>": "Are you alright!? Are you\ninjured[ML:line len=1]"
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "At least you seem to be safe\nfor now. Thank goodness..."
+      "<DBAF43F0>": "At least you seem safe for\nnow. Thank goodness..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, we've narrowly avoided the\nworst-case scenario... But..."
+      "<DBAF43F0>": "Yes, we've narrowly avoided the\nworst-case scenario... However..."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That appearance, your words, your\ndemeanor... You're like a completely\ndifferent person from before, but..."
+      "<DBAF43F0>": "Your appearance, your words, your\ndemeanor... you are like a completely\ndifferent person, and yet..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The fact that you know this place\nmeans my eyes did not deceive me."
+      "<DBAF43F0>": "the fact that you know of this place\nmeans my eyes did not deceive me."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Are you alone? Do\nyou have any allies?"
+      "<DBAF43F0>": "...Are you alone? Are\nthere others with you?"
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The last life burning within\nits Flame Clock... is me."
+      "<DBAF43F0>": "The last life still burning\nin its Flame Clock... is me."
     },
     {
       "$id": 12,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By the commander of Colony\nChi... By that man who bore\nthe name \"The All-Slayer\"..."
+      "<DBAF43F0>": "By the commander of Colony\nChi... By the man who bore\nthe name \"The All-Slayer\"..."
     },
     {
       "$id": 14,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I understand your desire. But\nwhy resort to such a measure...?"
+      "<DBAF43F0>": "...I understand your desire. But\nwhy resort to such tactics...?"
     },
     {
       "$id": 17,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Haha, if I didn't do something like\nthis, you would have run from me."
+      "<DBAF43F0>": "Haha, if I had not done so, you\nwould have simply run from me."
     },
     {
       "$id": 19,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That is precisely why I chose\na different path... ...so I\ncould live on, bearing my past."
+      "<DBAF43F0>": "That is precisely why I chose a different\npath... to live on, bearing my past."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do you really think such a\nconvenient excuse will satisfy\nthe soldiers who became corpses?"
+      "<DBAF43F0>": "Do you really think such a convenient\nexcuse will satisfy the soldiers\nwho became mere corpses?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Don't mess with me!"
+      "<DBAF43F0>": "...Don't mock me!"
     },
     {
       "$id": 24,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I-I have lived for this moment!\nI've endured the misery of\nbeing a pathetic survivor!"
+      "<DBAF43F0>": "I-I have lived for this moment!\nI've endured the misery of being\na pathetic, disgraceful survivor!"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But! That too will soon end!\nOnce I kill you, and offer\nyour life to my comrades...!"
+      "<DBAF43F0>": "But! That too will soon end! Once\nI have killed you, and offered\nyour life to my comrades...!"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Must you fight, no matter\nwhat...! Is there no other way[ML:line len=1]"
+      "<DBAF43F0>": "Must you fight, no matter what...! Is\nthere truly no other way[ML:line len=1]"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tch! Stop it! D-don't look down\non me! Don't look at me with those\neyes, as if I'm an insect...!"
+      "<DBAF43F0>": "Tch! Stop it! D-don't look down on\nme! Don't look at me with those\neyes, as if I'm some insect...!"
     },
     {
       "$id": 29,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll kill you... I'll kill you...!\nHow dare you... I'll make you pay[ML:line len=1]"
+      "<DBAF43F0>": "I'll kill you... I'll kill you...! How\ndare you... I'll make you[ML:line len=1]"
     },
     {
       "$id": 31,

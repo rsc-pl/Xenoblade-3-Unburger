@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You grind this up and\nthrow it into a bonfire."
+      "<DBAF43F0>": "You grind this up and\ntoss it into a bonfire."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I hear it gives off a lovely scent.\nThey're drawn to the smell, you see."
+      "<DBAF43F0>": "I hear it gives off a lovely scent.\nThey are drawn to the smell, you see."
     },
     {
       "$id": 6,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Goodness... I hate the forest,\nthere are so many bugs..."
+      "<DBAF43F0>": "Goodness... I do detest the forest,\nthere are so many insects..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "R-right... But I hear they\ndon't like smoke, so..."
+      "<DBAF43F0>": "R-right... But I hear they\ndislike smoke, so..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The bugs I hate the most are the ones\nwith lots of legs. What about you?"
+      "<DBAF43F0>": "The insects I detest the most are the\nones with many legs. What about you?"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "L-let's see... I'm used to\nseeing them... There aren't any\nI particularly... dislike..."
+      "<DBAF43F0>": "L-let's see... I'm used to them... There\naren't any I particularly... dislike..."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh, I see."
+      "<DBAF43F0>": "Oh, is that so?"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In a place like this, you tend to\nrun out of things to do, don't you?"
+      "<DBAF43F0>": "In a place like this, one tends to run\nout of things to do, does one not?"
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, well... we're used to it..."
+      "<DBAF43F0>": "Yes, well... we are used to it..."
     },
     {
       "$id": 19,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Throw in the flowers you just got. With\nthat, the preparations are complete."
+      "<DBAF43F0>": "Throw in the flowers you just\ngathered. With that, the\npreparations are complete."
     },
     {
       "$id": 22,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ufufu... I'm thinking of having you\nshow me the power of Ouroboros."
+      "<DBAF43F0>": "Ufufu... I am thinking of having you\nshow me the power of Ouroboros."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The smoke rising from the bonfire\nis just like a signal fire for\nthe start of a battle."
+      "<DBAF43F0>": "The smoke rising from the\nbonfire is just like a signal\nfire for the start of battle."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? What do you mean by[ML:line len=1]"
+      "<DBAF43F0>": "Huh? What do you mean\nby[ML:line len=1]"
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...This is bad!\nThey're back again!!"
+      "<DBAF43F0>": "...This is bad! They're back again!"
     },
     {
       "$id": 27,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You'll have to do your best, won't you?\nIn order to enjoy a more proper life."
+      "<DBAF43F0>": "You will have to do your best,\nwill you not? In order to enjoy\na more proper existence."
     }
   ]
 }

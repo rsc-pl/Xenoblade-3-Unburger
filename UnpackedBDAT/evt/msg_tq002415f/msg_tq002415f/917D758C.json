@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 7..."
+      "<DBAF43F0>": "Number Seven..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank goodness, you're safe."
+      "<DBAF43F0>": "Thank goodness, you are safe."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 4, are there any abnormalities?"
+      "<DBAF43F0>": "Number Four, are there\nany abnormalities?"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We're fine here. No. 10 and No. 8 are on\na mission, but they'll be back soon."
+      "<DBAF43F0>": "We are fine here. Number Ten and\nNumber Eight are on a mission,\nbut they will be back soon."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I will correct my statement. Are there any\nabnormalities in \"No. 4's condition\"?"
+      "<DBAF43F0>": "I will correct my statement.\nAre there any abnormalities in\n\"Number Four's condition\"?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A-Ah... I'm fine. No.\n4 can still fight."
+      "<DBAF43F0>": "A-Ah... I am fine. Number\nFour can still fight."
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No. 7 is not at fault. If anyone is to\nblame, it's the combat-ineffective No. 4."
+      "<DBAF43F0>": "Number Seven is not at fault. If\nanyone is to blame, it is the\ncombat-ineffective Number Four."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If I don't use the Iron Trooper's\n\"limiter,\" No. 4 can't fight properly[ML:line len=1]"
+      "<DBAF43F0>": "If I do not use the Iron Trooper's\n\"limiter,\" Number Four cannot\nfight properly[ML:line len=1]"
     }
   ]
 }

@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's someone inside Colony 30\nembezzling materials without permission."
+      "<DBAF43F0>": "There is someone inside Colony 30 embezzling\nmaterials without authorization."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Look at the Collepedia Card."
+      "<DBAF43F0>": "Look at the Collectopaedia Card."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The new Levnis you're designing\nis based on durability,\nserviceability, and ease of use."
+      "<DBAF43F0>": "The new Levnis you are designing\nis based on durability,\nserviceability, and ease of use."
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A brittle stone and a rare metal.\nWhat should we make of this?"
+      "<DBAF43F0>": "A brittle stone and a rare metal.\nWhat should we make of that?"
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're right... That's different\nfrom what I requested."
+      "<DBAF43F0>": "You're right... That's\nnot what I requested."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But, why does Niina have our\ncolony's Collepedia Card...?"
+      "<DBAF43F0>": "But, why do you have our colony's\nCollectopaedia Card, Niina...?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I told her about it. I thought\nit might be useful..."
+      "<DBAF43F0>": "I told her about it. Thought\nit might come in handy..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyway, do you have any\nidea who it could be?"
+      "<DBAF43F0>": "Putting that aside, do you have any\nidea who might be responsible?"
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not at all. Maybe it's\nsome kind of mistake?"
+      "<DBAF43F0>": "Not at all. Maybe it was\njust some kind of mistake?"
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, Kopan attacked \"us\" with\nhostile intent. In other words..."
+      "<DBAF43F0>": "No. Kopan attacked *us* with\nhostile intent. In other words..."
     },
     {
       "$id": 15,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Perhaps to make a poison?"
+      "<DBAF43F0>": "...Perhaps to create a poison."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Poison!?"
+      "<DBAF43F0>": "A poison!?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes. Both materials\ncontain a certain toxin."
+      "<DBAF43F0>": "Yes. Both of those materials\ncontain a certain toxin."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Its key characteristic is that it\nhas no taste or smell. If mixed with\nfood, you'd likely never notice."
+      "<DBAF43F0>": "Its key characteristic is its lack of\ntaste or smell. If mixed into food, it\nwould likely go completely unnoticed."
     },
     {
       "$id": 21,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It was a hobby of my Consul-sama. He\nbeat all sorts of things into me."
+      "<DBAF43F0>": "It was a hobby of my dear Consul. He\nbeat all sorts of things into me."
     },
     {
       "$id": 23,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It would depend on the\nconcentration, but..."
+      "<DBAF43F0>": "It would depend on the\nconcentration, I imagine, but..."
     },
     {
       "$id": 25,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Good. It looks like I can\nsomehow retrieve the logs."
+      "<DBAF43F0>": "...Good. It appears I\ncan retrieve the logs."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we analyze them, we should be able to\nfigure out where it came from, but..."
+      "<DBAF43F0>": "If we analyze them, we should be able to\ndetermine where it came from, but..."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's okay with me. Right now,\nwe need to find the bad guy."
+      "<DBAF43F0>": "Don't worry about me. Right now,\nwe need to find the culprit."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I'm sorry, for\nusing your friend."
+      "<DBAF43F0>": "...I am sorry, for what\nwas done to your friend."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It seems it was just\npretend, though."
+      "<DBAF43F0>": "It seems it was only\n\"pretending,\" though."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But, thank you for\nthinking of it that way."
+      "<DBAF43F0>": "But still... thank you for\nthinking of it that way."
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Honestly, so careless..."
+      "<DBAF43F0>": "Honestly, so full of openings..."
     },
     {
       "$id": 34,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's a reason, isn't there? Is\nthere anything we can do to help?"
+      "<DBAF43F0>": "There's a reason, isn't there?\nCan we not be of any help?"
     },
     {
       "$id": 37,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You already are.\nThat's why I'm troubled."
+      "<DBAF43F0>": "...You already are. That\nis why I am troubled."
     },
     {
       "$id": 38,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's nothing. Don't worry about it."
+      "<DBAF43F0>": "It is nothing. Do not\nconcern yourself."
     },
     {
       "$id": 40,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Good work. You wait here."
+      "<DBAF43F0>": "Good work. You will wait here."
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Commander, can I\nentrust Gaku to you?"
+      "<DBAF43F0>": "Commander, may I\nentrust Gaku to you?"
     },
     {
       "$id": 43,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? I was going to go with every[ML:line len=1]"
+      "<DBAF43F0>": "Huh? But I was going to go\nwith every[ML:line len=1]"
     },
     {
       "$id": 44,
@@ -468,7 +468,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There might be other\nunits like Kopan."
+      "<DBAF43F0>": "There may be other\nunits like Kopan."
     },
     {
       "$id": 45,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You're the only one who can identify\nthem. Let's split into two groups here."
+      "<DBAF43F0>": "You are the only one who can identify\nthem. Let us split up here."
     },
     {
       "$id": 46,

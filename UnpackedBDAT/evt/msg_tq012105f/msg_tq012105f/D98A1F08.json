@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hah, they're just a bunch of grunts\nwith numbers! Where are these guys[ML:line len=1]"
+      "<DBAF43F0>": "Hah, they're just a bunch of grunts\nwith numbers on their side! What's\nso special about[ML:line len=1]"
     },
     {
       "$id": 2,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "This is the \"hidden card.\"\nThey'll get up again and again."
+      "<DBAF43F0>": "This is the \"hidden card.\" They\nwill get up again and again."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Even so, if we've been pushed this\nfar, we have no choice but to fight!"
+      "<DBAF43F0>": "Even so, if we have been pushed this\nfar, we have no choice but to fight!"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No... For now, let's\nfall back to Colony 11."
+      "<DBAF43F0>": "No... For now, let us\nfall back to Colony 11."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For you, you're being\nunusually timid."
+      "<DBAF43F0>": "For you, you are being\nunusually timid."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I just have a really bad\nfeeling. In times like these,\nit's best to follow your gut."
+      "<DBAF43F0>": "I just have a very bad feeling.\nIn times like these, it is\nbest to follow one's gut."
     },
     {
       "$id": 10,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Zor and the others will lead\nthe main force in retreat.\nWe'll handle the rear guard."
+      "<DBAF43F0>": "Zor and the others will lead\nthe main force in retreat. We\nwill handle the rear guard."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood. Don't die\non me yet, Ashera."
+      "<DBAF43F0>": "Understood. Do not die\non me yet, Ashera."
     },
     {
       "$id": 13,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't engage them head-on! Just handle\nthem lightly and we'll retreat as well!"
+      "<DBAF43F0>": "Do not engage them head-on!\nJust handle them lightly and\nwe will retreat as well!"
     }
   ]
 }

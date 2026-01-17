@@ -25,7 +25,7 @@ CONFIG = {
         },
         "standard": {
             "name": "Standard (3-Line)",
-            "prefixes": ["msg_nq", "msg_ask", "msg_fev", "msg_cq", "msg_tq", "msg_tlk", "msg_sq"],
+            "prefixes": ["msg_ask", "msg_fev", "msg_tlk"],
             "max_lines": 3,
             "split_threshold_for_2": 35,
             "split_threshold_for_3": 80,
@@ -39,11 +39,36 @@ CONFIG = {
 # ==========================================
 
 def get_profile_for_path(file_path):
+    """
+    Determines the profile based on the file path / folder name.
+    1. Checks for Mixed types (msg_tq, msg_nq, etc) and looks for f/t/s suffix.
+    2. Checks for Pure Standard types.
+    3. Checks for Pure Cinematic types.
+    """
     norm_path = file_path.replace("\\", "/")
-    for prefix in CONFIG["profiles"]["cinematic"]["prefixes"]:
-        if prefix in norm_path: return CONFIG["profiles"]["cinematic"]
+
+    # 1. Mixed Category Logic (msg_nq, msg_cq, msg_tq, msg_sq)
+    # We look for the pattern: msg_tq + digits + optional letter (f, t, s)
+    # Regex: msg_[ncst]q followed by digits, capturing an optional trailing letter.
+    mixed_match = re.search(r'(msg_[ncst]q\d+)([a-zA-Z]?)', norm_path)
+
+    if mixed_match:
+        suffix = mixed_match.group(2)
+        # If there is a suffix letter (f, t, s), it's Standard (Voiced/Bubble)
+        if suffix and suffix.lower() in ['f', 't', 's']:
+            return CONFIG["profiles"]["standard"]
+        # If no suffix (just digits), it's Cinematic (Dialogue Box)
+        else:
+            return CONFIG["profiles"]["cinematic"]
+
+    # 2. Pure Standard Files (Check these BEFORE cinematic to handle msg_fev correctly vs msg_ev)
     for prefix in CONFIG["profiles"]["standard"]["prefixes"]:
         if prefix in norm_path: return CONFIG["profiles"]["standard"]
+
+    # 3. Pure Cinematic Files
+    for prefix in CONFIG["profiles"]["cinematic"]["prefixes"]:
+        if prefix in norm_path: return CONFIG["profiles"]["cinematic"]
+
     return None
 
 def clean_and_flatten(text):
@@ -141,12 +166,13 @@ def check_for_overflow(text_block, max_width):
 # ==========================================
 
 def process_single_file(file_path, log, err_log, stats, forced_profile=None):
-    # Determine which profile to use
+    # Determine which profile to use based on the FILE NAME/PATH
     if forced_profile:
         profile = forced_profile
     else:
         profile = get_profile_for_path(file_path)
 
+    # If no profile matches (and none forced), skip
     if not profile:
         return
 
@@ -219,8 +245,10 @@ MODES:
 2. Single Mode: Targets one specific file (use -single).
 
 LOGIC PROFILES:
-- Standard (3-Line): Max 55 chars/line. Used for msg_nq, msg_ask, etc.
-- Cinematic (2-Line): Max 75 chars/line. Used for msg_ev.
+- Standard (3-Line): Max 55 chars/line. Used for msg_fev, msg_ask, and 'Mixed' with f/t/s suffix.
+- Cinematic (2-Line): Max 75 chars/line. Used for msg_ev and 'Mixed' with no suffix.
+
+Mixed Prefixes: msg_nq, msg_cq, msg_tq, msg_sq
 """,
         formatter_class=argparse.RawTextHelpFormatter
     )
@@ -236,8 +264,8 @@ LOGIC PROFILES:
         type=int,
         choices=[2, 3],
         help="""Force a specific logic mode (Overrides folder detection):
-  2 = Cinematic Mode (Max 2 lines, 75 char limit, splits at 45)
-  3 = Standard Mode (Max 3 lines, 55 char limit, splits at 35/80)
+  2 = Cinematic Mode (Max 2 lines, 75 char limit)
+  3 = Standard Mode (Max 3 lines, 55 char limit)
 Use this with -single to test files outside the usual folders."""
     )
 
@@ -255,7 +283,14 @@ Use this with -single to test files outside the usual folders."""
         print(f"FORCED MODE: Using {forced_profile['name']} logic.")
 
     print("\nStarting Text Balancer...")
-    all_prefixes = CONFIG["profiles"]["cinematic"]["prefixes"] + CONFIG["profiles"]["standard"]["prefixes"]
+
+    # We only need specific prefixes for scanning optimization,
+    # but the logic inside get_profile_for_path handles the details.
+    # We include mixed prefixes (msg_nq, msg_tq etc) in the scan list.
+    mixed_prefixes = ["msg_nq", "msg_cq", "msg_tq", "msg_sq"]
+    all_prefixes = (CONFIG["profiles"]["cinematic"]["prefixes"] +
+                    CONFIG["profiles"]["standard"]["prefixes"] +
+                    mixed_prefixes)
 
     with open(CONFIG["log_file"], "w", encoding="utf-8") as log, \
          open(CONFIG["error_file"], "w", encoding="utf-8") as err_log:
@@ -264,11 +299,10 @@ Use this with -single to test files outside the usual folders."""
         if args.single:
             print(f"Targeting Single File: {args.single}")
             if os.path.exists(args.single):
-                # Use forced profile if provided, otherwise detect
                 if forced_profile or get_profile_for_path(args.single):
                     process_single_file(args.single, log, err_log, stats, forced_profile)
                 else:
-                    print(f"Skipping {args.single}: Path does not match known prefixes and no -mode specified.")
+                    print(f"Skipping {args.single}: Path does not match known prefixes.")
                     print("Tip: Use -mode 2 or -mode 3 to force processing.")
             else:
                 print(f"Error: File not found -> {args.single}")
@@ -277,12 +311,12 @@ Use this with -single to test files outside the usual folders."""
         else:
             print(f"Scanning Directory: {CONFIG['root_directory']}")
             for root, dirs, files in os.walk(CONFIG["root_directory"]):
+                # Optimization: Only enter folders that start with known prefixes
                 if not any(os.path.basename(root).startswith(p) for p in all_prefixes):
                     continue
+
                 for file in files:
                     if file.endswith(".json"):
-                        # Note: We pass forced_profile here too, just in case user wants to force
-                        # the ENTIRE batch to be 2 lines or 3 lines (rare but possible).
                         process_single_file(os.path.join(root, file), log, err_log, stats, forced_profile)
 
     print("\n" + "="*40)

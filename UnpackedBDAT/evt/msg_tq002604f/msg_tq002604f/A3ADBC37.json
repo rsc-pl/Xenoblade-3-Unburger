@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I left tracks for you, but I didn't\nexpect you to bring that with you."
+      "<DBAF43F0>": "I left tracks for you, but I did not\nexpect you to bring that with you."
     },
     {
       "$id": 5,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, right, names... We're[ML:line len=1]"
+      "<DBAF43F0>": "Ah, right, names...\nWe're[ML:line len=1]"
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't need them. Just\nstate your business."
+      "<DBAF43F0>": "I do not need them. Just\nstate your business."
     },
     {
       "$id": 18,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you could tell us the situation[ML:line len=1]"
+      "<DBAF43F0>": "If you could tell us the\nsituation[ML:line len=1]"
     },
     {
       "$id": 20,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Then, if it does concern us,\nyou'll be able to answer, right?"
+      "<DBAF43F0>": "...Then, if it does concern us, you\nwill be able to answer, right?"
     },
     {
       "$id": 24,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I am, of course, aware. That\nis why I lowered my gun."
+      "<DBAF43F0>": "I am, of course, aware. That\nis why I lowered my weapon."
     },
     {
       "$id": 46,
@@ -498,7 +498,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Wait... You were\nfollowed, weren't you?"
+      "<DBAF43F0>": "Wait... You were\nfollowed, were you not?"
     },
     {
       "$id": 48,
@@ -548,7 +548,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now we're in a mess because of you."
+      "<DBAF43F0>": "Now we are in a mess\nbecause of you."
     },
     {
       "$id": 53,

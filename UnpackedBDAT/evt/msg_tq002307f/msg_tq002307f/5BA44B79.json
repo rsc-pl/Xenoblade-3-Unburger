@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Who's loitering?"
+      "<DBAF43F0>": "Who is loitering?"
     },
     {
       "$id": 4,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Everything's fine! Right, Tarou?"
+      "<DBAF43F0>": "Everything is fine! Right, Tarou?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y-Yes, sir. We weren't...\narguing, sir."
+      "<DBAF43F0>": "Y-Yes, sir. We were\nnot... arguing, sir."
     },
     {
       "$id": 8,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Time is precious. Let's get\nstraight to the point."
+      "<DBAF43F0>": "Time is precious. Let us\nget straight to the point."
     },
     {
       "$id": 12,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "we don't really know much ourselves,\nother than that it's a fake."
+      "<DBAF43F0>": "we do not really know much ourselves,\nother than that it is a fake."
     },
     {
       "$id": 18,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We don't use it at all, right~?"
+      "<DBAF43F0>": "We do not use it at all, right~?"
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When it's about to run out, the Consul\njust gives us orders to fight."
+      "<DBAF43F0>": "When it is about to run out, the\nConsul just gives us orders to fight."
     },
     {
       "$id": 20,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maybe there's some kind\nof advantage to it...?"
+      "<DBAF43F0>": "Maybe there is some kind\nof advantage to it...?"
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Like, maybe our Colony rank is actually\nhigh, but we're pretending to be weak to\nmake the enemy let their guard down."
+      "<DBAF43F0>": "Like, maybe our Colony rank is actually\nhigh, but we are pretending to be weak\nto make the enemy let their guard down."
     },
     {
       "$id": 23,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Maybe our rank is actually really\nlow, but we're pretending it's\nhigh to intimidate them."
+      "<DBAF43F0>": "Maybe our rank is actually really\nlow, but we are pretending it\nis high to intimidate them."
     },
     {
       "$id": 25,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nico is in charge of the warehouse~!\nI'll get it ready so you can see!"
+      "<DBAF43F0>": "Nico is in charge of the warehouse~\nI will get it ready so you can see!"
     },
     {
       "$id": 30,
@@ -388,7 +388,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Even if its location is unknown,\nyou can't just make something\nthat exists disappear."
+      "<DBAF43F0>": "Even if its location is unknown,\nyou cannot just make something\nthat exists disappear."
     },
     {
       "$id": 37,
@@ -428,7 +428,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If we're lucky, someone might have\nseen the path of the life-flame."
+      "<DBAF43F0>": "If we are lucky, someone might have\nseen the path of the life-flame."
     },
     {
       "$id": 41,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course. I'll tell them\nto arrange it immediately!"
+      "<DBAF43F0>": "Of course. I will tell them\nto arrange it immediately!"
     },
     {
       "$id": 43,
@@ -478,7 +478,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "As far as I know... I don't think\nwe've ever experienced it."
+      "<DBAF43F0>": "As far as I know... I do not think\nwe have ever experienced it."
     },
     {
       "$id": 46,
@@ -488,7 +488,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Seriously!? You've just maintained\nyour rank all this time?"
+      "<DBAF43F0>": "Seriously!? You have just maintained\nyour rank all this time?"
     },
     {
       "$id": 47,
@@ -508,7 +508,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That as long as we fight hard and\nfollow instructions, it'll be okay."
+      "<DBAF43F0>": "That as long as we fight hard and\nfollow instructions, it will be okay."
     },
     {
       "$id": 49,
@@ -528,7 +528,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"People only see what they want to\nsee\"... I think that's what it was."
+      "<DBAF43F0>": "\"People only see what they want to\nsee\"... I think that is what it was."
     },
     {
       "$id": 51,
@@ -548,7 +548,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That people don't even want to see\nhow much is left in the Flame Clock?"
+      "<DBAF43F0>": "That people do not even want to see\nhow much is left in the Flame Clock?"
     },
     {
       "$id": 53,
@@ -558,7 +558,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, if you knew, it'd\nprobably be a lot of pressure."
+      "<DBAF43F0>": "Well, if you knew, it would\nprobably be a lot of pressure."
     },
     {
       "$id": 54,
@@ -618,7 +618,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "For a setup this elaborate, there\nmust be a clear objective."
+      "<DBAF43F0>": "for a setup this elaborate, there\nmust be a clear objective."
     },
     {
       "$id": 60,
@@ -648,7 +648,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "To be blunt, we don't really know."
+      "<DBAF43F0>": "To be blunt, we do not really know."
     },
     {
       "$id": 63,
@@ -678,7 +678,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sorry I can't\nbe of more help..."
+      "<DBAF43F0>": "I'm sorry I cannot\nbe of more help..."
     },
     {
       "$id": 66,
@@ -688,7 +688,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think it's an important matter,\nbut is everyone okay with that?"
+      "<DBAF43F0>": "I think it is an important matter,\nbut is everyone okay with that?"
     },
     {
       "$id": 67,
@@ -698,7 +698,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well, we've always done it this way...\nAnd we don't really talk to her much."
+      "<DBAF43F0>": "Well, we have always done it this way...\nAnd we do not really talk to her much."
     },
     {
       "$id": 68,
@@ -808,7 +808,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I know it's a punishment for defying\nher. But to get everyone involved..."
+      "<DBAF43F0>": "...I know it is a punishment for defying\nher. But to get everyone involved..."
     },
     {
       "$id": 79,
@@ -828,7 +828,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And she's the most reckless."
+      "<DBAF43F0>": "And she is the most reckless."
     },
     {
       "$id": 81,
@@ -838,7 +838,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's why we want to support her.\nMashiro is fine just the way she is."
+      "<DBAF43F0>": "That is why we want to support her.\nMashiro is fine just the way she is."
     },
     {
       "$id": 82,
@@ -898,7 +898,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Honestly, I don't want to put\nany more burden on Mashiro."
+      "<DBAF43F0>": "...Honestly, I do not want to\nput any more burden on Mashiro."
     },
     {
       "$id": 88,
@@ -928,7 +928,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "They'll \"die because of their own\nfailure.\" That's not the same at all."
+      "<DBAF43F0>": "They will \"die because of their own\nfailure.\" That is not the same at all."
     },
     {
       "$id": 91,
@@ -948,7 +948,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm saying that weight also becomes\nthe strength to move forward."
+      "<DBAF43F0>": "I am saying that weight also becomes\nthe strength to move forward."
     },
     {
       "$id": 93,
@@ -958,7 +958,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "At a time like this, don't say things\nthat will make Mashiro waver."
+      "<DBAF43F0>": "At a time like this, do not say\nthings that will make Mashiro waver."
     },
     {
       "$id": 94,
@@ -988,7 +988,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm happy you're worried\nabout me. Thank you."
+      "<DBAF43F0>": "I am happy you are worried\nabout me. Thank you."
     },
     {
       "$id": 97,
@@ -998,7 +998,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well... it'll probably work out\nsomehow. We're here too, after all."
+      "<DBAF43F0>": "Well... it will probably work out\nsomehow. We are here too, after all."
     },
     {
       "$id": 98,
@@ -1048,7 +1048,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes. Without further ado, let's go around\nto the places that might have clues."
+      "<DBAF43F0>": "Yes. Without further ado, let us go around\nto the places that might have clues."
     },
     {
       "$id": 103,
@@ -1078,7 +1078,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll also try to see if there's\nanything else we've missed."
+      "<DBAF43F0>": "We will also try to see if there\nis anything else we have missed."
     },
     {
       "$id": 106,
@@ -1088,7 +1088,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We'll let you know if\nwe find anything!"
+      "<DBAF43F0>": "We will let you know\nif we find anything!"
     },
     {
       "$id": 107,

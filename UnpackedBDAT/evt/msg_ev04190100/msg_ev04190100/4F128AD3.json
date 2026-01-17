@@ -72,7 +72,7 @@
       "$id": 10,
       "<8C7DD24D>": "<5990C44C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "[ML:undisp ]huff[ML:line len=1] huff[ML:line len=1] huff[ML:line len=1]"
+      "<DBAF43F0>": "[ML:undisp ]huff[ML:line len=1]\nhuff[ML:line len=1] huff[ML:line len=1]"
     }
   ]
 }

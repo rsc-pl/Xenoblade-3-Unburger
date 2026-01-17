@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I am sorry to disturb you when you are\nbusy. I came to hear about the慰問, but..."
+      "<DBAF43F0>": "I am sorry to intrude when you are busy.\nI came to discuss the visit, but..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did I interrupt?"
+      "<DBAF43F0>": "Have I come at a bad time?"
     },
     {
       "$id": 4,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I have caused you trouble\nfor a long time."
+      "<DBAF43F0>": "I have caused you trouble\nfor a very long time."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Everything was\nto greet this day."
+      "<DBAF43F0>": "...Everything was for\nthe sake of this day."
     },
     {
       "$id": 9,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...It was about the\nvisit, wasn't it?"
+      "<DBAF43F0>": "...Ah, about the visit, wasn't it?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Before the decisive battle with\nMoebius, everyone is making their\nown preparations, but..."
+      "<DBAF43F0>": "In preparation for the decisive\nbattle with Moebius, everyone is\nmaking their own arrangements, but..."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It is a battle for the fate of the\nworld. Many are tense with anxiety..."
+      "<DBAF43F0>": "It is a battle for the very fate of the\nworld. Many are tense with anxiety..."
     },
     {
       "$id": 13,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Some have lost their composure.\nAt this rate, they will be\nflustered in actual combat."
+      "<DBAF43F0>": "Some have lost their composure.\nAt this rate, they will be flustered\nwhen the real battle begins."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...It cannot be helped."
+      "<DBAF43F0>": "...That is understandable."
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No matter how lofty the ideals, as long\nas we fight, there will be sacrifices."
+      "<DBAF43F0>": "No matter how lofty the ideals\none holds, so long as we fight,\nthere will be sacrifices."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The future we aim for, and the present\nwe may lose... Anyone would be like\nthat, standing between them."
+      "<DBAF43F0>": "The future we aim for, and the present\nwe may lose... Anyone standing between\nthe two would feel the same."
     },
     {
       "$id": 17,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There's no guarantee\nwe'll come back alive..."
+      "<DBAF43F0>": "There's no guarantee we'll\nmake it back alive..."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "A few words will do. Could you\nplease speak to everyone?"
+      "<DBAF43F0>": "Even just a few words would suffice.\nCould you please speak to everyone?"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Understood."
+      "<DBAF43F0>": "...I understand."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I do not know if I can do\nit well, but I shall try."
+      "<DBAF43F0>": "I do not know how well I\ncan do, but I shall try."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Leave the tour of the City to me. We\nwill support you so you don't get lost."
+      "<DBAF43F0>": "Leave the tour of the City to us.\nWe'll make sure you don't get lost."
     },
     {
       "$id": 23,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How about Central Avenue?\nThere are many people there..."
+      "<DBAF43F0>": "How about Central Avenue? There\nare many people there..."
     },
     {
       "$id": 27,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Among them are those who\nfervently praise the queen."
+      "<DBAF43F0>": "...Among them are those who\nfervently admire the queen."
     },
     {
       "$id": 29,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If they seem persistent,\nplease peel them off."
+      "<DBAF43F0>": "If they seem overly persistent,\nplease peel them off me."
     },
     {
       "$id": 30,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...? Understood. I will do so."
+      "<DBAF43F0>": "...? Understood. I'll do that."
     }
   ]
 }

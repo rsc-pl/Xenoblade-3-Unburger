@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...You want me to ask the defense\nsquad to lend you a transporter?"
+      "<DBAF43F0>": "...You want me to ask the defense\nforce to lend you a transporter?"
     },
     {
       "$id": 2,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, she has nothing to do with..."
+      "<DBAF43F0>": "No, she has nothing\nto do[ML:line len=1]"
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What a rare combination."
+      "<DBAF43F0>": "A rare combination."
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Could you have a word with them for me?\nIt's fine that they have energy, but..."
+      "<DBAF43F0>": "Could you have a word with them? It's\nfine that they're energetic, but..."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tell them not to bring any more\n\"problems\" into the City."
+      "<DBAF43F0>": "tell them not to bring any more\n\"problems\" into the City."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Everyone is fighting well.\nI am aware of no problems."
+      "<DBAF43F0>": "...Everyone is fighting well.\nI perceive no problems."
     },
     {
       "$id": 12,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In this situation, where we don't know\nwhen Moebius might attack again?"
+      "<DBAF43F0>": "In this situation, where we do not\nknow when Moebius might attack again?"
     },
     {
       "$id": 14,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...We can leave the matter\nof Moebius to Ouroboros."
+      "<DBAF43F0>": "...We can leave\nMoebius to Ouroboros."
     },
     {
       "$id": 17,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I was merely offering \"advice.\" That we\nshouldn't waste our strength needlessly."
+      "<DBAF43F0>": "I was merely offering \"advice.\"\nThat we should not waste our\nstrength needlessly."
     },
     {
       "$id": 19,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "With all due respect, we..."
+      "<DBAF43F0>": "With all due respect,\nwe[ML:line len=1]"
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Listen. You people do not have\nthe power to resist Moebius."
+      "<DBAF43F0>": "Listen. You people do not possess\nthe power to resist Moebius."
     },
     {
       "$id": 21,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Accept that reality. Don't\nthrow your lives away."
+      "<DBAF43F0>": "Accept that reality. Do not\nthrow your lives away."
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What do you mean,\nthrow them away..."
+      "<DBAF43F0>": "What do you mean,\n\"throw them away\"...?"
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Everyone's risking their lives\nto fight for people like you,\nright!? And you say that..."
+      "<DBAF43F0>": "Everyone's risking their lives\nto fight for you, aren't they!?\nAnd you say that[ML:line len=1]"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Does risking your life change\nthe world? How simplistic."
+      "<DBAF43F0>": "Does risking your life change\nthe world? How naive."
     },
     {
       "$id": 26,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Singing its praises as if it were\njustice, inciting others... Sending\npromising young people to their deaths."
+      "<DBAF43F0>": "Proclaiming it as justice, inciting\nothers... Sending promising young\npeople to their deaths."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You've quite a skill for it."
+      "<DBAF43F0>": "You have quite a talent for it."
     },
     {
       "$id": 29,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then let me ask you, have you\nbeen able to choose for yourself?\nThe person you want to be."
+      "<DBAF43F0>": "Then let me ask you: have you been\nable to choose for yourself? To\nbecome the person you want to be?"
     },
     {
       "$id": 32,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Whether it is important or\nnot is for me to judge."
+      "<DBAF43F0>": "Whether it is important or\nnot is for me to decide."
     },
     {
       "$id": 42,
@@ -448,7 +448,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Is that an order from the Elder?"
+      "<DBAF43F0>": "Is that an Elder's order?"
     },
     {
       "$id": 43,

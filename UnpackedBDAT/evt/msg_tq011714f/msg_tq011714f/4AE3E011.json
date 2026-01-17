@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm looking forward to the\npotatoes, desu mo. I hope they\ngrow big quickly, desu mo."
+      "<DBAF43F0>": "I'm looking forward to the\npotatoes, desu mo! I hope they\ngrow big and strong, desu mo!"
     },
     {
       "$id": 4,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes... a relief for now."
+      "<DBAF43F0>": "Yes... a relief, for now."
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've actually found the right\nperson. Url seems to like plants."
+      "<DBAF43F0>": "I've actually found the right person.\nUrl seems to be fond of plants."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "When I told him the situation,\nhe said he'd cooperate."
+      "<DBAF43F0>": "When I told him the situation,\nhe said he'd be happy to help."
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That would be a great help."
+      "<DBAF43F0>": "That is a great help."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "By the way, I don't see Kite..."
+      "<DBAF43F0>": "By the way, I do not see Kite..."
     },
     {
       "$id": 12,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So, this is as far as we can help. We\ncan't leave Kite alone, after all..."
+      "<DBAF43F0>": "So, this is as far as we can help. We\ncan't just leave Kite alone, after all..."
     },
     {
       "$id": 15,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I understand. Don't worry about us."
+      "<DBAF43F0>": "I understand. You need not\nworry about things here."
     },
     {
       "$id": 17,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Also, he mentioned it would be helpful\nif we had a few Helix Conches."
+      "<DBAF43F0>": "Oh, and he mentioned it would be\nhelpful if we had a few Helix Conches."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Finish it in 10 seconds... got it?"
+      "<DBAF43F0>": "Finish it in ten seconds... got it?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "10 seconds is tough, but...\nI'll give it a try."
+      "<DBAF43F0>": "Ten seconds is a tall order,\nbut... I'll give it a try."
     }
   ]
 }

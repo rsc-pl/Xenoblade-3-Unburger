@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Brrr, it's so cold I think\nI'm going to collapse..."
+      "<DBAF43F0>": "Brrr, it's so cold I think I'm going to collapse..."
     },
     {
       "$id": 2,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We shouldn't underestimate the\ncold at this altitude. We definitely\nneed to rest around here."
+      "<DBAF43F0>": "We shouldn't underestimate the cold at this\naltitude. We definitely need to rest around here."
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, that doesn't\nlook bad. Let's go."
+      "<DBAF43F0>": "Yeah, that doesn't look bad. Let's go."
     }
   ]
 }

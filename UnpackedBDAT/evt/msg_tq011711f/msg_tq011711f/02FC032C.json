@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No, that's the last step."
+      "<DBAF43F0>": "No, that comes last."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "First, we loosen the soil so the seed\npotatoes can extend their roots easily."
+      "<DBAF43F0>": "First, we loosen the soil. It helps the\nseed potatoes' roots to spread out."
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Apparently, we need to mix it to\nincorporate air. According to Yuzuriha,\nthe soil structure has 3 layers..."
+      "<DBAF43F0>": "Apparently we need to mix it to incorporate\nair. According to Yuzuriha, the soil\nstructure should have three layers..."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In short, we just need\nto stir it, right?"
+      "<DBAF43F0>": "So in short, we just need\nto stir it up, right?"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Lanz... your summaries\nare too rough."
+      "<DBAF43F0>": "Lanz... your summaries\nare far too crude."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Anyway... there's no point."
+      "<DBAF43F0>": "Anyway... it's pointless."
     },
     {
       "$id": 9,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'll finish this in 2 seconds."
+      "<DBAF43F0>": "I'll finish this in two seconds."
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Just finishing isn't\nenough. Be careful."
+      "<DBAF43F0>": "Just finishing isn't enough.\nYou have to be thorough."
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The procedure is as I sent\nto your \"Iris.\" If you have\nany questions, please ask."
+      "<DBAF43F0>": "The procedure is just as I\nsent to your Iris. If you have\nany questions, please ask."
     },
     {
       "$id": 13,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now for the watering."
+      "<DBAF43F0>": "All that's left is watering."
     },
     {
       "$id": 17,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Damn, I want to be watered...\ntastes like dirt..."
+      "<DBAF43F0>": "Dammit, I'm the one who needs a\nshower... I can taste the dirt..."
     },
     {
       "$id": 18,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I think it's better to\nleave it to nature."
+      "<DBAF43F0>": "I think it might be better\nto leave it to nature."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I feel like fussing over it\ntoo much is not good..."
+      "<DBAF43F0>": "I feel like fussing over them\ntoo much might not be good..."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But the weather is not always\nas we wish. If we rely on it\ntoo much, we will suffer."
+      "<DBAF43F0>": "But the weather is not always as we\nwish. Relying on it too heavily will\nonly lead to disappointment."
     },
     {
       "$id": 22,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Then how about waiting for rain while\nmonitoring the soil's dryness?"
+      "<DBAF43F0>": "Then how about we wait for rain while\nkeeping an eye on how dry the soil is?"
     },
     {
       "$id": 23,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If it doesn't rain for a long\ntime, we'll water it ourselves."
+      "<DBAF43F0>": "If it doesn't rain for too long,\nwe can water them ourselves."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...That seems like a good idea.\nLet's watch it for a while."
+      "<DBAF43F0>": "...That sounds like the best course of\naction. Let's observe them for a while."
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In that case, leave it to us."
+      "<DBAF43F0>": "In that case, you\ncan leave it to us."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eh...?"
+      "<DBAF43F0>": "Huh...?"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "See, Zeon and the others will\nbe out. It'll just be us."
+      "<DBAF43F0>": "See, you and Zeon will be out and\nabout. It'll just be us here."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And it will probably\nbe over in 2 seconds."
+      "<DBAF43F0>": "And it'll probably be\nover in two seconds."
     },
     {
       "$id": 29,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Will you come check on it\nagain after it rains?"
+      "<DBAF43F0>": "Will you come check on them\nagain after it rains?"
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Thank you, I will."
+      "<DBAF43F0>": "Thank you. We will."
     },
     {
       "$id": 33,

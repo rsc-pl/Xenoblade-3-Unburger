@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Perhaps you have plans\nto go outside the City?"
+      "<DBAF43F0>": "Might you have plans to\nventure outside the City?"
     },
     {
       "$id": 4,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What's this, so suddenly?\nAnd who are you, anyway?"
+      "<DBAF43F0>": "What's this, all of a sudden?\nAnd who're you, anyway?"
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You lot! This person is[ML:line len=1]"
+      "<DBAF43F0>": "You lot! This woman\nis[ML:line len=1]"
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah! How rude of me. Please forgive\nme, I was in a bit of a hurry."
+      "<DBAF43F0>": "Ah! How rude of me. Please forgive my\nforwardness; I was in a bit of a hurry."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "My name is Matia. Please,\nmake my acquaintance."
+      "<DBAF43F0>": "My name is Matia. It is a pleasure\nto make your acquaintance."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Matia-san, then. We are[ML:line len=1]"
+      "<DBAF43F0>": "Matia-san, then.\nWe're[ML:line len=1]"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hehehe, I am well aware."
+      "<DBAF43F0>": "Hehehe, I am well\naware of who you are."
     },
     {
       "$id": 11,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Oh my, please don't be so guarded.\nIt's nothing of great importance."
+      "<DBAF43F0>": "Oh my, please, no need to be so guarded.\nIt is nothing of great import."
     },
     {
       "$id": 14,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ah, as you can see, I have more than a\nlayman's knowledge of combat, you know?"
+      "<DBAF43F0>": "And, though I may not look it,\nI am more than a layman when it\ncomes to the art of combat."
     },
     {
       "$id": 16,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You can... fight?"
+      "<DBAF43F0>": "You can fight? In that?"
     },
     {
       "$id": 19,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In fact, it's very flashy..."
+      "<DBAF43F0>": "In fact, it's incredibly flashy..."
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, yes, I am often told\nthat. But this is my style."
+      "<DBAF43F0>": "Yes, yes, I am often told as\nmuch. But this is my style."
     },
     {
       "$id": 22,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Eagus Wilderness... I don't know\nwhen we'll be stopping by there,\nbut is that still okay?"
+      "<DBAF43F0>": "The Eagus Wilderness... We don't\nknow when we'll be stopping by\nthere. Is that still acceptable?"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course, it's no problem at all. You\nhave your own mission, after all."
+      "<DBAF43F0>": "Of course, it is no trouble at all.\nYou have your own mission, after all."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "In that case, as a member of\nthe City, I shall offer what\nlittle assistance I can."
+      "<DBAF43F0>": "In that case, as a citizen of\nthe City, I shall offer what\nlittle assistance I can."
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now then, as you can see, I now have\nthe finest escorts one could ask for."
+      "<DBAF43F0>": "Now then, as you can see, I am now\naccompanied by the finest escorts\none could possibly ask for."
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You have no complaints now, do you?\nPlease give my regards to sister Monica."
+      "<DBAF43F0>": "You have no further complaints,\ndo you? Please give my regards\nto my sister Monica."
     },
     {
       "$id": 29,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Now, now, everyone. Let's strike\nwhile the iron is hot. Let's be off."
+      "<DBAF43F0>": "Come, come, everyone. Let us strike\nwhile the iron is hot. We must be off."
     },
     {
       "$id": 31,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, yes, don't rush us..."
+      "<DBAF43F0>": "Yeah, yeah, don't rush us..."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well then, we'll be in\nyour care for a while."
+      "<DBAF43F0>": "Well then, we'll be in your\ncare for a little while."
     },
     {
       "$id": 33,

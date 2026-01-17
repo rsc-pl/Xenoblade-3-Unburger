@@ -72,7 +72,7 @@
       "$id": 10,
       "<8C7DD24D>": "<FF474326>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That is the path that I[ML:line len=1]that we[ML:line len=1]could not walk!"
+      "<DBAF43F0>": "That is the path that I[ML:line len=1]that\nwe[ML:line len=1]could not walk!"
     },
     {
       "$id": 11,

@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...! Where did you hear[ML:line len=1] No, if\nthat's the case, this will be quick."
+      "<DBAF43F0>": "...! Where did you hear[ML:line\nlen=1] No, if that's the case,\nthis will be quick."
     },
     {
       "$id": 4,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't worry about it. Let's set personal\nfeelings aside for now. The priority is\na swift resolution to the situation."
+      "<DBAF43F0>": "Do not worry about it. Let's set personal\nfeelings aside for now. The priority is\na swift resolution to the situation."
     },
     {
       "$id": 12,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I'm sure you already know, but don't\nlet your guard down. ...I pray for\nyour good fortune in battle."
+      "<DBAF43F0>": "I am sure you already know, but do\nnot let your guard down. ...I pray\nfor your good fortune in battle."
     }
   ]
 }

@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "……What?"
+      "<DBAF43F0>": "……What do you want?"
     },
     {
       "$id": 3,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "No... I mean, 'you did it', as in,\n'don't do unnecessary things'..."
+      "<DBAF43F0>": "No... I meant, 'so *you* did it,' as\nin, 'stop doing unnecessary things'..."
     },
     {
       "$id": 7,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I didn't... say that, but..."
+      "<DBAF43F0>": "I didn't... say that..."
     },
     {
       "$id": 9,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Get a grip, field manager.\nAre you helping or not?"
+      "<DBAF43F0>": "Get a grip, field manager.\nAre you helping, or not?"
     },
     {
       "$id": 10,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's that again..."
+      "<DBAF43F0>": "So it's those things in the end..."
     },
     {
       "$id": 14,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Don't grumble so much.\nIt's really delicious."
+      "<DBAF43F0>": "Don't complain so much.\nThey're actually delicious."
     },
     {
       "$id": 15,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I see. We need seed potatoes."
+      "<DBAF43F0>": "I see. We'll need seed potatoes."
     },
     {
       "$id": 19,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "These things happen sometimes."
+      "<DBAF43F0>": "Things like this happen sometimes."
     },
     {
       "$id": 22,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Even I make mistakes."
+      "<DBAF43F0>": "...Even I make mistakes sometimes."
     },
     {
       "$id": 24,
@@ -268,7 +268,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Even if you don't mean\nto... Everyone does."
+      "<DBAF43F0>": "Even when you don't mean\nto... everyone does."
     },
     {
       "$id": 25,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Spongy Spuds, was it?\nAbout 10 of them for now!"
+      "<DBAF43F0>": "Spongy Spuds, was it? Get\nabout ten of them for now!"
     },
     {
       "$id": 27,
@@ -298,7 +298,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let's get them quickly. Can\nwe meet at the fields?"
+      "<DBAF43F0>": "Let's prepare them at once. Can\nwe meet you at the fields?"
     },
     {
       "$id": 28,
@@ -308,7 +308,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Roger... just send the\nlocation to my \"Iris.\""
+      "<DBAF43F0>": "Roger... just send the\nlocation to my Iris."
     }
   ]
 }

@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Commander, more gently..."
+      "<DBAF43F0>": "Commander, a little more gently..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do not seek the power of healing\nfrom me. I am trying my best."
+      "<DBAF43F0>": "Do not seek healing arts from me. I\nassure you, I am trying my best."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Let me help."
+      "<DBAF43F0>": "Allow me."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Sorry, that's a great help..."
+      "<DBAF43F0>": "Sorry, you're a lifesaver..."
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...This should do."
+      "<DBAF43F0>": "...This should suffice."
     },
     {
       "$id": 8,
@@ -118,7 +118,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Y-Yes! I'm alright now...!"
+      "<DBAF43F0>": "Y-yes! I'm alright now...!"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Queen Melia...! You came\nall this way for us?"
+      "<DBAF43F0>": "Queen Melia...! Did you\ncome all this way for us?"
     },
     {
       "$id": 11,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "What kind of ruler would I be if I\ndid not rush to my people's aid?"
+      "<DBAF43F0>": "What kind of ruler would I be\nif I did not rush to my people's\naid in their time of need?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I am sorry to be late, Zeon.\nCould you tell me the situation?"
+      "<DBAF43F0>": "My apologies for the delay, Zeon.\nWould you brief me on the situation?"
     },
     {
       "$id": 13,
@@ -168,7 +168,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Really? The real one?!"
+      "<DBAF43F0>": "For real? The actual Queen?!"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Return to your post."
+      "<DBAF43F0>": "...Return to your posts."
     },
     {
       "$id": 16,
@@ -198,7 +198,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Due to Origin's attack, a\nrockslide occurred near the\nentrance to Alfeto Valley..."
+      "<DBAF43F0>": "Origin's attack triggered a rockslide\nnear the entrance to Alfeto Valley..."
     },
     {
       "$id": 18,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "However, we have lost contact\nwith the survey team..."
+      "<DBAF43F0>": "However, we've lost contact\nwith the survey team..."
     },
     {
       "$id": 20,
@@ -228,7 +228,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I heard a loud noise just now! Maybe\nthere was another rockslide...!"
+      "<DBAF43F0>": "I heard a huge crash just now! Maybe\nthere was another rockslide...!"
     },
     {
       "$id": 21,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Understood. We will\ntake it from here."
+      "<DBAF43F0>": "Understood. We shall\ntake it from here."
     },
     {
       "$id": 22,
@@ -258,7 +258,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I've treated the seriously\ninjured. The rest won't be a\nproblem until we get back."
+      "<DBAF43F0>": "I've patched up the worst of\n'em. The rest can wait 'til\nwe get back, no problem."
     },
     {
       "$id": 24,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "If you're that energetic, you'll\nbe fine. We'll be back soon."
+      "<DBAF43F0>": "If you've got the energy to\nwhine, you'll be fine. We'll\nbe back before you know it."
     },
     {
       "$id": 26,
@@ -288,7 +288,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...It seems my worries\nwere unnecessary."
+      "<DBAF43F0>": "...It seems my worries\nwere for naught."
     },
     {
       "$id": 27,
@@ -318,7 +318,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...I have sent the location of\nthe rockslide to your \"Iris.\"\nPlease search around that area."
+      "<DBAF43F0>": "...I have sent the location of\nthe rockslide to your Iris. Please\nsearch the surrounding area."
     },
     {
       "$id": 30,
@@ -338,7 +338,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Um, if you find Anita... a female\nsoldier from the survey team, well..."
+      "<DBAF43F0>": "Um, if you find Anita... a female\nsoldier on the survey team, well..."
     },
     {
       "$id": 32,
@@ -348,7 +348,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "P-Please tell her to properly\nreturn what she borrowed!"
+      "<DBAF43F0>": "P-please tell her to return\nwhat she borrowed, properly!"
     },
     {
       "$id": 33,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tell her I'll be waiting until\nshe comes back to return it..."
+      "<DBAF43F0>": "Tell her I'll be waiting for\nher to bring it back..."
     },
     {
       "$id": 34,
@@ -378,7 +378,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Everyone, I am sorry for putting\nyou through this. Please bear\nwith it for a little longer."
+      "<DBAF43F0>": "Everyone, I am sorry for all that\nyou have endured. Please bear with\nthis for just a little longer."
     },
     {
       "$id": 36,
@@ -398,7 +398,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Please, take care of our comrades!"
+      "<DBAF43F0>": "Please, look after our comrades!"
     }
   ]
 }

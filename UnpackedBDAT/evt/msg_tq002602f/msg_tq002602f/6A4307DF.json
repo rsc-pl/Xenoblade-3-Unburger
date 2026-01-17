@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Did you see a man in a\nmask? We were chasing him[ML:line len=1]"
+      "<DBAF43F0>": "Did you see a man in a mask? We\nwere chasing him[ML:line len=1]"
     },
     {
       "$id": 4,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Huh? What are you talking[ML:line len=1]"
+      "<DBAF43F0>": "Huh? What are you\ntalking[ML:line len=1]"
     },
     {
       "$id": 7,

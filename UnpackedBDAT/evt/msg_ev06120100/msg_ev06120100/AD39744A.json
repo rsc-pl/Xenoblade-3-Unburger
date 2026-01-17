@@ -48,7 +48,7 @@
       "$id": 6,
       "<8C7DD24D>": "<8CD48E99>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "you[ML:line len=1]and all people[ML:line len=1]have made your choices."
+      "<DBAF43F0>": "you[ML:line len=1]and all people[ML:line\nlen=1]have made your choices."
     },
     {
       "$id": 7,

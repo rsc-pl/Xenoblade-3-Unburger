@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Of course you haven't. This\nis... an abandoned Colony."
+      "<DBAF43F0>": "Of course you have not. This\nis...an abandoned Colony."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 805322881,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Listen! We didn't\ncome here to fight!"
+      "<DBAF43F0>": "Listen to me! We didn't\ncome here to fight!"
     },
     {
       "$id": 4,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The flame in your clock is running\nlow, isn't it? We can do something\nabout that. So please[ML:line len=1]"
+      "<DBAF43F0>": "The flame in your clock is running\nlow, isn't it? We can do something\nabout that. So please..."
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You want us to stop our attack."
+      "<DBAF43F0>": "You want us to cease our attack."
     },
     {
       "$id": 9,
@@ -168,7 +168,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...They're still on guard. We shouldn't\nlet our own guard down either."
+      "<DBAF43F0>": "...They are still on their guard. We\nshould not let ours down either."
     }
   ]
 }

@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Stay with me, I'll treat you now[ML:line len=1]"
+      "<DBAF43F0>": "Stay with me, I'll treat\nyou now[ML:line len=1]"
     },
     {
       "$id": 6,
@@ -158,7 +158,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...!? I-I'm not\ntalking... nonsense...!"
+      "<DBAF43F0>": "...!? I-I am not\ntalking... nonsense...!"
     },
     {
       "$id": 14,
@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "You'll die."
+      "<DBAF43F0>": "You will die."
     },
     {
       "$id": 16,
@@ -248,7 +248,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Being ready to die and going\nto die are completely different."
+      "<DBAF43F0>": "...There's a world of difference\nbetween being ready to die and\njust going off to die."
     },
     {
       "$id": 23,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "It's okay. We're all\non your side..."
+      "<DBAF43F0>": "It's okay. We are\nall on your side..."
     },
     {
       "$id": 31,
@@ -358,7 +358,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I didn't have time to think. I had to\nbe a decoy... I charged at the enemy."
+      "<DBAF43F0>": "I did not have time to think. I had to\nbe a decoy... I charged at the enemy."
     },
     {
       "$id": 34,
@@ -418,7 +418,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "From the looks of it, it's highly\nlikely your comrades were separated\nand are now isolated."
+      "<DBAF43F0>": "From the looks of it, it is highly\nlikely your comrades were separated\nand are now isolated."
     },
     {
       "$id": 40,
@@ -438,7 +438,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "That's why having more\npeople is better, right?"
+      "<DBAF43F0>": "That is why having more\npeople is better, right?"
     },
     {
       "$id": 42,

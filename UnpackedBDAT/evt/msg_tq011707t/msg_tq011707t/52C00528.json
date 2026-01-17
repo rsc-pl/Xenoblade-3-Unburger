@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not here..."
+      "<DBAF43F0>": "Not here, it seems..."
     },
     {
       "$id": 2,
@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Nothing that looks like it..."
+      "<DBAF43F0>": "Don't see anything\nthat looks like it..."
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Ugh, I want to find it, but\nat the same time, I don't..."
+      "<DBAF43F0>": "Ugh, part of me wants to find it, but\nthe other part really doesn't..."
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Alright, it's not here.\nLet's go to the next one!"
+      "<DBAF43F0>": "...Alright, not here! Let's\nmove on to the next spot!"
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Not here... too bad."
+      "<DBAF43F0>": "Not here... a shame."
     },
     {
       "$id": 7,
@@ -98,7 +98,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "But I'm sure the next one will be\nfine! Let's keep our spirits up!"
+      "<DBAF43F0>": "But I'm sure the next spot will be\nthe one! Let's keep our spirits up!"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...It is not here."
+      "<DBAF43F0>": "...It does not appear to be here."
     }
   ]
 }

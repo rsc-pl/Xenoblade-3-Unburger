@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The second... rockslide...! My\ncomrades... more than me..."
+      "<DBAF43F0>": "The second... rockslide...!\nForget me... my comrades..."
     },
     {
       "$id": 3,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...! It's warm..."
+      "<DBAF43F0>": "...! So warm..."
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Do not move from here. I will\ncheck the surrounding situation."
+      "<DBAF43F0>": "Do not move from this spot. I am going\nto assess the surrounding area."
     },
     {
       "$id": 6,
@@ -88,7 +88,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "R-Roger that...!"
+      "<DBAF43F0>": "R-roger that...!"
     }
   ]
 }
