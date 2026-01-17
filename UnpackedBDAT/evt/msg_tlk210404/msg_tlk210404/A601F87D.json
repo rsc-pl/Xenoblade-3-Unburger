@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "There are all sorts of monsters, you know. For example,\nsome are nocturnal and don't appear in the day, and\nothers are only active in specific weather[ML:line ]"
+      "<DBAF43F0>": "There are all sorts of monsters, you know. For\nexample, some are nocturnal and don't appear in the\nday, and others are only active in specific weather[ML:line ]"
     },
     {
       "$id": 2,
@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "\"To defeat the enemy, first know\nthe enemy,\"[ML:line ] is it?"
+      "<DBAF43F0>": "\"To defeat the enemy, first\nknow the enemy,\"[ML:line ] is it?"
     },
     {
       "$id": 4,

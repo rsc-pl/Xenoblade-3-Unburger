@@ -58,7 +58,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Actually, one of them escaped... Goo-chan\nis looking for it now[ML:line ]"
+      "<DBAF43F0>": "Actually, one of them escaped...\nGoo-chan is looking for it now[ML:line ]"
     },
     {
       "$id": 4,
@@ -128,7 +128,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, I'm curious about that too, but[ML:line\n] first of all, isn't it glowing?"
+      "<DBAF43F0>": "Yeah, I'm curious about that too,\nbut[ML:line ] first of all, isn't it glowing?"
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Tsumugi, run! A nasty one is\nheading your way[ML:line ]!"
+      "<DBAF43F0>": "Tsumugi, run! A nasty one\nis heading your way[ML:line ]!"
     },
     {
       "$id": 13,
@@ -228,7 +228,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Colony Mu is not! your\nfeeding ground[ML:line ]!"
+      "<DBAF43F0>": "Colony Mu is not!\nyour feeding ground[ML:line ]!"
     },
     {
       "$id": 21,
@@ -278,7 +278,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Heh, that's what I like\nto hear[ML:line ]!"
+      "<DBAF43F0>": "Heh, that's what I like to hear[ML:line ]!"
     },
     {
       "$id": 26,
@@ -328,7 +328,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Everyone, we're going\nto survive[ML:line ]!!"
+      "<DBAF43F0>": "Everyone, we're going to survive[ML:line ]!!"
     }
   ]
 }

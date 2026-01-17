@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "And yet now you're sending them\nback[ML:line ] What are you thinking!\nThey're replaceable things that can die!?"
+      "<DBAF43F0>": "And yet now you're sending them back[ML:line ]\nWhat are you thinking! They're\nreplaceable things that can die!?"
     },
     {
       "$id": 12,
@@ -148,7 +148,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "So they're a group that can't accept being\nfreed from the Flame Clock[ML:line ]"
+      "<DBAF43F0>": "So they're a group that can't accept\nbeing freed from the Flame Clock[ML:line ]"
     },
     {
       "$id": 13,
@@ -218,7 +218,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey... is this how it's gonna be!\nDamn it[ML:line ] I'll do it!"
+      "<DBAF43F0>": "Hey... is this how it's gonna\nbe! Damn it[ML:line ] I'll do it!"
     }
   ]
 }

@@ -48,7 +48,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "How many HD Ether Cylinders' worth\nof High Ether will you sell?"
+      "<DBAF43F0>": "How many DX Ether Cylinders' worth\nof High Ether will you sell?"
     },
     {
       "$id": 3,
@@ -138,7 +138,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "We have [ML:flagParam\nbdatNum=7 ] on hand..."
+      "<DBAF43F0>": "We have [ML:flagParam bdatNum=7 ] on hand..."
     },
     {
       "$id": 12,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "...Show me the HD\nEther Cylinder+, mo."
+      "<DBAF43F0>": "...Show me the DX\nEther Cylinder, mo."
     },
     {
       "$id": 17,

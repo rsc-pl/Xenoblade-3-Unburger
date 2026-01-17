@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He was certainly a competent man. No[ML:line\n] perhaps it was because he was too\ncompetent that this situation arose."
+      "<DBAF43F0>": "He was certainly a competent man. No[ML:line ]\nperhaps it was because he was too\ncompetent that this situation arose."
     },
     {
       "$id": 16,
@@ -188,7 +188,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "I don't like trouble, but[ML:line\n] what should we do?"
+      "<DBAF43F0>": "I don't like trouble,\nbut[ML:line ] what should we do?"
     },
     {
       "$id": 17,
@@ -208,7 +208,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Well[ML:line ] if you'll do that,\nit'll make things easier for me."
+      "<DBAF43F0>": "Well[ML:line ] if you'll do that, it'll\nmake things easier for me."
     },
     {
       "$id": 19,

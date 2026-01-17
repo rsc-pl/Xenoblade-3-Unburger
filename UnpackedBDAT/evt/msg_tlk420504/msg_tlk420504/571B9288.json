@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Augusto is an idiot[ML:line ] ...and\nso am I for not realizing the\nproblem he was facing[ML:line ]"
+      "<DBAF43F0>": "Augusto is an idiot[ML:line ] ...and so am I for\nnot realizing the problem he was facing[ML:line ]"
     },
     {
       "$id": 2,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "At least look at your comrades and friends[ML:line\n]... If that accumulates and creates a chain,\nAionios will become a better place."
+      "<DBAF43F0>": "At least look at your comrades and friends[ML:line ]...\nIf that accumulates and creates a chain,\nAionios will become a better place."
     }
   ]
 }

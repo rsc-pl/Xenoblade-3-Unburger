@@ -178,7 +178,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yeah, yeah, this is Ashera.\nI'm busy right now, so call\nback later[ML:line len=1]"
+      "<DBAF43F0>": "Yeah, yeah, this is Ashera. I'm\nbusy right now, so call back later[ML:line len=1]"
     },
     {
       "$id": 16,
@@ -238,7 +238,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Hey now, that happens all the time.\nWhat's so special about[ML:line len=1]"
+      "<DBAF43F0>": "Hey now, that happens all the\ntime. What's so special about[ML:line len=1]"
     },
     {
       "$id": 22,
@@ -458,7 +458,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The one who's in trouble\nis y[ML:line len=1]"
+      "<DBAF43F0>": "The one who's in trouble is y[ML:line len=1]"
     },
     {
       "$id": 44,

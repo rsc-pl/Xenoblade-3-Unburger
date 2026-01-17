@@ -38,7 +38,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "The previous commander[ML:line\n]... could you tell me about him?"
+      "<DBAF43F0>": "The previous commander[ML:line ]...\ncould you tell me about him?"
     },
     {
       "$id": 2,
@@ -68,7 +68,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "He sounds like a good\nperson[ML:line ]"
+      "<DBAF43F0>": "He sounds like a good person[ML:line ]"
     },
     {
       "$id": 5,
@@ -78,7 +78,7 @@
       "<2B51649C>": 16513,
       "<C1A03E98>": 1072,
       "<554EE944>": 126,
-      "<DBAF43F0>": "Yes, and Yuzuriha, who took over[ML:line\n] is a commander who is just as good."
+      "<DBAF43F0>": "Yes, and Yuzuriha, who took over[ML:line ] is\na commander who is just as good."
     }
   ]
 }

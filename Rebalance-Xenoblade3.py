@@ -41,27 +41,20 @@ CONFIG = {
 def get_profile_for_path(file_path):
     """
     Determines the profile based on the file path / folder name.
-    1. Checks for Mixed types (msg_tq, msg_nq, etc) and looks for f/t/s suffix.
-    2. Checks for Pure Standard types.
-    3. Checks for Pure Cinematic types.
     """
     norm_path = file_path.replace("\\", "/")
 
     # 1. Mixed Category Logic (msg_nq, msg_cq, msg_tq, msg_sq)
-    # We look for the pattern: msg_tq + digits + optional letter (f, t, s)
-    # Regex: msg_[ncst]q followed by digits, capturing an optional trailing letter.
     mixed_match = re.search(r'(msg_[ncst]q\d+)([a-zA-Z]?)', norm_path)
 
     if mixed_match:
         suffix = mixed_match.group(2)
-        # If there is a suffix letter (f, t, s), it's Standard (Voiced/Bubble)
         if suffix and suffix.lower() in ['f', 't', 's']:
             return CONFIG["profiles"]["standard"]
-        # If no suffix (just digits), it's Cinematic (Dialogue Box)
         else:
             return CONFIG["profiles"]["cinematic"]
 
-    # 2. Pure Standard Files (Check these BEFORE cinematic to handle msg_fev correctly vs msg_ev)
+    # 2. Pure Standard Files
     for prefix in CONFIG["profiles"]["standard"]["prefixes"]:
         if prefix in norm_path: return CONFIG["profiles"]["standard"]
 
@@ -80,23 +73,47 @@ def clean_and_flatten(text):
 
 def get_visual_length(text):
     """
-    Calculates character count ignoring Ruby tags.
-    Handles the 'rt=... ]' space correctly.
+    Calculates character count by seeing what the player actually sees.
+    1. Resolves Ruby tags to just their content.
+    2. Removes Control tags (like [ML:line...]).
     """
+    # 1. Replace Ruby tags with just the visible text inside
+    # [System:Ruby rt=...]Visible[/System:Ruby] -> Visible
     clean_text = re.sub(r'\[System:Ruby rt=.*?\](.*?)\[/System:Ruby\]', r'\1', text)
+
+    # 2. Remove standard control tags (anything starting with ML: or System: or similar)
+    # This matches [XX:YYY ...]
+    clean_text = re.sub(r'\[[a-zA-Z0-9]+:[^\]]+\]', '', clean_text)
+
+    # 3. Remove zero-width space
     clean_text = clean_text.replace('\u200B', '')
+
     return len(clean_text)
 
-def tokenize_keeping_ruby_intact(text):
+def tokenize_atomic(text):
     """
-    Splits text by spaces, but ensures spaces INSIDE ruby tags don't split the block.
+    Splits text by spaces, BUT protects spaces inside tags and Ruby blocks.
+    This ensures [ML:line len=1] stays as one unit.
     """
-    def protect_match(match):
-        return match.group(0).replace(' ', '<<SPACE>>')
+    PLACEHOLDER = "<<_SPC_>>"
 
-    protected_text = re.sub(r'\[System:Ruby.*?\](.*?)\[/System:Ruby\]', protect_match, text)
-    raw_words = protected_text.split(' ')
-    words = [w.replace('<<SPACE>>', ' ') for w in raw_words if w]
+    def protect_spaces(match):
+        return match.group(0).replace(' ', PLACEHOLDER)
+
+    # 1. Protect Logic: Handle entire Ruby blocks first (prevent splitting inside the tag OR the content)
+    # This keeps "[System:Ruby rt=x]Name[/System:Ruby]" as ONE word.
+    temp_text = re.sub(r'\[System:Ruby.*?\[/System:Ruby\]', protect_spaces, text, flags=re.DOTALL)
+
+    # 2. Protect Logic: Handle standalone tags like [ML:line len=1]
+    # We look for [ ... ] and protect spaces inside.
+    temp_text = re.sub(r'\[[^\]]*?\]', protect_spaces, temp_text)
+
+    # 3. Split by real spaces
+    raw_words = temp_text.split(' ')
+
+    # 4. Restore spaces inside the protected blocks
+    words = [w.replace(PLACEHOLDER, ' ') for w in raw_words if w]
+
     return words
 
 def force_split(words, num_lines):
@@ -117,7 +134,11 @@ def force_split(words, num_lines):
 
         for i, w in enumerate(current_words):
             w_vis_len = get_visual_length(w)
-            len_with = current_visual_len + w_vis_len + (1 if current_visual_len > 0 else 0)
+
+            # Logic: If a word has 0 visual length (like [ML:line...]),
+            # it adds nothing to the visual line width.
+            len_with = current_visual_len + w_vis_len + (1 if current_visual_len > 0 and w_vis_len > 0 else 0)
+
             diff = abs(len_with - target_visual_len)
 
             if diff <= best_diff:
@@ -125,7 +146,13 @@ def force_split(words, num_lines):
                 best_split = i + 1
                 current_visual_len = len_with
             else:
+                # If we are getting worse, stop (simple greedy approach)
+                # But we must ensure we take at least one word if possible
                 break
+
+        # Safety: Ensure we don't create empty lines if words exist
+        if best_split == 0 and current_words:
+            best_split = 1
 
         lines.append(" ".join(current_words[:best_split]))
         current_words = current_words[best_split:]
@@ -140,7 +167,10 @@ def process_text(text_content, profile):
         return text_content
 
     clean_text = clean_and_flatten(text_content)
-    words = tokenize_keeping_ruby_intact(clean_text)
+
+    # NEW TOKENIZER
+    words = tokenize_atomic(clean_text)
+
     total_len = sum(get_visual_length(w) for w in words) + (len(words) - 1)
 
     if total_len <= profile["split_threshold_for_2"]:
@@ -166,13 +196,11 @@ def check_for_overflow(text_block, max_width):
 # ==========================================
 
 def process_single_file(file_path, log, err_log, stats, forced_profile=None):
-    # Determine which profile to use based on the FILE NAME/PATH
     if forced_profile:
         profile = forced_profile
     else:
         profile = get_profile_for_path(file_path)
 
-    # If no profile matches (and none forced), skip
     if not profile:
         return
 
@@ -245,10 +273,8 @@ MODES:
 2. Single Mode: Targets one specific file (use -single).
 
 LOGIC PROFILES:
-- Standard (3-Line): Max 55 chars/line. Used for msg_fev, msg_ask, and 'Mixed' with f/t/s suffix.
-- Cinematic (2-Line): Max 75 chars/line. Used for msg_ev and 'Mixed' with no suffix.
-
-Mixed Prefixes: msg_nq, msg_cq, msg_tq, msg_sq
+- Standard (3-Line): Max 55 chars/line.
+- Cinematic (2-Line): Max 75 chars/line.
 """,
         formatter_class=argparse.RawTextHelpFormatter
     )
@@ -256,24 +282,20 @@ Mixed Prefixes: msg_nq, msg_cq, msg_tq, msg_sq
     parser.add_argument(
         "-single",
         metavar="FILE_PATH",
-        help="Process only this specific JSON file (skips folder scanning)."
+        help="Process only this specific JSON file."
     )
 
     parser.add_argument(
         "-mode",
         type=int,
         choices=[2, 3],
-        help="""Force a specific logic mode (Overrides folder detection):
-  2 = Cinematic Mode (Max 2 lines, 75 char limit)
-  3 = Standard Mode (Max 3 lines, 55 char limit)
-Use this with -single to test files outside the usual folders."""
+        help="Force a specific logic mode (2=Cinematic, 3=Standard)."
     )
 
     args = parser.parse_args()
 
     stats = {'files_processed': 0, 'changes': 0, 'errors': 0}
 
-    # Determine if we are forcing a profile
     forced_profile = None
     if args.mode == 2:
         forced_profile = CONFIG["profiles"]["cinematic"]
@@ -284,9 +306,6 @@ Use this with -single to test files outside the usual folders."""
 
     print("\nStarting Text Balancer...")
 
-    # We only need specific prefixes for scanning optimization,
-    # but the logic inside get_profile_for_path handles the details.
-    # We include mixed prefixes (msg_nq, msg_tq etc) in the scan list.
     mixed_prefixes = ["msg_nq", "msg_cq", "msg_tq", "msg_sq"]
     all_prefixes = (CONFIG["profiles"]["cinematic"]["prefixes"] +
                     CONFIG["profiles"]["standard"]["prefixes"] +
@@ -295,23 +314,19 @@ Use this with -single to test files outside the usual folders."""
     with open(CONFIG["log_file"], "w", encoding="utf-8") as log, \
          open(CONFIG["error_file"], "w", encoding="utf-8") as err_log:
 
-        # CASE 1: Single File Mode
         if args.single:
             print(f"Targeting Single File: {args.single}")
             if os.path.exists(args.single):
                 if forced_profile or get_profile_for_path(args.single):
                     process_single_file(args.single, log, err_log, stats, forced_profile)
                 else:
-                    print(f"Skipping {args.single}: Path does not match known prefixes.")
-                    print("Tip: Use -mode 2 or -mode 3 to force processing.")
+                    print(f"Skipping {args.single}: Unknown prefix. Use -mode to force.")
             else:
                 print(f"Error: File not found -> {args.single}")
 
-        # CASE 2: Batch Directory Mode
         else:
             print(f"Scanning Directory: {CONFIG['root_directory']}")
             for root, dirs, files in os.walk(CONFIG["root_directory"]):
-                # Optimization: Only enter folders that start with known prefixes
                 if not any(os.path.basename(root).startswith(p) for p in all_prefixes):
                     continue
 
