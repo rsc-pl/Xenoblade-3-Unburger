@@ -1590,7 +1590,7 @@
       "$id": 263,
       "<8C7DD24D>": "<B26C2F38>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Each Iron Giant Hulk has a Fabricator nearby, which can be\nmade to manufacture collectibles by spending G. They\ncan make very rare and difficult-to-acquire items."
+      "<DBAF43F0>": "Each Iron Giant God Hulk has a Fabricator nearby, which can be\nmade to manufacture collectibles by spending G. They\ncan make very rare and difficult-to-acquire items."
     },
     {
       "$id": 264,
@@ -1686,7 +1686,7 @@
       "$id": 279,
       "<8C7DD24D>": "<E1D6BFDD>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Destroying a colony's Flame Clock will liberate it from\nthe Consul's grasp. Once liberated, the people are free to\nact how they like, opening up new info fragments to find."
+      "<DBAF43F0>": "Destroying a colony's Fire Clock of Life will liberate it from\nthe Consul's grasp. Once liberated, the people are free to\nact how they like, opening up new info fragments to find."
     },
     {
       "$id": 280,
@@ -2034,19 +2034,19 @@
       "$id": 337,
       "<8C7DD24D>": "<CDF603E8>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "The Flame Clock"
+      "<DBAF43F0>": "The Fire Clock of Life"
     },
     {
       "$id": 338,
       "<8C7DD24D>": "<5DFD6696>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "The Flame Clock shows the amount of life's flames\nharvested from defeated enemies. The amount of flame\nwill decrease as time passes."
+      "<DBAF43F0>": "The Fire Clock of Life shows the amount of life's flames\nharvested from defeated enemies. The amount of flame\nwill decrease as time passes."
     },
     {
       "$id": 339,
       "<8C7DD24D>": "<3EF1D61E>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Your characters' stats will increase as the Flame Clock\ngauge fills up, so try to keep the gauge filled up as much\nas possible to maintain the stat increases."
+      "<DBAF43F0>": "Your characters' stats will increase as the Fire Clock of Life\ngauge fills up, so try to keep the gauge filled up as much\nas possible to maintain the stat increases."
     },
     {
       "$id": 340,
@@ -2094,19 +2094,19 @@
       "$id": 347,
       "<8C7DD24D>": "<4BBE2FE6>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Rebooting Iron Giant Hulks"
+      "<DBAF43F0>": "Rebooting Iron Giant God Hulks"
     },
     {
       "$id": 348,
       "<8C7DD24D>": "<BF281727>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Throughout Aionios, you will find decrepit Iron Giant hulks\nlying around. They can be rebooted with the use of some\nether cylinders."
+      "<DBAF43F0>": "Throughout Aionios, you will find decrepit Iron Giant God hulks\nlying around. They can be rebooted with the use of some\nether cylinders."
     },
     {
       "$id": 349,
       "<8C7DD24D>": "<62DC4BED>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "A rebooted Iron Giant can manufacture items with its\nFabricator. It will also have containers which conceal\nhard-to-get items, and can even be used as a rest spot."
+      "<DBAF43F0>": "A rebooted Iron Giant God can manufacture items with its\nFabricator. It will also have containers which conceal\nhard-to-get items, and can even be used as a rest spot."
     },
     {
       "$id": 350,
@@ -2220,7 +2220,7 @@
       "$id": 368,
       "<8C7DD24D>": "<C6CB92DB>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "By gaining the power of Ouroboros, the party\nwere freed from the shackles of the Flame Clock."
+      "<DBAF43F0>": "By gaining the power of Ouroboros, the party\nwere freed from the shackles of the Fire Clock of Life."
     },
     {
       "$id": 369,
@@ -2256,7 +2256,7 @@
       "$id": 374,
       "<8C7DD24D>": "<9730DCBD>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Destroying a colony's Flame Clock will liberate them from\ntheir Consul's grasp. Doing so will deepen your affinity\nwith colony citizens and give you useful affinity bonuses."
+      "<DBAF43F0>": "Destroying a colony's Fire Clock of Life will liberate them from\ntheir Consul's grasp. Doing so will deepen your affinity\nwith colony citizens and give you useful affinity bonuses."
     },
     {
       "$id": 375,
@@ -3348,7 +3348,7 @@
       "$id": 556,
       "<8C7DD24D>": "<BAE68F14>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Filling HD Ether Cylinders+"
+      "<DBAF43F0>": "Filling DX Ether Cylinders"
     },
     {
       "$id": 557,
@@ -3414,19 +3414,19 @@
       "$id": 567,
       "<8C7DD24D>": "<4A978A16>",
       "<554EE944>": 14,
-      "<DBAF43F0>": "Better HD Ether Cylinders+"
+      "<DBAF43F0>": "Better DX Ether Cylinders"
     },
     {
       "$id": 568,
       "<8C7DD24D>": "<6ACE9EDC>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Terunii and Okinii's Nopon caravan, whom the party\nassisted, is staying at the Fornis region's Nabam Hills\nCamp. You can improve your HD Ether Cylinders+ there."
+      "<DBAF43F0>": "Terunii and Okinii's Nopon caravan, whom the party\nassisted, is staying at the Fornis region's Nabam Hills\nCamp. You can improve your DX Ether Cylinders there."
     },
     {
       "$id": 569,
       "<8C7DD24D>": "<92E56717>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Using improved HD Ether Cylinders+ allows you to obtain\nmore High Ether from each Ether Sphere."
+      "<DBAF43F0>": "Using improved DX Ether Cylinders allows you to obtain\nmore High Ether from each Ether Sphere."
     },
     {
       "$id": 570,
@@ -3438,7 +3438,7 @@
       "$id": 571,
       "<8C7DD24D>": "<F9923E65>",
       "<554EE944>": 148,
-      "<DBAF43F0>": "Head into the main menu > Characters > Ino > Inoswap\nto reach the Inoswap menu, where you can spend\nHD Ether Cylinders+ to enhance Ino's capabilities."
+      "<DBAF43F0>": "Head into the main menu > Characters > Ino > Ino Rise\nto reach the Ino Rise menu, where you can spend\nDX Ether Cylinders to enhance Ino's capabilities."
     },
     {
       "$id": 572,
@@ -6588,19 +6588,19 @@
       "$id": 1096,
       "<8C7DD24D>": "<DFD63CC4>",
       "<554EE944>": 44,
-      "<DBAF43F0>": "Try using Inoswap"
+      "<DBAF43F0>": "Try using Ino Rise"
     },
     {
       "$id": 1097,
       "<8C7DD24D>": "<A9CDE0B3>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Ino gets stronger through the use of Inoswap.\nFirst, select Characters."
+      "<DBAF43F0>": "Ino gets stronger through the use of Ino Rise.\nFirst, select Characters."
     },
     {
       "$id": 1098,
       "<8C7DD24D>": "<9CD204B7>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Now, switch the character to Ino and select Inoswap."
+      "<DBAF43F0>": "Now, switch the character to Ino and select Ino Rise."
     },
     {
       "$id": 1099,
@@ -6612,13 +6612,13 @@
       "$id": 1100,
       "<8C7DD24D>": "<D67BD72B>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "Use HD Ether Cylinders+ to strengthen Ino. Unlock\nhigher upgrade tiers by finishing Ino's ascension quest."
+      "<DBAF43F0>": "Use DX Ether Cylinders to strengthen Ino. Unlock\nhigher upgrade tiers by finishing Ino's ascension quest."
     },
     {
       "$id": 1101,
       "<8C7DD24D>": "<44C39270>",
       "<554EE944>": 59,
-      "<DBAF43F0>": "[ML:icon icon=btn_l ]: Select Ino / [ML:icon icon=btn_down ]: Select Inoswap / [ML:icon icon=btn_a ]: Confirm"
+      "<DBAF43F0>": "[ML:icon icon=btn_l ]: Select Ino / [ML:icon icon=btn_down ]: Select Ino Rise / [ML:icon icon=btn_a ]: Confirm"
     },
     {
       "$id": 1102,
