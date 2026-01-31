@@ -1,1 +1,3 @@
 .DS_Store
+# Ignore Kate editor swap files
+*.kate-swp
