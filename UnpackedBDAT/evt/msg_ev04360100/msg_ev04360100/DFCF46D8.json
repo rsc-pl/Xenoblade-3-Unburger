@@ -84,7 +84,7 @@
       "$id": 12,
       "<8C7DD24D>": "<D0BAF6B3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "We'll head for the base of the Annihilator from the\nouter rim, where surveillance is relatively light."
+      "<DBAF43F0>": "We'll head for the base of the [System:Ruby rt=Annihilator ]Annihilation Weapon[/System:Ruby] from the\nouter rim, where surveillance is relatively light."
     },
     {
       "$id": 13,
@@ -102,7 +102,7 @@
       "$id": 15,
       "<8C7DD24D>": "<D393D7C9>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "As a result of verifying the data we received from Bolearis,\nI've discovered a structural weak point in the Annihilator."
+      "<DBAF43F0>": "As a result of verifying the data we received from Bolearis,\nI've discovered a structural weak point in the [System:Ruby rt=Annihilator ]Annihilation Weapon[/System:Ruby]."
     },
     {
       "$id": 16,
@@ -120,7 +120,7 @@
       "$id": 18,
       "<8C7DD24D>": "<817465CF>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "The Annihilator is structured to first deactivate the\nBlack Fog, concentrate it, and then fire it all at once."
+      "<DBAF43F0>": "The [System:Ruby rt=Annihilator ]Annihilation Weapon[/System:Ruby] is structured to first deactivate the\nBlack Fog, concentrate it, and then fire it all at once."
     },
     {
       "$id": 19,
@@ -132,7 +132,7 @@
       "$id": 20,
       "<8C7DD24D>": "<91937F4B>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "...it's located in the central part of the\nCastle, and reaching it won't be easy."
+      "<DBAF43F0>": "...it is located in the central part of the\nCastle, and reaching it will not be easy."
     },
     {
       "$id": 21,
@@ -198,13 +198,13 @@
       "$id": 31,
       "<8C7DD24D>": "<5DEB3FA3>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "That's the barrel's cooling mechanism. An enormous\namount of energy flows through the cannon."
+      "<DBAF43F0>": "That is the barrel's cooling mechanism. An enormous\namount of energy flows through the cannon."
     },
     {
       "$id": 32,
       "<8C7DD24D>": "<8C92F12C>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "If it isn't forcibly cooled, it will go out of\ncontrol. That's the device to suppress that."
+      "<DBAF43F0>": "If it is not forcibly cooled, it will go out of\ncontrol. That is the device to suppress it."
     },
     {
       "$id": 33,
@@ -222,7 +222,7 @@
       "$id": 35,
       "<8C7DD24D>": "<13CD1C31>",
       "<554EE944>": 124,
-      "<DBAF43F0>": "They likely couldn't have made it any smaller."
+      "<DBAF43F0>": "They likely could not have made it any smaller."
     },
     {
       "$id": 36,
